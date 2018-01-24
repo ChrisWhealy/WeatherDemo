@@ -1,0 +1,63 @@
+{
+  "name": "Dominica",
+  "iso2": "dm",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Saint Andrew",
+      "id": 0
+    },
+    {
+      "name": "Saint David",
+      "id": 1
+    },
+    {
+      "name": "Saint George",
+      "id": 2
+    },
+    {
+      "name": "Saint John",
+      "id": 3
+    },
+    {
+      "name": "Saint Joseph",
+      "id": 4
+    },
+    {
+      "name": "Saint Luke",
+      "id": 5
+    },
+    {
+      "name": "Saint Mark",
+      "id": 6
+    },
+    {
+      "name": "Saint Patrick",
+      "id": 7
+    },
+    {
+      "name": "Saint Paul",
+      "id": 8
+    },
+    {
+      "name": "Saint Peter",
+      "id": 9
+    }
+  ],
+  "geoRectangle": {
+    "West": -61.4841156006,
+    "East": -61.2441444397,
+    "North": 15.6318101883,
+    "South": 15.2016887665
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -4,
+    "Flg": 2,
+    "Name": "Roseau",
+    "GeoPt": [
+      15.18,
+      -61.24
+    ]
+  }
+}

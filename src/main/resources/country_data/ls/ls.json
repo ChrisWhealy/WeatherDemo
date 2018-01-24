@@ -1,0 +1,67 @@
+{
+  "name": "Lesotho",
+  "iso2": "ls",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Berea",
+      "id": 0
+    },
+    {
+      "name": "Butha-Buthe",
+      "id": 1
+    },
+    {
+      "name": "Leribe",
+      "id": 2
+    },
+    {
+      "name": "Mafeteng",
+      "id": 3
+    },
+    {
+      "name": "Maseru",
+      "id": 4
+    },
+    {
+      "name": "Mohales Hoek",
+      "id": 5
+    },
+    {
+      "name": "Mokhotlong",
+      "id": 6
+    },
+    {
+      "name": "Qachas Nek",
+      "id": 7
+    },
+    {
+      "name": "Quthing",
+      "id": 8
+    },
+    {
+      "name": "Thaba-Tseka",
+      "id": 9
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 10
+    }
+  ],
+  "geoRectangle": {
+    "West": 27.0290660858,
+    "East": 29.465763092,
+    "North": -28.5720558167,
+    "South": -30.6689662933
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Maseru",
+    "GeoPt": [
+      -29.19,
+      27.29
+    ]
+  }
+}

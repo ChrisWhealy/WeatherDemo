@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <title>Weather Information</title>
+
+  <!-- Stylesheet for Weather report app -->
+  <link rel="stylesheet" href="./weather.css" />
+
+  <!-- Leaflet slippy map CSS and JS library -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.2/leaflet.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.2/leaflet.js"></script>
+
+  <script type="text/javascript" src="./browser_name.js"></script>
+  <script type="text/javascript" src="./country_data/countryList.js"></script>
+</head>
+<body>
+<header>
+  <h1>Weather Report</h1>
+</header>
+
+<div id="selectors">
+  <div id="missing_api_key" class="hidden">
+    <h2>Missing API Key</h2>
+    <p>This app is unable to obtain weather information without an Open Weather Map API Key.  To correct this problem, please do the following:</p>
+    <ol><li>If you have not already done so, please register with <a href="https://home.openweathermap.org/users/sign_in">OpenWeatherMap.org</a></li>
+      <li>On the <a href="http://openweathermap.org/appid">How to start page</a>, follow the instructions for creating an API Key</li>
+      <li>Copy your API Key and paste it as the value of property <code>apikey</code> in the data structure <code>owmQueryParams</code> at line 42 of <code>Utils.scala</code></li>
+      <li>Recompile and rerun this app</li>
+    </ol>
+  </div>
+  <div id="safari_msg" class="hidden">
+    <p>Scroll and zoom the map to find your desired location, then click that spot to obtain a weather report.</p>
+  </div>
+  <div id="country_list_div"></div>
+  <div id="region_list_div"></div>
+  <div id="city_list_div"></div>
+</div>
+
+<div id="world_map"></div>
+<div id="weather_info_div" class="hidden"></div>
+
+<!-- Scala.js generated code -->
+<script type="text/javascript" src="../weather-opt.js"></script>
+
+<script type="text/javascript">
+  // Start the user interface
+  Weather.main(browser_name)
+</script>
+</body>
+</html>

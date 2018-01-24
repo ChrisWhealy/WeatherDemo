@@ -1,0 +1,4900 @@
+{
+  "name": "Oruro",
+  "cities": [
+    {
+      "cityName": "Abel Kumo",
+      "lat": -18.8833333,
+      "lng": -66.6166667
+    },
+    {
+      "cityName": "Acanea",
+      "lat": -18.1166667,
+      "lng": -68.65
+    },
+    {
+      "cityName": "Achapata",
+      "lat": -19.2666667,
+      "lng": -67.0166667
+    },
+    {
+      "cityName": "Acoribes",
+      "lat": -18.6166667,
+      "lng": -68.5166667
+    },
+    {
+      "cityName": "Aguacho",
+      "lat": -18.2666667,
+      "lng": -67.2
+    },
+    {
+      "cityName": "Agua Dulce",
+      "lat": -19.6166667,
+      "lng": -67.1166667
+    },
+    {
+      "cityName": "Aguallamaya",
+      "lat": -18.3666667,
+      "lng": -67.2666667
+    },
+    {
+      "cityName": "Agua Milagra",
+      "lat": -19.2833333,
+      "lng": -67.1166667
+    },
+    {
+      "cityName": "Alapaxa",
+      "lat": -19.5666667,
+      "lng": -67.9666667
+    },
+    {
+      "cityName": "Alcaya",
+      "lat": -19.6166667,
+      "lng": -67.7666667
+    },
+    {
+      "cityName": "Alianza",
+      "lat": -19.85,
+      "lng": -67.7333333
+    },
+    {
+      "cityName": "Allituma",
+      "lat": -19.3166667,
+      "lng": -68.3666667
+    },
+    {
+      "cityName": "Allpaqueri",
+      "lat": -17.85,
+      "lng": -68.4333333
+    },
+    {
+      "cityName": "Alsuri",
+      "lat": -17.8333333,
+      "lng": -68.0666667
+    },
+    {
+      "cityName": "Amachuma",
+      "lat": -18.4,
+      "lng": -68.35
+    },
+    {
+      "cityName": "Amachuma Grande",
+      "lat": -18.4,
+      "lng": -68.3
+    },
+    {
+      "cityName": "Amachumani",
+      "lat": -17.6166667,
+      "lng": -67.4
+    },
+    {
+      "cityName": "Amaro",
+      "lat": -19.5166667,
+      "lng": -68.4833333
+    },
+    {
+      "cityName": "Anarchuyo",
+      "lat": -19.35,
+      "lng": -67.2333333
+    },
+    {
+      "cityName": "Ancacato",
+      "lat": -18.8833333,
+      "lng": -66.6666667
+    },
+    {
+      "cityName": "Ancaravi",
+      "lat": -18.4,
+      "lng": -67.7666667
+    },
+    {
+      "cityName": "Ancocahua",
+      "lat": -18.5666667,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "Ancocala",
+      "lat": -19.4333333,
+      "lng": -67.4
+    },
+    {
+      "cityName": "Ancocola",
+      "lat": -18.4333333,
+      "lng": -67.6833333
+    },
+    {
+      "cityName": "Ancoyo",
+      "lat": -19.7166667,
+      "lng": -67.6833333
+    },
+    {
+      "cityName": "Andamarca",
+      "lat": -18.7666667,
+      "lng": -67.5166667
+    },
+    {
+      "cityName": "Andapata",
+      "lat": -18.2333333,
+      "lng": -67.9666667
+    },
+    {
+      "cityName": "Ánimas",
+      "lat": -18.3666667,
+      "lng": -67.5833333
+    },
+    {
+      "cityName": "Anka Kollu",
+      "lat": -18.5166667,
+      "lng": -68
+    },
+    {
+      "cityName": "Anokolke",
+      "lat": -17.8666667,
+      "lng": -68.8333333
+    },
+    {
+      "cityName": "Antacollo",
+      "lat": -18.1666667,
+      "lng": -68.6
+    },
+    {
+      "cityName": "Antequera",
+      "lat": -18.4833333,
+      "lng": -66.8833333
+    },
+    {
+      "cityName": "Anticuragua",
+      "lat": -18.25,
+      "lng": -68.4666667
+    },
+    {
+      "cityName": "Arca",
+      "lat": -17.9166667,
+      "lng": -66.7
+    },
+    {
+      "cityName": "Armala",
+      "lat": -18.3333333,
+      "lng": -68.1833333
+    },
+    {
+      "cityName": "Aroma",
+      "lat": -19.3833333,
+      "lng": -67.35
+    },
+    {
+      "cityName": "Arpasiña",
+      "lat": -18,
+      "lng": -68.15
+    },
+    {
+      "cityName": "Ataraca",
+      "lat": -17.75,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Auqui Kollu",
+      "lat": -19.3833333,
+      "lng": -67.6
+    },
+    {
+      "cityName": "Avicaya",
+      "lat": -18.5333333,
+      "lng": -66.8666667
+    },
+    {
+      "cityName": "Ayparahui",
+      "lat": -19.0333333,
+      "lng": -67.9333333
+    },
+    {
+      "cityName": "Azurita",
+      "lat": -18.0666667,
+      "lng": -68.15
+    },
+    {
+      "cityName": "Barcal Vieja",
+      "lat": -18,
+      "lng": -67.3166667
+    },
+    {
+      "cityName": "Belem",
+      "lat": -18.0666667,
+      "lng": -67.9333333
+    },
+    {
+      "cityName": "Belén",
+      "lat": -17.8,
+      "lng": -67.3333333
+    },
+    {
+      "cityName": "Belén de Anamarca",
+      "lat": -18.8,
+      "lng": -67.65
+    },
+    {
+      "cityName": "Belén de Choquecota",
+      "lat": -17.9833333,
+      "lng": -67.85
+    },
+    {
+      "cityName": "Bella Vista",
+      "lat": -17.7,
+      "lng": -67.5
+    },
+    {
+      "cityName": "Bella Vista de Cañaviri",
+      "lat": -18.65,
+      "lng": -66.9166667
+    },
+    {
+      "cityName": "Berlín",
+      "lat": -18.5833333,
+      "lng": -68.2333333
+    },
+    {
+      "cityName": "Berros",
+      "lat": -18.3,
+      "lng": -68.5833333
+    },
+    {
+      "cityName": "Bolivar-Sucre",
+      "lat": -19.2666667,
+      "lng": -68.6166667
+    },
+    {
+      "cityName": "Bombo",
+      "lat": -18.3666667,
+      "lng": -66.7666667
+    },
+    {
+      "cityName": "Burguillos",
+      "lat": -17.95,
+      "lng": -67.35
+    },
+    {
+      "cityName": "Cacachaca",
+      "lat": -18.7666667,
+      "lng": -66.5833333
+    },
+    {
+      "cityName": "Cacapongo",
+      "lat": -17.5833333,
+      "lng": -67.1333333
+    },
+    {
+      "cityName": "Cachicachi",
+      "lat": -18,
+      "lng": -66.7666667
+    },
+    {
+      "cityName": "Cachivilque",
+      "lat": -19.5333333,
+      "lng": -67.2333333
+    },
+    {
+      "cityName": "Cachiyuyo",
+      "lat": -18.8333333,
+      "lng": -66.4166667
+    },
+    {
+      "cityName": "Cacoma",
+      "lat": -19.6833333,
+      "lng": -67.8333333
+    },
+    {
+      "cityName": "Cacota",
+      "lat": -19.5,
+      "lng": -67.6333333
+    },
+    {
+      "cityName": "Caguana",
+      "lat": -19.0833333,
+      "lng": -68.5333333
+    },
+    {
+      "cityName": "Cahuana",
+      "lat": -19.05,
+      "lng": -68.5
+    },
+    {
+      "cityName": "Caico",
+      "lat": -19.8333333,
+      "lng": -67.7166667
+    },
+    {
+      "cityName": "Caihuasi",
+      "lat": -17.7166667,
+      "lng": -66.9833333
+    },
+    {
+      "cityName": "Cala",
+      "lat": -18.6,
+      "lng": -67.8
+    },
+    {
+      "cityName": "Calacala",
+      "lat": -18.0166667,
+      "lng": -66.9333333
+    },
+    {
+      "cityName": "Calacarita",
+      "lat": -17.85,
+      "lng": -66.7333333
+    },
+    {
+      "cityName": "Calacata",
+      "lat": -18.35,
+      "lng": -66.9666667
+    },
+    {
+      "cityName": "Calacollo",
+      "lat": -19,
+      "lng": -66.6
+    },
+    {
+      "cityName": "Calacota",
+      "lat": -18.1833333,
+      "lng": -68
+    },
+    {
+      "cityName": "Calasava",
+      "lat": -17.8,
+      "lng": -68.4166667
+    },
+    {
+      "cityName": "Callari",
+      "lat": -18.1166667,
+      "lng": -67.5
+    },
+    {
+      "cityName": "Callaya",
+      "lat": -18.2166667,
+      "lng": -68.1833333
+    },
+    {
+      "cityName": "Callo Alca",
+      "lat": -19.5166667,
+      "lng": -67.6833333
+    },
+    {
+      "cityName": "Callo Palca",
+      "lat": -19.5166667,
+      "lng": -67.7333333
+    },
+    {
+      "cityName": "Calulo",
+      "lat": -18.55,
+      "lng": -67.4833333
+    },
+    {
+      "cityName": "Campanluri",
+      "lat": -19.2166667,
+      "lng": -66.15
+    },
+    {
+      "cityName": "Cañaikollu",
+      "lat": -18.8333333,
+      "lng": -67.4666667
+    },
+    {
+      "cityName": "Canancota",
+      "lat": -19.5,
+      "lng": -67.2
+    },
+    {
+      "cityName": "Cañaza",
+      "lat": -18.3166667,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Canda",
+      "lat": -18.15,
+      "lng": -68.7
+    },
+    {
+      "cityName": "Cangallín",
+      "lat": -18.3833333,
+      "lng": -67.7166667
+    },
+    {
+      "cityName": "Canto Nogachi",
+      "lat": -18.4166667,
+      "lng": -68.8833333
+    },
+    {
+      "cityName": "Capachos",
+      "lat": -17.8833333,
+      "lng": -67.0333333
+    },
+    {
+      "cityName": "Capcollo",
+      "lat": -19.2666667,
+      "lng": -67.5333333
+    },
+    {
+      "cityName": "Capi",
+      "lat": -18.7833333,
+      "lng": -68.2
+    },
+    {
+      "cityName": "Capuyo",
+      "lat": -19.1833333,
+      "lng": -67.3666667
+    },
+    {
+      "cityName": "Caquingora",
+      "lat": -17.85,
+      "lng": -67.2833333
+    },
+    {
+      "cityName": "Caracollo",
+      "lat": -17.65,
+      "lng": -67.1666667
+    },
+    {
+      "cityName": "Carallumaya",
+      "lat": -18.4,
+      "lng": -68.7
+    },
+    {
+      "cityName": "Carangas",
+      "lat": -18.9333333,
+      "lng": -68.6166667
+    },
+    {
+      "cityName": "Caranguillas",
+      "lat": -18.5333333,
+      "lng": -68.9666667
+    },
+    {
+      "cityName": "Carasilla",
+      "lat": -18.1,
+      "lng": -67.2833333
+    },
+    {
+      "cityName": "Caricari",
+      "lat": -18.3,
+      "lng": -67.3
+    },
+    {
+      "cityName": "Caripaya",
+      "lat": -18.4833333,
+      "lng": -67.85
+    },
+    {
+      "cityName": "Carishuaya",
+      "lat": -18.4333333,
+      "lng": -67.85
+    },
+    {
+      "cityName": "Casitas",
+      "lat": -17.7666667,
+      "lng": -68.3333333
+    },
+    {
+      "cityName": "Castilloma",
+      "lat": -19.5166667,
+      "lng": -67.5166667
+    },
+    {
+      "cityName": "Catapalca",
+      "lat": -18.7,
+      "lng": -68.85
+    },
+    {
+      "cityName": "Cataricagua",
+      "lat": -18.2333333,
+      "lng": -66.8166667
+    },
+    {
+      "cityName": "Catariri",
+      "lat": -18.5833333,
+      "lng": -68.8166667
+    },
+    {
+      "cityName": "Catasaya",
+      "lat": -17.9833333,
+      "lng": -68.85
+    },
+    {
+      "cityName": "Catavi",
+      "lat": -19.2833333,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "Catuyo",
+      "lat": -18.4833333,
+      "lng": -67.5
+    },
+    {
+      "cityName": "Caviña",
+      "lat": -17.5166667,
+      "lng": -67.0666667
+    },
+    {
+      "cityName": "Cayacoto",
+      "lat": -19.4333333,
+      "lng": -67.45
+    },
+    {
+      "cityName": "Cayhuasi",
+      "lat": -17.65,
+      "lng": -67.0333333
+    },
+    {
+      "cityName": "Ceballuco",
+      "lat": -17.85,
+      "lng": -68.05
+    },
+    {
+      "cityName": "Cerrillo",
+      "lat": -17.6166667,
+      "lng": -67.2666667
+    },
+    {
+      "cityName": "Chacachita",
+      "lat": -17.7,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Chacari",
+      "lat": -18.7833333,
+      "lng": -68.7666667
+    },
+    {
+      "cityName": "Chachacomani",
+      "lat": -18.35,
+      "lng": -68.95
+    },
+    {
+      "cityName": "Chacoma",
+      "lat": -18.2166667,
+      "lng": -67.9
+    },
+    {
+      "cityName": "Challacolla",
+      "lat": -18.0666667,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Challacollo",
+      "lat": -17.9166667,
+      "lng": -68.7333333
+    },
+    {
+      "cityName": "Challacota",
+      "lat": -19.25,
+      "lng": -67.7666667
+    },
+    {
+      "cityName": "Challa Cruz",
+      "lat": -18.4833333,
+      "lng": -67.4
+    },
+    {
+      "cityName": "Challahuani",
+      "lat": -18.35,
+      "lng": -67.9
+    },
+    {
+      "cityName": "Challahuma",
+      "lat": -19.0333333,
+      "lng": -67.7666667
+    },
+    {
+      "cityName": "Challa Pampa",
+      "lat": -17.8333333,
+      "lng": -67.0833333
+    },
+    {
+      "cityName": "Challapampa",
+      "lat": -18.5166667,
+      "lng": -66.6833333
+    },
+    {
+      "cityName": "Challapata",
+      "lat": -18.9,
+      "lng": -66.7666667
+    },
+    {
+      "cityName": "Challavira",
+      "lat": -19.6333333,
+      "lng": -67.2166667
+    },
+    {
+      "cityName": "Challavito",
+      "lat": -18.0166667,
+      "lng": -67.5833333
+    },
+    {
+      "cityName": "Challhua",
+      "lat": -19.5666667,
+      "lng": -67.35
+    },
+    {
+      "cityName": "Chalviri",
+      "lat": -18.35,
+      "lng": -68.7166667
+    },
+    {
+      "cityName": "Chaña",
+      "lat": -19.15,
+      "lng": -66.3333333
+    },
+    {
+      "cityName": "Changamoco",
+      "lat": -18.1833333,
+      "lng": -68.7666667
+    },
+    {
+      "cityName": "Chapi",
+      "lat": -18.7833333,
+      "lng": -68.8666667
+    },
+    {
+      "cityName": "Chapicollo",
+      "lat": -17.85,
+      "lng": -68.7166667
+    },
+    {
+      "cityName": "Chapiri",
+      "lat": -17.95,
+      "lng": -68.4
+    },
+    {
+      "cityName": "Chaquilla",
+      "lat": -18.3,
+      "lng": -66.6166667
+    },
+    {
+      "cityName": "Chata",
+      "lat": -17.7166667,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "Chiara",
+      "lat": -18.8,
+      "lng": -67.8666667
+    },
+    {
+      "cityName": "Chiaraque",
+      "lat": -17.9333333,
+      "lng": -68.2833333
+    },
+    {
+      "cityName": "Chiarcollo",
+      "lat": -19.6833333,
+      "lng": -68.0166667
+    },
+    {
+      "cityName": "Chiar Kkollu",
+      "lat": -18.8333333,
+      "lng": -68.2666667
+    },
+    {
+      "cityName": "Chiar Kollu",
+      "lat": -19.7166667,
+      "lng": -68.0333333
+    },
+    {
+      "cityName": "Chijlla",
+      "lat": -18.3833333,
+      "lng": -68.0166667
+    },
+    {
+      "cityName": "Chijllani",
+      "lat": -19.05,
+      "lng": -67.65
+    },
+    {
+      "cityName": "Chilaco",
+      "lat": -19.8,
+      "lng": -67.8166667
+    },
+    {
+      "cityName": "Chilcani",
+      "lat": -18.15,
+      "lng": -67.7666667
+    },
+    {
+      "cityName": "Chillagua",
+      "lat": -18.5666667,
+      "lng": -68.2166667
+    },
+    {
+      "cityName": "Chinchillani",
+      "lat": -18.7,
+      "lng": -68.8833333
+    },
+    {
+      "cityName": "Chipaya",
+      "lat": -19.0166667,
+      "lng": -68.1
+    },
+    {
+      "cityName": "Chiriquiña",
+      "lat": -17.8166667,
+      "lng": -68.35
+    },
+    {
+      "cityName": "Chiro",
+      "lat": -19.3833333,
+      "lng": -66.9166667
+    },
+    {
+      "cityName": "Chiruyo",
+      "lat": -18.8,
+      "lng": -66.3333333
+    },
+    {
+      "cityName": "Chiza",
+      "lat": -19.3,
+      "lng": -68.3666667
+    },
+    {
+      "cityName": "Chocarasi",
+      "lat": -18.3666667,
+      "lng": -67.5333333
+    },
+    {
+      "cityName": "Chocaya",
+      "lat": -18.2,
+      "lng": -67.1666667
+    },
+    {
+      "cityName": "Choclo",
+      "lat": -18.6833333,
+      "lng": -68.6
+    },
+    {
+      "cityName": "Chocos",
+      "lat": -18.0166667,
+      "lng": -68.7333333
+    },
+    {
+      "cityName": "Chollusi",
+      "lat": -18.9166667,
+      "lng": -67.3166667
+    },
+    {
+      "cityName": "Choquecota",
+      "lat": -18.1,
+      "lng": -67.8833333
+    },
+    {
+      "cityName": "Choquemarca",
+      "lat": -18.1,
+      "lng": -68.75
+    },
+    {
+      "cityName": "Choquenasa",
+      "lat": -18.3333333,
+      "lng": -66.9
+    },
+    {
+      "cityName": "Chorcasa",
+      "lat": -19.7166667,
+      "lng": -68.05
+    },
+    {
+      "cityName": "Choro",
+      "lat": -18.3666667,
+      "lng": -67.1666667
+    },
+    {
+      "cityName": "Chuchilaya",
+      "lat": -18.8666667,
+      "lng": -67.5166667
+    },
+    {
+      "cityName": "Chuiña",
+      "lat": -18.15,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "Chujlla",
+      "lat": -18.4666667,
+      "lng": -66.8666667
+    },
+    {
+      "cityName": "Chulluncayani",
+      "lat": -19.0333333,
+      "lng": -67.6333333
+    },
+    {
+      "cityName": "Chuquichambi",
+      "lat": -17.9,
+      "lng": -67.8
+    },
+    {
+      "cityName": "Chuquiña",
+      "lat": -17.7833333,
+      "lng": -67.45
+    },
+    {
+      "cityName": "Churacari",
+      "lat": -19.7833333,
+      "lng": -67.5833333
+    },
+    {
+      "cityName": "Churu",
+      "lat": -19.5666667,
+      "lng": -68.4166667
+    },
+    {
+      "cityName": "Chusquiri",
+      "lat": -19.45,
+      "lng": -67.5666667
+    },
+    {
+      "cityName": "Ciudad Oruro",
+      "lat": -17.9833333,
+      "lng": -67.15
+    },
+    {
+      "cityName": "Coa Coani",
+      "lat": -18.6833333,
+      "lng": -66.7166667
+    },
+    {
+      "cityName": "Coata",
+      "lat": -19.7666667,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "Cochanrilque",
+      "lat": -18.1333333,
+      "lng": -67.8666667
+    },
+    {
+      "cityName": "Coche Willque",
+      "lat": -19.5833333,
+      "lng": -67.2833333
+    },
+    {
+      "cityName": "Coipasa",
+      "lat": -19.2833333,
+      "lng": -68.2833333
+    },
+    {
+      "cityName": "Colcha",
+      "lat": -19.1833333,
+      "lng": -67.5333333
+    },
+    {
+      "cityName": "Colchamarca",
+      "lat": -17.7,
+      "lng": -67.3666667
+    },
+    {
+      "cityName": "Collhuacota",
+      "lat": -17.9666667,
+      "lng": -68.8333333
+    },
+    {
+      "cityName": "Colliri",
+      "lat": -18.25,
+      "lng": -67.55
+    },
+    {
+      "cityName": "Collpa",
+      "lat": -18.9666667,
+      "lng": -66.7166667
+    },
+    {
+      "cityName": "Collpamayo",
+      "lat": -18.2333333,
+      "lng": -66.9333333
+    },
+    {
+      "cityName": "Colpa",
+      "lat": -17.9166667,
+      "lng": -66.8666667
+    },
+    {
+      "cityName": "Comisario",
+      "lat": -18.2166667,
+      "lng": -68.9666667
+    },
+    {
+      "cityName": "Comojo",
+      "lat": -19.2166667,
+      "lng": -68.4
+    },
+    {
+      "cityName": "Comunidad Anacasi",
+      "lat": -17.85,
+      "lng": -67.3833333
+    },
+    {
+      "cityName": "Comunidad Cantu",
+      "lat": -17.8333333,
+      "lng": -67.05
+    },
+    {
+      "cityName": "Comunidad Caucha Pampa",
+      "lat": -19.0833333,
+      "lng": -67.9166667
+    },
+    {
+      "cityName": "Comunidad Colque Khaua",
+      "lat": -17.95,
+      "lng": -67.8333333
+    },
+    {
+      "cityName": "Comunidad Jakke Jaychata",
+      "lat": -17.8,
+      "lng": -67.75
+    },
+    {
+      "cityName": "Comunidad Jankhollo",
+      "lat": -17.6833333,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Comunidad Jatita",
+      "lat": -17.7333333,
+      "lng": -67.15
+    },
+    {
+      "cityName": "Comunidad Lakha Pucara",
+      "lat": -17.65,
+      "lng": -67.1
+    },
+    {
+      "cityName": "Comunidad Minador",
+      "lat": -16.3833333,
+      "lng": -58.6333333
+    },
+    {
+      "cityName": "Comunidad Octahua",
+      "lat": -17.6666667,
+      "lng": -67.0333333
+    },
+    {
+      "cityName": "Comunidad Rosas Pampa",
+      "lat": -17.9333333,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "Comunidad San Juan",
+      "lat": -17.8666667,
+      "lng": -67.0666667
+    },
+    {
+      "cityName": "Comunidad Saytuyo",
+      "lat": -17.75,
+      "lng": -67.2166667
+    },
+    {
+      "cityName": "Comunidad Taraqui",
+      "lat": -17.7166667,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Comunidad Thola Pata",
+      "lat": -17.85,
+      "lng": -67.8166667
+    },
+    {
+      "cityName": "Concepción de Belén",
+      "lat": -19.2,
+      "lng": -67.8833333
+    },
+    {
+      "cityName": "Concha Marca",
+      "lat": -17.6666667,
+      "lng": -67.3166667
+    },
+    {
+      "cityName": "Conchiri",
+      "lat": -17.7333333,
+      "lng": -66.9666667
+    },
+    {
+      "cityName": "Condo",
+      "lat": -19.0333333,
+      "lng": -66.75
+    },
+    {
+      "cityName": "Condor Chincoa",
+      "lat": -17.8666667,
+      "lng": -66.9333333
+    },
+    {
+      "cityName": "Condor",
+      "lat": -18.4666667,
+      "lng": -66.8
+    },
+    {
+      "cityName": "Condoriri",
+      "lat": -17.5333333,
+      "lng": -67.2333333
+    },
+    {
+      "cityName": "Coopata",
+      "lat": -18.2666667,
+      "lng": -67.3833333
+    },
+    {
+      "cityName": "Copacabana",
+      "lat": -18.1666667,
+      "lng": -67.45
+    },
+    {
+      "cityName": "Copa Phujro",
+      "lat": -17.6,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Copaquila",
+      "lat": -19.2166667,
+      "lng": -67.1166667
+    },
+    {
+      "cityName": "Copasalli",
+      "lat": -19.3333333,
+      "lng": -67.5333333
+    },
+    {
+      "cityName": "Corimbora",
+      "lat": -19.3666667,
+      "lng": -67.3
+    },
+    {
+      "cityName": "Corque",
+      "lat": -18.35,
+      "lng": -67.6833333
+    },
+    {
+      "cityName": "Corral Pampa",
+      "lat": -18.5666667,
+      "lng": -67.6833333
+    },
+    {
+      "cityName": "Cosapa",
+      "lat": -18.1833333,
+      "lng": -68.6666667
+    },
+    {
+      "cityName": "Cosillahui",
+      "lat": -18.7833333,
+      "lng": -68.2666667
+    },
+    {
+      "cityName": "Cotachoro",
+      "lat": -18.3666667,
+      "lng": -67.2166667
+    },
+    {
+      "cityName": "Cota",
+      "lat": -19.2666667,
+      "lng": -68.5333333
+    },
+    {
+      "cityName": "Cotaña",
+      "lat": -18.8166667,
+      "lng": -68.7166667
+    },
+    {
+      "cityName": "Cotasi",
+      "lat": -18.6666667,
+      "lng": -68.8666667
+    },
+    {
+      "cityName": "Cotimbor",
+      "lat": -19.3333333,
+      "lng": -67.2166667
+    },
+    {
+      "cityName": "Crucero",
+      "lat": -17.8166667,
+      "lng": -67.05
+    },
+    {
+      "cityName": "Crucero de Belén",
+      "lat": -18.1833333,
+      "lng": -67.15
+    },
+    {
+      "cityName": "Cruzan",
+      "lat": -18.15,
+      "lng": -67.8333333
+    },
+    {
+      "cityName": "Cruzani",
+      "lat": -17.3666667,
+      "lng": -68.5666667
+    },
+    {
+      "cityName": "Cruz de Huayllamarca",
+      "lat": -18.7333333,
+      "lng": -67.75
+    },
+    {
+      "cityName": "Cruz de Huayllas",
+      "lat": -18.9666667,
+      "lng": -68.5166667
+    },
+    {
+      "cityName": "Cruz de Lupe",
+      "lat": -18.5833333,
+      "lng": -67.7833333
+    },
+    {
+      "cityName": "Cruz Pallka",
+      "lat": -19.5833333,
+      "lng": -67.15
+    },
+    {
+      "cityName": "Cucupampa",
+      "lat": -17.8166667,
+      "lng": -66.8666667
+    },
+    {
+      "cityName": "Cucuyo",
+      "lat": -19.25,
+      "lng": -66.7166667
+    },
+    {
+      "cityName": "Culchapata",
+      "lat": -19.2,
+      "lng": -67.1666667
+    },
+    {
+      "cityName": "Culche",
+      "lat": -19.3,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "Culta",
+      "lat": -17.9666667,
+      "lng": -68.0333333
+    },
+    {
+      "cityName": "Culto",
+      "lat": -18.1,
+      "lng": -68.8333333
+    },
+    {
+      "cityName": "Cusuni",
+      "lat": -18.8,
+      "lng": -66.5833333
+    },
+    {
+      "cityName": "Cutimarca",
+      "lat": -18.1833333,
+      "lng": -66.9333333
+    },
+    {
+      "cityName": "Dalence",
+      "lat": -17.9666667,
+      "lng": -67.0166667
+    },
+    {
+      "cityName": "Diablasa",
+      "lat": -19.7166667,
+      "lng": -68.3166667
+    },
+    {
+      "cityName": "El Cruce",
+      "lat": -17.9666667,
+      "lng": -67.5666667
+    },
+    {
+      "cityName": "El Tambillo",
+      "lat": -19.4166667,
+      "lng": -67.3333333
+    },
+    {
+      "cityName": "Escara",
+      "lat": -18.8666667,
+      "lng": -68.2166667
+    },
+    {
+      "cityName": "Esmeralda",
+      "lat": -18.8333333,
+      "lng": -68.2833333
+    },
+    {
+      "cityName": "Esperanza",
+      "lat": -17.8166667,
+      "lng": -68.7833333
+    },
+    {
+      "cityName": "Estancai Villa Villa",
+      "lat": -18.7288889,
+      "lng": -68.6888889
+    },
+    {
+      "cityName": "Estancia Acalaya",
+      "lat": -19.7333333,
+      "lng": -67.8666667
+    },
+    {
+      "cityName": "Estancia Achooco",
+      "lat": -19.6,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "Estancia Agua de Castilla",
+      "lat": -18.75,
+      "lng": -67.9166667
+    },
+    {
+      "cityName": "Estancia Agua Rica",
+      "lat": -18.3166667,
+      "lng": -68.6
+    },
+    {
+      "cityName": "Estancia Alaroco",
+      "lat": -18.9166667,
+      "lng": -68.5333333
+    },
+    {
+      "cityName": "Estancia Alcamarca",
+      "lat": -17.6,
+      "lng": -67.45
+    },
+    {
+      "cityName": "Estancia Amachuma",
+      "lat": -17.85,
+      "lng": -67
+    },
+    {
+      "cityName": "Estancia Andapata",
+      "lat": -18.5666667,
+      "lng": -67.7666667
+    },
+    {
+      "cityName": "Estancia Anta Pichaca",
+      "lat": -18.4166667,
+      "lng": -67.75
+    },
+    {
+      "cityName": "Estancia Ara Jokho",
+      "lat": -17.9666667,
+      "lng": -67.7
+    },
+    {
+      "cityName": "Estancia Ari Villka",
+      "lat": -18.2166667,
+      "lng": -67.55
+    },
+    {
+      "cityName": "Estancia Arko",
+      "lat": -17.9833333,
+      "lng": -66.7
+    },
+    {
+      "cityName": "Estancia Aulamaya Laucapata",
+      "lat": -18.6833333,
+      "lng": -68.3166667
+    },
+    {
+      "cityName": "Estancia Aychu",
+      "lat": -18.0166667,
+      "lng": -68.6
+    },
+    {
+      "cityName": "Estancia Belén",
+      "lat": -18.9,
+      "lng": -67.7833333
+    },
+    {
+      "cityName": "Estancia Bella Vista",
+      "lat": -18.05,
+      "lng": -67.6333333
+    },
+    {
+      "cityName": "Estancia Beralinez",
+      "lat": -19.2,
+      "lng": -68.5666667
+    },
+    {
+      "cityName": "Estancia Buena Vista Jalakheri",
+      "lat": -18.65,
+      "lng": -67.5166667
+    },
+    {
+      "cityName": "Estancia Cacharani",
+      "lat": -17.95,
+      "lng": -67.9
+    },
+    {
+      "cityName": "Estancia Cachi Cachi",
+      "lat": -17.9166667,
+      "lng": -66.9
+    },
+    {
+      "cityName": "Estancia Cacohata",
+      "lat": -19.55,
+      "lng": -67.5666667
+    },
+    {
+      "cityName": "Estancia Cacoma",
+      "lat": -19.7666667,
+      "lng": -67.9166667
+    },
+    {
+      "cityName": "Estancia Caiman Chico",
+      "lat": -17.8166667,
+      "lng": -66.7333333
+    },
+    {
+      "cityName": "Estancia Calacollo",
+      "lat": -18.8411111,
+      "lng": -68.6902778
+    },
+    {
+      "cityName": "Estancia Calasaya",
+      "lat": -19.35,
+      "lng": -68.25
+    },
+    {
+      "cityName": "Estancia Calcalahuaya",
+      "lat": -19.5,
+      "lng": -68.45
+    },
+    {
+      "cityName": "Estancia Callchani",
+      "lat": -17.5,
+      "lng": -67.1333333
+    },
+    {
+      "cityName": "Estancia Calle",
+      "lat": -17.8166667,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "Estancia Caloyo",
+      "lat": -19.2166667,
+      "lng": -67.5833333
+    },
+    {
+      "cityName": "Estancia Camaquene",
+      "lat": -18.9852778,
+      "lng": -68.6486111
+    },
+    {
+      "cityName": "Estancia Campo Grande",
+      "lat": -18.4111111,
+      "lng": -68.7497222
+    },
+    {
+      "cityName": "Estancia Canucata",
+      "lat": -18.75,
+      "lng": -67.9
+    },
+    {
+      "cityName": "Estancia Caparchi",
+      "lat": -19.1166667,
+      "lng": -68.0833333
+    },
+    {
+      "cityName": "Estancia Capilla",
+      "lat": -18.1766667,
+      "lng": -68.9494444
+    },
+    {
+      "cityName": "Estancia Carcanchuni",
+      "lat": -19.0166667,
+      "lng": -68.7833333
+    },
+    {
+      "cityName": "Estancia Carhuansilla",
+      "lat": -19.1333333,
+      "lng": -67.7166667
+    },
+    {
+      "cityName": "Estancia Carpa",
+      "lat": -18.9166667,
+      "lng": -68.1333333
+    },
+    {
+      "cityName": "Estancia Caruta",
+      "lat": -19.6333333,
+      "lng": -67.9
+    },
+    {
+      "cityName": "Estancia Casa Blanca",
+      "lat": -17.5833333,
+      "lng": -67.2333333
+    },
+    {
+      "cityName": "Estancia Casinquira",
+      "lat": -19.1833333,
+      "lng": -68.4666667
+    },
+    {
+      "cityName": "Estancia Castilluma",
+      "lat": -17.9333333,
+      "lng": -68
+    },
+    {
+      "cityName": "Estancia Catariri",
+      "lat": -18.3830556,
+      "lng": -68.5752778
+    },
+    {
+      "cityName": "Estancia Catchi Vinto",
+      "lat": -19.6,
+      "lng": -67.5666667
+    },
+    {
+      "cityName": "Estancia Caucaruma",
+      "lat": -17.5833333,
+      "lng": -67.1
+    },
+    {
+      "cityName": "Estancia Caylla Choro",
+      "lat": -18.2544444,
+      "lng": -68.7002778
+    },
+    {
+      "cityName": "Estancia Cerro Grande",
+      "lat": -19.6333333,
+      "lng": -68
+    },
+    {
+      "cityName": "Estancia Chacori",
+      "lat": -18.8213889,
+      "lng": -68.6966667
+    },
+    {
+      "cityName": "Estancia Chacu Uta",
+      "lat": -17.95,
+      "lng": -68.7833333
+    },
+    {
+      "cityName": "Estancia Chaiña Chuto",
+      "lat": -18.1666667,
+      "lng": -69.0333333
+    },
+    {
+      "cityName": "Estancia Chajualla",
+      "lat": -18.25,
+      "lng": -68.7166667
+    },
+    {
+      "cityName": "Estancia Chaka Pata",
+      "lat": -18.5,
+      "lng": -68
+    },
+    {
+      "cityName": "Estancia Chakiri",
+      "lat": -19.5166667,
+      "lng": -68.4166667
+    },
+    {
+      "cityName": "Estancia Challuchani",
+      "lat": -17.9,
+      "lng": -67.3666667
+    },
+    {
+      "cityName": "Estancia Challuma",
+      "lat": -19.5666667,
+      "lng": -68
+    },
+    {
+      "cityName": "Estancia Chambi",
+      "lat": -17.95,
+      "lng": -67.3833333
+    },
+    {
+      "cityName": "Estancia Champa Huyo",
+      "lat": -18.2538889,
+      "lng": -68.6608333
+    },
+    {
+      "cityName": "Estancia Chaña Huano",
+      "lat": -18.6333333,
+      "lng": -68.45
+    },
+    {
+      "cityName": "Estancia Chapi Kkollu",
+      "lat": -19.15,
+      "lng": -67.5166667
+    },
+    {
+      "cityName": "Estancia Chapiri Pacayani",
+      "lat": -18.7686111,
+      "lng": -68.7452778
+    },
+    {
+      "cityName": "Estancia Chiar Huyo",
+      "lat": -17.5166667,
+      "lng": -67.0833333
+    },
+    {
+      "cityName": "Estancia Chiar Kkollu",
+      "lat": -18.0044444,
+      "lng": -68.6736111
+    },
+    {
+      "cityName": "Estancia Chiar Phujo Pata",
+      "lat": -17.9,
+      "lng": -68.1
+    },
+    {
+      "cityName": "Estancia Chijini",
+      "lat": -17.65,
+      "lng": -67.3166667
+    },
+    {
+      "cityName": "Estancia Chiji Villqui",
+      "lat": -17.9166667,
+      "lng": -67.2833333
+    },
+    {
+      "cityName": "Estancia Chijlloma",
+      "lat": -18.55,
+      "lng": -68.3333333
+    },
+    {
+      "cityName": "Estancia Chila",
+      "lat": -18.8041667,
+      "lng": -68.5647222
+    },
+    {
+      "cityName": "Estancia Chiliri",
+      "lat": -18.9891667,
+      "lng": -68.67
+    },
+    {
+      "cityName": "Estancia Chillcani",
+      "lat": -17.5833333,
+      "lng": -67.0666667
+    },
+    {
+      "cityName": "Estancia Chillea",
+      "lat": -17.8333333,
+      "lng": -66.8166667
+    },
+    {
+      "cityName": "Estancia Chillguilla",
+      "lat": -19.85,
+      "lng": -67.7166667
+    },
+    {
+      "cityName": "Estancia Chilluma",
+      "lat": -17.6333333,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Estancia Chojña Jahuira",
+      "lat": -18.3883333,
+      "lng": -68.5580556
+    },
+    {
+      "cityName": "Estancia Chojña Kkota",
+      "lat": -17.9166667,
+      "lng": -66.6833333
+    },
+    {
+      "cityName": "Estancia Chosco Acero de Valencia",
+      "lat": -18.7833333,
+      "lng": -67.9333333
+    },
+    {
+      "cityName": "Estancia Chuchulaya",
+      "lat": -18.25,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "Estancia Chulmani",
+      "lat": -18.9022222,
+      "lng": -68.5336111
+    },
+    {
+      "cityName": "Estancia Chulucuma",
+      "lat": -19.2,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "Estancia Chunchuñuri",
+      "lat": -18.95,
+      "lng": -68.8
+    },
+    {
+      "cityName": "Estancia Chuquiaquillo",
+      "lat": -17.6333333,
+      "lng": -67.2666667
+    },
+    {
+      "cityName": "Estancia Chuquillamaya",
+      "lat": -18.2,
+      "lng": -68.3833333
+    },
+    {
+      "cityName": "Estancia Chura",
+      "lat": -18.55,
+      "lng": -68.05
+    },
+    {
+      "cityName": "Estancia Churi Kkotaña",
+      "lat": -17.9833333,
+      "lng": -67.6333333
+    },
+    {
+      "cityName": "Estancia Circa Huano",
+      "lat": -19.2833333,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "Estancia Circuhuta",
+      "lat": -19.5833333,
+      "lng": -67.5833333
+    },
+    {
+      "cityName": "Estancia Citari",
+      "lat": -18,
+      "lng": -68.5
+    },
+    {
+      "cityName": "Estancia Ckara Huano",
+      "lat": -19.1833333,
+      "lng": -68.5333333
+    },
+    {
+      "cityName": "Estancia Colcaya",
+      "lat": -19.7666667,
+      "lng": -67.6
+    },
+    {
+      "cityName": "Estancia Colchocollo",
+      "lat": -19.0833333,
+      "lng": -67.7333333
+    },
+    {
+      "cityName": "Estancia Conchamarca",
+      "lat": -19.0333333,
+      "lng": -67.8666667
+    },
+    {
+      "cityName": "Estancia Condo",
+      "lat": -19.1666667,
+      "lng": -66.8
+    },
+    {
+      "cityName": "Estancia Condoriquiña",
+      "lat": -19.6833333,
+      "lng": -67.8
+    },
+    {
+      "cityName": "Estancia Condoriri",
+      "lat": -17.5333333,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Estancia Coopata",
+      "lat": -19.1,
+      "lng": -67.6833333
+    },
+    {
+      "cityName": "Estancia Copa Pujio",
+      "lat": -18.0666667,
+      "lng": -67.9833333
+    },
+    {
+      "cityName": "Estancia Corpa Piñani",
+      "lat": -18.0666667,
+      "lng": -67.6
+    },
+    {
+      "cityName": "Estancia Cota Rancho",
+      "lat": -18.5341667,
+      "lng": -68.9447222
+    },
+    {
+      "cityName": "Estancia Crucero",
+      "lat": -18.0030556,
+      "lng": -68.6877778
+    },
+    {
+      "cityName": "Estancia Crusani",
+      "lat": -19.05,
+      "lng": -68.8333333
+    },
+    {
+      "cityName": "Estancia Cruz de Piña Piñani",
+      "lat": -18.5833333,
+      "lng": -68.05
+    },
+    {
+      "cityName": "Estancia Culta",
+      "lat": -18.0325,
+      "lng": -68.6794444
+    },
+    {
+      "cityName": "Estancia Esmeralda",
+      "lat": -18.5230556,
+      "lng": -68.7488889
+    },
+    {
+      "cityName": "Estancia",
+      "lat": -18.0333333,
+      "lng": -68.6666667
+    },
+    {
+      "cityName": "Estancia Gallinero",
+      "lat": -18.3630556,
+      "lng": -68.5444444
+    },
+    {
+      "cityName": "Estancia Garbanzani",
+      "lat": -18.5,
+      "lng": -68.1333333
+    },
+    {
+      "cityName": "Estancia Gaurdaña",
+      "lat": -17.9,
+      "lng": -66.9333333
+    },
+    {
+      "cityName": "Estancia Hizo",
+      "lat": -19.6333333,
+      "lng": -68.3333333
+    },
+    {
+      "cityName": "Estancia Huacoli",
+      "lat": -18,
+      "lng": -68.8333333
+    },
+    {
+      "cityName": "Estancia Huacuyo",
+      "lat": -18.1166667,
+      "lng": -67.7
+    },
+    {
+      "cityName": "Estancia Huaillu",
+      "lat": -19.6333333,
+      "lng": -67.75
+    },
+    {
+      "cityName": "Estancia Huajriri",
+      "lat": -18.2,
+      "lng": -68.4166667
+    },
+    {
+      "cityName": "Estancia Huallakhe",
+      "lat": -18.9208333,
+      "lng": -68.65
+    },
+    {
+      "cityName": "Estancia Huallchapi",
+      "lat": -17.8666667,
+      "lng": -67.35
+    },
+    {
+      "cityName": "Estancia Huallpuri",
+      "lat": -19.0833333,
+      "lng": -68.3333333
+    },
+    {
+      "cityName": "Estancia Huancalle",
+      "lat": -19.0333333,
+      "lng": -68.4
+    },
+    {
+      "cityName": "Estancia Huancarama",
+      "lat": -17.85,
+      "lng": -68.8
+    },
+    {
+      "cityName": "Estancia Huancarani",
+      "lat": -17.55,
+      "lng": -67.1333333
+    },
+    {
+      "cityName": "Estancia Huañoco",
+      "lat": -18.1333333,
+      "lng": -68.5833333
+    },
+    {
+      "cityName": "Estancia Huañokho",
+      "lat": -18.8752778,
+      "lng": -68.6769444
+    },
+    {
+      "cityName": "Estancia Huanuni",
+      "lat": -19.0666667,
+      "lng": -68.3666667
+    },
+    {
+      "cityName": "Estancia Huasquiri",
+      "lat": -18.52,
+      "lng": -68.7261111
+    },
+    {
+      "cityName": "Estancia Huayllani",
+      "lat": -18.9261111,
+      "lng": -68.5780556
+    },
+    {
+      "cityName": "Estancia Huaylla Pucara",
+      "lat": -18.0666667,
+      "lng": -68.1
+    },
+    {
+      "cityName": "Estancia Huayllas",
+      "lat": -19.4666667,
+      "lng": -68.4333333
+    },
+    {
+      "cityName": "Estancia Huayllatira",
+      "lat": -17.8833333,
+      "lng": -66.8666667
+    },
+    {
+      "cityName": "Estancia Huaylluma",
+      "lat": -17.5833333,
+      "lng": -66.9333333
+    },
+    {
+      "cityName": "Estancia Huaytiri",
+      "lat": -17.9333333,
+      "lng": -66.85
+    },
+    {
+      "cityName": "Estancia Huerta",
+      "lat": -18.1666667,
+      "lng": -68.9666667
+    },
+    {
+      "cityName": "Estancia Huña Jokho",
+      "lat": -18.2666667,
+      "lng": -68.0833333
+    },
+    {
+      "cityName": "Estancia Huyullani",
+      "lat": -17.9666667,
+      "lng": -68.8
+    },
+    {
+      "cityName": "Estancia Icharaqui",
+      "lat": -18.8833333,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "Estancia Iranuto",
+      "lat": -19.7,
+      "lng": -67.8
+    },
+    {
+      "cityName": "Estancia Irpa",
+      "lat": -19.5,
+      "lng": -68.4333333
+    },
+    {
+      "cityName": "Estancia Irpani",
+      "lat": -19.75,
+      "lng": -67.6833333
+    },
+    {
+      "cityName": "Estancia Irsuma",
+      "lat": -17.9833333,
+      "lng": -66.9666667
+    },
+    {
+      "cityName": "Estancia Iru Kkollu",
+      "lat": -18.8666667,
+      "lng": -67.8333333
+    },
+    {
+      "cityName": "Estancia Iru Llallagua",
+      "lat": -18.1916667,
+      "lng": -68.7097222
+    },
+    {
+      "cityName": "Estancia Iruma",
+      "lat": -17.8166667,
+      "lng": -66.95
+    },
+    {
+      "cityName": "Estancia Irumani",
+      "lat": -18.4055556,
+      "lng": -68.5277778
+    },
+    {
+      "cityName": "Estancia Iru Pampa",
+      "lat": -18.4402778,
+      "lng": -68.7113889
+    },
+    {
+      "cityName": "Estancia Irupata",
+      "lat": -18.75,
+      "lng": -68.3833333
+    },
+    {
+      "cityName": "Estancia Iru Vito",
+      "lat": -17.9,
+      "lng": -67.5166667
+    },
+    {
+      "cityName": "Estancia Isbaya",
+      "lat": -19.65,
+      "lng": -67.9
+    },
+    {
+      "cityName": "Estancia Ituni",
+      "lat": -18.5833333,
+      "lng": -68.5
+    },
+    {
+      "cityName": "Estancia Jachcha Jokho",
+      "lat": -17.8333333,
+      "lng": -68.0833333
+    },
+    {
+      "cityName": "Estancia Jachcha Kachi",
+      "lat": -18.4,
+      "lng": -67.9166667
+    },
+    {
+      "cityName": "Estancia Jachcha Uta",
+      "lat": -17.9833333,
+      "lng": -68.2666667
+    },
+    {
+      "cityName": "Estancia Jachoco",
+      "lat": -18.1,
+      "lng": -68.5666667
+    },
+    {
+      "cityName": "Estancia Jahuir Kkota",
+      "lat": -18.2666667,
+      "lng": -68.9
+    },
+    {
+      "cityName": "Estancia Jahuirkkota",
+      "lat": -18.2688889,
+      "lng": -68.9083333
+    },
+    {
+      "cityName": "Estancia Jakanka",
+      "lat": -18.0666667,
+      "lng": -68.55
+    },
+    {
+      "cityName": "Estancia Jalaquiri",
+      "lat": -17.9333333,
+      "lng": -66.9833333
+    },
+    {
+      "cityName": "Estancia Jalsuri",
+      "lat": -17.6,
+      "lng": -67.2166667
+    },
+    {
+      "cityName": "Estancia Jamachuma",
+      "lat": -18.0333333,
+      "lng": -68
+    },
+    {
+      "cityName": "Estancia Jama Chumaya",
+      "lat": -18.3547222,
+      "lng": -68.5747222
+    },
+    {
+      "cityName": "Estancia Jañama",
+      "lat": -19.0666667,
+      "lng": -68.8333333
+    },
+    {
+      "cityName": "Estancia Jankho Huyo",
+      "lat": -18.0833333,
+      "lng": -68.7333333
+    },
+    {
+      "cityName": "Estancia Jankho Jakke",
+      "lat": -19.0333333,
+      "lng": -68.7833333
+    },
+    {
+      "cityName": "Estancia Jankho Kachi",
+      "lat": -18.4833333,
+      "lng": -67.8666667
+    },
+    {
+      "cityName": "Estancia Jankho Khala",
+      "lat": -19.35,
+      "lng": -67.5833333
+    },
+    {
+      "cityName": "Estancia Jankho Kkollu",
+      "lat": -19.0666667,
+      "lng": -67.5333333
+    },
+    {
+      "cityName": "Estancia Jankho Kkota",
+      "lat": -17.55,
+      "lng": -66.9833333
+    },
+    {
+      "cityName": "Estancia Jankho Tankha",
+      "lat": -17.8,
+      "lng": -67.4166667
+    },
+    {
+      "cityName": "Estancia Japón Chico",
+      "lat": -18.7227778,
+      "lng": -68.5091667
+    },
+    {
+      "cityName": "Estancia Japón",
+      "lat": -18.7333333,
+      "lng": -68.5
+    },
+    {
+      "cityName": "Estancia Japón Perdido",
+      "lat": -18.7397222,
+      "lng": -68.5152778
+    },
+    {
+      "cityName": "Estancia Japuma",
+      "lat": -19.6833333,
+      "lng": -67.7333333
+    },
+    {
+      "cityName": "Estancia Jaruma",
+      "lat": -18.2833333,
+      "lng": -68.5333333
+    },
+    {
+      "cityName": "Estancia Jarumani",
+      "lat": -18.7763889,
+      "lng": -68.7947222
+    },
+    {
+      "cityName": "Estancia Jayokara",
+      "lat": -19.0166667,
+      "lng": -67.85
+    },
+    {
+      "cityName": "Estancia Jesus de Ventilla Puncu",
+      "lat": -17.55,
+      "lng": -67.1
+    },
+    {
+      "cityName": "Estancia Jihuaya Rodeo",
+      "lat": -18.1333333,
+      "lng": -67.5
+    },
+    {
+      "cityName": "Estancia Jiltata Kkollu",
+      "lat": -18.1861111,
+      "lng": -68.6744444
+    },
+    {
+      "cityName": "Estancia Jinchuma",
+      "lat": -18.7677778,
+      "lng": -68.8627778
+    },
+    {
+      "cityName": "Estancia Jokho Lacaya",
+      "lat": -17.8333333,
+      "lng": -68.25
+    },
+    {
+      "cityName": "Estancia Jokho Pekhe",
+      "lat": -18.2119444,
+      "lng": -68.9211111
+    },
+    {
+      "cityName": "Estancia Junchusuma",
+      "lat": -18.1,
+      "lng": -68.9833333
+    },
+    {
+      "cityName": "Estancia Junthuma",
+      "lat": -17.5166667,
+      "lng": -66.9833333
+    },
+    {
+      "cityName": "Estancia Junthuta",
+      "lat": -17.5166667,
+      "lng": -67.3333333
+    },
+    {
+      "cityName": "Estancia Juriquita",
+      "lat": -18.4,
+      "lng": -68.1
+    },
+    {
+      "cityName": "Estancia Kalalunta",
+      "lat": -17.4666667,
+      "lng": -67.0333333
+    },
+    {
+      "cityName": "Estancia Kalasaya",
+      "lat": -19.2166667,
+      "lng": -68.4166667
+    },
+    {
+      "cityName": "Estancia Kasilla",
+      "lat": -18.0833333,
+      "lng": -68.9833333
+    },
+    {
+      "cityName": "Estancia Kellkhata",
+      "lat": -18.1,
+      "lng": -67.5166667
+    },
+    {
+      "cityName": "Estancia Kente",
+      "lat": -18.6,
+      "lng": -68.5166667
+    },
+    {
+      "cityName": "Estancia Khachu Huano",
+      "lat": -18.7758333,
+      "lng": -68.53
+    },
+    {
+      "cityName": "Estancia Khala Khasa",
+      "lat": -17.8333333,
+      "lng": -67.1833333
+    },
+    {
+      "cityName": "Estancia Khala Kkollu",
+      "lat": -18.1991667,
+      "lng": -68.7036111
+    },
+    {
+      "cityName": "Estancia Khala Kkota",
+      "lat": -17.5333333,
+      "lng": -67.1
+    },
+    {
+      "cityName": "Estancia Khala Llijiri",
+      "lat": -18.4011111,
+      "lng": -68.7463889
+    },
+    {
+      "cityName": "Estancia Khalasaya Chica",
+      "lat": -18.05,
+      "lng": -67.55
+    },
+    {
+      "cityName": "Estancia Khalasaya",
+      "lat": -18.5833333,
+      "lng": -68.3833333
+    },
+    {
+      "cityName": "Estancia Khalasaya Grande",
+      "lat": -18.0166667,
+      "lng": -67.05
+    },
+    {
+      "cityName": "Estancia Khala Uma",
+      "lat": -17.95,
+      "lng": -67.0166667
+    },
+    {
+      "cityName": "Estancia Khara Huano",
+      "lat": -18.8025,
+      "lng": -68.7227778
+    },
+    {
+      "cityName": "Estancia Khara Kkota",
+      "lat": -18.25,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "Estancia Khaymani Grande",
+      "lat": -17.85,
+      "lng": -66.7166667
+    },
+    {
+      "cityName": "Estancia Khonchiri",
+      "lat": -18.75,
+      "lng": -67.9666667
+    },
+    {
+      "cityName": "Estancia Khoto Uma",
+      "lat": -17.6,
+      "lng": -67
+    },
+    {
+      "cityName": "Estancia Khuchu Kkota",
+      "lat": -18.3486111,
+      "lng": -68.52
+    },
+    {
+      "cityName": "Estancia Kkota",
+      "lat": -18,
+      "lng": -67.1833333
+    },
+    {
+      "cityName": "Estancia Kkotaña",
+      "lat": -18.2272222,
+      "lng": -68.7116667
+    },
+    {
+      "cityName": "Estancia Kkotasaya",
+      "lat": -18,
+      "lng": -68.7833333
+    },
+    {
+      "cityName": "Estancia Kochi",
+      "lat": -17.9166667,
+      "lng": -67.4333333
+    },
+    {
+      "cityName": "Estancia Kollpa Jahuira",
+      "lat": -18.3883333,
+      "lng": -68.5786111
+    },
+    {
+      "cityName": "Estancia Kollpa Kharalla",
+      "lat": -18.95,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "Estancia Kollpuna",
+      "lat": -18.2,
+      "lng": -67.8333333
+    },
+    {
+      "cityName": "Estancia Kumjasi",
+      "lat": -19.0333333,
+      "lng": -68.75
+    },
+    {
+      "cityName": "Estancia Laca Lacani",
+      "lat": -17.5333333,
+      "lng": -66.9666667
+    },
+    {
+      "cityName": "Estancia La Casa",
+      "lat": -19.5166667,
+      "lng": -67.5666667
+    },
+    {
+      "cityName": "Estancia Lagua Cruz",
+      "lat": -19.45,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "Estancia Lampay Pata",
+      "lat": -18.9666667,
+      "lng": -67.7666667
+    },
+    {
+      "cityName": "Estancia Layme",
+      "lat": -19.0166667,
+      "lng": -67.6833333
+    },
+    {
+      "cityName": "Estancia Leque Lequeni",
+      "lat": -17.9333333,
+      "lng": -66.9333333
+    },
+    {
+      "cityName": "Estancia Lerkho",
+      "lat": -17.8166667,
+      "lng": -68.4833333
+    },
+    {
+      "cityName": "Estancia Lia",
+      "lat": -19.7166667,
+      "lng": -67.85
+    },
+    {
+      "cityName": "Estancia Ligi Pampa",
+      "lat": -19.05,
+      "lng": -67.9166667
+    },
+    {
+      "cityName": "Estancia Livis-Kkota",
+      "lat": -19.5833333,
+      "lng": -68.4333333
+    },
+    {
+      "cityName": "Estancia Llacho",
+      "lat": -18.35,
+      "lng": -68.2
+    },
+    {
+      "cityName": "Estancia Llajsahuani",
+      "lat": -18.0166667,
+      "lng": -68.2
+    },
+    {
+      "cityName": "Estancia Llallagua",
+      "lat": -17.5666667,
+      "lng": -67.0666667
+    },
+    {
+      "cityName": "Estancia Llallaque",
+      "lat": -17.6,
+      "lng": -67.0833333
+    },
+    {
+      "cityName": "Estancia Llanquira",
+      "lat": -17.8,
+      "lng": -68.2
+    },
+    {
+      "cityName": "Estancia Lliscaya",
+      "lat": -18.9333333,
+      "lng": -68.8833333
+    },
+    {
+      "cityName": "Estancia Lonchíhuaylla",
+      "lat": -19.0833333,
+      "lng": -68.05
+    },
+    {
+      "cityName": "Estancia Loromani",
+      "lat": -18.3644444,
+      "lng": -68.6133333
+    },
+    {
+      "cityName": "Estancia Lupejara",
+      "lat": -17.0666667,
+      "lng": -67.0333333
+    },
+    {
+      "cityName": "Estancia Lupuyo",
+      "lat": -19.2833333,
+      "lng": -67.55
+    },
+    {
+      "cityName": "Estancia Lursilla",
+      "lat": -19.2666667,
+      "lng": -68.35
+    },
+    {
+      "cityName": "Estancia Machacamarca",
+      "lat": -17.1833333,
+      "lng": -68.8333333
+    },
+    {
+      "cityName": "Estancia Machacoyo",
+      "lat": -18.2166667,
+      "lng": -67.65
+    },
+    {
+      "cityName": "Estancia Machaj Huano",
+      "lat": -18.7666667,
+      "lng": -68.05
+    },
+    {
+      "cityName": "Estancia Mantos",
+      "lat": -18.8716667,
+      "lng": -68.6169444
+    },
+    {
+      "cityName": "Estancia Marcachahui",
+      "lat": -18.05,
+      "lng": -68.3333333
+    },
+    {
+      "cityName": "Estancia Marca Kkollu",
+      "lat": -19.0833333,
+      "lng": -68.1
+    },
+    {
+      "cityName": "Estancia Marcarani",
+      "lat": -18.05,
+      "lng": -68
+    },
+    {
+      "cityName": "Estancia Marca Totora",
+      "lat": -17.9166667,
+      "lng": -68.1666667
+    },
+    {
+      "cityName": "Estancia Marcavinto",
+      "lat": -19.65,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "Estancia Marquirivi",
+      "lat": -17.95,
+      "lng": -67.8
+    },
+    {
+      "cityName": "Estancia Matuta",
+      "lat": -19.0333333,
+      "lng": -68.7666667
+    },
+    {
+      "cityName": "Estancia Mayca",
+      "lat": -17.5333333,
+      "lng": -67.2
+    },
+    {
+      "cityName": "Estancia Micayani",
+      "lat": -18.1,
+      "lng": -68.0833333
+    },
+    {
+      "cityName": "Estancia Mikh Flores",
+      "lat": -19.7166667,
+      "lng": -67.9666667
+    },
+    {
+      "cityName": "Estancia Millamaya",
+      "lat": -18.2994444,
+      "lng": -68.9144444
+    },
+    {
+      "cityName": "Estancia Millu Puncu",
+      "lat": -17.7333333,
+      "lng": -66.9833333
+    },
+    {
+      "cityName": "Estancia Milluri",
+      "lat": -18.15,
+      "lng": -68.95
+    },
+    {
+      "cityName": "Estancia Mineral de Tarumita",
+      "lat": -17.6,
+      "lng": -67.1833333
+    },
+    {
+      "cityName": "Estancia Miraflores",
+      "lat": -18.6333333,
+      "lng": -68.5333333
+    },
+    {
+      "cityName": "Estancia Mollebamba",
+      "lat": -17.8166667,
+      "lng": -68.2666667
+    },
+    {
+      "cityName": "Estancia Molle Puncu",
+      "lat": -17.9166667,
+      "lng": -66.9666667
+    },
+    {
+      "cityName": "Estancia Moxuma",
+      "lat": -17.9,
+      "lng": -67.0333333
+    },
+    {
+      "cityName": "Estancia Mujtalla",
+      "lat": -18.05,
+      "lng": -68.9666667
+    },
+    {
+      "cityName": "Estancia Muyalla",
+      "lat": -18.5616667,
+      "lng": -68.7741667
+    },
+    {
+      "cityName": "Estancia Muyu Khara",
+      "lat": -18.3,
+      "lng": -67.8666667
+    },
+    {
+      "cityName": "Estancia Ñaka Ñaka",
+      "lat": -19.1,
+      "lng": -67.8833333
+    },
+    {
+      "cityName": "Estancia Nekheta",
+      "lat": -18.0644444,
+      "lng": -68.6208333
+    },
+    {
+      "cityName": "Estancia Ñerue Khollu",
+      "lat": -19.6666667,
+      "lng": -68.2166667
+    },
+    {
+      "cityName": "Estancia Nueva España",
+      "lat": -19.1166667,
+      "lng": -68.3333333
+    },
+    {
+      "cityName": "Estancia Ojsani",
+      "lat": -17.9333333,
+      "lng": -68.7166667
+    },
+    {
+      "cityName": "Estancia Oterihui",
+      "lat": -18.3861111,
+      "lng": -68.7066667
+    },
+    {
+      "cityName": "Estancia Ovejuyo",
+      "lat": -18.05,
+      "lng": -68.45
+    },
+    {
+      "cityName": "Estancia Pacachi",
+      "lat": -17.5666667,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Estancia Pachachávi",
+      "lat": -18.4666667,
+      "lng": -68.3166667
+    },
+    {
+      "cityName": "Estancia Pacocolla",
+      "lat": -19.6833333,
+      "lng": -67.7166667
+    },
+    {
+      "cityName": "Estancia Paco Khaua",
+      "lat": -17.85,
+      "lng": -66.9166667
+    },
+    {
+      "cityName": "Estancia Pacotani",
+      "lat": -18.075,
+      "lng": -68.6652778
+    },
+    {
+      "cityName": "Estancia Paicori",
+      "lat": -19.4833333,
+      "lng": -67.65
+    },
+    {
+      "cityName": "Estancia Paipani",
+      "lat": -17.9666667,
+      "lng": -66.9166667
+    },
+    {
+      "cityName": "Estancia Pakallahui",
+      "lat": -18.7,
+      "lng": -67.95
+    },
+    {
+      "cityName": "Estancia Pakho",
+      "lat": -17.9666667,
+      "lng": -68.1333333
+    },
+    {
+      "cityName": "Estancia Pakkollu",
+      "lat": -18.2102778,
+      "lng": -68.9552778
+    },
+    {
+      "cityName": "Estancia Palca",
+      "lat": -19.5333333,
+      "lng": -68.5
+    },
+    {
+      "cityName": "Estancia Pananoza",
+      "lat": -17.85,
+      "lng": -68.1833333
+    },
+    {
+      "cityName": "Estancia Pan de Azucarani",
+      "lat": -17.8333333,
+      "lng": -68.3333333
+    },
+    {
+      "cityName": "Estancia Panzo",
+      "lat": -19.3833333,
+      "lng": -68.3333333
+    },
+    {
+      "cityName": "Estancia Paracota",
+      "lat": -18.5669444,
+      "lng": -68.8030556
+    },
+    {
+      "cityName": "Estancia Parajani Chico",
+      "lat": -17.9833333,
+      "lng": -67.9166667
+    },
+    {
+      "cityName": "Estancia Para Parani",
+      "lat": -18.0166667,
+      "lng": -68.4666667
+    },
+    {
+      "cityName": "Estancia Parasquilla",
+      "lat": -19.0666667,
+      "lng": -68.0833333
+    },
+    {
+      "cityName": "Estancia Parco",
+      "lat": -19.2166667,
+      "lng": -67.7333333
+    },
+    {
+      "cityName": "Estancia Parcoya",
+      "lat": -19.1,
+      "lng": -67.7666667
+    },
+    {
+      "cityName": "Estancia Parinuyo",
+      "lat": -19.1,
+      "lng": -67.6
+    },
+    {
+      "cityName": "Estancia Pasto de Lobos",
+      "lat": -19.5166667,
+      "lng": -67.7
+    },
+    {
+      "cityName": "Estancia Pasto Grande",
+      "lat": -18.2311111,
+      "lng": -68.6813889
+    },
+    {
+      "cityName": "Estancia Payoconi",
+      "lat": -18.2833333,
+      "lng": -69
+    },
+    {
+      "cityName": "Estancia Payrumani",
+      "lat": -18.4347222,
+      "lng": -68.6911111
+    },
+    {
+      "cityName": "Estancia Peñablanca",
+      "lat": -19.7666667,
+      "lng": -67.9833333
+    },
+    {
+      "cityName": "Estancia Peñalte",
+      "lat": -18.7877778,
+      "lng": -68.7538889
+    },
+    {
+      "cityName": "Estancia Peñamarca",
+      "lat": -19.0333333,
+      "lng": -67.8
+    },
+    {
+      "cityName": "Estancia Peña Peñani",
+      "lat": -18.9166667,
+      "lng": -67.9333333
+    },
+    {
+      "cityName": "Estancia Pichacani",
+      "lat": -17.4666667,
+      "lng": -67.1833333
+    },
+    {
+      "cityName": "Estancia Pichakha",
+      "lat": -17.9,
+      "lng": -68.75
+    },
+    {
+      "cityName": "Estancia Pisalaque",
+      "lat": -19.6333333,
+      "lng": -67.65
+    },
+    {
+      "cityName": "Estancia Piscoma",
+      "lat": -19.0333333,
+      "lng": -67.9666667
+    },
+    {
+      "cityName": "Estancia Pizani",
+      "lat": -18.9666667,
+      "lng": -68.75
+    },
+    {
+      "cityName": "Estancia Pizaquere",
+      "lat": -19.0333333,
+      "lng": -68.6
+    },
+    {
+      "cityName": "Estancia Pucara",
+      "lat": -17.8833333,
+      "lng": -66.7833333
+    },
+    {
+      "cityName": "Estancia Puchuni",
+      "lat": -18.3177778,
+      "lng": -68.9575
+    },
+    {
+      "cityName": "Estancia Pucu Pucuni",
+      "lat": -18.95,
+      "lng": -68.7333333
+    },
+    {
+      "cityName": "Estancia Puitucuni",
+      "lat": -17.7333333,
+      "lng": -67.3
+    },
+    {
+      "cityName": "Estancia Pulcaya",
+      "lat": -19.6666667,
+      "lng": -67.7833333
+    },
+    {
+      "cityName": "Estancia Pumpirata",
+      "lat": -18.2,
+      "lng": -68.3
+    },
+    {
+      "cityName": "Estancia Putirgo",
+      "lat": -18.0166667,
+      "lng": -68.6833333
+    },
+    {
+      "cityName": "Estancia Quemalluni",
+      "lat": -18.3166667,
+      "lng": -68.1666667
+    },
+    {
+      "cityName": "Estancia Querarani",
+      "lat": -17.6166667,
+      "lng": -67.1333333
+    },
+    {
+      "cityName": "Estancia Quijina",
+      "lat": -19.5,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "Estancia Quilhuiri",
+      "lat": -18.3363889,
+      "lng": -68.8997222
+    },
+    {
+      "cityName": "Estancia Quillacas",
+      "lat": -17.7166667,
+      "lng": -66.9
+    },
+    {
+      "cityName": "Estancia Quillviri",
+      "lat": -18.8202778,
+      "lng": -68.9186111
+    },
+    {
+      "cityName": "Estancia Quimsa Jakke",
+      "lat": -18.2666667,
+      "lng": -68.95
+    },
+    {
+      "cityName": "Estancia Quiricaya",
+      "lat": -19.6166667,
+      "lng": -67.65
+    },
+    {
+      "cityName": "Estancia Quiri Quiri",
+      "lat": -17.85,
+      "lng": -68.45
+    },
+    {
+      "cityName": "Estancia Quisi Huano",
+      "lat": -18.5280556,
+      "lng": -68.7066667
+    },
+    {
+      "cityName": "Estancia Quisipata",
+      "lat": -18.5333333,
+      "lng": -67.55
+    },
+    {
+      "cityName": "Estancia Ramadilla",
+      "lat": -17.9166667,
+      "lng": -67.6
+    },
+    {
+      "cityName": "Estancia Ramos",
+      "lat": -17.7833333,
+      "lng": -67.5666667
+    },
+    {
+      "cityName": "Estancia Reca Chata",
+      "lat": -18.0763889,
+      "lng": -68.595
+    },
+    {
+      "cityName": "Estancia Remedios Tirata",
+      "lat": -18.3,
+      "lng": -67.5166667
+    },
+    {
+      "cityName": "Estancia Romero Huito",
+      "lat": -18.2666667,
+      "lng": -68.6666667
+    },
+    {
+      "cityName": "Estancia Romero Kkota",
+      "lat": -17.9166667,
+      "lng": -68.2666667
+    },
+    {
+      "cityName": "Estancia Romero Pata",
+      "lat": -18.3166667,
+      "lng": -67.8333333
+    },
+    {
+      "cityName": "Estancia Romeruma",
+      "lat": -18.1166667,
+      "lng": -68.0333333
+    },
+    {
+      "cityName": "Estancia Rosa Pata",
+      "lat": -18.65,
+      "lng": -67.5333333
+    },
+    {
+      "cityName": "Estancia Rosasani",
+      "lat": -18.05,
+      "lng": -67.9
+    },
+    {
+      "cityName": "Estancia Sacanilla",
+      "lat": -18.8644444,
+      "lng": -68.6833333
+    },
+    {
+      "cityName": "Estancia Saitoco",
+      "lat": -19.7833333,
+      "lng": -67.7
+    },
+    {
+      "cityName": "Estancia Salla Marca",
+      "lat": -17.8833333,
+      "lng": -68.1833333
+    },
+    {
+      "cityName": "Estancia Salviani",
+      "lat": -18.15,
+      "lng": -68.5166667
+    },
+    {
+      "cityName": "Estancia San Antonio",
+      "lat": -17.5166667,
+      "lng": -67.2333333
+    },
+    {
+      "cityName": "Estancia San Bartolomé",
+      "lat": -18.3,
+      "lng": -67.7166667
+    },
+    {
+      "cityName": "Estancia Sanipaya",
+      "lat": -18.45,
+      "lng": -67.6833333
+    },
+    {
+      "cityName": "Estancia San Jose",
+      "lat": -18,
+      "lng": -67.8333333
+    },
+    {
+      "cityName": "Estancia San Lucas",
+      "lat": -16.6166667,
+      "lng": -58.6333333
+    },
+    {
+      "cityName": "Estancia Santa Fe",
+      "lat": -17.5333333,
+      "lng": -67.1333333
+    },
+    {
+      "cityName": "Estancia Santa Lucia",
+      "lat": -18.7166667,
+      "lng": -67.9
+    },
+    {
+      "cityName": "Estancia Santa Rosa",
+      "lat": -16.5666667,
+      "lng": -59.8166667
+    },
+    {
+      "cityName": "Estancia Santiago Churu",
+      "lat": -18.4130556,
+      "lng": -68.5172222
+    },
+    {
+      "cityName": "Estancia Santiago Cotagaita",
+      "lat": -17.8166667,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "Estancia Santiago Tomata",
+      "lat": -18.5166667,
+      "lng": -68.2666667
+    },
+    {
+      "cityName": "Estancia Sapujo",
+      "lat": -18.22,
+      "lng": -68.6602778
+    },
+    {
+      "cityName": "Estancia Saytoco",
+      "lat": -17.85,
+      "lng": -66.9333333
+    },
+    {
+      "cityName": "Estancia Sebada Uma",
+      "lat": -17.4166667,
+      "lng": -67.0833333
+    },
+    {
+      "cityName": "Estancia Segarra",
+      "lat": -17.9666667,
+      "lng": -67
+    },
+    {
+      "cityName": "Estancia Sejruyo",
+      "lat": -18.0833333,
+      "lng": -68.2666667
+    },
+    {
+      "cityName": "Estancia Serca Vinto",
+      "lat": -18.3552778,
+      "lng": -68.7072222
+    },
+    {
+      "cityName": "Estancia Serkhe Cruzani",
+      "lat": -17.7,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "Estancia Sevencani",
+      "lat": -17.6833333,
+      "lng": -67.3
+    },
+    {
+      "cityName": "Estancia Sica Kkollu",
+      "lat": -19.4666667,
+      "lng": -67.5666667
+    },
+    {
+      "cityName": "Estancia Sirapaya",
+      "lat": -18.2,
+      "lng": -67.7333333
+    },
+    {
+      "cityName": "Estancia Sirca Huano",
+      "lat": -18.5041667,
+      "lng": -68.7902778
+    },
+    {
+      "cityName": "Estancia Sivingani",
+      "lat": -19.65,
+      "lng": -67.65
+    },
+    {
+      "cityName": "Estancia Soledad",
+      "lat": -18.6333333,
+      "lng": -68.1166667
+    },
+    {
+      "cityName": "Estancia Sorasora",
+      "lat": -17.9333333,
+      "lng": -68.1
+    },
+    {
+      "cityName": "Estancia Sullavi",
+      "lat": -19,
+      "lng": -68.5666667
+    },
+    {
+      "cityName": "Estancia Sura Sura",
+      "lat": -18.4119444,
+      "lng": -68.5983333
+    },
+    {
+      "cityName": "Estancia Suriña",
+      "lat": -18.7675,
+      "lng": -68.6305556
+    },
+    {
+      "cityName": "Estancia Tacallinca",
+      "lat": -17.9666667,
+      "lng": -68.5666667
+    },
+    {
+      "cityName": "Estancia Tacopaya",
+      "lat": -18.1833333,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "Estancia Tajallica",
+      "lat": -19.2166667,
+      "lng": -67.65
+    },
+    {
+      "cityName": "Estancia Tajllita",
+      "lat": -18.4833333,
+      "lng": -68.0333333
+    },
+    {
+      "cityName": "Estancia Tajllu Phujo",
+      "lat": -18.5208333,
+      "lng": -68.8416667
+    },
+    {
+      "cityName": "Estancia Tarkhani",
+      "lat": -17.9,
+      "lng": -68.25
+    },
+    {
+      "cityName": "Estancia Taru Marca",
+      "lat": -18.0558333,
+      "lng": -68.6008333
+    },
+    {
+      "cityName": "Estancia Tarumita",
+      "lat": -17.5833333,
+      "lng": -67.2
+    },
+    {
+      "cityName": "Estancia Taruyo",
+      "lat": -19.1333333,
+      "lng": -67.55
+    },
+    {
+      "cityName": "Estancia Taujala",
+      "lat": -17.7833333,
+      "lng": -66.85
+    },
+    {
+      "cityName": "Estancia Taypi Kkollu",
+      "lat": -19.6833333,
+      "lng": -67.9166667
+    },
+    {
+      "cityName": "Estancia Taypi Uta",
+      "lat": -18.3825,
+      "lng": -68.7391667
+    },
+    {
+      "cityName": "Estancia Tholachiro",
+      "lat": -17.8833333,
+      "lng": -67.3833333
+    },
+    {
+      "cityName": "Estancia Thola Jahuira",
+      "lat": -18.4,
+      "lng": -68.55
+    },
+    {
+      "cityName": "Estancia Thola Palca Chico",
+      "lat": -17.85,
+      "lng": -66.8666667
+    },
+    {
+      "cityName": "Estancia Thola Pampa",
+      "lat": -17.6,
+      "lng": -66.9666667
+    },
+    {
+      "cityName": "Estancia Thola Pucara",
+      "lat": -18.35,
+      "lng": -67.8166667
+    },
+    {
+      "cityName": "Estancia Thola Sirca",
+      "lat": -18.1733333,
+      "lng": -68.6369444
+    },
+    {
+      "cityName": "Estancia Thola Vinto",
+      "lat": -18.3877778,
+      "lng": -68.615
+    },
+    {
+      "cityName": "Estancia Tholoma",
+      "lat": -18.3880556,
+      "lng": -68.5419444
+    },
+    {
+      "cityName": "Estancia Ticaña",
+      "lat": -18.5866667,
+      "lng": -68.5677778
+    },
+    {
+      "cityName": "Estancia Tikhana",
+      "lat": -18.3166667,
+      "lng": -68.35
+    },
+    {
+      "cityName": "Estancia Tintakhaua",
+      "lat": -19.0666667,
+      "lng": -68.7833333
+    },
+    {
+      "cityName": "Estancia Tita Chuto",
+      "lat": -18.8,
+      "lng": -67.8833333
+    },
+    {
+      "cityName": "Estancia Titiri",
+      "lat": -18.3833333,
+      "lng": -68.3833333
+    },
+    {
+      "cityName": "Estancia Tola Pampa",
+      "lat": -19.05,
+      "lng": -68.5166667
+    },
+    {
+      "cityName": "Estancia Tomarapi",
+      "lat": -18.0166667,
+      "lng": -68.9
+    },
+    {
+      "cityName": "Estancia Toma Toma",
+      "lat": -17.9166667,
+      "lng": -67.45
+    },
+    {
+      "cityName": "Estancia Torres",
+      "lat": -18.2333333,
+      "lng": -67.8333333
+    },
+    {
+      "cityName": "Estancia Totorani",
+      "lat": -18.45,
+      "lng": -67.9166667
+    },
+    {
+      "cityName": "Estancia Tuloma",
+      "lat": -17.8333333,
+      "lng": -67.3
+    },
+    {
+      "cityName": "Estancia Tulu Tulluni",
+      "lat": -18.1666667,
+      "lng": -67.6833333
+    },
+    {
+      "cityName": "Estancia Tunupa Vinto",
+      "lat": -19.75,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "Estancia Turini",
+      "lat": -18.1666667,
+      "lng": -68.4
+    },
+    {
+      "cityName": "Estancia Umalaca Grande",
+      "lat": -17.9666667,
+      "lng": -67.4166667
+    },
+    {
+      "cityName": "Estancia Uma Marca",
+      "lat": -18.25,
+      "lng": -67.9166667
+    },
+    {
+      "cityName": "Estancia Uma Muyta",
+      "lat": -18.1813889,
+      "lng": -68.7605556
+    },
+    {
+      "cityName": "Estancia Uma Pallkha",
+      "lat": -18.1930556,
+      "lng": -68.9608333
+    },
+    {
+      "cityName": "Estancia Uma Phusa",
+      "lat": -18.0216667,
+      "lng": -68.6063889
+    },
+    {
+      "cityName": "Estancia Uncalliri",
+      "lat": -18.5708333,
+      "lng": -68.8230556
+    },
+    {
+      "cityName": "Estancia Unidas",
+      "lat": -19.5333333,
+      "lng": -68.4166667
+    },
+    {
+      "cityName": "Estancia Ventilla",
+      "lat": -17.8833333,
+      "lng": -66.9666667
+    },
+    {
+      "cityName": "Estancia Vicayani",
+      "lat": -17.6666667,
+      "lng": -66.9166667
+    },
+    {
+      "cityName": "Estancia Vicoco",
+      "lat": -18.3022222,
+      "lng": -68.9302778
+    },
+    {
+      "cityName": "Estancia Vicoma",
+      "lat": -18.2166667,
+      "lng": -68.0666667
+    },
+    {
+      "cityName": "Estancia Vila Kkola",
+      "lat": -18.2361111,
+      "lng": -68.6641667
+    },
+    {
+      "cityName": "Estancia Vila Kkollu",
+      "lat": -19.2666667,
+      "lng": -68.3333333
+    },
+    {
+      "cityName": "Estancia Vilaque",
+      "lat": -18.6833333,
+      "lng": -68.2333333
+    },
+    {
+      "cityName": "Estancia Vila Vila",
+      "lat": -18.7166667,
+      "lng": -68.0166667
+    },
+    {
+      "cityName": "Estancia Villa de Rosario Uyuni",
+      "lat": -18.7666667,
+      "lng": -68.0166667
+    },
+    {
+      "cityName": "Estancia Villaflor",
+      "lat": -19.0166667,
+      "lng": -67.9333333
+    },
+    {
+      "cityName": "Estancia Villa Palca",
+      "lat": -17.8666667,
+      "lng": -67.75
+    },
+    {
+      "cityName": "Estancia Villa Rica Huancuri",
+      "lat": -18.7744444,
+      "lng": -68.7255556
+    },
+    {
+      "cityName": "Estancia Villa Tunari",
+      "lat": -18.7833333,
+      "lng": -68.6
+    },
+    {
+      "cityName": "Estancia Villca Fujo",
+      "lat": -18.2,
+      "lng": -69
+    },
+    {
+      "cityName": "Estancia Viluyo",
+      "lat": -18.3,
+      "lng": -68.0666667
+    },
+    {
+      "cityName": "Estancia Vinto",
+      "lat": -17.9666667,
+      "lng": -67.0666667
+    },
+    {
+      "cityName": "Estancia Viroxa",
+      "lat": -19.65,
+      "lng": -67.7833333
+    },
+    {
+      "cityName": "Estancia Vithu",
+      "lat": -18.1166667,
+      "lng": -67.9166667
+    },
+    {
+      "cityName": "Estancia Vituyo",
+      "lat": -19.7666667,
+      "lng": -67.7666667
+    },
+    {
+      "cityName": "Estancia Wasquiri",
+      "lat": -18.5886111,
+      "lng": -68.6025
+    },
+    {
+      "cityName": "Estancia Wichu Khana",
+      "lat": -19.0011111,
+      "lng": -68.6625
+    },
+    {
+      "cityName": "Estancia Wichu Kkollu",
+      "lat": -18.0833333,
+      "lng": -68.95
+    },
+    {
+      "cityName": "Estancia Wichu Sirca",
+      "lat": -18.4166667,
+      "lng": -68.1666667
+    },
+    {
+      "cityName": "Estancia Wichuta",
+      "lat": -18.9427778,
+      "lng": -68.7269444
+    },
+    {
+      "cityName": "Estancia Wila Khara",
+      "lat": -17.85,
+      "lng": -67.6
+    },
+    {
+      "cityName": "Estancia Wila Khollu Sud",
+      "lat": -18.55,
+      "lng": -68.55
+    },
+    {
+      "cityName": "Estancia Wila Kkollu",
+      "lat": -18,
+      "lng": -68.0166667
+    },
+    {
+      "cityName": "Estancia Wila Muruta",
+      "lat": -17.9833333,
+      "lng": -68.2833333
+    },
+    {
+      "cityName": "Estancia Willkhi",
+      "lat": -18.9,
+      "lng": -68.2666667
+    },
+    {
+      "cityName": "Estancia Wingo",
+      "lat": -17.8666667,
+      "lng": -68.4166667
+    },
+    {
+      "cityName": "Estancia Yanacachi",
+      "lat": -17.6833333,
+      "lng": -66.9333333
+    },
+    {
+      "cityName": "Estancia Yapokkollu",
+      "lat": -19.3833333,
+      "lng": -68.2833333
+    },
+    {
+      "cityName": "Estancia Yaraque",
+      "lat": -17.8666667,
+      "lng": -68.3
+    },
+    {
+      "cityName": "Estancia Yaruicoya",
+      "lat": -17.55,
+      "lng": -67.2
+    },
+    {
+      "cityName": "Estancia Yarvicoya de Umacollo",
+      "lat": -17.5666667,
+      "lng": -67.1666667
+    },
+    {
+      "cityName": "Estancia Yauri Chambi",
+      "lat": -18.0166667,
+      "lng": -68.15
+    },
+    {
+      "cityName": "Estancia Yuja",
+      "lat": -19.6666667,
+      "lng": -67.75
+    },
+    {
+      "cityName": "Estancia Yunguyo",
+      "lat": -18.3166667,
+      "lng": -67.9166667
+    },
+    {
+      "cityName": "Exaltacion De Humatia",
+      "lat": -19.1833333,
+      "lng": -67.8166667
+    },
+    {
+      "cityName": "Exaltación",
+      "lat": -19.0166667,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "Falsuri",
+      "lat": -18.5,
+      "lng": -68.45
+    },
+    {
+      "cityName": "Florida",
+      "lat": -18.8,
+      "lng": -68.3166667
+    },
+    {
+      "cityName": "Grusani",
+      "lat": -18.8833333,
+      "lng": -67.9666667
+    },
+    {
+      "cityName": "Guailla",
+      "lat": -18.7333333,
+      "lng": -68.3
+    },
+    {
+      "cityName": "Guancarana",
+      "lat": -17.7333333,
+      "lng": -67.5
+    },
+    {
+      "cityName": "Guasquiri",
+      "lat": -18.5,
+      "lng": -68.7666667
+    },
+    {
+      "cityName": "Hachapata",
+      "lat": -18.3833333,
+      "lng": -68
+    },
+    {
+      "cityName": "Halenta",
+      "lat": -18.1833333,
+      "lng": -68.5333333
+    },
+    {
+      "cityName": "Hancatuesa",
+      "lat": -18.2333333,
+      "lng": -68.5333333
+    },
+    {
+      "cityName": "Hornillos",
+      "lat": -19.6666667,
+      "lng": -68.2333333
+    },
+    {
+      "cityName": "Horno Phujro",
+      "lat": -17.9166667,
+      "lng": -67.3666667
+    },
+    {
+      "cityName": "Huacalli",
+      "lat": -18.4833333,
+      "lng": -67.65
+    },
+    {
+      "cityName": "Huacarama",
+      "lat": -17.6666667,
+      "lng": -67.4833333
+    },
+    {
+      "cityName": "Huacuyo",
+      "lat": -19.5333333,
+      "lng": -68.0166667
+    },
+    {
+      "cityName": "Huaichoco",
+      "lat": -18.65,
+      "lng": -68.8333333
+    },
+    {
+      "cityName": "Huaillamarca",
+      "lat": -17.8333333,
+      "lng": -67.95
+    },
+    {
+      "cityName": "Huailloco",
+      "lat": -18.6333333,
+      "lng": -67.6
+    },
+    {
+      "cityName": "Huanacri",
+      "lat": -19.3166667,
+      "lng": -66.8833333
+    },
+    {
+      "cityName": "Huancané",
+      "lat": -18.7166667,
+      "lng": -66.8666667
+    },
+    {
+      "cityName": "Huancohomo",
+      "lat": -17.7833333,
+      "lng": -67.2333333
+    },
+    {
+      "cityName": "Huano Pata",
+      "lat": -18.9333333,
+      "lng": -67.45
+    },
+    {
+      "cityName": "Huanuni",
+      "lat": -18.2666667,
+      "lng": -66.85
+    },
+    {
+      "cityName": "Huari",
+      "lat": -19,
+      "lng": -66.8
+    },
+    {
+      "cityName": "Huata",
+      "lat": -19.2833333,
+      "lng": -67.0833333
+    },
+    {
+      "cityName": "Huataj",
+      "lat": -17.8333333,
+      "lng": -67.5
+    },
+    {
+      "cityName": "Huaylloco",
+      "lat": -18.3833333,
+      "lng": -66.9
+    },
+    {
+      "cityName": "Huaylluma",
+      "lat": -18.2,
+      "lng": -68.0333333
+    },
+    {
+      "cityName": "Huchusuma",
+      "lat": -17.6333333,
+      "lng": -67.1333333
+    },
+    {
+      "cityName": "Huichu Thia Pampa",
+      "lat": -17.95,
+      "lng": -67.2666667
+    },
+    {
+      "cityName": "Huillarane",
+      "lat": -18.45,
+      "lng": -68.6666667
+    },
+    {
+      "cityName": "Huincurata",
+      "lat": -18.0666667,
+      "lng": -69
+    },
+    {
+      "cityName": "Huma Chua",
+      "lat": -17.6166667,
+      "lng": -67.45
+    },
+    {
+      "cityName": "Humahuaracha",
+      "lat": -17.75,
+      "lng": -67.1333333
+    },
+    {
+      "cityName": "Humapusa",
+      "lat": -18,
+      "lng": -68.45
+    },
+    {
+      "cityName": "Hupacolla",
+      "lat": -19.5166667,
+      "lng": -67.3
+    },
+    {
+      "cityName": "Incala",
+      "lat": -18.6166667,
+      "lng": -67.8833333
+    },
+    {
+      "cityName": "Iñexa",
+      "lat": -19.7166667,
+      "lng": -67.95
+    },
+    {
+      "cityName": "Ishuaya",
+      "lat": -19.65,
+      "lng": -67.9333333
+    },
+    {
+      "cityName": "Jacha Jipiña",
+      "lat": -17.8333333,
+      "lng": -68.4
+    },
+    {
+      "cityName": "Jachcha Mestiza",
+      "lat": -17.5666667,
+      "lng": -67.3666667
+    },
+    {
+      "cityName": "Jachcha Paco Pampa",
+      "lat": -18.15,
+      "lng": -69.05
+    },
+    {
+      "cityName": "Jahuma",
+      "lat": -19.7,
+      "lng": -67.9833333
+    },
+    {
+      "cityName": "Jalsuri",
+      "lat": -17.7666667,
+      "lng": -66.95
+    },
+    {
+      "cityName": "Jampaturi",
+      "lat": -17.6,
+      "lng": -67.3333333
+    },
+    {
+      "cityName": "Jankho Huyo",
+      "lat": -17.6333333,
+      "lng": -66.9833333
+    },
+    {
+      "cityName": "Jankho Nuñu",
+      "lat": -17.7666667,
+      "lng": -67.2333333
+    },
+    {
+      "cityName": "Janqui",
+      "lat": -18.4,
+      "lng": -68.5
+    },
+    {
+      "cityName": "Japo",
+      "lat": -18.0833333,
+      "lng": -66.8666667
+    },
+    {
+      "cityName": "Jarinilla",
+      "lat": -19.1166667,
+      "lng": -67.7833333
+    },
+    {
+      "cityName": "Jarruma",
+      "lat": -19.65,
+      "lng": -68.2
+    },
+    {
+      "cityName": "Jaruscollo",
+      "lat": -18.0333333,
+      "lng": -68.2666667
+    },
+    {
+      "cityName": "Jattila",
+      "lat": -17.8166667,
+      "lng": -67.1166667
+    },
+    {
+      "cityName": "Jayocota",
+      "lat": -18.7166667,
+      "lng": -68.1833333
+    },
+    {
+      "cityName": "Jayutia",
+      "lat": -19.2,
+      "lng": -68.35
+    },
+    {
+      "cityName": "Jirira",
+      "lat": -19.6166667,
+      "lng": -68.1
+    },
+    {
+      "cityName": "Jisca-marca",
+      "lat": -17.85,
+      "lng": -68.4666667
+    },
+    {
+      "cityName": "Joko Pata",
+      "lat": -17.75,
+      "lng": -66.8333333
+    },
+    {
+      "cityName": "Jolapalca",
+      "lat": -19.1333333,
+      "lng": -66.4666667
+    },
+    {
+      "cityName": "Jonkoyo",
+      "lat": -19.3333333,
+      "lng": -67.2
+    },
+    {
+      "cityName": "Jopoqueri",
+      "lat": -18.5333333,
+      "lng": -67.9166667
+    },
+    {
+      "cityName": "Jujuni",
+      "lat": -18.7,
+      "lng": -68.1166667
+    },
+    {
+      "cityName": "Jumuyo",
+      "lat": -18.6666667,
+      "lng": -66.5666667
+    },
+    {
+      "cityName": "Juntuma",
+      "lat": -18.1,
+      "lng": -69
+    },
+    {
+      "cityName": "Kakachaca",
+      "lat": -18.75,
+      "lng": -66.35
+    },
+    {
+      "cityName": "Kalajahuira",
+      "lat": -18.4166667,
+      "lng": -66.95
+    },
+    {
+      "cityName": "Kalapujio",
+      "lat": -17.9666667,
+      "lng": -68.5
+    },
+    {
+      "cityName": "Kama",
+      "lat": -19.3333333,
+      "lng": -66.6666667
+    },
+    {
+      "cityName": "Katia",
+      "lat": -18.7166667,
+      "lng": -67.15
+    },
+    {
+      "cityName": "Keilari",
+      "lat": -18.5,
+      "lng": -67.0333333
+    },
+    {
+      "cityName": "Kelhuiri",
+      "lat": -17.9,
+      "lng": -68.4666667
+    },
+    {
+      "cityName": "Kempara",
+      "lat": -18.15,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Khara Huamo",
+      "lat": -18.6533333,
+      "lng": -68.515
+    },
+    {
+      "cityName": "Khea Kheani",
+      "lat": -18.75,
+      "lng": -68.6333333
+    },
+    {
+      "cityName": "Khollpaña",
+      "lat": -17.6166667,
+      "lng": -67.2833333
+    },
+    {
+      "cityName": "Khollpani",
+      "lat": -17.7166667,
+      "lng": -67.2666667
+    },
+    {
+      "cityName": "Kisca Bajo",
+      "lat": -17.8666667,
+      "lng": -67.5666667
+    },
+    {
+      "cityName": "Kisca",
+      "lat": -17.8333333,
+      "lng": -67.5833333
+    },
+    {
+      "cityName": "Kita Pantakara",
+      "lat": -17.8833333,
+      "lng": -68.7333333
+    },
+    {
+      "cityName": "Koani",
+      "lat": -17.65,
+      "lng": -67
+    },
+    {
+      "cityName": "Kochi Pampa",
+      "lat": -17.9666667,
+      "lng": -67.4
+    },
+    {
+      "cityName": "Kotañiso",
+      "lat": -18.8666667,
+      "lng": -66.3333333
+    },
+    {
+      "cityName": "Kota Saya",
+      "lat": -17.9833333,
+      "lng": -68.8166667
+    },
+    {
+      "cityName": "La Barca",
+      "lat": -17.7666667,
+      "lng": -67.45
+    },
+    {
+      "cityName": "Lacato",
+      "lat": -19.4666667,
+      "lng": -67.4833333
+    },
+    {
+      "cityName": "Laguacsa",
+      "lat": -19.7,
+      "lng": -68.2666667
+    },
+    {
+      "cityName": "Lagunilas",
+      "lat": -19.2333333,
+      "lng": -66.3333333
+    },
+    {
+      "cityName": "Laja Pujro",
+      "lat": -18.35,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Lajma",
+      "lat": -17.9,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "La Joya",
+      "lat": -17.7666667,
+      "lng": -67.4833333
+    },
+    {
+      "cityName": "Lamar Pata",
+      "lat": -19.1833333,
+      "lng": -67.2166667
+    },
+    {
+      "cityName": "Laqueca",
+      "lat": -19.5333333,
+      "lng": -68.4333333
+    },
+    {
+      "cityName": "Larancagua",
+      "lat": -18.4,
+      "lng": -66.8166667
+    },
+    {
+      "cityName": "Laran",
+      "lat": -18.35,
+      "lng": -66.9333333
+    },
+    {
+      "cityName": "La Ribera",
+      "lat": -19.0166667,
+      "lng": -68.65
+    },
+    {
+      "cityName": "Launapi",
+      "lat": -17.9666667,
+      "lng": -68.0666667
+    },
+    {
+      "cityName": "Lequepalca",
+      "lat": -17.6333333,
+      "lng": -66.9166667
+    },
+    {
+      "cityName": "Lipi Pujio",
+      "lat": -19.6666667,
+      "lng": -67.3333333
+    },
+    {
+      "cityName": "Livilivi",
+      "lat": -19.7,
+      "lng": -68.0666667
+    },
+    {
+      "cityName": "Llanquera",
+      "lat": -17.9833333,
+      "lng": -67.7
+    },
+    {
+      "cityName": "Llanquero",
+      "lat": -18.1,
+      "lng": -67.7833333
+    },
+    {
+      "cityName": "Llapa Llapani",
+      "lat": -18,
+      "lng": -67.9333333
+    },
+    {
+      "cityName": "Llesoca",
+      "lat": -17.8833333,
+      "lng": -68.0333333
+    },
+    {
+      "cityName": "Lorenzo Vinto",
+      "lat": -17.6166667,
+      "lng": -67.2333333
+    },
+    {
+      "cityName": "Luca",
+      "lat": -19.5833333,
+      "lng": -67.9
+    },
+    {
+      "cityName": "Lucero",
+      "lat": -19.0333333,
+      "lng": -67.3
+    },
+    {
+      "cityName": "Lucico",
+      "lat": -19.7333333,
+      "lng": -67.7333333
+    },
+    {
+      "cityName": "Luci",
+      "lat": -19.0166667,
+      "lng": -67.4833333
+    },
+    {
+      "cityName": "Macasi",
+      "lat": -19.7333333,
+      "lng": -68.05
+    },
+    {
+      "cityName": "Macava",
+      "lat": -18.6,
+      "lng": -69.0333333
+    },
+    {
+      "cityName": "Macaya",
+      "lat": -18.5333333,
+      "lng": -68.95
+    },
+    {
+      "cityName": "Machacamarca",
+      "lat": -18.1666667,
+      "lng": -67.0333333
+    },
+    {
+      "cityName": "Machacoyo",
+      "lat": -19.0833333,
+      "lng": -66.4333333
+    },
+    {
+      "cityName": "Malcoaca",
+      "lat": -19.2,
+      "lng": -66.6333333
+    },
+    {
+      "cityName": "Mallcu Kkota",
+      "lat": -17.9833333,
+      "lng": -67.2666667
+    },
+    {
+      "cityName": "Mallcu",
+      "lat": -19.2833333,
+      "lng": -67.15
+    },
+    {
+      "cityName": "Mamaniri",
+      "lat": -17.9666667,
+      "lng": -68.8666667
+    },
+    {
+      "cityName": "Maramara",
+      "lat": -19.0833333,
+      "lng": -67.2333333
+    },
+    {
+      "cityName": "Marcacota",
+      "lat": -18.7,
+      "lng": -67.8333333
+    },
+    {
+      "cityName": "Marcaribi",
+      "lat": -18.0166667,
+      "lng": -68.0333333
+    },
+    {
+      "cityName": "Marquirivi",
+      "lat": -17.95,
+      "lng": -67.9666667
+    },
+    {
+      "cityName": "Maulli",
+      "lat": -17.7166667,
+      "lng": -66.8666667
+    },
+    {
+      "cityName": "Millupalca",
+      "lat": -18.0833333,
+      "lng": -68.7
+    },
+    {
+      "cityName": "Minajata",
+      "lat": -19.2166667,
+      "lng": -66.6333333
+    },
+    {
+      "cityName": "Mocsahuma",
+      "lat": -17.95,
+      "lng": -67.9333333
+    },
+    {
+      "cityName": "Mogachi",
+      "lat": -18.4333333,
+      "lng": -68.9
+    },
+    {
+      "cityName": "Mojón de la Abra Arrugada",
+      "lat": -18.0166667,
+      "lng": -66.5166667
+    },
+    {
+      "cityName": "Morococala",
+      "lat": -18.1666667,
+      "lng": -66.7333333
+    },
+    {
+      "cityName": "Murguillos",
+      "lat": -18.05,
+      "lng": -67.3
+    },
+    {
+      "cityName": "Negreiros",
+      "lat": -18.7833333,
+      "lng": -68.6833333
+    },
+    {
+      "cityName": "Negro Vinto",
+      "lat": -19.1666667,
+      "lng": -66.75
+    },
+    {
+      "cityName": "Nekheta",
+      "lat": -18.8,
+      "lng": -68.9
+    },
+    {
+      "cityName": "Ñequere",
+      "lat": -18.6333333,
+      "lng": -68.2166667
+    },
+    {
+      "cityName": "Ñiqui Pujío",
+      "lat": -19.25,
+      "lng": -67.35
+    },
+    {
+      "cityName": "Ocoñuz",
+      "lat": -18.4166667,
+      "lng": -68.0666667
+    },
+    {
+      "cityName": "Ocsani",
+      "lat": -17.9333333,
+      "lng": -68.7333333
+    },
+    {
+      "cityName": "Ocupampa",
+      "lat": -19.3333333,
+      "lng": -66.2166667
+    },
+    {
+      "cityName": "Ocurí",
+      "lat": -19.3,
+      "lng": -66.8666667
+    },
+    {
+      "cityName": "Orinoco",
+      "lat": -18.9333333,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Orko Chaca Guano",
+      "lat": -19.05,
+      "lng": -68.3166667
+    },
+    {
+      "cityName": "Otuyo",
+      "lat": -19.5833333,
+      "lng": -67.8
+    },
+    {
+      "cityName": "Pacarisa",
+      "lat": -18.95,
+      "lng": -68.45
+    },
+    {
+      "cityName": "Pacollo",
+      "lat": -18.9,
+      "lng": -67.2666667
+    },
+    {
+      "cityName": "Pagador",
+      "lat": -19.2,
+      "lng": -68.55
+    },
+    {
+      "cityName": "Pahua",
+      "lat": -19.2833333,
+      "lng": -66.8166667
+    },
+    {
+      "cityName": "Pairumani",
+      "lat": -17.8833333,
+      "lng": -68.8166667
+    },
+    {
+      "cityName": "Palli Balsa",
+      "lat": -18.2666667,
+      "lng": -67.2333333
+    },
+    {
+      "cityName": "Pallini",
+      "lat": -18.9,
+      "lng": -67.1333333
+    },
+    {
+      "cityName": "Pamata",
+      "lat": -18.35,
+      "lng": -67.9333333
+    },
+    {
+      "cityName": "Pampa Aullagas",
+      "lat": -19.1833333,
+      "lng": -67.0833333
+    },
+    {
+      "cityName": "Pansuta",
+      "lat": -19.1333333,
+      "lng": -67.2
+    },
+    {
+      "cityName": "Papel Pampa",
+      "lat": -17.8166667,
+      "lng": -67.7666667
+    },
+    {
+      "cityName": "Parajaya",
+      "lat": -19.05,
+      "lng": -68.8666667
+    },
+    {
+      "cityName": "Paria",
+      "lat": -17.8666667,
+      "lng": -67.0333333
+    },
+    {
+      "cityName": "Parimpata",
+      "lat": -18.3333333,
+      "lng": -67.2666667
+    },
+    {
+      "cityName": "Parinacota",
+      "lat": -18.65,
+      "lng": -68.05
+    },
+    {
+      "cityName": "Pascari",
+      "lat": -18.7166667,
+      "lng": -67.35
+    },
+    {
+      "cityName": "Paso de Bombo",
+      "lat": -18.3666667,
+      "lng": -66.7166667
+    },
+    {
+      "cityName": "Pasto de Lobos",
+      "lat": -19.45,
+      "lng": -67.6833333
+    },
+    {
+      "cityName": "Pasto Grande",
+      "lat": -17.7166667,
+      "lng": -67.15
+    },
+    {
+      "cityName": "Patarani",
+      "lat": -19.3166667,
+      "lng": -66.9166667
+    },
+    {
+      "cityName": "Payrumani",
+      "lat": -18.1333333,
+      "lng": -66.8666667
+    },
+    {
+      "cityName": "Pazña",
+      "lat": -18.6,
+      "lng": -66.9166667
+    },
+    {
+      "cityName": "Peñas",
+      "lat": -18.6666667,
+      "lng": -66.75
+    },
+    {
+      "cityName": "Pequereque",
+      "lat": -18.8333333,
+      "lng": -66.7
+    },
+    {
+      "cityName": "Piacala",
+      "lat": -18.25,
+      "lng": -67.1166667
+    },
+    {
+      "cityName": "Picacani",
+      "lat": -18.1833333,
+      "lng": -68.35
+    },
+    {
+      "cityName": "Pillaivinco",
+      "lat": -19.4,
+      "lng": -68.3666667
+    },
+    {
+      "cityName": "Pinavi",
+      "lat": -19.25,
+      "lng": -66.7833333
+    },
+    {
+      "cityName": "Pinaya Pampa",
+      "lat": -18.05,
+      "lng": -67.5833333
+    },
+    {
+      "cityName": "Pisalaca",
+      "lat": -19.5833333,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "Pisiga",
+      "lat": -19.2833333,
+      "lng": -68.6333333
+    },
+    {
+      "cityName": "Platería",
+      "lat": -18.0166667,
+      "lng": -67.15
+    },
+    {
+      "cityName": "Polloqueri",
+      "lat": -18.65,
+      "lng": -68.1
+    },
+    {
+      "cityName": "Polqueri",
+      "lat": -18.2833333,
+      "lng": -67.2333333
+    },
+    {
+      "cityName": "Pomiri",
+      "lat": -18.2166667,
+      "lng": -68.2833333
+    },
+    {
+      "cityName": "Pongo",
+      "lat": -17.8,
+      "lng": -67.1666667
+    },
+    {
+      "cityName": "Poopó",
+      "lat": -18.3666667,
+      "lng": -66.9666667
+    },
+    {
+      "cityName": "Portezuelo",
+      "lat": -19.1,
+      "lng": -66.5333333
+    },
+    {
+      "cityName": "Pucarillo",
+      "lat": -17.8833333,
+      "lng": -67.5666667
+    },
+    {
+      "cityName": "Pucaruma",
+      "lat": -17.7,
+      "lng": -67.3
+    },
+    {
+      "cityName": "Puqui",
+      "lat": -19.5833333,
+      "lng": -67.3166667
+    },
+    {
+      "cityName": "Quellari",
+      "lat": -17.95,
+      "lng": -68.5833333
+    },
+    {
+      "cityName": "Queñuarani",
+      "lat": -18.0666667,
+      "lng": -68.2833333
+    },
+    {
+      "cityName": "Querarani",
+      "lat": -17.6666667,
+      "lng": -67.05
+    },
+    {
+      "cityName": "Quevillani",
+      "lat": -19.3166667,
+      "lng": -67.0166667
+    },
+    {
+      "cityName": "Quilcota",
+      "lat": -18.3666667,
+      "lng": -67.4333333
+    },
+    {
+      "cityName": "Quillacas",
+      "lat": -19.2333333,
+      "lng": -66.9666667
+    },
+    {
+      "cityName": "Quillita",
+      "lat": -18.4333333,
+      "lng": -68.6833333
+    },
+    {
+      "cityName": "Ramadilla",
+      "lat": -18.9666667,
+      "lng": -67.65
+    },
+    {
+      "cityName": "Rancho Grande",
+      "lat": -18.2833333,
+      "lng": -67.1166667
+    },
+    {
+      "cityName": "Rodeo",
+      "lat": -17.5333333,
+      "lng": -67.3166667
+    },
+    {
+      "cityName": "Romero Pampa",
+      "lat": -18.9,
+      "lng": -68.2
+    },
+    {
+      "cityName": "Roque Balsa",
+      "lat": -18.0833333,
+      "lng": -67.3
+    },
+    {
+      "cityName": "Rosapata",
+      "lat": -18.7833333,
+      "lng": -67.7333333
+    },
+    {
+      "cityName": "Rosa Pata",
+      "lat": -19.7,
+      "lng": -67.7166667
+    },
+    {
+      "cityName": "Rosario",
+      "lat": -18.7,
+      "lng": -66.8333333
+    },
+    {
+      "cityName": "Sabaya",
+      "lat": -19.0166667,
+      "lng": -68.3833333
+    },
+    {
+      "cityName": "Sacabaya",
+      "lat": -18.6,
+      "lng": -68.8
+    },
+    {
+      "cityName": "Sacani",
+      "lat": -19.55,
+      "lng": -67.4333333
+    },
+    {
+      "cityName": "Saitoca",
+      "lat": -19.75,
+      "lng": -67.5833333
+    },
+    {
+      "cityName": "Saitoco",
+      "lat": -19.05,
+      "lng": -66.7833333
+    },
+    {
+      "cityName": "Sajama",
+      "lat": -18.1166667,
+      "lng": -69
+    },
+    {
+      "cityName": "Salinas de Garci Mendoza",
+      "lat": -19.6333333,
+      "lng": -67.6833333
+    },
+    {
+      "cityName": "Salli",
+      "lat": -19.3833333,
+      "lng": -67.4166667
+    },
+    {
+      "cityName": "San Antonio de Norcala",
+      "lat": -18.4166667,
+      "lng": -67.9666667
+    },
+    {
+      "cityName": "San Antonio de Pitacollo",
+      "lat": -19.05,
+      "lng": -68.5833333
+    },
+    {
+      "cityName": "San Gerónimo",
+      "lat": -17.9666667,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "San José de Cala",
+      "lat": -18.6,
+      "lng": -67.8666667
+    },
+    {
+      "cityName": "San Martín",
+      "lat": -19.2666667,
+      "lng": -67.6
+    },
+    {
+      "cityName": "San Miguel",
+      "lat": -17.9333333,
+      "lng": -67.75
+    },
+    {
+      "cityName": "San Pedro",
+      "lat": -17.9333333,
+      "lng": -67.1
+    },
+    {
+      "cityName": "Santa Rosa",
+      "lat": -19.4666667,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Santo Tomás",
+      "lat": -18.1166667,
+      "lng": -67.1666667
+    },
+    {
+      "cityName": "Saucari",
+      "lat": -18.1333333,
+      "lng": -67.6
+    },
+    {
+      "cityName": "Sehualaca",
+      "lat": -19.65,
+      "lng": -67.3833333
+    },
+    {
+      "cityName": "Sellota",
+      "lat": -17.8833333,
+      "lng": -67.3166667
+    },
+    {
+      "cityName": "Sevarhuyo",
+      "lat": -19.4333333,
+      "lng": -66.85
+    },
+    {
+      "cityName": "Siralluma",
+      "lat": -18.4666667,
+      "lng": -67.4166667
+    },
+    {
+      "cityName": "Sirkuta",
+      "lat": -19.2166667,
+      "lng": -67.5166667
+    },
+    {
+      "cityName": "Soledad",
+      "lat": -17.7666667,
+      "lng": -67.2833333
+    },
+    {
+      "cityName": "Soloja",
+      "lat": -19.55,
+      "lng": -67.6
+    },
+    {
+      "cityName": "Soracachi",
+      "lat": -17.7666667,
+      "lng": -67.0333333
+    },
+    {
+      "cityName": "Soraga",
+      "lat": -19.3666667,
+      "lng": -66.8166667
+    },
+    {
+      "cityName": "Sora",
+      "lat": -18.0333333,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Sorasora",
+      "lat": -18.1666667,
+      "lng": -66.9666667
+    },
+    {
+      "cityName": "Sumpero",
+      "lat": -18.2666667,
+      "lng": -68.5166667
+    },
+    {
+      "cityName": "Surinocoo",
+      "lat": -18.1333333,
+      "lng": -68.0333333
+    },
+    {
+      "cityName": "Tacacolque",
+      "lat": -19.35,
+      "lng": -66.4833333
+    },
+    {
+      "cityName": "Tacagua",
+      "lat": -18.8666667,
+      "lng": -66.7333333
+    },
+    {
+      "cityName": "Tacala",
+      "lat": -19.3166667,
+      "lng": -66.8166667
+    },
+    {
+      "cityName": "Taglipuco",
+      "lat": -18.5166667,
+      "lng": -68.8333333
+    },
+    {
+      "cityName": "Tahualluna",
+      "lat": -18.5,
+      "lng": -66.9833333
+    },
+    {
+      "cityName": "Taman Caza",
+      "lat": -19.7166667,
+      "lng": -68.0166667
+    },
+    {
+      "cityName": "Tambo Quemado",
+      "lat": -17.85,
+      "lng": -68.5666667
+    },
+    {
+      "cityName": "Tambo Viejo",
+      "lat": -19.3833333,
+      "lng": -66.8833333
+    },
+    {
+      "cityName": "Tangani",
+      "lat": -19.0166667,
+      "lng": -67.4166667
+    },
+    {
+      "cityName": "Taraca Alta",
+      "lat": -18.2166667,
+      "lng": -66.9666667
+    },
+    {
+      "cityName": "Tauca",
+      "lat": -19.55,
+      "lng": -68.0333333
+    },
+    {
+      "cityName": "Taunai",
+      "lat": -19.4333333,
+      "lng": -68.35
+    },
+    {
+      "cityName": "Taypi Guano",
+      "lat": -19.0666667,
+      "lng": -68.3
+    },
+    {
+      "cityName": "Tenclani",
+      "lat": -18.5666667,
+      "lng": -67.9166667
+    },
+    {
+      "cityName": "Tencopa",
+      "lat": -19.0833333,
+      "lng": -66.6333333
+    },
+    {
+      "cityName": "Tequeruma",
+      "lat": -18.7,
+      "lng": -67.1666667
+    },
+    {
+      "cityName": "Thola Palca",
+      "lat": -17.85,
+      "lng": -66.8333333
+    },
+    {
+      "cityName": "Tiasa",
+      "lat": -18.4,
+      "lng": -67.4166667
+    },
+    {
+      "cityName": "Tinta",
+      "lat": -17.9166667,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Tirara",
+      "lat": -17.8666667,
+      "lng": -68.6333333
+    },
+    {
+      "cityName": "Tiratira",
+      "lat": -18.6666667,
+      "lng": -68.1333333
+    },
+    {
+      "cityName": "Tiviña",
+      "lat": -17.9,
+      "lng": -67.9666667
+    },
+    {
+      "cityName": "Toja Jahuir Guano",
+      "lat": -19.0833333,
+      "lng": -68.3
+    },
+    {
+      "cityName": "Tolalaca",
+      "lat": -17.9333333,
+      "lng": -68.7666667
+    },
+    {
+      "cityName": "Tolapampa",
+      "lat": -18.2833333,
+      "lng": -66.9833333
+    },
+    {
+      "cityName": "Tola",
+      "lat": -19.0666667,
+      "lng": -68.5
+    },
+    {
+      "cityName": "Tolcomachi",
+      "lat": -18.8,
+      "lng": -66.5166667
+    },
+    {
+      "cityName": "Toledo",
+      "lat": -18.1666667,
+      "lng": -67.4166667
+    },
+    {
+      "cityName": "Tomaquipa",
+      "lat": -19.0333333,
+      "lng": -67.4833333
+    },
+    {
+      "cityName": "Toqueriri",
+      "lat": -18.0166667,
+      "lng": -68.6166667
+    },
+    {
+      "cityName": "Totoral",
+      "lat": -18.5166667,
+      "lng": -66.8666667
+    },
+    {
+      "cityName": "Totorani",
+      "lat": -18.4,
+      "lng": -67.2166667
+    },
+    {
+      "cityName": "Tres Cruces",
+      "lat": -18.0333333,
+      "lng": -67.1333333
+    },
+    {
+      "cityName": "Trope",
+      "lat": -18.3833333,
+      "lng": -67.9166667
+    },
+    {
+      "cityName": "Tuesavira",
+      "lat": -18.4333333,
+      "lng": -68.4333333
+    },
+    {
+      "cityName": "Tujuria",
+      "lat": -18.3,
+      "lng": -67.5333333
+    },
+    {
+      "cityName": "Tunaba",
+      "lat": -18.8666667,
+      "lng": -68.5166667
+    },
+    {
+      "cityName": "Tunavi",
+      "lat": -19.35,
+      "lng": -67.4333333
+    },
+    {
+      "cityName": "Tuntola",
+      "lat": -18.8333333,
+      "lng": -66.6
+    },
+    {
+      "cityName": "Turco",
+      "lat": -18.1666667,
+      "lng": -68.1833333
+    },
+    {
+      "cityName": "Turuma",
+      "lat": -18.7833333,
+      "lng": -67.4833333
+    },
+    {
+      "cityName": "Tusqui",
+      "lat": -19.3833333,
+      "lng": -67.0166667
+    },
+    {
+      "cityName": "Tutuni",
+      "lat": -18.5833333,
+      "lng": -66.75
+    },
+    {
+      "cityName": "Ucumasi",
+      "lat": -18.9833333,
+      "lng": -67.5
+    },
+    {
+      "cityName": "Ukatujo",
+      "lat": -19.1666667,
+      "lng": -67.1
+    },
+    {
+      "cityName": "Untavi",
+      "lat": -18.6333333,
+      "lng": -67.35
+    },
+    {
+      "cityName": "Urcuyo",
+      "lat": -19.2833333,
+      "lng": -67.4666667
+    },
+    {
+      "cityName": "Urmiri",
+      "lat": -18.5666667,
+      "lng": -66.9
+    },
+    {
+      "cityName": "Uro-Vinto",
+      "lat": -18.7666667,
+      "lng": -66.75
+    },
+    {
+      "cityName": "Uyuni",
+      "lat": -19.7166667,
+      "lng": -68.1166667
+    },
+    {
+      "cityName": "Ventaimedia",
+      "lat": -18.2666667,
+      "lng": -66.8833333
+    },
+    {
+      "cityName": "Venta",
+      "lat": -18.9333333,
+      "lng": -67.4333333
+    },
+    {
+      "cityName": "Vilacollo",
+      "lat": -18.5166667,
+      "lng": -68.8
+    },
+    {
+      "cityName": "Vilahaque",
+      "lat": -18.2,
+      "lng": -66.9666667
+    },
+    {
+      "cityName": "Vila Vila",
+      "lat": -17.55,
+      "lng": -67.3666667
+    },
+    {
+      "cityName": "Vilcapujio",
+      "lat": -19.0333333,
+      "lng": -66.6
+    },
+    {
+      "cityName": "Vilcatambo",
+      "lat": -18.8333333,
+      "lng": -67.95
+    },
+    {
+      "cityName": "Vilcuni",
+      "lat": -19.1166667,
+      "lng": -67.8666667
+    },
+    {
+      "cityName": "Villa Concepción",
+      "lat": -18.75,
+      "lng": -67.7
+    },
+    {
+      "cityName": "Villa Esperanza",
+      "lat": -18.6833333,
+      "lng": -67.8
+    },
+    {
+      "cityName": "Villcani",
+      "lat": -19.4166667,
+      "lng": -66.85
+    },
+    {
+      "cityName": "Villque",
+      "lat": -19.6666667,
+      "lng": -68.0666667
+    },
+    {
+      "cityName": "Vilque",
+      "lat": -18.1666667,
+      "lng": -68.5
+    },
+    {
+      "cityName": "Vingal Vinto",
+      "lat": -19.3166667,
+      "lng": -67.0833333
+    },
+    {
+      "cityName": "Wila Kollu",
+      "lat": -18.3333333,
+      "lng": -66.8
+    },
+    {
+      "cityName": "Willki",
+      "lat": -18.6166667,
+      "lng": -66.8333333
+    },
+    {
+      "cityName": "Yanguyo",
+      "lat": -18.4,
+      "lng": -67.8833333
+    },
+    {
+      "cityName": "Yarcoma",
+      "lat": -18.2833333,
+      "lng": -67.45
+    },
+    {
+      "cityName": "Yauri Chambi",
+      "lat": -18.45,
+      "lng": -68.2166667
+    },
+    {
+      "cityName": "Yopil",
+      "lat": -18.2,
+      "lng": -68.0833333
+    },
+    {
+      "cityName": "Yupanqui",
+      "lat": -18.6333333,
+      "lng": -66.6166667
+    }
+  ]
+}

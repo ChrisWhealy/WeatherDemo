@@ -1,0 +1,35 @@
+{
+  "name": "Montserrat",
+  "iso2": "ms",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Saint Anthony",
+      "id": 0
+    },
+    {
+      "name": "Saint Georges",
+      "id": 1
+    },
+    {
+      "name": "Saint Peter",
+      "id": 2
+    }
+  ],
+  "geoRectangle": {
+    "West": -62.2425880432,
+    "East": -62.1464157104,
+    "North": 16.8173313141,
+    "South": 16.6710033417
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -4,
+    "Flg": 2,
+    "Name": "Plymouth",
+    "GeoPt": [
+      16.42,
+      -62.13
+    ]
+  }
+}

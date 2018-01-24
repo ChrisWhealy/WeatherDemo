@@ -1,0 +1,31 @@
+{
+  "name": "Seychelles",
+  "iso2": "sc",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Beau Vallon",
+      "id": 0
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 1
+    }
+  ],
+  "geoRectangle": {
+    "West": 46.2047615051,
+    "East": 56.2795143127,
+    "North": -4.28371620178,
+    "South": -9.75386810303
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 4,
+    "Flg": 2,
+    "Name": "Victoria",
+    "GeoPt": [
+      -4.38,
+      55.27
+    ]
+  }
+}

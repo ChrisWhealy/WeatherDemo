@@ -1,0 +1,71 @@
+{
+  "name": "Congo",
+  "iso2": "cg",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Bouenza",
+      "id": 0
+    },
+    {
+      "name": "Brazzaville",
+      "id": 1
+    },
+    {
+      "name": "Cuvette",
+      "id": 2
+    },
+    {
+      "name": "Cuvette-Ouest",
+      "id": 3
+    },
+    {
+      "name": "Kouilou",
+      "id": 4
+    },
+    {
+      "name": "Lekoumou",
+      "id": 5
+    },
+    {
+      "name": "Likouala",
+      "id": 6
+    },
+    {
+      "name": "Niari",
+      "id": 7
+    },
+    {
+      "name": "Plateaux",
+      "id": 8
+    },
+    {
+      "name": "Pool",
+      "id": 9
+    },
+    {
+      "name": "Sangha",
+      "id": 10
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 11
+    }
+  ],
+  "geoRectangle": {
+    "West": 11.2050075531,
+    "East": 18.6498413086,
+    "North": 3.70308232307,
+    "South": -5.02722358704
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Brazzaville",
+    "GeoPt": [
+      -4.15,
+      15.17
+    ]
+  }
+}

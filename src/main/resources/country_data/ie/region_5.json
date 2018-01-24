@@ -1,0 +1,920 @@
+{
+  "name": "Dublin",
+  "cities": [
+    {
+      "cityName": "Abbotstown",
+      "lat": 53.3930556,
+      "lng": -6.355
+    },
+    {
+      "cityName": "An Caisleán Nua",
+      "lat": 53.3011111,
+      "lng": -6.5022222
+    },
+    {
+      "cityName": "Annfield",
+      "lat": 53.3744444,
+      "lng": -6.4055556
+    },
+    {
+      "cityName": "An Ros",
+      "lat": 53.5247222,
+      "lng": -6.1097222
+    },
+    {
+      "cityName": "Artane",
+      "lat": 53.3825,
+      "lng": -6.2025
+    },
+    {
+      "cityName": "Ashtown",
+      "lat": 53.3752778,
+      "lng": -6.3305556
+    },
+    {
+      "cityName": "Baile Átha Cliath",
+      "lat": 53.3330556,
+      "lng": -6.2488889
+    },
+    {
+      "cityName": "Baile Bhlainséir",
+      "lat": 53.3880556,
+      "lng": -6.3755556
+    },
+    {
+      "cityName": "Baile Brigín",
+      "lat": 53.6127778,
+      "lng": -6.1819444
+    },
+    {
+      "cityName": "Baile Dúill",
+      "lat": 53.3997222,
+      "lng": -6.1258333
+    },
+    {
+      "cityName": "Balcunnin",
+      "lat": 53.5633333,
+      "lng": -6.1472222
+    },
+    {
+      "cityName": "Baldongan",
+      "lat": 53.5572222,
+      "lng": -6.1569444
+    },
+    {
+      "cityName": "Baldwinstown",
+      "lat": 53.5647222,
+      "lng": -6.3552778
+    },
+    {
+      "cityName": "Balgriffin",
+      "lat": 53.4094444,
+      "lng": -6.1741667
+    },
+    {
+      "cityName": "Ballinteer",
+      "lat": 53.2827778,
+      "lng": -6.2708333
+    },
+    {
+      "cityName": "Ballisk",
+      "lat": 53.49,
+      "lng": -6.1488889
+    },
+    {
+      "cityName": "Ballough",
+      "lat": 53.5352778,
+      "lng": -6.1963889
+    },
+    {
+      "cityName": "Ballsbridge",
+      "lat": 53.3302778,
+      "lng": -6.2305556
+    },
+    {
+      "cityName": "Ballyboden",
+      "lat": 53.2805556,
+      "lng": -6.3163889
+    },
+    {
+      "cityName": "Ballyboghil",
+      "lat": 53.5252778,
+      "lng": -6.2625
+    },
+    {
+      "cityName": "Ballybrack",
+      "lat": 53.2544444,
+      "lng": -6.1477778
+    },
+    {
+      "cityName": "Ballycorden",
+      "lat": 53.4097222,
+      "lng": -6.3680556
+    },
+    {
+      "cityName": "Ballycorus",
+      "lat": 53.2322222,
+      "lng": -6.1672222
+    },
+    {
+      "cityName": "Ballyfermot",
+      "lat": 53.3452778,
+      "lng": -6.3588889
+    },
+    {
+      "cityName": "Ballyman",
+      "lat": 53.4144444,
+      "lng": -6.2652778
+    },
+    {
+      "cityName": "Ballymount",
+      "lat": 53.3136111,
+      "lng": -6.3638889
+    },
+    {
+      "cityName": "Ballymun",
+      "lat": 53.3963889,
+      "lng": -6.2827778
+    },
+    {
+      "cityName": "Balrickard",
+      "lat": 53.5722222,
+      "lng": -6.2416667
+    },
+    {
+      "cityName": "Balrothery",
+      "lat": 53.5955556,
+      "lng": -6.2163889
+    },
+    {
+      "cityName": "Balscaddan",
+      "lat": 53.6230556,
+      "lng": -6.2308333
+    },
+    {
+      "cityName": "Beaumont",
+      "lat": 53.3913889,
+      "lng": -6.2405556
+    },
+    {
+      "cityName": "Belcamp",
+      "lat": 53.4108333,
+      "lng": -6.2022222
+    },
+    {
+      "cityName": "Beldaragh",
+      "lat": 53.5697222,
+      "lng": -6.2508333
+    },
+    {
+      "cityName": "Belgard",
+      "lat": 53.3030556,
+      "lng": -6.3966667
+    },
+    {
+      "cityName": "Binn Éadair",
+      "lat": 53.3877778,
+      "lng": -6.0652778
+    },
+    {
+      "cityName": "Blackrock",
+      "lat": 53.3030556,
+      "lng": -6.1830556
+    },
+    {
+      "cityName": "Booterstown",
+      "lat": 53.31,
+      "lng": -6.2155556
+    },
+    {
+      "cityName": "Brittas",
+      "lat": 53.2369444,
+      "lng": -6.4522222
+    },
+    {
+      "cityName": "Cabinteely",
+      "lat": 53.2594444,
+      "lng": -6.1447222
+    },
+    {
+      "cityName": "Cabra",
+      "lat": 53.3669444,
+      "lng": -6.2944444
+    },
+    {
+      "cityName": "Cappoge",
+      "lat": 53.4008333,
+      "lng": -6.3291667
+    },
+    {
+      "cityName": "Carrickmines",
+      "lat": 53.2519444,
+      "lng": -6.1711111
+    },
+    {
+      "cityName": "Castleknock",
+      "lat": 53.3786111,
+      "lng": -6.3922222
+    },
+    {
+      "cityName": "Chapelizod",
+      "lat": 53.3488889,
+      "lng": -6.3466667
+    },
+    {
+      "cityName": "Chapelmidway",
+      "lat": 53.4575,
+      "lng": -6.3102778
+    },
+    {
+      "cityName": "Cill Iníon Léinín",
+      "lat": 53.2522222,
+      "lng": -6.1125
+    },
+    {
+      "cityName": "Cloghran",
+      "lat": 53.4338889,
+      "lng": -6.2263889
+    },
+    {
+      "cityName": "Clonard",
+      "lat": 53.6058333,
+      "lng": -6.2275
+    },
+    {
+      "cityName": "Clondalkin",
+      "lat": 53.3244444,
+      "lng": -6.3972222
+    },
+    {
+      "cityName": "Clonsilla",
+      "lat": 53.3833333,
+      "lng": -6.4166667
+    },
+    {
+      "cityName": "Clontarf",
+      "lat": 53.3591667,
+      "lng": -6.2161111
+    },
+    {
+      "cityName": "Cnoc Mhuirfean",
+      "lat": 53.295,
+      "lng": -6.2372222
+    },
+    {
+      "cityName": "Concrete",
+      "lat": 53.31,
+      "lng": -6.2472222
+    },
+    {
+      "cityName": "Coolock",
+      "lat": 53.3883333,
+      "lng": -6.1938889
+    },
+    {
+      "cityName": "Corballis",
+      "lat": 53.4775,
+      "lng": -6.1430556
+    },
+    {
+      "cityName": "Coultry",
+      "lat": 53.4222222,
+      "lng": -6.2672222
+    },
+    {
+      "cityName": "Cross of the Cage",
+      "lat": 53.5802778,
+      "lng": -6.1877778
+    },
+    {
+      "cityName": "Crumlin",
+      "lat": 53.3241667,
+      "lng": -6.3286111
+    },
+    {
+      "cityName": "Cunard",
+      "lat": 53.2302778,
+      "lng": -6.3405556
+    },
+    {
+      "cityName": "Dalkey",
+      "lat": 53.2783333,
+      "lng": -6.1002778
+    },
+    {
+      "cityName": "Dallyhaysy",
+      "lat": 53.6008333,
+      "lng": -6.2313889
+    },
+    {
+      "cityName": "Damastown",
+      "lat": 53.5558333,
+      "lng": -6.3047222
+    },
+    {
+      "cityName": "Dardistown",
+      "lat": 53.4166667,
+      "lng": -6.2383333
+    },
+    {
+      "cityName": "Deans Grange",
+      "lat": 53.2816667,
+      "lng": -6.1677778
+    },
+    {
+      "cityName": "Dermotstown",
+      "lat": 53.59,
+      "lng": -6.2241667
+    },
+    {
+      "cityName": "Dollymount",
+      "lat": 53.3644444,
+      "lng": -6.1691667
+    },
+    {
+      "cityName": "Dolphin's Barn",
+      "lat": 53.3341667,
+      "lng": -6.3213889
+    },
+    {
+      "cityName": "Domhnach Bat",
+      "lat": 53.4872222,
+      "lng": -6.1519444
+    },
+    {
+      "cityName": "Donnybrook",
+      "lat": 53.3211111,
+      "lng": -6.2152778
+    },
+    {
+      "cityName": "Dooroge",
+      "lat": 53.5,
+      "lng": -6.25
+    },
+    {
+      "cityName": "Drisnoge",
+      "lat": 53.51,
+      "lng": -6.2938889
+    },
+    {
+      "cityName": "Drumcondra",
+      "lat": 53.3711111,
+      "lng": -6.2508333
+    },
+    {
+      "cityName": "Drumleck",
+      "lat": 53.3636111,
+      "lng": -6.0827778
+    },
+    {
+      "cityName": "Dundrum",
+      "lat": 53.2922222,
+      "lng": -6.2669444
+    },
+    {
+      "cityName": "Dún Laoghaire",
+      "lat": 53.2925,
+      "lng": -6.1286111
+    },
+    {
+      "cityName": "Dunsink",
+      "lat": 53.3833333,
+      "lng": -6.3333333
+    },
+    {
+      "cityName": "Esker",
+      "lat": 53.3505556,
+      "lng": -6.4380556
+    },
+    {
+      "cityName": "Fanning's Walls",
+      "lat": 53.5597222,
+      "lng": -6.3344444
+    },
+    {
+      "cityName": "Feltrim",
+      "lat": 53.4352778,
+      "lng": -6.1775
+    },
+    {
+      "cityName": "Finglas",
+      "lat": 53.3891667,
+      "lng": -6.2969444
+    },
+    {
+      "cityName": "Firhouse",
+      "lat": 53.2816667,
+      "lng": -6.3391667
+    },
+    {
+      "cityName": "Forrest Great",
+      "lat": 53.4419444,
+      "lng": -6.2630556
+    },
+    {
+      "cityName": "Fort Bridge",
+      "lat": 53.2597222,
+      "lng": -6.3688889
+    },
+    {
+      "cityName": "Fox and Geese",
+      "lat": 53.3236111,
+      "lng": -6.3558333
+    },
+    {
+      "cityName": "Foxrock",
+      "lat": 53.2666667,
+      "lng": -6.1741667
+    },
+    {
+      "cityName": "Galloping Green",
+      "lat": 53.2755556,
+      "lng": -6.1997222
+    },
+    {
+      "cityName": "Garristown",
+      "lat": 53.5661111,
+      "lng": -6.3855556
+    },
+    {
+      "cityName": "Glasnevin",
+      "lat": 53.3802778,
+      "lng": -6.2641667
+    },
+    {
+      "cityName": "Glencullen",
+      "lat": 53.2216667,
+      "lng": -6.2136111
+    },
+    {
+      "cityName": "Golden Ball",
+      "lat": 53.24,
+      "lng": -6.2216667
+    },
+    {
+      "cityName": "Gracedieu",
+      "lat": 53.5127778,
+      "lng": -6.2452778
+    },
+    {
+      "cityName": "Greatcommon",
+      "lat": 53.5391667,
+      "lng": -6.1613889
+    },
+    {
+      "cityName": "Harold's Cross",
+      "lat": 53.3263889,
+      "lng": -6.2947222
+    },
+    {
+      "cityName": "Hartstown",
+      "lat": 53.3930556,
+      "lng": -6.4269444
+    },
+    {
+      "cityName": "Hynestown",
+      "lat": 53.5772222,
+      "lng": -6.2836111
+    },
+    {
+      "cityName": "Inchicore",
+      "lat": 53.3377778,
+      "lng": -6.3461111
+    },
+    {
+      "cityName": "Irishtown",
+      "lat": 53.3380556,
+      "lng": -6.215
+    },
+    {
+      "cityName": "Islandbridge",
+      "lat": 53.3483333,
+      "lng": -6.3091667
+    },
+    {
+      "cityName": "Kilbarrack",
+      "lat": 53.3913889,
+      "lng": -6.1458333
+    },
+    {
+      "cityName": "Killeek",
+      "lat": 53.4547222,
+      "lng": -6.2780556
+    },
+    {
+      "cityName": "Kill of the Grange",
+      "lat": 53.2791667,
+      "lng": -6.1541667
+    },
+    {
+      "cityName": "Killosseny",
+      "lat": 53.4886111,
+      "lng": -6.3063889
+    },
+    {
+      "cityName": "Kilmainham",
+      "lat": 53.3333333,
+      "lng": -6.2833333
+    },
+    {
+      "cityName": "Kilmore",
+      "lat": 53.3963889,
+      "lng": -6.2280556
+    },
+    {
+      "cityName": "Kilstillaghan",
+      "lat": 53.4733333,
+      "lng": -6.3186111
+    },
+    {
+      "cityName": "Kiltiernan",
+      "lat": 53.2319444,
+      "lng": -6.1911111
+    },
+    {
+      "cityName": "Kingstown Cross Roads",
+      "lat": 53.4380556,
+      "lng": -6.2955556
+    },
+    {
+      "cityName": "Kingswood",
+      "lat": 53.3019444,
+      "lng": -6.4177778
+    },
+    {
+      "cityName": "Kinsaley",
+      "lat": 53.4247222,
+      "lng": -6.1758333
+    },
+    {
+      "cityName": "Kitchenstown",
+      "lat": 53.5825,
+      "lng": -6.2444444
+    },
+    {
+      "cityName": "Leamhcán",
+      "lat": 53.3591667,
+      "lng": -6.4388889
+    },
+    {
+      "cityName": "Leopardstown",
+      "lat": 53.2683333,
+      "lng": -6.1997222
+    },
+    {
+      "cityName": "Lidoville",
+      "lat": 53.5,
+      "lng": -6.1166667
+    },
+    {
+      "cityName": "Lispapple Cross Roads",
+      "lat": 53.4838889,
+      "lng": -6.2852778
+    },
+    {
+      "cityName": "Little Bray",
+      "lat": 53.2044444,
+      "lng": -6.1208333
+    },
+    {
+      "cityName": "Loughlinstown",
+      "lat": 53.2438889,
+      "lng": -6.1330556
+    },
+    {
+      "cityName": "Loughshinny",
+      "lat": 53.5491667,
+      "lng": -6.0827778
+    },
+    {
+      "cityName": "Lusca",
+      "lat": 53.5280556,
+      "lng": -6.1691667
+    },
+    {
+      "cityName": "Luttrell's Cross Roads",
+      "lat": 53.4486111,
+      "lng": -6.2947222
+    },
+    {
+      "cityName": "Luttrellstown",
+      "lat": 53.3738889,
+      "lng": -6.4322222
+    },
+    {
+      "cityName": "Malahide",
+      "lat": 53.4508333,
+      "lng": -6.1544444
+    },
+    {
+      "cityName": "Marino",
+      "lat": 53.3666667,
+      "lng": -6.2333333
+    },
+    {
+      "cityName": "Marlfield",
+      "lat": 53.2702778,
+      "lng": -6.3872222
+    },
+    {
+      "cityName": "Monkstown",
+      "lat": 53.2888889,
+      "lng": -6.1452778
+    },
+    {
+      "cityName": "Mountjoy",
+      "lat": 53.35,
+      "lng": -6.25
+    },
+    {
+      "cityName": "Mulhurddart",
+      "lat": 53.4036111,
+      "lng": -6.4011111
+    },
+    {
+      "cityName": "Nags Head",
+      "lat": 53.5605556,
+      "lng": -6.2716667
+    },
+    {
+      "cityName": "Na Sceirí",
+      "lat": 53.5827778,
+      "lng": -6.1083333
+    },
+    {
+      "cityName": "Naul",
+      "lat": 53.5866667,
+      "lng": -6.2897222
+    },
+    {
+      "cityName": "Nevitt",
+      "lat": 53.555,
+      "lng": -6.2375
+    },
+    {
+      "cityName": "Oldbawn",
+      "lat": 53.2755556,
+      "lng": -6.3675
+    },
+    {
+      "cityName": "Old Connaught",
+      "lat": 53.2083333,
+      "lng": -6.1344444
+    },
+    {
+      "cityName": "Oldtown",
+      "lat": 53.5252778,
+      "lng": -6.3155556
+    },
+    {
+      "cityName": "Palmerston",
+      "lat": 53.3627778,
+      "lng": -6.3655556
+    },
+    {
+      "cityName": "Peamount",
+      "lat": 53.3197222,
+      "lng": -6.4802778
+    },
+    {
+      "cityName": "Phibblestown",
+      "lat": 53.4005556,
+      "lng": -6.4344444
+    },
+    {
+      "cityName": "Phibsborough",
+      "lat": 53.3641667,
+      "lng": -6.2780556
+    },
+    {
+      "cityName": "Portmarnock",
+      "lat": 53.4230556,
+      "lng": -6.1375
+    },
+    {
+      "cityName": "Portraine",
+      "lat": 53.4966667,
+      "lng": -6.1111111
+    },
+    {
+      "cityName": "Raheny",
+      "lat": 53.3825,
+      "lng": -6.1744444
+    },
+    {
+      "cityName": "Ranelagh",
+      "lat": 53.3266667,
+      "lng": -6.2447222
+    },
+    {
+      "cityName": "Rathcoole",
+      "lat": 53.2827778,
+      "lng": -6.4727778
+    },
+    {
+      "cityName": "Rathfarnham",
+      "lat": 53.3005556,
+      "lng": -6.2827778
+    },
+    {
+      "cityName": "Rathgar",
+      "lat": 53.3122222,
+      "lng": -6.2683333
+    },
+    {
+      "cityName": "Rathmines",
+      "lat": 53.3202778,
+      "lng": -6.2633333
+    },
+    {
+      "cityName": "Redgap",
+      "lat": 53.2683333,
+      "lng": -6.4752778
+    },
+    {
+      "cityName": "Richardstown",
+      "lat": 53.5158333,
+      "lng": -6.2361111
+    },
+    {
+      "cityName": "Ringsend",
+      "lat": 53.3419444,
+      "lng": -6.2263889
+    },
+    {
+      "cityName": "Riversdale",
+      "lat": 53.3172222,
+      "lng": -6.5075
+    },
+    {
+      "cityName": "Rockbrook",
+      "lat": 53.2611111,
+      "lng": -6.3002778
+    },
+    {
+      "cityName": "Roundtown",
+      "lat": 53.3097222,
+      "lng": -6.2852778
+    },
+    {
+      "cityName": "Saggart",
+      "lat": 53.2802778,
+      "lng": -6.4444444
+    },
+    {
+      "cityName": "((Saint Anns Wells))",
+      "lat": 53.2333333,
+      "lng": -6.35
+    },
+    {
+      "cityName": "Saint Doolaghs",
+      "lat": 53.4163889,
+      "lng": -6.1805556
+    },
+    {
+      "cityName": "Saint Margaret's",
+      "lat": 53.4316667,
+      "lng": -6.3002778
+    },
+    {
+      "cityName": "Saint Marnocks",
+      "lat": 53.4308333,
+      "lng": -6.1275
+    },
+    {
+      "cityName": "Sallynoggin",
+      "lat": 53.2736111,
+      "lng": -6.1425
+    },
+    {
+      "cityName": "Sandyford",
+      "lat": 53.2697222,
+      "lng": -6.2241667
+    },
+    {
+      "cityName": "Sandymount",
+      "lat": 53.335,
+      "lng": -6.2113889
+    },
+    {
+      "cityName": "Santry",
+      "lat": 53.3986111,
+      "lng": -6.2597222
+    },
+    {
+      "cityName": "Seafield",
+      "lat": 53.4747222,
+      "lng": -6.1763889
+    },
+    {
+      "cityName": "Sea Mount",
+      "lat": 53.4427778,
+      "lng": -6.14
+    },
+    {
+      "cityName": "Shankill",
+      "lat": 53.2261111,
+      "lng": -6.1244444
+    },
+    {
+      "cityName": "Skephubble",
+      "lat": 53.4516667,
+      "lng": -6.3077778
+    },
+    {
+      "cityName": "Slade",
+      "lat": 53.2666667,
+      "lng": -6.4466667
+    },
+    {
+      "cityName": "Sord",
+      "lat": 53.4597222,
+      "lng": -6.2180556
+    },
+    {
+      "cityName": "Stepaside",
+      "lat": 53.2525,
+      "lng": -6.2136111
+    },
+    {
+      "cityName": "Stillorgan",
+      "lat": 53.2875,
+      "lng": -6.2191667
+    },
+    {
+      "cityName": "Summerton",
+      "lat": 53.3663889,
+      "lng": -6.4075
+    },
+    {
+      "cityName": "Sutton",
+      "lat": 53.3905556,
+      "lng": -6.1216667
+    },
+    {
+      "cityName": "Tallaght",
+      "lat": 53.2877778,
+      "lng": -6.3411111
+    },
+    {
+      "cityName": "Templeogue",
+      "lat": 53.2952778,
+      "lng": -6.3088889
+    },
+    {
+      "cityName": "The Five Roads",
+      "lat": 53.5541667,
+      "lng": -6.2091667
+    },
+    {
+      "cityName": "Tobertown",
+      "lat": 53.6169444,
+      "lng": -6.2538889
+    },
+    {
+      "cityName": "Walkinstown",
+      "lat": 53.3213889,
+      "lng": -6.3530556
+    },
+    {
+      "cityName": "Ward",
+      "lat": 53.4330556,
+      "lng": -6.3333333
+    },
+    {
+      "cityName": "Whitechurch",
+      "lat": 53.2716667,
+      "lng": -6.2780556
+    },
+    {
+      "cityName": "Whitestown",
+      "lat": 53.3986111,
+      "lng": -6.4005556
+    },
+    {
+      "cityName": "Willbrook",
+      "lat": 53.2936111,
+      "lng": -6.3119444
+    },
+    {
+      "cityName": "Williamsville",
+      "lat": 53.4127778,
+      "lng": -6.3052778
+    },
+    {
+      "cityName": "Windy Arbour",
+      "lat": 53.3055556,
+      "lng": -6.2580556
+    },
+    {
+      "cityName": "Woodlands",
+      "lat": 53.4108333,
+      "lng": -6.2158333
+    },
+    {
+      "cityName": "Woodtown",
+      "lat": 53.2658333,
+      "lng": -6.3163889
+    }
+  ]
+}

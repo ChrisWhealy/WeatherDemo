@@ -1,0 +1,95 @@
+{
+  "name": "Kazakhstan",
+  "iso2": "kz",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Almaty",
+      "id": 0
+    },
+    {
+      "name": "Almaty City",
+      "id": 1
+    },
+    {
+      "name": "Aqmola",
+      "id": 2
+    },
+    {
+      "name": "Aqtobe",
+      "id": 3
+    },
+    {
+      "name": "Astana",
+      "id": 4
+    },
+    {
+      "name": "Atyrau",
+      "id": 5
+    },
+    {
+      "name": "Bayqonyr",
+      "id": 6
+    },
+    {
+      "name": "East Kazakhstan",
+      "id": 7
+    },
+    {
+      "name": "Mangghystau",
+      "id": 8
+    },
+    {
+      "name": "North Kazakhstan",
+      "id": 9
+    },
+    {
+      "name": "Pavlodar",
+      "id": 10
+    },
+    {
+      "name": "Qaraghandy",
+      "id": 11
+    },
+    {
+      "name": "Qostanay",
+      "id": 12
+    },
+    {
+      "name": "Qyzylorda",
+      "id": 13
+    },
+    {
+      "name": "South Kazakhstan",
+      "id": 14
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 15
+    },
+    {
+      "name": "West Kazakhstan",
+      "id": 16
+    },
+    {
+      "name": "Zhambyl",
+      "id": 17
+    }
+  ],
+  "geoRectangle": {
+    "West": 46.4918518066,
+    "East": 87.3126831055,
+    "North": 55.4512023926,
+    "South": 40.9363288879
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 6,
+    "Flg": 2,
+    "Name": "Astana",
+    "GeoPt": [
+      51.1,
+      71.25
+    ]
+  }
+}

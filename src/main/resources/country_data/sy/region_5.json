@@ -1,0 +1,885 @@
+{
+  "name": "Dar",
+  "cities": [
+    {
+      "cityName": "Aadaouâne",
+      "lat": 32.8166667,
+      "lng": 35.9833333
+    },
+    {
+      "cityName": "Aajami",
+      "lat": 32.7333333,
+      "lng": 35.9833333
+    },
+    {
+      "cityName": "Aalma",
+      "lat": 32.7483333,
+      "lng": 36.2416667
+    },
+    {
+      "cityName": "Aalqîne",
+      "lat": 33.2333333,
+      "lng": 36.2666667
+    },
+    {
+      "cityName": "Aaqraba",
+      "lat": 33.1,
+      "lng": 36
+    },
+    {
+      "cityName": "Aassem",
+      "lat": 32.9486111,
+      "lng": 36.3219444
+    },
+    {
+      "cityName": "`Abay",
+      "lat": 33.25,
+      "lng": 36.25
+    },
+    {
+      "cityName": "`Abd al Amir",
+      "lat": 35.1861111,
+      "lng": 37.6138889
+    },
+    {
+      "cityName": "Abou Qanntara",
+      "lat": 32.6716667,
+      "lng": 35.9822222
+    },
+    {
+      "cityName": "Abu Hakfa",
+      "lat": 35.1611111,
+      "lng": 37.5138889
+    },
+    {
+      "cityName": "Abu Kahf",
+      "lat": 35.1444444,
+      "lng": 37.5805556
+    },
+    {
+      "cityName": "Abu Yaqfan",
+      "lat": 33.2,
+      "lng": 36.4333333
+    },
+    {
+      "cityName": "Adraa",
+      "lat": 32.6252778,
+      "lng": 36.1061111
+    },
+    {
+      "cityName": "Aeré",
+      "lat": 33.0833333,
+      "lng": 36.1666667
+    },
+    {
+      "cityName": "Al Burak",
+      "lat": 33.185,
+      "lng": 36.4797222
+    },
+    {
+      "cityName": "Al Faqi`",
+      "lat": 32.9333333,
+      "lng": 36.1666667
+    },
+    {
+      "cityName": "Al Haddaj",
+      "lat": 35.0972222,
+      "lng": 37.7
+    },
+    {
+      "cityName": "Al Hammah",
+      "lat": 32.6833333,
+      "lng": 35.6666667
+    },
+    {
+      "cityName": "Al Hara'ik",
+      "lat": 32.7330556,
+      "lng": 36.2830556
+    },
+    {
+      "cityName": "Al Harak",
+      "lat": 32.7333333,
+      "lng": 36.3002778
+    },
+    {
+      "cityName": "Al Hasaw",
+      "lat": 35.15,
+      "lng": 37.6944444
+    },
+    {
+      "cityName": "Al Jibab",
+      "lat": 33.1108333,
+      "lng": 36.2694444
+    },
+    {
+      "cityName": "Al Jizah",
+      "lat": 32.5666667,
+      "lng": 36.3166667
+    },
+    {
+      "cityName": "Al Juma",
+      "lat": 35.2055556,
+      "lng": 37.3055556
+    },
+    {
+      "cityName": "Al Karak",
+      "lat": 32.6855556,
+      "lng": 36.3491667
+    },
+    {
+      "cityName": "Al Kaziyah",
+      "lat": 32.7166667,
+      "lng": 35.8833333
+    },
+    {
+      "cityName": "Al Kutaybah",
+      "lat": 32.7455556,
+      "lng": 36.1980556
+    },
+    {
+      "cityName": "Al Kuwayyah",
+      "lat": 32.7455556,
+      "lng": 35.8094444
+    },
+    {
+      "cityName": "Al Lahm",
+      "lat": 35.275,
+      "lng": 37.8472222
+    },
+    {
+      "cityName": "Al Mal",
+      "lat": 33.1333333,
+      "lng": 36
+    },
+    {
+      "cityName": "Al Mismiyah",
+      "lat": 33.1333333,
+      "lng": 36.3833333
+    },
+    {
+      "cityName": "Al Muftayhah",
+      "lat": 35.2388889,
+      "lng": 37.4138889
+    },
+    {
+      "cityName": "Al Mujaydil",
+      "lat": 32.9625,
+      "lng": 36.2563889
+    },
+    {
+      "cityName": "Al Musayfirah",
+      "lat": 32.6166667,
+      "lng": 36.3333333
+    },
+    {
+      "cityName": "Al Mushayrifah",
+      "lat": 35.025,
+      "lng": 37.5222222
+    },
+    {
+      "cityName": "Al Muta`iyah",
+      "lat": 32.4833333,
+      "lng": 36.2833333
+    },
+    {
+      "cityName": "Al Qusaybah",
+      "lat": 32.9833333,
+      "lng": 35.95
+    },
+    {
+      "cityName": "Al Yadudah",
+      "lat": 32.6766667,
+      "lng": 36.0575
+    },
+    {
+      "cityName": "An Najih",
+      "lat": 32.9333333,
+      "lng": 36.2502778
+    },
+    {
+      "cityName": "An Namir",
+      "lat": 32.7833333,
+      "lng": 36.2166667
+    },
+    {
+      "cityName": "Ar Rawdah",
+      "lat": 35.1805556,
+      "lng": 37.6194444
+    },
+    {
+      "cityName": "Ash Shaykh Maskin",
+      "lat": 32.8166667,
+      "lng": 36.15
+    },
+    {
+      "cityName": "Ash Shaykh Sa`d",
+      "lat": 32.8333333,
+      "lng": 36.0333333
+    },
+    {
+      "cityName": "Ashuwayhah",
+      "lat": 35.2305556,
+      "lng": 37.0861111
+    },
+    {
+      "cityName": "As Salaliyah",
+      "lat": 35.0638889,
+      "lng": 37.5305556
+    },
+    {
+      "cityName": "As Summaqiyat",
+      "lat": 32.4333333,
+      "lng": 36.4
+    },
+    {
+      "cityName": "As Surah",
+      "lat": 32.7508333,
+      "lng": 36.2158333
+    },
+    {
+      "cityName": "At Tayhah",
+      "lat": 33.1466667,
+      "lng": 35.9961111
+    },
+    {
+      "cityName": "At Tayyibah",
+      "lat": 32.5608333,
+      "lng": 36.2441667
+    },
+    {
+      "cityName": "Basir",
+      "lat": 33.05,
+      "lng": 36.2333333
+    },
+    {
+      "cityName": "Basr al Harir",
+      "lat": 32.8425,
+      "lng": 36.34
+    },
+    {
+      "cityName": "Beit Qatsir",
+      "lat": 32.7,
+      "lng": 35.6166667
+    },
+    {
+      "cityName": "Bilay",
+      "lat": 33.2241667,
+      "lng": 36.4633333
+    },
+    {
+      "cityName": "Bosra",
+      "lat": 32.5166667,
+      "lng": 36.4833333
+    },
+    {
+      "cityName": "Bostâs",
+      "lat": 32.9833333,
+      "lng": 36.0166667
+    },
+    {
+      "cityName": "Bouta",
+      "lat": 32.7111111,
+      "lng": 36.0255556
+    },
+    {
+      "cityName": "Châara",
+      "lat": 33.1,
+      "lng": 36.3333333
+    },
+    {
+      "cityName": "Chakra",
+      "lat": 32.9,
+      "lng": 36.2333333
+    },
+    {
+      "cityName": "Cheïkh el Arbaaïne",
+      "lat": 32.6072222,
+      "lng": 36.0966667
+    },
+    {
+      "cityName": "Dâail",
+      "lat": 32.75,
+      "lng": 36.1333333
+    },
+    {
+      "cityName": "Dayr al `Adas",
+      "lat": 33.15,
+      "lng": 36.15
+    },
+    {
+      "cityName": "Dayr al Bukht",
+      "lat": 33.1333333,
+      "lng": 36.1833333
+    },
+    {
+      "cityName": "Dayr as Salt",
+      "lat": 32.7533333,
+      "lng": 36.2836111
+    },
+    {
+      "cityName": "Deneibé",
+      "lat": 32.85,
+      "lng": 36.2166667
+    },
+    {
+      "cityName": "Dillé",
+      "lat": 32.9,
+      "lng": 36.15
+    },
+    {
+      "cityName": "Ennkhel",
+      "lat": 33,
+      "lng": 36.1166667
+    },
+    {
+      "cityName": "En Nueime",
+      "lat": 32.6361111,
+      "lng": 36.1608333
+    },
+    {
+      "cityName": "Es Ghariye esh Sherkiye",
+      "lat": 32.6666667,
+      "lng": 36.2666667
+    },
+    {
+      "cityName": "Ezraa",
+      "lat": 32.8577778,
+      "lng": 36.2544444
+    },
+    {
+      "cityName": "Fawra",
+      "lat": 35.2055556,
+      "lng": 37.225
+    },
+    {
+      "cityName": "Fayij Tahmaz",
+      "lat": 35.1361111,
+      "lng": 37.7
+    },
+    {
+      "cityName": "Ghabaghib",
+      "lat": 33.1666667,
+      "lng": 36.2166667
+    },
+    {
+      "cityName": "Ghariyat al Gharbiyah",
+      "lat": 32.6880556,
+      "lng": 36.2266667
+    },
+    {
+      "cityName": "Ghasm",
+      "lat": 32.5444444,
+      "lng": 36.3733333
+    },
+    {
+      "cityName": "Ghazale",
+      "lat": 32.7333333,
+      "lng": 36.2041667
+    },
+    {
+      "cityName": "Haïté",
+      "lat": 32.7483333,
+      "lng": 35.9066667
+    },
+    {
+      "cityName": "Hamadat al `Amr",
+      "lat": 35.0222222,
+      "lng": 37.4416667
+    },
+    {
+      "cityName": "Hâmer",
+      "lat": 32.9466667,
+      "lng": 36.2933333
+    },
+    {
+      "cityName": "Harfushiyah",
+      "lat": 35.1722222,
+      "lng": 37.2027778
+    },
+    {
+      "cityName": "Harmala",
+      "lat": 35.1805556,
+      "lng": 37.5638889
+    },
+    {
+      "cityName": "Hebab",
+      "lat": 33,
+      "lng": 36.2666667
+    },
+    {
+      "cityName": "Ibtaa",
+      "lat": 32.7833333,
+      "lng": 36.15
+    },
+    {
+      "cityName": "Jacem",
+      "lat": 32.9833333,
+      "lng": 36.0833333
+    },
+    {
+      "cityName": "Jaddel",
+      "lat": 32.9708333,
+      "lng": 36.3608333
+    },
+    {
+      "cityName": "Jaddiyah",
+      "lat": 33.05,
+      "lng": 36.1
+    },
+    {
+      "cityName": "Jallayn",
+      "lat": 32.7511111,
+      "lng": 35.9916667
+    },
+    {
+      "cityName": "Jamrah",
+      "lat": 33.0244444,
+      "lng": 36.3591667
+    },
+    {
+      "cityName": "Jamrine",
+      "lat": 32.55,
+      "lng": 36.4833333
+    },
+    {
+      "cityName": "Jisri",
+      "lat": 33,
+      "lng": 36.35
+    },
+    {
+      "cityName": "Joubaïb",
+      "lat": 32.6255556,
+      "lng": 36.4261111
+    },
+    {
+      "cityName": "Joubb es Safa",
+      "lat": 33.2336111,
+      "lng": 36.3183333
+    },
+    {
+      "cityName": "Jubb al UsÌ„d",
+      "lat": 35.0555556,
+      "lng": 37.5222222
+    },
+    {
+      "cityName": "Jubb az Za`tar",
+      "lat": 35.0611111,
+      "lng": 37.5777778
+    },
+    {
+      "cityName": "Jubb `Iid",
+      "lat": 35.175,
+      "lng": 37.5666667
+    },
+    {
+      "cityName": "Judaydah",
+      "lat": 35.1305556,
+      "lng": 37.5944444
+    },
+    {
+      "cityName": "Kafer Chams",
+      "lat": 33.1166667,
+      "lng": 36.1166667
+    },
+    {
+      "cityName": "Kafer Nâssej",
+      "lat": 33.15,
+      "lng": 36.05
+    },
+    {
+      "cityName": "Kafr Tamir",
+      "lat": 32.7805556,
+      "lng": 35.9833333
+    },
+    {
+      "cityName": "Kahil",
+      "lat": 32.6166667,
+      "lng": 36.2666667
+    },
+    {
+      "cityName": "Kammoûné",
+      "lat": 33.2333333,
+      "lng": 36.2333333
+    },
+    {
+      "cityName": "Kanâyé",
+      "lat": 33.0133333,
+      "lng": 36.1888889
+    },
+    {
+      "cityName": "Karfa",
+      "lat": 32.8,
+      "lng": 36.1833333
+    },
+    {
+      "cityName": "Khanafis",
+      "lat": 35.2277778,
+      "lng": 37.2666667
+    },
+    {
+      "cityName": "Khan al Ahmar",
+      "lat": 32.7,
+      "lng": 35.6333333
+    },
+    {
+      "cityName": "Kheurbet Aammâr",
+      "lat": 33.2166667,
+      "lng": 36.2
+    },
+    {
+      "cityName": "Kheurbet el Bóuaïr",
+      "lat": 32.9166667,
+      "lng": 36.2833333
+    },
+    {
+      "cityName": "Khirbat Duwayzin",
+      "lat": 35,
+      "lng": 37.8166667
+    },
+    {
+      "cityName": "Ma`agan",
+      "lat": 32.7027778,
+      "lng": 35.5988889
+    },
+    {
+      "cityName": "Maaraba",
+      "lat": 32.545,
+      "lng": 36.4241667
+    },
+    {
+      "cityName": "Mahaje",
+      "lat": 32.95,
+      "lng": 36.2333333
+    },
+    {
+      "cityName": "Maksar al Janubi",
+      "lat": 35.1944444,
+      "lng": 37.5972222
+    },
+    {
+      "cityName": "Maksar ash Shamali",
+      "lat": 35.2083333,
+      "lng": 37.6
+    },
+    {
+      "cityName": "Malihah",
+      "lat": 32.7333333,
+      "lng": 36.2
+    },
+    {
+      "cityName": "Malihat al `Atash",
+      "lat": 32.8333333,
+      "lng": 36.3
+    },
+    {
+      "cityName": "Masharah",
+      "lat": 33.1391667,
+      "lng": 35.9616667
+    },
+    {
+      "cityName": "Mawzarah",
+      "lat": 32.7722222,
+      "lng": 35.8194444
+    },
+    {
+      "cityName": "Mazra`at Abu Ribah",
+      "lat": 35.0666667,
+      "lng": 37.0222222
+    },
+    {
+      "cityName": "Mazra`at Bajariyah",
+      "lat": 35.1277778,
+      "lng": 37.1694444
+    },
+    {
+      "cityName": "Merjâné",
+      "lat": 33.2333333,
+      "lng": 36.3666667
+    },
+    {
+      "cityName": "Mintar al Hijanah",
+      "lat": 35.2194444,
+      "lng": 37.55
+    },
+    {
+      "cityName": "Mlaïha ech Charqîyé",
+      "lat": 32.7594444,
+      "lng": 36.3658333
+    },
+    {
+      "cityName": "Mlaïha er Rharbîyé",
+      "lat": 32.7533333,
+      "lng": 36.3447222
+    },
+    {
+      "cityName": "Moutbîne",
+      "lat": 33.1419444,
+      "lng": 36.25
+    },
+    {
+      "cityName": "Msaïké",
+      "lat": 32.9169444,
+      "lng": 36.3
+    },
+    {
+      "cityName": "Mubattan Tahmaz",
+      "lat": 35.1388889,
+      "lng": 37.6166667
+    },
+    {
+      "cityName": "Mustarihat Tahmaz",
+      "lat": 35.1388889,
+      "lng": 37.6527778
+    },
+    {
+      "cityName": "Nahitah",
+      "lat": 32.7866667,
+      "lng": 36.35
+    },
+    {
+      "cityName": "Namr",
+      "lat": 33.0197222,
+      "lng": 36.0269444
+    },
+    {
+      "cityName": "Naoua",
+      "lat": 32.8833333,
+      "lng": 36.05
+    },
+    {
+      "cityName": "Nasib",
+      "lat": 32.5516667,
+      "lng": 36.1836111
+    },
+    {
+      "cityName": "Osmâne",
+      "lat": 32.6666667,
+      "lng": 36.1138889
+    },
+    {
+      "cityName": "Oum el Aaouamîd",
+      "lat": 33.2,
+      "lng": 36.3666667
+    },
+    {
+      "cityName": "Oum el Aaoussaj",
+      "lat": 33.0833333,
+      "lng": 36.05
+    },
+    {
+      "cityName": "Oum el Mayâdeïne",
+      "lat": 32.5833333,
+      "lng": 36.1925
+    },
+    {
+      "cityName": "Oum el Qoussoûr",
+      "lat": 33.1833333,
+      "lng": 36.3333333
+    },
+    {
+      "cityName": "Oumm Oualad",
+      "lat": 32.6577778,
+      "lng": 36.4319444
+    },
+    {
+      "cityName": "Qadiriyah",
+      "lat": 35.1305556,
+      "lng": 37.0972222
+    },
+    {
+      "cityName": "Qaytah",
+      "lat": 33.0666667,
+      "lng": 36.1333333
+    },
+    {
+      "cityName": "Rakham",
+      "lat": 32.7169444,
+      "lng": 36.3419444
+    },
+    {
+      "cityName": "Rasm Abu Alba",
+      "lat": 35.3638889,
+      "lng": 37.6388889
+    },
+    {
+      "cityName": "Rasm Abu al Fashafish",
+      "lat": 35.1527778,
+      "lng": 37.5972222
+    },
+    {
+      "cityName": "Rasm Abu Sur",
+      "lat": 35.2861111,
+      "lng": 37.6194444
+    },
+    {
+      "cityName": "Rasm al `Ali",
+      "lat": 35.0444444,
+      "lng": 37.6027778
+    },
+    {
+      "cityName": "Rasm al Firdawi",
+      "lat": 35.275,
+      "lng": 37.5416667
+    },
+    {
+      "cityName": "Rasm ash Shaykh",
+      "lat": 35.0361111,
+      "lng": 37.5333333
+    },
+    {
+      "cityName": "Rasm as Salim",
+      "lat": 35.2361111,
+      "lng": 37.2638889
+    },
+    {
+      "cityName": "Rasm as Suwwanah",
+      "lat": 35.05,
+      "lng": 37.7666667
+    },
+    {
+      "cityName": "Rasm at Tinah",
+      "lat": 35.225,
+      "lng": 37.5888889
+    },
+    {
+      "cityName": "Rasm Jadi(212)dah",
+      "lat": 35.1305556,
+      "lng": 37.8722222
+    },
+    {
+      "cityName": "Rasm Kaddush",
+      "lat": 35.0666667,
+      "lng": 37.7333333
+    },
+    {
+      "cityName": "Rasm Murda`anah",
+      "lat": 35.0194444,
+      "lng": 37.7722222
+    },
+    {
+      "cityName": "Ray` al Hawa",
+      "lat": 35.1972222,
+      "lng": 37.2722222
+    },
+    {
+      "cityName": "Ruwayda",
+      "lat": 35.1083333,
+      "lng": 37.55
+    },
+    {
+      "cityName": "Saburah",
+      "lat": 35.1638889,
+      "lng": 37.2
+    },
+    {
+      "cityName": "Saham al Jawlan",
+      "lat": 32.7811111,
+      "lng": 35.9347222
+    },
+    {
+      "cityName": "Sahouet el Qameh",
+      "lat": 32.5969444,
+      "lng": 36.3655556
+    },
+    {
+      "cityName": "Sahyun",
+      "lat": 32.8194444,
+      "lng": 35.8722222
+    },
+    {
+      "cityName": "Sa`idah",
+      "lat": 32.6316667,
+      "lng": 36.2283333
+    },
+    {
+      "cityName": "Salbiyah",
+      "lat": 35.1416667,
+      "lng": 37.3861111
+    },
+    {
+      "cityName": "Samad",
+      "lat": 32.4666667,
+      "lng": 36.5166667
+    },
+    {
+      "cityName": "Samaj ed Deïr",
+      "lat": 32.45,
+      "lng": 36.5
+    },
+    {
+      "cityName": "Shuhayb",
+      "lat": 35.2,
+      "lng": 37.1222222
+    },
+    {
+      "cityName": "Simlan",
+      "lat": 33.0333333,
+      "lng": 36.0666667
+    },
+    {
+      "cityName": "Siret Abadane",
+      "lat": 33.15,
+      "lng": 36.1333333
+    },
+    {
+      "cityName": "Soûr el Léja",
+      "lat": 32.9619444,
+      "lng": 36.3091667
+    },
+    {
+      "cityName": "Sumnat",
+      "lat": 35.1361111,
+      "lng": 37.0666667
+    },
+    {
+      "cityName": "Tafass",
+      "lat": 32.7380556,
+      "lng": 36.0686111
+    },
+    {
+      "cityName": "Tall al Barak",
+      "lat": 32.8055556,
+      "lng": 35.9777778
+    },
+    {
+      "cityName": "Tall ash Shihab",
+      "lat": 32.6833333,
+      "lng": 35.9666667
+    },
+    {
+      "cityName": "Tall Karim",
+      "lat": 33.1666667,
+      "lng": 36.1333333
+    },
+    {
+      "cityName": "Tibnah",
+      "lat": 32.9833333,
+      "lng": 36.2166667
+    },
+    {
+      "cityName": "Timarus",
+      "lat": 33.15,
+      "lng": 36.1833333
+    },
+    {
+      "cityName": "Tisiyah",
+      "lat": 32.4,
+      "lng": 36.45
+    },
+    {
+      "cityName": "`Ulliyat al Qastal",
+      "lat": 35.0722222,
+      "lng": 37.5861111
+    },
+    {
+      "cityName": "Zalzum",
+      "lat": 32.7169444,
+      "lng": 35.9405556
+    },
+    {
+      "cityName": "Zimrîne",
+      "lat": 33.05,
+      "lng": 36.0666667
+    }
+  ]
+}

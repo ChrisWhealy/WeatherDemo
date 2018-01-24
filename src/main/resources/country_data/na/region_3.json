@@ -1,0 +1,810 @@
+{
+  "name": "Karas",
+  "cities": [
+    {
+      "cityName": "Affenrücken",
+      "lat": -28.0833333,
+      "lng": 15.8166667
+    },
+    {
+      "cityName": "Ai-Ais",
+      "lat": -27.9166667,
+      "lng": 17.4833333
+    },
+    {
+      "cityName": "Ais",
+      "lat": -28.1833333,
+      "lng": 19.5166667
+    },
+    {
+      "cityName": "Aluriesfontein",
+      "lat": -28.5333333,
+      "lng": 18.7
+    },
+    {
+      "cityName": "Angra-Juntas",
+      "lat": -27.65,
+      "lng": 15.55
+    },
+    {
+      "cityName": "Araob",
+      "lat": -26.8,
+      "lng": 19.65
+    },
+    {
+      "cityName": "Ariamab",
+      "lat": -27.2833333,
+      "lng": 17.4666667
+    },
+    {
+      "cityName": "Ariamsvlei",
+      "lat": -28.1166667,
+      "lng": 19.8166667
+    },
+    {
+      "cityName": "Aupütz",
+      "lat": -28.25,
+      "lng": 18.0833333
+    },
+    {
+      "cityName": "Aurus",
+      "lat": -26.1166667,
+      "lng": 14.9833333
+    },
+    {
+      "cityName": "Aus",
+      "lat": -26.6666667,
+      "lng": 16.2666667
+    },
+    {
+      "cityName": "Austerlitz",
+      "lat": -28.2833333,
+      "lng": 19.25
+    },
+    {
+      "cityName": "Beenbreek",
+      "lat": -28.7,
+      "lng": 19.4166667
+    },
+    {
+      "cityName": "Berseba",
+      "lat": -25.9833333,
+      "lng": 17.7833333
+    },
+    {
+      "cityName": "Bethanie",
+      "lat": -26.4833333,
+      "lng": 17.15
+    },
+    {
+      "cityName": "Blau",
+      "lat": -26.1333333,
+      "lng": 18.2666667
+    },
+    {
+      "cityName": "Blydeverwacht",
+      "lat": -28.3,
+      "lng": 19.6
+    },
+    {
+      "cityName": "Bokiesbank",
+      "lat": -28.3333333,
+      "lng": 19.3333333
+    },
+    {
+      "cityName": "Bruinheuvel",
+      "lat": -28.4666667,
+      "lng": 18.1666667
+    },
+    {
+      "cityName": "Charliesputs",
+      "lat": -28.0833333,
+      "lng": 19.6833333
+    },
+    {
+      "cityName": "Chrisjansputs",
+      "lat": -28.0833333,
+      "lng": 18.2666667
+    },
+    {
+      "cityName": "Dabegabis",
+      "lat": -28.2666667,
+      "lng": 18.6166667
+    },
+    {
+      "cityName": "Davignab",
+      "lat": -27.5333333,
+      "lng": 19.8166667
+    },
+    {
+      "cityName": "Devillers Pütz",
+      "lat": -28.0833333,
+      "lng": 19.1833333
+    },
+    {
+      "cityName": "Dobegabis",
+      "lat": -28.3,
+      "lng": 18.7
+    },
+    {
+      "cityName": "Draaihoek",
+      "lat": -28.1,
+      "lng": 18.6
+    },
+    {
+      "cityName": "Drei Kameelbaum",
+      "lat": -28.15,
+      "lng": 19.0833333
+    },
+    {
+      "cityName": "Duurdrift",
+      "lat": -28.35,
+      "lng": 19.3666667
+    },
+    {
+      "cityName": "Elizabeth Bay",
+      "lat": -26.9161111,
+      "lng": 15.1838889
+    },
+    {
+      "cityName": "Enoch",
+      "lat": -25.8333333,
+      "lng": 18.35
+    },
+    {
+      "cityName": "Eselsruhe",
+      "lat": -28.75,
+      "lng": 18.8666667
+    },
+    {
+      "cityName": "Gaibes",
+      "lat": -28.0833333,
+      "lng": 17.75
+    },
+    {
+      "cityName": "Gaigoab",
+      "lat": -27.0666667,
+      "lng": 17.2666667
+    },
+    {
+      "cityName": "Gainachas",
+      "lat": -25.7666667,
+      "lng": 17.7
+    },
+    {
+      "cityName": "Ganigobes",
+      "lat": -25.8333333,
+      "lng": 18
+    },
+    {
+      "cityName": "Gaobis",
+      "lat": -28.7666667,
+      "lng": 18.35
+    },
+    {
+      "cityName": "Garep",
+      "lat": -25.9833333,
+      "lng": 16.1833333
+    },
+    {
+      "cityName": "Goeroegas",
+      "lat": -28.2333333,
+      "lng": 18.3166667
+    },
+    {
+      "cityName": "Granitberg",
+      "lat": -27.3666667,
+      "lng": 15.4
+    },
+    {
+      "cityName": "Grillenthal",
+      "lat": -26.9833333,
+      "lng": 15.35
+    },
+    {
+      "cityName": "Groendoring",
+      "lat": -28.1,
+      "lng": 19.2833333
+    },
+    {
+      "cityName": "Groot Kais",
+      "lat": -28.3833333,
+      "lng": 18.85
+    },
+    {
+      "cityName": "Grootplaas",
+      "lat": -27.9833333,
+      "lng": 18.1666667
+    },
+    {
+      "cityName": "Grootplaats",
+      "lat": -28.0333333,
+      "lng": 18.2333333
+    },
+    {
+      "cityName": "Groot Schwarzkuppe",
+      "lat": -26.6333333,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Grünau",
+      "lat": -27.7333333,
+      "lng": 18.3833333
+    },
+    {
+      "cityName": "Guichabis",
+      "lat": -28.0333333,
+      "lng": 18.45
+    },
+    {
+      "cityName": "Haakiesdoorn",
+      "lat": -28.8833333,
+      "lng": 18.2166667
+    },
+    {
+      "cityName": "Haib",
+      "lat": -28.2,
+      "lng": 18.35
+    },
+    {
+      "cityName": "Haib Rhenish Mission",
+      "lat": -28.2,
+      "lng": 18.3333333
+    },
+    {
+      "cityName": "Haldenwang",
+      "lat": -28.4,
+      "lng": 18.5833333
+    },
+    {
+      "cityName": "Helmeringhausen",
+      "lat": -25.8833333,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Hoapegas",
+      "lat": -26.2,
+      "lng": 17.6666667
+    },
+    {
+      "cityName": "Hochfeld",
+      "lat": -28.6833333,
+      "lng": 18.8
+    },
+    {
+      "cityName": "Hochland",
+      "lat": -28.4833333,
+      "lng": 18.3833333
+    },
+    {
+      "cityName": "Hogeis",
+      "lat": -28.3,
+      "lng": 19.2666667
+    },
+    {
+      "cityName": "Hohenfels",
+      "lat": -28.5,
+      "lng": 16.6
+    },
+    {
+      "cityName": "Holoog",
+      "lat": -27.4,
+      "lng": 17.95
+    },
+    {
+      "cityName": "Hottentoten Bay",
+      "lat": -26.1333333,
+      "lng": 14.9333333
+    },
+    {
+      "cityName": "Huitsib",
+      "lat": -26.1333333,
+      "lng": 17.6833333
+    },
+    {
+      "cityName": "Hunam Ost",
+      "lat": -28.2833333,
+      "lng": 19.0333333
+    },
+    {
+      "cityName": "Huniam",
+      "lat": -28.3166667,
+      "lng": 18.85
+    },
+    {
+      "cityName": "Huns",
+      "lat": -25.9333333,
+      "lng": 18.2666667
+    },
+    {
+      "cityName": "Jakkalsvlei",
+      "lat": -25.8333333,
+      "lng": 18.4666667
+    },
+    {
+      "cityName": "Kais Suid",
+      "lat": -28.4333333,
+      "lng": 18.9
+    },
+    {
+      "cityName": "Kalkfontein",
+      "lat": -28.0166667,
+      "lng": 18.75
+    },
+    {
+      "cityName": "Kanebis",
+      "lat": -27.8,
+      "lng": 17.8666667
+    },
+    {
+      "cityName": "Keetmanshoop",
+      "lat": -26.5833333,
+      "lng": 18.1333333
+    },
+    {
+      "cityName": "Keimas",
+      "lat": -28.7666667,
+      "lng": 19.1166667
+    },
+    {
+      "cityName": "Kentucky",
+      "lat": -28.2333333,
+      "lng": 19.4
+    },
+    {
+      "cityName": "Khaais",
+      "lat": -28.6666667,
+      "lng": 19.3166667
+    },
+    {
+      "cityName": "Khoexas",
+      "lat": -26.1333333,
+      "lng": 18.65
+    },
+    {
+      "cityName": "Klein Hakiesdoorn",
+      "lat": -28.8,
+      "lng": 18.1333333
+    },
+    {
+      "cityName": "Kleinvaalgras",
+      "lat": -26.05,
+      "lng": 18.5166667
+    },
+    {
+      "cityName": "Klepheuvel",
+      "lat": -28.15,
+      "lng": 17.2
+    },
+    {
+      "cityName": "Klipdam",
+      "lat": -27.1,
+      "lng": 19.8833333
+    },
+    {
+      "cityName": "Klipfontein",
+      "lat": -28.4,
+      "lng": 19.45
+    },
+    {
+      "cityName": "Kliprant",
+      "lat": -28.2666667,
+      "lng": 19.4833333
+    },
+    {
+      "cityName": "Koës",
+      "lat": -25.95,
+      "lng": 19.1166667
+    },
+    {
+      "cityName": "Kolmanskop",
+      "lat": -26.7038889,
+      "lng": 15.2327778
+    },
+    {
+      "cityName": "Komnarib",
+      "lat": -25.9833333,
+      "lng": 18.4
+    },
+    {
+      "cityName": "Korabib",
+      "lat": -28.5,
+      "lng": 17.8833333
+    },
+    {
+      "cityName": "Korhaan",
+      "lat": -28.2833333,
+      "lng": 18.0666667
+    },
+    {
+      "cityName": "Kosis",
+      "lat": -26.7,
+      "lng": 17.3
+    },
+    {
+      "cityName": "Krönlein",
+      "lat": -26.5833333,
+      "lng": 18.15
+    },
+    {
+      "cityName": "Kums",
+      "lat": -28.1,
+      "lng": 19.6
+    },
+    {
+      "cityName": "La Gratia",
+      "lat": -28.3333333,
+      "lng": 18.9166667
+    },
+    {
+      "cityName": "Langfontein",
+      "lat": -28.0166667,
+      "lng": 17.8666667
+    },
+    {
+      "cityName": "Lekkerwater",
+      "lat": -28.0333333,
+      "lng": 19.4833333
+    },
+    {
+      "cityName": "Lüderitz",
+      "lat": -26.6480556,
+      "lng": 15.1594444
+    },
+    {
+      "cityName": "Luginsland",
+      "lat": -28.35,
+      "lng": 18.45
+    },
+    {
+      "cityName": "Lützelhöhe",
+      "lat": -28.25,
+      "lng": 18.75
+    },
+    {
+      "cityName": "Middelpos",
+      "lat": -28.1166667,
+      "lng": 18.8833333
+    },
+    {
+      "cityName": "Mittag",
+      "lat": -28.35,
+      "lng": 16.1333333
+    },
+    {
+      "cityName": "Modderdrift",
+      "lat": -28.7,
+      "lng": 17.5333333
+    },
+    {
+      "cityName": "Nabas",
+      "lat": -27.9166667,
+      "lng": 19.65
+    },
+    {
+      "cityName": "Naherob",
+      "lat": -26.0666667,
+      "lng": 17.55
+    },
+    {
+      "cityName": "Namtib",
+      "lat": -25.9666667,
+      "lng": 16.2
+    },
+    {
+      "cityName": "Narubis",
+      "lat": -26.9,
+      "lng": 18.6
+    },
+    {
+      "cityName": "Naruchas",
+      "lat": -28.1166667,
+      "lng": 18.75
+    },
+    {
+      "cityName": "Neikop",
+      "lat": -28.1166667,
+      "lng": 19.6333333
+    },
+    {
+      "cityName": "Neu-Puts",
+      "lat": -25.9833333,
+      "lng": 18.4666667
+    },
+    {
+      "cityName": "Nicos Hoek",
+      "lat": -28.4833333,
+      "lng": 18.4
+    },
+    {
+      "cityName": "Nieuwefontein",
+      "lat": -28.0166667,
+      "lng": 19.0666667
+    },
+    {
+      "cityName": "Nieuwefontein West",
+      "lat": -28.3333333,
+      "lng": 18.3833333
+    },
+    {
+      "cityName": "Noordoewer",
+      "lat": -28.75,
+      "lng": 17.6166667
+    },
+    {
+      "cityName": "Oab",
+      "lat": -28.0333333,
+      "lng": 19.2333333
+    },
+    {
+      "cityName": "Ondermaitje",
+      "lat": -28.4,
+      "lng": 19.4333333
+    },
+    {
+      "cityName": "Orange Mouth",
+      "lat": -28.55,
+      "lng": 16.4333333
+    },
+    {
+      "cityName": "Ortmansbaum Oos",
+      "lat": -28.2833333,
+      "lng": 18.7666667
+    },
+    {
+      "cityName": "Pelgrimsrus",
+      "lat": -28.85,
+      "lng": 19.0833333
+    },
+    {
+      "cityName": "Pionier",
+      "lat": -28.7166667,
+      "lng": 18.9333333
+    },
+    {
+      "cityName": "Pollox",
+      "lat": -28.3666667,
+      "lng": 18.25
+    },
+    {
+      "cityName": "Pomona",
+      "lat": -27.2,
+      "lng": 15.2833333
+    },
+    {
+      "cityName": "Poortjie",
+      "lat": -28.05,
+      "lng": 18.9833333
+    },
+    {
+      "cityName": "Rooi Veldskoea",
+      "lat": -28.4666667,
+      "lng": 19.8333333
+    },
+    {
+      "cityName": "Rus-en-Vrede",
+      "lat": -28.65,
+      "lng": 18.7666667
+    },
+    {
+      "cityName": "Saddle Hill North",
+      "lat": -25.8,
+      "lng": 14.8833333
+    },
+    {
+      "cityName": "Saddle Hill",
+      "lat": -25.9333333,
+      "lng": 14.9333333
+    },
+    {
+      "cityName": "Sandfontein",
+      "lat": -28.7,
+      "lng": 18.55
+    },
+    {
+      "cityName": "Schönau",
+      "lat": -28.3833333,
+      "lng": 18.4666667
+    },
+    {
+      "cityName": "Seeheim",
+      "lat": -26.8166667,
+      "lng": 17.7833333
+    },
+    {
+      "cityName": "Sendelingsdrif",
+      "lat": -28.1666667,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Silverstroom",
+      "lat": -28.8833333,
+      "lng": 18.2666667
+    },
+    {
+      "cityName": "Simplon",
+      "lat": -26.8,
+      "lng": 17.35
+    },
+    {
+      "cityName": "Skilpad",
+      "lat": -28.45,
+      "lng": 16.6833333
+    },
+    {
+      "cityName": "Skuit Drift Cattle Post",
+      "lat": -28.5166667,
+      "lng": 19.7
+    },
+    {
+      "cityName": "Snyfontein",
+      "lat": -26.45,
+      "lng": 17.8166667
+    },
+    {
+      "cityName": "Sonderwater",
+      "lat": -28.2833333,
+      "lng": 18.9333333
+    },
+    {
+      "cityName": "Sonop",
+      "lat": -28.45,
+      "lng": 18.9666667
+    },
+    {
+      "cityName": "Spencer Bay",
+      "lat": -25.7333333,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Sperlingputs",
+      "lat": -28.6833333,
+      "lng": 18.2166667
+    },
+    {
+      "cityName": "Stamprivier",
+      "lat": -27.4,
+      "lng": 17.8666667
+    },
+    {
+      "cityName": "Stauch Lager",
+      "lat": -27.25,
+      "lng": 15.3166667
+    },
+    {
+      "cityName": "Sterlingspüts",
+      "lat": -28.7333333,
+      "lng": 18.2
+    },
+    {
+      "cityName": "Suiderkruis",
+      "lat": -28.45,
+      "lng": 19.1666667
+    },
+    {
+      "cityName": "Swartberg",
+      "lat": -28.1833333,
+      "lng": 19.15
+    },
+    {
+      "cityName": "Tantalite Valley",
+      "lat": -28.7166667,
+      "lng": 18.8
+    },
+    {
+      "cityName": "Toekoms",
+      "lat": -28.05,
+      "lng": 19.1166667
+    },
+    {
+      "cityName": "Totem",
+      "lat": -27.1166667,
+      "lng": 17.4166667
+    },
+    {
+      "cityName": "Tsamab",
+      "lat": -28.1333333,
+      "lng": 19.2333333
+    },
+    {
+      "cityName": "Tsaraxa-aibes",
+      "lat": -26.0666667,
+      "lng": 17.95
+    },
+    {
+      "cityName": "Tses",
+      "lat": -25.8833333,
+      "lng": 18
+    },
+    {
+      "cityName": "Uhabis",
+      "lat": -28.5,
+      "lng": 17.7166667
+    },
+    {
+      "cityName": "Ukamas",
+      "lat": -28.0333333,
+      "lng": 19.7333333
+    },
+    {
+      "cityName": "Uubvlei",
+      "lat": -28.45,
+      "lng": 16.2333333
+    },
+    {
+      "cityName": "Van Zylsrus",
+      "lat": -28.35,
+      "lng": 18.9833333
+    },
+    {
+      "cityName": "Vasvat",
+      "lat": -28.8833333,
+      "lng": 18.5
+    },
+    {
+      "cityName": "Velloor Drift",
+      "lat": -28.75,
+      "lng": 19.25
+    },
+    {
+      "cityName": "Velloor",
+      "lat": -28.5666667,
+      "lng": 19.1833333
+    },
+    {
+      "cityName": "Vliessengen",
+      "lat": -28.1166667,
+      "lng": 19.3
+    },
+    {
+      "cityName": "Vlissingen Noord",
+      "lat": -28.0666667,
+      "lng": 19.35
+    },
+    {
+      "cityName": "Vrede",
+      "lat": -28.6333333,
+      "lng": 18.9166667
+    },
+    {
+      "cityName": "Warmbad",
+      "lat": -28.45,
+      "lng": 18.7333333
+    },
+    {
+      "cityName": "Waterval",
+      "lat": -25.8666667,
+      "lng": 18
+    },
+    {
+      "cityName": "Wegkruip",
+      "lat": -28.25,
+      "lng": 19.05
+    },
+    {
+      "cityName": "Witkop",
+      "lat": -28.2166667,
+      "lng": 19.8
+    },
+    {
+      "cityName": "Witputs",
+      "lat": -27.6166667,
+      "lng": 16.7333333
+    },
+    {
+      "cityName": "Witsand",
+      "lat": -28.6666667,
+      "lng": 18.8833333
+    },
+    {
+      "cityName": "Wolfbeen",
+      "lat": -27.2,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Wortel",
+      "lat": -27.9666667,
+      "lng": 18.6333333
+    }
+  ]
+}

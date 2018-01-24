@@ -1,0 +1,131 @@
+{
+  "name": "Switzerland",
+  "iso2": "ch",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Aargau",
+      "id": 0
+    },
+    {
+      "name": "Ausser-Rhoden",
+      "id": 1
+    },
+    {
+      "name": "Basel-Landschaft",
+      "id": 2
+    },
+    {
+      "name": "Basel-Stadt",
+      "id": 3
+    },
+    {
+      "name": "Bern",
+      "id": 4
+    },
+    {
+      "name": "Fribourg",
+      "id": 5
+    },
+    {
+      "name": "Geneve",
+      "id": 6
+    },
+    {
+      "name": "Glarus",
+      "id": 7
+    },
+    {
+      "name": "Graubunden",
+      "id": 8
+    },
+    {
+      "name": "Inner-Rhoden",
+      "id": 9
+    },
+    {
+      "name": "Jura",
+      "id": 10
+    },
+    {
+      "name": "Luzern",
+      "id": 11
+    },
+    {
+      "name": "Neuchatel",
+      "id": 12
+    },
+    {
+      "name": "Nidwalden",
+      "id": 13
+    },
+    {
+      "name": "Obwalden",
+      "id": 14
+    },
+    {
+      "name": "Sankt Gallen",
+      "id": 15
+    },
+    {
+      "name": "Schaffhausen",
+      "id": 16
+    },
+    {
+      "name": "Schwyz",
+      "id": 17
+    },
+    {
+      "name": "Solothurn",
+      "id": 18
+    },
+    {
+      "name": "Thurgau",
+      "id": 19
+    },
+    {
+      "name": "Ticino",
+      "id": 20
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 21
+    },
+    {
+      "name": "Uri",
+      "id": 22
+    },
+    {
+      "name": "Valais",
+      "id": 23
+    },
+    {
+      "name": "Vaud",
+      "id": 24
+    },
+    {
+      "name": "Zug",
+      "id": 25
+    },
+    {
+      "name": "Zurich",
+      "id": 26
+    }
+  ],
+  "geoRectangle": {
+    "West": 5.9574713707,
+    "East": 10.4914731979,
+    "North": 47.8053359985,
+    "South": 45.8256874084
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Bern",
+    "GeoPt": [
+      46.57,
+      7.26
+    ]
+  }
+}

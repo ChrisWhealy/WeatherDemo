@@ -1,0 +1,63 @@
+{
+  "name": "Jordan",
+  "iso2": "jo",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Al Aqabah",
+      "id": 0
+    },
+    {
+      "name": "Al Balqa'",
+      "id": 1
+    },
+    {
+      "name": "Al Karak",
+      "id": 2
+    },
+    {
+      "name": "Amman",
+      "id": 3
+    },
+    {
+      "name": "At Tafilah",
+      "id": 4
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 5
+    },
+    {
+      "name": "Unnamed region 02",
+      "id": 6
+    },
+    {
+      "name": "Unnamed region 03",
+      "id": 7
+    },
+    {
+      "name": "Unnamed region 04",
+      "id": 8
+    },
+    {
+      "name": "Unnamed region 05",
+      "id": 9
+    }
+  ],
+  "geoRectangle": {
+    "West": 34.9599914551,
+    "East": 39.3011741638,
+    "North": 33.3676719666,
+    "South": 29.1858844757
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Amman",
+    "GeoPt": [
+      31.57,
+      35.56
+    ]
+  }
+}

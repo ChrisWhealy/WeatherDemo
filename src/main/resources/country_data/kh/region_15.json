@@ -1,0 +1,845 @@
+{
+  "name": "Ratanakiri Kiri",
+  "cities": [
+    {
+      "cityName": "Andaung Pech",
+      "lat": 13.7,
+      "lng": 107.2
+    },
+    {
+      "cityName": "Ban Bake",
+      "lat": 13.9833333,
+      "lng": 106.6666667
+    },
+    {
+      "cityName": "Ban Dong Bang",
+      "lat": 13.9833333,
+      "lng": 106.7833333
+    },
+    {
+      "cityName": "Bâ Nêv",
+      "lat": 13.7833333,
+      "lng": 107.1166667
+    },
+    {
+      "cityName": "Ban Fang",
+      "lat": 13.9666667,
+      "lng": 106.8166667
+    },
+    {
+      "cityName": "Ban Hat Pas",
+      "lat": 13.8333333,
+      "lng": 106.7
+    },
+    {
+      "cityName": "Ban Kanio",
+      "lat": 14.3833333,
+      "lng": 107.05
+    },
+    {
+      "cityName": "Ban Kham Dorang",
+      "lat": 14.4666667,
+      "lng": 107.2833333
+    },
+    {
+      "cityName": "Ban Kompadou",
+      "lat": 13.7666667,
+      "lng": 107.45
+    },
+    {
+      "cityName": "Ban Lung",
+      "lat": 13.7333333,
+      "lng": 106.9833333
+    },
+    {
+      "cityName": "Ban Namavang",
+      "lat": 14.5,
+      "lng": 107.35
+    },
+    {
+      "cityName": "Ban Phya Lu",
+      "lat": 14.35,
+      "lng": 107.1333333
+    },
+    {
+      "cityName": "Ban Phya Savar Bao",
+      "lat": 14.2166667,
+      "lng": 107.1666667
+    },
+    {
+      "cityName": "Ban San Khlong",
+      "lat": 13.4666667,
+      "lng": 106.65
+    },
+    {
+      "cityName": "Ban Sepok Nhay",
+      "lat": 13.4333333,
+      "lng": 106.8833333
+    },
+    {
+      "cityName": "Ban Som Nhai",
+      "lat": 13.7,
+      "lng": 107.4
+    },
+    {
+      "cityName": "Ban Taveng",
+      "lat": 14.0333333,
+      "lng": 107.1166667
+    },
+    {
+      "cityName": "Ban Thong Sepok",
+      "lat": 13.4666667,
+      "lng": 106.8833333
+    },
+    {
+      "cityName": "Ban Vieng Duong",
+      "lat": 14.45,
+      "lng": 107.4166667
+    },
+    {
+      "cityName": "Bo Kham",
+      "lat": 13.85,
+      "lng": 107.3666667
+    },
+    {
+      "cityName": "Boloy",
+      "lat": 13.8333333,
+      "lng": 107.2
+    },
+    {
+      "cityName": "Hinlat",
+      "lat": 13.9,
+      "lng": 107.3833333
+    },
+    {
+      "cityName": "Kok Lak Nhai",
+      "lat": 14.0333333,
+      "lng": 106.85
+    },
+    {
+      "cityName": "Kompong Cham Kau",
+      "lat": 13.85,
+      "lng": 106.8833333
+    },
+    {
+      "cityName": "Kong Khlong",
+      "lat": 13.6166667,
+      "lng": 107.3
+    },
+    {
+      "cityName": "Labang Nhai",
+      "lat": 13.85,
+      "lng": 107.0333333
+    },
+    {
+      "cityName": "Labangsiek",
+      "lat": 13.7166667,
+      "lng": 106.95
+    },
+    {
+      "cityName": "Lomphat",
+      "lat": 13.5,
+      "lng": 106.9833333
+    },
+    {
+      "cityName": "Moulapoumok",
+      "lat": 13.9833333,
+      "lng": 106.8166667
+    },
+    {
+      "cityName": "Phieu Leu",
+      "lat": 14.0833333,
+      "lng": 107.1333333
+    },
+    {
+      "cityName": "Phnum Knong",
+      "lat": 14.0666667,
+      "lng": 107.1666667
+    },
+    {
+      "cityName": "Phum Anlung Svay",
+      "lat": 13.7333333,
+      "lng": 107.0166667
+    },
+    {
+      "cityName": "Phumi Abeng",
+      "lat": 13.9833333,
+      "lng": 107.3666667
+    },
+    {
+      "cityName": "Phumi Anchanh",
+      "lat": 14.1452778,
+      "lng": 106.6833333
+    },
+    {
+      "cityName": "Phumi Andong (1)",
+      "lat": 14.1788889,
+      "lng": 106.7211111
+    },
+    {
+      "cityName": "Phumi Andong (2)",
+      "lat": 14.0905556,
+      "lng": 106.6858333
+    },
+    {
+      "cityName": "Phumi Anhchang",
+      "lat": 14.1644444,
+      "lng": 106.7416667
+    },
+    {
+      "cityName": "Phumi Athen",
+      "lat": 13.7,
+      "lng": 107.55
+    },
+    {
+      "cityName": "Phumi Bah Ke",
+      "lat": 13.9666667,
+      "lng": 106.6666667
+    },
+    {
+      "cityName": "Phumi BÅ“Ì†ng Nging Kang",
+      "lat": 14.3058333,
+      "lng": 106.7019444
+    },
+    {
+      "cityName": "Phumi Banchet",
+      "lat": 13.65,
+      "lng": 107.2166667
+    },
+    {
+      "cityName": "Phumi Ban Chung",
+      "lat": 13.6,
+      "lng": 107.2333333
+    },
+    {
+      "cityName": "Phumi Ban Chut",
+      "lat": 13.9333333,
+      "lng": 107.3666667
+    },
+    {
+      "cityName": "Phumi Bang Lot",
+      "lat": 13.7,
+      "lng": 107.1666667
+    },
+    {
+      "cityName": "Phumi Ban Khuon",
+      "lat": 13.9666667,
+      "lng": 106.9333333
+    },
+    {
+      "cityName": "Phumi Ban Kon",
+      "lat": 13.8166667,
+      "lng": 107.1
+    },
+    {
+      "cityName": "Phumi Ban Lay",
+      "lat": 13.8166667,
+      "lng": 107.2
+    },
+    {
+      "cityName": "Phumi Ban Mai",
+      "lat": 14.0166667,
+      "lng": 106.9166667
+    },
+    {
+      "cityName": "Phumi Ban Nay",
+      "lat": 13.95,
+      "lng": 107.3166667
+    },
+    {
+      "cityName": "Phumi Ban Nhai",
+      "lat": 13.85,
+      "lng": 107.4666667
+    },
+    {
+      "cityName": "Phumi Banpang",
+      "lat": 14.0333333,
+      "lng": 106.9666667
+    },
+    {
+      "cityName": "Phumi Ban Phi",
+      "lat": 13.9166667,
+      "lng": 107.45
+    },
+    {
+      "cityName": "Phumi Ban Pon",
+      "lat": 13.9,
+      "lng": 107.45
+    },
+    {
+      "cityName": "Phumi Ban Pung (1)",
+      "lat": 13.9666667,
+      "lng": 106.85
+    },
+    {
+      "cityName": "Phumi Ban Tang",
+      "lat": 13.9333333,
+      "lng": 107.35
+    },
+    {
+      "cityName": "Phumi Ban Tiem Kraom",
+      "lat": 13.9,
+      "lng": 106.7666667
+    },
+    {
+      "cityName": "Phumi Ban Tiem Leu",
+      "lat": 13.9333333,
+      "lng": 106.75
+    },
+    {
+      "cityName": "Phumi Batang Popeay",
+      "lat": 13.6666667,
+      "lng": 107.0666667
+    },
+    {
+      "cityName": "Phumi Batang Sra",
+      "lat": 13.6666667,
+      "lng": 107.05
+    },
+    {
+      "cityName": "Phumi Batang Svay",
+      "lat": 13.65,
+      "lng": 107.0666667
+    },
+    {
+      "cityName": "Phumi Bating Kab",
+      "lat": 13.7333333,
+      "lng": 107.0833333
+    },
+    {
+      "cityName": "Phumi Bos Poy",
+      "lat": 13.8333333,
+      "lng": 107.0333333
+    },
+    {
+      "cityName": "Phumi Chakam",
+      "lat": 14.0666667,
+      "lng": 106.8666667
+    },
+    {
+      "cityName": "Phumi Cham",
+      "lat": 13.8,
+      "lng": 107.0666667
+    },
+    {
+      "cityName": "Phumi Cham Toal",
+      "lat": 13.7,
+      "lng": 107.4166667
+    },
+    {
+      "cityName": "Phumi Changhan",
+      "lat": 13.6833333,
+      "lng": 107.1
+    },
+    {
+      "cityName": "Phumi Chanob",
+      "lat": 13.8,
+      "lng": 107.05
+    },
+    {
+      "cityName": "Phumi Chan",
+      "lat": 13.9166667,
+      "lng": 107.0166667
+    },
+    {
+      "cityName": "Phumi Cha Ung Kandal",
+      "lat": 13.75,
+      "lng": 106.95
+    },
+    {
+      "cityName": "Phumi Chay",
+      "lat": 13.9666667,
+      "lng": 107.2166667
+    },
+    {
+      "cityName": "Phumi Cheang Ham",
+      "lat": 13.9333333,
+      "lng": 107.0333333
+    },
+    {
+      "cityName": "Phumi Chong",
+      "lat": 13.6833333,
+      "lng": 107.3666667
+    },
+    {
+      "cityName": "Phumi Chon",
+      "lat": 13.7,
+      "lng": 107.5
+    },
+    {
+      "cityName": "Phumi Dok Yong",
+      "lat": 13.4666667,
+      "lng": 107.3166667
+    },
+    {
+      "cityName": "Phumi Ham",
+      "lat": 13.6833333,
+      "lng": 107.5
+    },
+    {
+      "cityName": "Phumi Hay",
+      "lat": 14.0166667,
+      "lng": 107.35
+    },
+    {
+      "cityName": "Phumi Ka Aol",
+      "lat": 13.6833333,
+      "lng": 106.9166667
+    },
+    {
+      "cityName": "Phumi Kab Nuy",
+      "lat": 13.7166667,
+      "lng": 107.1166667
+    },
+    {
+      "cityName": "Phumi Kachon (1)",
+      "lat": 13.9666667,
+      "lng": 106.9
+    },
+    {
+      "cityName": "Phumi Kachut",
+      "lat": 13.6666667,
+      "lng": 107.4333333
+    },
+    {
+      "cityName": "Phumi Kalai Kala",
+      "lat": 13.8666667,
+      "lng": 106.9166667
+    },
+    {
+      "cityName": "Phumi Kalai Taveng",
+      "lat": 13.8666667,
+      "lng": 106.9
+    },
+    {
+      "cityName": "Phumi Kalai Thom",
+      "lat": 13.8333333,
+      "lng": 106.95
+    },
+    {
+      "cityName": "Phumi Kalan Thom",
+      "lat": 13.95,
+      "lng": 106.8
+    },
+    {
+      "cityName": "Phumi Kala",
+      "lat": 13.8333333,
+      "lng": 106.9666667
+    },
+    {
+      "cityName": "Phumi Kamang Chong",
+      "lat": 13.5333333,
+      "lng": 107.2166667
+    },
+    {
+      "cityName": "Phumi Kampa Du (1)",
+      "lat": 13.7666667,
+      "lng": 107.4166667
+    },
+    {
+      "cityName": "Phumi Kamping",
+      "lat": 14.0833333,
+      "lng": 106.8666667
+    },
+    {
+      "cityName": "Phumi Kang Nak",
+      "lat": 14.0166667,
+      "lng": 106.8166667
+    },
+    {
+      "cityName": "Phumi Kangtak",
+      "lat": 14.1,
+      "lng": 107.1333333
+    },
+    {
+      "cityName": "Phumi Kanuv",
+      "lat": 13.8166667,
+      "lng": 106.9666667
+    },
+    {
+      "cityName": "Phumi Kaoh Piek",
+      "lat": 14.0166667,
+      "lng": 106.9
+    },
+    {
+      "cityName": "Phumi Ka On Khla",
+      "lat": 13.9,
+      "lng": 107.0333333
+    },
+    {
+      "cityName": "Phumi Ka On",
+      "lat": 13.8833333,
+      "lng": 107.0333333
+    },
+    {
+      "cityName": "Phumi Kate Vat",
+      "lat": 13.8,
+      "lng": 107.25
+    },
+    {
+      "cityName": "Phumi Katieng",
+      "lat": 13.6666667,
+      "lng": 106.9833333
+    },
+    {
+      "cityName": "Phumi Kes Chong Nay",
+      "lat": 13.7666667,
+      "lng": 107.2166667
+    },
+    {
+      "cityName": "Phumi Kes Chong Nhai",
+      "lat": 13.7666667,
+      "lng": 107.2333333
+    },
+    {
+      "cityName": "Phumi Kes Phaa",
+      "lat": 13.7833333,
+      "lng": 107.1833333
+    },
+    {
+      "cityName": "Phumi Khilek",
+      "lat": 13.9833333,
+      "lng": 106.75
+    },
+    {
+      "cityName": "Phumi Khit",
+      "lat": 13.7333333,
+      "lng": 107.2833333
+    },
+    {
+      "cityName": "Phumi Khla",
+      "lat": 13.9333333,
+      "lng": 107.15
+    },
+    {
+      "cityName": "Phumi Khmen",
+      "lat": 13.75,
+      "lng": 107.1666667
+    },
+    {
+      "cityName": "Phumi Kiribas kandal",
+      "lat": 14.1852778,
+      "lng": 106.6808333
+    },
+    {
+      "cityName": "Phumi Kiribas kraom",
+      "lat": 14.1658333,
+      "lng": 106.68
+    },
+    {
+      "cityName": "Phumi Kiribas Leu",
+      "lat": 14.1886111,
+      "lng": 106.6755556
+    },
+    {
+      "cityName": "Phumi Kok Lak Nay",
+      "lat": 14,
+      "lng": 106.85
+    },
+    {
+      "cityName": "Phumi Kol Pou",
+      "lat": 13.6166667,
+      "lng": 106.8833333
+    },
+    {
+      "cityName": "Phumi Kong Nang",
+      "lat": 13.7833333,
+      "lng": 107.0833333
+    },
+    {
+      "cityName": "Phumi Kong P'a",
+      "lat": 13.65,
+      "lng": 107.3166667
+    },
+    {
+      "cityName": "Phumi Kong Pou",
+      "lat": 13.6666667,
+      "lng": 107.3333333
+    },
+    {
+      "cityName": "Phumi Krang Sla",
+      "lat": 11.2666667,
+      "lng": 105.4166667
+    },
+    {
+      "cityName": "Phumi Kraom",
+      "lat": 13.9333333,
+      "lng": 107.2333333
+    },
+    {
+      "cityName": "Phumi La Å’n",
+      "lat": 13.65,
+      "lng": 106.8833333
+    },
+    {
+      "cityName": "Phumi Labang (2)",
+      "lat": 13.8833333,
+      "lng": 107.0666667
+    },
+    {
+      "cityName": "Phumi Laminh",
+      "lat": 13.5833333,
+      "lng": 107.1666667
+    },
+    {
+      "cityName": "Phumi La Oeun",
+      "lat": 13.7666667,
+      "lng": 107.0333333
+    },
+    {
+      "cityName": "Phumi Leu Nay",
+      "lat": 13.7,
+      "lng": 107.3
+    },
+    {
+      "cityName": "Phumi Leu Nhai",
+      "lat": 13.7166667,
+      "lng": 107.3
+    },
+    {
+      "cityName": "Phumi Lum Bang",
+      "lat": 13.8,
+      "lng": 107.1166667
+    },
+    {
+      "cityName": "Phumi Lung Khung",
+      "lat": 13.6333333,
+      "lng": 107.1333333
+    },
+    {
+      "cityName": "Phumi Malik",
+      "lat": 13.85,
+      "lng": 107.2666667
+    },
+    {
+      "cityName": "Phumi MÅ“n Puok",
+      "lat": 11.5166667,
+      "lng": 105.5333333
+    },
+    {
+      "cityName": "Phumi Mong Toch",
+      "lat": 13.6,
+      "lng": 107.1166667
+    },
+    {
+      "cityName": "Phumi O Day",
+      "lat": 14.1877778,
+      "lng": 106.6377778
+    },
+    {
+      "cityName": "Phumi O Kau",
+      "lat": 14.1813889,
+      "lng": 106.6502778
+    },
+    {
+      "cityName": "Phumi Ok Taok",
+      "lat": 13.5666667,
+      "lng": 107.3166667
+    },
+    {
+      "cityName": "Phumi O Laeum",
+      "lat": 13.6333333,
+      "lng": 107.0833333
+    },
+    {
+      "cityName": "Phumi O Let",
+      "lat": 13.5833333,
+      "lng": 107.0666667
+    },
+    {
+      "cityName": "Phumi On",
+      "lat": 13.5333333,
+      "lng": 107.2833333
+    },
+    {
+      "cityName": "Phumi Pachun Nang Gung",
+      "lat": 13.75,
+      "lng": 107.0666667
+    },
+    {
+      "cityName": "Phumi Pakab",
+      "lat": 13.8666667,
+      "lng": 107.3
+    },
+    {
+      "cityName": "Phumi Pakalan",
+      "lat": 13.95,
+      "lng": 106.7666667
+    },
+    {
+      "cityName": "Phumi Pak Kab",
+      "lat": 13.6333333,
+      "lng": 107.35
+    },
+    {
+      "cityName": "Phumi Phav",
+      "lat": 14.2,
+      "lng": 107.1
+    },
+    {
+      "cityName": "Phumi Phleu Kraom",
+      "lat": 14.05,
+      "lng": 107.1166667
+    },
+    {
+      "cityName": "Phumi Phlothom",
+      "lat": 13.6166667,
+      "lng": 107.05
+    },
+    {
+      "cityName": "Phumi Phnum Kok Kraom",
+      "lat": 13.9166667,
+      "lng": 106.8
+    },
+    {
+      "cityName": "Phumi Pou Nay",
+      "lat": 13.7166667,
+      "lng": 107.45
+    },
+    {
+      "cityName": "Phumi Pou",
+      "lat": 13.7166667,
+      "lng": 107.4666667
+    },
+    {
+      "cityName": "Phumi Poy",
+      "lat": 13.75,
+      "lng": 106.9833333
+    },
+    {
+      "cityName": "Phumi Prang",
+      "lat": 13.7833333,
+      "lng": 106.9833333
+    },
+    {
+      "cityName": "Phumi Pu Nhai",
+      "lat": 13.7333333,
+      "lng": 107.45
+    },
+    {
+      "cityName": "Phumi Pu Yi",
+      "lat": 13.8333333,
+      "lng": 107.3166667
+    },
+    {
+      "cityName": "Phumi Samtung",
+      "lat": 13.7333333,
+      "lng": 107.3833333
+    },
+    {
+      "cityName": "Phumi Sre Chhuk",
+      "lat": 13.4833333,
+      "lng": 106.95
+    },
+    {
+      "cityName": "Phumi Sre Chrey",
+      "lat": 13.4833333,
+      "lng": 106.9833333
+    },
+    {
+      "cityName": "Phumi Suoy",
+      "lat": 13.8333333,
+      "lng": 107.4666667
+    },
+    {
+      "cityName": "Phumi Syatung",
+      "lat": 13.6666667,
+      "lng": 107.4
+    },
+    {
+      "cityName": "Phumi Ta Aong Kab",
+      "lat": 13.7,
+      "lng": 106.95
+    },
+    {
+      "cityName": "Phumi Ta Aong",
+      "lat": 13.6833333,
+      "lng": 106.9333333
+    },
+    {
+      "cityName": "Phumi Ta Aong Pok",
+      "lat": 13.6,
+      "lng": 106.95
+    },
+    {
+      "cityName": "Phumi Tak Mak",
+      "lat": 14.0666667,
+      "lng": 107.05
+    },
+    {
+      "cityName": "Phumi Ta Lav",
+      "lat": 13.9666667,
+      "lng": 107.3833333
+    },
+    {
+      "cityName": "Phumi Ta Ngat",
+      "lat": 14.05,
+      "lng": 107.0333333
+    },
+    {
+      "cityName": "Phumi Tang Se",
+      "lat": 13.8666667,
+      "lng": 107.35
+    },
+    {
+      "cityName": "Phumi Ta Veng",
+      "lat": 13.9666667,
+      "lng": 107.0666667
+    },
+    {
+      "cityName": "Phumi Teun Kraom",
+      "lat": 13.7166667,
+      "lng": 106.9166667
+    },
+    {
+      "cityName": "Phumi Teun Leu",
+      "lat": 13.7333333,
+      "lng": 106.9333333
+    },
+    {
+      "cityName": "Phumi Thlang Svay",
+      "lat": 13.8,
+      "lng": 106.9833333
+    },
+    {
+      "cityName": "Phumi Tipou",
+      "lat": 13.9666667,
+      "lng": 107.05
+    },
+    {
+      "cityName": "Phumi Trapeang Veng",
+      "lat": 14,
+      "lng": 106.9333333
+    },
+    {
+      "cityName": "Phumi Tun",
+      "lat": 13.9,
+      "lng": 107.0666667
+    },
+    {
+      "cityName": "Phumi Veang Ke",
+      "lat": 14.05,
+      "lng": 106.85
+    },
+    {
+      "cityName": "Phumi Vong",
+      "lat": 13.9,
+      "lng": 107.0166667
+    },
+    {
+      "cityName": "Phumi Yeak Laom",
+      "lat": 13.7166667,
+      "lng": 107.0333333
+    },
+    {
+      "cityName": "Phumi Yem",
+      "lat": 13.65,
+      "lng": 107.1666667
+    },
+    {
+      "cityName": "Po Thai",
+      "lat": 13.7166667,
+      "lng": 107.4333333
+    }
+  ]
+}

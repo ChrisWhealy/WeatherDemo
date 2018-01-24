@@ -1,0 +1,515 @@
+{
+  "name": "Cayo",
+  "cities": [
+    {
+      "cityName": "Aguacate Camp",
+      "lat": 16.705,
+      "lng": -89.0488889
+    },
+    {
+      "cityName": "Arabato Camp",
+      "lat": 16.6166667,
+      "lng": -89.05
+    },
+    {
+      "cityName": "Arenal",
+      "lat": 17.0166667,
+      "lng": -89.15
+    },
+    {
+      "cityName": "Augustine",
+      "lat": 16.9666667,
+      "lng": -88.9833333
+    },
+    {
+      "cityName": "Baking Pot",
+      "lat": 17.2030556,
+      "lng": -89.0194444
+    },
+    {
+      "cityName": "Baldy Beacon",
+      "lat": 17,
+      "lng": -88.7833333
+    },
+    {
+      "cityName": "Baldy Sibun",
+      "lat": 16.9833333,
+      "lng": -88.7333333
+    },
+    {
+      "cityName": "Banana Bank",
+      "lat": 17.3166667,
+      "lng": -88.7666667
+    },
+    {
+      "cityName": "Barton Ramie",
+      "lat": 17.2,
+      "lng": -88.9666667
+    },
+    {
+      "cityName": "Belmopan",
+      "lat": 17.25,
+      "lng": -88.7666667
+    },
+    {
+      "cityName": "Bengue Viejo",
+      "lat": 17.075,
+      "lng": -89.1391667
+    },
+    {
+      "cityName": "Benque Ceiba",
+      "lat": 17.1869444,
+      "lng": -89.0366667
+    },
+    {
+      "cityName": "Big Eddy",
+      "lat": 17.0916667,
+      "lng": -89.0683333
+    },
+    {
+      "cityName": "Black Man Eddy",
+      "lat": 17.2166667,
+      "lng": -88.9166667
+    },
+    {
+      "cityName": "Black Rock",
+      "lat": 17.0494444,
+      "lng": -89.0591667
+    },
+    {
+      "cityName": "Blancancaux",
+      "lat": 17.05,
+      "lng": -88.9666667
+    },
+    {
+      "cityName": "Blue Hole Camp",
+      "lat": 16.7833333,
+      "lng": -88.9333333
+    },
+    {
+      "cityName": "Branch Mouth",
+      "lat": 17.1802778,
+      "lng": -89.08
+    },
+    {
+      "cityName": "Buena Vista",
+      "lat": 17.1166667,
+      "lng": -89.1166667
+    },
+    {
+      "cityName": "Bullet Tree Falls",
+      "lat": 17.1722222,
+      "lng": -89.1127778
+    },
+    {
+      "cityName": "Cadena Camp",
+      "lat": 17.2833333,
+      "lng": -89.1
+    },
+    {
+      "cityName": "Callar Creek",
+      "lat": 17.1166667,
+      "lng": -89.1333333
+    },
+    {
+      "cityName": "Camelote",
+      "lat": 17.2333333,
+      "lng": -88.8166667
+    },
+    {
+      "cityName": "Campamento La Flor",
+      "lat": 16.6213889,
+      "lng": -89.0041667
+    },
+    {
+      "cityName": "Campamento Resumidero",
+      "lat": 16.6327778,
+      "lng": -89.0708333
+    },
+    {
+      "cityName": "Carmelita",
+      "lat": 17.1875,
+      "lng": -89.0686111
+    },
+    {
+      "cityName": "Castile",
+      "lat": 17.35,
+      "lng": -88.6666667
+    },
+    {
+      "cityName": "Caves Branch",
+      "lat": 17.1333333,
+      "lng": -88.7
+    },
+    {
+      "cityName": "Cayo Town",
+      "lat": 17.1561111,
+      "lng": -89.0713889
+    },
+    {
+      "cityName": "Cebada Camp",
+      "lat": 16.65,
+      "lng": -89.1675
+    },
+    {
+      "cityName": "Chapayal",
+      "lat": 16.7816667,
+      "lng": -89.1391667
+    },
+    {
+      "cityName": "Chial",
+      "lat": 17.1,
+      "lng": -89.1
+    },
+    {
+      "cityName": "Chorro",
+      "lat": 17.255,
+      "lng": -89.1238889
+    },
+    {
+      "cityName": "Cocquericot",
+      "lat": 17.4166667,
+      "lng": -88.6166667
+    },
+    {
+      "cityName": "Cohune Ridge",
+      "lat": 16.8194444,
+      "lng": -89.0841667
+    },
+    {
+      "cityName": "Cool Shade",
+      "lat": 17.1666667,
+      "lng": -88.9666667
+    },
+    {
+      "cityName": "Cotton Tree Bank",
+      "lat": 17.3333333,
+      "lng": -88.7333333
+    },
+    {
+      "cityName": "Cotton Tree",
+      "lat": 17.2666667,
+      "lng": -88.7
+    },
+    {
+      "cityName": "Cowboy Camp",
+      "lat": 16.7380556,
+      "lng": -89.125
+    },
+    {
+      "cityName": "Cristo Rey",
+      "lat": 17.1313889,
+      "lng": -89.055
+    },
+    {
+      "cityName": "Cubeta Camp",
+      "lat": 16.7847222,
+      "lng": -89.01
+    },
+    {
+      "cityName": "Drill Camp",
+      "lat": 17.35,
+      "lng": -88.9166667
+    },
+    {
+      "cityName": "Dry Creek Bank",
+      "lat": 17.1666667,
+      "lng": -88.5833333
+    },
+    {
+      "cityName": "Duck Run",
+      "lat": 17.185,
+      "lng": -89.0475
+    },
+    {
+      "cityName": "Duffy Bank",
+      "lat": 17.1197222,
+      "lng": -89.0630556
+    },
+    {
+      "cityName": "El Retiro Camp",
+      "lat": 16.7186111,
+      "lng": -89.1402778
+    },
+    {
+      "cityName": "Esperanza",
+      "lat": 17.1666667,
+      "lng": -89.0333333
+    },
+    {
+      "cityName": "Fermin Reyes",
+      "lat": 17.2588889,
+      "lng": -89.0536111
+    },
+    {
+      "cityName": "Flour Camp",
+      "lat": 17.0469444,
+      "lng": -89.0602778
+    },
+    {
+      "cityName": "Fork Camp",
+      "lat": 16.5166667,
+      "lng": -89.05
+    },
+    {
+      "cityName": "Garbutt's Falls",
+      "lat": 17.0669444,
+      "lng": -89.1513889
+    },
+    {
+      "cityName": "Georgeville",
+      "lat": 17.1833333,
+      "lng": -88.9666667
+    },
+    {
+      "cityName": "Good Living Camp",
+      "lat": 17.1,
+      "lng": -88.65
+    },
+    {
+      "cityName": "Guacamallo Camp",
+      "lat": 16.8677778,
+      "lng": -89.0322222
+    },
+    {
+      "cityName": "Jocote",
+      "lat": 17.0844444,
+      "lng": -89.1261111
+    },
+    {
+      "cityName": "Listowel",
+      "lat": 17.2030556,
+      "lng": -89.0286111
+    },
+    {
+      "cityName": "Long Bridge",
+      "lat": 17.3127778,
+      "lng": -89.0783333
+    },
+    {
+      "cityName": "Los Lirios Camp",
+      "lat": 16.7025,
+      "lng": -89.0097222
+    },
+    {
+      "cityName": "Macaw Bank",
+      "lat": 16.9833333,
+      "lng": -89.0666667
+    },
+    {
+      "cityName": "Meditation",
+      "lat": 17.3666667,
+      "lng": -88.7166667
+    },
+    {
+      "cityName": "Millionario",
+      "lat": 16.7547222,
+      "lng": -89.0083333
+    },
+    {
+      "cityName": "Monkey Fall",
+      "lat": 17.1375,
+      "lng": -89.0502778
+    },
+    {
+      "cityName": "More Tomorrow",
+      "lat": 17.35,
+      "lng": -88.6833333
+    },
+    {
+      "cityName": "Mountain Cow",
+      "lat": 16.7875,
+      "lng": -89.0488889
+    },
+    {
+      "cityName": "Negroman",
+      "lat": 17.0819444,
+      "lng": -89.0816667
+    },
+    {
+      "cityName": "Never Delay",
+      "lat": 17.3166667,
+      "lng": -88.75
+    },
+    {
+      "cityName": "Norland",
+      "lat": 17.1666667,
+      "lng": -89
+    },
+    {
+      "cityName": "Ontario Village",
+      "lat": 17.2166667,
+      "lng": -88.8833333
+    },
+    {
+      "cityName": "Orange Walk",
+      "lat": 17.2666667,
+      "lng": -88.7833333
+    },
+    {
+      "cityName": "Pilgrimage Valley",
+      "lat": 17.15,
+      "lng": -89.0333333
+    },
+    {
+      "cityName": "Plant Sucker",
+      "lat": 17.15,
+      "lng": -89.1166667
+    },
+    {
+      "cityName": "Privassion Camp",
+      "lat": 17.0333333,
+      "lng": -88.95
+    },
+    {
+      "cityName": "Providencien",
+      "lat": 17.1333333,
+      "lng": -89.1333333
+    },
+    {
+      "cityName": "Puchetuck Camp",
+      "lat": 16.7672222,
+      "lng": -89.0583333
+    },
+    {
+      "cityName": "Roaring Creek",
+      "lat": 17.25,
+      "lng": -88.7833333
+    },
+    {
+      "cityName": "Rock Donda",
+      "lat": 17.35,
+      "lng": -88.7333333
+    },
+    {
+      "cityName": "Round Hole Bank",
+      "lat": 16.7002778,
+      "lng": -89.1130556
+    },
+    {
+      "cityName": "Round Hole",
+      "lat": 17.3247222,
+      "lng": -89.0913889
+    },
+    {
+      "cityName": "Saint Thomas",
+      "lat": 17.15,
+      "lng": -88.6333333
+    },
+    {
+      "cityName": "San Antonio",
+      "lat": 17.0786111,
+      "lng": -89.0236111
+    },
+    {
+      "cityName": "San Felipe",
+      "lat": 17.15,
+      "lng": -89.0666667
+    },
+    {
+      "cityName": "San Jose",
+      "lat": 17.1761111,
+      "lng": -89.0963889
+    },
+    {
+      "cityName": "San Luis",
+      "lat": 16.9097222,
+      "lng": -89.0061111
+    },
+    {
+      "cityName": "San Miguel",
+      "lat": 17.1666667,
+      "lng": -89.0166667
+    },
+    {
+      "cityName": "San Pastor Camp",
+      "lat": 16.7,
+      "lng": -88.9833333
+    },
+    {
+      "cityName": "San Pedro",
+      "lat": 17.35,
+      "lng": -88.9833333
+    },
+    {
+      "cityName": "Santa Elena",
+      "lat": 17.1583333,
+      "lng": -89.0647222
+    },
+    {
+      "cityName": "Santa Familia",
+      "lat": 17.1833333,
+      "lng": -89.0666667
+    },
+    {
+      "cityName": "Savannah Bank",
+      "lat": 17.1833333,
+      "lng": -88.8
+    },
+    {
+      "cityName": "Sayab Camp",
+      "lat": 17.1,
+      "lng": -88.9666667
+    },
+    {
+      "cityName": "Sibun Camp",
+      "lat": 17.0833333,
+      "lng": -88.65
+    },
+    {
+      "cityName": "South View Point",
+      "lat": 16.9,
+      "lng": -88.9833333
+    },
+    {
+      "cityName": "Spanish Lookout",
+      "lat": 17.2166667,
+      "lng": -88.9833333
+    },
+    {
+      "cityName": "Teakettle Bank",
+      "lat": 17.2166667,
+      "lng": -88.85
+    },
+    {
+      "cityName": "Toro",
+      "lat": 17.3041667,
+      "lng": -89.1422222
+    },
+    {
+      "cityName": "Trapiche",
+      "lat": 17.1666667,
+      "lng": -89.0666667
+    },
+    {
+      "cityName": "Tu-Tu Camp",
+      "lat": 17.3255556,
+      "lng": -89.1391667
+    },
+    {
+      "cityName": "Union Camp",
+      "lat": 16.6275,
+      "lng": -89.0188889
+    },
+    {
+      "cityName": "Unitedville",
+      "lat": 17.2,
+      "lng": -88.9333333
+    },
+    {
+      "cityName": "Vaca",
+      "lat": 17.0325,
+      "lng": -89.0633333
+    },
+    {
+      "cityName": "Valentin Camp",
+      "lat": 16.7663889,
+      "lng": -89.1625
+    },
+    {
+      "cityName": "Valley of Peace",
+      "lat": 17.3347222,
+      "lng": -88.8347222
+    }
+  ]
+}

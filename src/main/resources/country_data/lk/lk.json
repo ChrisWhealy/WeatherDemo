@@ -1,0 +1,55 @@
+{
+  "name": "Sri Lanka",
+  "iso2": "lk",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Central",
+      "id": 0
+    },
+    {
+      "name": "North Central",
+      "id": 1
+    },
+    {
+      "name": "North Western",
+      "id": 2
+    },
+    {
+      "name": "Sabaragamuwa",
+      "id": 3
+    },
+    {
+      "name": "Southern",
+      "id": 4
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 5
+    },
+    {
+      "name": "Uva",
+      "id": 6
+    },
+    {
+      "name": "Western",
+      "id": 7
+    }
+  ],
+  "geoRectangle": {
+    "West": 79.6529083252,
+    "East": 81.8812942505,
+    "North": 9.8313627243,
+    "South": 5.91683244705
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 5.5,
+    "Flg": 2,
+    "Name": "Colombo",
+    "GeoPt": [
+      6.56,
+      79.51
+    ]
+  }
+}

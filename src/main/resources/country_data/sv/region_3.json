@@ -1,0 +1,575 @@
+{
+  "name": "Cuscatlan",
+  "cities": [
+    {
+      "cityName": "Aguacayo",
+      "lat": 13.9277778,
+      "lng": -89.0494444
+    },
+    {
+      "cityName": "Ajuluco",
+      "lat": 13.8166667,
+      "lng": -88.9333333
+    },
+    {
+      "cityName": "Analquito",
+      "lat": 13.65,
+      "lng": -88.95
+    },
+    {
+      "cityName": "Ánimas",
+      "lat": 13.7666667,
+      "lng": -88.9666667
+    },
+    {
+      "cityName": "Barrie La Cruz",
+      "lat": 13.75,
+      "lng": -89.05
+    },
+    {
+      "cityName": "Barrio Abajo",
+      "lat": 13.65,
+      "lng": -88.9333333
+    },
+    {
+      "cityName": "Bermuda",
+      "lat": 13.8713889,
+      "lng": -89.0375
+    },
+    {
+      "cityName": "Buena Vista",
+      "lat": 13.7166667,
+      "lng": -89.0333333
+    },
+    {
+      "cityName": "Buenos Aires",
+      "lat": 13.7333333,
+      "lng": -89.0333333
+    },
+    {
+      "cityName": "Candelaria",
+      "lat": 13.6833333,
+      "lng": -88.9833333
+    },
+    {
+      "cityName": "Cantón Caulote",
+      "lat": 13.9333333,
+      "lng": -89.0166667
+    },
+    {
+      "cityName": "Cantón El Espino",
+      "lat": 13.75,
+      "lng": -89.0166667
+    },
+    {
+      "cityName": "Cantón El Molino",
+      "lat": 13.8536111,
+      "lng": -89.0286111
+    },
+    {
+      "cityName": "Cantón Palacios",
+      "lat": 13.8333333,
+      "lng": -89.0666667
+    },
+    {
+      "cityName": "Cantón Palo Grande",
+      "lat": 13.9166667,
+      "lng": -89.0833333
+    },
+    {
+      "cityName": "Cantón Ramírez",
+      "lat": 13.8666667,
+      "lng": -89.1333333
+    },
+    {
+      "cityName": "Cantón Rodríguez",
+      "lat": 13.8333333,
+      "lng": -89.1
+    },
+    {
+      "cityName": "Cantón Salitre",
+      "lat": 13.8702778,
+      "lng": -89.1041667
+    },
+    {
+      "cityName": "Cantón San Juan",
+      "lat": 13.95,
+      "lng": -89.0166667
+    },
+    {
+      "cityName": "Caserío El Carmen",
+      "lat": 13.75,
+      "lng": -89
+    },
+    {
+      "cityName": "Caserío el Rosario",
+      "lat": 13.8333333,
+      "lng": -89.0166667
+    },
+    {
+      "cityName": "Caserío La Aldea",
+      "lat": 13.8666667,
+      "lng": -89.1166667
+    },
+    {
+      "cityName": "Caserio Montepeque",
+      "lat": 13.8713889,
+      "lng": -89.0794444
+    },
+    {
+      "cityName": "Caserío Tenango",
+      "lat": 13.8833333,
+      "lng": -89.0166667
+    },
+    {
+      "cityName": "Cojutepeque",
+      "lat": 13.7166667,
+      "lng": -88.9333333
+    },
+    {
+      "cityName": "Colima",
+      "lat": 14.05,
+      "lng": -89.1333333
+    },
+    {
+      "cityName": "Concepción",
+      "lat": 13.7833333,
+      "lng": -88.9333333
+    },
+    {
+      "cityName": "Consolación",
+      "lat": 13.9825,
+      "lng": -89.0777778
+    },
+    {
+      "cityName": "Copalchán",
+      "lat": 13.85,
+      "lng": -88.9666667
+    },
+    {
+      "cityName": "Copapayo",
+      "lat": 13.9333333,
+      "lng": -88.9666667
+    },
+    {
+      "cityName": "Copinol",
+      "lat": 13.75,
+      "lng": -88.8833333
+    },
+    {
+      "cityName": "Corozal",
+      "lat": 14,
+      "lng": -89.0666667
+    },
+    {
+      "cityName": "Corral Viejo",
+      "lat": 13.8,
+      "lng": -88.9666667
+    },
+    {
+      "cityName": "Cujuapa",
+      "lat": 13.7,
+      "lng": -88.9833333
+    },
+    {
+      "cityName": "Delicias",
+      "lat": 13.7166667,
+      "lng": -88.9833333
+    },
+    {
+      "cityName": "El Calvario",
+      "lat": 13.7833333,
+      "lng": -88.9166667
+    },
+    {
+      "cityName": "El Carmen",
+      "lat": 13.7166667,
+      "lng": -88.9
+    },
+    {
+      "cityName": "El Carrizal",
+      "lat": 13.7,
+      "lng": -88.95
+    },
+    {
+      "cityName": "El Centro",
+      "lat": 13.7333333,
+      "lng": -88.9666667
+    },
+    {
+      "cityName": "El Espinal",
+      "lat": 13.75,
+      "lng": -88.8666667
+    },
+    {
+      "cityName": "El Líbano",
+      "lat": 13.95,
+      "lng": -89.15
+    },
+    {
+      "cityName": "El Limón",
+      "lat": 13.7666667,
+      "lng": -88.9833333
+    },
+    {
+      "cityName": "El Llano",
+      "lat": 13.8166667,
+      "lng": -88.9666667
+    },
+    {
+      "cityName": "El Paraíso",
+      "lat": 13.7666667,
+      "lng": -89.0333333
+    },
+    {
+      "cityName": "El Pepeto",
+      "lat": 13.85,
+      "lng": -88.9833333
+    },
+    {
+      "cityName": "El Platanar",
+      "lat": 13.9452778,
+      "lng": -89.0627778
+    },
+    {
+      "cityName": "El Roblar",
+      "lat": 13.91,
+      "lng": -89.0697222
+    },
+    {
+      "cityName": "El Rodeo",
+      "lat": 13.8,
+      "lng": -89.0166667
+    },
+    {
+      "cityName": "El Rosario Tablón",
+      "lat": 13.8166667,
+      "lng": -88.95
+    },
+    {
+      "cityName": "El Tablón",
+      "lat": 13.9833333,
+      "lng": -89.0333333
+    },
+    {
+      "cityName": "El Trapichón",
+      "lat": 13.9833333,
+      "lng": -89.1333333
+    },
+    {
+      "cityName": "El Triunfo",
+      "lat": 13.8166667,
+      "lng": -89.0333333
+    },
+    {
+      "cityName": "El Zapote",
+      "lat": 13.9455556,
+      "lng": -89.0983333
+    },
+    {
+      "cityName": "Estanzuelas",
+      "lat": 13.9166667,
+      "lng": -89.05
+    },
+    {
+      "cityName": "Finca Victoria",
+      "lat": 13.85,
+      "lng": -89.1
+    },
+    {
+      "cityName": "Guadalupe",
+      "lat": 13.8833333,
+      "lng": -89
+    },
+    {
+      "cityName": "Güisiltepeque",
+      "lat": 13.8,
+      "lng": -89
+    },
+    {
+      "cityName": "Hacienda América",
+      "lat": 13.8666667,
+      "lng": -89.0333333
+    },
+    {
+      "cityName": "Hacienda Concepción",
+      "lat": 13.95,
+      "lng": -89.0333333
+    },
+    {
+      "cityName": "Hacienda La Asunción",
+      "lat": 13.9666667,
+      "lng": -89.1166667
+    },
+    {
+      "cityName": "Hacienda La Finca",
+      "lat": 13.9666667,
+      "lng": -89.0833333
+    },
+    {
+      "cityName": "Hacienda Lomachata",
+      "lat": 13.8833333,
+      "lng": -89.1
+    },
+    {
+      "cityName": "Hacienda Masatepeque",
+      "lat": 13.9666667,
+      "lng": -89.1
+    },
+    {
+      "cityName": "Hacienda Primavera",
+      "lat": 13.85,
+      "lng": -89.05
+    },
+    {
+      "cityName": "Hacienda San Lucas",
+      "lat": 13.9452778,
+      "lng": -89.1586111
+    },
+    {
+      "cityName": "Ichanguezo",
+      "lat": 13.9,
+      "lng": -89.0666667
+    },
+    {
+      "cityName": "Istagua",
+      "lat": 13.8013889,
+      "lng": -89.0363889
+    },
+    {
+      "cityName": "Jiñuco",
+      "lat": 13.7166667,
+      "lng": -88.95
+    },
+    {
+      "cityName": "La Esperanza",
+      "lat": 13.8080556,
+      "lng": -89.005
+    },
+    {
+      "cityName": "La Loma",
+      "lat": 13.75,
+      "lng": -89.0333333
+    },
+    {
+      "cityName": "Las Lomas",
+      "lat": 13.8,
+      "lng": -89.05
+    },
+    {
+      "cityName": "La Soledad",
+      "lat": 13.7666667,
+      "lng": -88.8833333
+    },
+    {
+      "cityName": "La Trinidad",
+      "lat": 13.95,
+      "lng": -89
+    },
+    {
+      "cityName": "La Virgen",
+      "lat": 13.6833333,
+      "lng": -88.9166667
+    },
+    {
+      "cityName": "Llano Grande",
+      "lat": 13.8333333,
+      "lng": -89.0833333
+    },
+    {
+      "cityName": "Loma de Las Delicias",
+      "lat": 13.8,
+      "lng": -88.9333333
+    },
+    {
+      "cityName": "Los Naranjos",
+      "lat": 13.7166667,
+      "lng": -88.9166667
+    },
+    {
+      "cityName": "Meléndez",
+      "lat": 13.8333333,
+      "lng": -89.1166667
+    },
+    {
+      "cityName": "Michapa",
+      "lat": 13.75,
+      "lng": -88.9833333
+    },
+    {
+      "cityName": "Milingo",
+      "lat": 13.9097222,
+      "lng": -89.0438889
+    },
+    {
+      "cityName": "Miraflor Arriba",
+      "lat": 13.6833333,
+      "lng": -88.95
+    },
+    {
+      "cityName": "Miraflores",
+      "lat": 13.7666667,
+      "lng": -89
+    },
+    {
+      "cityName": "Mirandilla",
+      "lat": 13.9333333,
+      "lng": -89.1
+    },
+    {
+      "cityName": "Monte de San Juan",
+      "lat": 13.7666667,
+      "lng": -88.95
+    },
+    {
+      "cityName": "Nance Verde",
+      "lat": 13.7,
+      "lng": -88.9333333
+    },
+    {
+      "cityName": "Ojo de Agua",
+      "lat": 13.75,
+      "lng": -88.9333333
+    },
+    {
+      "cityName": "Oratorio de Concepción",
+      "lat": 13.8163889,
+      "lng": -89.0597222
+    },
+    {
+      "cityName": "Palacios",
+      "lat": 13.7333333,
+      "lng": -88.8666667
+    },
+    {
+      "cityName": "Pepeishtenango",
+      "lat": 13.9166667,
+      "lng": -89
+    },
+    {
+      "cityName": "Perulapia",
+      "lat": 13.7658333,
+      "lng": -89.0508333
+    },
+    {
+      "cityName": "Piedra Labrada",
+      "lat": 13.85,
+      "lng": -89.1166667
+    },
+    {
+      "cityName": "Rosales",
+      "lat": 13.7333333,
+      "lng": -88.9833333
+    },
+    {
+      "cityName": "Rosario",
+      "lat": 13.7666667,
+      "lng": -88.9166667
+    },
+    {
+      "cityName": "San Agustín",
+      "lat": 13.6833333,
+      "lng": -88.9333333
+    },
+    {
+      "cityName": "San Andrés",
+      "lat": 13.7666667,
+      "lng": -88.9333333
+    },
+    {
+      "cityName": "San Cristóbal",
+      "lat": 13.7,
+      "lng": -88.9
+    },
+    {
+      "cityName": "San Francisco",
+      "lat": 13.8166667,
+      "lng": -89.0166667
+    },
+    {
+      "cityName": "San José Guayabal",
+      "lat": 13.8422222,
+      "lng": -89.0969444
+    },
+    {
+      "cityName": "San Nicolás",
+      "lat": 13.7333333,
+      "lng": -88.95
+    },
+    {
+      "cityName": "San Pablo",
+      "lat": 13.7,
+      "lng": -88.9166667
+    },
+    {
+      "cityName": "San Pedro Perulapán",
+      "lat": 13.7733333,
+      "lng": -89.0388889
+    },
+    {
+      "cityName": "San Pedro",
+      "lat": 13.6833333,
+      "lng": -88.9
+    },
+    {
+      "cityName": "San Rafael Cedros",
+      "lat": 13.7333333,
+      "lng": -88.8833333
+    },
+    {
+      "cityName": "San Rafael La Loma",
+      "lat": 13.7,
+      "lng": -88.9666667
+    },
+    {
+      "cityName": "San Sebastián",
+      "lat": 13.75,
+      "lng": -88.9166667
+    },
+    {
+      "cityName": "Santa Lucía",
+      "lat": 13.7333333,
+      "lng": -88.9
+    },
+    {
+      "cityName": "Suchioto",
+      "lat": 13.9380556,
+      "lng": -89.0277778
+    },
+    {
+      "cityName": "Tacanagua",
+      "lat": 13.8166667,
+      "lng": -89.05
+    },
+    {
+      "cityName": "Tecoluca",
+      "lat": 13.7891667,
+      "lng": -89.0052778
+    },
+    {
+      "cityName": "Tecomatepeque",
+      "lat": 13.8413889,
+      "lng": -89.0338889
+    },
+    {
+      "cityName": "Tenancingo",
+      "lat": 13.8333333,
+      "lng": -88.9833333
+    },
+    {
+      "cityName": "Tres Ceibas",
+      "lat": 13.9333333,
+      "lng": -89.1333333
+    },
+    {
+      "cityName": "Valle de Animas",
+      "lat": 13.81,
+      "lng": -89.0938889
+    },
+    {
+      "cityName": "Veracruz",
+      "lat": 13.75,
+      "lng": -88.9
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Monaco",
+  "iso2": "mc",
+  "cities": [
+    {
+      "cityName": "Condamine",
+      "lat": 43.7333333,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Moneghetti",
+      "lat": 43.7375,
+      "lng": 7.4152778
+    }
+  ],
+  "regionList": null,
+  "geoRectangle": {
+    "West": 7.38638830185,
+    "East": 7.43929338455,
+    "North": 43.7730522156,
+    "South": 43.7275428772
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Monaco",
+    "GeoPt": [
+      43.44,
+      7.25
+    ]
+  }
+}

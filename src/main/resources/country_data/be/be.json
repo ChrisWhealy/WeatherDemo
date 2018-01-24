@@ -1,0 +1,71 @@
+{
+  "name": "Belgium",
+  "iso2": "be",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Antwerpen",
+      "id": 0
+    },
+    {
+      "name": "Brabant Wallon",
+      "id": 1
+    },
+    {
+      "name": "Brussels Hoofdstedelijk Gewest",
+      "id": 2
+    },
+    {
+      "name": "Hainaut",
+      "id": 3
+    },
+    {
+      "name": "Liege",
+      "id": 4
+    },
+    {
+      "name": "Limburg",
+      "id": 5
+    },
+    {
+      "name": "Luxembourg",
+      "id": 6
+    },
+    {
+      "name": "Namur",
+      "id": 7
+    },
+    {
+      "name": "Oost-Vlaanderen",
+      "id": 8
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 9
+    },
+    {
+      "name": "Vlaams-Brabant",
+      "id": 10
+    },
+    {
+      "name": "West-Vlaanderen",
+      "id": 11
+    }
+  ],
+  "geoRectangle": {
+    "West": 2.54694366455,
+    "East": 6.40386152267,
+    "North": 51.5054512024,
+    "South": 49.4936027527
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Brussels",
+    "GeoPt": [
+      50.5,
+      4.2
+    ]
+  }
+}

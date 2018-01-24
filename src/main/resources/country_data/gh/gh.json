@@ -1,0 +1,63 @@
+{
+  "name": "Ghana",
+  "iso2": "gh",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Ashanti",
+      "id": 0
+    },
+    {
+      "name": "Brong-Ahafo",
+      "id": 1
+    },
+    {
+      "name": "Central",
+      "id": 2
+    },
+    {
+      "name": "Eastern",
+      "id": 3
+    },
+    {
+      "name": "Greater Accra",
+      "id": 4
+    },
+    {
+      "name": "Northern",
+      "id": 5
+    },
+    {
+      "name": "Upper East",
+      "id": 6
+    },
+    {
+      "name": "Upper West",
+      "id": 7
+    },
+    {
+      "name": "Volta",
+      "id": 8
+    },
+    {
+      "name": "Western",
+      "id": 9
+    }
+  ],
+  "geoRectangle": {
+    "West": -3.2554204464,
+    "East": 1.19178116322,
+    "North": 11.1733026505,
+    "South": 4.73672246933
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 0,
+    "Flg": 2,
+    "Name": "Accra",
+    "GeoPt": [
+      5.33,
+      -0.13
+    ]
+  }
+}

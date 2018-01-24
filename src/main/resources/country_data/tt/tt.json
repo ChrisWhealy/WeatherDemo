@@ -1,0 +1,71 @@
+{
+  "name": "Trinidad and Tobago",
+  "iso2": "tt",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Arima",
+      "id": 0
+    },
+    {
+      "name": "Caroni",
+      "id": 1
+    },
+    {
+      "name": "Mayaro",
+      "id": 2
+    },
+    {
+      "name": "Nariva",
+      "id": 3
+    },
+    {
+      "name": "Port-of-Spain",
+      "id": 4
+    },
+    {
+      "name": "Saint Andrew",
+      "id": 5
+    },
+    {
+      "name": "Saint David",
+      "id": 6
+    },
+    {
+      "name": "Saint George",
+      "id": 7
+    },
+    {
+      "name": "Saint Patrick",
+      "id": 8
+    },
+    {
+      "name": "San Fernando",
+      "id": 9
+    },
+    {
+      "name": "Tobago",
+      "id": 10
+    },
+    {
+      "name": "Victoria",
+      "id": 11
+    }
+  ],
+  "geoRectangle": {
+    "West": -61.9237785339,
+    "East": -60.5179290771,
+    "North": 11.3383436203,
+    "South": 10.0361032486
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -4,
+    "Flg": 2,
+    "Name": "Port-of-Spain",
+    "GeoPt": [
+      10.39,
+      -61.31
+    ]
+  }
+}

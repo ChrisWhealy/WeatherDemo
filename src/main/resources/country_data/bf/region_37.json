@@ -1,0 +1,680 @@
+{
+  "name": "Sourou",
+  "cities": [
+    {
+      "cityName": "Bangasoko",
+      "lat": 13.3166667,
+      "lng": -2.9
+    },
+    {
+      "cityName": "Banhassi",
+      "lat": 13.1666667,
+      "lng": -3.2833333
+    },
+    {
+      "cityName": "Bao",
+      "lat": 13,
+      "lng": -3.2166667
+    },
+    {
+      "cityName": "Bassan",
+      "lat": 13.0833333,
+      "lng": -3.1666667
+    },
+    {
+      "cityName": "Bassébétanga",
+      "lat": 13.0333333,
+      "lng": -2.7166667
+    },
+    {
+      "cityName": "Bladi",
+      "lat": 13.4166667,
+      "lng": -3.3
+    },
+    {
+      "cityName": "Boaré",
+      "lat": 13.0833333,
+      "lng": -2.9333333
+    },
+    {
+      "cityName": "Bonpéla",
+      "lat": 13.1666667,
+      "lng": -2.75
+    },
+    {
+      "cityName": "Bonro",
+      "lat": 13.05,
+      "lng": -3.2166667
+    },
+    {
+      "cityName": "Bouchouwilé",
+      "lat": 13.6166667,
+      "lng": -3.25
+    },
+    {
+      "cityName": "Boulé",
+      "lat": 13.4,
+      "lng": -2.8666667
+    },
+    {
+      "cityName": "Bouna",
+      "lat": 13.25,
+      "lng": -3.4
+    },
+    {
+      "cityName": "Bounou",
+      "lat": 13.1333333,
+      "lng": -2.8166667
+    },
+    {
+      "cityName": "Bourgo",
+      "lat": 13.0333333,
+      "lng": -3.3
+    },
+    {
+      "cityName": "Boussé",
+      "lat": 13.1,
+      "lng": -3.3833333
+    },
+    {
+      "cityName": "Boussoum",
+      "lat": 13.15,
+      "lng": -2.95
+    },
+    {
+      "cityName": "Da",
+      "lat": 12.9833333,
+      "lng": -2.9166667
+    },
+    {
+      "cityName": "Dagalé",
+      "lat": 13.3666667,
+      "lng": -3.2
+    },
+    {
+      "cityName": "Daka",
+      "lat": 13.1666667,
+      "lng": -3.0333333
+    },
+    {
+      "cityName": "Dalo",
+      "lat": 13.2666667,
+      "lng": -3.1166667
+    },
+    {
+      "cityName": "Daré",
+      "lat": 13.0833333,
+      "lng": -3.35
+    },
+    {
+      "cityName": "Débé",
+      "lat": 13.0833333,
+      "lng": -3.4333333
+    },
+    {
+      "cityName": "Diala",
+      "lat": 13.0333333,
+      "lng": -3.2333333
+    },
+    {
+      "cityName": "Dian",
+      "lat": 13.1166667,
+      "lng": -3.2833333
+    },
+    {
+      "cityName": "Dianra",
+      "lat": 13.1,
+      "lng": -3.1666667
+    },
+    {
+      "cityName": "Di",
+      "lat": 13.1666667,
+      "lng": -3.4166667
+    },
+    {
+      "cityName": "Diélé",
+      "lat": 13.1166667,
+      "lng": -3.25
+    },
+    {
+      "cityName": "Diouroum",
+      "lat": 12.9833333,
+      "lng": -3.1166667
+    },
+    {
+      "cityName": "Diouroum-Kassoum",
+      "lat": 13,
+      "lng": -3.0333333
+    },
+    {
+      "cityName": "Dissi",
+      "lat": 13.2333333,
+      "lng": -3.1666667
+    },
+    {
+      "cityName": "Djéré",
+      "lat": 12.85,
+      "lng": -3.1
+    },
+    {
+      "cityName": "Djimbara",
+      "lat": 12.8833333,
+      "lng": -3.15
+    },
+    {
+      "cityName": "Domoni",
+      "lat": 13.5166667,
+      "lng": -3.1833333
+    },
+    {
+      "cityName": "Dono",
+      "lat": 13.2666667,
+      "lng": -3.35
+    },
+    {
+      "cityName": "Dossola",
+      "lat": 13.0666667,
+      "lng": -3.2666667
+    },
+    {
+      "cityName": "Douban",
+      "lat": 12.9833333,
+      "lng": -3.2666667
+    },
+    {
+      "cityName": "Doumou",
+      "lat": 13.3,
+      "lng": -3.2
+    },
+    {
+      "cityName": "Douré",
+      "lat": 12.95,
+      "lng": -3.3833333
+    },
+    {
+      "cityName": "Ganagoulo",
+      "lat": 13.4166667,
+      "lng": -2.9666667
+    },
+    {
+      "cityName": "Gan",
+      "lat": 13.25,
+      "lng": -2.8833333
+    },
+    {
+      "cityName": "Gani",
+      "lat": 13.4166667,
+      "lng": -2.9
+    },
+    {
+      "cityName": "Gassan",
+      "lat": 12.8166667,
+      "lng": -3.2
+    },
+    {
+      "cityName": "Goïalé",
+      "lat": 13.2833333,
+      "lng": -2.8333333
+    },
+    {
+      "cityName": "Gomé",
+      "lat": 13.4333333,
+      "lng": -3.2
+    },
+    {
+      "cityName": "Gon",
+      "lat": 13.4166667,
+      "lng": -3.2333333
+    },
+    {
+      "cityName": "Gono",
+      "lat": 13.2666667,
+      "lng": -3.1333333
+    },
+    {
+      "cityName": "Goronbouli",
+      "lat": 13,
+      "lng": -2.8
+    },
+    {
+      "cityName": "Goron",
+      "lat": 13,
+      "lng": -2.75
+    },
+    {
+      "cityName": "Gosso",
+      "lat": 13.1666667,
+      "lng": -3.0833333
+    },
+    {
+      "cityName": "Goula",
+      "lat": 12.9833333,
+      "lng": -3.3833333
+    },
+    {
+      "cityName": "Gouran",
+      "lat": 13.0333333,
+      "lng": -3.4166667
+    },
+    {
+      "cityName": "Gui",
+      "lat": 12.8666667,
+      "lng": -3.2666667
+    },
+    {
+      "cityName": "Illa",
+      "lat": 13.15,
+      "lng": -3.5
+    },
+    {
+      "cityName": "Kamina",
+      "lat": 12.9333333,
+      "lng": -3.3333333
+    },
+    {
+      "cityName": "Kankané",
+      "lat": 13.1166667,
+      "lng": -3.2
+    },
+    {
+      "cityName": "Kaora",
+      "lat": 13,
+      "lng": -2.8833333
+    },
+    {
+      "cityName": "Karémanguel",
+      "lat": 13.3333333,
+      "lng": -3.0166667
+    },
+    {
+      "cityName": "Karétokosel",
+      "lat": 13.4,
+      "lng": -3.2
+    },
+    {
+      "cityName": "Kasso",
+      "lat": 13.0833333,
+      "lng": -3.3
+    },
+    {
+      "cityName": "Kawara",
+      "lat": 13,
+      "lng": -2.9
+    },
+    {
+      "cityName": "Kibiri",
+      "lat": 12.7833333,
+      "lng": -3.15
+    },
+    {
+      "cityName": "Kirissitanga",
+      "lat": 13.0166667,
+      "lng": -2.7166667
+    },
+    {
+      "cityName": "Koromé",
+      "lat": 13.1333333,
+      "lng": -3.3666667
+    },
+    {
+      "cityName": "Kota",
+      "lat": 12.8166667,
+      "lng": -3.2833333
+    },
+    {
+      "cityName": "Koubé",
+      "lat": 13.0833333,
+      "lng": -3.5166667
+    },
+    {
+      "cityName": "Koui",
+      "lat": 13.1833333,
+      "lng": -3.1666667
+    },
+    {
+      "cityName": "Koularé",
+      "lat": 13.1,
+      "lng": -3.2
+    },
+    {
+      "cityName": "Koumbara",
+      "lat": 12.9,
+      "lng": -3.4
+    },
+    {
+      "cityName": "Kourani",
+      "lat": 13.05,
+      "lng": -3.3666667
+    },
+    {
+      "cityName": "Kourouguéré",
+      "lat": 13.4,
+      "lng": -3.1833333
+    },
+    {
+      "cityName": "Lanbara",
+      "lat": 12.8666667,
+      "lng": -3.1
+    },
+    {
+      "cityName": "Lanferia",
+      "lat": 12.9833333,
+      "lng": -3.4166667
+    },
+    {
+      "cityName": "Laré",
+      "lat": 12.9166667,
+      "lng": -3.1
+    },
+    {
+      "cityName": "Leséré",
+      "lat": 12.8666667,
+      "lng": -3.3
+    },
+    {
+      "cityName": "Logué",
+      "lat": 12.9166667,
+      "lng": -3
+    },
+    {
+      "cityName": "Lo",
+      "lat": 13.1166667,
+      "lng": -3.4
+    },
+    {
+      "cityName": "Loroni",
+      "lat": 13.6166667,
+      "lng": -3.1333333
+    },
+    {
+      "cityName": "Louta",
+      "lat": 13.5,
+      "lng": -3.1666667
+    },
+    {
+      "cityName": "Manga",
+      "lat": 13.5833333,
+      "lng": -3.2333333
+    },
+    {
+      "cityName": "Mara",
+      "lat": 13.25,
+      "lng": -3.2333333
+    },
+    {
+      "cityName": "Moara",
+      "lat": 13.0666667,
+      "lng": -3.2166667
+    },
+    {
+      "cityName": "Moiré",
+      "lat": 12.8166667,
+      "lng": -3.15
+    },
+    {
+      "cityName": "Naré",
+      "lat": 13.05,
+      "lng": -3.35
+    },
+    {
+      "cityName": "Nassan",
+      "lat": 13.0333333,
+      "lng": -3.0166667
+    },
+    {
+      "cityName": "Néhourou",
+      "lat": 13.7,
+      "lng": -3.2333333
+    },
+    {
+      "cityName": "Niankoré",
+      "lat": 13.2333333,
+      "lng": -2.9666667
+    },
+    {
+      "cityName": "Niassan",
+      "lat": 13.1,
+      "lng": -3.4333333
+    },
+    {
+      "cityName": "Nyinndalo",
+      "lat": 13.1666667,
+      "lng": -3.2333333
+    },
+    {
+      "cityName": "Oué",
+      "lat": 13.2333333,
+      "lng": -3.4
+    },
+    {
+      "cityName": "Ouro",
+      "lat": 13.4,
+      "lng": -3.1
+    },
+    {
+      "cityName": "Ouroukou",
+      "lat": 13.2166667,
+      "lng": -3.3
+    },
+    {
+      "cityName": "Panien",
+      "lat": 13.1166667,
+      "lng": -2.7333333
+    },
+    {
+      "cityName": "Pini",
+      "lat": 13.2666667,
+      "lng": -3.2833333
+    },
+    {
+      "cityName": "Pora",
+      "lat": 13.2333333,
+      "lng": -3.3333333
+    },
+    {
+      "cityName": "Poura",
+      "lat": 13.15,
+      "lng": -3.35
+    },
+    {
+      "cityName": "Rabouglitenga",
+      "lat": 12.95,
+      "lng": -2.8833333
+    },
+    {
+      "cityName": "Sané",
+      "lat": 13.4833333,
+      "lng": -3.0666667
+    },
+    {
+      "cityName": "Sanga",
+      "lat": 13.4,
+      "lng": -3.0666667
+    },
+    {
+      "cityName": "Saran",
+      "lat": 12.9166667,
+      "lng": -2.9666667
+    },
+    {
+      "cityName": "Sémé",
+      "lat": 13.5333333,
+      "lng": -2.95
+    },
+    {
+      "cityName": "Sia",
+      "lat": 13.4333333,
+      "lng": -2.8333333
+    },
+    {
+      "cityName": "Siguinogoé",
+      "lat": 13.3,
+      "lng": -2.85
+    },
+    {
+      "cityName": "Simbaraboumba",
+      "lat": 13.15,
+      "lng": -3.2
+    },
+    {
+      "cityName": "Sindié",
+      "lat": 13.6,
+      "lng": -2.9833333
+    },
+    {
+      "cityName": "Sissilé",
+      "lat": 13.1833333,
+      "lng": -2.75
+    },
+    {
+      "cityName": "Soni",
+      "lat": 12.8666667,
+      "lng": -3.3666667
+    },
+    {
+      "cityName": "Soro",
+      "lat": 13.5833333,
+      "lng": -3.0333333
+    },
+    {
+      "cityName": "Soumarani",
+      "lat": 13.2666667,
+      "lng": -3.25
+    },
+    {
+      "cityName": "Sourouna",
+      "lat": 13,
+      "lng": -3.3
+    },
+    {
+      "cityName": "Sourou",
+      "lat": 12.8333333,
+      "lng": -3.2166667
+    },
+    {
+      "cityName": "Tané",
+      "lat": 13.0666667,
+      "lng": -3.3833333
+    },
+    {
+      "cityName": "Téné",
+      "lat": 13.4333333,
+      "lng": -3.1833333
+    },
+    {
+      "cityName": "Téri",
+      "lat": 12.95,
+      "lng": -3.2166667
+    },
+    {
+      "cityName": "Tiao",
+      "lat": 13.2333333,
+      "lng": -3.25
+    },
+    {
+      "cityName": "Tiri",
+      "lat": 12.8833333,
+      "lng": -3.2
+    },
+    {
+      "cityName": "Toaré",
+      "lat": 13.0666667,
+      "lng": -2.75
+    },
+    {
+      "cityName": "Toma",
+      "lat": 13.15,
+      "lng": -3.45
+    },
+    {
+      "cityName": "Tongourou",
+      "lat": 13,
+      "lng": -3.35
+    },
+    {
+      "cityName": "Toubani",
+      "lat": 12.95,
+      "lng": -3.2666667
+    },
+    {
+      "cityName": "Tougan",
+      "lat": 13.0666667,
+      "lng": -3.0666667
+    },
+    {
+      "cityName": "Toumbila",
+      "lat": 13,
+      "lng": -3.3333333
+    },
+    {
+      "cityName": "Toungaré",
+      "lat": 13.2666667,
+      "lng": -3.1
+    },
+    {
+      "cityName": "Touroukara",
+      "lat": 13.0666667,
+      "lng": -3.4833333
+    },
+    {
+      "cityName": "Tourou",
+      "lat": 13.1166667,
+      "lng": -3.35
+    },
+    {
+      "cityName": "Wara",
+      "lat": 13.05,
+      "lng": -3.2833333
+    },
+    {
+      "cityName": "Warou",
+      "lat": 12.9166667,
+      "lng": -3.2666667
+    },
+    {
+      "cityName": "Wéré",
+      "lat": 13.0333333,
+      "lng": -3.4666667
+    },
+    {
+      "cityName": "Yaïo",
+      "lat": 12.9166667,
+      "lng": -3.4666667
+    },
+    {
+      "cityName": "Yaran",
+      "lat": 12.9666667,
+      "lng": -3.45
+    },
+    {
+      "cityName": "Yéaïri",
+      "lat": 13.45,
+      "lng": -2.85
+    },
+    {
+      "cityName": "Yéra",
+      "lat": 13,
+      "lng": -3.45
+    },
+    {
+      "cityName": "Yo",
+      "lat": 13.0333333,
+      "lng": -3.0333333
+    },
+    {
+      "cityName": "Zaba",
+      "lat": 12.7833333,
+      "lng": -3.2
+    },
+    {
+      "cityName": "Zimou",
+      "lat": 13.0833333,
+      "lng": -2.9166667
+    },
+    {
+      "cityName": "Zizi",
+      "lat": 12.9666667,
+      "lng": -2.9333333
+    }
+  ]
+}

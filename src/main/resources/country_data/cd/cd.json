@@ -1,0 +1,75 @@
+{
+  "name": "Democratic Republic of the Congo",
+  "iso2": "cd",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Bandundu",
+      "id": 0
+    },
+    {
+      "name": "Bas-Congo",
+      "id": 1
+    },
+    {
+      "name": "Equateur",
+      "id": 2
+    },
+    {
+      "name": "Kasai-Oriental",
+      "id": 3
+    },
+    {
+      "name": "Katanga",
+      "id": 4
+    },
+    {
+      "name": "Kinshasa",
+      "id": 5
+    },
+    {
+      "name": "Maniema",
+      "id": 6
+    },
+    {
+      "name": "Nord-Kivu",
+      "id": 7
+    },
+    {
+      "name": "Orientale",
+      "id": 8
+    },
+    {
+      "name": "Sud-Kivu",
+      "id": 9
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 10
+    },
+    {
+      "name": "Unnamed region 02",
+      "id": 11
+    },
+    {
+      "name": "Unnamed region 03",
+      "id": 12
+    }
+  ],
+  "geoRectangle": {
+    "West": 12.2041425705,
+    "East": 31.3059139252,
+    "North": 5.38609886169,
+    "South": -13.4556760788
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Kinshasa",
+    "GeoPt": [
+      -4.19,
+      15.18
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Albania",
+  "iso2": "al",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Berat",
+      "id": 0
+    },
+    {
+      "name": "Diber",
+      "id": 1
+    },
+    {
+      "name": "Durres",
+      "id": 2
+    },
+    {
+      "name": "Elbasan",
+      "id": 3
+    },
+    {
+      "name": "Fier",
+      "id": 4
+    },
+    {
+      "name": "Gjirokaster",
+      "id": 5
+    },
+    {
+      "name": "Korce",
+      "id": 6
+    },
+    {
+      "name": "Kukes",
+      "id": 7
+    },
+    {
+      "name": "Lezhe",
+      "id": 8
+    },
+    {
+      "name": "Shkoder",
+      "id": 9
+    },
+    {
+      "name": "Tirane",
+      "id": 10
+    },
+    {
+      "name": "Vlore",
+      "id": 11
+    }
+  ],
+  "geoRectangle": {
+    "West": 19.2939682007,
+    "East": 21.0684757233,
+    "North": 42.6656150818,
+    "South": 39.6483535767
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Tirana",
+    "GeoPt": [
+      41.19,
+      19.49
+    ]
+  }
+}

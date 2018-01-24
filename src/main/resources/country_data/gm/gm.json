@@ -1,0 +1,47 @@
+{
+  "name": "Gambia",
+  "iso2": "gm",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Banjul",
+      "id": 0
+    },
+    {
+      "name": "Central River",
+      "id": 1
+    },
+    {
+      "name": "Lower River",
+      "id": 2
+    },
+    {
+      "name": "North Bank",
+      "id": 3
+    },
+    {
+      "name": "Upper River",
+      "id": 4
+    },
+    {
+      "name": "Western",
+      "id": 5
+    }
+  ],
+  "geoRectangle": {
+    "West": -16.8250827789,
+    "East": -13.797791481,
+    "North": 13.8265724182,
+    "South": 13.064250946
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 0,
+    "Flg": 2,
+    "Name": "Banjul",
+    "GeoPt": [
+      13.27,
+      -16.34
+    ]
+  }
+}

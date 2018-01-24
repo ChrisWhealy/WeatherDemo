@@ -1,0 +1,1545 @@
+{
+  "name": "Miyagi",
+  "cities": [
+    {
+      "cityName": "Aikawa",
+      "lat": 38.6,
+      "lng": 141.5
+    },
+    {
+      "cityName": "Ainokama",
+      "lat": 38.1247222,
+      "lng": 140.9333333
+    },
+    {
+      "cityName": "Aji",
+      "lat": 38.2666667,
+      "lng": 141.4666667
+    },
+    {
+      "cityName": "Akaishi",
+      "lat": 38.2097222,
+      "lng": 140.7530556
+    },
+    {
+      "cityName": "Aka-niida",
+      "lat": 38.7,
+      "lng": 140.9166667
+    },
+    {
+      "cityName": "Akasaka",
+      "lat": 38.2886111,
+      "lng": 140.7422222
+    },
+    {
+      "cityName": "Akautsu",
+      "lat": 38.5833333,
+      "lng": 141.2333333
+    },
+    {
+      "cityName": "Amanome",
+      "lat": 38.1166667,
+      "lng": 140.9
+    },
+    {
+      "cityName": "Ananohara",
+      "lat": 38.8405556,
+      "lng": 140.7736111
+    },
+    {
+      "cityName": "Aone",
+      "lat": 38.1419444,
+      "lng": 140.5336111
+    },
+    {
+      "cityName": "Aono",
+      "lat": 38.5402778,
+      "lng": 140.7072222
+    },
+    {
+      "cityName": "Aou",
+      "lat": 38.5333333,
+      "lng": 141.0333333
+    },
+    {
+      "cityName": "Arahama",
+      "lat": 38.0419444,
+      "lng": 140.9052778
+    },
+    {
+      "cityName": "Arai",
+      "lat": 38.2333333,
+      "lng": 140.95
+    },
+    {
+      "cityName": "Araya",
+      "lat": 38.6086111,
+      "lng": 140.9752778
+    },
+    {
+      "cityName": "Arikabe",
+      "lat": 38.8666667,
+      "lng": 141.1333333
+    },
+    {
+      "cityName": "Ayashi",
+      "lat": 38.2666667,
+      "lng": 140.7666667
+    },
+    {
+      "cityName": "Ayukawa",
+      "lat": 38.3,
+      "lng": 141.5166667
+    },
+    {
+      "cityName": "Baba",
+      "lat": 38.2677778,
+      "lng": 140.6419444
+    },
+    {
+      "cityName": "Choto",
+      "lat": 38.2383333,
+      "lng": 141.4883333
+    },
+    {
+      "cityName": "Edano",
+      "lat": 37.95,
+      "lng": 140.8
+    },
+    {
+      "cityName": "Ejiri",
+      "lat": 38.0166667,
+      "lng": 140.8
+    },
+    {
+      "cityName": "Enami",
+      "lat": 38.6333333,
+      "lng": 141.2166667
+    },
+    {
+      "cityName": "Fujigasaki",
+      "lat": 38.5333333,
+      "lng": 141.0666667
+    },
+    {
+      "cityName": "Fujitsuka",
+      "lat": 38.1761111,
+      "lng": 140.9527778
+    },
+    {
+      "cityName": "Fukanuma",
+      "lat": 38.2186111,
+      "lng": 140.9761111
+    },
+    {
+      "cityName": "Fukkiura",
+      "lat": 38.35,
+      "lng": 141.45
+    },
+    {
+      "cityName": "Fukudamachi",
+      "lat": 38.2691667,
+      "lng": 140.9555556
+    },
+    {
+      "cityName": "Funaoka",
+      "lat": 38.0527778,
+      "lng": 140.7677778
+    },
+    {
+      "cityName": "Furukawa",
+      "lat": 38.5716667,
+      "lng": 140.9555556
+    },
+    {
+      "cityName": "Gamo",
+      "lat": 38.25,
+      "lng": 141.0166667
+    },
+    {
+      "cityName": "Ganyu",
+      "lat": 38.8563889,
+      "lng": 140.7086111
+    },
+    {
+      "cityName": "Ganza",
+      "lat": 38.7836111,
+      "lng": 140.7044444
+    },
+    {
+      "cityName": "Goishi",
+      "lat": 38.1922222,
+      "lng": 140.7188889
+    },
+    {
+      "cityName": "Gondara",
+      "lat": 38.8666667,
+      "lng": 141.5666667
+    },
+    {
+      "cityName": "Hachigoda",
+      "lat": 38.4430556,
+      "lng": 140.8363889
+    },
+    {
+      "cityName": "Hakkowara",
+      "lat": 38.3169444,
+      "lng": 140.6336111
+    },
+    {
+      "cityName": "Hamagurinohama",
+      "lat": 38.4,
+      "lng": 141.4208333
+    },
+    {
+      "cityName": "Hama",
+      "lat": 38.4166667,
+      "lng": 141.2333333
+    },
+    {
+      "cityName": "Hamaichi",
+      "lat": 38.3716667,
+      "lng": 141.1833333
+    },
+    {
+      "cityName": "Hanabuchihama",
+      "lat": 38.3,
+      "lng": 141.0833333
+    },
+    {
+      "cityName": "Hanagama",
+      "lat": 37.9666667,
+      "lng": 140.9166667
+    },
+    {
+      "cityName": "Hara",
+      "lat": 38.8025,
+      "lng": 140.65
+    },
+    {
+      "cityName": "Haramachi Koketake",
+      "lat": 38.2666667,
+      "lng": 140.9
+    },
+    {
+      "cityName": "Hasegama",
+      "lat": 38.0833333,
+      "lng": 140.9166667
+    },
+    {
+      "cityName": "Hayakawa",
+      "lat": 38.0702778,
+      "lng": 140.8586111
+    },
+    {
+      "cityName": "Higashi-hachimammae",
+      "lat": 38.9166667,
+      "lng": 141.5833333
+    },
+    {
+      "cityName": "Higashi-nibancho",
+      "lat": 38.25,
+      "lng": 140.8666667
+    },
+    {
+      "cityName": "Higashi-onoda",
+      "lat": 38.5719444,
+      "lng": 140.7761111
+    },
+    {
+      "cityName": "Hikaba",
+      "lat": 38.04,
+      "lng": 140.2922222
+    },
+    {
+      "cityName": "Hikado",
+      "lat": 38.8,
+      "lng": 141.535
+    },
+    {
+      "cityName": "Hippo",
+      "lat": 37.8166667,
+      "lng": 140.7166667
+    },
+    {
+      "cityName": "Hirasawa",
+      "lat": 38.1202778,
+      "lng": 140.6758333
+    },
+    {
+      "cityName": "Hirawata",
+      "lat": 38.4666667,
+      "lng": 141.1
+    },
+    {
+      "cityName": "Hirobuchi",
+      "lat": 38.4666667,
+      "lng": 141.2166667
+    },
+    {
+      "cityName": "Hosawa",
+      "lat": 38.37,
+      "lng": 140.7872222
+    },
+    {
+      "cityName": "Hosokura",
+      "lat": 38.15,
+      "lng": 140.7666667
+    },
+    {
+      "cityName": "Hosokurakozan",
+      "lat": 38.8,
+      "lng": 140.9
+    },
+    {
+      "cityName": "Ichinasaka",
+      "lat": 38.3197222,
+      "lng": 140.8863889
+    },
+    {
+      "cityName": "Idohama",
+      "lat": 38.2005556,
+      "lng": 140.9552778
+    },
+    {
+      "cityName": "Iinogawa",
+      "lat": 38.5166667,
+      "lng": 141.3166667
+    },
+    {
+      "cityName": "Iinosaka",
+      "lat": 38.15,
+      "lng": 140.8833333
+    },
+    {
+      "cityName": "Imachi",
+      "lat": 38.3,
+      "lng": 140.95
+    },
+    {
+      "cityName": "Imashuku",
+      "lat": 38.1905556,
+      "lng": 140.5911111
+    },
+    {
+      "cityName": "Inae",
+      "lat": 38.4333333,
+      "lng": 141.3333333
+    },
+    {
+      "cityName": "Inayashiki",
+      "lat": 38.8,
+      "lng": 140.9833333
+    },
+    {
+      "cityName": "Isagozawa",
+      "lat": 38.4244444,
+      "lng": 140.92
+    },
+    {
+      "cityName": "Isatomae",
+      "lat": 38.7166667,
+      "lng": 141.5166667
+    },
+    {
+      "cityName": "Ishibuchi",
+      "lat": 38.8341667,
+      "lng": 140.6355556
+    },
+    {
+      "cityName": "Ishihama",
+      "lat": 38.3333333,
+      "lng": 141.1
+    },
+    {
+      "cityName": "Ishinomachi",
+      "lat": 38.4166667,
+      "lng": 141.3
+    },
+    {
+      "cityName": "Ishinomori",
+      "lat": 38.7166667,
+      "lng": 141.2166667
+    },
+    {
+      "cityName": "Iwadeyama",
+      "lat": 38.6530556,
+      "lng": 140.8677778
+    },
+    {
+      "cityName": "Iwagasaki",
+      "lat": 38.8255556,
+      "lng": 140.9886111
+    },
+    {
+      "cityName": "Iwaki",
+      "lat": 38.3011111,
+      "lng": 140.9375
+    },
+    {
+      "cityName": "Iwanuma",
+      "lat": 38.1047222,
+      "lng": 140.8594444
+    },
+    {
+      "cityName": "Jumonji",
+      "lat": 38.2386111,
+      "lng": 140.9358333
+    },
+    {
+      "cityName": "Kabasagi",
+      "lat": 38.07,
+      "lng": 140.9169444
+    },
+    {
+      "cityName": "Kadosawa",
+      "lat": 38.6033333,
+      "lng": 140.6747222
+    },
+    {
+      "cityName": "Kagano",
+      "lat": 38.7,
+      "lng": 141.2166667
+    },
+    {
+      "cityName": "Kahoku",
+      "lat": 38.5166667,
+      "lng": 141.3216667
+    },
+    {
+      "cityName": "Kaikomba",
+      "lat": 38.0177778,
+      "lng": 140.8911111
+    },
+    {
+      "cityName": "Kakuda",
+      "lat": 37.9666667,
+      "lng": 140.7833333
+    },
+    {
+      "cityName": "Kamamaki",
+      "lat": 38.45,
+      "lng": 141.1
+    },
+    {
+      "cityName": "Kamata",
+      "lat": 38.4833333,
+      "lng": 141.2833333
+    },
+    {
+      "cityName": "Kamazaki",
+      "lat": 38.0222222,
+      "lng": 140.5716667
+    },
+    {
+      "cityName": "Kamimachi",
+      "lat": 38.5833333,
+      "lng": 141.25
+    },
+    {
+      "cityName": "Kaminome",
+      "lat": 38.5869444,
+      "lng": 140.7252778
+    },
+    {
+      "cityName": "Kami-shishiori",
+      "lat": 38.9833333,
+      "lng": 141.5666667
+    },
+    {
+      "cityName": "Kanagase",
+      "lat": 38.0333333,
+      "lng": 140.7166667
+    },
+    {
+      "cityName": "Kanatsu",
+      "lat": 37.95,
+      "lng": 140.8333333
+    },
+    {
+      "cityName": "Kanayama",
+      "lat": 37.9,
+      "lng": 140.8
+    },
+    {
+      "cityName": "Kandori",
+      "lat": 38.5333333,
+      "lng": 141.2333333
+    },
+    {
+      "cityName": "Kannari",
+      "lat": 38.8,
+      "lng": 141.0833333
+    },
+    {
+      "cityName": "Karakuwa",
+      "lat": 38.8833333,
+      "lng": 141.65
+    },
+    {
+      "cityName": "Karatake",
+      "lat": 38.6238889,
+      "lng": 140.8702778
+    },
+    {
+      "cityName": "Kasano",
+      "lat": 37.95,
+      "lng": 140.9166667
+    },
+    {
+      "cityName": "Kawaguchi",
+      "lat": 38.7666667,
+      "lng": 140.8894444
+    },
+    {
+      "cityName": "Kawasaki",
+      "lat": 38.1727778,
+      "lng": 140.6369444
+    },
+    {
+      "cityName": "Kawatabi",
+      "lat": 38.7255556,
+      "lng": 140.7669444
+    },
+    {
+      "cityName": "Kesennuma",
+      "lat": 38.9,
+      "lng": 141.5833333
+    },
+    {
+      "cityName": "Kimatsuka",
+      "lat": 38.4833333,
+      "lng": 141.1333333
+    },
+    {
+      "cityName": "Kimigaya",
+      "lat": 38.0336111,
+      "lng": 140.7555556
+    },
+    {
+      "cityName": "Kinumamachi",
+      "lat": 37.9333333,
+      "lng": 140.7833333
+    },
+    {
+      "cityName": "Kirikomi",
+      "lat": 38.6341667,
+      "lng": 140.7194444
+    },
+    {
+      "cityName": "Kitagama",
+      "lat": 38.1347222,
+      "lng": 140.9352778
+    },
+    {
+      "cityName": "Kita-ichibancho",
+      "lat": 38.2666667,
+      "lng": 140.8833333
+    },
+    {
+      "cityName": "Kitakami",
+      "lat": 38.5716667,
+      "lng": 141.45
+    },
+    {
+      "cityName": "Kitame",
+      "lat": 38.125,
+      "lng": 140.8419444
+    },
+    {
+      "cityName": "Kita-nagashida",
+      "lat": 38.6225,
+      "lng": 140.7002778
+    },
+    {
+      "cityName": "Kiyomizu",
+      "lat": 38.5572222,
+      "lng": 140.8097222
+    },
+    {
+      "cityName": "Koami",
+      "lat": 38.35,
+      "lng": 141.455
+    },
+    {
+      "cityName": "Kobayashi",
+      "lat": 38.6166667,
+      "lng": 140.9333333
+    },
+    {
+      "cityName": "Kobuchi",
+      "lat": 38.3166667,
+      "lng": 141.4666667
+    },
+    {
+      "cityName": "Koeji",
+      "lat": 38.2333333,
+      "lng": 140.8666667
+    },
+    {
+      "cityName": "Kogota",
+      "lat": 38.55,
+      "lng": 141.05
+    },
+    {
+      "cityName": "Koizumi",
+      "lat": 38.5852778,
+      "lng": 140.7863889
+    },
+    {
+      "cityName": "Komatsu",
+      "lat": 38.4333333,
+      "lng": 141.2
+    },
+    {
+      "cityName": "Kosaba",
+      "lat": 38.8833333,
+      "lng": 141.6666667
+    },
+    {
+      "cityName": "Kosugo",
+      "lat": 37.9166667,
+      "lng": 140.6
+    },
+    {
+      "cityName": "Kotaki",
+      "lat": 38.6166667,
+      "lng": 141.5216667
+    },
+    {
+      "cityName": "Kotodai-dori",
+      "lat": 38.2666667,
+      "lng": 140.8666667
+    },
+    {
+      "cityName": "Koya",
+      "lat": 38.1530556,
+      "lng": 140.9005556
+    },
+    {
+      "cityName": "Kozo",
+      "lat": 38.7422222,
+      "lng": 140.8569444
+    },
+    {
+      "cityName": "Kubo",
+      "lat": 38.3236111,
+      "lng": 140.8036111
+    },
+    {
+      "cityName": "Kurauchi",
+      "lat": 38.75,
+      "lng": 141.5166667
+    },
+    {
+      "cityName": "Maeya",
+      "lat": 38.7,
+      "lng": 141.2833333
+    },
+    {
+      "cityName": "Magome",
+      "lat": 38.7666667,
+      "lng": 141.45
+    },
+    {
+      "cityName": "Makinohama",
+      "lat": 38.3575,
+      "lng": 141.4383333
+    },
+    {
+      "cityName": "Marugasaki",
+      "lat": 38.525,
+      "lng": 140.9886111
+    },
+    {
+      "cityName": "Marumori",
+      "lat": 37.9166667,
+      "lng": 140.7666667
+    },
+    {
+      "cityName": "Masaka",
+      "lat": 38.7366667,
+      "lng": 140.9533333
+    },
+    {
+      "cityName": "Masuda",
+      "lat": 38.1702778,
+      "lng": 140.8847222
+    },
+    {
+      "cityName": "Matsubara",
+      "lat": 38.4894444,
+      "lng": 140.8580556
+    },
+    {
+      "cityName": "Matsukura",
+      "lat": 38.8502778,
+      "lng": 140.9544444
+    },
+    {
+      "cityName": "Matsushima",
+      "lat": 38.3666667,
+      "lng": 141.0716667
+    },
+    {
+      "cityName": "Matsuyama",
+      "lat": 38.5166667,
+      "lng": 141.05
+    },
+    {
+      "cityName": "Minami-akaishi",
+      "lat": 38.2166667,
+      "lng": 140.75
+    },
+    {
+      "cityName": "Minato",
+      "lat": 38.4166667,
+      "lng": 141.3166667
+    },
+    {
+      "cityName": "Misumi",
+      "lat": 38.07,
+      "lng": 140.5572222
+    },
+    {
+      "cityName": "Miyakoda",
+      "lat": 38.9022222,
+      "lng": 140.9363889
+    },
+    {
+      "cityName": "Miya",
+      "lat": 38.0416667,
+      "lng": 140.6513889
+    },
+    {
+      "cityName": "Miyano",
+      "lat": 38.75,
+      "lng": 141.0166667
+    },
+    {
+      "cityName": "Miyasaki",
+      "lat": 38.6080556,
+      "lng": 140.7536111
+    },
+    {
+      "cityName": "Miyasawa",
+      "lat": 38.6202778,
+      "lng": 140.9380556
+    },
+    {
+      "cityName": "Miyatoko",
+      "lat": 38.4022222,
+      "lng": 140.8425
+    },
+    {
+      "cityName": "Mizuhama",
+      "lat": 38.5,
+      "lng": 141.4833333
+    },
+    {
+      "cityName": "Momonoura",
+      "lat": 38.4,
+      "lng": 141.4333333
+    },
+    {
+      "cityName": "Moniwa",
+      "lat": 38.2194444,
+      "lng": 140.7847222
+    },
+    {
+      "cityName": "Motogi",
+      "lat": 38.4211111,
+      "lng": 140.9725
+    },
+    {
+      "cityName": "Motoyoshi",
+      "lat": 38.8,
+      "lng": 141.5
+    },
+    {
+      "cityName": "Murata",
+      "lat": 38.1188889,
+      "lng": 140.7211111
+    },
+    {
+      "cityName": "Naburi",
+      "lat": 38.5241667,
+      "lng": 141.5
+    },
+    {
+      "cityName": "Nagafukuro",
+      "lat": 38.2527778,
+      "lng": 140.6752778
+    },
+    {
+      "cityName": "Nagamachi",
+      "lat": 38.2333333,
+      "lng": 140.8833333
+    },
+    {
+      "cityName": "Nagano",
+      "lat": 38.0908333,
+      "lng": 140.6552778
+    },
+    {
+      "cityName": "Nagatsurahama",
+      "lat": 38.55,
+      "lng": 141.45
+    },
+    {
+      "cityName": "Naka-niida",
+      "lat": 38.5686111,
+      "lng": 140.8536111
+    },
+    {
+      "cityName": "Nakasato",
+      "lat": 38.7666667,
+      "lng": 141.0833333
+    },
+    {
+      "cityName": "Nakatsuyama",
+      "lat": 38.5666667,
+      "lng": 141.25
+    },
+    {
+      "cityName": "Nakayama",
+      "lat": 38.7166667,
+      "lng": 140.6666667
+    },
+    {
+      "cityName": "Nametsu",
+      "lat": 38.0094444,
+      "lng": 140.4033333
+    },
+    {
+      "cityName": "Nanakitada",
+      "lat": 38.3166667,
+      "lng": 140.8833333
+    },
+    {
+      "cityName": "Nango",
+      "lat": 38.8008333,
+      "lng": 140.905
+    },
+    {
+      "cityName": "Nangu",
+      "lat": 38.3,
+      "lng": 140.9666667
+    },
+    {
+      "cityName": "Narugo",
+      "lat": 38.7394444,
+      "lng": 140.7088889
+    },
+    {
+      "cityName": "Nenoshiroishi",
+      "lat": 38.3397222,
+      "lng": 140.7919444
+    },
+    {
+      "cityName": "Nigo",
+      "lat": 38.4666667,
+      "lng": 141.1333333
+    },
+    {
+      "cityName": "Niida",
+      "lat": 38.285,
+      "lng": 140.9561111
+    },
+    {
+      "cityName": "Niiyamahama",
+      "lat": 38.3166667,
+      "lng": 141.5333333
+    },
+    {
+      "cityName": "Niizeki",
+      "lat": 38.4,
+      "lng": 141.0166667
+    },
+    {
+      "cityName": "Ninokura",
+      "lat": 38.1011111,
+      "lng": 140.9219444
+    },
+    {
+      "cityName": "Ninoseki",
+      "lat": 38.4088889,
+      "lng": 140.8744444
+    },
+    {
+      "cityName": "Nishigori",
+      "lat": 38.7166667,
+      "lng": 141.2666667
+    },
+    {
+      "cityName": "Nishigo-shimo",
+      "lat": 38.65,
+      "lng": 141.15
+    },
+    {
+      "cityName": "Nishino",
+      "lat": 38.6333333,
+      "lng": 141.2
+    },
+    {
+      "cityName": "Nitoda",
+      "lat": 38.2833333,
+      "lng": 141.4333333
+    },
+    {
+      "cityName": "Nobiru",
+      "lat": 38.3666667,
+      "lng": 141.1666667
+    },
+    {
+      "cityName": "Nojiri",
+      "lat": 38.2686111,
+      "lng": 140.5722222
+    },
+    {
+      "cityName": "Nojo",
+      "lat": 38.2,
+      "lng": 140.6
+    },
+    {
+      "cityName": "Nonodake",
+      "lat": 38.55,
+      "lng": 141.1833333
+    },
+    {
+      "cityName": "Nonohama",
+      "lat": 38.4,
+      "lng": 141.4666667
+    },
+    {
+      "cityName": "Nuruyu",
+      "lat": 38.8680556,
+      "lng": 140.6572222
+    },
+    {
+      "cityName": "Obara",
+      "lat": 38.325,
+      "lng": 141.4716667
+    },
+    {
+      "cityName": "Odomori",
+      "lat": 38.1666667,
+      "lng": 140.9
+    },
+    {
+      "cityName": "Oenokawara",
+      "lat": 38.7666667,
+      "lng": 141.3333333
+    },
+    {
+      "cityName": "Ogatsuhama",
+      "lat": 38.5166667,
+      "lng": 141.4666667
+    },
+    {
+      "cityName": "Ogawara",
+      "lat": 38.05,
+      "lng": 140.7336111
+    },
+    {
+      "cityName": "Oginohama",
+      "lat": 38.3666667,
+      "lng": 141.45
+    },
+    {
+      "cityName": "Ohama",
+      "lat": 38.5,
+      "lng": 141.5166667
+    },
+    {
+      "cityName": "Ohayashi",
+      "lat": 38.7833333,
+      "lng": 141.0833333
+    },
+    {
+      "cityName": "Ohira",
+      "lat": 38.4544444,
+      "lng": 140.8736111
+    },
+    {
+      "cityName": "Oinukake",
+      "lat": 38.65,
+      "lng": 141.1333333
+    },
+    {
+      "cityName": "Okadai",
+      "lat": 38.8519444,
+      "lng": 140.6397222
+    },
+    {
+      "cityName": "Okaizaki",
+      "lat": 38.7,
+      "lng": 141.2333333
+    },
+    {
+      "cityName": "Okawaguchi",
+      "lat": 38.735,
+      "lng": 140.8925
+    },
+    {
+      "cityName": "Ommae",
+      "lat": 38.4666667,
+      "lng": 141.485
+    },
+    {
+      "cityName": "Onagawa",
+      "lat": 38.4383333,
+      "lng": 141.45
+    },
+    {
+      "cityName": "Ono",
+      "lat": 38.185,
+      "lng": 140.6591667
+    },
+    {
+      "cityName": "Oppa",
+      "lat": 38.5666667,
+      "lng": 141.4333333
+    },
+    {
+      "cityName": "Orashuku",
+      "lat": 38.4333333,
+      "lng": 141.4216667
+    },
+    {
+      "cityName": "Oritate",
+      "lat": 38.65,
+      "lng": 141.4333333
+    },
+    {
+      "cityName": "Osashi",
+      "lat": 38.6,
+      "lng": 141.5166667
+    },
+    {
+      "cityName": "Osawa",
+      "lat": 38.8,
+      "lng": 141.5333333
+    },
+    {
+      "cityName": "Osuhama",
+      "lat": 38.5166667,
+      "lng": 141.55
+    },
+    {
+      "cityName": "Ota",
+      "lat": 38.7,
+      "lng": 141.0666667
+    },
+    {
+      "cityName": "Otonashi",
+      "lat": 38.1555556,
+      "lng": 140.6922222
+    },
+    {
+      "cityName": "Ouchi",
+      "lat": 37.8666667,
+      "lng": 140.8333333
+    },
+    {
+      "cityName": "Oyanagi",
+      "lat": 38.5,
+      "lng": 141.1166667
+    },
+    {
+      "cityName": "Oya",
+      "lat": 38.8166667,
+      "lng": 141.5666667
+    },
+    {
+      "cityName": "Rifuhongo",
+      "lat": 38.3236111,
+      "lng": 140.9744444
+    },
+    {
+      "cityName": "Rikuzentomiyama",
+      "lat": 38.3833333,
+      "lng": 141.105
+    },
+    {
+      "cityName": "Ryuoka",
+      "lat": 38.8747222,
+      "lng": 140.9525
+    },
+    {
+      "cityName": "Sagura",
+      "lat": 37.9833333,
+      "lng": 140.8
+    },
+    {
+      "cityName": "Saigawa",
+      "lat": 37.95,
+      "lng": 140.6166667
+    },
+    {
+      "cityName": "Saige",
+      "lat": 38.6013889,
+      "lng": 140.8897222
+    },
+    {
+      "cityName": "Sakamoto",
+      "lat": 37.9166667,
+      "lng": 140.9
+    },
+    {
+      "cityName": "Sambongi",
+      "lat": 38.5244444,
+      "lng": 140.9413889
+    },
+    {
+      "cityName": "Sangechaya",
+      "lat": 38.1027778,
+      "lng": 140.9072222
+    },
+    {
+      "cityName": "Sange",
+      "lat": 38.7866667,
+      "lng": 140.8388889
+    },
+    {
+      "cityName": "Sanobara",
+      "lat": 38.75,
+      "lng": 140.8833333
+    },
+    {
+      "cityName": "Sanuma",
+      "lat": 38.6833333,
+      "lng": 141.2
+    },
+    {
+      "cityName": "Sarubana",
+      "lat": 38.1202778,
+      "lng": 140.6511111
+    },
+    {
+      "cityName": "Sashigahama",
+      "lat": 38.4716667,
+      "lng": 141.4883333
+    },
+    {
+      "cityName": "Sawabe",
+      "lat": 38.8,
+      "lng": 141.0666667
+    },
+    {
+      "cityName": "Schiogama",
+      "lat": 38.3166667,
+      "lng": 141.0333333
+    },
+    {
+      "cityName": "Seki",
+      "lat": 37.9833333,
+      "lng": 140.45
+    },
+    {
+      "cityName": "Semine",
+      "lat": 38.6666667,
+      "lng": 141.0666667
+    },
+    {
+      "cityName": "Sendai",
+      "lat": 38.2547222,
+      "lng": 140.8847222
+    },
+    {
+      "cityName": "Shibamachi",
+      "lat": 38.0336111,
+      "lng": 140.8755556
+    },
+    {
+      "cityName": "Shikama",
+      "lat": 38.5411111,
+      "lng": 140.8508333
+    },
+    {
+      "cityName": "Shimbama",
+      "lat": 38.2388889,
+      "lng": 140.9855556
+    },
+    {
+      "cityName": "Shimizu-koji",
+      "lat": 38.25,
+      "lng": 140.8833333
+    },
+    {
+      "cityName": "Shimizu",
+      "lat": 38.6833333,
+      "lng": 141.4833333
+    },
+    {
+      "cityName": "Shimo-ayashi",
+      "lat": 38.2688889,
+      "lng": 140.7572222
+    },
+    {
+      "cityName": "Shimomachi",
+      "lat": 38.45,
+      "lng": 141.0166667
+    },
+    {
+      "cityName": "Shimo-masuda",
+      "lat": 38.1572222,
+      "lng": 140.9072222
+    },
+    {
+      "cityName": "Shimo-miya",
+      "lat": 38.7,
+      "lng": 140.8333333
+    },
+    {
+      "cityName": "Shinda",
+      "lat": 38.55,
+      "lng": 141.2333333
+    },
+    {
+      "cityName": "Shinden",
+      "lat": 38.4666667,
+      "lng": 141.2
+    },
+    {
+      "cityName": "Shin-yashiki",
+      "lat": 38.25,
+      "lng": 140.9166667
+    },
+    {
+      "cityName": "Shirahama",
+      "lat": 38.5833333,
+      "lng": 141.4666667
+    },
+    {
+      "cityName": "Shirasawa",
+      "lat": 38.2861111,
+      "lng": 140.6875
+    },
+    {
+      "cityName": "Shiratori",
+      "lat": 38.6,
+      "lng": 141.2666667
+    },
+    {
+      "cityName": "Shiroishi",
+      "lat": 38.0033333,
+      "lng": 140.6183333
+    },
+    {
+      "cityName": "Shizugawa",
+      "lat": 38.6666667,
+      "lng": 141.45
+    },
+    {
+      "cityName": "Shobudahama",
+      "lat": 38.2833333,
+      "lng": 141.0666667
+    },
+    {
+      "cityName": "Sorimachi",
+      "lat": 38.4,
+      "lng": 141.0666667
+    },
+    {
+      "cityName": "Sugaya",
+      "lat": 38.3177778,
+      "lng": 140.9566667
+    },
+    {
+      "cityName": "Suwa",
+      "lat": 38.2166667,
+      "lng": 140.8833333
+    },
+    {
+      "cityName": "Tachihama",
+      "lat": 38.5025,
+      "lng": 141.5075
+    },
+    {
+      "cityName": "Tadagoe",
+      "lat": 38.9333333,
+      "lng": 141.6333333
+    },
+    {
+      "cityName": "Tajiri",
+      "lat": 38.5833333,
+      "lng": 141.0333333
+    },
+    {
+      "cityName": "Takagi",
+      "lat": 38.3833333,
+      "lng": 141.0666667
+    },
+    {
+      "cityName": "Takagura",
+      "lat": 38,
+      "lng": 140.7333333
+    },
+    {
+      "cityName": "Takakiyomizu",
+      "lat": 38.65,
+      "lng": 141.0166667
+    },
+    {
+      "cityName": "Takashirohama",
+      "lat": 38.4166667,
+      "lng": 141.4666667
+    },
+    {
+      "cityName": "Takehara",
+      "lat": 38.7197222,
+      "lng": 140.8013889
+    },
+    {
+      "cityName": "Takihama",
+      "lat": 38.6333333,
+      "lng": 141.5
+    },
+    {
+      "cityName": "Takihara",
+      "lat": 38.9,
+      "lng": 140.9333333
+    },
+    {
+      "cityName": "Tanaka",
+      "lat": 38.7413889,
+      "lng": 140.7352778
+    },
+    {
+      "cityName": "Tanoura",
+      "lat": 38.7333333,
+      "lng": 141.55
+    },
+    {
+      "cityName": "Tate",
+      "lat": 38.7166667,
+      "lng": 141.25
+    },
+    {
+      "cityName": "Terahama",
+      "lat": 38.6333333,
+      "lng": 141.5166667
+    },
+    {
+      "cityName": "Terama",
+      "lat": 38.4333333,
+      "lng": 141.5333333
+    },
+    {
+      "cityName": "Togatta",
+      "lat": 38.1166667,
+      "lng": 140.5833333
+    },
+    {
+      "cityName": "Tokarita",
+      "lat": 38.1211111,
+      "lng": 140.5727778
+    },
+    {
+      "cityName": "Tomarihama",
+      "lat": 38.35,
+      "lng": 141.5166667
+    },
+    {
+      "cityName": "Tome",
+      "lat": 38.65,
+      "lng": 141.2833333
+    },
+    {
+      "cityName": "Tomiya",
+      "lat": 38.3930556,
+      "lng": 140.8861111
+    },
+    {
+      "cityName": "Tona",
+      "lat": 38.3666667,
+      "lng": 141.1333333
+    },
+    {
+      "cityName": "Toriya",
+      "lat": 38.4047222,
+      "lng": 140.9258333
+    },
+    {
+      "cityName": "Tsuda",
+      "lat": 38.0255556,
+      "lng": 140.6836111
+    },
+    {
+      "cityName": "Tsukidate",
+      "lat": 38.7333333,
+      "lng": 141.0166667
+    },
+    {
+      "cityName": "Tsukihama",
+      "lat": 38.3166667,
+      "lng": 141.15
+    },
+    {
+      "cityName": "Tsukinoki",
+      "lat": 38.0736111,
+      "lng": 140.8080556
+    },
+    {
+      "cityName": "Tsutsujigaoka",
+      "lat": 38.25,
+      "lng": 140.9
+    },
+    {
+      "cityName": "Tsuya",
+      "lat": 38.7833333,
+      "lng": 141.5
+    },
+    {
+      "cityName": "Ubagafutokoro",
+      "lat": 38.1263889,
+      "lng": 140.75
+    },
+    {
+      "cityName": "Uenomachi",
+      "lat": 38.0747222,
+      "lng": 140.8597222
+    },
+    {
+      "cityName": "Umeki",
+      "lat": 38.4833333,
+      "lng": 141.25
+    },
+    {
+      "cityName": "Uramachi",
+      "lat": 38.2219444,
+      "lng": 140.8533333
+    },
+    {
+      "cityName": "Urushizawa",
+      "lat": 38.5738889,
+      "lng": 140.6419444
+    },
+    {
+      "cityName": "Wabuchi",
+      "lat": 38.5166667,
+      "lng": 141.2166667
+    },
+    {
+      "cityName": "Wada-shinden",
+      "lat": 38.2561111,
+      "lng": 140.9897222
+    },
+    {
+      "cityName": "Wada",
+      "lat": 37.8166667,
+      "lng": 140.7333333
+    },
+    {
+      "cityName": "Wakayanagi",
+      "lat": 38.7666667,
+      "lng": 141.1333333
+    },
+    {
+      "cityName": "Wakehama",
+      "lat": 38.4883333,
+      "lng": 141.4833333
+    },
+    {
+      "cityName": "Wakuya",
+      "lat": 38.5333333,
+      "lng": 141.1333333
+    },
+    {
+      "cityName": "Warabi",
+      "lat": 38.0530556,
+      "lng": 140.8861111
+    },
+    {
+      "cityName": "Warabizaki",
+      "lat": 38.5038889,
+      "lng": 140.8875
+    },
+    {
+      "cityName": "Watanoha",
+      "lat": 38.4216667,
+      "lng": 141.355
+    },
+    {
+      "cityName": "Watari",
+      "lat": 38.035,
+      "lng": 140.8511111
+    },
+    {
+      "cityName": "Yagawahama",
+      "lat": 38.3666667,
+      "lng": 141.4833333
+    },
+    {
+      "cityName": "Yamaguchi",
+      "lat": 38.1688889,
+      "lng": 140.7075
+    },
+    {
+      "cityName": "Yamanari",
+      "lat": 38.65,
+      "lng": 141.1666667
+    },
+    {
+      "cityName": "Yamanoue",
+      "lat": 38.6833333,
+      "lng": 141.1833333
+    },
+    {
+      "cityName": "Yamashita",
+      "lat": 37.9666667,
+      "lng": 140.8833333
+    },
+    {
+      "cityName": "Yamoto",
+      "lat": 38.4166667,
+      "lng": 141.2166667
+    },
+    {
+      "cityName": "Yanaizu",
+      "lat": 38.6166667,
+      "lng": 141.3
+    },
+    {
+      "cityName": "Yokogawa",
+      "lat": 38.0177778,
+      "lng": 140.4597222
+    },
+    {
+      "cityName": "Yoshidahama",
+      "lat": 38,
+      "lng": 140.9166667
+    },
+    {
+      "cityName": "Yoshida",
+      "lat": 38.1852778,
+      "lng": 140.8522222
+    },
+    {
+      "cityName": "Yoshioka",
+      "lat": 38.4413889,
+      "lng": 140.8763889
+    },
+    {
+      "cityName": "Yumoto",
+      "lat": 38.2230556,
+      "lng": 140.7188889
+    },
+    {
+      "cityName": "Yunohara",
+      "lat": 38.0080556,
+      "lng": 140.3205556
+    },
+    {
+      "cityName": "Yuriage",
+      "lat": 38.1725,
+      "lng": 140.9427778
+    },
+    {
+      "cityName": "Zafu",
+      "lat": 38.4880556,
+      "lng": 140.8755556
+    }
+  ]
+}

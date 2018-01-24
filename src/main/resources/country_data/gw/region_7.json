@@ -1,0 +1,415 @@
+{
+  "name": "Quinara",
+  "cities": [
+    {
+      "cityName": "Antuane",
+      "lat": 11.5333333,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Balana",
+      "lat": 11.4,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Bambuti",
+      "lat": 11.5333333,
+      "lng": -15.0333333
+    },
+    {
+      "cityName": "Bantael Silà",
+      "lat": 11.4333333,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Baramboli",
+      "lat": 11.5166667,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Batâmbali Beafada",
+      "lat": 11.5333333,
+      "lng": -15.1333333
+    },
+    {
+      "cityName": "Beafada",
+      "lat": 11.6166667,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Birô",
+      "lat": 11.5,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Bolel Samba",
+      "lat": 11.45,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Bolola",
+      "lat": 11.55,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Bricama",
+      "lat": 11.45,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Buba",
+      "lat": 11.5833333,
+      "lng": -15
+    },
+    {
+      "cityName": "Buba Tombó",
+      "lat": 11.65,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Cabo Verde",
+      "lat": 11.4,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Cahcoal",
+      "lat": 11.4333333,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Calibuia",
+      "lat": 11.5,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Cambirò",
+      "lat": 11.5333333,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Cancasso",
+      "lat": 11.4833333,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Cantanha",
+      "lat": 11.6833333,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Caur de Cima",
+      "lat": 11.55,
+      "lng": -15.1333333
+    },
+    {
+      "cityName": "Coim",
+      "lat": 11.5333333,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Cumbidjá",
+      "lat": 11.4666667,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Dábel",
+      "lat": 11.5666667,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Dalael Balanta",
+      "lat": 11.4333333,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Dalael Fula",
+      "lat": 11.4666667,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Damadunguê",
+      "lat": 11.45,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Darsalame",
+      "lat": 11.4833333,
+      "lng": -15.0333333
+    },
+    {
+      "cityName": "Demba Nhama",
+      "lat": 11.5333333,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Dulijà",
+      "lat": 11.6166667,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Dulombe",
+      "lat": 11.5166667,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Dumbogoi",
+      "lat": 11.4166667,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Gabissau",
+      "lat": 11.4833333,
+      "lng": -15
+    },
+    {
+      "cityName": "Galo Bolola",
+      "lat": 11.55,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Galo Cumbijã",
+      "lat": 11.45,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Gambine",
+      "lat": 11.5166667,
+      "lng": -15.1
+    },
+    {
+      "cityName": "Ganhegeel",
+      "lat": 11.5,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Guiro Jau",
+      "lat": 11.5166667,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Ieroiel",
+      "lat": 11.5333333,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Imbunga",
+      "lat": 11.4833333,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Jórò",
+      "lat": 11.6333333,
+      "lng": -15.1166667
+    },
+    {
+      "cityName": "Lenguel",
+      "lat": 11.4666667,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Madina",
+      "lat": 11.4666667,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Mampatá",
+      "lat": 11.5333333,
+      "lng": -15.15
+    },
+    {
+      "cityName": "Nafo",
+      "lat": 11.45,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Nhacobà",
+      "lat": 11.4333333,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Nhalá",
+      "lat": 11.6333333,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Nhanguê",
+      "lat": 11.4666667,
+      "lng": -15.1166667
+    },
+    {
+      "cityName": "Nhapo",
+      "lat": 11.6,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Pagamã",
+      "lat": 11.6833333,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Penhacunda",
+      "lat": 11.6166667,
+      "lng": -15.1
+    },
+    {
+      "cityName": "Ponta Nova",
+      "lat": 11.5166667,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Ponta Tenente Coronel",
+      "lat": 11.5666667,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Quésser",
+      "lat": 11.4833333,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Recubá",
+      "lat": 11.45,
+      "lng": -15.1166667
+    },
+    {
+      "cityName": "Salancaur Cul",
+      "lat": 11.4166667,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Salancaur de Fulas",
+      "lat": 11.4,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Salancaur de Jate",
+      "lat": 11.4166667,
+      "lng": -15
+    },
+    {
+      "cityName": "Salaquêual",
+      "lat": 11.4666667,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Sambafim",
+      "lat": 11.6,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Samba Sábali",
+      "lat": 11.6,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Sambasò",
+      "lat": 11.4833333,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Samenau",
+      "lat": 11.4166667,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Sare Bamba",
+      "lat": 11.6,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Sare Dibane",
+      "lat": 11.5833333,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Sare Donhà",
+      "lat": 11.6,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Sare Hági",
+      "lat": 11.4833333,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Sare Jai",
+      "lat": 11.65,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Sare Nambo",
+      "lat": 11.65,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Sare Ôgò",
+      "lat": 11.5333333,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Sare Saliu",
+      "lat": 11.5666667,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Sare Sili",
+      "lat": 11.4333333,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Sare Tuto",
+      "lat": 11.6166667,
+      "lng": -15.0333333
+    },
+    {
+      "cityName": "Sare Usso",
+      "lat": 11.5666667,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Saucunda Beafada",
+      "lat": 11.5166667,
+      "lng": -15.1333333
+    },
+    {
+      "cityName": "Sinchã Boébè",
+      "lat": 11.6333333,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Sinchã Cherno",
+      "lat": 11.5666667,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Sinchã Dembaro",
+      "lat": 11.65,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Sinchã Queuel",
+      "lat": 11.5,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Tamborã",
+      "lat": 11.4833333,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Torcino",
+      "lat": 11.55,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Uanè",
+      "lat": 11.5833333,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Umbaná",
+      "lat": 11.4666667,
+      "lng": -15.0666667
+    }
+  ]
+}

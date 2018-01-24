@@ -1,0 +1,91 @@
+{
+  "name": "Paraguay",
+  "iso2": "py",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Alto Paraguay",
+      "id": 0
+    },
+    {
+      "name": "Alto Parana",
+      "id": 1
+    },
+    {
+      "name": "Amambay",
+      "id": 2
+    },
+    {
+      "name": "Boqueron",
+      "id": 3
+    },
+    {
+      "name": "Caaguazu",
+      "id": 4
+    },
+    {
+      "name": "Caazapa",
+      "id": 5
+    },
+    {
+      "name": "Canindeyu",
+      "id": 6
+    },
+    {
+      "name": "Central",
+      "id": 7
+    },
+    {
+      "name": "Concepcion",
+      "id": 8
+    },
+    {
+      "name": "Cordillera",
+      "id": 9
+    },
+    {
+      "name": "Guaira",
+      "id": 10
+    },
+    {
+      "name": "Itapua",
+      "id": 11
+    },
+    {
+      "name": "Misiones",
+      "id": 12
+    },
+    {
+      "name": "Neembucu",
+      "id": 13
+    },
+    {
+      "name": "Paraguari",
+      "id": 14
+    },
+    {
+      "name": "Presidente Hayes",
+      "id": 15
+    },
+    {
+      "name": "San Pedro",
+      "id": 16
+    }
+  ],
+  "geoRectangle": {
+    "West": -62.6470832825,
+    "East": -54.259349823,
+    "North": -19.2940387726,
+    "South": -27.6087417603
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -4,
+    "Flg": 2,
+    "Name": "Asuncion",
+    "GeoPt": [
+      -25.16,
+      -57.4
+    ]
+  }
+}

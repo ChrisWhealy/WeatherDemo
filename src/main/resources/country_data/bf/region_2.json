@@ -1,0 +1,820 @@
+{
+  "name": "Banwa",
+  "cities": [
+    {
+      "cityName": "Aménékui",
+      "lat": 12.4833333,
+      "lng": -3.9833333
+    },
+    {
+      "cityName": "Badigna",
+      "lat": 12.3666667,
+      "lng": -4.2
+    },
+    {
+      "cityName": "Bakonorisso",
+      "lat": 11.8833333,
+      "lng": -4.2166667
+    },
+    {
+      "cityName": "Balavé",
+      "lat": 12.3833333,
+      "lng": -4.15
+    },
+    {
+      "cityName": "Bama",
+      "lat": 12.0333333,
+      "lng": -4.4
+    },
+    {
+      "cityName": "Bambé",
+      "lat": 12.0333333,
+      "lng": -4.6166667
+    },
+    {
+      "cityName": "Ban",
+      "lat": 12.7,
+      "lng": -4.35
+    },
+    {
+      "cityName": "Bankouma",
+      "lat": 11.8833333,
+      "lng": -4.2666667
+    },
+    {
+      "cityName": "Banoualé",
+      "lat": 11.7666667,
+      "lng": -4.2
+    },
+    {
+      "cityName": "Basora",
+      "lat": 11.7166667,
+      "lng": -4.0833333
+    },
+    {
+      "cityName": "Bayé",
+      "lat": 12.0666667,
+      "lng": -4.0833333
+    },
+    {
+      "cityName": "Béna",
+      "lat": 12.0666667,
+      "lng": -4.1833333
+    },
+    {
+      "cityName": "Bial",
+      "lat": 12.0333333,
+      "lng": -4.3666667
+    },
+    {
+      "cityName": "Biassaga",
+      "lat": 12,
+      "lng": -4.3
+    },
+    {
+      "cityName": "Bin",
+      "lat": 12.0333333,
+      "lng": -4.1333333
+    },
+    {
+      "cityName": "Boin",
+      "lat": 12.4833333,
+      "lng": -4.4
+    },
+    {
+      "cityName": "Bokui",
+      "lat": 12.0166667,
+      "lng": -3.8
+    },
+    {
+      "cityName": "Bondoukoui",
+      "lat": 11.85,
+      "lng": -3.7666667
+    },
+    {
+      "cityName": "Bossogo",
+      "lat": 12.0333333,
+      "lng": -3.7666667
+    },
+    {
+      "cityName": "Bouan",
+      "lat": 11.9166667,
+      "lng": -3.7
+    },
+    {
+      "cityName": "Bougoura",
+      "lat": 11.9666667,
+      "lng": -4.45
+    },
+    {
+      "cityName": "Bouravalé",
+      "lat": 11.9666667,
+      "lng": -4.4166667
+    },
+    {
+      "cityName": "Daboura",
+      "lat": 12.2333333,
+      "lng": -3.9333333
+    },
+    {
+      "cityName": "Daimesala",
+      "lat": 11.9666667,
+      "lng": -4.8833333
+    },
+    {
+      "cityName": "Dangoumani",
+      "lat": 11.85,
+      "lng": -4.6166667
+    },
+    {
+      "cityName": "Dankoui",
+      "lat": 12.1,
+      "lng": -3.7
+    },
+    {
+      "cityName": "Dankouro",
+      "lat": 12.25,
+      "lng": -4.1
+    },
+    {
+      "cityName": "Dantoloma",
+      "lat": 11.9,
+      "lng": -4.5333333
+    },
+    {
+      "cityName": "Daro",
+      "lat": 11.8833333,
+      "lng": -4.7333333
+    },
+    {
+      "cityName": "Darou",
+      "lat": 12.0166667,
+      "lng": -3.6333333
+    },
+    {
+      "cityName": "Dassé",
+      "lat": 12.45,
+      "lng": -4.0833333
+    },
+    {
+      "cityName": "Dékona",
+      "lat": 12.2,
+      "lng": -3.9
+    },
+    {
+      "cityName": "Déma",
+      "lat": 12.5,
+      "lng": -4.35
+    },
+    {
+      "cityName": "Déré",
+      "lat": 12.0333333,
+      "lng": -4.4666667
+    },
+    {
+      "cityName": "Dessé",
+      "lat": 12.4,
+      "lng": -4
+    },
+    {
+      "cityName": "Diékui",
+      "lat": 11.9166667,
+      "lng": -3.7833333
+    },
+    {
+      "cityName": "Diga",
+      "lat": 12.3666667,
+      "lng": -3.8
+    },
+    {
+      "cityName": "Dima",
+      "lat": 12.1,
+      "lng": -4.5666667
+    },
+    {
+      "cityName": "Dio",
+      "lat": 12.3333333,
+      "lng": -3.8666667
+    },
+    {
+      "cityName": "Dionkélé",
+      "lat": 11.7833333,
+      "lng": -4.7333333
+    },
+    {
+      "cityName": "Diontala",
+      "lat": 11.7666667,
+      "lng": -4.45
+    },
+    {
+      "cityName": "Dira",
+      "lat": 12.35,
+      "lng": -3.9833333
+    },
+    {
+      "cityName": "Dissankoui",
+      "lat": 12.2,
+      "lng": -4.0333333
+    },
+    {
+      "cityName": "Dogo",
+      "lat": 12.4166667,
+      "lng": -4.2333333
+    },
+    {
+      "cityName": "Dokoui",
+      "lat": 12.55,
+      "lng": -4.1166667
+    },
+    {
+      "cityName": "Donbokui",
+      "lat": 11.8833333,
+      "lng": -3.7166667
+    },
+    {
+      "cityName": "Donona",
+      "lat": 11.9833333,
+      "lng": -4.5666667
+    },
+    {
+      "cityName": "Doubalé",
+      "lat": 12.4166667,
+      "lng": -4.05
+    },
+    {
+      "cityName": "Doudou",
+      "lat": 12.2333333,
+      "lng": -3.7166667
+    },
+    {
+      "cityName": "Dui",
+      "lat": 11.9833333,
+      "lng": -4.2333333
+    },
+    {
+      "cityName": "Famberla",
+      "lat": 11.8333333,
+      "lng": -4.9333333
+    },
+    {
+      "cityName": "Faramama",
+      "lat": 12.05,
+      "lng": -4.6666667
+    },
+    {
+      "cityName": "Fini",
+      "lat": 11.8166667,
+      "lng": -4.3833333
+    },
+    {
+      "cityName": "Fô",
+      "lat": 11.8833333,
+      "lng": -4.5166667
+    },
+    {
+      "cityName": "Fofora",
+      "lat": 12.0166667,
+      "lng": -4.7166667
+    },
+    {
+      "cityName": "Fouroumani",
+      "lat": 11.85,
+      "lng": -4.4166667
+    },
+    {
+      "cityName": "Gassinko",
+      "lat": 12.3833333,
+      "lng": -4.0333333
+    },
+    {
+      "cityName": "Gui",
+      "lat": 12.6666667,
+      "lng": -4.35
+    },
+    {
+      "cityName": "Kabala",
+      "lat": 11.9333333,
+      "lng": -4.9666667
+    },
+    {
+      "cityName": "Kaïfouna",
+      "lat": 11.8833333,
+      "lng": -4.95
+    },
+    {
+      "cityName": "Kalédougou",
+      "lat": 11.8,
+      "lng": -4.0833333
+    },
+    {
+      "cityName": "Kalé",
+      "lat": 12.55,
+      "lng": -4.3833333
+    },
+    {
+      "cityName": "Kaniagara",
+      "lat": 11.9333333,
+      "lng": -4.8166667
+    },
+    {
+      "cityName": "Karamassasso",
+      "lat": 11.8166667,
+      "lng": -4.8166667
+    },
+    {
+      "cityName": "Kaya",
+      "lat": 11.8333333,
+      "lng": -4.7333333
+    },
+    {
+      "cityName": "Kéra",
+      "lat": 11.95,
+      "lng": -3.7166667
+    },
+    {
+      "cityName": "Kibé",
+      "lat": 11.8666667,
+      "lng": -4.4833333
+    },
+    {
+      "cityName": "Kiébani",
+      "lat": 11.9166667,
+      "lng": -4.4666667
+    },
+    {
+      "cityName": "Kié",
+      "lat": 12.1166667,
+      "lng": -4.05
+    },
+    {
+      "cityName": "Koara",
+      "lat": 12.5166667,
+      "lng": -4.3833333
+    },
+    {
+      "cityName": "Koéna",
+      "lat": 12.15,
+      "lng": -3.7166667
+    },
+    {
+      "cityName": "Kogoué",
+      "lat": 11.9166667,
+      "lng": -4.5666667
+    },
+    {
+      "cityName": "Koka",
+      "lat": 11.9833333,
+      "lng": -4.3666667
+    },
+    {
+      "cityName": "Kolonida",
+      "lat": 12.4333333,
+      "lng": -4.0166667
+    },
+    {
+      "cityName": "Korobi",
+      "lat": 12,
+      "lng": -3.7833333
+    },
+    {
+      "cityName": "Kossoba",
+      "lat": 12.45,
+      "lng": -3.9666667
+    },
+    {
+      "cityName": "Kosso",
+      "lat": 12.0166667,
+      "lng": -3.7166667
+    },
+    {
+      "cityName": "Kotou",
+      "lat": 11.9666667,
+      "lng": -4.2833333
+    },
+    {
+      "cityName": "Kouakoua",
+      "lat": 12.2833333,
+      "lng": -4.0666667
+    },
+    {
+      "cityName": "Kouakouna",
+      "lat": 12.3166667,
+      "lng": -4.45
+    },
+    {
+      "cityName": "Kouakourouma",
+      "lat": 12.0333333,
+      "lng": -4.5666667
+    },
+    {
+      "cityName": "Kouangouasso",
+      "lat": 11.9666667,
+      "lng": -4.8333333
+    },
+    {
+      "cityName": "Kouatou",
+      "lat": 12.0333333,
+      "lng": -4.3166667
+    },
+    {
+      "cityName": "Kouba",
+      "lat": 11.9,
+      "lng": -4.3333333
+    },
+    {
+      "cityName": "Koubi",
+      "lat": 12.05,
+      "lng": -4.6
+    },
+    {
+      "cityName": "Koudougou",
+      "lat": 11.7333333,
+      "lng": -4.5166667
+    },
+    {
+      "cityName": "Koukourouba",
+      "lat": 11.8333333,
+      "lng": -4.4833333
+    },
+    {
+      "cityName": "Kouma",
+      "lat": 12.2,
+      "lng": -4.1833333
+    },
+    {
+      "cityName": "Koumana",
+      "lat": 11.9666667,
+      "lng": -3.8166667
+    },
+    {
+      "cityName": "Kouni",
+      "lat": 12.0833333,
+      "lng": -4.5
+    },
+    {
+      "cityName": "Kouroué",
+      "lat": 12.15,
+      "lng": -4.3833333
+    },
+    {
+      "cityName": "Koyéné",
+      "lat": 12.6166667,
+      "lng": -4.3333333
+    },
+    {
+      "cityName": "Labara",
+      "lat": 12.0666667,
+      "lng": -3.8
+    },
+    {
+      "cityName": "Lahiraso",
+      "lat": 11.85,
+      "lng": -4.0666667
+    },
+    {
+      "cityName": "Lékoro",
+      "lat": 12.2,
+      "lng": -4.2166667
+    },
+    {
+      "cityName": "Liaba",
+      "lat": 11.95,
+      "lng": -4.4333333
+    },
+    {
+      "cityName": "Lokindé",
+      "lat": 12.05,
+      "lng": -3.7
+    },
+    {
+      "cityName": "Makui",
+      "lat": 12.4333333,
+      "lng": -4.0833333
+    },
+    {
+      "cityName": "Mamouana",
+      "lat": 12.05,
+      "lng": -4.2833333
+    },
+    {
+      "cityName": "Masso",
+      "lat": 12.3166667,
+      "lng": -4.0166667
+    },
+    {
+      "cityName": "Mawé",
+      "lat": 12.0833333,
+      "lng": -4.3833333
+    },
+    {
+      "cityName": "Miana",
+      "lat": 12.1666667,
+      "lng": -3.7
+    },
+    {
+      "cityName": "Moara",
+      "lat": 12.6666667,
+      "lng": -4.4
+    },
+    {
+      "cityName": "Mohouna",
+      "lat": 12.5166667,
+      "lng": -4.35
+    },
+    {
+      "cityName": "Mokouna",
+      "lat": 11.85,
+      "lng": -3.8333333
+    },
+    {
+      "cityName": "Molé",
+      "lat": 11.9333333,
+      "lng": -4.3166667
+    },
+    {
+      "cityName": "Monkoui",
+      "lat": 12.2166667,
+      "lng": -3.75
+    },
+    {
+      "cityName": "Montionkui",
+      "lat": 12.1666667,
+      "lng": -3.8666667
+    },
+    {
+      "cityName": "Morolaba",
+      "lat": 11.9,
+      "lng": -5.0166667
+    },
+    {
+      "cityName": "Mouna",
+      "lat": 11.9,
+      "lng": -4.35
+    },
+    {
+      "cityName": "Moussakongo",
+      "lat": 12.2833333,
+      "lng": -4.1333333
+    },
+    {
+      "cityName": "Ndana",
+      "lat": 11.7833333,
+      "lng": -4.7
+    },
+    {
+      "cityName": "Ndorlaba",
+      "lat": 11.7666667,
+      "lng": -4.8166667
+    },
+    {
+      "cityName": "Ndosso",
+      "lat": 11.9666667,
+      "lng": -4.7666667
+    },
+    {
+      "cityName": "Ngolokéréla",
+      "lat": 11.9333333,
+      "lng": -5.1333333
+    },
+    {
+      "cityName": "Ngorlani",
+      "lat": 11.9333333,
+      "lng": -4.7333333
+    },
+    {
+      "cityName": "Niamankui",
+      "lat": 12.3666667,
+      "lng": -3.8833333
+    },
+    {
+      "cityName": "Niéné",
+      "lat": 11.9666667,
+      "lng": -4.8666667
+    },
+    {
+      "cityName": "Ouarkoye",
+      "lat": 12.0833333,
+      "lng": -3.6666667
+    },
+    {
+      "cityName": "Ouarové",
+      "lat": 12.3833333,
+      "lng": -4.3166667
+    },
+    {
+      "cityName": "Ouéré",
+      "lat": 11.8333333,
+      "lng": -4.8166667
+    },
+    {
+      "cityName": "Oulali",
+      "lat": 12.6833333,
+      "lng": -4.3666667
+    },
+    {
+      "cityName": "Pérakoui",
+      "lat": 12.0666667,
+      "lng": -3.7
+    },
+    {
+      "cityName": "Périvé",
+      "lat": 12.2,
+      "lng": -4.5333333
+    },
+    {
+      "cityName": "Poué",
+      "lat": 12.3833333,
+      "lng": -3.9833333
+    },
+    {
+      "cityName": "Sagouita",
+      "lat": 12.1333333,
+      "lng": -4.4666667
+    },
+    {
+      "cityName": "Salanso",
+      "lat": 12.1833333,
+      "lng": -4.0833333
+    },
+    {
+      "cityName": "Samakui",
+      "lat": 12.1333333,
+      "lng": -3.6666667
+    },
+    {
+      "cityName": "Sama",
+      "lat": 11.7833333,
+      "lng": -4.3166667
+    },
+    {
+      "cityName": "Samé",
+      "lat": 12.1333333,
+      "lng": -4.5333333
+    },
+    {
+      "cityName": "Samorosso",
+      "lat": 11.9166667,
+      "lng": -4.9333333
+    },
+    {
+      "cityName": "Sanaba",
+      "lat": 12.4166667,
+      "lng": -3.8166667
+    },
+    {
+      "cityName": "Sanékui",
+      "lat": 12.05,
+      "lng": -3.9666667
+    },
+    {
+      "cityName": "Séguédougou",
+      "lat": 11.8666667,
+      "lng": -4.8333333
+    },
+    {
+      "cityName": "Sélikoro",
+      "lat": 11.9166667,
+      "lng": -4.4333333
+    },
+    {
+      "cityName": "Sé",
+      "lat": 11.8,
+      "lng": -4.6666667
+    },
+    {
+      "cityName": "Sien",
+      "lat": 11.7833333,
+      "lng": -4.65
+    },
+    {
+      "cityName": "Si",
+      "lat": 11.8833333,
+      "lng": -3.7333333
+    },
+    {
+      "cityName": "Sofina",
+      "lat": 11.8333333,
+      "lng": -4.8666667
+    },
+    {
+      "cityName": "Sokouloni",
+      "lat": 11.8333333,
+      "lng": -4.8
+    },
+    {
+      "cityName": "Soro",
+      "lat": 12.3833333,
+      "lng": -3.9333333
+    },
+    {
+      "cityName": "Soukoudiankouli",
+      "lat": 12.1833333,
+      "lng": -4.3666667
+    },
+    {
+      "cityName": "Souma",
+      "lat": 11.7666667,
+      "lng": -4.1666667
+    },
+    {
+      "cityName": "Soun",
+      "lat": 12.5,
+      "lng": -4.0833333
+    },
+    {
+      "cityName": "Tangouna",
+      "lat": 12.4833333,
+      "lng": -4.2
+    },
+    {
+      "cityName": "Tankui",
+      "lat": 11.8333333,
+      "lng": -3.7833333
+    },
+    {
+      "cityName": "Tansila",
+      "lat": 12.4333333,
+      "lng": -4.3833333
+    },
+    {
+      "cityName": "Télé",
+      "lat": 12.4,
+      "lng": -4.4333333
+    },
+    {
+      "cityName": "Téréko",
+      "lat": 12.3833333,
+      "lng": -4.2833333
+    },
+    {
+      "cityName": "Tiankoro",
+      "lat": 12.0166667,
+      "lng": -4.55
+    },
+    {
+      "cityName": "Tia",
+      "lat": 11.7833333,
+      "lng": -3.85
+    },
+    {
+      "cityName": "Tickoui",
+      "lat": 12.1166667,
+      "lng": -3.75
+    },
+    {
+      "cityName": "Tiengouéra",
+      "lat": 11.85,
+      "lng": -4.85
+    },
+    {
+      "cityName": "Tiga",
+      "lat": 11.8833333,
+      "lng": -4.6833333
+    },
+    {
+      "cityName": "Ti",
+      "lat": 12.0333333,
+      "lng": -4.5166667
+    },
+    {
+      "cityName": "Toma",
+      "lat": 12.65,
+      "lng": -4.4166667
+    },
+    {
+      "cityName": "Toukouro",
+      "lat": 12.1166667,
+      "lng": -4.3333333
+    },
+    {
+      "cityName": "Toula",
+      "lat": 12.6166667,
+      "lng": -4.3166667
+    },
+    {
+      "cityName": "Toura",
+      "lat": 11.8833333,
+      "lng": -4.4666667
+    },
+    {
+      "cityName": "Wakui",
+      "lat": 11.95,
+      "lng": -3.65
+    },
+    {
+      "cityName": "Yasso",
+      "lat": 12.3666667,
+      "lng": -4.0333333
+    },
+    {
+      "cityName": "Zangazoni",
+      "lat": 11.9,
+      "lng": -4.7166667
+    },
+    {
+      "cityName": "Zinguina",
+      "lat": 11.9,
+      "lng": -4.9666667
+    }
+  ]
+}

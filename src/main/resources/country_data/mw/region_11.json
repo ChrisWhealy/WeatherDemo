@@ -1,0 +1,785 @@
+{
+  "name": "Mangochi",
+  "cities": [
+    {
+      "cityName": "Bakali",
+      "lat": -14.6666667,
+      "lng": 35.4166667
+    },
+    {
+      "cityName": "Bakile",
+      "lat": -13.9833333,
+      "lng": 35.1666667
+    },
+    {
+      "cityName": "Banja",
+      "lat": -14.6666667,
+      "lng": 35.7333333
+    },
+    {
+      "cityName": "Baquira",
+      "lat": -13.9,
+      "lng": 35.1833333
+    },
+    {
+      "cityName": "Biti Kalanje",
+      "lat": -14.2833333,
+      "lng": 35.25
+    },
+    {
+      "cityName": "Budu",
+      "lat": -14.5,
+      "lng": 35.6
+    },
+    {
+      "cityName": "Bwanali",
+      "lat": -14.5833333,
+      "lng": 35.35
+    },
+    {
+      "cityName": "Cape Maclear",
+      "lat": -14.0166667,
+      "lng": 34.85
+    },
+    {
+      "cityName": "Capuka",
+      "lat": -14.7,
+      "lng": 35.55
+    },
+    {
+      "cityName": "Changali",
+      "lat": -14.7166667,
+      "lng": 35.1666667
+    },
+    {
+      "cityName": "Chapola",
+      "lat": -14.2666667,
+      "lng": 35.2333333
+    },
+    {
+      "cityName": "Cherinda",
+      "lat": -13.7166667,
+      "lng": 35.0833333
+    },
+    {
+      "cityName": "Chikowanje",
+      "lat": -14.6,
+      "lng": 35.4666667
+    },
+    {
+      "cityName": "Chikuluma",
+      "lat": -14.7333333,
+      "lng": 35.3333333
+    },
+    {
+      "cityName": "Chilemba",
+      "lat": -14.75,
+      "lng": 35.3333333
+    },
+    {
+      "cityName": "Chimanda",
+      "lat": -14.6833333,
+      "lng": 35.85
+    },
+    {
+      "cityName": "Chimbila",
+      "lat": -14.6166667,
+      "lng": 35.8166667
+    },
+    {
+      "cityName": "Chimbumbuli",
+      "lat": -14.3666667,
+      "lng": 35.5
+    },
+    {
+      "cityName": "Chimesya",
+      "lat": -14.75,
+      "lng": 35.3666667
+    },
+    {
+      "cityName": "Chimombo",
+      "lat": -14.7,
+      "lng": 35.5833333
+    },
+    {
+      "cityName": "Chimpamba",
+      "lat": -14.0666667,
+      "lng": 34.85
+    },
+    {
+      "cityName": "Chimwala",
+      "lat": -14.6166667,
+      "lng": 35.1833333
+    },
+    {
+      "cityName": "Chipalamawamba",
+      "lat": -14.5,
+      "lng": 35.25
+    },
+    {
+      "cityName": "Chipoka",
+      "lat": -14.3666667,
+      "lng": 35.1833333
+    },
+    {
+      "cityName": "Chipole",
+      "lat": -14.5833333,
+      "lng": 35.3333333
+    },
+    {
+      "cityName": "Chiponda",
+      "lat": -14.0333333,
+      "lng": 35.1666667
+    },
+    {
+      "cityName": "Chiponde",
+      "lat": -14.3666667,
+      "lng": 35.5833333
+    },
+    {
+      "cityName": "Chirombo",
+      "lat": -14.1166667,
+      "lng": 34.8333333
+    },
+    {
+      "cityName": "Chisiza",
+      "lat": -14.6666667,
+      "lng": 35.6
+    },
+    {
+      "cityName": "Chitele",
+      "lat": -13.85,
+      "lng": 35.2
+    },
+    {
+      "cityName": "Chithumba",
+      "lat": -14.7666667,
+      "lng": 35.2833333
+    },
+    {
+      "cityName": "Chiunda",
+      "lat": -14.7666667,
+      "lng": 35.3666667
+    },
+    {
+      "cityName": "Chiutula",
+      "lat": -14.55,
+      "lng": 35.3333333
+    },
+    {
+      "cityName": "Chiwambo",
+      "lat": -14.8166667,
+      "lng": 35.3
+    },
+    {
+      "cityName": "Dimu",
+      "lat": -14.5166667,
+      "lng": 35.2833333
+    },
+    {
+      "cityName": "Fort Johnston",
+      "lat": -14.4666667,
+      "lng": 35.2666667
+    },
+    {
+      "cityName": "Gopole",
+      "lat": -14.8,
+      "lng": 35.2833333
+    },
+    {
+      "cityName": "Jalasi",
+      "lat": -14.3666667,
+      "lng": 35.45
+    },
+    {
+      "cityName": "Jelamu",
+      "lat": -14.55,
+      "lng": 35.5666667
+    },
+    {
+      "cityName": "Juma",
+      "lat": -14.6166667,
+      "lng": 35.6
+    },
+    {
+      "cityName": "Kadango",
+      "lat": -14.0833333,
+      "lng": 35.1833333
+    },
+    {
+      "cityName": "Kadanzhe",
+      "lat": -13.8666667,
+      "lng": 35.1333333
+    },
+    {
+      "cityName": "Kadewele",
+      "lat": -14.6166667,
+      "lng": 35.35
+    },
+    {
+      "cityName": "Kaipa",
+      "lat": -14.55,
+      "lng": 35.7166667
+    },
+    {
+      "cityName": "Kakowa",
+      "lat": -13.55,
+      "lng": 35.55
+    },
+    {
+      "cityName": "Kakutu",
+      "lat": -14.6666667,
+      "lng": 35.5833333
+    },
+    {
+      "cityName": "Kalonga",
+      "lat": -14.7333333,
+      "lng": 35.4333333
+    },
+    {
+      "cityName": "Kaluva",
+      "lat": -13.9833333,
+      "lng": 35.3166667
+    },
+    {
+      "cityName": "Kambona",
+      "lat": -14.7,
+      "lng": 35.4333333
+    },
+    {
+      "cityName": "Kane",
+      "lat": -14.5333333,
+      "lng": 35.5666667
+    },
+    {
+      "cityName": "Kannene",
+      "lat": -14.5833333,
+      "lng": 35.6666667
+    },
+    {
+      "cityName": "Kapyepye",
+      "lat": -13.3333333,
+      "lng": 35.3833333
+    },
+    {
+      "cityName": "Kasugulu",
+      "lat": -14.6166667,
+      "lng": 35.4666667
+    },
+    {
+      "cityName": "Katema",
+      "lat": -14.5166667,
+      "lng": 35.0333333
+    },
+    {
+      "cityName": "Kawinga",
+      "lat": -14.5666667,
+      "lng": 35.3833333
+    },
+    {
+      "cityName": "Koma",
+      "lat": -14.5333333,
+      "lng": 35.3666667
+    },
+    {
+      "cityName": "Kukalanje",
+      "lat": -14.65,
+      "lng": 35.1666667
+    },
+    {
+      "cityName": "Kuluwe",
+      "lat": -14.5333333,
+      "lng": 35.5833333
+    },
+    {
+      "cityName": "Kungwa",
+      "lat": -14.65,
+      "lng": 35.85
+    },
+    {
+      "cityName": "Kwilembe",
+      "lat": -14.35,
+      "lng": 35.4
+    },
+    {
+      "cityName": "Kwilindi",
+      "lat": -14.1333333,
+      "lng": 35.4333333
+    },
+    {
+      "cityName": "Kwisimba",
+      "lat": -14.65,
+      "lng": 35.3333333
+    },
+    {
+      "cityName": "Kwitambo",
+      "lat": -14.5166667,
+      "lng": 35.2666667
+    },
+    {
+      "cityName": "Likambwili",
+      "lat": -14.5666667,
+      "lng": 35.5333333
+    },
+    {
+      "cityName": "Likulungwa Village",
+      "lat": -14.6833333,
+      "lng": 35.3166667
+    },
+    {
+      "cityName": "Limamu",
+      "lat": -14.5833333,
+      "lng": 35.7333333
+    },
+    {
+      "cityName": "Limbalile",
+      "lat": -14.6333333,
+      "lng": 35.4833333
+    },
+    {
+      "cityName": "Liwani",
+      "lat": -14.6833333,
+      "lng": 35.55
+    },
+    {
+      "cityName": "Lusumbwe",
+      "lat": -14.0833333,
+      "lng": 34.9166667
+    },
+    {
+      "cityName": "Machemba",
+      "lat": -14.6833333,
+      "lng": 35.4166667
+    },
+    {
+      "cityName": "Madenda",
+      "lat": -13.7,
+      "lng": 35.0333333
+    },
+    {
+      "cityName": "Majaja",
+      "lat": -14.6833333,
+      "lng": 35.5833333
+    },
+    {
+      "cityName": "Makanjila",
+      "lat": -13.7,
+      "lng": 35.05
+    },
+    {
+      "cityName": "Makumba",
+      "lat": -14.3166667,
+      "lng": 35.2666667
+    },
+    {
+      "cityName": "Makwinja",
+      "lat": -14.3333333,
+      "lng": 35.2833333
+    },
+    {
+      "cityName": "Malango",
+      "lat": -14.7,
+      "lng": 35.5666667
+    },
+    {
+      "cityName": "Malemia",
+      "lat": -14.3666667,
+      "lng": 35.2833333
+    },
+    {
+      "cityName": "Malenga",
+      "lat": -14.65,
+      "lng": 34.9666667
+    },
+    {
+      "cityName": "Malikolo",
+      "lat": -14.5833333,
+      "lng": 35.3
+    },
+    {
+      "cityName": "Malingula",
+      "lat": -14.5166667,
+      "lng": 35.3833333
+    },
+    {
+      "cityName": "Mangombo",
+      "lat": -14.15,
+      "lng": 34.8166667
+    },
+    {
+      "cityName": "Mapujali",
+      "lat": -14.5166667,
+      "lng": 35.3666667
+    },
+    {
+      "cityName": "Masimbakwe",
+      "lat": -14.65,
+      "lng": 35.3833333
+    },
+    {
+      "cityName": "Masuku",
+      "lat": -14.5,
+      "lng": 35.5833333
+    },
+    {
+      "cityName": "Matiti",
+      "lat": -14.6,
+      "lng": 35.5166667
+    },
+    {
+      "cityName": "Matosa",
+      "lat": -14.5666667,
+      "lng": 35.35
+    },
+    {
+      "cityName": "Mayese",
+      "lat": -14.6833333,
+      "lng": 35.6166667
+    },
+    {
+      "cityName": "Mbalamanja",
+      "lat": -14.15,
+      "lng": 34.9333333
+    },
+    {
+      "cityName": "Mbaluku Laini",
+      "lat": -14.5,
+      "lng": 35.2666667
+    },
+    {
+      "cityName": "Mbalwe",
+      "lat": -14.6166667,
+      "lng": 35.5833333
+    },
+    {
+      "cityName": "Mbondo",
+      "lat": -14.5166667,
+      "lng": 35.35
+    },
+    {
+      "cityName": "Mbwabwa",
+      "lat": -14.6,
+      "lng": 35.6333333
+    },
+    {
+      "cityName": "Mdala Chikowa",
+      "lat": -14.2333333,
+      "lng": 35.0833333
+    },
+    {
+      "cityName": "Mdoha",
+      "lat": -14.1666667,
+      "lng": 35.2
+    },
+    {
+      "cityName": "Meso",
+      "lat": -14.55,
+      "lng": 35.35
+    },
+    {
+      "cityName": "Meza",
+      "lat": -14.5833333,
+      "lng": 35.3666667
+    },
+    {
+      "cityName": "Milimbo",
+      "lat": -14.65,
+      "lng": 35.7166667
+    },
+    {
+      "cityName": "Mkumba",
+      "lat": -14.5833333,
+      "lng": 35.5333333
+    },
+    {
+      "cityName": "Mkwepele",
+      "lat": -14.5833333,
+      "lng": 35.65
+    },
+    {
+      "cityName": "Mpinganjila",
+      "lat": -14.5333333,
+      "lng": 35.2166667
+    },
+    {
+      "cityName": "Mponda",
+      "lat": -14.45,
+      "lng": 35.25
+    },
+    {
+      "cityName": "Mpotola",
+      "lat": -14.7666667,
+      "lng": 35.35
+    },
+    {
+      "cityName": "Mpunde",
+      "lat": -14.8333333,
+      "lng": 35.2833333
+    },
+    {
+      "cityName": "Msalula",
+      "lat": -14.2,
+      "lng": 35.4
+    },
+    {
+      "cityName": "Msumbi",
+      "lat": -14.0833333,
+      "lng": 34.9333333
+    },
+    {
+      "cityName": "Mtapula",
+      "lat": -14.55,
+      "lng": 35.7666667
+    },
+    {
+      "cityName": "Mtelelas",
+      "lat": -14.3166667,
+      "lng": 35.4166667
+    },
+    {
+      "cityName": "Mterera",
+      "lat": -14.1833333,
+      "lng": 35.45
+    },
+    {
+      "cityName": "Mthiniwa",
+      "lat": -14.65,
+      "lng": 35.7333333
+    },
+    {
+      "cityName": "Mtonda",
+      "lat": -14.5666667,
+      "lng": 35.7666667
+    },
+    {
+      "cityName": "Mtundu",
+      "lat": -14.55,
+      "lng": 35.75
+    },
+    {
+      "cityName": "Mtupa",
+      "lat": -14.6333333,
+      "lng": 35.5666667
+    },
+    {
+      "cityName": "Muepetha",
+      "lat": -14.65,
+      "lng": 35.8333333
+    },
+    {
+      "cityName": "Muwawa",
+      "lat": -14.65,
+      "lng": 35.8
+    },
+    {
+      "cityName": "Mvela",
+      "lat": -14.7666667,
+      "lng": 35.2666667
+    },
+    {
+      "cityName": "Mvunguti",
+      "lat": -14.0333333,
+      "lng": 34.9
+    },
+    {
+      "cityName": "Mwanjage",
+      "lat": -14.1833333,
+      "lng": 35.2166667
+    },
+    {
+      "cityName": "Mwinjilani",
+      "lat": -14.6,
+      "lng": 35.6166667
+    },
+    {
+      "cityName": "Mwitiya",
+      "lat": -14.6333333,
+      "lng": 35.7333333
+    },
+    {
+      "cityName": "Namalaka",
+      "lat": -14.1166667,
+      "lng": 35.2
+    },
+    {
+      "cityName": "Namaloe",
+      "lat": -14.5333333,
+      "lng": 35.55
+    },
+    {
+      "cityName": "Namaso",
+      "lat": -14.1666667,
+      "lng": 34.9833333
+    },
+    {
+      "cityName": "Namkumba Village",
+      "lat": -14.35,
+      "lng": 34.8166667
+    },
+    {
+      "cityName": "Namwala",
+      "lat": -14.6333333,
+      "lng": 35.5166667
+    },
+    {
+      "cityName": "Ncimbo",
+      "lat": -14.6333333,
+      "lng": 35.5833333
+    },
+    {
+      "cityName": "Ncokola",
+      "lat": -14.6333333,
+      "lng": 35.4666667
+    },
+    {
+      "cityName": "Ngongondo",
+      "lat": -14.1666667,
+      "lng": 35.0833333
+    },
+    {
+      "cityName": "Ngwaya",
+      "lat": -14.6666667,
+      "lng": 35.4666667
+    },
+    {
+      "cityName": "Nkalama",
+      "lat": -14.6666667,
+      "lng": 35.7
+    },
+    {
+      "cityName": "Nkapa",
+      "lat": -14.6833333,
+      "lng": 35.5666667
+    },
+    {
+      "cityName": "Nkaugala",
+      "lat": -14.55,
+      "lng": 35.55
+    },
+    {
+      "cityName": "Nkudzi",
+      "lat": -14.1666667,
+      "lng": 35
+    },
+    {
+      "cityName": "Nlamba",
+      "lat": -14.65,
+      "lng": 35.5833333
+    },
+    {
+      "cityName": "Nlawa",
+      "lat": -14.6333333,
+      "lng": 35.6833333
+    },
+    {
+      "cityName": "Nlembe",
+      "lat": -14.6,
+      "lng": 35.45
+    },
+    {
+      "cityName": "Nsalika",
+      "lat": -14.5666667,
+      "lng": 35.3333333
+    },
+    {
+      "cityName": "Ntali",
+      "lat": -14.3333333,
+      "lng": 35.1833333
+    },
+    {
+      "cityName": "Ntuka",
+      "lat": -14.65,
+      "lng": 35.3666667
+    },
+    {
+      "cityName": "Nyambi",
+      "lat": -14.6666667,
+      "lng": 35.6166667
+    },
+    {
+      "cityName": "Palatini",
+      "lat": -14.5666667,
+      "lng": 35.7166667
+    },
+    {
+      "cityName": "Palm Beach",
+      "lat": -14.3833333,
+      "lng": 35.2
+    },
+    {
+      "cityName": "Patsankonda",
+      "lat": -14.3,
+      "lng": 35.8333333
+    },
+    {
+      "cityName": "Pila",
+      "lat": -14.6833333,
+      "lng": 35.5333333
+    },
+    {
+      "cityName": "Pitiya",
+      "lat": -14.6666667,
+      "lng": 35.8333333
+    },
+    {
+      "cityName": "Puruma",
+      "lat": -14.6,
+      "lng": 35.7
+    },
+    {
+      "cityName": "Saidi",
+      "lat": -14.7833333,
+      "lng": 35.2833333
+    },
+    {
+      "cityName": "Saite Mwasungu",
+      "lat": -14,
+      "lng": 35.15
+    },
+    {
+      "cityName": "Sili",
+      "lat": -14.6,
+      "lng": 35.3166667
+    },
+    {
+      "cityName": "Somba",
+      "lat": -14.65,
+      "lng": 35.5333333
+    },
+    {
+      "cityName": "Sombo",
+      "lat": -14.65,
+      "lng": 35.65
+    },
+    {
+      "cityName": "Somve",
+      "lat": -14.2166667,
+      "lng": 35.0833333
+    },
+    {
+      "cityName": "Tambala",
+      "lat": -14.45,
+      "lng": 35.5666667
+    },
+    {
+      "cityName": "Umpuanela",
+      "lat": -14.6666667,
+      "lng": 35.8166667
+    },
+    {
+      "cityName": "Weta",
+      "lat": -14.5333333,
+      "lng": 35.3833333
+    },
+    {
+      "cityName": "Yangala",
+      "lat": -14.4833333,
+      "lng": 35.2833333
+    },
+    {
+      "cityName": "Zambo",
+      "lat": -14.05,
+      "lng": 34.9166667
+    }
+  ]
+}

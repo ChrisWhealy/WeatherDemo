@@ -1,0 +1,6760 @@
+{
+  "name": "Oio",
+  "cities": [
+    {
+      "cityName": "Acampamento",
+      "lat": 11.45,
+      "lng": -15.7
+    },
+    {
+      "cityName": "Acom",
+      "lat": 11.95,
+      "lng": -15.5666667
+    },
+    {
+      "cityName": "Áfià",
+      "lat": 11.3333333,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Água Verde",
+      "lat": 12.0166667,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Áidarà Balanta",
+      "lat": 11.5,
+      "lng": -15.1666667
+    },
+    {
+      "cityName": "Áidarà Beafada",
+      "lat": 11.4833333,
+      "lng": -15.1666667
+    },
+    {
+      "cityName": "Alabato",
+      "lat": 12.4891667,
+      "lng": -15.3555556
+    },
+    {
+      "cityName": "Aldeia de Cuor",
+      "lat": 12.1,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Aldeia Formosa",
+      "lat": 11.5333333,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Aldeia Nova",
+      "lat": 11.7,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Algodão",
+      "lat": 12.45,
+      "lng": -15.2166667
+    },
+    {
+      "cityName": "Álià",
+      "lat": 11.6166667,
+      "lng": -14.3833333
+    },
+    {
+      "cityName": "Aliel",
+      "lat": 11.9166667,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Aliu Jaia",
+      "lat": 12.0166667,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Ambiur",
+      "lat": 11.2666667,
+      "lng": -15.7166667
+    },
+    {
+      "cityName": "Amboim",
+      "lat": 11,
+      "lng": -15.0333333
+    },
+    {
+      "cityName": "Ambum",
+      "lat": 12.1086111,
+      "lng": -15.1619444
+    },
+    {
+      "cityName": "Amedalai",
+      "lat": 11.3,
+      "lng": -15
+    },
+    {
+      "cityName": "Amehie",
+      "lat": 11.4833333,
+      "lng": -15.6833333
+    },
+    {
+      "cityName": "Amidara",
+      "lat": 11.2833333,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Amina Dala",
+      "lat": 12.3511111,
+      "lng": -15.3861111
+    },
+    {
+      "cityName": "Anambe Balanta",
+      "lat": 12.1166667,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Ancabine",
+      "lat": 11.2833333,
+      "lng": -15.7
+    },
+    {
+      "cityName": "Ancamba",
+      "lat": 11.7833333,
+      "lng": -15
+    },
+    {
+      "cityName": "Ancaname",
+      "lat": 11.2833333,
+      "lng": -15.6833333
+    },
+    {
+      "cityName": "Ancano",
+      "lat": 11.4666667,
+      "lng": -15.6666667
+    },
+    {
+      "cityName": "Anconhi",
+      "lat": 11.95,
+      "lng": -15.25
+    },
+    {
+      "cityName": "André",
+      "lat": 11.8,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Anha",
+      "lat": 12.05,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Anha Futa-Fula",
+      "lat": 12.0727778,
+      "lng": -15.2472222
+    },
+    {
+      "cityName": "Antpostos",
+      "lat": 11.9666667,
+      "lng": -15.55
+    },
+    {
+      "cityName": "Aria",
+      "lat": 12.0833333,
+      "lng": -15.3166667
+    },
+    {
+      "cityName": "Assela",
+      "lat": 12.1605556,
+      "lng": -15.4088889
+    },
+    {
+      "cityName": "Bácar Dado",
+      "lat": 11.55,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Bácar Ioba",
+      "lat": 11.6166667,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Bácar Lal",
+      "lat": 11.8833333,
+      "lng": -14.5833333
+    },
+    {
+      "cityName": "Badancar",
+      "lat": 12.5666667,
+      "lng": -15.3333333
+    },
+    {
+      "cityName": "Badem",
+      "lat": 12.6166667,
+      "lng": -15.1166667
+    },
+    {
+      "cityName": "Badumbo",
+      "lat": 12.4333333,
+      "lng": -14.5
+    },
+    {
+      "cityName": "Bafatá",
+      "lat": 12.4627778,
+      "lng": -15.2002778
+    },
+    {
+      "cityName": "Bafatandim",
+      "lat": 12.3811111,
+      "lng": -15.3488889
+    },
+    {
+      "cityName": "Bagadage",
+      "lat": 12.3775,
+      "lng": -15.1236111
+    },
+    {
+      "cityName": "Bagadaje",
+      "lat": 12,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Bagíngarà",
+      "lat": 12.5833333,
+      "lng": -14.4666667
+    },
+    {
+      "cityName": "Baidi",
+      "lat": 12.65,
+      "lng": -14.2666667
+    },
+    {
+      "cityName": "Baio",
+      "lat": 11.9,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Bairro Balanta",
+      "lat": 12.2166667,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Bairro Joli",
+      "lat": 12.05,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Baite",
+      "lat": 12.3586111,
+      "lng": -15.1680556
+    },
+    {
+      "cityName": "Bajanacunda",
+      "lat": 12.5166667,
+      "lng": -15.2166667
+    },
+    {
+      "cityName": "Bajol",
+      "lat": 11.75,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Balandugo",
+      "lat": 11.85,
+      "lng": -13.7333333
+    },
+    {
+      "cityName": "Balinjã",
+      "lat": 11.75,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Bamba Conholi",
+      "lat": 11.35,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Bambadinca",
+      "lat": 11.8166667,
+      "lng": -15.1
+    },
+    {
+      "cityName": "Bambadinca Beafada",
+      "lat": 11.95,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Bambadinca Mancanha",
+      "lat": 11.95,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Bambaià",
+      "lat": 11.95,
+      "lng": -14.6
+    },
+    {
+      "cityName": "Bambato",
+      "lat": 12.5166667,
+      "lng": -14.5833333
+    },
+    {
+      "cityName": "Bananto",
+      "lat": 12.4611111,
+      "lng": -15.0625
+    },
+    {
+      "cityName": "Bancá",
+      "lat": 12.5333333,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Bancobunje",
+      "lat": 11.4,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Bancolene",
+      "lat": 12.3266667,
+      "lng": -15.4361111
+    },
+    {
+      "cityName": "Bandjara",
+      "lat": 12.3166667,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Bane",
+      "lat": 12.4833333,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Bangacia",
+      "lat": 11.9166667,
+      "lng": -14.6
+    },
+    {
+      "cityName": "Banhima",
+      "lat": 12.4333333,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Bani",
+      "lat": 11.7333333,
+      "lng": -15.1
+    },
+    {
+      "cityName": "Banir",
+      "lat": 11.0166667,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Banjuno",
+      "lat": 11.6666667,
+      "lng": -15.2
+    },
+    {
+      "cityName": "Bantadim",
+      "lat": 12.5,
+      "lng": -15.2166667
+    },
+    {
+      "cityName": "Bantael",
+      "lat": 12.4833333,
+      "lng": -14.5666667
+    },
+    {
+      "cityName": "Bantã Foru",
+      "lat": 11.8166667,
+      "lng": -14.1333333
+    },
+    {
+      "cityName": "Bantajã Assà",
+      "lat": 12.05,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Bantajã",
+      "lat": 12.2666667,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Bantanforu",
+      "lat": 11.7666667,
+      "lng": -14.3333333
+    },
+    {
+      "cityName": "Bantanjã",
+      "lat": 11.7333333,
+      "lng": -14.25
+    },
+    {
+      "cityName": "Bantanto Buluto",
+      "lat": 12.5166667,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Bantasso",
+      "lat": 12.3916667,
+      "lng": -15.3402778
+    },
+    {
+      "cityName": "Bárà",
+      "lat": 11.95,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Baradoulo",
+      "lat": 11.9991667,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Barássià",
+      "lat": 11.65,
+      "lng": -14.3666667
+    },
+    {
+      "cityName": "Bária",
+      "lat": 11.8,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Barquege",
+      "lat": 11.75,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Batâmbali Balanta",
+      "lat": 11.5166667,
+      "lng": -15.1666667
+    },
+    {
+      "cityName": "Batur",
+      "lat": 12.3911111,
+      "lng": -15.3822222
+    },
+    {
+      "cityName": "Beira Baixa",
+      "lat": 12.4666667,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Beja",
+      "lat": 11.55,
+      "lng": -15.1666667
+    },
+    {
+      "cityName": "Belal Umaro",
+      "lat": 11.9333333,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Belel",
+      "lat": 11.7333333,
+      "lng": -15.4666667
+    },
+    {
+      "cityName": "Belel Gabi",
+      "lat": 12.25,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Belenhal",
+      "lat": 12.5,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Belenquentem",
+      "lat": 11.5166667,
+      "lng": -15.2
+    },
+    {
+      "cityName": "Belunja",
+      "lat": 11.95,
+      "lng": -15.15
+    },
+    {
+      "cityName": "Benájar",
+      "lat": 12.2166667,
+      "lng": -15.6666667
+    },
+    {
+      "cityName": "Benate",
+      "lat": 11.7666667,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Bendugo",
+      "lat": 11.2833333,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Benifo",
+      "lat": 12.1255556,
+      "lng": -15.3361111
+    },
+    {
+      "cityName": "Bera",
+      "lat": 12.0430556,
+      "lng": -15.6002778
+    },
+    {
+      "cityName": "Beracobato",
+      "lat": 12.4227778,
+      "lng": -15.0536111
+    },
+    {
+      "cityName": "Beracó",
+      "lat": 12.2333333,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Beracolom",
+      "lat": 12.55,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Beracòzinho",
+      "lat": 12.3080556,
+      "lng": -15.2108333
+    },
+    {
+      "cityName": "Bercondim",
+      "lat": 12.3911111,
+      "lng": -15.2397222
+    },
+    {
+      "cityName": "Berecobá",
+      "lat": 12.4,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Berendinto",
+      "lat": 12.5833333,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Bessia",
+      "lat": 12.45,
+      "lng": -15.1666667
+    },
+    {
+      "cityName": "Bessunha",
+      "lat": 11.9833333,
+      "lng": -15.1
+    },
+    {
+      "cityName": "Biambe",
+      "lat": 12.1333333,
+      "lng": -15.55
+    },
+    {
+      "cityName": "Biambefoi",
+      "lat": 12.2,
+      "lng": -15.55
+    },
+    {
+      "cityName": "Biambi",
+      "lat": 12.1338889,
+      "lng": -15.5233333
+    },
+    {
+      "cityName": "Biana",
+      "lat": 12.1,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Bianga",
+      "lat": 11.7833333,
+      "lng": -15.2
+    },
+    {
+      "cityName": "Biassa",
+      "lat": 11.5666667,
+      "lng": -15.2166667
+    },
+    {
+      "cityName": "Bichalà",
+      "lat": 11.4666667,
+      "lng": -15.1333333
+    },
+    {
+      "cityName": "Bidampiol",
+      "lat": 11.8333333,
+      "lng": -15.1
+    },
+    {
+      "cityName": "Bidè",
+      "lat": 11.7,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Bijabá",
+      "lat": 11.7333333,
+      "lng": -15.15
+    },
+    {
+      "cityName": "Bijanta",
+      "lat": 11.5666667,
+      "lng": -15.1666667
+    },
+    {
+      "cityName": "Bijene",
+      "lat": 12.2672222,
+      "lng": -15.2288889
+    },
+    {
+      "cityName": "Bijine",
+      "lat": 11.0333333,
+      "lng": -15.0333333
+    },
+    {
+      "cityName": "Bilá",
+      "lat": 11.7666667,
+      "lng": -15.3333333
+    },
+    {
+      "cityName": "Bilonco",
+      "lat": 11.8333333,
+      "lng": -14.2166667
+    },
+    {
+      "cityName": "Binacó",
+      "lat": 12.4333333,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Binaga",
+      "lat": 12.3333333,
+      "lng": -15.5333333
+    },
+    {
+      "cityName": "Binar",
+      "lat": 12.0988889,
+      "lng": -15.6244444
+    },
+    {
+      "cityName": "Bindoro",
+      "lat": 11.9833333,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Binhalo",
+      "lat": 11.85,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Binhoma",
+      "lat": 12.1,
+      "lng": -15.65
+    },
+    {
+      "cityName": "Binibaque",
+      "lat": 12.0511111,
+      "lng": -15.4013889
+    },
+    {
+      "cityName": "Binta",
+      "lat": 12.4202778,
+      "lng": -15.3180556
+    },
+    {
+      "cityName": "Biógate",
+      "lat": 11.7166667,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Birã",
+      "lat": 11.55,
+      "lng": -14.5666667
+    },
+    {
+      "cityName": "Biriban",
+      "lat": 12.4286111,
+      "lng": -15.1919444
+    },
+    {
+      "cityName": "Birla",
+      "lat": 11.9333333,
+      "lng": -15.55
+    },
+    {
+      "cityName": "Biro",
+      "lat": 11.8333333,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Birongue",
+      "lat": 12.3613889,
+      "lng": -15.2022222
+    },
+    {
+      "cityName": "Bissaiar",
+      "lat": 12.3241667,
+      "lng": -15.4022222
+    },
+    {
+      "cityName": "Bissajarindim",
+      "lat": 12.3166667,
+      "lng": -15.4
+    },
+    {
+      "cityName": "Bissamali",
+      "lat": 11.7333333,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Bissancage",
+      "lat": 12.3227778,
+      "lng": -15.2547222
+    },
+    {
+      "cityName": "Bissaque",
+      "lat": 12.1333333,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Bissari",
+      "lat": 12.5419444,
+      "lng": -15.2222222
+    },
+    {
+      "cityName": "Bissássema de Baixo",
+      "lat": 11.7666667,
+      "lng": -15.4666667
+    },
+    {
+      "cityName": "Bissássema de Cima",
+      "lat": 11.75,
+      "lng": -15.4666667
+    },
+    {
+      "cityName": "Bissauzinho",
+      "lat": 11.6,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Bissilão",
+      "lat": 11.7333333,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Bissorã",
+      "lat": 12.04,
+      "lng": -15.4280556
+    },
+    {
+      "cityName": "Bissoram",
+      "lat": 12.2230556,
+      "lng": -15.4475
+    },
+    {
+      "cityName": "Bissum",
+      "lat": 12.2405556,
+      "lng": -15.6658333
+    },
+    {
+      "cityName": "Biúr",
+      "lat": 12.095,
+      "lng": -15.4341667
+    },
+    {
+      "cityName": "Blafechuro",
+      "lat": 12.0525,
+      "lng": -15.4752778
+    },
+    {
+      "cityName": "Blassar",
+      "lat": 12.25,
+      "lng": -15.5
+    },
+    {
+      "cityName": "Blassé",
+      "lat": 11.9333333,
+      "lng": -15.2166667
+    },
+    {
+      "cityName": "Boa Esperança",
+      "lat": 12.0666667,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Bôbedè",
+      "lat": 11.3666667,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Bocancati",
+      "lat": 12.2741667,
+      "lng": -15.6122222
+    },
+    {
+      "cityName": "Boe",
+      "lat": 11.75,
+      "lng": -14.2166667
+    },
+    {
+      "cityName": "Boido Embalô",
+      "lat": 11.9,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Boihelà",
+      "lat": 11.4833333,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Bôjabu",
+      "lat": 11.9666667,
+      "lng": -14.6333333
+    },
+    {
+      "cityName": "Bojandim",
+      "lat": 12.0666667,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Bôjo Fulbè",
+      "lat": 11.9333333,
+      "lng": -14.6
+    },
+    {
+      "cityName": "Bojol Balanta",
+      "lat": 11.7333333,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Bojol Beafada",
+      "lat": 11.75,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Bolabá",
+      "lat": 11.6666667,
+      "lng": -14
+    },
+    {
+      "cityName": "Bólô",
+      "lat": 11.9,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Bolumbato",
+      "lat": 12.5213889,
+      "lng": -15.1791667
+    },
+    {
+      "cityName": "Bomane",
+      "lat": 11.35,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Boncò",
+      "lat": 12.6,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Bonere",
+      "lat": 11.7166667,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Bonhama",
+      "lat": 11.9666667,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Boniá",
+      "lat": 11.1166667,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Borá",
+      "lat": 11.9166667,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Boro",
+      "lat": 11.65,
+      "lng": -14.05
+    },
+    {
+      "cityName": "Borontonhe",
+      "lat": 11.9,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Brambanda",
+      "lat": 11.7666667,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Brandão",
+      "lat": 11.7333333,
+      "lng": -15.3166667
+    },
+    {
+      "cityName": "Brandãozinho",
+      "lat": 11.7333333,
+      "lng": -15.45
+    },
+    {
+      "cityName": "Bricama",
+      "lat": 11.2166667,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Bricamo",
+      "lat": 12.4888889,
+      "lng": -15.1552778
+    },
+    {
+      "cityName": "Brufa",
+      "lat": 12.2930556,
+      "lng": -15.6647222
+    },
+    {
+      "cityName": "Buará",
+      "lat": 12.3702778,
+      "lng": -15.4586111
+    },
+    {
+      "cityName": "Bubore",
+      "lat": 12.4322222,
+      "lng": -15.4169444
+    },
+    {
+      "cityName": "Bucameré",
+      "lat": 12.2327778,
+      "lng": -15.4180556
+    },
+    {
+      "cityName": "Bucaur",
+      "lat": 12.32,
+      "lng": -15.4836111
+    },
+    {
+      "cityName": "Bucol",
+      "lat": 12.1333333,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Bude",
+      "lat": 12.2833333,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Budo",
+      "lat": 12.2694444,
+      "lng": -15.5308333
+    },
+    {
+      "cityName": "Buduco",
+      "lat": 11.7333333,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Bufena",
+      "lat": 11.6666667,
+      "lng": -14.0833333
+    },
+    {
+      "cityName": "Bugafal",
+      "lat": 11.8166667,
+      "lng": -14.3833333
+    },
+    {
+      "cityName": "Bugumbo",
+      "lat": 11.5166667,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Buiò",
+      "lat": 11.5333333,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Bujemê",
+      "lat": 12.0166667,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Bunaussa",
+      "lat": 11.7333333,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Bundocuro",
+      "lat": 11.7,
+      "lng": -14.1166667
+    },
+    {
+      "cityName": "Bundojidè",
+      "lat": 12.5333333,
+      "lng": -14.55
+    },
+    {
+      "cityName": "Bungótè",
+      "lat": 11.5,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Bunhado",
+      "lat": 11.5333333,
+      "lng": -15.1666667
+    },
+    {
+      "cityName": "Bupe",
+      "lat": 12.0111111,
+      "lng": -15.5661111
+    },
+    {
+      "cityName": "Burame",
+      "lat": 12.2297222,
+      "lng": -15.7069444
+    },
+    {
+      "cityName": "Burè",
+      "lat": 11.8833333,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Burmeleu",
+      "lat": 11.9333333,
+      "lng": -14.3
+    },
+    {
+      "cityName": "Buro",
+      "lat": 12.4333333,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Buro Gela",
+      "lat": 12.6333333,
+      "lng": -15
+    },
+    {
+      "cityName": "Buro Sinchã",
+      "lat": 12.5833333,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Burro",
+      "lat": 12.5833333,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Caam",
+      "lat": 12.35,
+      "lng": -15.5666667
+    },
+    {
+      "cityName": "Caãn",
+      "lat": 12.1147222,
+      "lng": -15.4927778
+    },
+    {
+      "cityName": "Cabadju",
+      "lat": 12.6666667,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Cã Balanta",
+      "lat": 11.4833333,
+      "lng": -15.2
+    },
+    {
+      "cityName": "Cabame",
+      "lat": 11.7166667,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Cabaz Sôsso",
+      "lat": 11.0333333,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Cã Beafada",
+      "lat": 11.4833333,
+      "lng": -15.1833333
+    },
+    {
+      "cityName": "Cabelé Mandinga",
+      "lat": 12.55,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Cabelé Nhado",
+      "lat": 12.65,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Cabofará",
+      "lat": 11.9666667,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Cabonepo",
+      "lat": 11.05,
+      "lng": -15.0333333
+    },
+    {
+      "cityName": "Cabo Sêco",
+      "lat": 12.5,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Caboxanquezinho",
+      "lat": 11.0833333,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Cã Bras",
+      "lat": 11.1,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Cabubar",
+      "lat": 11.05,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Cacafale Balanta",
+      "lat": 11.05,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Cacafale",
+      "lat": 11.0666667,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Cacao-oi",
+      "lat": 10.9833333,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Cachá Djabè",
+      "lat": 12.4166667,
+      "lng": -14.5333333
+    },
+    {
+      "cityName": "Cacha Fulbè",
+      "lat": 12.4166667,
+      "lng": -14.5166667
+    },
+    {
+      "cityName": "Cachanco",
+      "lat": 11.8666667,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Cachôbar",
+      "lat": 11.45,
+      "lng": -15.2833333
+    },
+    {
+      "cityName": "Cacoca",
+      "lat": 11.1,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Cacondó",
+      "lat": 11.3333333,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Cacuma",
+      "lat": 12.0375,
+      "lng": -15.1236111
+    },
+    {
+      "cityName": "Cã Cumba",
+      "lat": 12.2419444,
+      "lng": -15.0605556
+    },
+    {
+      "cityName": "Cadé",
+      "lat": 11.9833333,
+      "lng": -15.5
+    },
+    {
+      "cityName": "Cafià",
+      "lat": 12.1833333,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Cã Grande",
+      "lat": 11.9666667,
+      "lng": -15.5333333
+    },
+    {
+      "cityName": "Cahone",
+      "lat": 12.45,
+      "lng": -14.5166667
+    },
+    {
+      "cityName": "Caiana",
+      "lat": 11.9166667,
+      "lng": -15.55
+    },
+    {
+      "cityName": "Caianga",
+      "lat": 12.4,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Caianteco",
+      "lat": 11.1166667,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Cai",
+      "lat": 12.2519444,
+      "lng": -15.2294444
+    },
+    {
+      "cityName": "Cã Júlio",
+      "lat": 11.7833333,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Calaba",
+      "lat": 11.7166667,
+      "lng": -15.1833333
+    },
+    {
+      "cityName": "Calaque",
+      "lat": 11.0333333,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Cale",
+      "lat": 12.1638889,
+      "lng": -15.4722222
+    },
+    {
+      "cityName": "Caliumbel",
+      "lat": 11.9666667,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Camalem",
+      "lat": 12.5233333,
+      "lng": -15.0225
+    },
+    {
+      "cityName": "Cã Mamadu",
+      "lat": 12.0513889,
+      "lng": -15.0741667
+    },
+    {
+      "cityName": "Camaracunda",
+      "lat": 12.45,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Camar",
+      "lat": 12.55,
+      "lng": -14.3833333
+    },
+    {
+      "cityName": "Cambajo",
+      "lat": 12.2230556,
+      "lng": -15.3194444
+    },
+    {
+      "cityName": "Cambaju",
+      "lat": 12.4166667,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Cambaque",
+      "lat": 11.05,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Cambara Boído",
+      "lat": 12.5,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Cambara Nhaco",
+      "lat": 12.5,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Cambem",
+      "lat": 12.5166667,
+      "lng": -14.4833333
+    },
+    {
+      "cityName": "Cambéssè",
+      "lat": 11.6833333,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Cambom",
+      "lat": 10.9833333,
+      "lng": -15.0333333
+    },
+    {
+      "cityName": "Cambucari",
+      "lat": 11.7333333,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Camdombe Mané",
+      "lat": 12.45,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Cameconde",
+      "lat": 11.0833333,
+      "lng": -15
+    },
+    {
+      "cityName": "Camecote",
+      "lat": 11.2333333,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Camessare",
+      "lat": 11.0666667,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Camissorã",
+      "lat": 11.0166667,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Campampe",
+      "lat": 11.9666667,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Campata",
+      "lat": 11.6,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Campate",
+      "lat": 12.3833333,
+      "lng": -14.4666667
+    },
+    {
+      "cityName": "Campeane",
+      "lat": 11.0333333,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Campirce",
+      "lat": 11.6333333,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Campo",
+      "lat": 11.0333333,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Campreno Biafada",
+      "lat": 11.15,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Campreno Nalu",
+      "lat": 11.15,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Campundé",
+      "lat": 11.7833333,
+      "lng": -13.7166667
+    },
+    {
+      "cityName": "Cam Samba",
+      "lat": 11.9333333,
+      "lng": -14.5666667
+    },
+    {
+      "cityName": "Cam Tambá",
+      "lat": 12.0666667,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Canadé",
+      "lat": 12.5333333,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Cancão",
+      "lat": 11.1,
+      "lng": -15
+    },
+    {
+      "cityName": "Canchebeu",
+      "lat": 12.0833333,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Canchicamo",
+      "lat": 12.15,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Canchumà Manjaco",
+      "lat": 11.55,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Cancodeà Balanta",
+      "lat": 11.7666667,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Cancodeà Beafada",
+      "lat": 11.7666667,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Cancoli",
+      "lat": 11.8166667,
+      "lng": -14.4333333
+    },
+    {
+      "cityName": "Cancolim",
+      "lat": 12.0833333,
+      "lng": -14.4666667
+    },
+    {
+      "cityName": "Canconté",
+      "lat": 11.7333333,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Cancricó",
+      "lat": 12.4141667,
+      "lng": -15.1180556
+    },
+    {
+      "cityName": "Cancubanhe Mandinga",
+      "lat": 12.4833333,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Cancubanhe Maundè",
+      "lat": 12.4833333,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Cancubanhe Sinchã",
+      "lat": 12.4833333,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Cancumba Balanta",
+      "lat": 11.5,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Cancumba Beafada",
+      "lat": 11.5166667,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Cancumba",
+      "lat": 12.1,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Cancuncó",
+      "lat": 12.355,
+      "lng": -15.3522222
+    },
+    {
+      "cityName": "Candafe",
+      "lat": 11.6333333,
+      "lng": -15.2
+    },
+    {
+      "cityName": "Candamã",
+      "lat": 11.9,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Candarifom",
+      "lat": 11.05,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Candefo",
+      "lat": 11.0333333,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Candemba",
+      "lat": 11.5666667,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Candembel",
+      "lat": 11.3666667,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Candiara",
+      "lat": 11.9333333,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Candicar",
+      "lat": 11.5666667,
+      "lng": -15.2
+    },
+    {
+      "cityName": "Candocoli",
+      "lat": 11.8666667,
+      "lng": -14.1666667
+    },
+    {
+      "cityName": "Canefaque",
+      "lat": 10.95,
+      "lng": -15.0333333
+    },
+    {
+      "cityName": "Canfanda",
+      "lat": 12.2997222,
+      "lng": -15.2866667
+    },
+    {
+      "cityName": "Canfarã",
+      "lat": 11.9,
+      "lng": -14.4166667
+    },
+    {
+      "cityName": "Canfenda",
+      "lat": 12.3,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Cangalem",
+      "lat": 12.0833333,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Canhacò",
+      "lat": 12.55,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Canhaga",
+      "lat": 12.4666667,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Canhâmina",
+      "lat": 12.55,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Canhanque",
+      "lat": 11.8833333,
+      "lng": -14.45
+    },
+    {
+      "cityName": "Canicó",
+      "lat": 12.2716667,
+      "lng": -15.3675
+    },
+    {
+      "cityName": "Canicó Tumaná",
+      "lat": 12.5222222,
+      "lng": -15.2619444
+    },
+    {
+      "cityName": "Canjabel",
+      "lat": 11.7166667,
+      "lng": -15.3333333
+    },
+    {
+      "cityName": "Canjai",
+      "lat": 11.9166667,
+      "lng": -14.35
+    },
+    {
+      "cityName": "Canjája",
+      "lat": 12.3458333,
+      "lng": -15.3502778
+    },
+    {
+      "cityName": "Canjaja Fula",
+      "lat": 12.3833333,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Canjaja Mandinga",
+      "lat": 12.3930556,
+      "lng": -15.295
+    },
+    {
+      "cityName": "Canjambari",
+      "lat": 12.4652778,
+      "lng": -15.0158333
+    },
+    {
+      "cityName": "Canjambari Morocunda",
+      "lat": 12.4855556,
+      "lng": -15.0108333
+    },
+    {
+      "cityName": "Canjanco",
+      "lat": 12.5086111,
+      "lng": -15.1633333
+    },
+    {
+      "cityName": "Canquebo",
+      "lat": 12.3005556,
+      "lng": -15.2358333
+    },
+    {
+      "cityName": "Canquenhê",
+      "lat": 12.45,
+      "lng": -14.5333333
+    },
+    {
+      "cityName": "Cansama",
+      "lat": 12.4333333,
+      "lng": -14.6166667
+    },
+    {
+      "cityName": "Cansamange",
+      "lat": 11.6666667,
+      "lng": -14.6333333
+    },
+    {
+      "cityName": "Cansambo",
+      "lat": 12.1,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Cansancó",
+      "lat": 12.3405556,
+      "lng": -15.3022222
+    },
+    {
+      "cityName": "Cansanema",
+      "lat": 12.4061111,
+      "lng": -15.0986111
+    },
+    {
+      "cityName": "Cansanumã",
+      "lat": 12.1166667,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Cansenha",
+      "lat": 12.4661111,
+      "lng": -15.3066667
+    },
+    {
+      "cityName": "Cansocó Mandinga",
+      "lat": 12.3333333,
+      "lng": -15.3666667
+    },
+    {
+      "cityName": "Cansonco",
+      "lat": 11.7166667,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Cansongo",
+      "lat": 11.95,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Cantacó",
+      "lat": 12.3677778,
+      "lng": -15.3497222
+    },
+    {
+      "cityName": "Cantacunda",
+      "lat": 12.05,
+      "lng": -14.4333333
+    },
+    {
+      "cityName": "Canta Iobà",
+      "lat": 11.5,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Cantássià",
+      "lat": 11.7333333,
+      "lng": -14.2833333
+    },
+    {
+      "cityName": "Cantene",
+      "lat": 12.5166667,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Cantora",
+      "lat": 11.5166667,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Canturè",
+      "lat": 11.7666667,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Cantuto",
+      "lat": 12.5333333,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Canxelebel",
+      "lat": 12.6833333,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Capal",
+      "lat": 12.5044444,
+      "lng": -15.2505556
+    },
+    {
+      "cityName": "Capebonde",
+      "lat": 11.7166667,
+      "lng": -13.8833333
+    },
+    {
+      "cityName": "Caquentra",
+      "lat": 11.0666667,
+      "lng": -15
+    },
+    {
+      "cityName": "Caramacó",
+      "lat": 11.9166667,
+      "lng": -15.5333333
+    },
+    {
+      "cityName": "Carantabà",
+      "lat": 11.7166667,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Caridade",
+      "lat": 12.5333333,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Carura Cherno",
+      "lat": 12.4833333,
+      "lng": -14.4166667
+    },
+    {
+      "cityName": "Casa Nova",
+      "lat": 12.37,
+      "lng": -15.0125
+    },
+    {
+      "cityName": "Casebeche",
+      "lat": 10.9666667,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Cassacá",
+      "lat": 11.05,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Cassafo",
+      "lat": 11.1,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Cassantene",
+      "lat": 11.05,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Cassaprica",
+      "lat": 11.0166667,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Cassate",
+      "lat": 10.9666667,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Cassatiá",
+      "lat": 11.0166667,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Cassèfunda",
+      "lat": 11.1333333,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Cassibà",
+      "lat": 12.3155556,
+      "lng": -15.5358333
+    },
+    {
+      "cityName": "Cassoma",
+      "lat": 11.05,
+      "lng": -15
+    },
+    {
+      "cityName": "Cassumba",
+      "lat": 10.9666667,
+      "lng": -15.1
+    },
+    {
+      "cityName": "Catunai",
+      "lat": 11.1666667,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Catunco",
+      "lat": 11.0333333,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Cã Uérè",
+      "lat": 11.75,
+      "lng": -15.4
+    },
+    {
+      "cityName": "Caurbá",
+      "lat": 12.4452778,
+      "lng": -15.3175
+    },
+    {
+      "cityName": "Caur",
+      "lat": 11.1833333,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Caur de Baixo Balanta",
+      "lat": 11.5,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Caur de Baixo Beafada",
+      "lat": 11.5,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Caurdim",
+      "lat": 12.4505556,
+      "lng": -15.3066667
+    },
+    {
+      "cityName": "Caussara",
+      "lat": 11.1333333,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Cenicó",
+      "lat": 12.4566667,
+      "lng": -15.3511111
+    },
+    {
+      "cityName": "Chacal",
+      "lat": 11.95,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Chafena",
+      "lat": 12.5833333,
+      "lng": -14.4166667
+    },
+    {
+      "cityName": "Chalè",
+      "lat": 12.0477778,
+      "lng": -15.5255556
+    },
+    {
+      "cityName": "Chamarra",
+      "lat": 11.5,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Chambé",
+      "lat": 12.1077778,
+      "lng": -15.4275
+    },
+    {
+      "cityName": "Chanca",
+      "lat": 11.9166667,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Chancol",
+      "lat": 11.5666667,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Chancona",
+      "lat": 11.7333333,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Chancum Sate",
+      "lat": 11.8,
+      "lng": -14.0833333
+    },
+    {
+      "cityName": "Chandanga Beafada",
+      "lat": 11.7666667,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Changael Singálà",
+      "lat": 11.6,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Changalana",
+      "lat": 12.0519444,
+      "lng": -15.1972222
+    },
+    {
+      "cityName": "Changue Bedeta",
+      "lat": 12.0094444,
+      "lng": -15.4683333
+    },
+    {
+      "cityName": "Changue Iaià",
+      "lat": 11.45,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Changue Subal",
+      "lat": 12,
+      "lng": -15.4833333
+    },
+    {
+      "cityName": "Chante",
+      "lat": 11.6666667,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Chápada",
+      "lat": 11.45,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Cherel",
+      "lat": 12.0666667,
+      "lng": -15.0333333
+    },
+    {
+      "cityName": "Chernel Baramboli",
+      "lat": 11.5333333,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Chernel",
+      "lat": 11.5666667,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Chicamiel",
+      "lat": 11.9333333,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Chicri",
+      "lat": 12.05,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Chile",
+      "lat": 12.2038889,
+      "lng": -15.6736111
+    },
+    {
+      "cityName": "Chime",
+      "lat": 11.9666667,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Cholufe",
+      "lat": 11.9666667,
+      "lng": -15.6
+    },
+    {
+      "cityName": "Chompundo",
+      "lat": 12.2322222,
+      "lng": -15.6575
+    },
+    {
+      "cityName": "Chouliga",
+      "lat": 11.8333333,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Chubi",
+      "lat": 11.9666667,
+      "lng": -15.1666667
+    },
+    {
+      "cityName": "Chucudoulo",
+      "lat": 12.0469444,
+      "lng": -15.3336111
+    },
+    {
+      "cityName": "Chuguè",
+      "lat": 11.4166667,
+      "lng": -15.1166667
+    },
+    {
+      "cityName": "Chumael",
+      "lat": 11.6833333,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Chumbume",
+      "lat": 12.1666667,
+      "lng": -15.5
+    },
+    {
+      "cityName": "Cindare",
+      "lat": 12.3833333,
+      "lng": -15.3166667
+    },
+    {
+      "cityName": "Clanqueiala",
+      "lat": 12.1166667,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Claque",
+      "lat": 12.0666667,
+      "lng": -15.3666667
+    },
+    {
+      "cityName": "Clonque",
+      "lat": 12.0680556,
+      "lng": -15.4994444
+    },
+    {
+      "cityName": "Cobete",
+      "lat": 12.55,
+      "lng": -14.5833333
+    },
+    {
+      "cityName": "Coboroto",
+      "lat": 12.5,
+      "lng": -15.1666667
+    },
+    {
+      "cityName": "Coduco",
+      "lat": 12.3180556,
+      "lng": -15.1958333
+    },
+    {
+      "cityName": "Cola",
+      "lat": 11.95,
+      "lng": -15.5166667
+    },
+    {
+      "cityName": "Colebe",
+      "lat": 11.75,
+      "lng": -13.8166667
+    },
+    {
+      "cityName": "Coli Bérè",
+      "lat": 11.9,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Colicunda",
+      "lat": 11.9166667,
+      "lng": -15.1833333
+    },
+    {
+      "cityName": "Coli Ganhà",
+      "lat": 11.9333333,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Colimansacunda",
+      "lat": 12.4230556,
+      "lng": -15.2275
+    },
+    {
+      "cityName": "Colina do Norte",
+      "lat": 12.6666667,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Colinto",
+      "lat": 12.65,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Coli Sara",
+      "lat": 12.3319444,
+      "lng": -15.2694444
+    },
+    {
+      "cityName": "Colobo",
+      "lat": 11.7833333,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Comuda",
+      "lat": 12.3333333,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Concolim",
+      "lat": 12.3705556,
+      "lng": -15.4819444
+    },
+    {
+      "cityName": "Confandinto",
+      "lat": 12.5038889,
+      "lng": -15.3188889
+    },
+    {
+      "cityName": "Contabane",
+      "lat": 11.55,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Contuba",
+      "lat": 12.2469444,
+      "lng": -15.6175
+    },
+    {
+      "cityName": "Contubó",
+      "lat": 12.0688889,
+      "lng": -15.3816667
+    },
+    {
+      "cityName": "Copuda",
+      "lat": 12.65,
+      "lng": -14.2833333
+    },
+    {
+      "cityName": "Corubal",
+      "lat": 11.6833333,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Corubò",
+      "lat": 12.5333333,
+      "lng": -14.6333333
+    },
+    {
+      "cityName": "Cossicunta",
+      "lat": 12.2980556,
+      "lng": -15.5369444
+    },
+    {
+      "cityName": "Crato",
+      "lat": 11.8333333,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Créscimo",
+      "lat": 12.2780556,
+      "lng": -15.6655556
+    },
+    {
+      "cityName": "Cubajal",
+      "lat": 11.85,
+      "lng": -15.15
+    },
+    {
+      "cityName": "Cubane",
+      "lat": 12.2677778,
+      "lng": -15.0986111
+    },
+    {
+      "cityName": "Cuboi",
+      "lat": 12.0352778,
+      "lng": -15.5691667
+    },
+    {
+      "cityName": "Cubonge",
+      "lat": 12.1341667,
+      "lng": -15.3502778
+    },
+    {
+      "cityName": "Cucuto",
+      "lat": 12.3208333,
+      "lng": -15.1255556
+    },
+    {
+      "cityName": "Cudana",
+      "lat": 12.2733333,
+      "lng": -15.2575
+    },
+    {
+      "cityName": "Cufar",
+      "lat": 12.0433333,
+      "lng": -15.3038889
+    },
+    {
+      "cityName": "Cufeu",
+      "lat": 12.4947222,
+      "lng": -15.3841667
+    },
+    {
+      "cityName": "Cugutô",
+      "lat": 12.6333333,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Cuianca",
+      "lat": 12.4333333,
+      "lng": -14.45
+    },
+    {
+      "cityName": "Cumbijã",
+      "lat": 12.6377778,
+      "lng": -15.0688889
+    },
+    {
+      "cityName": "Cumore",
+      "lat": 11.6833333,
+      "lng": -13.75
+    },
+    {
+      "cityName": "Cunacò",
+      "lat": 12.5,
+      "lng": -15
+    },
+    {
+      "cityName": "Cuncana",
+      "lat": 12.6333333,
+      "lng": -14.4166667
+    },
+    {
+      "cityName": "Cuncosita",
+      "lat": 12.5,
+      "lng": -14.5666667
+    },
+    {
+      "cityName": "Cunhoncome",
+      "lat": 12.2686111,
+      "lng": -15.6991667
+    },
+    {
+      "cityName": "Cunji",
+      "lat": 12.3333333,
+      "lng": -14.5
+    },
+    {
+      "cityName": "Cunteda",
+      "lat": 11.9833333,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Cuntima",
+      "lat": 12.6561111,
+      "lng": -15.0002778
+    },
+    {
+      "cityName": "Cuntim",
+      "lat": 11.85,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Curauele",
+      "lat": 12.25,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Curdiá",
+      "lat": 12.4333333,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Cussaná",
+      "lat": 12.0666667,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Cussanja",
+      "lat": 12.0472222,
+      "lng": -15.2883333
+    },
+    {
+      "cityName": "Cussondome",
+      "lat": 12.3308333,
+      "lng": -15.455
+    },
+    {
+      "cityName": "Cutamáro",
+      "lat": 11.75,
+      "lng": -14.2666667
+    },
+    {
+      "cityName": "Cutamaru",
+      "lat": 11.7333333,
+      "lng": -14.3333333
+    },
+    {
+      "cityName": "Cutame",
+      "lat": 12.3666667,
+      "lng": -14.4833333
+    },
+    {
+      "cityName": "Cutiá",
+      "lat": 12.1747222,
+      "lng": -15.2408333
+    },
+    {
+      "cityName": "Dabicunda",
+      "lat": 12.4,
+      "lng": -15.3166667
+    },
+    {
+      "cityName": "Dacale",
+      "lat": 11.75,
+      "lng": -13.9833333
+    },
+    {
+      "cityName": "Dadá",
+      "lat": 11.7666667,
+      "lng": -15.15
+    },
+    {
+      "cityName": "Dàmàli",
+      "lat": 11.75,
+      "lng": -14
+    },
+    {
+      "cityName": "Damberá",
+      "lat": 12.3255556,
+      "lng": -15.5602778
+    },
+    {
+      "cityName": "Damé",
+      "lat": 12.1402778,
+      "lng": -15.3658333
+    },
+    {
+      "cityName": "Dana",
+      "lat": 12.0058333,
+      "lng": -15.3727778
+    },
+    {
+      "cityName": "Danca",
+      "lat": 12.4,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Dando",
+      "lat": 11.5333333,
+      "lng": -15.1833333
+    },
+    {
+      "cityName": "Dando Mandinga",
+      "lat": 12.5,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Dará",
+      "lat": 12.1455556,
+      "lng": -15.4922222
+    },
+    {
+      "cityName": "Daro",
+      "lat": 12.5166667,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Daro Nhaco",
+      "lat": 12.5166667,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Dassalame",
+      "lat": 12.1,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Date",
+      "lat": 11.9666667,
+      "lng": -15.3333333
+    },
+    {
+      "cityName": "Demba Árabe",
+      "lat": 12.0166667,
+      "lng": -14.55
+    },
+    {
+      "cityName": "Demba Cali",
+      "lat": 12.2166667,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Demba Calijè",
+      "lat": 12.0166667,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Demba Chaje",
+      "lat": 12.0333333,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Dembacó Tobá",
+      "lat": 11.9666667,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Demba Dado",
+      "lat": 12.5333333,
+      "lng": -15.15
+    },
+    {
+      "cityName": "Demba",
+      "lat": 11.6666667,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Dembaia",
+      "lat": 12.3166667,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Demba Induro",
+      "lat": 11.9333333,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Demba Iobà",
+      "lat": 11.8833333,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Demba Jágina",
+      "lat": 11.95,
+      "lng": -14.5666667
+    },
+    {
+      "cityName": "Demba Legueel",
+      "lat": 11.9,
+      "lng": -14.6333333
+    },
+    {
+      "cityName": "Demba Leguel",
+      "lat": 11.7166667,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Dembalô",
+      "lat": 11.8833333,
+      "lng": -14.4333333
+    },
+    {
+      "cityName": "Demba Meta",
+      "lat": 11.95,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Demba Só",
+      "lat": 12.3333333,
+      "lng": -15.1680556
+    },
+    {
+      "cityName": "Demba Tacò",
+      "lat": 11.95,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Dembel",
+      "lat": 11.9833333,
+      "lng": -15.15
+    },
+    {
+      "cityName": "Dembel Jule",
+      "lat": 12.2,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Dembel Mólô",
+      "lat": 11.75,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Demosor",
+      "lat": 12.6833333,
+      "lng": -14.3166667
+    },
+    {
+      "cityName": "Dendem",
+      "lat": 12.2880556,
+      "lng": -15.5102778
+    },
+    {
+      "cityName": "Deque",
+      "lat": 12.2333333,
+      "lng": -15.6833333
+    },
+    {
+      "cityName": "Diabuco",
+      "lat": 12.6666667,
+      "lng": -15
+    },
+    {
+      "cityName": "Dinguirai",
+      "lat": 11.7666667,
+      "lng": -13.8666667
+    },
+    {
+      "cityName": "Dinul",
+      "lat": 12.2194444,
+      "lng": -15.6416667
+    },
+    {
+      "cityName": "Díquel",
+      "lat": 11.7666667,
+      "lng": -14.15
+    },
+    {
+      "cityName": "Dirma",
+      "lat": 11.5833333,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Djaéle",
+      "lat": 12.0166667,
+      "lng": -14.45
+    },
+    {
+      "cityName": "Djobicó",
+      "lat": 12.5794444,
+      "lng": -15.2708333
+    },
+    {
+      "cityName": "Dodoco",
+      "lat": 11.85,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Dolombe",
+      "lat": 11.85,
+      "lng": -14.5
+    },
+    {
+      "cityName": "Duà",
+      "lat": 11.7666667,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Dugal",
+      "lat": 11.9833333,
+      "lng": -15.45
+    },
+    {
+      "cityName": "Duldoro",
+      "lat": 11.5666667,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Dulo Gengêle",
+      "lat": 11.8833333,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Duma",
+      "lat": 12.6333333,
+      "lng": -14.4333333
+    },
+    {
+      "cityName": "Dumbo",
+      "lat": 12.6166667,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Dungal",
+      "lat": 12.4833333,
+      "lng": -14.5833333
+    },
+    {
+      "cityName": "Duratiem",
+      "lat": 11.2333333,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Dutajara",
+      "lat": 11.7666667,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Dutató",
+      "lat": 12.3347222,
+      "lng": -15.2222222
+    },
+    {
+      "cityName": "Eboco",
+      "lat": 11.25,
+      "lng": -15.7
+    },
+    {
+      "cityName": "Embalocunda",
+      "lat": 12.0666667,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Embande",
+      "lat": 12.0994444,
+      "lng": -15.5327778
+    },
+    {
+      "cityName": "Embenhe",
+      "lat": 12.3666667,
+      "lng": -15.5666667
+    },
+    {
+      "cityName": "Embunhe",
+      "lat": 12.1591667,
+      "lng": -15.4197222
+    },
+    {
+      "cityName": "Empada",
+      "lat": 11.55,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Empanquinhame",
+      "lat": 12.1844444,
+      "lng": -15.4983333
+    },
+    {
+      "cityName": "Enchalé",
+      "lat": 11.9833333,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Enchanque",
+      "lat": 12.0666667,
+      "lng": -15.4666667
+    },
+    {
+      "cityName": "Encheia",
+      "lat": 12.0636111,
+      "lng": -15.47
+    },
+    {
+      "cityName": "Encherte",
+      "lat": 12.0763889,
+      "lng": -15.5727778
+    },
+    {
+      "cityName": "Enchudé",
+      "lat": 11.8333333,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Enchugal",
+      "lat": 12.0477778,
+      "lng": -15.4383333
+    },
+    {
+      "cityName": "Encome",
+      "lat": 12.0833333,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Endambe",
+      "lat": 12.185,
+      "lng": -15.6577778
+    },
+    {
+      "cityName": "Endasse",
+      "lat": 12.1072222,
+      "lng": -15.3827778
+    },
+    {
+      "cityName": "Endorna",
+      "lat": 11.75,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Enganegane",
+      "lat": 11.95,
+      "lng": -15.6666667
+    },
+    {
+      "cityName": "Ensalmá",
+      "lat": 11.9833333,
+      "lng": -15.6333333
+    },
+    {
+      "cityName": "Ensúmete",
+      "lat": 12.2111111,
+      "lng": -15.6047222
+    },
+    {
+      "cityName": "Entomané",
+      "lat": 10.9666667,
+      "lng": -15.6833333
+    },
+    {
+      "cityName": "Entre Meio",
+      "lat": 12.0333333,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Fá Balanta",
+      "lat": 12.0666667,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Fabur",
+      "lat": 12.1130556,
+      "lng": -15.6383333
+    },
+    {
+      "cityName": "Facã",
+      "lat": 12.4866667,
+      "lng": -15.4544444
+    },
+    {
+      "cityName": "Faer",
+      "lat": 12.5,
+      "lng": -15.3333333
+    },
+    {
+      "cityName": "Fafacó",
+      "lat": 12.4833333,
+      "lng": -15.2
+    },
+    {
+      "cityName": "Fafaje",
+      "lat": 11.4166667,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Fagi",
+      "lat": 12.2780556,
+      "lng": -15.5741667
+    },
+    {
+      "cityName": "Faja",
+      "lat": 12.2833333,
+      "lng": -15.6
+    },
+    {
+      "cityName": "Fajonquito",
+      "lat": 12.2888889,
+      "lng": -15.3208333
+    },
+    {
+      "cityName": "Fakina",
+      "lat": 12.6833333,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Falacunda",
+      "lat": 11.7666667,
+      "lng": -15.1666667
+    },
+    {
+      "cityName": "Fambantã",
+      "lat": 12.5972222,
+      "lng": -15.1775
+    },
+    {
+      "cityName": "Famerege",
+      "lat": 11.8333333,
+      "lng": -13.7666667
+    },
+    {
+      "cityName": "Famora",
+      "lat": 11.4,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Fanca",
+      "lat": 11.8666667,
+      "lng": -14.5166667
+    },
+    {
+      "cityName": "Fanhare",
+      "lat": 12.5383333,
+      "lng": -15.4
+    },
+    {
+      "cityName": "Fanhe",
+      "lat": 12.0341667,
+      "lng": -15.4425
+    },
+    {
+      "cityName": "Farambange",
+      "lat": 11.75,
+      "lng": -14.0166667
+    },
+    {
+      "cityName": "Farancunda Balanta",
+      "lat": 11.5166667,
+      "lng": -15.1833333
+    },
+    {
+      "cityName": "Farancunda Beafada",
+      "lat": 11.55,
+      "lng": -15.1833333
+    },
+    {
+      "cityName": "Farancunda",
+      "lat": 12.4,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Farandito",
+      "lat": 12.4383333,
+      "lng": -15.1555556
+    },
+    {
+      "cityName": "Farená Balanta",
+      "lat": 11.8,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Farená Beafada",
+      "lat": 11.8,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Farim Bali",
+      "lat": 12.5666667,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Farim",
+      "lat": 12.4838889,
+      "lng": -15.2216667
+    },
+    {
+      "cityName": "Farincó",
+      "lat": 12.5166667,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Farincó Fula",
+      "lat": 12.6005556,
+      "lng": -15.2247222
+    },
+    {
+      "cityName": "Farincó Mandinga",
+      "lat": 12.5922222,
+      "lng": -15.2125
+    },
+    {
+      "cityName": "Farol",
+      "lat": 12.3761111,
+      "lng": -15.5091667
+    },
+    {
+      "cityName": "Fasse",
+      "lat": 12.5833333,
+      "lng": -14.3666667
+    },
+    {
+      "cityName": "Fatacó Fula",
+      "lat": 12.5,
+      "lng": -14.5833333
+    },
+    {
+      "cityName": "Fatacó Mandinga",
+      "lat": 12.5,
+      "lng": -14.6
+    },
+    {
+      "cityName": "Fátima",
+      "lat": 12.4,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Fatim",
+      "lat": 12.0108333,
+      "lng": -15.4972222
+    },
+    {
+      "cityName": "Fenimã",
+      "lat": 11.7333333,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Feninquê",
+      "lat": 11.75,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Filaboual",
+      "lat": 11.7333333,
+      "lng": -14.4833333
+    },
+    {
+      "cityName": "Finete",
+      "lat": 12.05,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Fiofioli",
+      "lat": 11.7833333,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Flaque Amedé",
+      "lat": 11.8666667,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Flaque Cibe",
+      "lat": 11.85,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Flaque Dulô",
+      "lat": 11.8666667,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Flaque Indêguetê",
+      "lat": 11.75,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Flaque Infundé",
+      "lat": 12.1102778,
+      "lng": -15.5791667
+    },
+    {
+      "cityName": "Flaque Minde",
+      "lat": 11.8333333,
+      "lng": -15.3666667
+    },
+    {
+      "cityName": "Flaque Sunha",
+      "lat": 11.8166667,
+      "lng": -15.3333333
+    },
+    {
+      "cityName": "Flora",
+      "lat": 11.7666667,
+      "lng": -15.45
+    },
+    {
+      "cityName": "Fodé Siraiá",
+      "lat": 12.4833333,
+      "lng": -15.3166667
+    },
+    {
+      "cityName": "Foia",
+      "lat": 11.8166667,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Foncho",
+      "lat": 12.1055556,
+      "lng": -15.6608333
+    },
+    {
+      "cityName": "Formoso Curto",
+      "lat": 11.6,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Fortim",
+      "lat": 11.9666667,
+      "lng": -15.1333333
+    },
+    {
+      "cityName": "Foto",
+      "lat": 12.2666667,
+      "lng": -15.6833333
+    },
+    {
+      "cityName": "Fula",
+      "lat": 12.5833333,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Fula More",
+      "lat": 12.3833333,
+      "lng": -14.5166667
+    },
+    {
+      "cityName": "Funcor",
+      "lat": 11.95,
+      "lng": -15.2166667
+    },
+    {
+      "cityName": "Gã Chiquinho Mancanha",
+      "lat": 11.85,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Gadabajá",
+      "lat": 11.3,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Gadaboma",
+      "lat": 12.3833333,
+      "lng": -14.4833333
+    },
+    {
+      "cityName": "Gadamael",
+      "lat": 11.2166667,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Gã Farã",
+      "lat": 12.1655556,
+      "lng": -15.2702778
+    },
+    {
+      "cityName": "Gã Formoso",
+      "lat": 11.85,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Gã Gémeos",
+      "lat": 12.0833333,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Gã Gregório",
+      "lat": 11.75,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Gã João",
+      "lat": 11.8666667,
+      "lng": -15.2166667
+    },
+    {
+      "cityName": "Galangoi",
+      "lat": 11.7666667,
+      "lng": -14.3
+    },
+    {
+      "cityName": "Galecunda",
+      "lat": 11.8666667,
+      "lng": -15.3166667
+    },
+    {
+      "cityName": "Galo Corubal",
+      "lat": 11.7833333,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Galo Gega",
+      "lat": 12.6558333,
+      "lng": -15.0683333
+    },
+    {
+      "cityName": "Galoiel",
+      "lat": 11.4833333,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Galomaro",
+      "lat": 11.7,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Galu Cadá",
+      "lat": 12.4666667,
+      "lng": -14.6166667
+    },
+    {
+      "cityName": "Galumaro",
+      "lat": 11.95,
+      "lng": -14.6333333
+    },
+    {
+      "cityName": "Gamã",
+      "lat": 11.4666667,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Gamalã",
+      "lat": 11.7833333,
+      "lng": -15.3166667
+    },
+    {
+      "cityName": "Gamalique",
+      "lat": 11.75,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Gamamadu",
+      "lat": 11.7666667,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Gambácar",
+      "lat": 11.5666667,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Gambachicha",
+      "lat": 11.9,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Gambaná",
+      "lat": 11.9166667,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Gambia",
+      "lat": 12.0561111,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Gambinta",
+      "lat": 11.7166667,
+      "lng": -15.4
+    },
+    {
+      "cityName": "Gam Coli",
+      "lat": 11.7166667,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Gam Jatirá",
+      "lat": 11.7833333,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Gampapa",
+      "lat": 11.9333333,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Gam-Vicente",
+      "lat": 12.0333333,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Gancalanso",
+      "lat": 11.55,
+      "lng": -15.2166667
+    },
+    {
+      "cityName": "Gandabò",
+      "lat": 11.8,
+      "lng": -15.15
+    },
+    {
+      "cityName": "Ganduà Balanta",
+      "lat": 11.4666667,
+      "lng": -15.2
+    },
+    {
+      "cityName": "Ganduá Mandinga",
+      "lat": 11.85,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Ganduà Nalu",
+      "lat": 11.45,
+      "lng": -15.1833333
+    },
+    {
+      "cityName": "Ganduá Porto",
+      "lat": 11.8666667,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Ganfodé Missa",
+      "lat": 11.7,
+      "lng": -15.3166667
+    },
+    {
+      "cityName": "Ganhà Balanta",
+      "lat": 11.75,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Gánhà",
+      "lat": 11.7,
+      "lng": -14.6333333
+    },
+    {
+      "cityName": "Ganhagina",
+      "lat": 12.2,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Ganjeque",
+      "lat": 11.8833333,
+      "lng": -15.15
+    },
+    {
+      "cityName": "Ganjogude",
+      "lat": 12.2941667,
+      "lng": -15.43
+    },
+    {
+      "cityName": "Ganquecuta",
+      "lat": 11.9333333,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Ganquélè",
+      "lat": 11.8833333,
+      "lng": -15.1
+    },
+    {
+      "cityName": "Gansambo",
+      "lat": 11.9166667,
+      "lng": -15.1
+    },
+    {
+      "cityName": "Gansene",
+      "lat": 11.8166667,
+      "lng": -15.1333333
+    },
+    {
+      "cityName": "Gansuleimane",
+      "lat": 11.65,
+      "lng": -15.2833333
+    },
+    {
+      "cityName": "Ganturé",
+      "lat": 11.2333333,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Gã Pedro",
+      "lat": 11.8666667,
+      "lng": -15.3333333
+    },
+    {
+      "cityName": "Garcene",
+      "lat": 11.8666667,
+      "lng": -15.1833333
+    },
+    {
+      "cityName": "Garfanhapa",
+      "lat": 11.8833333,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Gã Saúde",
+      "lat": 11.7333333,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Gã Ualia",
+      "lat": 12.2736111,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Gêbacunda",
+      "lat": 12.4166667,
+      "lng": -15.2902778
+    },
+    {
+      "cityName": "Gendo",
+      "lat": 11.8833333,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Gengêle",
+      "lat": 11.9333333,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Genicó",
+      "lat": 12.45,
+      "lng": -15.3333333
+    },
+    {
+      "cityName": "Gentilame",
+      "lat": 11.8666667,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Gidemo",
+      "lat": 11.9333333,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Ginane",
+      "lat": 12.45,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Gindu",
+      "lat": 12.4030556,
+      "lng": -15.02
+    },
+    {
+      "cityName": "Girota",
+      "lat": 11.95,
+      "lng": -15.65
+    },
+    {
+      "cityName": "Gobige",
+      "lat": 11.6,
+      "lng": -14.35
+    },
+    {
+      "cityName": "Gonege",
+      "lat": 11.8666667,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Gorlige",
+      "lat": 11.7666667,
+      "lng": -14.1333333
+    },
+    {
+      "cityName": "Grancutá",
+      "lat": 12.1844444,
+      "lng": -15.4713889
+    },
+    {
+      "cityName": "Grandumbé",
+      "lat": 12.1666667,
+      "lng": -15.4833333
+    },
+    {
+      "cityName": "Guedaje",
+      "lat": 12.5338889,
+      "lng": -15.4261111
+    },
+    {
+      "cityName": "Guelage Demba",
+      "lat": 11.5333333,
+      "lng": -14.55
+    },
+    {
+      "cityName": "Guerlêel",
+      "lat": 11.8333333,
+      "lng": -14.6166667
+    },
+    {
+      "cityName": "Guilege",
+      "lat": 11.6333333,
+      "lng": -14.3
+    },
+    {
+      "cityName": "Gulcunhe",
+      "lat": 12.2458333,
+      "lng": -15.4336111
+    },
+    {
+      "cityName": "Gundaga Beafada",
+      "lat": 11.9333333,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Gundaguê Futa-Fula",
+      "lat": 11.9166667,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Gunti",
+      "lat": 11.6333333,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Iador",
+      "lat": 12.3666667,
+      "lng": -15.5333333
+    },
+    {
+      "cityName": "Iama",
+      "lat": 12.0166667,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Ianganã",
+      "lat": 12.2166667,
+      "lng": -15.6833333
+    },
+    {
+      "cityName": "Ianguê",
+      "lat": 11.4666667,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Iarã",
+      "lat": 12.3588889,
+      "lng": -15.5158333
+    },
+    {
+      "cityName": "Iaricunda",
+      "lat": 12.0333333,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Iarom",
+      "lat": 12.2297222,
+      "lng": -15.3483333
+    },
+    {
+      "cityName": "Iastem",
+      "lat": 11.0166667,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Ida",
+      "lat": 11.1833333,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Iégi",
+      "lat": 11.8,
+      "lng": -14.4
+    },
+    {
+      "cityName": "Iero Aine",
+      "lat": 11.5333333,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Ierobula",
+      "lat": 11.9833333,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Iero Eguè",
+      "lat": 11.8833333,
+      "lng": -14.6166667
+    },
+    {
+      "cityName": "Ieronhampa",
+      "lat": 12.0166667,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Ierosálè",
+      "lat": 12.0666667,
+      "lng": -14.4833333
+    },
+    {
+      "cityName": "Iero Uri",
+      "lat": 11.5333333,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Imbássina",
+      "lat": 11.9333333,
+      "lng": -15.6166667
+    },
+    {
+      "cityName": "Imboé",
+      "lat": 12.0869444,
+      "lng": -15.4472222
+    },
+    {
+      "cityName": "Impasse",
+      "lat": 12.0591667,
+      "lng": -15.4961111
+    },
+    {
+      "cityName": "Incassol",
+      "lat": 11.7333333,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Inchula",
+      "lat": 12.1952778,
+      "lng": -15.3513889
+    },
+    {
+      "cityName": "Incomené Manjaco",
+      "lat": 11.45,
+      "lng": -15.2
+    },
+    {
+      "cityName": "Indena",
+      "lat": 11.2833333,
+      "lng": -15.7166667
+    },
+    {
+      "cityName": "Indíngarà",
+      "lat": 12.1877778,
+      "lng": -15.3836111
+    },
+    {
+      "cityName": "Infaide",
+      "lat": 12.085,
+      "lng": -15.4825
+    },
+    {
+      "cityName": "Ingume",
+      "lat": 12,
+      "lng": -15.5833333
+    },
+    {
+      "cityName": "Injassane Balanta",
+      "lat": 11.75,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Inorei",
+      "lat": 11.2833333,
+      "lng": -15.6666667
+    },
+    {
+      "cityName": "Inquida",
+      "lat": 12.0325,
+      "lng": -15.53
+    },
+    {
+      "cityName": "Insanhe",
+      "lat": 12.0666667,
+      "lng": -15.4833333
+    },
+    {
+      "cityName": "Insantaque",
+      "lat": 12.1802778,
+      "lng": -15.5822222
+    },
+    {
+      "cityName": "Insonião",
+      "lat": 12.1516667,
+      "lng": -15.4041667
+    },
+    {
+      "cityName": "Intussi",
+      "lat": 11.4666667,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Iofarim",
+      "lat": 12.4041667,
+      "lng": -15.15
+    },
+    {
+      "cityName": "Iongotô",
+      "lat": 12.3072222,
+      "lng": -15.5019444
+    },
+    {
+      "cityName": "Irabato",
+      "lat": 12.43,
+      "lng": -15.2377778
+    },
+    {
+      "cityName": "Iracunda",
+      "lat": 12.2586111,
+      "lng": -15.3255556
+    },
+    {
+      "cityName": "Iusse",
+      "lat": 11.7666667,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Jabadá Beafada",
+      "lat": 11.8,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Jabadá",
+      "lat": 11.8833333,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Jabel",
+      "lat": 12.3161111,
+      "lng": -15.4677778
+    },
+    {
+      "cityName": "Jábia",
+      "lat": 11.8,
+      "lng": -14.15
+    },
+    {
+      "cityName": "Jabicunda",
+      "lat": 11.1666667,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Jada",
+      "lat": 12.1166667,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Jael",
+      "lat": 11.4833333,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Jafo",
+      "lat": 12.6,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Jagali Balanta",
+      "lat": 12.3594444,
+      "lng": -15.4383333
+    },
+    {
+      "cityName": "Jagali Mancanha",
+      "lat": 12.3333333,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Jaimanto",
+      "lat": 12.4,
+      "lng": -14.4833333
+    },
+    {
+      "cityName": "Jai Seidi",
+      "lat": 11.6666667,
+      "lng": -14.6166667
+    },
+    {
+      "cityName": "Jaljalto",
+      "lat": 12.6833333,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Jambácar",
+      "lat": 11.8333333,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Jaribe",
+      "lat": 11.6833333,
+      "lng": -14.1833333
+    },
+    {
+      "cityName": "Jarto",
+      "lat": 12.4666667,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Jatadaca",
+      "lat": 11.6833333,
+      "lng": -14.2833333
+    },
+    {
+      "cityName": "Jaubè Sanicha",
+      "lat": 11.4833333,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Jemadé",
+      "lat": 12.6333333,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Jifim",
+      "lat": 11.7833333,
+      "lng": -14.3666667
+    },
+    {
+      "cityName": "Jimba",
+      "lat": 12.0261111,
+      "lng": -15.3094444
+    },
+    {
+      "cityName": "Joboiá",
+      "lat": 12.3666667,
+      "lng": -15.2833333
+    },
+    {
+      "cityName": "Jobonhama",
+      "lat": 11.55,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Jongali",
+      "lat": 12.5333333,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Jongo",
+      "lat": 12.4333333,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Jufá",
+      "lat": 11.8,
+      "lng": -15.3333333
+    },
+    {
+      "cityName": "Jufará",
+      "lat": 12.4333333,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Jugudul Com",
+      "lat": 12.005,
+      "lng": -15.5175
+    },
+    {
+      "cityName": "Jumbembem",
+      "lat": 12.5736111,
+      "lng": -15.0938889
+    },
+    {
+      "cityName": "Labé",
+      "lat": 11.2333333,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Làli Buàró",
+      "lat": 11.7333333,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Lamane",
+      "lat": 11.6833333,
+      "lng": -15.1833333
+    },
+    {
+      "cityName": "Lamanezinho",
+      "lat": 11.6666667,
+      "lng": -15.1666667
+    },
+    {
+      "cityName": "Lambã",
+      "lat": 12.6522222,
+      "lng": -15.2347222
+    },
+    {
+      "cityName": "Lamoi",
+      "lat": 12.2233333,
+      "lng": -15.0813889
+    },
+    {
+      "cityName": "Late",
+      "lat": 12.0769444,
+      "lng": -15.4472222
+    },
+    {
+      "cityName": "Leibe Manga Tambá",
+      "lat": 11.7166667,
+      "lng": -14.1
+    },
+    {
+      "cityName": "Lembi",
+      "lat": 11.7333333,
+      "lng": -14.0833333
+    },
+    {
+      "cityName": "Lendene",
+      "lat": 12.2002778,
+      "lng": -15.4852778
+    },
+    {
+      "cityName": "Lengueel",
+      "lat": 12.55,
+      "lng": -14.6
+    },
+    {
+      "cityName": "Lenquebembè",
+      "lat": 12.6666667,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Lenquetó",
+      "lat": 11.6166667,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Leto",
+      "lat": 12.3777778,
+      "lng": -15.3958333
+    },
+    {
+      "cityName": "Libari",
+      "lat": 12.2652778,
+      "lng": -15.5588889
+    },
+    {
+      "cityName": "Lípete",
+      "lat": 12.2333333,
+      "lng": -15.55
+    },
+    {
+      "cityName": "Locher",
+      "lat": 12.0316667,
+      "lng": -15.2683333
+    },
+    {
+      "cityName": "Lomé",
+      "lat": 12.0666667,
+      "lng": -15.3166667
+    },
+    {
+      "cityName": "Loré",
+      "lat": 12.1166667,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Louvado",
+      "lat": 11.75,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Lubacunda",
+      "lat": 12.3758333,
+      "lng": -15.3283333
+    },
+    {
+      "cityName": "Lugajole",
+      "lat": 11.8,
+      "lng": -13.85
+    },
+    {
+      "cityName": "Luguré",
+      "lat": 11.8,
+      "lng": -14.1166667
+    },
+    {
+      "cityName": "Lumbutugô",
+      "lat": 11.5,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Mabarro",
+      "lat": 12.3166667,
+      "lng": -15.3333333
+    },
+    {
+      "cityName": "Maca",
+      "lat": 12.3,
+      "lng": -15.3333333
+    },
+    {
+      "cityName": "Macazinho",
+      "lat": 12.3086111,
+      "lng": -15.3638889
+    },
+    {
+      "cityName": "Madane",
+      "lat": 12.1938889,
+      "lng": -15.3155556
+    },
+    {
+      "cityName": "Madelife",
+      "lat": 12.1166667,
+      "lng": -15.65
+    },
+    {
+      "cityName": "Madina Ali",
+      "lat": 11.95,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Madina Banjara",
+      "lat": 12.2333333,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Madina Bantael",
+      "lat": 12.5333333,
+      "lng": -14.4666667
+    },
+    {
+      "cityName": "Madina Colhida",
+      "lat": 11.95,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Madina Demba Seidi",
+      "lat": 12.6666667,
+      "lng": -14.4666667
+    },
+    {
+      "cityName": "Madina Dongo",
+      "lat": 11.6166667,
+      "lng": -14.45
+    },
+    {
+      "cityName": "Madina Fodè",
+      "lat": 12.4666667,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Madina Fula",
+      "lat": 12.3833333,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Madina Jama",
+      "lat": 12.5166667,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Madina",
+      "lat": 11.1666667,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Madina Mamadu",
+      "lat": 11.9,
+      "lng": -14.5833333
+    },
+    {
+      "cityName": "Madina Mamadu Sanussi",
+      "lat": 12.6166667,
+      "lng": -14.3333333
+    },
+    {
+      "cityName": "Madina Mandinga",
+      "lat": 12.3727778,
+      "lng": -15.2597222
+    },
+    {
+      "cityName": "Madina Samba Balè",
+      "lat": 12.6666667,
+      "lng": -15.0333333
+    },
+    {
+      "cityName": "Madina Samba",
+      "lat": 12.4,
+      "lng": -14.4666667
+    },
+    {
+      "cityName": "Madina Tabage",
+      "lat": 11.6833333,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Madina Tembébè",
+      "lat": 11.85,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Malafo",
+      "lat": 12.0155556,
+      "lng": -15.0330556
+    },
+    {
+      "cityName": "Malandim",
+      "lat": 12.05,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Malibolim",
+      "lat": 12.43,
+      "lng": -15.4786111
+    },
+    {
+      "cityName": "Malíbula",
+      "lat": 11.55,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Mali Bula",
+      "lat": 11.9333333,
+      "lng": -14.5833333
+    },
+    {
+      "cityName": "Mamadi",
+      "lat": 11.9,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Mamanjai",
+      "lat": 12,
+      "lng": -14.6
+    },
+    {
+      "cityName": "Mamboncò",
+      "lat": 12.2469444,
+      "lng": -15.2011111
+    },
+    {
+      "cityName": "Mampalá",
+      "lat": 11.6333333,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Mampatá Bacirgo",
+      "lat": 11.5166667,
+      "lng": -14.6166667
+    },
+    {
+      "cityName": "Mampatanal",
+      "lat": 11.4333333,
+      "lng": -15.1333333
+    },
+    {
+      "cityName": "Manaca",
+      "lat": 12.2455556,
+      "lng": -15.3288889
+    },
+    {
+      "cityName": "Manaca Mancanha",
+      "lat": 12.2666667,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Manà",
+      "lat": 12.0833333,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Manambo",
+      "lat": 12.25,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Manatò",
+      "lat": 12.4666667,
+      "lng": -14.5833333
+    },
+    {
+      "cityName": "Manchau",
+      "lat": 12.2927778,
+      "lng": -15.0997222
+    },
+    {
+      "cityName": "Mancofine",
+      "lat": 12.1166667,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Mancunda",
+      "lat": 12.4419444,
+      "lng": -15.3436111
+    },
+    {
+      "cityName": "Mandejano",
+      "lat": 11.8333333,
+      "lng": -14.5333333
+    },
+    {
+      "cityName": "Mandialia",
+      "lat": 12.4569444,
+      "lng": -15.4297222
+    },
+    {
+      "cityName": "Mandingará",
+      "lat": 12.1708333,
+      "lng": -15.1936111
+    },
+    {
+      "cityName": "Manfonhe",
+      "lat": 12.5166667,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Mangai",
+      "lat": 11.8166667,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Manga",
+      "lat": 12.0677778,
+      "lng": -15.5619444
+    },
+    {
+      "cityName": "Mangicai",
+      "lat": 12.25,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Maninhã",
+      "lat": 12.4475,
+      "lng": -15.0863889
+    },
+    {
+      "cityName": "Manjanom",
+      "lat": 12.4,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Mansabá",
+      "lat": 12.2919444,
+      "lng": -15.1827778
+    },
+    {
+      "cityName": "Mansabandim",
+      "lat": 12.15,
+      "lng": -15.1972222
+    },
+    {
+      "cityName": "Mansacunda",
+      "lat": 12.4594444,
+      "lng": -15.4047222
+    },
+    {
+      "cityName": "Mansaina",
+      "lat": 12.35,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Mansambo",
+      "lat": 11.8833333,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Mansancrim",
+      "lat": 12.1333333,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Mansasunto",
+      "lat": 12.2727778,
+      "lng": -15.1708333
+    },
+    {
+      "cityName": "Mansidi",
+      "lat": 12.45,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Mansôa",
+      "lat": 12.0733333,
+      "lng": -15.3188889
+    },
+    {
+      "cityName": "Mansodé",
+      "lat": 12.2641667,
+      "lng": -15.2155556
+    },
+    {
+      "cityName": "Mansomine",
+      "lat": 12.1833333,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Mansoná",
+      "lat": 12.1833333,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Mantampa",
+      "lat": 11.8333333,
+      "lng": -15.3333333
+    },
+    {
+      "cityName": "Mantasegui",
+      "lat": 12.5333333,
+      "lng": -14.6
+    },
+    {
+      "cityName": "Mantefa",
+      "lat": 12.1055556,
+      "lng": -15.32
+    },
+    {
+      "cityName": "Mantem",
+      "lat": 12.105,
+      "lng": -15.1130556
+    },
+    {
+      "cityName": "Mantida",
+      "lat": 12.3033333,
+      "lng": -15.0677778
+    },
+    {
+      "cityName": "Marecunda",
+      "lat": 12.3388889,
+      "lng": -15.4027778
+    },
+    {
+      "cityName": "Maricanhe",
+      "lat": 11.9166667,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Massa",
+      "lat": 12.5333333,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Matar",
+      "lat": 12.3455556,
+      "lng": -15.5088889
+    },
+    {
+      "cityName": "Mato Madeira",
+      "lat": 12.0833333,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Mato Vaz",
+      "lat": 12.4869444,
+      "lng": -15.1861111
+    },
+    {
+      "cityName": "Máximo",
+      "lat": 11.65,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Mejo",
+      "lat": 11.3666667,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Meneque",
+      "lat": 11.2333333,
+      "lng": -15.7
+    },
+    {
+      "cityName": "Mereburum",
+      "lat": 11.35,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Méro",
+      "lat": 12.0666667,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Metandiame",
+      "lat": 11.6833333,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Metanhancã",
+      "lat": 11.9833333,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Mil",
+      "lat": 12.2333333,
+      "lng": -15.5166667
+    },
+    {
+      "cityName": "Mina",
+      "lat": 11.8,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Mindodo",
+      "lat": 12.29,
+      "lng": -15.3508333
+    },
+    {
+      "cityName": "Missirá Ama Sidi",
+      "lat": 12.6666667,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Missirá Balanta",
+      "lat": 11.5166667,
+      "lng": -15.2166667
+    },
+    {
+      "cityName": "Missirá Beafada",
+      "lat": 11.55,
+      "lng": -15.2
+    },
+    {
+      "cityName": "Missirá de Baixo",
+      "lat": 12,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Missirá Jancó",
+      "lat": 12.6166667,
+      "lng": -15.0333333
+    },
+    {
+      "cityName": "Missirá",
+      "lat": 11.2,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Moia Fará",
+      "lat": 12.2333333,
+      "lng": -15.3666667
+    },
+    {
+      "cityName": "Mòlô",
+      "lat": 11.85,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Mone",
+      "lat": 12.2655556,
+      "lng": -15.4577778
+    },
+    {
+      "cityName": "Monte Cristo",
+      "lat": 11.95,
+      "lng": -15.6333333
+    },
+    {
+      "cityName": "Morés",
+      "lat": 12.2447222,
+      "lng": -15.2755556
+    },
+    {
+      "cityName": "Munhine",
+      "lat": 11.95,
+      "lng": -14.5833333
+    },
+    {
+      "cityName": "Munhini",
+      "lat": 11.75,
+      "lng": -13.9333333
+    },
+    {
+      "cityName": "Muno",
+      "lat": 12.2505556,
+      "lng": -15.5847222
+    },
+    {
+      "cityName": "Mussà Iero",
+      "lat": 11.8666667,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Nã Balanta",
+      "lat": 11.8,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Nafo",
+      "lat": 11.9333333,
+      "lng": -15.2
+    },
+    {
+      "cityName": "Nafula",
+      "lat": 12.3069444,
+      "lng": -15.5547222
+    },
+    {
+      "cityName": "Naga de Baixo",
+      "lat": 12.2341667,
+      "lng": -15.6994444
+    },
+    {
+      "cityName": "Nagate",
+      "lat": 12.3522222,
+      "lng": -15.5738889
+    },
+    {
+      "cityName": "Nague",
+      "lat": 11.95,
+      "lng": -15.4833333
+    },
+    {
+      "cityName": "Naguena",
+      "lat": 12.2166667,
+      "lng": -15.4
+    },
+    {
+      "cityName": "Nã Mancanha",
+      "lat": 11.7833333,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Namedão",
+      "lat": 12.15,
+      "lng": -15.4
+    },
+    {
+      "cityName": "Nauanhe",
+      "lat": 11.7333333,
+      "lng": -15.3333333
+    },
+    {
+      "cityName": "Nemanacó",
+      "lat": 12.2708333,
+      "lng": -15.3013889
+    },
+    {
+      "cityName": "Nematabá",
+      "lat": 12.3833333,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Nhabala",
+      "lat": 11.6166667,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Nhabijão Bedinca",
+      "lat": 12.0166667,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Nhabijão Belabate",
+      "lat": 12.0333333,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Nhabijão Imbume",
+      "lat": 12.0166667,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Nhabijão Mancanha",
+      "lat": 12.0333333,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Nhacaré",
+      "lat": 12.65,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Nhacra Teda",
+      "lat": 11.9833333,
+      "lng": -15.5666667
+    },
+    {
+      "cityName": "Nhaé",
+      "lat": 12.1266667,
+      "lng": -15.3930556
+    },
+    {
+      "cityName": "Nhai",
+      "lat": 11.4,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Nhala de Baixo",
+      "lat": 11.7166667,
+      "lng": -15.5
+    },
+    {
+      "cityName": "Nhala de Cima",
+      "lat": 11.75,
+      "lng": -15.4833333
+    },
+    {
+      "cityName": "Nhamate",
+      "lat": 12.0886111,
+      "lng": -15.5675
+    },
+    {
+      "cityName": "Nhamburã",
+      "lat": 12.4480556,
+      "lng": -15.185
+    },
+    {
+      "cityName": "Nhandofo",
+      "lat": 11.65,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Nhané",
+      "lat": 12.3608333,
+      "lng": -15.4066667
+    },
+    {
+      "cityName": "Nhanga",
+      "lat": 12.4,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Nhangasia",
+      "lat": 12.3,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Nhantáfarà",
+      "lat": 11.5833333,
+      "lng": -14.3833333
+    },
+    {
+      "cityName": "Nhantandim",
+      "lat": 12.5333333,
+      "lng": -14.5666667
+    },
+    {
+      "cityName": "Nhenque",
+      "lat": 12.0691667,
+      "lng": -15.6088889
+    },
+    {
+      "cityName": "Nhime",
+      "lat": 12.1605556,
+      "lng": -15.1658333
+    },
+    {
+      "cityName": "Nhoma",
+      "lat": 11.9833333,
+      "lng": -15.5833333
+    },
+    {
+      "cityName": "Nhome",
+      "lat": 11.7166667,
+      "lng": -15.1666667
+    },
+    {
+      "cityName": "Nimane",
+      "lat": 12.0975,
+      "lng": -15.4086111
+    },
+    {
+      "cityName": "Norobanta Fula",
+      "lat": 12.6172222,
+      "lng": -15.0527778
+    },
+    {
+      "cityName": "Norobanta Mandinga",
+      "lat": 12.6244444,
+      "lng": -15.0669444
+    },
+    {
+      "cityName": "Nuncute",
+      "lat": 12.5,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Oco Grande",
+      "lat": 11.9333333,
+      "lng": -15.5166667
+    },
+    {
+      "cityName": "Ogoiel",
+      "lat": 11.55,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Olom",
+      "lat": 12.1163889,
+      "lng": -15.2419444
+    },
+    {
+      "cityName": "Olossate",
+      "lat": 12.3197222,
+      "lng": -15.3286111
+    },
+    {
+      "cityName": "Ompabe",
+      "lat": 12.1630556,
+      "lng": -15.5841667
+    },
+    {
+      "cityName": "Ore Cajaje",
+      "lat": 11.6666667,
+      "lng": -14.2333333
+    },
+    {
+      "cityName": "Ossadú",
+      "lat": 11.75,
+      "lng": -15.1333333
+    },
+    {
+      "cityName": "Outra Banda",
+      "lat": 12.2166667,
+      "lng": -15.4666667
+    },
+    {
+      "cityName": "Pache",
+      "lat": 12.0611111,
+      "lng": -15.635
+    },
+    {
+      "cityName": "Padada",
+      "lat": 11.95,
+      "lng": -14.4333333
+    },
+    {
+      "cityName": "Padim",
+      "lat": 12.5166667,
+      "lng": -14.45
+    },
+    {
+      "cityName": "Paiai Gaidê",
+      "lat": 11.7833333,
+      "lng": -14.3333333
+    },
+    {
+      "cityName": "Paiai Lêmenei",
+      "lat": 11.8666667,
+      "lng": -14.4333333
+    },
+    {
+      "cityName": "Paiai Numbà",
+      "lat": 11.8333333,
+      "lng": -14.4166667
+    },
+    {
+      "cityName": "Paiama",
+      "lat": 12.6,
+      "lng": -14.3333333
+    },
+    {
+      "cityName": "Paile",
+      "lat": 12.1,
+      "lng": -15.6
+    },
+    {
+      "cityName": "Palibaque",
+      "lat": 11.9666667,
+      "lng": -15.2833333
+    },
+    {
+      "cityName": "Pampaire",
+      "lat": 11.0833333,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Pampe",
+      "lat": 11.6333333,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Panalicha",
+      "lat": 12.5666667,
+      "lng": -14.4666667
+    },
+    {
+      "cityName": "Panambo",
+      "lat": 12.6166667,
+      "lng": -14.5666667
+    },
+    {
+      "cityName": "Paroldade",
+      "lat": 11.3333333,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Passe",
+      "lat": 12.2311111,
+      "lng": -15.5338889
+    },
+    {
+      "cityName": "Pate Buià",
+      "lat": 11.9666667,
+      "lng": -14.6
+    },
+    {
+      "cityName": "Patè Embalô",
+      "lat": 11.5666667,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Patè Gidè",
+      "lat": 12.1333333,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Pate Inde",
+      "lat": 11.7,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Pate Jájà",
+      "lat": 11.9666667,
+      "lng": -14.6166667
+    },
+    {
+      "cityName": "Pate Jau",
+      "lat": 11.7,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Pate Seide",
+      "lat": 11.95,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Paunca",
+      "lat": 12,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Petum Dubi",
+      "lat": 11.7333333,
+      "lng": -13.7666667
+    },
+    {
+      "cityName": "Pijame",
+      "lat": 11.7166667,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Plaque Intela",
+      "lat": 11.75,
+      "lng": -15.45
+    },
+    {
+      "cityName": "Poindão",
+      "lat": 11.95,
+      "lng": -15
+    },
+    {
+      "cityName": "Ponta Adriano",
+      "lat": 11.9666667,
+      "lng": -15.6333333
+    },
+    {
+      "cityName": "Ponta Barbosa",
+      "lat": 12.0833333,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Ponta Bernardo Soares",
+      "lat": 11.9166667,
+      "lng": -15.6166667
+    },
+    {
+      "cityName": "Ponta Boa Esperança",
+      "lat": 12.4166667,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Ponta Cabral",
+      "lat": 12.4166667,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Ponta Caeiro",
+      "lat": 12.4833333,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Ponta Camilo",
+      "lat": 12.4666667,
+      "lng": -15.1833333
+    },
+    {
+      "cityName": "Ponta Cumanda",
+      "lat": 12.4166667,
+      "lng": -15.1166667
+    },
+    {
+      "cityName": "Ponta Dangã",
+      "lat": 12.45,
+      "lng": -15.1833333
+    },
+    {
+      "cityName": "Ponta Doce",
+      "lat": 12.5333333,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Ponta do Inglês",
+      "lat": 11.9166667,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Ponta Duarte",
+      "lat": 12.5,
+      "lng": -15.15
+    },
+    {
+      "cityName": "Ponta Forse",
+      "lat": 11.6166667,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Ponta Francisco Monteiro",
+      "lat": 12.4333333,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Ponta Gomes",
+      "lat": 11.9333333,
+      "lng": -15.5833333
+    },
+    {
+      "cityName": "Ponta Inácia",
+      "lat": 12.4166667,
+      "lng": -15.1333333
+    },
+    {
+      "cityName": "Ponta João da Silva",
+      "lat": 11.8833333,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Ponta Joaquim Pereira",
+      "lat": 12.45,
+      "lng": -15.0333333
+    },
+    {
+      "cityName": "Ponta Luís Dias",
+      "lat": 11.8666667,
+      "lng": -15.0333333
+    },
+    {
+      "cityName": "Ponta Luís",
+      "lat": 12.0333333,
+      "lng": -15
+    },
+    {
+      "cityName": "Ponta Mamadu",
+      "lat": 12,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Ponta Manuel",
+      "lat": 11.7833333,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Ponta Penoi",
+      "lat": 12.4666667,
+      "lng": -15.0333333
+    },
+    {
+      "cityName": "Ponta Roberto Cordeiro",
+      "lat": 12.05,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Ponta Rocha",
+      "lat": 11.9333333,
+      "lng": -15.65
+    },
+    {
+      "cityName": "Ponta Sinoi",
+      "lat": 12.4627778,
+      "lng": -15.1716667
+    },
+    {
+      "cityName": "Ponta Tinta",
+      "lat": 11.6166667,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Ponta Umbome",
+      "lat": 12.5166667,
+      "lng": -15.1833333
+    },
+    {
+      "cityName": "Ponta Varela",
+      "lat": 11.95,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Ponte do Corubal",
+      "lat": 11.6666667,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Porto",
+      "lat": 12.4666667,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Porto Saico",
+      "lat": 11.6333333,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Portugal",
+      "lat": 11.7333333,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Priame",
+      "lat": 11.7833333,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Purómala",
+      "lat": 11.5166667,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Quebacó",
+      "lat": 12.6386111,
+      "lng": -15.2686111
+    },
+    {
+      "cityName": "Quèbègi",
+      "lat": 11.8,
+      "lng": -13.7166667
+    },
+    {
+      "cityName": "Quebel",
+      "lat": 11.7166667,
+      "lng": -14.55
+    },
+    {
+      "cityName": "Queber",
+      "lat": 11.8666667,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Quebo",
+      "lat": 11.3333333,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Queca",
+      "lat": 12.0166667,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Queficine",
+      "lat": 12.2666667,
+      "lng": -15.6666667
+    },
+    {
+      "cityName": "Quendò",
+      "lat": 12.4333333,
+      "lng": -14.6333333
+    },
+    {
+      "cityName": "Queneje",
+      "lat": 11.7,
+      "lng": -14
+    },
+    {
+      "cityName": "Quenem",
+      "lat": 12.2283333,
+      "lng": -15.6444444
+    },
+    {
+      "cityName": "Quenhaque",
+      "lat": 12.0655556,
+      "lng": -15.3527778
+    },
+    {
+      "cityName": "Quenhato",
+      "lat": 12.5419444,
+      "lng": -15.4011111
+    },
+    {
+      "cityName": "Quenhequenheto",
+      "lat": 12.1513889,
+      "lng": -15.2166667
+    },
+    {
+      "cityName": "Quenticó",
+      "lat": 12.1,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Querene",
+      "lat": 12.13,
+      "lng": -15.2730556
+    },
+    {
+      "cityName": "Quérè",
+      "lat": 12,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Queroane",
+      "lat": 11.8166667,
+      "lng": -15
+    },
+    {
+      "cityName": "Quérol",
+      "lat": 11.2666667,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Quessana",
+      "lat": 11.7,
+      "lng": -15.1833333
+    },
+    {
+      "cityName": "Quessaque",
+      "lat": 12.1166667,
+      "lng": -15.2833333
+    },
+    {
+      "cityName": "Quessasse",
+      "lat": 12.1077778,
+      "lng": -15.6105556
+    },
+    {
+      "cityName": "Quêuel",
+      "lat": 11.5333333,
+      "lng": -14.6
+    },
+    {
+      "cityName": "Quibir",
+      "lat": 11.9833333,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Quide",
+      "lat": 11.9333333,
+      "lng": -15.5666667
+    },
+    {
+      "cityName": "Quigiba",
+      "lat": 11.7333333,
+      "lng": -14.3666667
+    },
+    {
+      "cityName": "Quijim",
+      "lat": 12.2955556,
+      "lng": -15.5669444
+    },
+    {
+      "cityName": "Quinhaque",
+      "lat": 12.1813889,
+      "lng": -15.4369444
+    },
+    {
+      "cityName": "Quique",
+      "lat": 12.3833333,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Quirafo",
+      "lat": 11.7166667,
+      "lng": -14.5333333
+    },
+    {
+      "cityName": "Quissanque",
+      "lat": 12.0511111,
+      "lng": -15.5352778
+    },
+    {
+      "cityName": "Quissem",
+      "lat": 11.8666667,
+      "lng": -13.7333333
+    },
+    {
+      "cityName": "Quitamo",
+      "lat": 12.0702778,
+      "lng": -15.5494444
+    },
+    {
+      "cityName": "Reino de Jal",
+      "lat": 11.9166667,
+      "lng": -15.6333333
+    },
+    {
+      "cityName": "Rocene",
+      "lat": 11.9666667,
+      "lng": -15.5166667
+    },
+    {
+      "cityName": "Rogunhe",
+      "lat": 12.2675,
+      "lng": -15.6358333
+    },
+    {
+      "cityName": "Rossin",
+      "lat": 12.0130556,
+      "lng": -15.4163889
+    },
+    {
+      "cityName": "Rucuto",
+      "lat": 11.95,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Sàala",
+      "lat": 11.5333333,
+      "lng": -14.5333333
+    },
+    {
+      "cityName": "Sábà",
+      "lat": 12.1266667,
+      "lng": -15.2891667
+    },
+    {
+      "cityName": "Sabere Capege",
+      "lat": 11.7,
+      "lng": -14.2333333
+    },
+    {
+      "cityName": "Sabére Dandun",
+      "lat": 11.7166667,
+      "lng": -14.2166667
+    },
+    {
+      "cityName": "Sabere Quebegi",
+      "lat": 11.8,
+      "lng": -13.75
+    },
+    {
+      "cityName": "Sabere Usman",
+      "lat": 11.7333333,
+      "lng": -14.2
+    },
+    {
+      "cityName": "Sádejar de Binar",
+      "lat": 12.135,
+      "lng": -15.6025
+    },
+    {
+      "cityName": "Sádejar de Naga",
+      "lat": 12.2172222,
+      "lng": -15.7002778
+    },
+    {
+      "cityName": "Salamina",
+      "lat": 11.7333333,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Salà",
+      "lat": 12.15,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Sálià",
+      "lat": 11.9833333,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Salifo",
+      "lat": 11.7833333,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Saliguinhe-din",
+      "lat": 12.4527778,
+      "lng": -15.22
+    },
+    {
+      "cityName": "Salinto Madinga",
+      "lat": 12.3402778,
+      "lng": -15.3655556
+    },
+    {
+      "cityName": "Saliquinhé",
+      "lat": 11.15,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Samadim",
+      "lat": 12.64,
+      "lng": -15.1269444
+    },
+    {
+      "cityName": "Samaré",
+      "lat": 11.8666667,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Samba Árabe",
+      "lat": 11.9333333,
+      "lng": -14.5
+    },
+    {
+      "cityName": "Samba Candè",
+      "lat": 11.8,
+      "lng": -14.5333333
+    },
+    {
+      "cityName": "Samba Cumbera",
+      "lat": 11.9333333,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Samba Cunda",
+      "lat": 12.6833333,
+      "lng": -14.5833333
+    },
+    {
+      "cityName": "Samba Jula",
+      "lat": 11.9833333,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Sambalé",
+      "lat": 11.95,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Sambalicunda",
+      "lat": 12.5833333,
+      "lng": -14.55
+    },
+    {
+      "cityName": "Sambanco",
+      "lat": 11.6333333,
+      "lng": -15.1666667
+    },
+    {
+      "cityName": "Samba Silate",
+      "lat": 12,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Samba Si",
+      "lat": 11.5333333,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Sambel Berendim",
+      "lat": 11.75,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Sambel Bérè",
+      "lat": 11.8666667,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Sambel Cocara",
+      "lat": 12.0166667,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Samboi",
+      "lat": 12.45,
+      "lng": -15.45
+    },
+    {
+      "cityName": "Sambuià",
+      "lat": 11.9166667,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Sambulacunda",
+      "lat": 12.2666667,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Saminhancho",
+      "lat": 11.75,
+      "lng": -14.1
+    },
+    {
+      "cityName": "Samoje",
+      "lat": 12.4830556,
+      "lng": -15.4786111
+    },
+    {
+      "cityName": "Sana Marum",
+      "lat": 11.65,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Sancalancó",
+      "lat": 12.5266667,
+      "lng": -15.1988889
+    },
+    {
+      "cityName": "Sancancôto",
+      "lat": 12.4263889,
+      "lng": -15.3725
+    },
+    {
+      "cityName": "Sanconhá",
+      "lat": 11.1666667,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Sancorlá",
+      "lat": 11.8333333,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Sandamena",
+      "lat": 12.4166667,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Sanècunda",
+      "lat": 12.5666667,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Sanganabè",
+      "lat": 11.6,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Sangare",
+      "lat": 12.6166667,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Sanguê Demba Danejo",
+      "lat": 11.8666667,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Sanhu Abasse",
+      "lat": 11.7,
+      "lng": -14.6166667
+    },
+    {
+      "cityName": "Sanincha",
+      "lat": 11.65,
+      "lng": -15.2
+    },
+    {
+      "cityName": "Sanjalo",
+      "lat": 12.5,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Sano",
+      "lat": 12.2836111,
+      "lng": -15.6205556
+    },
+    {
+      "cityName": "Sansabato",
+      "lat": 12.265,
+      "lng": -15.3475
+    },
+    {
+      "cityName": "Sansancuta",
+      "lat": 11.9833333,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Sansanto",
+      "lat": 12.1144444,
+      "lng": -15.2827778
+    },
+    {
+      "cityName": "Santa Helena",
+      "lat": 12.05,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Santambato",
+      "lat": 12.2244444,
+      "lng": -15.2430556
+    },
+    {
+      "cityName": "Santancoto",
+      "lat": 12.4175,
+      "lng": -15.4177778
+    },
+    {
+      "cityName": "Santanto",
+      "lat": 12.3166667,
+      "lng": -15.2686111
+    },
+    {
+      "cityName": "São Belchior",
+      "lat": 12.0166667,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "São Iero Maro",
+      "lat": 12.3833333,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "São João",
+      "lat": 12.4333333,
+      "lng": -15.35
+    },
+    {
+      "cityName": "São Miguel Balanta",
+      "lat": 11.5,
+      "lng": -15.2166667
+    },
+    {
+      "cityName": "São Miguel Beafada",
+      "lat": 11.5,
+      "lng": -15.2
+    },
+    {
+      "cityName": "Sara Mamadi",
+      "lat": 12.6833333,
+      "lng": -14.4166667
+    },
+    {
+      "cityName": "Sarancho",
+      "lat": 12,
+      "lng": -14.5833333
+    },
+    {
+      "cityName": "Saranculè",
+      "lat": 11.8833333,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Sárà",
+      "lat": 12.1338889,
+      "lng": -15.0838889
+    },
+    {
+      "cityName": "Sarauol",
+      "lat": 12.1166667,
+      "lng": -15.1166667
+    },
+    {
+      "cityName": "Sare Abdulai",
+      "lat": 11.6333333,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Sare Adè",
+      "lat": 11.9833333,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Sare Alabato",
+      "lat": 12.6333333,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Saré Alió",
+      "lat": 12.6666667,
+      "lng": -14.5
+    },
+    {
+      "cityName": "Sare Ali",
+      "lat": 11.5666667,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Sare Anambé",
+      "lat": 12.6833333,
+      "lng": -15
+    },
+    {
+      "cityName": "Sare Andem",
+      "lat": 12.55,
+      "lng": -14.55
+    },
+    {
+      "cityName": "Sare Arafã",
+      "lat": 12.6333333,
+      "lng": -15.0333333
+    },
+    {
+      "cityName": "Sare Bácar",
+      "lat": 12.6666667,
+      "lng": -14.4333333
+    },
+    {
+      "cityName": "Sare Baldè",
+      "lat": 12.6166667,
+      "lng": -15.1
+    },
+    {
+      "cityName": "Sare Baradi",
+      "lat": 12.6166667,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Sare Béssè",
+      "lat": 12.4,
+      "lng": -14.5833333
+    },
+    {
+      "cityName": "Sare Birai",
+      "lat": 12.5166667,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Sare Birom",
+      "lat": 12.5666667,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Sare Bori",
+      "lat": 12.6330556,
+      "lng": -15.1016667
+    },
+    {
+      "cityName": "Sare Bucò",
+      "lat": 12.4333333,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Sare Canta",
+      "lat": 12.45,
+      "lng": -14.55
+    },
+    {
+      "cityName": "Sare Chumbo",
+      "lat": 12.4166667,
+      "lng": -14.55
+    },
+    {
+      "cityName": "Sare Chumo",
+      "lat": 12.4166667,
+      "lng": -14.4666667
+    },
+    {
+      "cityName": "Sare Cobà",
+      "lat": 12.5666667,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Sare Cole Embalo",
+      "lat": 12.5166667,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Sare Cole",
+      "lat": 12.6166667,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Sare Coli Cebô",
+      "lat": 12.6788889,
+      "lng": -15.0097222
+    },
+    {
+      "cityName": "Sare Cubè",
+      "lat": 12.6833333,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Sare Curael",
+      "lat": 12.4,
+      "lng": -14.5666667
+    },
+    {
+      "cityName": "Sare Cuta Penda",
+      "lat": 12.5166667,
+      "lng": -14.5666667
+    },
+    {
+      "cityName": "Sare Dabel",
+      "lat": 12.4666667,
+      "lng": -14.5666667
+    },
+    {
+      "cityName": "Sare Delo",
+      "lat": 11.6666667,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Sare Demanda",
+      "lat": 12.5166667,
+      "lng": -14.5333333
+    },
+    {
+      "cityName": "Sare Demba Embalô",
+      "lat": 12.6630556,
+      "lng": -15.22
+    },
+    {
+      "cityName": "Sare Demba",
+      "lat": 12.5213889,
+      "lng": -15.0766667
+    },
+    {
+      "cityName": "Sare Demba Taquel",
+      "lat": 12.6658333,
+      "lng": -15.0175
+    },
+    {
+      "cityName": "Sare Dembel",
+      "lat": 12.6666667,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Sare Dicò",
+      "lat": 12.4666667,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Sare Díurè",
+      "lat": 12.6,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Sare Endurè",
+      "lat": 12.5,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Sare Gánhà",
+      "lat": 12.4333333,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Sare Geno",
+      "lat": 12.4833333,
+      "lng": -14.6333333
+    },
+    {
+      "cityName": "Sare Guidere Baldè",
+      "lat": 12.65,
+      "lng": -15
+    },
+    {
+      "cityName": "Sare Guigui",
+      "lat": 12.6166667,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Sare Iero Embalô",
+      "lat": 12.5166667,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Sare Iero Jau",
+      "lat": 12.55,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Sare Iero",
+      "lat": 12.3333333,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Sare Ioba",
+      "lat": 12.5166667,
+      "lng": -15.2330556
+    },
+    {
+      "cityName": "Sare Iunca",
+      "lat": 11.7166667,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Sare Jaba",
+      "lat": 12.5833333,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Sare Jaja",
+      "lat": 12.6166667,
+      "lng": -15.1191667
+    },
+    {
+      "cityName": "Sare Jambarã",
+      "lat": 12.5166667,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Sare Jancó",
+      "lat": 12.5166667,
+      "lng": -15
+    },
+    {
+      "cityName": "Sare Janque",
+      "lat": 12.6833333,
+      "lng": -14.3666667
+    },
+    {
+      "cityName": "Sare Japu",
+      "lat": 12.3333333,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Sare Jeta",
+      "lat": 12.5333333,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Sare Jobo",
+      "lat": 12.2861111,
+      "lng": -15.1591667
+    },
+    {
+      "cityName": "Sare Jomel",
+      "lat": 12.6833333,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Sare Lale",
+      "lat": 11.8,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Sare Lamine",
+      "lat": 12.5755556,
+      "lng": -15.1183333
+    },
+    {
+      "cityName": "Sare Leão",
+      "lat": 12.6061111,
+      "lng": -15.0916667
+    },
+    {
+      "cityName": "Sare Mali",
+      "lat": 12.6666667,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Sare Mamadi",
+      "lat": 12.6333333,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Sare Mamude",
+      "lat": 12.5166667,
+      "lng": -14.7166667
+    },
+    {
+      "cityName": "Sare Mancamã",
+      "lat": 12.5608333,
+      "lng": -15.3347222
+    },
+    {
+      "cityName": "Sare Meta Boído",
+      "lat": 12.4333333,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Sare Morijã",
+      "lat": 12.4666667,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Sare Mórsô",
+      "lat": 11.3666667,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Sare Mulai",
+      "lat": 12.55,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Sare Mussá",
+      "lat": 12.4,
+      "lng": -15.1
+    },
+    {
+      "cityName": "Sare Nhaco",
+      "lat": 11.5333333,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Sare Nhanhala",
+      "lat": 12.45,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Sare Ôgò",
+      "lat": 11.7166667,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Sare Pate",
+      "lat": 12.2663889,
+      "lng": -15.1402778
+    },
+    {
+      "cityName": "Sare Pati",
+      "lat": 12.6833333,
+      "lng": -14.4833333
+    },
+    {
+      "cityName": "Sare Quecuta",
+      "lat": 12.6030556,
+      "lng": -15.0522222
+    },
+    {
+      "cityName": "Sare Saco",
+      "lat": 12.4833333,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Sare Saído Mijaca",
+      "lat": 12.65,
+      "lng": -14.55
+    },
+    {
+      "cityName": "Sare Sajau",
+      "lat": 12.6333333,
+      "lng": -15.1166667
+    },
+    {
+      "cityName": "Sare Salum",
+      "lat": 12.5833333,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Sare Samba Fil",
+      "lat": 12.6344444,
+      "lng": -15.0302778
+    },
+    {
+      "cityName": "Sare Samba Iafa",
+      "lat": 12.595,
+      "lng": -15.0558333
+    },
+    {
+      "cityName": "Sare Samba Seidi",
+      "lat": 12.4922222,
+      "lng": -15.1158333
+    },
+    {
+      "cityName": "Sare Sambujã",
+      "lat": 12.6,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Sare Sofe",
+      "lat": 12.6833333,
+      "lng": -15.15
+    },
+    {
+      "cityName": "Sare Soriã",
+      "lat": 12.6333333,
+      "lng": -15.1666667
+    },
+    {
+      "cityName": "Sare Tambà",
+      "lat": 12.2333333,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Sare Tenem Jongali",
+      "lat": 12.5386111,
+      "lng": -15.0672222
+    },
+    {
+      "cityName": "Sare Tombom",
+      "lat": 12.65,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Sare Tumaná",
+      "lat": 12.65,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Sare Uale",
+      "lat": 12.65,
+      "lng": -14.6166667
+    },
+    {
+      "cityName": "Sare Ulá",
+      "lat": 12.5333333,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Sarubè",
+      "lat": 12.2833333,
+      "lng": -15.5519444
+    },
+    {
+      "cityName": "Satecuta",
+      "lat": 11.4833333,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Saucunda",
+      "lat": 12.3666667,
+      "lng": -14.5333333
+    },
+    {
+      "cityName": "Sau",
+      "lat": 12,
+      "lng": -15.55
+    },
+    {
+      "cityName": "Seché",
+      "lat": 11.95,
+      "lng": -15.2
+    },
+    {
+      "cityName": "Seco Braima",
+      "lat": 11.7666667,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Secuta",
+      "lat": 11.6833333,
+      "lng": -15.2333333
+    },
+    {
+      "cityName": "Seicuro",
+      "lat": 12.5333333,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Sejo",
+      "lat": 12.05,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Sele Sele",
+      "lat": 11.6333333,
+      "lng": -14.4666667
+    },
+    {
+      "cityName": "Sentà",
+      "lat": 11.7,
+      "lng": -13.8
+    },
+    {
+      "cityName": "Serração Amaro",
+      "lat": 12.4333333,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Serração",
+      "lat": 12.1683333,
+      "lng": -15.2336111
+    },
+    {
+      "cityName": "Serra Leoa",
+      "lat": 11.6833333,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Sibérè",
+      "lat": 12.5833333,
+      "lng": -14.5
+    },
+    {
+      "cityName": "Sibicunto",
+      "lat": 12.3666667,
+      "lng": -15.3666667
+    },
+    {
+      "cityName": "Sibijã Fula",
+      "lat": 12.55,
+      "lng": -14.4666667
+    },
+    {
+      "cityName": "Sibijã Mandinga",
+      "lat": 12.5333333,
+      "lng": -14.45
+    },
+    {
+      "cityName": "Siliquinhé",
+      "lat": 12.5,
+      "lng": -14.4333333
+    },
+    {
+      "cityName": "Simbor",
+      "lat": 12.3405556,
+      "lng": -15.1427778
+    },
+    {
+      "cityName": "Sinchã Bácari",
+      "lat": 12.35,
+      "lng": -14.5
+    },
+    {
+      "cityName": "Sinchã Bácar",
+      "lat": 12.5,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Sinchã Bambè",
+      "lat": 11.8666667,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Sinchã Banir",
+      "lat": 12.1666667,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Sinchã Bessunha",
+      "lat": 12.0125,
+      "lng": -15.1244444
+    },
+    {
+      "cityName": "Sinchã Birom",
+      "lat": 12.4666667,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Sinchã Bobo",
+      "lat": 12.4333333,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Sinchã Boché",
+      "lat": 11.9166667,
+      "lng": -14.5666667
+    },
+    {
+      "cityName": "Sinchã Boébè",
+      "lat": 12.2166667,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Sinchã Bolô",
+      "lat": 12.2333333,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Sinchã Bota",
+      "lat": 12.5666667,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Sinchã Buco",
+      "lat": 12.4666667,
+      "lng": -15
+    },
+    {
+      "cityName": "Sinchã Camúnè",
+      "lat": 12.4666667,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Sinchã Cantabá",
+      "lat": 12.4666667,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Sinchâ Cibo",
+      "lat": 12.6,
+      "lng": -14.35
+    },
+    {
+      "cityName": "Sinchã Comandante",
+      "lat": 11.7,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Sinchã Corga",
+      "lat": 11.7,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Sinchã Corubal",
+      "lat": 12.05,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Sinchã Dele",
+      "lat": 11.9333333,
+      "lng": -14.6333333
+    },
+    {
+      "cityName": "Sinchã Demambi",
+      "lat": 12.5666667,
+      "lng": -14.6
+    },
+    {
+      "cityName": "Sinchã Demba Uri",
+      "lat": 12.4666667,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Sinchã Dulõ",
+      "lat": 11.7333333,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Sinchã Duntum",
+      "lat": 11.9,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Sinchã Êrê",
+      "lat": 12.4833333,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Sincha Eri",
+      "lat": 12.5333333,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Sinchã Faja",
+      "lat": 11.9833333,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Sinchã Fajonquito",
+      "lat": 12.6833333,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Sinchã Fodè Jau",
+      "lat": 12.6666667,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Sinchã Folonco",
+      "lat": 12.4333333,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Sinchã Fugà",
+      "lat": 12.6666667,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Sinchã Gobudu",
+      "lat": 12.5166667,
+      "lng": -14.6
+    },
+    {
+      "cityName": "Sinchã Guelà",
+      "lat": 12.6833333,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Sinchã Iàiá",
+      "lat": 12,
+      "lng": -14.5333333
+    },
+    {
+      "cityName": "Sinchã Ierobá",
+      "lat": 11.9166667,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Sinchã Infali",
+      "lat": 11.8666667,
+      "lng": -14.8333333
+    },
+    {
+      "cityName": "Sinchã Iobà",
+      "lat": 11.9833333,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Sinchã Jai",
+      "lat": 12.0666667,
+      "lng": -14.4333333
+    },
+    {
+      "cityName": "Sinchã Jaubè",
+      "lat": 11.5166667,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Sinchã Labi",
+      "lat": 11.6666667,
+      "lng": -14.6666667
+    },
+    {
+      "cityName": "Sinchã Laibe",
+      "lat": 12.3833333,
+      "lng": -14.5
+    },
+    {
+      "cityName": "Sinchã Lamine",
+      "lat": 11.9833333,
+      "lng": -14.6
+    },
+    {
+      "cityName": "Sinchã Leuro",
+      "lat": 11.9833333,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Sinchã Lumbato",
+      "lat": 12.45,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Sinchã Madina Ierò",
+      "lat": 12.5833333,
+      "lng": -14.3333333
+    },
+    {
+      "cityName": "Sinchã Madina",
+      "lat": 12.0513889,
+      "lng": -15.035
+    },
+    {
+      "cityName": "Sinchã Madiu",
+      "lat": 11.6833333,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Sinchã Mamadi",
+      "lat": 11.8333333,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Sinchã Mamajã",
+      "lat": 11.9666667,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Sinchã Mansaroto",
+      "lat": 12.4833333,
+      "lng": -15.1333333
+    },
+    {
+      "cityName": "Sinchã Massa",
+      "lat": 12.5333333,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Sinchã Maundè Nhanjô",
+      "lat": 11.7166667,
+      "lng": -14.6333333
+    },
+    {
+      "cityName": "Sinchã Meta",
+      "lat": 12.285,
+      "lng": -15.0577778
+    },
+    {
+      "cityName": "Sincham Mussa",
+      "lat": 11.9666667,
+      "lng": -14.65
+    },
+    {
+      "cityName": "Sinchã Mumine",
+      "lat": 12.3166667,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Sinchã Mussa",
+      "lat": 11.9166667,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Sinchã Nhacori",
+      "lat": 11.9333333,
+      "lng": -14.6166667
+    },
+    {
+      "cityName": "Sinchã Patè",
+      "lat": 11.7166667,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Sinchã Queba",
+      "lat": 12,
+      "lng": -14.6333333
+    },
+    {
+      "cityName": "Sinchã Queta",
+      "lat": 12.45,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Sinchã Salum",
+      "lat": 12.5166667,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Sinchã Sambaite",
+      "lat": 11.9833333,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Sinchã Samba Jã Jã",
+      "lat": 11.7666667,
+      "lng": -14.3833333
+    },
+    {
+      "cityName": "Sinchã Sambeli",
+      "lat": 12.3333333,
+      "lng": -14.4833333
+    },
+    {
+      "cityName": "Sinchã Sambel",
+      "lat": 12.0333333,
+      "lng": -14.8166667
+    },
+    {
+      "cityName": "Sinchã Seidi",
+      "lat": 12.5166667,
+      "lng": -15.2666667
+    },
+    {
+      "cityName": "Sinchã Seluel",
+      "lat": 11.9333333,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Sinchã Sólò",
+      "lat": 12.55,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Sinchã Sori",
+      "lat": 11.9,
+      "lng": -14.5666667
+    },
+    {
+      "cityName": "Sinchã Tontò",
+      "lat": 12.6333333,
+      "lng": -14.55
+    },
+    {
+      "cityName": "Sinchã Tota",
+      "lat": 12.6333333,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Sinchã Usso",
+      "lat": 11.9166667,
+      "lng": -14.6333333
+    },
+    {
+      "cityName": "Sinchum",
+      "lat": 11.65,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Sinchuro Paraual",
+      "lat": 11.7166667,
+      "lng": -14.0333333
+    },
+    {
+      "cityName": "Sinchuro",
+      "lat": 11.3666667,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Singa",
+      "lat": 12.0938889,
+      "lng": -15.1955556
+    },
+    {
+      "cityName": "Sinre",
+      "lat": 12.1822222,
+      "lng": -15.3302778
+    },
+    {
+      "cityName": "Sissau",
+      "lat": 12.2,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Sobeá",
+      "lat": 12.5355556,
+      "lng": -15.1205556
+    },
+    {
+      "cityName": "Sogume",
+      "lat": 12.0383333,
+      "lng": -15.3541667
+    },
+    {
+      "cityName": "Solinto",
+      "lat": 12.4019444,
+      "lng": -15.2705556
+    },
+    {
+      "cityName": "Soluco",
+      "lat": 12.5833333,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Somatabon",
+      "lat": 11.1166667,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Sonco",
+      "lat": 11.7,
+      "lng": -14.55
+    },
+    {
+      "cityName": "Sorguidê",
+      "lat": 11.6833333,
+      "lng": -14.6333333
+    },
+    {
+      "cityName": "Sorimone",
+      "lat": 12.2408333,
+      "lng": -15.4897222
+    },
+    {
+      "cityName": "Sorioriá",
+      "lat": 11.2666667,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Sototon",
+      "lat": 12.4666667,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Suarecunda",
+      "lat": 12.1922222,
+      "lng": -15.1638889
+    },
+    {
+      "cityName": "Sucutoto",
+      "lat": 12.5,
+      "lng": -15.1833333
+    },
+    {
+      "cityName": "Sudo Lêgal",
+      "lat": 11.7166667,
+      "lng": -14.1333333
+    },
+    {
+      "cityName": "Sugé",
+      "lat": 11.9666667,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Sumabanta",
+      "lat": 12.4833333,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Sumbundo",
+      "lat": 12.6333333,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Sunà",
+      "lat": 12.4666667,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Surire",
+      "lat": 11.6,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Tabacó",
+      "lat": 12.4333333,
+      "lng": -15.15
+    },
+    {
+      "cityName": "Tabanane",
+      "lat": 12.5666667,
+      "lng": -14.5
+    },
+    {
+      "cityName": "Tabandinto",
+      "lat": 11.95,
+      "lng": -14.7666667
+    },
+    {
+      "cityName": "Tabató",
+      "lat": 11.5833333,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Tade",
+      "lat": 11.0333333,
+      "lng": -14.95
+    },
+    {
+      "cityName": "Tafor",
+      "lat": 11,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Taibatà",
+      "lat": 11.9666667,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Taláià",
+      "lat": 11.2333333,
+      "lng": -14.9
+    },
+    {
+      "cityName": "Talata",
+      "lat": 12,
+      "lng": -14.8
+    },
+    {
+      "cityName": "Talicó",
+      "lat": 12.2113889,
+      "lng": -15.2775
+    },
+    {
+      "cityName": "Taliuará",
+      "lat": 11.9833333,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Tamanto",
+      "lat": 12.4727778,
+      "lng": -15.3372222
+    },
+    {
+      "cityName": "Tama",
+      "lat": 12.1336111,
+      "lng": -15.5783333
+    },
+    {
+      "cityName": "Tambaio",
+      "lat": 12.2005556,
+      "lng": -15.2588889
+    },
+    {
+      "cityName": "Tambandinto",
+      "lat": 12.5108333,
+      "lng": -15.0077778
+    },
+    {
+      "cityName": "Tambato Mandinga",
+      "lat": 12.4258333,
+      "lng": -15.2766667
+    },
+    {
+      "cityName": "Tambicó",
+      "lat": 12.4363889,
+      "lng": -15.0522222
+    },
+    {
+      "cityName": "Tangali",
+      "lat": 11.6666667,
+      "lng": -14.75
+    },
+    {
+      "cityName": "Tarige",
+      "lat": 11.8333333,
+      "lng": -13.7333333
+    },
+    {
+      "cityName": "Tebedè",
+      "lat": 12.2169444,
+      "lng": -15.6713889
+    },
+    {
+      "cityName": "Tébè",
+      "lat": 11.7833333,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Tehé",
+      "lat": 12.2211111,
+      "lng": -15.5025
+    },
+    {
+      "cityName": "Témato",
+      "lat": 12.1666667,
+      "lng": -14.8666667
+    },
+    {
+      "cityName": "Tencolom",
+      "lat": 11.8666667,
+      "lng": -14.5833333
+    },
+    {
+      "cityName": "Tendinto",
+      "lat": 11.6666667,
+      "lng": -14.7333333
+    },
+    {
+      "cityName": "Tento",
+      "lat": 12.3833333,
+      "lng": -15.0977778
+    },
+    {
+      "cityName": "Tinca",
+      "lat": 12.1,
+      "lng": -15.45
+    },
+    {
+      "cityName": "Tita Sambo",
+      "lat": 12.45,
+      "lng": -15.0166667
+    },
+    {
+      "cityName": "Tite",
+      "lat": 11.7833333,
+      "lng": -15.4
+    },
+    {
+      "cityName": "Tobacuta",
+      "lat": 11.8333333,
+      "lng": -14.9833333
+    },
+    {
+      "cityName": "Tonsongi",
+      "lat": 11.5666667,
+      "lng": -14.6
+    },
+    {
+      "cityName": "Toroje",
+      "lat": 12.3,
+      "lng": -14.9166667
+    },
+    {
+      "cityName": "Tubadim",
+      "lat": 11.1,
+      "lng": -14.9333333
+    },
+    {
+      "cityName": "Tumaná",
+      "lat": 11.8833333,
+      "lng": -15.0666667
+    },
+    {
+      "cityName": "Tumaneia",
+      "lat": 12.2833333,
+      "lng": -14.9666667
+    },
+    {
+      "cityName": "Tungina",
+      "lat": 12.4411111,
+      "lng": -15.2466667
+    },
+    {
+      "cityName": "Turrà",
+      "lat": 11.6833333,
+      "lng": -14.6166667
+    },
+    {
+      "cityName": "Uabe",
+      "lat": 12.25,
+      "lng": -15.5166667
+    },
+    {
+      "cityName": "Uacaba",
+      "lat": 11.95,
+      "lng": -14.6166667
+    },
+    {
+      "cityName": "Uac",
+      "lat": 12.0252778,
+      "lng": -15.3819444
+    },
+    {
+      "cityName": "Ualia",
+      "lat": 12.2833333,
+      "lng": -15.4833333
+    },
+    {
+      "cityName": "Ualicunda",
+      "lat": 12.65,
+      "lng": -14.6833333
+    },
+    {
+      "cityName": "Uali Sachà",
+      "lat": 11.35,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Uame",
+      "lat": 11.85,
+      "lng": -15.05
+    },
+    {
+      "cityName": "Uaná Beafada",
+      "lat": 11.75,
+      "lng": -15.0833333
+    },
+    {
+      "cityName": "Uanandim",
+      "lat": 11.7166667,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Uanquelim",
+      "lat": 12.1363889,
+      "lng": -15.4136111
+    },
+    {
+      "cityName": "Uápete",
+      "lat": 12.0841667,
+      "lng": -15.5997222
+    },
+    {
+      "cityName": "Uaqueri",
+      "lat": 12.2666667,
+      "lng": -15.5333333
+    },
+    {
+      "cityName": "Uarancanda",
+      "lat": 12.4166667,
+      "lng": -15.3166667
+    },
+    {
+      "cityName": "Uatiné",
+      "lat": 12.2063889,
+      "lng": -15.4483333
+    },
+    {
+      "cityName": "Udamo",
+      "lat": 12.2666667,
+      "lng": -15.6
+    },
+    {
+      "cityName": "Udasse",
+      "lat": 12.4016667,
+      "lng": -15.4338889
+    },
+    {
+      "cityName": "Udjégui",
+      "lat": 12.4977778,
+      "lng": -15.4066667
+    },
+    {
+      "cityName": "Uélia",
+      "lat": 11.95,
+      "lng": -14.8833333
+    },
+    {
+      "cityName": "Uenquem",
+      "lat": 12.1330556,
+      "lng": -15.4280556
+    },
+    {
+      "cityName": "Uensacó",
+      "lat": 12.6316667,
+      "lng": -15.2788889
+    },
+    {
+      "cityName": "Ufudé",
+      "lat": 12.4827778,
+      "lng": -15.3030556
+    },
+    {
+      "cityName": "Ululo",
+      "lat": 12.3025,
+      "lng": -15.5802778
+    },
+    {
+      "cityName": "Umaro Cossé",
+      "lat": 11.9833333,
+      "lng": -14.5833333
+    },
+    {
+      "cityName": "Umaro Jaia",
+      "lat": 11.85,
+      "lng": -14.55
+    },
+    {
+      "cityName": "Umaro Penda",
+      "lat": 12.5166667,
+      "lng": -14.4166667
+    },
+    {
+      "cityName": "Umaru Helà",
+      "lat": 11.5666667,
+      "lng": -14.7833333
+    },
+    {
+      "cityName": "Umbassá",
+      "lat": 11.75,
+      "lng": -15.25
+    },
+    {
+      "cityName": "Umbã",
+      "lat": 11.85,
+      "lng": -15.1666667
+    },
+    {
+      "cityName": "Unche",
+      "lat": 12.0241667,
+      "lng": -15.6230556
+    },
+    {
+      "cityName": "Unchute",
+      "lat": 12.1666667,
+      "lng": -15.4666667
+    },
+    {
+      "cityName": "Uncire",
+      "lat": 11.6666667,
+      "lng": -14.3666667
+    },
+    {
+      "cityName": "Undarim",
+      "lat": 12.2461111,
+      "lng": -15.3777778
+    },
+    {
+      "cityName": "Ungro",
+      "lat": 12.0405556,
+      "lng": -15.4855556
+    },
+    {
+      "cityName": "Unsirè",
+      "lat": 11.2666667,
+      "lng": -14.85
+    },
+    {
+      "cityName": "Ura Missirá",
+      "lat": 11.6666667,
+      "lng": -14.7
+    },
+    {
+      "cityName": "Vendu Leidi",
+      "lat": 11.75,
+      "lng": -13.7166667
+    },
+    {
+      "cityName": "Viana",
+      "lat": 11.2333333,
+      "lng": -14.8833333
+    }
+  ]
+}

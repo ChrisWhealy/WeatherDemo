@@ -1,0 +1,43 @@
+{
+  "name": "Denmark",
+  "iso2": "dk",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Hovedstaden",
+      "id": 0
+    },
+    {
+      "name": "Midtjylland",
+      "id": 1
+    },
+    {
+      "name": "Nordjylland",
+      "id": 2
+    },
+    {
+      "name": "Sjelland",
+      "id": 3
+    },
+    {
+      "name": "Syddanmark",
+      "id": 4
+    }
+  ],
+  "geoRectangle": {
+    "West": 8.07560920715,
+    "East": 15.1588354111,
+    "North": 57.74842453,
+    "South": 54.5623817444
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Copenhagen",
+    "GeoPt": [
+      55.4,
+      12.35
+    ]
+  }
+}

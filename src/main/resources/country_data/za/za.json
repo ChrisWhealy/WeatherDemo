@@ -1,0 +1,67 @@
+{
+  "name": "South Africa",
+  "iso2": "za",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Eastern Cape",
+      "id": 0
+    },
+    {
+      "name": "Free State",
+      "id": 1
+    },
+    {
+      "name": "Gauteng",
+      "id": 2
+    },
+    {
+      "name": "KwaZulu-Natal",
+      "id": 3
+    },
+    {
+      "name": "Limpopo",
+      "id": 4
+    },
+    {
+      "name": "Mpumalanga",
+      "id": 5
+    },
+    {
+      "name": "North-West",
+      "id": 6
+    },
+    {
+      "name": "North-Western Province",
+      "id": 7
+    },
+    {
+      "name": "Northern Cape",
+      "id": 8
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 9
+    },
+    {
+      "name": "Western Cape",
+      "id": 10
+    }
+  ],
+  "geoRectangle": {
+    "West": 16.4580173492,
+    "East": 32.8959770203,
+    "North": -22.1266098022,
+    "South": -34.8398323059
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Pretoria",
+    "GeoPt": [
+      -25.42,
+      28.13
+    ]
+  }
+}

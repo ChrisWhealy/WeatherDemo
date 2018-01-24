@@ -1,0 +1,47 @@
+{
+  "name": "Belarus",
+  "iso2": "by",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Brestskaya Voblasts'",
+      "id": 0
+    },
+    {
+      "name": "Homyel'skaya Voblasts'",
+      "id": 1
+    },
+    {
+      "name": "Hrodzyenskaya Voblasts'",
+      "id": 2
+    },
+    {
+      "name": "Mahilyowskaya Voblasts'",
+      "id": 3
+    },
+    {
+      "name": "Minsk",
+      "id": 4
+    },
+    {
+      "name": "Vitsyebskaya Voblasts'",
+      "id": 5
+    }
+  ],
+  "geoRectangle": {
+    "West": 23.1768856049,
+    "East": 32.7708091736,
+    "North": 56.165813446,
+    "South": 51.2564086914
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Minsk",
+    "GeoPt": [
+      53.54,
+      27.34
+    ]
+  }
+}

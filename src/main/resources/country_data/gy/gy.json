@@ -1,0 +1,63 @@
+{
+  "name": "Guyana",
+  "iso2": "gy",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Barima-Waini",
+      "id": 0
+    },
+    {
+      "name": "Cuyuni-Mazaruni",
+      "id": 1
+    },
+    {
+      "name": "Demerara-Mahaica",
+      "id": 2
+    },
+    {
+      "name": "East Berbice-Corentyne",
+      "id": 3
+    },
+    {
+      "name": "Essequibo Islands-West Demerara",
+      "id": 4
+    },
+    {
+      "name": "Mahaica-Berbice",
+      "id": 5
+    },
+    {
+      "name": "Pomeroon-Supenaam",
+      "id": 6
+    },
+    {
+      "name": "Potaro-Siparuni",
+      "id": 7
+    },
+    {
+      "name": "Upper Demerara-Berbice",
+      "id": 8
+    },
+    {
+      "name": "Upper Takutu-Upper Essequibo",
+      "id": 9
+    }
+  ],
+  "geoRectangle": {
+    "West": -61.3847694397,
+    "East": -56.4802436829,
+    "North": 8.55756855011,
+    "South": 1.17507982254
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -4,
+    "Flg": 2,
+    "Name": "Georgetown",
+    "GeoPt": [
+      6.48,
+      -58.1
+    ]
+  }
+}

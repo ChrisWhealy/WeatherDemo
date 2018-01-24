@@ -1,0 +1,6450 @@
+{
+  "name": "Lombardia",
+  "cities": [
+    {
+      "cityName": "Abbadia Lariana",
+      "lat": 45.9,
+      "lng": 9.333333
+    },
+    {
+      "cityName": "Abbiategrasso",
+      "lat": 45.4,
+      "lng": 8.9
+    },
+    {
+      "cityName": "Acquafredda",
+      "lat": 45.3,
+      "lng": 10.4
+    },
+    {
+      "cityName": "Acqualunga",
+      "lat": 45.316667,
+      "lng": 9.95
+    },
+    {
+      "cityName": "Adro",
+      "lat": 45.616667,
+      "lng": 9.95
+    },
+    {
+      "cityName": "Agaro",
+      "lat": 46.216667,
+      "lng": 8.2
+    },
+    {
+      "cityName": "Agnadello",
+      "lat": 45.45,
+      "lng": 9.55
+    },
+    {
+      "cityName": "Agrano",
+      "lat": 45.85,
+      "lng": 8.416667
+    },
+    {
+      "cityName": "Agrate",
+      "lat": 45.566667,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Agrosa",
+      "lat": 46.116667,
+      "lng": 8.133333
+    },
+    {
+      "cityName": "Airuno",
+      "lat": 45.75,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Alagna",
+      "lat": 45.166667,
+      "lng": 8.883333
+    },
+    {
+      "cityName": "Alagua",
+      "lat": 46.2,
+      "lng": 8.333333
+    },
+    {
+      "cityName": "Albano",
+      "lat": 45.683333,
+      "lng": 9.766667
+    },
+    {
+      "cityName": "Albaredo",
+      "lat": 45.083333,
+      "lng": 9.25
+    },
+    {
+      "cityName": "Albaredo per San Marco",
+      "lat": 46.1,
+      "lng": 9.583333
+    },
+    {
+      "cityName": "Albate",
+      "lat": 45.783333,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Albiate",
+      "lat": 45.65,
+      "lng": 9.25
+    },
+    {
+      "cityName": "Albignano",
+      "lat": 45.5,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Albino",
+      "lat": 45.766667,
+      "lng": 9.783333
+    },
+    {
+      "cityName": "Albizzate",
+      "lat": 45.733333,
+      "lng": 8.8
+    },
+    {
+      "cityName": "Albonico",
+      "lat": 46.2,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Albuzzano",
+      "lat": 45.183333,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Alfiano Nuovo",
+      "lat": 45.233333,
+      "lng": 10.116667
+    },
+    {
+      "cityName": "Al Geccio",
+      "lat": 46.1,
+      "lng": 8.433333
+    },
+    {
+      "cityName": "Alino",
+      "lat": 45.85,
+      "lng": 9.633333
+    },
+    {
+      "cityName": "Almè",
+      "lat": 45.733333,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Almenno San Bartolomeo",
+      "lat": 45.75,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Almenno San Salvatore",
+      "lat": 45.75,
+      "lng": 9.583333
+    },
+    {
+      "cityName": "Al Passo",
+      "lat": 46.316667,
+      "lng": 8.383333
+    },
+    {
+      "cityName": "Alpe Acquanegra",
+      "lat": 46.266667,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Alpe Airale",
+      "lat": 46.233333,
+      "lng": 9.766667
+    },
+    {
+      "cityName": "Alpe Balma Rossa",
+      "lat": 46.4,
+      "lng": 8.4
+    },
+    {
+      "cityName": "Alpe Basciumo",
+      "lat": 46.05,
+      "lng": 8.233333
+    },
+    {
+      "cityName": "Alpe Basso",
+      "lat": 46.1,
+      "lng": 8.45
+    },
+    {
+      "cityName": "Alpe Busarasca",
+      "lat": 46.05,
+      "lng": 8.483333
+    },
+    {
+      "cityName": "Alpe Caldenno",
+      "lat": 46.2,
+      "lng": 9.75
+    },
+    {
+      "cityName": "Alpe Campo",
+      "lat": 46.05,
+      "lng": 8.45
+    },
+    {
+      "cityName": "Alpe Campolomana",
+      "lat": 46.1,
+      "lng": 8.066667
+    },
+    {
+      "cityName": "Alpe Campolungo",
+      "lat": 46.283333,
+      "lng": 9.9
+    },
+    {
+      "cityName": "Alpe Casarolo",
+      "lat": 46.05,
+      "lng": 8.4
+    },
+    {
+      "cityName": "Alpe Cavegna",
+      "lat": 46.233333,
+      "lng": 8.45
+    },
+    {
+      "cityName": "Alpe Cazzola",
+      "lat": 46.166667,
+      "lng": 8.416667
+    },
+    {
+      "cityName": "Alpe Cheggio",
+      "lat": 46.083333,
+      "lng": 8.116667
+    },
+    {
+      "cityName": "Alpe Ciamporino",
+      "lat": 46.266667,
+      "lng": 8.2
+    },
+    {
+      "cityName": "Alpe Col",
+      "lat": 46.166667,
+      "lng": 8.366667
+    },
+    {
+      "cityName": "Alpe Cortefreddo",
+      "lat": 46.233333,
+      "lng": 8.383333
+    },
+    {
+      "cityName": "Alpe Cortelancio",
+      "lat": 46.016667,
+      "lng": 8.116667
+    },
+    {
+      "cityName": "Alpe Cortevecchio",
+      "lat": 46.05,
+      "lng": 8.366667
+    },
+    {
+      "cityName": "Alpe Cortone",
+      "lat": 46.216667,
+      "lng": 8.416667
+    },
+    {
+      "cityName": "Alpe Devero",
+      "lat": 46.316667,
+      "lng": 8.25
+    },
+    {
+      "cityName": "Alpe di Bondeno",
+      "lat": 46.383333,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Alpe di Camona",
+      "lat": 46.183333,
+      "lng": 8.166667
+    },
+    {
+      "cityName": "Alpe di Dumenza",
+      "lat": 46.033333,
+      "lng": 8.816667
+    },
+    {
+      "cityName": "Alpe di Lenno",
+      "lat": 46,
+      "lng": 9.15
+    },
+    {
+      "cityName": "Alpe di Teste",
+      "lat": 46.1,
+      "lng": 8.1
+    },
+    {
+      "cityName": "Alpe Forgnone",
+      "lat": 46.2,
+      "lng": 8.416667
+    },
+    {
+      "cityName": "Alpe Forno",
+      "lat": 46.033333,
+      "lng": 9.45
+    },
+    {
+      "cityName": "Alpe Gembrè",
+      "lat": 46.316667,
+      "lng": 9.95
+    },
+    {
+      "cityName": "Alpe Gera",
+      "lat": 46.316667,
+      "lng": 9.933333
+    },
+    {
+      "cityName": "Alpe Giove",
+      "lat": 46.35,
+      "lng": 8.366667
+    },
+    {
+      "cityName": "Alpe Grasso",
+      "lat": 46.016667,
+      "lng": 9.4
+    },
+    {
+      "cityName": "Alpe Groppera",
+      "lat": 46.433333,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Alpe i Motti",
+      "lat": 46.2,
+      "lng": 8.466667
+    },
+    {
+      "cityName": "Alpe Lagarasc",
+      "lat": 46.016667,
+      "lng": 8.333333
+    },
+    {
+      "cityName": "Alpe Larecchio",
+      "lat": 46.216667,
+      "lng": 8.5
+    },
+    {
+      "cityName": "Alpe Lareccio",
+      "lat": 46.033333,
+      "lng": 8.066667
+    },
+    {
+      "cityName": "Alpe la Satta",
+      "lat": 46.35,
+      "lng": 8.3
+    },
+    {
+      "cityName": "Alpe Lorino",
+      "lat": 46.183333,
+      "lng": 8.216667
+    },
+    {
+      "cityName": "Alpe Marghino",
+      "lat": 46.166667,
+      "lng": 8.266667
+    },
+    {
+      "cityName": "Alpe Mattignale",
+      "lat": 46.25,
+      "lng": 8.416667
+    },
+    {
+      "cityName": "Alpe Mulecetto",
+      "lat": 46.416667,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Alpe Ogliana",
+      "lat": 46.05,
+      "lng": 8.35
+    },
+    {
+      "cityName": "Alpe Olza",
+      "lat": 46.1,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Alpe Piodella",
+      "lat": 46.283333,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "Alpe Rasica",
+      "lat": 46.05,
+      "lng": 9.45
+    },
+    {
+      "cityName": "Alpe Rebella",
+      "lat": 46.45,
+      "lng": 9.433333
+    },
+    {
+      "cityName": "Alpe Regina",
+      "lat": 46.45,
+      "lng": 8.45
+    },
+    {
+      "cityName": "Alpe Torcelli",
+      "lat": 46.1,
+      "lng": 8.233333
+    },
+    {
+      "cityName": "Alpe Valaverta",
+      "lat": 46.033333,
+      "lng": 8.083333
+    },
+    {
+      "cityName": "Alpe Vald",
+      "lat": 46.083333,
+      "lng": 8.416667
+    },
+    {
+      "cityName": "Alpe Vauzone",
+      "lat": 46.083333,
+      "lng": 8.166667
+    },
+    {
+      "cityName": "Alpe Zucchero",
+      "lat": 46.066667,
+      "lng": 8.483333
+    },
+    {
+      "cityName": "Alpe Zunchi",
+      "lat": 46.083333,
+      "lng": 8.5
+    },
+    {
+      "cityName": "Alpiggia",
+      "lat": 46.35,
+      "lng": 9.433333
+    },
+    {
+      "cityName": "Alzano",
+      "lat": 45.733333,
+      "lng": 9.716667
+    },
+    {
+      "cityName": "Alzano di Sopra",
+      "lat": 45.733333,
+      "lng": 9.733333
+    },
+    {
+      "cityName": "Ameno",
+      "lat": 45.783333,
+      "lng": 8.433333
+    },
+    {
+      "cityName": "Anfo",
+      "lat": 45.766667,
+      "lng": 10.483333
+    },
+    {
+      "cityName": "Angera",
+      "lat": 45.766667,
+      "lng": 8.583333
+    },
+    {
+      "cityName": "Angolo",
+      "lat": 45.883333,
+      "lng": 10.133333
+    },
+    {
+      "cityName": "Annone di Brianza",
+      "lat": 45.8,
+      "lng": 9.333333
+    },
+    {
+      "cityName": "Ansizio",
+      "lat": 45.616667,
+      "lng": 8.85
+    },
+    {
+      "cityName": "Antea",
+      "lat": 45.85,
+      "lng": 9.666667
+    },
+    {
+      "cityName": "Antegnate",
+      "lat": 45.483333,
+      "lng": 9.783333
+    },
+    {
+      "cityName": "Antronapiana",
+      "lat": 46.05,
+      "lng": 8.116667
+    },
+    {
+      "cityName": "Anzano del Parco",
+      "lat": 45.766667,
+      "lng": 9.2
+    },
+    {
+      "cityName": "Anzino",
+      "lat": 45.983333,
+      "lng": 8.15
+    },
+    {
+      "cityName": "Anzola d'Ossola",
+      "lat": 45.983333,
+      "lng": 8.35
+    },
+    {
+      "cityName": "Appiano",
+      "lat": 45.733333,
+      "lng": 8.983333
+    },
+    {
+      "cityName": "Aprica",
+      "lat": 46.15,
+      "lng": 10.1
+    },
+    {
+      "cityName": "Arcene",
+      "lat": 45.566667,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Arconate",
+      "lat": 45.55,
+      "lng": 8.85
+    },
+    {
+      "cityName": "Arcore",
+      "lat": 45.616667,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Arcumeggia",
+      "lat": 45.916667,
+      "lng": 8.716667
+    },
+    {
+      "cityName": "Ardenno",
+      "lat": 46.15,
+      "lng": 9.633333
+    },
+    {
+      "cityName": "Ardesio",
+      "lat": 45.933333,
+      "lng": 9.933333
+    },
+    {
+      "cityName": "Arena Po",
+      "lat": 45.083333,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Arese",
+      "lat": 45.533333,
+      "lng": 9.083333
+    },
+    {
+      "cityName": "Argegno",
+      "lat": 45.933333,
+      "lng": 9.133333
+    },
+    {
+      "cityName": "Argine",
+      "lat": 45.066667,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Argnai",
+      "lat": 46.233333,
+      "lng": 8.266667
+    },
+    {
+      "cityName": "Arigna",
+      "lat": 46.133333,
+      "lng": 9.983333
+    },
+    {
+      "cityName": "Arluno",
+      "lat": 45.5,
+      "lng": 8.933333
+    },
+    {
+      "cityName": "Armeno",
+      "lat": 45.816667,
+      "lng": 8.433333
+    },
+    {
+      "cityName": "Arola",
+      "lat": 45.8,
+      "lng": 8.35
+    },
+    {
+      "cityName": "Arona",
+      "lat": 45.766667,
+      "lng": 8.566667
+    },
+    {
+      "cityName": "Arosio",
+      "lat": 45.7,
+      "lng": 9.2
+    },
+    {
+      "cityName": "Arpesina",
+      "lat": 44.933333,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Arsago",
+      "lat": 45.683333,
+      "lng": 8.733333
+    },
+    {
+      "cityName": "Artogne",
+      "lat": 45.85,
+      "lng": 10.166667
+    },
+    {
+      "cityName": "Asola",
+      "lat": 45.216667,
+      "lng": 10.4
+    },
+    {
+      "cityName": "Asso",
+      "lat": 45.866667,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Auzate",
+      "lat": 45.733333,
+      "lng": 8.416667
+    },
+    {
+      "cityName": "Averara",
+      "lat": 45.983333,
+      "lng": 9.633333
+    },
+    {
+      "cityName": "Avert d' Ingherina",
+      "lat": 46.233333,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "Avolasio",
+      "lat": 45.883333,
+      "lng": 9.516667
+    },
+    {
+      "cityName": "Azzanello",
+      "lat": 45.3,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Azzate",
+      "lat": 45.783333,
+      "lng": 8.8
+    },
+    {
+      "cityName": "Azzone",
+      "lat": 45.983333,
+      "lng": 10.116667
+    },
+    {
+      "cityName": "Baceno",
+      "lat": 46.266667,
+      "lng": 8.316667
+    },
+    {
+      "cityName": "Baggio",
+      "lat": 45.45,
+      "lng": 9.083333
+    },
+    {
+      "cityName": "Bagini",
+      "lat": 46.083333,
+      "lng": 9.65
+    },
+    {
+      "cityName": "Bagni",
+      "lat": 46.25,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Bagnolo Cremasco",
+      "lat": 45.35,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Bagnolo Mella",
+      "lat": 45.433333,
+      "lng": 10.166667
+    },
+    {
+      "cityName": "Bagolino",
+      "lat": 45.816667,
+      "lng": 10.466667
+    },
+    {
+      "cityName": "Baiessa",
+      "lat": 46.016667,
+      "lng": 8.55
+    },
+    {
+      "cityName": "Baita la Rua",
+      "lat": 46.1,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Baite Bota",
+      "lat": 46.116667,
+      "lng": 10.133333
+    },
+    {
+      "cityName": "Baite Cigola",
+      "lat": 46.05,
+      "lng": 9.866667
+    },
+    {
+      "cityName": "Ballabio",
+      "lat": 45.9,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Ballabio Inferiore",
+      "lat": 45.883333,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Balmelle",
+      "lat": 46.233333,
+      "lng": 8.15
+    },
+    {
+      "cityName": "Balmuccia",
+      "lat": 45.816667,
+      "lng": 8.133333
+    },
+    {
+      "cityName": "Baranzate",
+      "lat": 45.533333,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Barbaiana",
+      "lat": 45.55,
+      "lng": 9
+    },
+    {
+      "cityName": "Barbianello",
+      "lat": 45.083333,
+      "lng": 9.2
+    },
+    {
+      "cityName": "Bareggio",
+      "lat": 45.466667,
+      "lng": 8.983333
+    },
+    {
+      "cityName": "Barghe",
+      "lat": 45.683333,
+      "lng": 10.4
+    },
+    {
+      "cityName": "Barlassina",
+      "lat": 45.65,
+      "lng": 9.133333
+    },
+    {
+      "cityName": "Barni",
+      "lat": 45.9,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Barzana",
+      "lat": 45.733333,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Barzanò",
+      "lat": 45.733333,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Barzesto",
+      "lat": 46,
+      "lng": 10.133333
+    },
+    {
+      "cityName": "Bascape",
+      "lat": 45.3,
+      "lng": 9.3
+    },
+    {
+      "cityName": "Bassano",
+      "lat": 46.1,
+      "lng": 8.75
+    },
+    {
+      "cityName": "Bassano Bresciano",
+      "lat": 45.316667,
+      "lng": 10.116667
+    },
+    {
+      "cityName": "Bastida de' Dossi",
+      "lat": 45.033333,
+      "lng": 8.916667
+    },
+    {
+      "cityName": "Baveno",
+      "lat": 45.916667,
+      "lng": 8.5
+    },
+    {
+      "cityName": "Belgioioso",
+      "lat": 45.166667,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Belgirate",
+      "lat": 45.833333,
+      "lng": 8.566667
+    },
+    {
+      "cityName": "Bellagio",
+      "lat": 45.983333,
+      "lng": 9.25
+    },
+    {
+      "cityName": "Bellano",
+      "lat": 46.033333,
+      "lng": 9.3
+    },
+    {
+      "cityName": "Belmonte",
+      "lat": 46.083333,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Berbenno",
+      "lat": 46.166667,
+      "lng": 9.733333
+    },
+    {
+      "cityName": "Bereguardo",
+      "lat": 45.25,
+      "lng": 9.016667
+    },
+    {
+      "cityName": "Berere",
+      "lat": 46.016667,
+      "lng": 9.666667
+    },
+    {
+      "cityName": "Bergamo",
+      "lat": 45.683333,
+      "lng": 9.716667
+    },
+    {
+      "cityName": "Berlingo",
+      "lat": 45.5,
+      "lng": 10.033333
+    },
+    {
+      "cityName": "Bersenico",
+      "lat": 45.666667,
+      "lng": 10.333333
+    },
+    {
+      "cityName": "Bertonio",
+      "lat": 46.216667,
+      "lng": 8.233333
+    },
+    {
+      "cityName": "Berzo Inferiore",
+      "lat": 45.916667,
+      "lng": 10.266667
+    },
+    {
+      "cityName": "Besana",
+      "lat": 45.7,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "Besano",
+      "lat": 45.866667,
+      "lng": 8.883333
+    },
+    {
+      "cityName": "Besate",
+      "lat": 45.316667,
+      "lng": 8.966667
+    },
+    {
+      "cityName": "Besnate",
+      "lat": 45.7,
+      "lng": 8.766667
+    },
+    {
+      "cityName": "Besozzo",
+      "lat": 45.85,
+      "lng": 8.65
+    },
+    {
+      "cityName": "Bettelmatt",
+      "lat": 46.45,
+      "lng": 8.366667
+    },
+    {
+      "cityName": "Beura",
+      "lat": 46.083333,
+      "lng": 8.3
+    },
+    {
+      "cityName": "Bevera",
+      "lat": 45.75,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Biandronno",
+      "lat": 45.816667,
+      "lng": 8.716667
+    },
+    {
+      "cityName": "Bianzone",
+      "lat": 46.183333,
+      "lng": 10.1
+    },
+    {
+      "cityName": "Biassono",
+      "lat": 45.616667,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Bienno",
+      "lat": 45.933333,
+      "lng": 10.3
+    },
+    {
+      "cityName": "Binanuova",
+      "lat": 45.233333,
+      "lng": 10.166667
+    },
+    {
+      "cityName": "Binasco",
+      "lat": 45.333333,
+      "lng": 9.1
+    },
+    {
+      "cityName": "Bindo",
+      "lat": 46,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Bissone",
+      "lat": 45.133333,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Boario Terme",
+      "lat": 45.883333,
+      "lng": 10.183333
+    },
+    {
+      "cityName": "Bocca di Croce",
+      "lat": 45.6,
+      "lng": 10.483333
+    },
+    {
+      "cityName": "Boccioleto",
+      "lat": 45.833333,
+      "lng": 8.1
+    },
+    {
+      "cityName": "Bodengo",
+      "lat": 46.266667,
+      "lng": 9.3
+    },
+    {
+      "cityName": "Boffalora",
+      "lat": 45.433333,
+      "lng": 9.166667
+    },
+    {
+      "cityName": "Boffalora d'Adda",
+      "lat": 45.35,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Bognanco Terme",
+      "lat": 46.116667,
+      "lng": 8.2
+    },
+    {
+      "cityName": "Bollate",
+      "lat": 45.55,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Bolzano Novarese",
+      "lat": 45.766667,
+      "lng": 8.45
+    },
+    {
+      "cityName": "Bonate di Sopra",
+      "lat": 45.683333,
+      "lng": 9.55
+    },
+    {
+      "cityName": "Bondione",
+      "lat": 46.033333,
+      "lng": 10
+    },
+    {
+      "cityName": "Borca",
+      "lat": 45.95,
+      "lng": 8
+    },
+    {
+      "cityName": "Borca Verzasco",
+      "lat": 46.183333,
+      "lng": 8.45
+    },
+    {
+      "cityName": "Bordogna",
+      "lat": 45.95,
+      "lng": 9.716667
+    },
+    {
+      "cityName": "Bordolano",
+      "lat": 45.283333,
+      "lng": 9.983333
+    },
+    {
+      "cityName": "Borghetto",
+      "lat": 46.433333,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "Borghetto Lodigiano",
+      "lat": 45.216667,
+      "lng": 9.5
+    },
+    {
+      "cityName": "Borgo di Terzo",
+      "lat": 45.716667,
+      "lng": 9.883333
+    },
+    {
+      "cityName": "Borgomanero",
+      "lat": 45.7,
+      "lng": 8.466667
+    },
+    {
+      "cityName": "Borgone",
+      "lat": 45.966667,
+      "lng": 8.066667
+    },
+    {
+      "cityName": "Borgo Priolo",
+      "lat": 44.966667,
+      "lng": 9.15
+    },
+    {
+      "cityName": "Borgoratto",
+      "lat": 44.933333,
+      "lng": 9.183333
+    },
+    {
+      "cityName": "Borgo San Giacomo",
+      "lat": 45.35,
+      "lng": 9.966667
+    },
+    {
+      "cityName": "Borgosatollo",
+      "lat": 45.466667,
+      "lng": 10.233333
+    },
+    {
+      "cityName": "Borgo Ticino",
+      "lat": 45.683333,
+      "lng": 8.6
+    },
+    {
+      "cityName": "Bornasco",
+      "lat": 45.266667,
+      "lng": 9.216667
+    },
+    {
+      "cityName": "Borno",
+      "lat": 45.933333,
+      "lng": 10.2
+    },
+    {
+      "cityName": "Borsano",
+      "lat": 45.583333,
+      "lng": 8.85
+    },
+    {
+      "cityName": "Bosisio Parini",
+      "lat": 45.8,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "Botta",
+      "lat": 45.766667,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Bottanuco",
+      "lat": 45.633333,
+      "lng": 9.5
+    },
+    {
+      "cityName": "Botticino Sera",
+      "lat": 45.533333,
+      "lng": 10.3
+    },
+    {
+      "cityName": "Bovegno",
+      "lat": 45.8,
+      "lng": 10.266667
+    },
+    {
+      "cityName": "Bovezzo",
+      "lat": 45.583333,
+      "lng": 10.233333
+    },
+    {
+      "cityName": "Bovisa",
+      "lat": 45.5,
+      "lng": 9.15
+    },
+    {
+      "cityName": "Bovisio",
+      "lat": 45.616667,
+      "lng": 9.133333
+    },
+    {
+      "cityName": "Braone",
+      "lat": 45.983333,
+      "lng": 10.333333
+    },
+    {
+      "cityName": "Brebbia",
+      "lat": 45.833333,
+      "lng": 8.65
+    },
+    {
+      "cityName": "Breia",
+      "lat": 45.766667,
+      "lng": 8.3
+    },
+    {
+      "cityName": "Brembate",
+      "lat": 45.6,
+      "lng": 9.516667
+    },
+    {
+      "cityName": "Brembilla",
+      "lat": 45.816667,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Brembio",
+      "lat": 45.216667,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Brenna",
+      "lat": 45.733333,
+      "lng": 9.183333
+    },
+    {
+      "cityName": "Breno",
+      "lat": 45.95,
+      "lng": 10.3
+    },
+    {
+      "cityName": "Brescia",
+      "lat": 45.55,
+      "lng": 10.25
+    },
+    {
+      "cityName": "Bressana Bottarone",
+      "lat": 45.083333,
+      "lng": 9.133333
+    },
+    {
+      "cityName": "Bresso",
+      "lat": 45.533333,
+      "lng": 9.183333
+    },
+    {
+      "cityName": "Brienno",
+      "lat": 45.916667,
+      "lng": 9.133333
+    },
+    {
+      "cityName": "Briga Novarese",
+      "lat": 45.733333,
+      "lng": 8.45
+    },
+    {
+      "cityName": "Brignano Gera d'Adda",
+      "lat": 45.533333,
+      "lng": 9.633333
+    },
+    {
+      "cityName": "Brinzio",
+      "lat": 45.9,
+      "lng": 8.783333
+    },
+    {
+      "cityName": "Brissago Valtravaglia",
+      "lat": 45.95,
+      "lng": 8.733333
+    },
+    {
+      "cityName": "Brivio",
+      "lat": 45.733333,
+      "lng": 9.45
+    },
+    {
+      "cityName": "Broni",
+      "lat": 45.066667,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Brugherio",
+      "lat": 45.55,
+      "lng": 9.3
+    },
+    {
+      "cityName": "Brumano",
+      "lat": 45.85,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Brunate",
+      "lat": 45.816667,
+      "lng": 9.1
+    },
+    {
+      "cityName": "Brusuglio",
+      "lat": 45.533333,
+      "lng": 9.166667
+    },
+    {
+      "cityName": "Bubegno",
+      "lat": 46.083333,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Bugiallo",
+      "lat": 46.183333,
+      "lng": 9.383333
+    },
+    {
+      "cityName": "Bugliaga",
+      "lat": 46.216667,
+      "lng": 8.166667
+    },
+    {
+      "cityName": "Buglio",
+      "lat": 46.183333,
+      "lng": 9.666667
+    },
+    {
+      "cityName": "Bugnano",
+      "lat": 45.566667,
+      "lng": 9.15
+    },
+    {
+      "cityName": "Busto Garolfo",
+      "lat": 45.55,
+      "lng": 8.883333
+    },
+    {
+      "cityName": "Ca Boatti",
+      "lat": 44.95,
+      "lng": 9.166667
+    },
+    {
+      "cityName": "Caccivio",
+      "lat": 45.766667,
+      "lng": 9.016667
+    },
+    {
+      "cityName": "Caccivio Colombaro",
+      "lat": 45.766667,
+      "lng": 9
+    },
+    {
+      "cityName": "Cadaglia",
+      "lat": 46.05,
+      "lng": 8.616667
+    },
+    {
+      "cityName": "Cadarese",
+      "lat": 46.3,
+      "lng": 8.35
+    },
+    {
+      "cityName": "Caddo",
+      "lat": 46.133333,
+      "lng": 8.266667
+    },
+    {
+      "cityName": "Cadignano",
+      "lat": 45.35,
+      "lng": 10.05
+    },
+    {
+      "cityName": "Cadimarco",
+      "lat": 45.216667,
+      "lng": 10.35
+    },
+    {
+      "cityName": "Caglio",
+      "lat": 45.866667,
+      "lng": 9.233333
+    },
+    {
+      "cityName": "Cagnoletti",
+      "lat": 46.2,
+      "lng": 9.866667
+    },
+    {
+      "cityName": "Caidate",
+      "lat": 45.75,
+      "lng": 8.766667
+    },
+    {
+      "cityName": "Cairate",
+      "lat": 45.7,
+      "lng": 8.883333
+    },
+    {
+      "cityName": "Calachina",
+      "lat": 46.066667,
+      "lng": 8.6
+    },
+    {
+      "cityName": "Calcinate",
+      "lat": 45.616667,
+      "lng": 9.783333
+    },
+    {
+      "cityName": "Calcinato",
+      "lat": 45.45,
+      "lng": 10.4
+    },
+    {
+      "cityName": "Calcio",
+      "lat": 45.5,
+      "lng": 9.833333
+    },
+    {
+      "cityName": "Calepio",
+      "lat": 45.633333,
+      "lng": 9.9
+    },
+    {
+      "cityName": "Calò",
+      "lat": 45.683333,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Calolzio",
+      "lat": 45.8,
+      "lng": 9.433333
+    },
+    {
+      "cityName": "Calpera",
+      "lat": 46.016667,
+      "lng": 8.6
+    },
+    {
+      "cityName": "Calusco d'Adda",
+      "lat": 45.683333,
+      "lng": 9.466667
+    },
+    {
+      "cityName": "Calvenzano",
+      "lat": 45.483333,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Calvignano",
+      "lat": 44.983333,
+      "lng": 9.166667
+    },
+    {
+      "cityName": "Calvisano",
+      "lat": 45.333333,
+      "lng": 10.333333
+    },
+    {
+      "cityName": "Cama",
+      "lat": 46.066667,
+      "lng": 9.166667
+    },
+    {
+      "cityName": "Cambiago",
+      "lat": 45.566667,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Camblione",
+      "lat": 46.05,
+      "lng": 8.2
+    },
+    {
+      "cityName": "Camedo",
+      "lat": 46.166667,
+      "lng": 8.616667
+    },
+    {
+      "cityName": "Camerata Cornello",
+      "lat": 45.9,
+      "lng": 9.65
+    },
+    {
+      "cityName": "Camisano",
+      "lat": 45.433333,
+      "lng": 9.733333
+    },
+    {
+      "cityName": "Camnago",
+      "lat": 45.8,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Camorone",
+      "lat": 45.8,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Camparada",
+      "lat": 45.65,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Campeglio",
+      "lat": 46.133333,
+      "lng": 9.866667
+    },
+    {
+      "cityName": "Campello",
+      "lat": 46.216667,
+      "lng": 10
+    },
+    {
+      "cityName": "Campiano",
+      "lat": 46.116667,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Campione",
+      "lat": 45.966667,
+      "lng": 8.966667
+    },
+    {
+      "cityName": "Campo Albino",
+      "lat": 46.033333,
+      "lng": 8.283333
+    },
+    {
+      "cityName": "Campo",
+      "lat": 46.133333,
+      "lng": 9.65
+    },
+    {
+      "cityName": "Campodolcino",
+      "lat": 46.4,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Campra",
+      "lat": 46.116667,
+      "lng": 8.4
+    },
+    {
+      "cityName": "Canargo",
+      "lat": 46.116667,
+      "lng": 9.45
+    },
+    {
+      "cityName": "Candoglia-Albo",
+      "lat": 45.966667,
+      "lng": 8.416667
+    },
+    {
+      "cityName": "Canegrate",
+      "lat": 45.566667,
+      "lng": 8.933333
+    },
+    {
+      "cityName": "Cannero",
+      "lat": 46.016667,
+      "lng": 8.683333
+    },
+    {
+      "cityName": "Canneto Pavese",
+      "lat": 45.05,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "Cannobio",
+      "lat": 46.066667,
+      "lng": 8.7
+    },
+    {
+      "cityName": "Canonica",
+      "lat": 45.9,
+      "lng": 8.733333
+    },
+    {
+      "cityName": "Canova",
+      "lat": 45.733333,
+      "lng": 9.4
+    },
+    {
+      "cityName": "Cantiglio",
+      "lat": 45.883333,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Cantù",
+      "lat": 45.733333,
+      "lng": 9.133333
+    },
+    {
+      "cityName": "Canzo",
+      "lat": 45.85,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Cà Paini",
+      "lat": 46.183333,
+      "lng": 9.9
+    },
+    {
+      "cityName": "Capergnanica",
+      "lat": 45.333333,
+      "lng": 9.633333
+    },
+    {
+      "cityName": "Capizzone",
+      "lat": 45.783333,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Capolago",
+      "lat": 45.8,
+      "lng": 8.816667
+    },
+    {
+      "cityName": "Capralba",
+      "lat": 45.433333,
+      "lng": 9.633333
+    },
+    {
+      "cityName": "Capriate San Gervasio",
+      "lat": 45.616667,
+      "lng": 9.516667
+    },
+    {
+      "cityName": "Caprino Bergamasco",
+      "lat": 45.75,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Capriolo",
+      "lat": 45.633333,
+      "lng": 9.933333
+    },
+    {
+      "cityName": "Carate Brianza",
+      "lat": 45.683333,
+      "lng": 9.233333
+    },
+    {
+      "cityName": "Caravaggio",
+      "lat": 45.5,
+      "lng": 9.633333
+    },
+    {
+      "cityName": "Caravate",
+      "lat": 45.866667,
+      "lng": 8.65
+    },
+    {
+      "cityName": "Carbonara al Ticino",
+      "lat": 45.166667,
+      "lng": 9.05
+    },
+    {
+      "cityName": "Carcoforo",
+      "lat": 45.916667,
+      "lng": 8.033333
+    },
+    {
+      "cityName": "Carella",
+      "lat": 45.816667,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Carenno",
+      "lat": 45.8,
+      "lng": 9.45
+    },
+    {
+      "cityName": "Carimate",
+      "lat": 45.7,
+      "lng": 9.1
+    },
+    {
+      "cityName": "Carlazzo",
+      "lat": 46.05,
+      "lng": 9.15
+    },
+    {
+      "cityName": "Carmine",
+      "lat": 46.033333,
+      "lng": 8.7
+    },
+    {
+      "cityName": "Carnaa",
+      "lat": 45.65,
+      "lng": 9.383333
+    },
+    {
+      "cityName": "Carnago",
+      "lat": 45.733333,
+      "lng": 8.833333
+    },
+    {
+      "cityName": "Carona",
+      "lat": 46.016667,
+      "lng": 9.783333
+    },
+    {
+      "cityName": "Carpenedolo",
+      "lat": 45.366667,
+      "lng": 10.433333
+    },
+    {
+      "cityName": "Carpiano",
+      "lat": 45.333333,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Carriola",
+      "lat": 46.116667,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Carugate",
+      "lat": 45.55,
+      "lng": 9.333333
+    },
+    {
+      "cityName": "Carvico",
+      "lat": 45.7,
+      "lng": 9.466667
+    },
+    {
+      "cityName": "Carvirone",
+      "lat": 46.2,
+      "lng": 8.366667
+    },
+    {
+      "cityName": "Carvisi",
+      "lat": 45.683333,
+      "lng": 9.533333
+    },
+    {
+      "cityName": "Carzago della Riviera",
+      "lat": 45.516667,
+      "lng": 10.45
+    },
+    {
+      "cityName": "Carzano",
+      "lat": 45.716667,
+      "lng": 10.083333
+    },
+    {
+      "cityName": "Casalbuttano",
+      "lat": 45.25,
+      "lng": 9.966667
+    },
+    {
+      "cityName": "Casale Corte Cerro",
+      "lat": 45.916667,
+      "lng": 8.416667
+    },
+    {
+      "cityName": "Casale la Costa",
+      "lat": 46.083333,
+      "lng": 9.816667
+    },
+    {
+      "cityName": "Casale Piali",
+      "lat": 46.15,
+      "lng": 10.066667
+    },
+    {
+      "cityName": "Casaletto Ceredano",
+      "lat": 45.316667,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Casalmaiocco",
+      "lat": 45.35,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Casalmorano",
+      "lat": 45.283333,
+      "lng": 9.9
+    },
+    {
+      "cityName": "Casalmoro",
+      "lat": 45.25,
+      "lng": 10.4
+    },
+    {
+      "cityName": "Casaloldo",
+      "lat": 45.25,
+      "lng": 10.466667
+    },
+    {
+      "cityName": "Casalzuigno",
+      "lat": 45.9,
+      "lng": 8.716667
+    },
+    {
+      "cityName": "Casargo",
+      "lat": 46.033333,
+      "lng": 9.383333
+    },
+    {
+      "cityName": "Casarile",
+      "lat": 45.3,
+      "lng": 9.1
+    },
+    {
+      "cityName": "Casatenaovo",
+      "lat": 45.7,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Casatisma",
+      "lat": 45.05,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Casazza",
+      "lat": 45.75,
+      "lng": 9.9
+    },
+    {
+      "cityName": "Cascina Costa",
+      "lat": 45.633333,
+      "lng": 8.75
+    },
+    {
+      "cityName": "Cascina Nuovo",
+      "lat": 45.6,
+      "lng": 9.666667
+    },
+    {
+      "cityName": "Case del Forno",
+      "lat": 46.1,
+      "lng": 9.983333
+    },
+    {
+      "cityName": "Casei Gerola",
+      "lat": 45,
+      "lng": 8.916667
+    },
+    {
+      "cityName": "Caselle Lurani",
+      "lat": 45.266667,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Casirate d'Adda",
+      "lat": 45.483333,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Casnigo",
+      "lat": 45.8,
+      "lng": 9.85
+    },
+    {
+      "cityName": "Casone",
+      "lat": 46.45,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Casoni di Sant'Albino",
+      "lat": 45.25,
+      "lng": 8.783333
+    },
+    {
+      "cityName": "Casorate Primo",
+      "lat": 45.316667,
+      "lng": 9.016667
+    },
+    {
+      "cityName": "Casorate Sempione",
+      "lat": 45.666667,
+      "lng": 8.733333
+    },
+    {
+      "cityName": "Casorezzo",
+      "lat": 45.516667,
+      "lng": 8.9
+    },
+    {
+      "cityName": "Caspoggio",
+      "lat": 46.266667,
+      "lng": 9.866667
+    },
+    {
+      "cityName": "Cassano d'Adda",
+      "lat": 45.533333,
+      "lng": 9.516667
+    },
+    {
+      "cityName": "Cassiglio",
+      "lat": 45.966667,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Cassinaccia",
+      "lat": 46.333333,
+      "lng": 9.466667
+    },
+    {
+      "cityName": "Cassina de' Pecchi",
+      "lat": 45.516667,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Casteggio",
+      "lat": 45,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Castegnato",
+      "lat": 45.566667,
+      "lng": 10.116667
+    },
+    {
+      "cityName": "Castel Gabbiano",
+      "lat": 45.45,
+      "lng": 9.716667
+    },
+    {
+      "cityName": "Castel Goffredo",
+      "lat": 45.3,
+      "lng": 10.466667
+    },
+    {
+      "cityName": "Castellanza",
+      "lat": 45.616667,
+      "lng": 8.9
+    },
+    {
+      "cityName": "Castelleone",
+      "lat": 45.3,
+      "lng": 9.766667
+    },
+    {
+      "cityName": "Castelletto",
+      "lat": 45.4,
+      "lng": 8.933333
+    },
+    {
+      "cityName": "Castelletto sopra Ticino",
+      "lat": 45.716667,
+      "lng": 8.633333
+    },
+    {
+      "cityName": "Castello",
+      "lat": 45.566667,
+      "lng": 10.5
+    },
+    {
+      "cityName": "Castello dell'Acqua",
+      "lat": 46.15,
+      "lng": 10
+    },
+    {
+      "cityName": "Castello Valsolda",
+      "lat": 46.016667,
+      "lng": 9.05
+    },
+    {
+      "cityName": "Castel Mella",
+      "lat": 45.483333,
+      "lng": 10.133333
+    },
+    {
+      "cityName": "Castelnuovo",
+      "lat": 45.233333,
+      "lng": 10.45
+    },
+    {
+      "cityName": "Castelnuovo Scrivia",
+      "lat": 44.983333,
+      "lng": 8.883333
+    },
+    {
+      "cityName": "Castel San Giovanni",
+      "lat": 45.066667,
+      "lng": 9.433333
+    },
+    {
+      "cityName": "Castelseprio",
+      "lat": 45.716667,
+      "lng": 8.866667
+    },
+    {
+      "cityName": "Castel Venzago",
+      "lat": 45.433333,
+      "lng": 10.516667
+    },
+    {
+      "cityName": "Castenedolo",
+      "lat": 45.466667,
+      "lng": 10.3
+    },
+    {
+      "cityName": "Castiglione delle Stiviere",
+      "lat": 45.383333,
+      "lng": 10.483333
+    },
+    {
+      "cityName": "Castiglione d'Intelvi",
+      "lat": 45.95,
+      "lng": 9.083333
+    },
+    {
+      "cityName": "Castiglione Olona",
+      "lat": 45.766667,
+      "lng": 8.866667
+    },
+    {
+      "cityName": "Castione",
+      "lat": 45.9,
+      "lng": 10.066667
+    },
+    {
+      "cityName": "Casto",
+      "lat": 45.7,
+      "lng": 10.316667
+    },
+    {
+      "cityName": "Castro",
+      "lat": 45.8,
+      "lng": 10.066667
+    },
+    {
+      "cityName": "Castronno",
+      "lat": 45.75,
+      "lng": 8.816667
+    },
+    {
+      "cityName": "Cataeggio",
+      "lat": 46.216667,
+      "lng": 9.633333
+    },
+    {
+      "cityName": "Caurga",
+      "lat": 46.35,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Cava Manara",
+      "lat": 45.133333,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Cavargna",
+      "lat": 46.083333,
+      "lng": 9.1
+    },
+    {
+      "cityName": "Cavaria",
+      "lat": 45.7,
+      "lng": 8.8
+    },
+    {
+      "cityName": "Cave d'Ardesia",
+      "lat": 46.283333,
+      "lng": 9.833333
+    },
+    {
+      "cityName": "Cavenago d'Adda",
+      "lat": 45.283333,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Cavenago di Brianza",
+      "lat": 45.583333,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Caviaga",
+      "lat": 45.283333,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Cazzago San Martino",
+      "lat": 45.583333,
+      "lng": 10.016667
+    },
+    {
+      "cityName": "Cazzano Sant'Andrea",
+      "lat": 45.8,
+      "lng": 9.883333
+    },
+    {
+      "cityName": "Cecino",
+      "lat": 45.683333,
+      "lng": 10.5
+    },
+    {
+      "cityName": "Cedrasco",
+      "lat": 46.15,
+      "lng": 9.766667
+    },
+    {
+      "cityName": "Cellio",
+      "lat": 45.75,
+      "lng": 8.3
+    },
+    {
+      "cityName": "Cene",
+      "lat": 45.783333,
+      "lng": 9.816667
+    },
+    {
+      "cityName": "Cepino",
+      "lat": 45.8,
+      "lng": 9.533333
+    },
+    {
+      "cityName": "Cercino",
+      "lat": 46.15,
+      "lng": 9.5
+    },
+    {
+      "cityName": "Cerete",
+      "lat": 45.866667,
+      "lng": 9.983333
+    },
+    {
+      "cityName": "Cergnago",
+      "lat": 45.2,
+      "lng": 8.7
+    },
+    {
+      "cityName": "Ceriano",
+      "lat": 45.633333,
+      "lng": 9.083333
+    },
+    {
+      "cityName": "Cermenate",
+      "lat": 45.7,
+      "lng": 9.083333
+    },
+    {
+      "cityName": "Cernobbio",
+      "lat": 45.833333,
+      "lng": 9.066667
+    },
+    {
+      "cityName": "Cernusco",
+      "lat": 45.516667,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Cerro",
+      "lat": 45.6,
+      "lng": 8.95
+    },
+    {
+      "cityName": "Cerro Lago Maggiore",
+      "lat": 45.9,
+      "lng": 8.6
+    },
+    {
+      "cityName": "Certosa di Pavia",
+      "lat": 45.25,
+      "lng": 9.15
+    },
+    {
+      "cityName": "Cervedo",
+      "lat": 46,
+      "lng": 10.316667
+    },
+    {
+      "cityName": "Cervesina",
+      "lat": 45.05,
+      "lng": 9.016667
+    },
+    {
+      "cityName": "Cesano",
+      "lat": 45.633333,
+      "lng": 9.133333
+    },
+    {
+      "cityName": "Cesara",
+      "lat": 45.833333,
+      "lng": 8.366667
+    },
+    {
+      "cityName": "Cevo",
+      "lat": 46.183333,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Chiapeto",
+      "lat": 44.966667,
+      "lng": 9.3
+    },
+    {
+      "cityName": "Chiareggio",
+      "lat": 46.316667,
+      "lng": 9.783333
+    },
+    {
+      "cityName": "Chiari",
+      "lat": 45.533333,
+      "lng": 9.933333
+    },
+    {
+      "cityName": "Chiavenna",
+      "lat": 46.316667,
+      "lng": 9.4
+    },
+    {
+      "cityName": "Chiesa",
+      "lat": 46.066667,
+      "lng": 8.283333
+    },
+    {
+      "cityName": "Chiesa di Valmalenco",
+      "lat": 46.266667,
+      "lng": 9.85
+    },
+    {
+      "cityName": "Chioso",
+      "lat": 46.333333,
+      "lng": 8.383333
+    },
+    {
+      "cityName": "Chiuro",
+      "lat": 46.166667,
+      "lng": 9.983333
+    },
+    {
+      "cityName": "Cicogna",
+      "lat": 46,
+      "lng": 8.483333
+    },
+    {
+      "cityName": "Cignano",
+      "lat": 45.366667,
+      "lng": 10.1
+    },
+    {
+      "cityName": "Cignone",
+      "lat": 45.266667,
+      "lng": 9.983333
+    },
+    {
+      "cityName": "Cigole",
+      "lat": 45.3,
+      "lng": 10.183333
+    },
+    {
+      "cityName": "Cima",
+      "lat": 46.016667,
+      "lng": 9.083333
+    },
+    {
+      "cityName": "Cinisello Balsamo",
+      "lat": 45.55,
+      "lng": 9.216667
+    },
+    {
+      "cityName": "Cirimido",
+      "lat": 45.7,
+      "lng": 9
+    },
+    {
+      "cityName": "Cisano Bergamasco",
+      "lat": 45.733333,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Ciserano",
+      "lat": 45.583333,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Cislago",
+      "lat": 45.65,
+      "lng": 8.966667
+    },
+    {
+      "cityName": "Cisliano",
+      "lat": 45.45,
+      "lng": 8.983333
+    },
+    {
+      "cityName": "Cittiglio",
+      "lat": 45.9,
+      "lng": 8.666667
+    },
+    {
+      "cityName": "Cividate al Piano",
+      "lat": 45.55,
+      "lng": 9.833333
+    },
+    {
+      "cityName": "Cividate Camuno",
+      "lat": 45.95,
+      "lng": 10.283333
+    },
+    {
+      "cityName": "Cizzago",
+      "lat": 45.466667,
+      "lng": 9.933333
+    },
+    {
+      "cityName": "Claino",
+      "lat": 46,
+      "lng": 9.083333
+    },
+    {
+      "cityName": "Clanezzo",
+      "lat": 45.75,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Clusane",
+      "lat": 45.666667,
+      "lng": 10.016667
+    },
+    {
+      "cityName": "Clusone",
+      "lat": 45.883333,
+      "lng": 9.95
+    },
+    {
+      "cityName": "Coaté",
+      "lat": 46.25,
+      "lng": 8.233333
+    },
+    {
+      "cityName": "Coccaglio",
+      "lat": 45.566667,
+      "lng": 9.966667
+    },
+    {
+      "cityName": "Cocquio Trevisago",
+      "lat": 45.866667,
+      "lng": 8.666667
+    },
+    {
+      "cityName": "Codevilla",
+      "lat": 44.966667,
+      "lng": 9.05
+    },
+    {
+      "cityName": "Coggia",
+      "lat": 46.216667,
+      "lng": 8.25
+    },
+    {
+      "cityName": "Coimo",
+      "lat": 46.133333,
+      "lng": 8.4
+    },
+    {
+      "cityName": "Colere",
+      "lat": 45.966667,
+      "lng": 10.066667
+    },
+    {
+      "cityName": "Colico",
+      "lat": 46.133333,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Collio",
+      "lat": 45.8,
+      "lng": 10.333333
+    },
+    {
+      "cityName": "Cologne",
+      "lat": 45.583333,
+      "lng": 9.933333
+    },
+    {
+      "cityName": "Cologno al Serio",
+      "lat": 45.583333,
+      "lng": 9.7
+    },
+    {
+      "cityName": "Cologno",
+      "lat": 45.533333,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "Colombara",
+      "lat": 44.95,
+      "lng": 9.1
+    },
+    {
+      "cityName": "Colombaro",
+      "lat": 45.633333,
+      "lng": 9.983333
+    },
+    {
+      "cityName": "Coloria",
+      "lat": 46.033333,
+      "lng": 8.25
+    },
+    {
+      "cityName": "Colturano",
+      "lat": 45.366667,
+      "lng": 9.333333
+    },
+    {
+      "cityName": "Colvedro",
+      "lat": 46.383333,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Comabbio",
+      "lat": 45.766667,
+      "lng": 8.666667
+    },
+    {
+      "cityName": "Comazzo",
+      "lat": 45.433333,
+      "lng": 9.45
+    },
+    {
+      "cityName": "Comerio",
+      "lat": 45.833333,
+      "lng": 8.75
+    },
+    {
+      "cityName": "Comezzano",
+      "lat": 45.466667,
+      "lng": 9.95
+    },
+    {
+      "cityName": "Como",
+      "lat": 45.783333,
+      "lng": 9.083333
+    },
+    {
+      "cityName": "Comun Nuovo",
+      "lat": 45.6,
+      "lng": 9.65
+    },
+    {
+      "cityName": "Concorezzo",
+      "lat": 45.583333,
+      "lng": 9.333333
+    },
+    {
+      "cityName": "Copiano",
+      "lat": 45.2,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Corana",
+      "lat": 45.066667,
+      "lng": 8.966667
+    },
+    {
+      "cityName": "Corbetta",
+      "lat": 45.466667,
+      "lng": 8.916667
+    },
+    {
+      "cityName": "Corgeno",
+      "lat": 45.75,
+      "lng": 8.683333
+    },
+    {
+      "cityName": "Corna",
+      "lat": 45.883333,
+      "lng": 10.166667
+    },
+    {
+      "cityName": "Cornalba",
+      "lat": 45.85,
+      "lng": 9.733333
+    },
+    {
+      "cityName": "Cornale",
+      "lat": 45.033333,
+      "lng": 8.9
+    },
+    {
+      "cityName": "Cornaredo",
+      "lat": 45.5,
+      "lng": 9.016667
+    },
+    {
+      "cityName": "Cornate",
+      "lat": 45.65,
+      "lng": 9.466667
+    },
+    {
+      "cityName": "Corsico",
+      "lat": 45.433333,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Cortaccio",
+      "lat": 46.033333,
+      "lng": 8.566667
+    },
+    {
+      "cityName": "Corte Cerino",
+      "lat": 46.266667,
+      "lng": 8.266667
+    },
+    {
+      "cityName": "Corte dei Cortesi",
+      "lat": 45.266667,
+      "lng": 10
+    },
+    {
+      "cityName": "Corte Franca",
+      "lat": 45.633333,
+      "lng": 10.016667
+    },
+    {
+      "cityName": "Corteleona",
+      "lat": 45.166667,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Corticelle Pieve",
+      "lat": 45.416667,
+      "lng": 10.1
+    },
+    {
+      "cityName": "Cortignasco",
+      "lat": 46.166667,
+      "lng": 8.516667
+    },
+    {
+      "cityName": "Cortinaccia",
+      "lat": 46.316667,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Costa di Mezzate",
+      "lat": 45.666667,
+      "lng": 9.783333
+    },
+    {
+      "cityName": "Costa Valle Imagna",
+      "lat": 45.8,
+      "lng": 9.5
+    },
+    {
+      "cityName": "Costa Volpino",
+      "lat": 45.85,
+      "lng": 10.1
+    },
+    {
+      "cityName": "Cotogno",
+      "lat": 46.3,
+      "lng": 8.266667
+    },
+    {
+      "cityName": "Covo",
+      "lat": 45.483333,
+      "lng": 9.766667
+    },
+    {
+      "cityName": "Craveggia",
+      "lat": 46.133333,
+      "lng": 8.483333
+    },
+    {
+      "cityName": "Cravegna",
+      "lat": 46.233333,
+      "lng": 8.316667
+    },
+    {
+      "cityName": "Credera",
+      "lat": 45.3,
+      "lng": 9.65
+    },
+    {
+      "cityName": "Crema",
+      "lat": 45.366667,
+      "lng": 9.683333
+    },
+    {
+      "cityName": "Cremeno",
+      "lat": 45.933333,
+      "lng": 9.466667
+    },
+    {
+      "cityName": "Crescenzago",
+      "lat": 45.516667,
+      "lng": 9.25
+    },
+    {
+      "cityName": "Cresciasca",
+      "lat": 46.15,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Crespiatica",
+      "lat": 45.35,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Crèves",
+      "lat": 46.1,
+      "lng": 8.533333
+    },
+    {
+      "cityName": "Crevola",
+      "lat": 46.15,
+      "lng": 8.3
+    },
+    {
+      "cityName": "Crodo",
+      "lat": 46.216667,
+      "lng": 8.316667
+    },
+    {
+      "cityName": "Crone",
+      "lat": 45.733333,
+      "lng": 10.483333
+    },
+    {
+      "cityName": "Croveo",
+      "lat": 46.266667,
+      "lng": 8.3
+    },
+    {
+      "cityName": "Crugnola",
+      "lat": 45.733333,
+      "lng": 8.75
+    },
+    {
+      "cityName": "Crusinallo",
+      "lat": 45.883333,
+      "lng": 8.416667
+    },
+    {
+      "cityName": "Cuccagna",
+      "lat": 44.966667,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Cumignano sul Naviglio",
+      "lat": 45.35,
+      "lng": 9.833333
+    },
+    {
+      "cityName": "Curdomo",
+      "lat": 45.683333,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Cure",
+      "lat": 45.7,
+      "lng": 10.066667
+    },
+    {
+      "cityName": "Curiglia",
+      "lat": 46.066667,
+      "lng": 8.8
+    },
+    {
+      "cityName": "Cusano Milanino",
+      "lat": 45.55,
+      "lng": 9.183333
+    },
+    {
+      "cityName": "Cusio",
+      "lat": 45.983333,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Cuzzago",
+      "lat": 46,
+      "lng": 8.366667
+    },
+    {
+      "cityName": "Cuzzego",
+      "lat": 46.05,
+      "lng": 8.283333
+    },
+    {
+      "cityName": "Dairago",
+      "lat": 45.566667,
+      "lng": 8.866667
+    },
+    {
+      "cityName": "Dalmine",
+      "lat": 45.65,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Dazio",
+      "lat": 46.15,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Delebio",
+      "lat": 46.133333,
+      "lng": 9.45
+    },
+    {
+      "cityName": "Dello",
+      "lat": 45.416667,
+      "lng": 10.066667
+    },
+    {
+      "cityName": "Dervio",
+      "lat": 46.066667,
+      "lng": 9.3
+    },
+    {
+      "cityName": "Desco",
+      "lat": 46.15,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Desenzano del Garda",
+      "lat": 45.466667,
+      "lng": 10.533333
+    },
+    {
+      "cityName": "Desio",
+      "lat": 45.616667,
+      "lng": 9.216667
+    },
+    {
+      "cityName": "Dezzo",
+      "lat": 45.983333,
+      "lng": 10.083333
+    },
+    {
+      "cityName": "Dizzasco",
+      "lat": 45.933333,
+      "lng": 9.1
+    },
+    {
+      "cityName": "Domaso",
+      "lat": 46.15,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Domodossola",
+      "lat": 46.116667,
+      "lng": 8.283333
+    },
+    {
+      "cityName": "Donego",
+      "lat": 46.016667,
+      "lng": 8.65
+    },
+    {
+      "cityName": "Dongo",
+      "lat": 46.116667,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "Dorga",
+      "lat": 45.916667,
+      "lng": 10.05
+    },
+    {
+      "cityName": "Dorio",
+      "lat": 46.1,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Dorno",
+      "lat": 45.15,
+      "lng": 8.95
+    },
+    {
+      "cityName": "Dosso",
+      "lat": 45.95,
+      "lng": 10.1
+    },
+    {
+      "cityName": "Dovera",
+      "lat": 45.366667,
+      "lng": 9.533333
+    },
+    {
+      "cityName": "Drugolo",
+      "lat": 45.5,
+      "lng": 10.466667
+    },
+    {
+      "cityName": "Druogno",
+      "lat": 46.133333,
+      "lng": 8.433333
+    },
+    {
+      "cityName": "Dubino",
+      "lat": 46.15,
+      "lng": 9.45
+    },
+    {
+      "cityName": "Due Cossani",
+      "lat": 46.033333,
+      "lng": 8.783333
+    },
+    {
+      "cityName": "Dumenza",
+      "lat": 46.016667,
+      "lng": 8.783333
+    },
+    {
+      "cityName": "Endine",
+      "lat": 45.8,
+      "lng": 9.983333
+    },
+    {
+      "cityName": "Erba",
+      "lat": 45.8,
+      "lng": 9.25
+    },
+    {
+      "cityName": "Esine",
+      "lat": 45.916667,
+      "lng": 10.25
+    },
+    {
+      "cityName": "Esino Lario",
+      "lat": 45.983333,
+      "lng": 9.333333
+    },
+    {
+      "cityName": "Esmate",
+      "lat": 45.783333,
+      "lng": 10.016667
+    },
+    {
+      "cityName": "Faedo",
+      "lat": 46.15,
+      "lng": 9.9
+    },
+    {
+      "cityName": "Fagnano",
+      "lat": 45.666667,
+      "lng": 8.866667
+    },
+    {
+      "cityName": "Falmenta",
+      "lat": 46.066667,
+      "lng": 8.583333
+    },
+    {
+      "cityName": "Fara Gera d'Adda",
+      "lat": 45.55,
+      "lng": 9.516667
+    },
+    {
+      "cityName": "Farfengo",
+      "lat": 45.366667,
+      "lng": 9.966667
+    },
+    {
+      "cityName": "Fenile",
+      "lat": 46.05,
+      "lng": 9.55
+    },
+    {
+      "cityName": "Ferno",
+      "lat": 45.616667,
+      "lng": 8.75
+    },
+    {
+      "cityName": "Ferrera Erbognone",
+      "lat": 45.116667,
+      "lng": 8.866667
+    },
+    {
+      "cityName": "Festi Rasini",
+      "lat": 45.9,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Fiesse",
+      "lat": 45.233333,
+      "lng": 10.316667
+    },
+    {
+      "cityName": "Fino",
+      "lat": 45.75,
+      "lng": 9.05
+    },
+    {
+      "cityName": "Fiorine",
+      "lat": 45.866667,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Fiumenero",
+      "lat": 46.016667,
+      "lng": 9.95
+    },
+    {
+      "cityName": "Fleri",
+      "lat": 45.483333,
+      "lng": 10.183333
+    },
+    {
+      "cityName": "Fobello",
+      "lat": 45.883333,
+      "lng": 8.166667
+    },
+    {
+      "cityName": "Fondi",
+      "lat": 46.016667,
+      "lng": 10.2
+    },
+    {
+      "cityName": "Fonmonfracchio",
+      "lat": 46.2,
+      "lng": 8.516667
+    },
+    {
+      "cityName": "Fontana",
+      "lat": 46.2,
+      "lng": 8.233333
+    },
+    {
+      "cityName": "Fontanella",
+      "lat": 45.45,
+      "lng": 9.8
+    },
+    {
+      "cityName": "Foppa",
+      "lat": 46.133333,
+      "lng": 9.933333
+    },
+    {
+      "cityName": "Foppolo",
+      "lat": 46.05,
+      "lng": 9.75
+    },
+    {
+      "cityName": "Formazza",
+      "lat": 46.366667,
+      "lng": 8.433333
+    },
+    {
+      "cityName": "Fornacia",
+      "lat": 45.5,
+      "lng": 10.166667
+    },
+    {
+      "cityName": "Fornello",
+      "lat": 45.016667,
+      "lng": 9.383333
+    },
+    {
+      "cityName": "Forno di Omegna",
+      "lat": 45.933333,
+      "lng": 8.283333
+    },
+    {
+      "cityName": "Fornovo di San Giovanni",
+      "lat": 45.5,
+      "lng": 9.683333
+    },
+    {
+      "cityName": "Fracchie",
+      "lat": 46.35,
+      "lng": 8.416667
+    },
+    {
+      "cityName": "Fraccia",
+      "lat": 46.033333,
+      "lng": 9.65
+    },
+    {
+      "cityName": "Frasnedo",
+      "lat": 46.2,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Frua di Sopra",
+      "lat": 46.416667,
+      "lng": 8.4
+    },
+    {
+      "cityName": "Fusine",
+      "lat": 46.15,
+      "lng": 9.733333
+    },
+    {
+      "cityName": "Gabbione",
+      "lat": 44.95,
+      "lng": 9.183333
+    },
+    {
+      "cityName": "Gaggiano",
+      "lat": 45.4,
+      "lng": 9.033333
+    },
+    {
+      "cityName": "Galbiate",
+      "lat": 45.816667,
+      "lng": 9.383333
+    },
+    {
+      "cityName": "Gallarate",
+      "lat": 45.666667,
+      "lng": 8.783333
+    },
+    {
+      "cityName": "Gallignano",
+      "lat": 45.433333,
+      "lng": 9.833333
+    },
+    {
+      "cityName": "Gallivaggio",
+      "lat": 46.35,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Gambara",
+      "lat": 45.25,
+      "lng": 10.3
+    },
+    {
+      "cityName": "Gambolò",
+      "lat": 45.25,
+      "lng": 8.85
+    },
+    {
+      "cityName": "Gandino",
+      "lat": 45.816667,
+      "lng": 9.9
+    },
+    {
+      "cityName": "Ganna",
+      "lat": 45.9,
+      "lng": 8.816667
+    },
+    {
+      "cityName": "Garbagnate Milanese",
+      "lat": 45.566667,
+      "lng": 9.066667
+    },
+    {
+      "cityName": "Gardone Val Trompia",
+      "lat": 45.683333,
+      "lng": 10.183333
+    },
+    {
+      "cityName": "Garlasco",
+      "lat": 45.2,
+      "lng": 8.916667
+    },
+    {
+      "cityName": "Garzeno",
+      "lat": 46.133333,
+      "lng": 9.25
+    },
+    {
+      "cityName": "Gavardo",
+      "lat": 45.583333,
+      "lng": 10.433333
+    },
+    {
+      "cityName": "Gavirate",
+      "lat": 45.833333,
+      "lng": 8.716667
+    },
+    {
+      "cityName": "Gazzada",
+      "lat": 45.766667,
+      "lng": 8.816667
+    },
+    {
+      "cityName": "Gazzaniga",
+      "lat": 45.8,
+      "lng": 9.833333
+    },
+    {
+      "cityName": "Gemonio",
+      "lat": 45.883333,
+      "lng": 8.666667
+    },
+    {
+      "cityName": "Genivolta",
+      "lat": 45.333333,
+      "lng": 9.883333
+    },
+    {
+      "cityName": "Genzone",
+      "lat": 45.166667,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Gera",
+      "lat": 46.166667,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Gerenzago",
+      "lat": 45.2,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Gerola Alta",
+      "lat": 46.05,
+      "lng": 9.533333
+    },
+    {
+      "cityName": "Gerosa",
+      "lat": 45.85,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Gessate",
+      "lat": 45.383333,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Ghedi",
+      "lat": 45.4,
+      "lng": 10.266667
+    },
+    {
+      "cityName": "Ghiaie",
+      "lat": 45.716667,
+      "lng": 9.583333
+    },
+    {
+      "cityName": "Ghiffa",
+      "lat": 45.966667,
+      "lng": 8.616667
+    },
+    {
+      "cityName": "Ghiosso",
+      "lat": 46.233333,
+      "lng": 8.216667
+    },
+    {
+      "cityName": "Ghirla",
+      "lat": 45.916667,
+      "lng": 8.833333
+    },
+    {
+      "cityName": "Ghisalba",
+      "lat": 45.583333,
+      "lng": 9.75
+    },
+    {
+      "cityName": "Gignese",
+      "lat": 45.866667,
+      "lng": 8.5
+    },
+    {
+      "cityName": "Giussago",
+      "lat": 45.283333,
+      "lng": 9.133333
+    },
+    {
+      "cityName": "Giussano",
+      "lat": 45.7,
+      "lng": 9.233333
+    },
+    {
+      "cityName": "Golasecca",
+      "lat": 45.716667,
+      "lng": 8.65
+    },
+    {
+      "cityName": "Gordona",
+      "lat": 46.283333,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Gorgonzola",
+      "lat": 45.533333,
+      "lng": 9.4
+    },
+    {
+      "cityName": "Gorla Maggiore",
+      "lat": 45.666667,
+      "lng": 8.883333
+    },
+    {
+      "cityName": "Gorle",
+      "lat": 45.7,
+      "lng": 9.716667
+    },
+    {
+      "cityName": "Gorno",
+      "lat": 45.866667,
+      "lng": 9.833333
+    },
+    {
+      "cityName": "Gottolengo",
+      "lat": 45.283333,
+      "lng": 10.266667
+    },
+    {
+      "cityName": "Gozzano",
+      "lat": 45.75,
+      "lng": 8.433333
+    },
+    {
+      "cityName": "Gozzi",
+      "lat": 46.016667,
+      "lng": 8.233333
+    },
+    {
+      "cityName": "Grandate",
+      "lat": 45.766667,
+      "lng": 9.05
+    },
+    {
+      "cityName": "Gratacasolo",
+      "lat": 45.816667,
+      "lng": 10.116667
+    },
+    {
+      "cityName": "Gravagliana",
+      "lat": 45.85,
+      "lng": 8.2
+    },
+    {
+      "cityName": "Gravedona",
+      "lat": 46.15,
+      "lng": 9.3
+    },
+    {
+      "cityName": "Gravellona",
+      "lat": 45.916667,
+      "lng": 8.433333
+    },
+    {
+      "cityName": "Gresine",
+      "lat": 45.633333,
+      "lng": 10.033333
+    },
+    {
+      "cityName": "Griante",
+      "lat": 45.983333,
+      "lng": 9.216667
+    },
+    {
+      "cityName": "Gromlongo",
+      "lat": 45.733333,
+      "lng": 9.516667
+    },
+    {
+      "cityName": "Gromo",
+      "lat": 45.966667,
+      "lng": 9.933333
+    },
+    {
+      "cityName": "Gropello Cairoli",
+      "lat": 45.183333,
+      "lng": 9
+    },
+    {
+      "cityName": "Grovella",
+      "lat": 46.383333,
+      "lng": 8.416667
+    },
+    {
+      "cityName": "Grumello del Monte",
+      "lat": 45.633333,
+      "lng": 9.866667
+    },
+    {
+      "cityName": "Grumello del Piano",
+      "lat": 45.666667,
+      "lng": 9.633333
+    },
+    {
+      "cityName": "Grumi",
+      "lat": 45.616667,
+      "lng": 9.983333
+    },
+    {
+      "cityName": "Grumo",
+      "lat": 45.883333,
+      "lng": 9.65
+    },
+    {
+      "cityName": "Gualdo",
+      "lat": 46.483333,
+      "lng": 9.45
+    },
+    {
+      "cityName": "Gudo Gambaredo",
+      "lat": 45.383333,
+      "lng": 9.1
+    },
+    {
+      "cityName": "Guglielmo",
+      "lat": 46.333333,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Gussago",
+      "lat": 45.583333,
+      "lng": 10.15
+    },
+    {
+      "cityName": "Induno Olona",
+      "lat": 45.85,
+      "lng": 8.833333
+    },
+    {
+      "cityName": "Intra",
+      "lat": 45.933333,
+      "lng": 8.566667
+    },
+    {
+      "cityName": "Introbio",
+      "lat": 45.95,
+      "lng": 9.45
+    },
+    {
+      "cityName": "Inverigo",
+      "lat": 45.733333,
+      "lng": 9.233333
+    },
+    {
+      "cityName": "Inverno",
+      "lat": 45.183333,
+      "lng": 9.383333
+    },
+    {
+      "cityName": "Invorio Inferiore",
+      "lat": 45.75,
+      "lng": 8.483333
+    },
+    {
+      "cityName": "Inzago",
+      "lat": 45.533333,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Inzino",
+      "lat": 45.7,
+      "lng": 10.183333
+    },
+    {
+      "cityName": "Iselle",
+      "lat": 46.2,
+      "lng": 8.2
+    },
+    {
+      "cityName": "Iseo",
+      "lat": 45.65,
+      "lng": 10.05
+    },
+    {
+      "cityName": "Isola Comacina",
+      "lat": 45.966667,
+      "lng": 9.166667
+    },
+    {
+      "cityName": "Isola",
+      "lat": 46.433333,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Isola Sant'Antonio",
+      "lat": 45.033333,
+      "lng": 8.85
+    },
+    {
+      "cityName": "Isorella",
+      "lat": 45.3,
+      "lng": 10.316667
+    },
+    {
+      "cityName": "Ispra",
+      "lat": 45.816667,
+      "lng": 8.616667
+    },
+    {
+      "cityName": "Izano",
+      "lat": 45.35,
+      "lng": 9.75
+    },
+    {
+      "cityName": "La Cascina",
+      "lat": 46.083333,
+      "lng": 8.466667
+    },
+    {
+      "cityName": "Lacchiarella",
+      "lat": 45.316667,
+      "lng": 9.133333
+    },
+    {
+      "cityName": "La Colla",
+      "lat": 46.166667,
+      "lng": 8.5
+    },
+    {
+      "cityName": "La Foppa",
+      "lat": 46.183333,
+      "lng": 9.233333
+    },
+    {
+      "cityName": "Laglio Brienno",
+      "lat": 45.883333,
+      "lng": 9.133333
+    },
+    {
+      "cityName": "Lainate",
+      "lat": 45.566667,
+      "lng": 9.033333
+    },
+    {
+      "cityName": "Lallio",
+      "lat": 45.65,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "La Masonaccia",
+      "lat": 46.116667,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Lambrate",
+      "lat": 45.483333,
+      "lng": 9.25
+    },
+    {
+      "cityName": "Landriano",
+      "lat": 45.316667,
+      "lng": 9.25
+    },
+    {
+      "cityName": "Lanzo d'Intelvi",
+      "lat": 45.983333,
+      "lng": 9.033333
+    },
+    {
+      "cityName": "La Pila",
+      "lat": 46.166667,
+      "lng": 10.033333
+    },
+    {
+      "cityName": "Lardirago",
+      "lat": 45.216667,
+      "lng": 9.233333
+    },
+    {
+      "cityName": "Lavena",
+      "lat": 45.95,
+      "lng": 8.866667
+    },
+    {
+      "cityName": "Lavena Ponte Tresa",
+      "lat": 45.966667,
+      "lng": 8.85
+    },
+    {
+      "cityName": "Laveno",
+      "lat": 45.916667,
+      "lng": 8.616667
+    },
+    {
+      "cityName": "Lavenone",
+      "lat": 45.733333,
+      "lng": 10.433333
+    },
+    {
+      "cityName": "Lavina",
+      "lat": 45.883333,
+      "lng": 9.533333
+    },
+    {
+      "cityName": "Lavone",
+      "lat": 45.75,
+      "lng": 10.233333
+    },
+    {
+      "cityName": "Le Biuse",
+      "lat": 46.083333,
+      "lng": 8.616667
+    },
+    {
+      "cityName": "Lecco",
+      "lat": 45.85,
+      "lng": 9.383333
+    },
+    {
+      "cityName": "Legnano",
+      "lat": 45.6,
+      "lng": 8.9
+    },
+    {
+      "cityName": "Lenna",
+      "lat": 45.933333,
+      "lng": 9.666667
+    },
+    {
+      "cityName": "Lenno",
+      "lat": 45.966667,
+      "lng": 9.183333
+    },
+    {
+      "cityName": "Leno",
+      "lat": 45.366667,
+      "lng": 10.216667
+    },
+    {
+      "cityName": "Lentate",
+      "lat": 45.683333,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Lezzeno",
+      "lat": 45.933333,
+      "lng": 9.183333
+    },
+    {
+      "cityName": "Lierna",
+      "lat": 45.95,
+      "lng": 9.3
+    },
+    {
+      "cityName": "Limbiate",
+      "lat": 45.6,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Linate al Lambro",
+      "lat": 45.45,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Liscate",
+      "lat": 45.483333,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Lissone",
+      "lat": 45.616667,
+      "lng": 9.233333
+    },
+    {
+      "cityName": "Livemmo",
+      "lat": 45.733333,
+      "lng": 10.333333
+    },
+    {
+      "cityName": "Livo",
+      "lat": 46.166667,
+      "lng": 9.3
+    },
+    {
+      "cityName": "Lizzola Alta",
+      "lat": 46.033333,
+      "lng": 10.016667
+    },
+    {
+      "cityName": "Locate Bergamasco",
+      "lat": 45.7,
+      "lng": 9.55
+    },
+    {
+      "cityName": "Locate di Triulzi",
+      "lat": 45.35,
+      "lng": 9.216667
+    },
+    {
+      "cityName": "Locate Varesino",
+      "lat": 45.683333,
+      "lng": 8.933333
+    },
+    {
+      "cityName": "Lodi",
+      "lat": 45.316667,
+      "lng": 9.5
+    },
+    {
+      "cityName": "Lodi Vecchio",
+      "lat": 45.3,
+      "lng": 9.4
+    },
+    {
+      "cityName": "Lograto",
+      "lat": 45.483333,
+      "lng": 10.05
+    },
+    {
+      "cityName": "Lomagna",
+      "lat": 45.666667,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Lomazzo",
+      "lat": 45.7,
+      "lng": 9.033333
+    },
+    {
+      "cityName": "Lomello",
+      "lat": 45.116667,
+      "lng": 8.783333
+    },
+    {
+      "cityName": "Lonate Ceppino",
+      "lat": 45.7,
+      "lng": 8.866667
+    },
+    {
+      "cityName": "Lonato",
+      "lat": 45.45,
+      "lng": 10.483333
+    },
+    {
+      "cityName": "Loveno",
+      "lat": 46.05,
+      "lng": 10.233333
+    },
+    {
+      "cityName": "Lovere",
+      "lat": 45.816667,
+      "lng": 10.066667
+    },
+    {
+      "cityName": "Lucino",
+      "lat": 45.783333,
+      "lng": 9.033333
+    },
+    {
+      "cityName": "Luino",
+      "lat": 46,
+      "lng": 8.733333
+    },
+    {
+      "cityName": "Lungavilla",
+      "lat": 45.033333,
+      "lng": 9.066667
+    },
+    {
+      "cityName": "Lurago d'Erba",
+      "lat": 45.766667,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Lurago Marinone",
+      "lat": 45.716667,
+      "lng": 8.983333
+    },
+    {
+      "cityName": "Luzzana",
+      "lat": 45.716667,
+      "lng": 9.866667
+    },
+    {
+      "cityName": "Maccagno Inferiore",
+      "lat": 46.033333,
+      "lng": 8.733333
+    },
+    {
+      "cityName": "Madesimo",
+      "lat": 46.433333,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Madignano",
+      "lat": 45.333333,
+      "lng": 9.716667
+    },
+    {
+      "cityName": "Madonna della Costa",
+      "lat": 45.866667,
+      "lng": 9.666667
+    },
+    {
+      "cityName": "Madonna",
+      "lat": 46.15,
+      "lng": 10.15
+    },
+    {
+      "cityName": "Magenta",
+      "lat": 45.466667,
+      "lng": 8.883333
+    },
+    {
+      "cityName": "Maggio",
+      "lat": 45.916667,
+      "lng": 9.45
+    },
+    {
+      "cityName": "Magno",
+      "lat": 45.733333,
+      "lng": 10.183333
+    },
+    {
+      "cityName": "Mailand",
+      "lat": 45.466667,
+      "lng": 9.2
+    },
+    {
+      "cityName": "Mairano",
+      "lat": 45.35,
+      "lng": 9.066667
+    },
+    {
+      "cityName": "Malesco",
+      "lat": 46.133333,
+      "lng": 8.5
+    },
+    {
+      "cityName": "Malgrate",
+      "lat": 45.85,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Malinone",
+      "lat": 46.35,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Malnate",
+      "lat": 45.8,
+      "lng": 8.883333
+    },
+    {
+      "cityName": "Mandello del Lario",
+      "lat": 45.9,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Manerbio",
+      "lat": 45.35,
+      "lng": 10.133333
+    },
+    {
+      "cityName": "Manicomio Mombello",
+      "lat": 45.616667,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Mapello",
+      "lat": 45.7,
+      "lng": 9.533333
+    },
+    {
+      "cityName": "Marcallo con Casone",
+      "lat": 45.483333,
+      "lng": 8.866667
+    },
+    {
+      "cityName": "Marcheno",
+      "lat": 45.7,
+      "lng": 10.216667
+    },
+    {
+      "cityName": "Mariano Comense",
+      "lat": 45.7,
+      "lng": 9.183333
+    },
+    {
+      "cityName": "Marignano",
+      "lat": 45.35,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Marnate",
+      "lat": 45.633333,
+      "lng": 8.9
+    },
+    {
+      "cityName": "Marone",
+      "lat": 45.733333,
+      "lng": 10.083333
+    },
+    {
+      "cityName": "Martinengo",
+      "lat": 45.566667,
+      "lng": 9.766667
+    },
+    {
+      "cityName": "Marzio",
+      "lat": 45.933333,
+      "lng": 8.85
+    },
+    {
+      "cityName": "Masera",
+      "lat": 46.133333,
+      "lng": 8.333333
+    },
+    {
+      "cityName": "Masina",
+      "lat": 46.166667,
+      "lng": 9.4
+    },
+    {
+      "cityName": "Masino",
+      "lat": 46.166667,
+      "lng": 9.633333
+    },
+    {
+      "cityName": "Maslianico",
+      "lat": 45.85,
+      "lng": 9.05
+    },
+    {
+      "cityName": "Masnago",
+      "lat": 45.833333,
+      "lng": 8.8
+    },
+    {
+      "cityName": "Mavigna",
+      "lat": 46.15,
+      "lng": 10.133333
+    },
+    {
+      "cityName": "Mazzarocco",
+      "lat": 46.066667,
+      "lng": 8.55
+    },
+    {
+      "cityName": "Meda",
+      "lat": 45.666667,
+      "lng": 9.15
+    },
+    {
+      "cityName": "Medolago",
+      "lat": 45.666667,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Medole",
+      "lat": 45.316667,
+      "lng": 10.5
+    },
+    {
+      "cityName": "Megolo di Mezzo",
+      "lat": 45.983333,
+      "lng": 8.3
+    },
+    {
+      "cityName": "Meina",
+      "lat": 45.783333,
+      "lng": 8.533333
+    },
+    {
+      "cityName": "Melegnanello",
+      "lat": 45.233333,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Mele",
+      "lat": 46.2,
+      "lng": 9.683333
+    },
+    {
+      "cityName": "Mello",
+      "lat": 46.15,
+      "lng": 9.55
+    },
+    {
+      "cityName": "Melzo",
+      "lat": 45.5,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Menaggio",
+      "lat": 46.016667,
+      "lng": 9.233333
+    },
+    {
+      "cityName": "Merate",
+      "lat": 45.7,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Mercallo di Sassi",
+      "lat": 45.75,
+      "lng": 8.666667
+    },
+    {
+      "cityName": "Mergozzo",
+      "lat": 45.966667,
+      "lng": 8.433333
+    },
+    {
+      "cityName": "Mese",
+      "lat": 46.3,
+      "lng": 9.383333
+    },
+    {
+      "cityName": "Mezzana Bigli",
+      "lat": 45.066667,
+      "lng": 8.85
+    },
+    {
+      "cityName": "Mezzana Rabattone",
+      "lat": 45.083333,
+      "lng": 9.033333
+    },
+    {
+      "cityName": "Mezzanino",
+      "lat": 45.116667,
+      "lng": 9.2
+    },
+    {
+      "cityName": "Mezzano Siccomario",
+      "lat": 45.133333,
+      "lng": 9.15
+    },
+    {
+      "cityName": "Miazzina di Dentro",
+      "lat": 45.966667,
+      "lng": 8.516667
+    },
+    {
+      "cityName": "Michelazza",
+      "lat": 44.983333,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Migiandone",
+      "lat": 45.983333,
+      "lng": 8.383333
+    },
+    {
+      "cityName": "Mirabello Ciria",
+      "lat": 45.266667,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Miradolo",
+      "lat": 45.166667,
+      "lng": 9.433333
+    },
+    {
+      "cityName": "Misano di Gera d'Adda",
+      "lat": 45.466667,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Misinto",
+      "lat": 45.65,
+      "lng": 9.083333
+    },
+    {
+      "cityName": "Missaglia",
+      "lat": 45.716667,
+      "lng": 9.333333
+    },
+    {
+      "cityName": "Moggio",
+      "lat": 45.933333,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Molino Alzano",
+      "lat": 45.016667,
+      "lng": 8.883333
+    },
+    {
+      "cityName": "Molino",
+      "lat": 46.033333,
+      "lng": 9.166667
+    },
+    {
+      "cityName": "Molino Nuovo",
+      "lat": 46.05,
+      "lng": 9.25
+    },
+    {
+      "cityName": "Molteno",
+      "lat": 45.766667,
+      "lng": 9.3
+    },
+    {
+      "cityName": "Monaci",
+      "lat": 46,
+      "lng": 9.75
+    },
+    {
+      "cityName": "Monasterolo del Castello",
+      "lat": 45.766667,
+      "lng": 9.933333
+    },
+    {
+      "cityName": "Moniga",
+      "lat": 45.516667,
+      "lng": 10.533333
+    },
+    {
+      "cityName": "Montalbo",
+      "lat": 44.966667,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Montalto",
+      "lat": 44.983333,
+      "lng": 9.2
+    },
+    {
+      "cityName": "Montanaso Lombardo",
+      "lat": 45.333333,
+      "lng": 9.466667
+    },
+    {
+      "cityName": "Montebello della Battaglia",
+      "lat": 45,
+      "lng": 9.1
+    },
+    {
+      "cityName": "Montecucco",
+      "lat": 45.616667,
+      "lng": 10.55
+    },
+    {
+      "cityName": "Monte Marenzo",
+      "lat": 45.766667,
+      "lng": 9.45
+    },
+    {
+      "cityName": "Monte",
+      "lat": 45.5,
+      "lng": 10.5
+    },
+    {
+      "cityName": "Monterecchio",
+      "lat": 46.083333,
+      "lng": 8.783333
+    },
+    {
+      "cityName": "Montespluga",
+      "lat": 46.483333,
+      "lng": 9.333333
+    },
+    {
+      "cityName": "Monteviasco",
+      "lat": 46.066667,
+      "lng": 8.833333
+    },
+    {
+      "cityName": "Monticelli",
+      "lat": 45.25,
+      "lng": 9.65
+    },
+    {
+      "cityName": "Montichiari",
+      "lat": 45.416667,
+      "lng": 10.383333
+    },
+    {
+      "cityName": "Monti di Grandola",
+      "lat": 46.05,
+      "lng": 9.183333
+    },
+    {
+      "cityName": "Monti di Pino",
+      "lat": 46.083333,
+      "lng": 8.766667
+    },
+    {
+      "cityName": "Montii Beccaria",
+      "lat": 45.033333,
+      "lng": 9.3
+    },
+    {
+      "cityName": "Montinelle",
+      "lat": 45.55,
+      "lng": 10.55
+    },
+    {
+      "cityName": "Monti Rus di Tavaino",
+      "lat": 46.083333,
+      "lng": 9.133333
+    },
+    {
+      "cityName": "Montodine",
+      "lat": 45.283333,
+      "lng": 9.7
+    },
+    {
+      "cityName": "Montù Beccaria",
+      "lat": 45.033333,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Montu de' Gabbi",
+      "lat": 45.05,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Monza",
+      "lat": 45.583333,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Morasco",
+      "lat": 46.433333,
+      "lng": 8.4
+    },
+    {
+      "cityName": "Morbegno",
+      "lat": 46.133333,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Morbio",
+      "lat": 46.133333,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Morimondo",
+      "lat": 45.35,
+      "lng": 8.95
+    },
+    {
+      "cityName": "Mornago",
+      "lat": 45.75,
+      "lng": 8.75
+    },
+    {
+      "cityName": "Mortara",
+      "lat": 45.25,
+      "lng": 8.733333
+    },
+    {
+      "cityName": "Morterone",
+      "lat": 45.866667,
+      "lng": 9.466667
+    },
+    {
+      "cityName": "Moscazzano",
+      "lat": 45.283333,
+      "lng": 9.683333
+    },
+    {
+      "cityName": "Mosina",
+      "lat": 45.533333,
+      "lng": 10.416667
+    },
+    {
+      "cityName": "Mossini",
+      "lat": 46.166667,
+      "lng": 9.85
+    },
+    {
+      "cityName": "Motella",
+      "lat": 45.333333,
+      "lng": 10
+    },
+    {
+      "cityName": "Motta",
+      "lat": 46.416667,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Motta Visconti",
+      "lat": 45.283333,
+      "lng": 8.983333
+    },
+    {
+      "cityName": "Mozzanica",
+      "lat": 45.483333,
+      "lng": 9.683333
+    },
+    {
+      "cityName": "Mozzate",
+      "lat": 45.683333,
+      "lng": 8.95
+    },
+    {
+      "cityName": "Mozzio",
+      "lat": 46.216667,
+      "lng": 8.3
+    },
+    {
+      "cityName": "Muggiò",
+      "lat": 45.583333,
+      "lng": 9.216667
+    },
+    {
+      "cityName": "Mura",
+      "lat": 45.716667,
+      "lng": 10.333333
+    },
+    {
+      "cityName": "Murata",
+      "lat": 46.083333,
+      "lng": 8.266667
+    },
+    {
+      "cityName": "Musignano",
+      "lat": 46.066667,
+      "lng": 8.75
+    },
+    {
+      "cityName": "Musita",
+      "lat": 45.833333,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Musocco",
+      "lat": 45.5,
+      "lng": 9.133333
+    },
+    {
+      "cityName": "Musso",
+      "lat": 46.116667,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Naggio",
+      "lat": 46.033333,
+      "lng": 9.2
+    },
+    {
+      "cityName": "Nasolino",
+      "lat": 45.9,
+      "lng": 9.933333
+    },
+    {
+      "cityName": "Nave",
+      "lat": 45.583333,
+      "lng": 10.283333
+    },
+    {
+      "cityName": "Nembro",
+      "lat": 45.75,
+      "lng": 9.75
+    },
+    {
+      "cityName": "Nerviano",
+      "lat": 45.55,
+      "lng": 8.966667
+    },
+    {
+      "cityName": "Nezza",
+      "lat": 46.183333,
+      "lng": 8.383333
+    },
+    {
+      "cityName": "Nigola",
+      "lat": 46.166667,
+      "lng": 10.016667
+    },
+    {
+      "cityName": "Nona",
+      "lat": 46,
+      "lng": 10.05
+    },
+    {
+      "cityName": "Nossa",
+      "lat": 45.866667,
+      "lng": 9.883333
+    },
+    {
+      "cityName": "Nova Milanese",
+      "lat": 45.583333,
+      "lng": 9.2
+    },
+    {
+      "cityName": "Novate Mezzola",
+      "lat": 46.25,
+      "lng": 9.45
+    },
+    {
+      "cityName": "Novate Milanese",
+      "lat": 45.533333,
+      "lng": 9.133333
+    },
+    {
+      "cityName": "Nozza",
+      "lat": 45.7,
+      "lng": 10.383333
+    },
+    {
+      "cityName": "Nuvolento",
+      "lat": 45.533333,
+      "lng": 10.383333
+    },
+    {
+      "cityName": "Odolo",
+      "lat": 45.65,
+      "lng": 10.383333
+    },
+    {
+      "cityName": "Offanengo",
+      "lat": 45.366667,
+      "lng": 9.733333
+    },
+    {
+      "cityName": "Offlaga",
+      "lat": 45.383333,
+      "lng": 10.1
+    },
+    {
+      "cityName": "Oggiaro",
+      "lat": 45.483333,
+      "lng": 9.183333
+    },
+    {
+      "cityName": "Oggiono",
+      "lat": 45.783333,
+      "lng": 9.333333
+    },
+    {
+      "cityName": "Oira",
+      "lat": 46.183333,
+      "lng": 8.316667
+    },
+    {
+      "cityName": "Oldaniga",
+      "lat": 45.616667,
+      "lng": 9.383333
+    },
+    {
+      "cityName": "Olda",
+      "lat": 45.883333,
+      "lng": 9.55
+    },
+    {
+      "cityName": "Olevano di Lomellina",
+      "lat": 45.216667,
+      "lng": 8.716667
+    },
+    {
+      "cityName": "Olgia",
+      "lat": 46.15,
+      "lng": 8.583333
+    },
+    {
+      "cityName": "Olgiasca",
+      "lat": 46.116667,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Olgiate Comasco",
+      "lat": 45.8,
+      "lng": 8.966667
+    },
+    {
+      "cityName": "Olgiate Olona",
+      "lat": 45.633333,
+      "lng": 8.883333
+    },
+    {
+      "cityName": "Olginate",
+      "lat": 45.8,
+      "lng": 9.4
+    },
+    {
+      "cityName": "Oliveto Lario",
+      "lat": 45.933333,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "Olmeneta",
+      "lat": 45.233333,
+      "lng": 10.016667
+    },
+    {
+      "cityName": "Olmo al Brembo",
+      "lat": 45.966667,
+      "lng": 9.65
+    },
+    {
+      "cityName": "Oltre il Colle",
+      "lat": 45.9,
+      "lng": 9.766667
+    },
+    {
+      "cityName": "Oltrona di San Mamette",
+      "lat": 45.75,
+      "lng": 8.983333
+    },
+    {
+      "cityName": "Omegna",
+      "lat": 45.883333,
+      "lng": 8.4
+    },
+    {
+      "cityName": "Oneta",
+      "lat": 45.866667,
+      "lng": 9.816667
+    },
+    {
+      "cityName": "Onno",
+      "lat": 45.916667,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "Onzato",
+      "lat": 45.483333,
+      "lng": 10.166667
+    },
+    {
+      "cityName": "Opera",
+      "lat": 45.366667,
+      "lng": 9.2
+    },
+    {
+      "cityName": "Orasso",
+      "lat": 46.1,
+      "lng": 8.583333
+    },
+    {
+      "cityName": "Orezzo",
+      "lat": 45.8,
+      "lng": 9.816667
+    },
+    {
+      "cityName": "Oria",
+      "lat": 46.016667,
+      "lng": 9.033333
+    },
+    {
+      "cityName": "Origgio",
+      "lat": 45.6,
+      "lng": 9.016667
+    },
+    {
+      "cityName": "Orio al Serio",
+      "lat": 45.666667,
+      "lng": 9.683333
+    },
+    {
+      "cityName": "Oriolo",
+      "lat": 45.033333,
+      "lng": 9.016667
+    },
+    {
+      "cityName": "Ornago",
+      "lat": 45.6,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Ornavasso",
+      "lat": 45.966667,
+      "lng": 8.4
+    },
+    {
+      "cityName": "Ornica",
+      "lat": 45.983333,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Orsenigo",
+      "lat": 45.766667,
+      "lng": 9.166667
+    },
+    {
+      "cityName": "Orta",
+      "lat": 45.8,
+      "lng": 8.416667
+    },
+    {
+      "cityName": "Orzinuovi",
+      "lat": 45.4,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Orzivecchi",
+      "lat": 45.416667,
+      "lng": 9.95
+    },
+    {
+      "cityName": "Osmate Lentate",
+      "lat": 45.783333,
+      "lng": 8.65
+    },
+    {
+      "cityName": "Osnago",
+      "lat": 45.666667,
+      "lng": 9.383333
+    },
+    {
+      "cityName": "Ospitaletto di Cormono",
+      "lat": 45.533333,
+      "lng": 9.15
+    },
+    {
+      "cityName": "Ossago",
+      "lat": 45.233333,
+      "lng": 9.533333
+    },
+    {
+      "cityName": "Ossona",
+      "lat": 45.5,
+      "lng": 8.9
+    },
+    {
+      "cityName": "Ostiano",
+      "lat": 45.216667,
+      "lng": 10.25
+    },
+    {
+      "cityName": "Ottobiano",
+      "lat": 45.15,
+      "lng": 8.833333
+    },
+    {
+      "cityName": "Ozzero",
+      "lat": 45.366667,
+      "lng": 8.916667
+    },
+    {
+      "cityName": "Padenghe",
+      "lat": 45.516667,
+      "lng": 10.483333
+    },
+    {
+      "cityName": "Paderno d'Adda",
+      "lat": 45.666667,
+      "lng": 9.433333
+    },
+    {
+      "cityName": "Paderno Dugnano",
+      "lat": 45.55,
+      "lng": 9.166667
+    },
+    {
+      "cityName": "Paderno Franciacorta",
+      "lat": 45.583333,
+      "lng": 10.066667
+    },
+    {
+      "cityName": "Pagnona",
+      "lat": 46.05,
+      "lng": 9.4
+    },
+    {
+      "cityName": "Palazzolo",
+      "lat": 45.6,
+      "lng": 9.883333
+    },
+    {
+      "cityName": "Pallanza",
+      "lat": 45.916667,
+      "lng": 8.55
+    },
+    {
+      "cityName": "Pallanzeno",
+      "lat": 46.05,
+      "lng": 8.25
+    },
+    {
+      "cityName": "Palosco",
+      "lat": 45.583333,
+      "lng": 9.833333
+    },
+    {
+      "cityName": "Pancarana",
+      "lat": 45.066667,
+      "lng": 9.05
+    },
+    {
+      "cityName": "Pandino",
+      "lat": 45.4,
+      "lng": 9.55
+    },
+    {
+      "cityName": "Pantigliate",
+      "lat": 45.433333,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Papia",
+      "lat": 45.166667,
+      "lng": 9.166667
+    },
+    {
+      "cityName": "Parabiago",
+      "lat": 45.55,
+      "lng": 8.95
+    },
+    {
+      "cityName": "Parasacco",
+      "lat": 45.233333,
+      "lng": 8.966667
+    },
+    {
+      "cityName": "Paratico",
+      "lat": 45.65,
+      "lng": 9.95
+    },
+    {
+      "cityName": "Parpinasca",
+      "lat": 46.1,
+      "lng": 8.333333
+    },
+    {
+      "cityName": "Paruzzaro",
+      "lat": 45.75,
+      "lng": 8.5
+    },
+    {
+      "cityName": "Parzanica",
+      "lat": 45.733333,
+      "lng": 10.033333
+    },
+    {
+      "cityName": "Pasiano",
+      "lat": 45.816667,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "Passirano",
+      "lat": 45.6,
+      "lng": 10.05
+    },
+    {
+      "cityName": "Paullo",
+      "lat": 45.416667,
+      "lng": 9.4
+    },
+    {
+      "cityName": "Pavone del Mella",
+      "lat": 45.3,
+      "lng": 10.2
+    },
+    {
+      "cityName": "Pedemonte",
+      "lat": 45.933333,
+      "lng": 8.416667
+    },
+    {
+      "cityName": "Pedergnaga Oriana",
+      "lat": 45.366667,
+      "lng": 10.016667
+    },
+    {
+      "cityName": "Pedergnano",
+      "lat": 45.583333,
+      "lng": 10
+    },
+    {
+      "cityName": "Pedesina",
+      "lat": 46.083333,
+      "lng": 9.55
+    },
+    {
+      "cityName": "Peghera",
+      "lat": 45.866667,
+      "lng": 9.55
+    },
+    {
+      "cityName": "Pella",
+      "lat": 45.8,
+      "lng": 8.383333
+    },
+    {
+      "cityName": "Pellio d'Intelvi Inferiore",
+      "lat": 45.983333,
+      "lng": 9.066667
+    },
+    {
+      "cityName": "Pellio d'Intelvi Superiore",
+      "lat": 45.983333,
+      "lng": 9.05
+    },
+    {
+      "cityName": "Perlisa",
+      "lat": 45.783333,
+      "lng": 9.95
+    },
+    {
+      "cityName": "Peschiera",
+      "lat": 45.433333,
+      "lng": 9.333333
+    },
+    {
+      "cityName": "Pestarena",
+      "lat": 45.95,
+      "lng": 8.016667
+    },
+    {
+      "cityName": "Pianazzo",
+      "lat": 46.416667,
+      "lng": 9.333333
+    },
+    {
+      "cityName": "Pian Borno",
+      "lat": 45.916667,
+      "lng": 10.2
+    },
+    {
+      "cityName": "Pianca",
+      "lat": 45.9,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Pian Cavallo",
+      "lat": 46.016667,
+      "lng": 8.633333
+    },
+    {
+      "cityName": "Piancogno",
+      "lat": 45.916667,
+      "lng": 10.216667
+    },
+    {
+      "cityName": "Piane",
+      "lat": 44.95,
+      "lng": 9.066667
+    },
+    {
+      "cityName": "Piani Resinelli",
+      "lat": 45.9,
+      "lng": 9.383333
+    },
+    {
+      "cityName": "Piano",
+      "lat": 45.783333,
+      "lng": 10.25
+    },
+    {
+      "cityName": "Piantedo",
+      "lat": 46.133333,
+      "lng": 9.433333
+    },
+    {
+      "cityName": "Piateda",
+      "lat": 46.15,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Piazza Brembana",
+      "lat": 45.95,
+      "lng": 9.666667
+    },
+    {
+      "cityName": "Piazza",
+      "lat": 45.583333,
+      "lng": 10.133333
+    },
+    {
+      "cityName": "Piazzatorre",
+      "lat": 45.983333,
+      "lng": 9.666667
+    },
+    {
+      "cityName": "Piazzeno",
+      "lat": 46.216667,
+      "lng": 8.35
+    },
+    {
+      "cityName": "Piazzo Basso",
+      "lat": 45.833333,
+      "lng": 9.666667
+    },
+    {
+      "cityName": "Picedo",
+      "lat": 45.55,
+      "lng": 10.5
+    },
+    {
+      "cityName": "Piedilago",
+      "lat": 46.283333,
+      "lng": 8.35
+    },
+    {
+      "cityName": "Piedimulera",
+      "lat": 46.016667,
+      "lng": 8.266667
+    },
+    {
+      "cityName": "Pietra de' Giorgi",
+      "lat": 45.016667,
+      "lng": 9.216667
+    },
+    {
+      "cityName": "Pietro",
+      "lat": 46.25,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Pieve Albignola",
+      "lat": 45.133333,
+      "lng": 8.95
+    },
+    {
+      "cityName": "Pieve",
+      "lat": 45.65,
+      "lng": 10.233333
+    },
+    {
+      "cityName": "Pieve Porto Morone",
+      "lat": 45.116667,
+      "lng": 9.433333
+    },
+    {
+      "cityName": "Pieve Vergonte",
+      "lat": 46,
+      "lng": 8.266667
+    },
+    {
+      "cityName": "Pigra",
+      "lat": 45.966667,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Pino Lago Maggiore",
+      "lat": 46.1,
+      "lng": 8.733333
+    },
+    {
+      "cityName": "Pioltello",
+      "lat": 45.5,
+      "lng": 9.333333
+    },
+    {
+      "cityName": "Piscogne",
+      "lat": 45.8,
+      "lng": 10.1
+    },
+    {
+      "cityName": "Piuro",
+      "lat": 46.333333,
+      "lng": 9.433333
+    },
+    {
+      "cityName": "Pizzoni",
+      "lat": 44.983333,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Poggio",
+      "lat": 46.083333,
+      "lng": 8.716667
+    },
+    {
+      "cityName": "Poggiridenti",
+      "lat": 46.166667,
+      "lng": 9.883333
+    },
+    {
+      "cityName": "Pogliano Milanese",
+      "lat": 45.533333,
+      "lng": 8.983333
+    },
+    {
+      "cityName": "Pognana Lario",
+      "lat": 45.866667,
+      "lng": 9.15
+    },
+    {
+      "cityName": "Pogno",
+      "lat": 45.75,
+      "lng": 8.383333
+    },
+    {
+      "cityName": "Poira di Dentro",
+      "lat": 46.166667,
+      "lng": 9.55
+    },
+    {
+      "cityName": "Poira di Fuori",
+      "lat": 46.166667,
+      "lng": 9.533333
+    },
+    {
+      "cityName": "Poira",
+      "lat": 46.133333,
+      "lng": 9.733333
+    },
+    {
+      "cityName": "Polaggia",
+      "lat": 46.166667,
+      "lng": 9.75
+    },
+    {
+      "cityName": "Pomeo",
+      "lat": 45.716667,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Pompiano",
+      "lat": 45.433333,
+      "lng": 9.983333
+    },
+    {
+      "cityName": "Poncarale",
+      "lat": 45.45,
+      "lng": 10.166667
+    },
+    {
+      "cityName": "Ponna Inferiore",
+      "lat": 45.983333,
+      "lng": 9.083333
+    },
+    {
+      "cityName": "Ponna Superiore",
+      "lat": 45.983333,
+      "lng": 9.1
+    },
+    {
+      "cityName": "Ponte Chiasso",
+      "lat": 45.833333,
+      "lng": 9.033333
+    },
+    {
+      "cityName": "Ponte della Selva",
+      "lat": 45.866667,
+      "lng": 9.9
+    },
+    {
+      "cityName": "Ponteggia",
+      "lat": 46.316667,
+      "lng": 9.466667
+    },
+    {
+      "cityName": "Ponte Lambro",
+      "lat": 45.833333,
+      "lng": 9.216667
+    },
+    {
+      "cityName": "Ponte San Pietro",
+      "lat": 45.7,
+      "lng": 9.583333
+    },
+    {
+      "cityName": "Pontevico",
+      "lat": 45.266667,
+      "lng": 10.083333
+    },
+    {
+      "cityName": "Pontida",
+      "lat": 45.716667,
+      "lng": 9.5
+    },
+    {
+      "cityName": "Porle",
+      "lat": 45.6,
+      "lng": 10.366667
+    },
+    {
+      "cityName": "Porlezza",
+      "lat": 46.033333,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Portalbera",
+      "lat": 45.083333,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Porto Ceresio",
+      "lat": 45.9,
+      "lng": 8.916667
+    },
+    {
+      "cityName": "Porto Valtravaglia",
+      "lat": 45.966667,
+      "lng": 8.683333
+    },
+    {
+      "cityName": "Postalesio",
+      "lat": 46.166667,
+      "lng": 9.766667
+    },
+    {
+      "cityName": "Prabernardo",
+      "lat": 46.05,
+      "lng": 8.133333
+    },
+    {
+      "cityName": "Prado",
+      "lat": 45.2,
+      "lng": 9.2
+    },
+    {
+      "cityName": "Pralboino",
+      "lat": 45.266667,
+      "lng": 10.216667
+    },
+    {
+      "cityName": "Prata Camportaccio",
+      "lat": 46.3,
+      "lng": 9.4
+    },
+    {
+      "cityName": "Prati Piastorba",
+      "lat": 46.183333,
+      "lng": 9.833333
+    },
+    {
+      "cityName": "Prato Gudo",
+      "lat": 46.15,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Prato",
+      "lat": 46.05,
+      "lng": 8.166667
+    },
+    {
+      "cityName": "Prato Valentino",
+      "lat": 46.183333,
+      "lng": 10.05
+    },
+    {
+      "cityName": "Preglia",
+      "lat": 46.15,
+      "lng": 8.283333
+    },
+    {
+      "cityName": "Premana",
+      "lat": 46.05,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Premeno",
+      "lat": 45.966667,
+      "lng": 8.583333
+    },
+    {
+      "cityName": "Premosello Chiovenda",
+      "lat": 46,
+      "lng": 8.333333
+    },
+    {
+      "cityName": "Prestone",
+      "lat": 46.383333,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Pudiano",
+      "lat": 45.4,
+      "lng": 10
+    },
+    {
+      "cityName": "Pumenengo",
+      "lat": 45.466667,
+      "lng": 9.866667
+    },
+    {
+      "cityName": "Quarna Sopra",
+      "lat": 45.866667,
+      "lng": 8.366667
+    },
+    {
+      "cityName": "Quarona",
+      "lat": 45.75,
+      "lng": 8.266667
+    },
+    {
+      "cityName": "Quinzano d'Oglio",
+      "lat": 45.316667,
+      "lng": 10
+    },
+    {
+      "cityName": "Rancate",
+      "lat": 45.666667,
+      "lng": 9.25
+    },
+    {
+      "cityName": "Rancio Valcuvia",
+      "lat": 45.916667,
+      "lng": 8.766667
+    },
+    {
+      "cityName": "Ranco",
+      "lat": 45.8,
+      "lng": 8.583333
+    },
+    {
+      "cityName": "Rasura",
+      "lat": 46.1,
+      "lng": 9.55
+    },
+    {
+      "cityName": "Regoledo",
+      "lat": 46.016667,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Regona",
+      "lat": 45.233333,
+      "lng": 10.216667
+    },
+    {
+      "cityName": "Remedello Sopra",
+      "lat": 45.266667,
+      "lng": 10.366667
+    },
+    {
+      "cityName": "Remedello Sotto",
+      "lat": 45.25,
+      "lng": 10.366667
+    },
+    {
+      "cityName": "Re",
+      "lat": 46.133333,
+      "lng": 8.55
+    },
+    {
+      "cityName": "Rescaldina",
+      "lat": 45.616667,
+      "lng": 8.95
+    },
+    {
+      "cityName": "Retorbido",
+      "lat": 44.95,
+      "lng": 9.033333
+    },
+    {
+      "cityName": "Rezzago",
+      "lat": 45.866667,
+      "lng": 9.25
+    },
+    {
+      "cityName": "Rezzato",
+      "lat": 45.516667,
+      "lng": 10.316667
+    },
+    {
+      "cityName": "Rezzonico",
+      "lat": 46.066667,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Rho",
+      "lat": 45.533333,
+      "lng": 9.033333
+    },
+    {
+      "cityName": "Riale",
+      "lat": 46.416667,
+      "lng": 8.416667
+    },
+    {
+      "cityName": "Rido",
+      "lat": 46.166667,
+      "lng": 8.3
+    },
+    {
+      "cityName": "Rimasco",
+      "lat": 45.85,
+      "lng": 8.066667
+    },
+    {
+      "cityName": "Rimella",
+      "lat": 45.916667,
+      "lng": 8.183333
+    },
+    {
+      "cityName": "Ripalta Cremasca",
+      "lat": 45.333333,
+      "lng": 9.683333
+    },
+    {
+      "cityName": "Riva",
+      "lat": 46.233333,
+      "lng": 9.433333
+    },
+    {
+      "cityName": "Rivolta d'Adda",
+      "lat": 45.466667,
+      "lng": 9.516667
+    },
+    {
+      "cityName": "Robbiate",
+      "lat": 45.683333,
+      "lng": 9.433333
+    },
+    {
+      "cityName": "Robecco d'Oglio",
+      "lat": 45.25,
+      "lng": 10.066667
+    },
+    {
+      "cityName": "Robecco sul Naviglio",
+      "lat": 45.433333,
+      "lng": 8.883333
+    },
+    {
+      "cityName": "Rocca d'Anfo",
+      "lat": 45.783333,
+      "lng": 10.483333
+    },
+    {
+      "cityName": "Rocca de'Giorgi",
+      "lat": 44.95,
+      "lng": 9.25
+    },
+    {
+      "cityName": "Rocca del Colle",
+      "lat": 45.65,
+      "lng": 9.766667
+    },
+    {
+      "cityName": "Roccafranca",
+      "lat": 45.466667,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Rocca",
+      "lat": 45.85,
+      "lng": 8.266667
+    },
+    {
+      "cityName": "Rodano",
+      "lat": 45.466667,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Rogeredo",
+      "lat": 45.416667,
+      "lng": 9.233333
+    },
+    {
+      "cityName": "Rognano",
+      "lat": 45.283333,
+      "lng": 9.083333
+    },
+    {
+      "cityName": "Rogolo",
+      "lat": 46.133333,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Romanengo",
+      "lat": 45.366667,
+      "lng": 9.783333
+    },
+    {
+      "cityName": "Romano di Lombardia",
+      "lat": 45.516667,
+      "lng": 9.75
+    },
+    {
+      "cityName": "Ronchi",
+      "lat": 46.1,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Ronco Todeschino",
+      "lat": 45.35,
+      "lng": 9.783333
+    },
+    {
+      "cityName": "Rosate",
+      "lat": 45.35,
+      "lng": 9.016667
+    },
+    {
+      "cityName": "Rovagnate",
+      "lat": 45.733333,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Rovato",
+      "lat": 45.566667,
+      "lng": 10
+    },
+    {
+      "cityName": "Rovellasca",
+      "lat": 45.666667,
+      "lng": 9.05
+    },
+    {
+      "cityName": "Rovello Porro",
+      "lat": 45.65,
+      "lng": 9.033333
+    },
+    {
+      "cityName": "Rovetta",
+      "lat": 45.883333,
+      "lng": 9.983333
+    },
+    {
+      "cityName": "Rozzano",
+      "lat": 45.366667,
+      "lng": 9.15
+    },
+    {
+      "cityName": "Rudiano",
+      "lat": 45.483333,
+      "lng": 9.866667
+    },
+    {
+      "cityName": "Ruginello",
+      "lat": 45.633333,
+      "lng": 9.383333
+    },
+    {
+      "cityName": "Sabbia",
+      "lat": 45.85,
+      "lng": 8.233333
+    },
+    {
+      "cityName": "Sabbio Chiese",
+      "lat": 45.65,
+      "lng": 10.416667
+    },
+    {
+      "cityName": "Sacco",
+      "lat": 46.116667,
+      "lng": 9.55
+    },
+    {
+      "cityName": "Sairano",
+      "lat": 45.133333,
+      "lng": 9.033333
+    },
+    {
+      "cityName": "Sale Marasino",
+      "lat": 45.716667,
+      "lng": 10.1
+    },
+    {
+      "cityName": "Saline",
+      "lat": 46.25,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Salò",
+      "lat": 45.6,
+      "lng": 10.516667
+    },
+    {
+      "cityName": "Salvirola",
+      "lat": 45.35,
+      "lng": 9.766667
+    },
+    {
+      "cityName": "Samarate",
+      "lat": 45.633333,
+      "lng": 8.783333
+    },
+    {
+      "cityName": "Samboseto",
+      "lat": 44.95,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "San Bartolomeo",
+      "lat": 45.883333,
+      "lng": 9.783333
+    },
+    {
+      "cityName": "San Bernardo",
+      "lat": 46.183333,
+      "lng": 9.983333
+    },
+    {
+      "cityName": "San Biagio",
+      "lat": 45.216667,
+      "lng": 8.966667
+    },
+    {
+      "cityName": "San Cassiano",
+      "lat": 46.266667,
+      "lng": 9.383333
+    },
+    {
+      "cityName": "San Cipriano Po",
+      "lat": 45.116667,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "San Colombano al Lambro",
+      "lat": 45.183333,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "San Cristina e Bissone",
+      "lat": 45.15,
+      "lng": 9.4
+    },
+    {
+      "cityName": "San Damiano al Colle",
+      "lat": 45.016667,
+      "lng": 9.35
+    },
+    {
+      "cityName": "San Donato Milanese",
+      "lat": 45.416667,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "San Fedele Inferiore",
+      "lat": 45.95,
+      "lng": 9.066667
+    },
+    {
+      "cityName": "San Fedele Intelvi di sopra",
+      "lat": 45.966667,
+      "lng": 9.066667
+    },
+    {
+      "cityName": "San Fedele",
+      "lat": 45.133333,
+      "lng": 9.083333
+    },
+    {
+      "cityName": "San Felice del Benaco",
+      "lat": 45.583333,
+      "lng": 10.55
+    },
+    {
+      "cityName": "San Genesio ed Uniti",
+      "lat": 45.233333,
+      "lng": 9.166667
+    },
+    {
+      "cityName": "San Gervasio Bresciano",
+      "lat": 45.3,
+      "lng": 10.15
+    },
+    {
+      "cityName": "San Giorgio di Lomellina",
+      "lat": 45.166667,
+      "lng": 8.783333
+    },
+    {
+      "cityName": "San Giovanni Bianco",
+      "lat": 45.866667,
+      "lng": 9.65
+    },
+    {
+      "cityName": "San Giuliano Milanese",
+      "lat": 45.4,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "San Leonardo",
+      "lat": 45.15,
+      "lng": 9.216667
+    },
+    {
+      "cityName": "San Lorenzo",
+      "lat": 46.133333,
+      "lng": 8.2
+    },
+    {
+      "cityName": "San Martino Olearo",
+      "lat": 45.416667,
+      "lng": 9.333333
+    },
+    {
+      "cityName": "San Martino",
+      "lat": 46.233333,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "San Martino Siccomario",
+      "lat": 45.15,
+      "lng": 9.133333
+    },
+    {
+      "cityName": "San Maurizio d'Opaglio",
+      "lat": 45.783333,
+      "lng": 8.4
+    },
+    {
+      "cityName": "San Michele",
+      "lat": 45.683333,
+      "lng": 9.05
+    },
+    {
+      "cityName": "Sannazzara de' Burgondi",
+      "lat": 45.1,
+      "lng": 8.9
+    },
+    {
+      "cityName": "San Pietro all'Olmo",
+      "lat": 45.483333,
+      "lng": 9
+    },
+    {
+      "cityName": "San Polo",
+      "lat": 45.516667,
+      "lng": 10.266667
+    },
+    {
+      "cityName": "San Rocco",
+      "lat": 45.5,
+      "lng": 10.416667
+    },
+    {
+      "cityName": "San Sebastiano",
+      "lat": 45.633333,
+      "lng": 10.266667
+    },
+    {
+      "cityName": "Santa Brigida",
+      "lat": 45.983333,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Santa Giuletta",
+      "lat": 45.033333,
+      "lng": 9.183333
+    },
+    {
+      "cityName": "Santa Maria Maggiore",
+      "lat": 46.133333,
+      "lng": 8.466667
+    },
+    {
+      "cityName": "Sant'Angelo Lodigiano",
+      "lat": 45.233333,
+      "lng": 9.4
+    },
+    {
+      "cityName": "Santa",
+      "lat": 45.616667,
+      "lng": 9.3
+    },
+    {
+      "cityName": "Santo Spirito",
+      "lat": 45.166667,
+      "lng": 9.016667
+    },
+    {
+      "cityName": "Santo Stefano Ticino",
+      "lat": 45.483333,
+      "lng": 8.916667
+    },
+    {
+      "cityName": "San Vito",
+      "lat": 45.416667,
+      "lng": 9
+    },
+    {
+      "cityName": "San Vittore",
+      "lat": 46.3,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "San Zenone al Lambro",
+      "lat": 45.316667,
+      "lng": 9.35
+    },
+    {
+      "cityName": "San Zenone al Po",
+      "lat": 45.1,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Sarezzo",
+      "lat": 45.65,
+      "lng": 10.2
+    },
+    {
+      "cityName": "Sarnico",
+      "lat": 45.666667,
+      "lng": 9.95
+    },
+    {
+      "cityName": "Saronno",
+      "lat": 45.633333,
+      "lng": 9.033333
+    },
+    {
+      "cityName": "Sassella",
+      "lat": 46.15,
+      "lng": 9.816667
+    },
+    {
+      "cityName": "Scaldasole",
+      "lat": 45.133333,
+      "lng": 8.9
+    },
+    {
+      "cityName": "Scandolara Ripa d'Oglio",
+      "lat": 45.216667,
+      "lng": 10.15
+    },
+    {
+      "cityName": "Scareno",
+      "lat": 46.016667,
+      "lng": 8.583333
+    },
+    {
+      "cityName": "Schianno",
+      "lat": 45.783333,
+      "lng": 8.833333
+    },
+    {
+      "cityName": "Schilpario",
+      "lat": 46.016667,
+      "lng": 10.15
+    },
+    {
+      "cityName": "Scierz",
+      "lat": 46.083333,
+      "lng": 8.65
+    },
+    {
+      "cityName": "Secugnago",
+      "lat": 45.233333,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Sedriano",
+      "lat": 45.483333,
+      "lng": 8.966667
+    },
+    {
+      "cityName": "Sedrina",
+      "lat": 45.783333,
+      "lng": 9.633333
+    },
+    {
+      "cityName": "Segrate",
+      "lat": 45.483333,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "Selvetta",
+      "lat": 46.15,
+      "lng": 9.683333
+    },
+    {
+      "cityName": "Selvino",
+      "lat": 45.8,
+      "lng": 9.75
+    },
+    {
+      "cityName": "Semiana",
+      "lat": 45.133333,
+      "lng": 8.733333
+    },
+    {
+      "cityName": "Senago",
+      "lat": 45.583333,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Seregno",
+      "lat": 45.65,
+      "lng": 9.2
+    },
+    {
+      "cityName": "Sergnano",
+      "lat": 45.433333,
+      "lng": 9.7
+    },
+    {
+      "cityName": "Serina",
+      "lat": 45.866667,
+      "lng": 9.733333
+    },
+    {
+      "cityName": "Serio",
+      "lat": 45.716667,
+      "lng": 9.733333
+    },
+    {
+      "cityName": "Serle",
+      "lat": 45.55,
+      "lng": 10.35
+    },
+    {
+      "cityName": "Sesto Calende",
+      "lat": 45.733333,
+      "lng": 8.633333
+    },
+    {
+      "cityName": "Sesto San Giovanni",
+      "lat": 45.533333,
+      "lng": 9.233333
+    },
+    {
+      "cityName": "Seveso",
+      "lat": 45.65,
+      "lng": 9.15
+    },
+    {
+      "cityName": "Silvano Pietra",
+      "lat": 45.05,
+      "lng": 8.95
+    },
+    {
+      "cityName": "Siviano",
+      "lat": 45.716667,
+      "lng": 10.066667
+    },
+    {
+      "cityName": "Siziano",
+      "lat": 45.333333,
+      "lng": 9.2
+    },
+    {
+      "cityName": "Solaro",
+      "lat": 45.616667,
+      "lng": 9.066667
+    },
+    {
+      "cityName": "Solbiate Arno",
+      "lat": 45.733333,
+      "lng": 8.816667
+    },
+    {
+      "cityName": "Solbiate Olona",
+      "lat": 45.65,
+      "lng": 8.883333
+    },
+    {
+      "cityName": "Solto Collina",
+      "lat": 45.766667,
+      "lng": 10.016667
+    },
+    {
+      "cityName": "Somma Lombardo",
+      "lat": 45.683333,
+      "lng": 8.7
+    },
+    {
+      "cityName": "Soncino",
+      "lat": 45.4,
+      "lng": 9.866667
+    },
+    {
+      "cityName": "Sondrio",
+      "lat": 46.166667,
+      "lng": 9.866667
+    },
+    {
+      "cityName": "Soresina",
+      "lat": 45.283333,
+      "lng": 9.85
+    },
+    {
+      "cityName": "Sorisole",
+      "lat": 45.75,
+      "lng": 9.65
+    },
+    {
+      "cityName": "Sormano",
+      "lat": 45.883333,
+      "lng": 9.25
+    },
+    {
+      "cityName": "Soste",
+      "lat": 46.466667,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Sovere",
+      "lat": 45.816667,
+      "lng": 10.016667
+    },
+    {
+      "cityName": "Spasu",
+      "lat": 46.1,
+      "lng": 8.683333
+    },
+    {
+      "cityName": "Spino al Brembo",
+      "lat": 45.816667,
+      "lng": 9.666667
+    },
+    {
+      "cityName": "Spino d'Adda",
+      "lat": 45.4,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Spirago",
+      "lat": 45.25,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "Spirano",
+      "lat": 45.566667,
+      "lng": 9.65
+    },
+    {
+      "cityName": "Sponda",
+      "lat": 46.033333,
+      "lng": 9.716667
+    },
+    {
+      "cityName": "Stabiel",
+      "lat": 46.216667,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "Starleggia",
+      "lat": 46.416667,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Steppio",
+      "lat": 46,
+      "lng": 8.55
+    },
+    {
+      "cityName": "Stezzano",
+      "lat": 45.633333,
+      "lng": 9.65
+    },
+    {
+      "cityName": "Stradella",
+      "lat": 45.083333,
+      "lng": 9.3
+    },
+    {
+      "cityName": "Stresa Borromeo",
+      "lat": 45.883333,
+      "lng": 8.533333
+    },
+    {
+      "cityName": "Strona",
+      "lat": 45.9,
+      "lng": 8.35
+    },
+    {
+      "cityName": "Strozza",
+      "lat": 45.766667,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Stuetta",
+      "lat": 46.466667,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Sueglio",
+      "lat": 46.083333,
+      "lng": 9.333333
+    },
+    {
+      "cityName": "Sulzano",
+      "lat": 45.683333,
+      "lng": 10.083333
+    },
+    {
+      "cityName": "Taceno",
+      "lat": 46.016667,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Taino",
+      "lat": 45.766667,
+      "lng": 8.616667
+    },
+    {
+      "cityName": "Tassara",
+      "lat": 44.95,
+      "lng": 9.333333
+    },
+    {
+      "cityName": "Tavazzano",
+      "lat": 45.333333,
+      "lng": 9.4
+    },
+    {
+      "cityName": "Tavernola Bergamasca",
+      "lat": 45.7,
+      "lng": 10.05
+    },
+    {
+      "cityName": "Teglio",
+      "lat": 46.166667,
+      "lng": 10.066667
+    },
+    {
+      "cityName": "Telgate",
+      "lat": 45.633333,
+      "lng": 9.85
+    },
+    {
+      "cityName": "Ternate",
+      "lat": 45.783333,
+      "lng": 8.683333
+    },
+    {
+      "cityName": "Terrabona",
+      "lat": 46.083333,
+      "lng": 8.55
+    },
+    {
+      "cityName": "Ticengo",
+      "lat": 45.366667,
+      "lng": 9.816667
+    },
+    {
+      "cityName": "Toline",
+      "lat": 45.783333,
+      "lng": 10.083333
+    },
+    {
+      "cityName": "Torbole",
+      "lat": 45.516667,
+      "lng": 10.116667
+    },
+    {
+      "cityName": "Torlino",
+      "lat": 45.416667,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Tornadri",
+      "lat": 46.266667,
+      "lng": 9.883333
+    },
+    {
+      "cityName": "Torno",
+      "lat": 45.85,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Torrazza Coste",
+      "lat": 44.966667,
+      "lng": 9.083333
+    },
+    {
+      "cityName": "Torre Boldone",
+      "lat": 45.716667,
+      "lng": 9.7
+    },
+    {
+      "cityName": "Torre de' Busi",
+      "lat": 45.766667,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Torre del Mangano",
+      "lat": 45.25,
+      "lng": 9.116667
+    },
+    {
+      "cityName": "Torre di Santa Maria",
+      "lat": 46.233333,
+      "lng": 9.85
+    },
+    {
+      "cityName": "Torre d'Isola",
+      "lat": 45.216667,
+      "lng": 9.066667
+    },
+    {
+      "cityName": "Tradate",
+      "lat": 45.716667,
+      "lng": 8.9
+    },
+    {
+      "cityName": "Traona",
+      "lat": 46.15,
+      "lng": 9.516667
+    },
+    {
+      "cityName": "Trarego",
+      "lat": 46.033333,
+      "lng": 8.666667
+    },
+    {
+      "cityName": "Travagliato",
+      "lat": 45.516667,
+      "lng": 10.083333
+    },
+    {
+      "cityName": "Travedona",
+      "lat": 45.8,
+      "lng": 8.666667
+    },
+    {
+      "cityName": "Tremenico",
+      "lat": 46.066667,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Trescore Balneario",
+      "lat": 45.683333,
+      "lng": 9.833333
+    },
+    {
+      "cityName": "Trescore Cremasco",
+      "lat": 45.4,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Tresenda",
+      "lat": 46.166667,
+      "lng": 10.083333
+    },
+    {
+      "cityName": "Treviglio",
+      "lat": 45.516667,
+      "lng": 9.583333
+    },
+    {
+      "cityName": "Trezzano Rosa",
+      "lat": 45.583333,
+      "lng": 9.466667
+    },
+    {
+      "cityName": "Trezzano sul Naviglio",
+      "lat": 45.416667,
+      "lng": 9.066667
+    },
+    {
+      "cityName": "Tribiano",
+      "lat": 45.4,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Trigolo",
+      "lat": 45.316667,
+      "lng": 9.8
+    },
+    {
+      "cityName": "Tromello",
+      "lat": 45.2,
+      "lng": 8.866667
+    },
+    {
+      "cityName": "Tronzano Lago Maggiore",
+      "lat": 46.083333,
+      "lng": 8.733333
+    },
+    {
+      "cityName": "Trucazzano",
+      "lat": 45.483333,
+      "lng": 9.466667
+    },
+    {
+      "cityName": "Turano Lodigiano",
+      "lat": 45.25,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Uggiate",
+      "lat": 45.833333,
+      "lng": 8.983333
+    },
+    {
+      "cityName": "Urgnano",
+      "lat": 45.583333,
+      "lng": 9.683333
+    },
+    {
+      "cityName": "Usmate",
+      "lat": 45.65,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Vaccarizza",
+      "lat": 45.133333,
+      "lng": 9.216667
+    },
+    {
+      "cityName": "Vaiano Cremasco",
+      "lat": 45.366667,
+      "lng": 9.583333
+    },
+    {
+      "cityName": "Vaiano Lodigiano",
+      "lat": 45.45,
+      "lng": 9.433333
+    },
+    {
+      "cityName": "Vailate",
+      "lat": 45.466667,
+      "lng": 9.6
+    },
+    {
+      "cityName": "Vairano",
+      "lat": 45.266667,
+      "lng": 9.233333
+    },
+    {
+      "cityName": "Valburga",
+      "lat": 46.066667,
+      "lng": 9.566667
+    },
+    {
+      "cityName": "Valcava",
+      "lat": 45.8,
+      "lng": 9.516667
+    },
+    {
+      "cityName": "Valdamonte",
+      "lat": 44.983333,
+      "lng": 9.316667
+    },
+    {
+      "cityName": "Val Dorizzo",
+      "lat": 45.866667,
+      "lng": 10.433333
+    },
+    {
+      "cityName": "Valduggia",
+      "lat": 45.733333,
+      "lng": 8.316667
+    },
+    {
+      "cityName": "Valeggio",
+      "lat": 45.15,
+      "lng": 8.866667
+    },
+    {
+      "cityName": "Vall'Alta",
+      "lat": 45.766667,
+      "lng": 9.833333
+    },
+    {
+      "cityName": "Vallaro",
+      "lat": 46.133333,
+      "lng": 8.15
+    },
+    {
+      "cityName": "Valle",
+      "lat": 46.233333,
+      "lng": 8.166667
+    },
+    {
+      "cityName": "Valmadrera",
+      "lat": 45.85,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Val Madre",
+      "lat": 46.116667,
+      "lng": 9.75
+    },
+    {
+      "cityName": "Valmaggiore",
+      "lat": 45.783333,
+      "lng": 9.983333
+    },
+    {
+      "cityName": "Valmoresca",
+      "lat": 46,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Valnegra",
+      "lat": 45.95,
+      "lng": 9.683333
+    },
+    {
+      "cityName": "Valpiana",
+      "lat": 45.883333,
+      "lng": 9.733333
+    },
+    {
+      "cityName": "Valsecca",
+      "lat": 45.833333,
+      "lng": 9.5
+    },
+    {
+      "cityName": "Valtesse",
+      "lat": 45.716667,
+      "lng": 9.666667
+    },
+    {
+      "cityName": "Valtorta",
+      "lat": 45.983333,
+      "lng": 9.533333
+    },
+    {
+      "cityName": "Vanzago",
+      "lat": 45.516667,
+      "lng": 9
+    },
+    {
+      "cityName": "Vanzone con San Carlo",
+      "lat": 45.983333,
+      "lng": 8.1
+    },
+    {
+      "cityName": "Vaprio d'Adda",
+      "lat": 45.583333,
+      "lng": 9.516667
+    },
+    {
+      "cityName": "Varallo Pombia",
+      "lat": 45.666667,
+      "lng": 8.633333
+    },
+    {
+      "cityName": "Varallo Sésia",
+      "lat": 45.816667,
+      "lng": 8.25
+    },
+    {
+      "cityName": "Varcencio",
+      "lat": 46.15,
+      "lng": 8.2
+    },
+    {
+      "cityName": "Varedo",
+      "lat": 45.6,
+      "lng": 9.15
+    },
+    {
+      "cityName": "Varenna",
+      "lat": 46.016667,
+      "lng": 9.283333
+    },
+    {
+      "cityName": "Varese",
+      "lat": 45.8,
+      "lng": 8.833333
+    },
+    {
+      "cityName": "Varzo",
+      "lat": 46.2,
+      "lng": 8.25
+    },
+    {
+      "cityName": "Vedano Olona",
+      "lat": 45.766667,
+      "lng": 8.883333
+    },
+    {
+      "cityName": "Velate",
+      "lat": 45.85,
+      "lng": 8.8
+    },
+    {
+      "cityName": "Veleso",
+      "lat": 45.9,
+      "lng": 9.166667
+    },
+    {
+      "cityName": "Velina",
+      "lat": 46,
+      "lng": 8.45
+    },
+    {
+      "cityName": "Vellezzo Bellini",
+      "lat": 45.266667,
+      "lng": 9.083333
+    },
+    {
+      "cityName": "Venegono Inferiore",
+      "lat": 45.733333,
+      "lng": 8.9
+    },
+    {
+      "cityName": "Venegono Superiore",
+      "lat": 45.75,
+      "lng": 8.9
+    },
+    {
+      "cityName": "Veralanuova",
+      "lat": 45.316667,
+      "lng": 10.066667
+    },
+    {
+      "cityName": "Verceia",
+      "lat": 46.2,
+      "lng": 9.45
+    },
+    {
+      "cityName": "Vercurago",
+      "lat": 45.816667,
+      "lng": 9.433333
+    },
+    {
+      "cityName": "Verdello",
+      "lat": 45.6,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Vergano",
+      "lat": 45.783333,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Vergiate",
+      "lat": 45.716667,
+      "lng": 8.7
+    },
+    {
+      "cityName": "Vermezzo",
+      "lat": 45.4,
+      "lng": 8.983333
+    },
+    {
+      "cityName": "Vernate",
+      "lat": 45.316667,
+      "lng": 9.05
+    },
+    {
+      "cityName": "Verolavecchia",
+      "lat": 45.316667,
+      "lng": 10.05
+    },
+    {
+      "cityName": "Verrua Siccomario",
+      "lat": 45.116667,
+      "lng": 9.166667
+    },
+    {
+      "cityName": "Vertemate con Minoprio",
+      "lat": 45.733333,
+      "lng": 9.066667
+    },
+    {
+      "cityName": "Vestone",
+      "lat": 45.7,
+      "lng": 10.4
+    },
+    {
+      "cityName": "Viboldone",
+      "lat": 45.383333,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Vicomarino",
+      "lat": 44.983333,
+      "lng": 9.4
+    },
+    {
+      "cityName": "Vidigulfo",
+      "lat": 45.283333,
+      "lng": 9.233333
+    },
+    {
+      "cityName": "Vigazzuolo",
+      "lat": 46.216667,
+      "lng": 9.4
+    },
+    {
+      "cityName": "Vigentino",
+      "lat": 45.433333,
+      "lng": 9.2
+    },
+    {
+      "cityName": "Vigevano",
+      "lat": 45.316667,
+      "lng": 8.85
+    },
+    {
+      "cityName": "Viggiù",
+      "lat": 45.866667,
+      "lng": 8.9
+    },
+    {
+      "cityName": "Vigino",
+      "lat": 46.016667,
+      "lng": 8.183333
+    },
+    {
+      "cityName": "Vignate",
+      "lat": 45.483333,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Vigolo",
+      "lat": 45.716667,
+      "lng": 10.016667
+    },
+    {
+      "cityName": "Villachiara",
+      "lat": 45.35,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Villa Chiavenna",
+      "lat": 46.333333,
+      "lng": 9.483333
+    },
+    {
+      "cityName": "Villa Cortese",
+      "lat": 45.566667,
+      "lng": 8.883333
+    },
+    {
+      "cityName": "Villa d'Alme",
+      "lat": 45.75,
+      "lng": 9.616667
+    },
+    {
+      "cityName": "Villadossola",
+      "lat": 46.066667,
+      "lng": 8.266667
+    },
+    {
+      "cityName": "Villa Fornace",
+      "lat": 44.966667,
+      "lng": 9.25
+    },
+    {
+      "cityName": "Villa Fornaci",
+      "lat": 45.55,
+      "lng": 9.45
+    },
+    {
+      "cityName": "Villaggio Badia",
+      "lat": 45.533333,
+      "lng": 10.166667
+    },
+    {
+      "cityName": "Villaggio Ferrari",
+      "lat": 45.516667,
+      "lng": 10.216667
+    },
+    {
+      "cityName": "Villamaggiore",
+      "lat": 45.316667,
+      "lng": 9.166667
+    },
+    {
+      "cityName": "Villanterio",
+      "lat": 45.216667,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Villanuova sul clisi",
+      "lat": 45.6,
+      "lng": 10.45
+    },
+    {
+      "cityName": "Villa",
+      "lat": 45.633333,
+      "lng": 10.183333
+    },
+    {
+      "cityName": "Villongo Sant'Alessandro",
+      "lat": 45.666667,
+      "lng": 9.933333
+    },
+    {
+      "cityName": "Vilmaggiore",
+      "lat": 46,
+      "lng": 10.1
+    },
+    {
+      "cityName": "Vimercate",
+      "lat": 45.616667,
+      "lng": 9.366667
+    },
+    {
+      "cityName": "Vimodrone",
+      "lat": 45.5,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Visano",
+      "lat": 45.316667,
+      "lng": 10.366667
+    },
+    {
+      "cityName": "Vittuone",
+      "lat": 45.483333,
+      "lng": 8.95
+    },
+    {
+      "cityName": "Vobarno",
+      "lat": 45.65,
+      "lng": 10.5
+    },
+    {
+      "cityName": "Voga",
+      "lat": 46.3,
+      "lng": 9.35
+    },
+    {
+      "cityName": "Voghera",
+      "lat": 44.983333,
+      "lng": 9.016667
+    },
+    {
+      "cityName": "Vogogna",
+      "lat": 46.016667,
+      "lng": 8.283333
+    },
+    {
+      "cityName": "Volpara",
+      "lat": 44.95,
+      "lng": 9.3
+    },
+    {
+      "cityName": "Volpino",
+      "lat": 45.833333,
+      "lng": 10.083333
+    },
+    {
+      "cityName": "Zandobbio",
+      "lat": 45.683333,
+      "lng": 9.85
+    },
+    {
+      "cityName": "Zanica",
+      "lat": 45.633333,
+      "lng": 9.683333
+    },
+    {
+      "cityName": "Zelo Buon Persico",
+      "lat": 45.4,
+      "lng": 9.416667
+    },
+    {
+      "cityName": "Zerbolò",
+      "lat": 45.2,
+      "lng": 9
+    },
+    {
+      "cityName": "Zerbo",
+      "lat": 45.1,
+      "lng": 9.383333
+    },
+    {
+      "cityName": "Ziano Piacentino",
+      "lat": 45,
+      "lng": 9.4
+    },
+    {
+      "cityName": "Zibido al Lambro",
+      "lat": 45.266667,
+      "lng": 9.266667
+    },
+    {
+      "cityName": "Zibido San Giacomo",
+      "lat": 45.366667,
+      "lng": 9.1
+    },
+    {
+      "cityName": "Zinasco Nuovo",
+      "lat": 45.116667,
+      "lng": 9
+    },
+    {
+      "cityName": "Zogno",
+      "lat": 45.8,
+      "lng": 9.666667
+    }
+  ]
+}

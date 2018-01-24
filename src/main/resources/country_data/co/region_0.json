@@ -1,0 +1,990 @@
+{
+  "name": "Amazonas",
+  "cities": [
+    {
+      "cityName": "Abisinia",
+      "lat": -1.3833333,
+      "lng": -72.2
+    },
+    {
+      "cityName": "Alegría",
+      "lat": -2.6166667,
+      "lng": -70.0833333
+    },
+    {
+      "cityName": "Alianza",
+      "lat": -2.8833333,
+      "lng": -69.7666667
+    },
+    {
+      "cityName": "Alpena",
+      "lat": -1.0166667,
+      "lng": -74.0666667
+    },
+    {
+      "cityName": "Amacocha",
+      "lat": -1.4166667,
+      "lng": -73.55
+    },
+    {
+      "cityName": "Angostura",
+      "lat": -0.45,
+      "lng": -72.5166667
+    },
+    {
+      "cityName": "Arambaza",
+      "lat": 2.0666667,
+      "lng": -73.1
+    },
+    {
+      "cityName": "Ararac",
+      "lat": -0.8,
+      "lng": -72.3333333
+    },
+    {
+      "cityName": "Araracuara",
+      "lat": -0.6333333,
+      "lng": -72.25
+    },
+    {
+      "cityName": "Araras de Coemas",
+      "lat": -1.2166667,
+      "lng": -72.3333333
+    },
+    {
+      "cityName": "Argelia",
+      "lat": -0.9333333,
+      "lng": -73.7166667
+    },
+    {
+      "cityName": "Arica",
+      "lat": -2.1333333,
+      "lng": -71.7333333
+    },
+    {
+      "cityName": "Atenas",
+      "lat": -0.6,
+      "lng": -72.9
+    },
+    {
+      "cityName": "Avila",
+      "lat": -1.0333333,
+      "lng": -70.3333333
+    },
+    {
+      "cityName": "Bárbara",
+      "lat": -0.8833333,
+      "lng": -72.5
+    },
+    {
+      "cityName": "Barranquilla",
+      "lat": -2.3833333,
+      "lng": -70.5666667
+    },
+    {
+      "cityName": "Barras",
+      "lat": -1.75,
+      "lng": -73.2166667
+    },
+    {
+      "cityName": "Bellavista",
+      "lat": -1.2833333,
+      "lng": -72.9166667
+    },
+    {
+      "cityName": "Bocas de Cahuinarí",
+      "lat": -1.4275,
+      "lng": -70.7430556
+    },
+    {
+      "cityName": "Buenos Aires",
+      "lat": -3.1666667,
+      "lng": -69.9833333
+    },
+    {
+      "cityName": "Burí Burí",
+      "lat": -2.3333333,
+      "lng": -72.0333333
+    },
+    {
+      "cityName": "Cachorras",
+      "lat": -1.2333333,
+      "lng": -72.1833333
+    },
+    {
+      "cityName": "Calderón",
+      "lat": -1.4666667,
+      "lng": -73.5166667
+    },
+    {
+      "cityName": "Camilo Torres",
+      "lat": -4.175,
+      "lng": -69.9405556
+    },
+    {
+      "cityName": "Campoamor",
+      "lat": -0.8333333,
+      "lng": -71.15
+    },
+    {
+      "cityName": "Candencio",
+      "lat": -2.4666667,
+      "lng": -70.3
+    },
+    {
+      "cityName": "Cartagena",
+      "lat": -2.4666667,
+      "lng": -72.2666667
+    },
+    {
+      "cityName": "Chanaumes",
+      "lat": -0.8666667,
+      "lng": -71.9833333
+    },
+    {
+      "cityName": "Characa",
+      "lat": -2.8166667,
+      "lng": -69.7833333
+    },
+    {
+      "cityName": "Charapita",
+      "lat": -0.65,
+      "lng": -74.3666667
+    },
+    {
+      "cityName": "Chorrera",
+      "lat": -0.7333333,
+      "lng": -73.0166667
+    },
+    {
+      "cityName": "Concepción",
+      "lat": -0.8833333,
+      "lng": -72.85
+    },
+    {
+      "cityName": "Condar",
+      "lat": -1.5166667,
+      "lng": -72.05
+    },
+    {
+      "cityName": "Coraros",
+      "lat": -0.4,
+      "lng": -74.0333333
+    },
+    {
+      "cityName": "Córdoba",
+      "lat": -1.2458333,
+      "lng": -69.7219444
+    },
+    {
+      "cityName": "Cuira",
+      "lat": -0.4594444,
+      "lng": -73.5908333
+    },
+    {
+      "cityName": "Delgado",
+      "lat": -1.3833333,
+      "lng": -73.45
+    },
+    {
+      "cityName": "Dorado",
+      "lat": -1.5833333,
+      "lng": -73.3
+    },
+    {
+      "cityName": "El Encanto",
+      "lat": -1.7666667,
+      "lng": -73.2
+    },
+    {
+      "cityName": "El Palmar",
+      "lat": -4.1472222,
+      "lng": -69.9933333
+    },
+    {
+      "cityName": "El Porvenir",
+      "lat": -4.1638889,
+      "lng": -69.9780556
+    },
+    {
+      "cityName": "El Refugio",
+      "lat": -0.5833333,
+      "lng": -74.3666667
+    },
+    {
+      "cityName": "Equireyes",
+      "lat": -0.7,
+      "lng": -72.85
+    },
+    {
+      "cityName": "Esperanza",
+      "lat": -0.5833333,
+      "lng": -73.9166667
+    },
+    {
+      "cityName": "Faiajenes",
+      "lat": -0.7666667,
+      "lng": -73.3166667
+    },
+    {
+      "cityName": "Fitata",
+      "lat": -0.8,
+      "lng": -72.8333333
+    },
+    {
+      "cityName": "Gavilanes",
+      "lat": -1.0666667,
+      "lng": -71.8833333
+    },
+    {
+      "cityName": "Granada",
+      "lat": -1.0833333,
+      "lng": -73.5666667
+    },
+    {
+      "cityName": "Guacayá",
+      "lat": -0.9919444,
+      "lng": -70.4183333
+    },
+    {
+      "cityName": "Guamio",
+      "lat": -0.65,
+      "lng": -73.3
+    },
+    {
+      "cityName": "Guidones",
+      "lat": -1.1666667,
+      "lng": -73.2333333
+    },
+    {
+      "cityName": "Hayos",
+      "lat": -1.25,
+      "lng": -73.6
+    },
+    {
+      "cityName": "Huarumes",
+      "lat": -1.4666667,
+      "lng": -72.4166667
+    },
+    {
+      "cityName": "Indostán",
+      "lat": -1.9,
+      "lng": -72.2666667
+    },
+    {
+      "cityName": "Internado Santa Sofia",
+      "lat": -3.9333333,
+      "lng": -70.15
+    },
+    {
+      "cityName": "Ipunas",
+      "lat": -0.5333333,
+      "lng": -73.5666667
+    },
+    {
+      "cityName": "Itiquenes",
+      "lat": -0.6166667,
+      "lng": -73.2
+    },
+    {
+      "cityName": "Itiquilla",
+      "lat": -1.25,
+      "lng": -73.6833333
+    },
+    {
+      "cityName": "Jidina",
+      "lat": -1.2666667,
+      "lng": -73.2333333
+    },
+    {
+      "cityName": "Junín",
+      "lat": -0.8,
+      "lng": -73.95
+    },
+    {
+      "cityName": "La Manigua",
+      "lat": -3.1833333,
+      "lng": -70.2
+    },
+    {
+      "cityName": "La Milagrosa",
+      "lat": -4.1794444,
+      "lng": -69.9758333
+    },
+    {
+      "cityName": "La Pedrera",
+      "lat": -1.3002778,
+      "lng": -69.5638889
+    },
+    {
+      "cityName": "Las Lumas",
+      "lat": -0.4333333,
+      "lng": -74.0166667
+    },
+    {
+      "cityName": "Las Mirañas",
+      "lat": -1.3208333,
+      "lng": -70.8111111
+    },
+    {
+      "cityName": "La Unión",
+      "lat": -0.9833333,
+      "lng": -73.65
+    },
+    {
+      "cityName": "Leticia",
+      "lat": -4.2152778,
+      "lng": -69.9405556
+    },
+    {
+      "cityName": "Loreto",
+      "lat": -3.8466667,
+      "lng": -70.2194444
+    },
+    {
+      "cityName": "Los Guadales",
+      "lat": -4.1708333,
+      "lng": -69.9733333
+    },
+    {
+      "cityName": "Los Monos",
+      "lat": -0.6319444,
+      "lng": -73.1847222
+    },
+    {
+      "cityName": "Los Patricio",
+      "lat": -0.9666667,
+      "lng": -71.7166667
+    },
+    {
+      "cityName": "Lozano",
+      "lat": -4.1441667,
+      "lng": -69.9875
+    },
+    {
+      "cityName": "Macedonia",
+      "lat": -3.8833333,
+      "lng": -70.1880556
+    },
+    {
+      "cityName": "Macharagos",
+      "lat": -0.5833333,
+      "lng": -72.65
+    },
+    {
+      "cityName": "Manduca",
+      "lat": -1.4,
+      "lng": -69.8833333
+    },
+    {
+      "cityName": "Maquias",
+      "lat": -0.5833333,
+      "lng": -72.9833333
+    },
+    {
+      "cityName": "Matarca",
+      "lat": -0.5,
+      "lng": -72.6333333
+    },
+    {
+      "cityName": "Mediodía",
+      "lat": -2.0833333,
+      "lng": -72.1166667
+    },
+    {
+      "cityName": "Menaje",
+      "lat": -1.15,
+      "lng": -72.7
+    },
+    {
+      "cityName": "Mequeranio",
+      "lat": -1.4333333,
+      "lng": -71.5166667
+    },
+    {
+      "cityName": "Miraña",
+      "lat": -1.3333333,
+      "lng": -70.3166667
+    },
+    {
+      "cityName": "Mirití Paraná",
+      "lat": -1.2363889,
+      "lng": -69.9219444
+    },
+    {
+      "cityName": "Monatoy",
+      "lat": -1.45,
+      "lng": -73.05
+    },
+    {
+      "cityName": "Morelia",
+      "lat": -1.1666667,
+      "lng": -72.0333333
+    },
+    {
+      "cityName": "Naimenes",
+      "lat": -0.65,
+      "lng": -73.4
+    },
+    {
+      "cityName": "Nazareth",
+      "lat": -4.1002778,
+      "lng": -70.0416667
+    },
+    {
+      "cityName": "Nenulcaros",
+      "lat": -1.05,
+      "lng": -72.8333333
+    },
+    {
+      "cityName": "Nueva Esperanza",
+      "lat": -4.1716667,
+      "lng": -69.9802778
+    },
+    {
+      "cityName": "Occidente",
+      "lat": -0.9938889,
+      "lng": -73.1036111
+    },
+    {
+      "cityName": "Orientes",
+      "lat": -0.4666667,
+      "lng": -72.7
+    },
+    {
+      "cityName": "Pacoa",
+      "lat": 0.0513889,
+      "lng": -71.2227778
+    },
+    {
+      "cityName": "Palermo",
+      "lat": 0.4,
+      "lng": -73.4666667
+    },
+    {
+      "cityName": "Palestina",
+      "lat": 1.9333333,
+      "lng": -73.1166667
+    },
+    {
+      "cityName": "Palmeras",
+      "lat": -3.8136111,
+      "lng": -70.2638889
+    },
+    {
+      "cityName": "Pamá",
+      "lat": -1.5166667,
+      "lng": -71.3666667
+    },
+    {
+      "cityName": "Pamar",
+      "lat": -1.5166667,
+      "lng": -71.45
+    },
+    {
+      "cityName": "Pensamiento",
+      "lat": -2.4333333,
+      "lng": -70.4666667
+    },
+    {
+      "cityName": "Perca",
+      "lat": 0.6333333,
+      "lng": -74.3333333
+    },
+    {
+      "cityName": "Pimente",
+      "lat": 0.8,
+      "lng": -72.9166667
+    },
+    {
+      "cityName": "Porvenir",
+      "lat": -0.6666667,
+      "lng": -73.5333333
+    },
+    {
+      "cityName": "Providencia",
+      "lat": -1.15,
+      "lng": -72.5666667
+    },
+    {
+      "cityName": "Puerto Alegría",
+      "lat": -1.0333333,
+      "lng": -74.0333333
+    },
+    {
+      "cityName": "Puerto Alfonso",
+      "lat": -2.1833333,
+      "lng": -70.9833333
+    },
+    {
+      "cityName": "Puerto Belén",
+      "lat": -2.15,
+      "lng": -73.05
+    },
+    {
+      "cityName": "Puerto Boyacá",
+      "lat": -2.2666667,
+      "lng": -70.7833333
+    },
+    {
+      "cityName": "Puerto Cahuinari",
+      "lat": -1.3666667,
+      "lng": -70.7166667
+    },
+    {
+      "cityName": "Puerto Caimán",
+      "lat": -1.5680556,
+      "lng": -70.0330556
+    },
+    {
+      "cityName": "Puerto Carlos",
+      "lat": -1.85,
+      "lng": -71.5666667
+    },
+    {
+      "cityName": "Puerto Carranza",
+      "lat": -2.6,
+      "lng": -70.1833333
+    },
+    {
+      "cityName": "Puerto Castro",
+      "lat": -1.75,
+      "lng": -73.2333333
+    },
+    {
+      "cityName": "Puerto César",
+      "lat": 8.0333333,
+      "lng": -76.7333333
+    },
+    {
+      "cityName": "Puerto Colombia",
+      "lat": -4.1908333,
+      "lng": -69.9622222
+    },
+    {
+      "cityName": "Puerto El Porvenir",
+      "lat": -2.5333333,
+      "lng": -70.2333333
+    },
+    {
+      "cityName": "Puerto Elvira",
+      "lat": -2.4288889,
+      "lng": -72.8511111
+    },
+    {
+      "cityName": "Puerto Espinoza",
+      "lat": -0.9,
+      "lng": -74.2666667
+    },
+    {
+      "cityName": "Puerto Grau",
+      "lat": -2.7,
+      "lng": -70.05
+    },
+    {
+      "cityName": "Puerto Inmaculada",
+      "lat": -1.55,
+      "lng": -73.4666667
+    },
+    {
+      "cityName": "Puerto López",
+      "lat": -2.2,
+      "lng": -70.85
+    },
+    {
+      "cityName": "Puerto Macedo",
+      "lat": -1.1833333,
+      "lng": -71.9
+    },
+    {
+      "cityName": "Puerto Maríamanteca",
+      "lat": -1.4141667,
+      "lng": -70.6125
+    },
+    {
+      "cityName": "Puerto Mariti",
+      "lat": -1.1666667,
+      "lng": -69.9833333
+    },
+    {
+      "cityName": "Puerto Nariño",
+      "lat": -3.7702778,
+      "lng": -70.3830556
+    },
+    {
+      "cityName": "Puerto Ñeque",
+      "lat": -1.75,
+      "lng": -73.5
+    },
+    {
+      "cityName": "Puerto Palmas",
+      "lat": -2.6166667,
+      "lng": -70.1833333
+    },
+    {
+      "cityName": "Puerto Porvenir",
+      "lat": -2.55,
+      "lng": -70.25
+    },
+    {
+      "cityName": "Puerto Pupuña",
+      "lat": -2.2833333,
+      "lng": -70.75
+    },
+    {
+      "cityName": "Puerto Reyes",
+      "lat": -0.7,
+      "lng": -74.3166667
+    },
+    {
+      "cityName": "Puerto Santa Sofia",
+      "lat": -4.0030556,
+      "lng": -70.14
+    },
+    {
+      "cityName": "Puerto Toledo",
+      "lat": -0.9833333,
+      "lng": -74.15
+    },
+    {
+      "cityName": "Puerto Tolima",
+      "lat": -2.1833333,
+      "lng": -71.6166667
+    },
+    {
+      "cityName": "Puerto Tolosa",
+      "lat": -1.0333333,
+      "lng": -74.15
+    },
+    {
+      "cityName": "Puerto Toro",
+      "lat": -2.35,
+      "lng": -70.6333333
+    },
+    {
+      "cityName": "Puerto Tumaco",
+      "lat": -2.3575,
+      "lng": -72.6025
+    },
+    {
+      "cityName": "Puerto Victoria",
+      "lat": -0.9333333,
+      "lng": -74.2666667
+    },
+    {
+      "cityName": "Pupuña",
+      "lat": -1.8333333,
+      "lng": -71.0833333
+    },
+    {
+      "cityName": "Purma",
+      "lat": -1.9,
+      "lng": -72.05
+    },
+    {
+      "cityName": "Purna Susa",
+      "lat": -1.7,
+      "lng": -73.2333333
+    },
+    {
+      "cityName": "Quebrada San Rafael",
+      "lat": -1.45,
+      "lng": -72.8
+    },
+    {
+      "cityName": "Quinche",
+      "lat": -0.5166667,
+      "lng": -73.5333333
+    },
+    {
+      "cityName": "Recreo",
+      "lat": 1.5166667,
+      "lng": -70.5333333
+    },
+    {
+      "cityName": "Remolino",
+      "lat": -1.2666667,
+      "lng": -73.6333333
+    },
+    {
+      "cityName": "Renaldo Rivadeneira",
+      "lat": 0.6833333,
+      "lng": -74.3333333
+    },
+    {
+      "cityName": "Reserva",
+      "lat": -1.2166667,
+      "lng": -73.3833333
+    },
+    {
+      "cityName": "Retiro",
+      "lat": -2.2666667,
+      "lng": -71.0833333
+    },
+    {
+      "cityName": "Ricaurte",
+      "lat": -1.1166667,
+      "lng": -70.25
+    },
+    {
+      "cityName": "Ronda",
+      "lat": -4.1397222,
+      "lng": -69.9963889
+    },
+    {
+      "cityName": "Rondiña",
+      "lat": -4.1911111,
+      "lng": -69.9958333
+    },
+    {
+      "cityName": "Sabana",
+      "lat": -0.75,
+      "lng": -72.4666667
+    },
+    {
+      "cityName": "Sacanía",
+      "lat": -1.3833333,
+      "lng": -72.55
+    },
+    {
+      "cityName": "San Agustín",
+      "lat": 1.6166667,
+      "lng": -73.45
+    },
+    {
+      "cityName": "San Andrés",
+      "lat": -1.4166667,
+      "lng": -73.5166667
+    },
+    {
+      "cityName": "San Antonio",
+      "lat": -0.7166667,
+      "lng": -74.3166667
+    },
+    {
+      "cityName": "San Cristóbal",
+      "lat": -2.35,
+      "lng": -73.0333333
+    },
+    {
+      "cityName": "San Fernando",
+      "lat": -4.1536111,
+      "lng": -69.9566667
+    },
+    {
+      "cityName": "San Francisco de Orellana",
+      "lat": -4.1541667,
+      "lng": -69.9802778
+    },
+    {
+      "cityName": "San Francisco",
+      "lat": -1.1166667,
+      "lng": -71.1166667
+    },
+    {
+      "cityName": "San Jorge",
+      "lat": -4.1458333,
+      "lng": -69.9088889
+    },
+    {
+      "cityName": "San José",
+      "lat": -1.6333333,
+      "lng": -73.2666667
+    },
+    {
+      "cityName": "San Juan de Atacuari",
+      "lat": -3.7666667,
+      "lng": -70.6333333
+    },
+    {
+      "cityName": "San Juan de Loreto Yacu",
+      "lat": -3.6166667,
+      "lng": -70.5666667
+    },
+    {
+      "cityName": "San Juan de Soco",
+      "lat": -3.7361111,
+      "lng": -70.4927778
+    },
+    {
+      "cityName": "San Martín",
+      "lat": -3.7708333,
+      "lng": -70.3
+    },
+    {
+      "cityName": "San Rafael",
+      "lat": -1.7333333,
+      "lng": -73.2333333
+    },
+    {
+      "cityName": "San Salvador",
+      "lat": -2.25,
+      "lng": -71.45
+    },
+    {
+      "cityName": "Santa Ana",
+      "lat": 6.0666667,
+      "lng": -75.0833333
+    },
+    {
+      "cityName": "Santa Catalina",
+      "lat": -0.9,
+      "lng": -72.4166667
+    },
+    {
+      "cityName": "Santa Clara",
+      "lat": -2.7666667,
+      "lng": -69.6833333
+    },
+    {
+      "cityName": "Santa Elena",
+      "lat": -4.1575,
+      "lng": -69.9794444
+    },
+    {
+      "cityName": "Santa Isabel",
+      "lat": -1.1,
+      "lng": -71.0666667
+    },
+    {
+      "cityName": "Santa Julia",
+      "lat": -1.85,
+      "lng": -72.3666667
+    },
+    {
+      "cityName": "Santa María",
+      "lat": -2.05,
+      "lng": -73.0833333
+    },
+    {
+      "cityName": "Santa Rosa Menaje",
+      "lat": -1.7333333,
+      "lng": -72.5666667
+    },
+    {
+      "cityName": "Santa Rosa",
+      "lat": -0.95,
+      "lng": -72.85
+    },
+    {
+      "cityName": "Santa Teresa",
+      "lat": 2.1166667,
+      "lng": -73.05
+    },
+    {
+      "cityName": "San Vicente de Los Lagos",
+      "lat": -2.3333333,
+      "lng": -73.0666667
+    },
+    {
+      "cityName": "Simón Bolivar",
+      "lat": -4.1466667,
+      "lng": -69.9777778
+    },
+    {
+      "cityName": "Socha",
+      "lat": -1.1666667,
+      "lng": -73.8833333
+    },
+    {
+      "cityName": "Soledad",
+      "lat": -1.8666667,
+      "lng": -72.4666667
+    },
+    {
+      "cityName": "Suariza",
+      "lat": -1.4166667,
+      "lng": -72.4666667
+    },
+    {
+      "cityName": "Supaiposa",
+      "lat": -1.2166667,
+      "lng": -73.7666667
+    },
+    {
+      "cityName": "Tacna",
+      "lat": -2.4,
+      "lng": -70.6166667
+    },
+    {
+      "cityName": "Tarapacá",
+      "lat": -2.8786111,
+      "lng": -69.7441667
+    },
+    {
+      "cityName": "Tarqui",
+      "lat": -1.6333333,
+      "lng": -73.45
+    },
+    {
+      "cityName": "Tatapaca",
+      "lat": -2.8666667,
+      "lng": -69.75
+    },
+    {
+      "cityName": "Tolima A",
+      "lat": -1.2,
+      "lng": -72.2666667
+    },
+    {
+      "cityName": "Tolima B",
+      "lat": -1.5333333,
+      "lng": -71.9666667
+    },
+    {
+      "cityName": "Tolima",
+      "lat": -0.8333333,
+      "lng": -72.3
+    },
+    {
+      "cityName": "Tomás",
+      "lat": -1.3666667,
+      "lng": -69.7666667
+    },
+    {
+      "cityName": "Tribus Yacunas",
+      "lat": -0.8333333,
+      "lng": -70.9666667
+    },
+    {
+      "cityName": "Último Retiro",
+      "lat": -0.3833333,
+      "lng": -73.6166667
+    },
+    {
+      "cityName": "Valderrama",
+      "lat": -1.1333333,
+      "lng": -72.5666667
+    },
+    {
+      "cityName": "Victoria",
+      "lat": -4.15,
+      "lng": -69.95
+    },
+    {
+      "cityName": "Villa Ciencia",
+      "lat": -2.9166667,
+      "lng": -69.9166667
+    },
+    {
+      "cityName": "Villa Flor",
+      "lat": -2.4666667,
+      "lng": -70.4333333
+    },
+    {
+      "cityName": "Yaguas",
+      "lat": -2.7627778,
+      "lng": -70.0602778
+    },
+    {
+      "cityName": "Yauna Moloca",
+      "lat": -0.8666667,
+      "lng": -70.1333333
+    },
+    {
+      "cityName": "Zaragoza",
+      "lat": -3.9138889,
+      "lng": -70.1736111
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Turkmenistan",
+  "iso2": "tm",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Ahal",
+      "id": 0
+    },
+    {
+      "name": "Balkan",
+      "id": 1
+    },
+    {
+      "name": "Dashoguz",
+      "id": 2
+    },
+    {
+      "name": "Lebap",
+      "id": 3
+    },
+    {
+      "name": "Mary",
+      "id": 4
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 5
+    }
+  ],
+  "geoRectangle": {
+    "West": 46.6846046448,
+    "East": 66.6843109131,
+    "North": 47.0156173706,
+    "South": 35.141078949
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 5,
+    "Flg": 2,
+    "Name": "Ashgabat",
+    "GeoPt": [
+      37.57,
+      58.23
+    ]
+  }
+}

@@ -1,0 +1,670 @@
+{
+  "name": "Yevrey",
+  "cities": [
+    {
+      "cityName": "Agnesevskiy",
+      "lat": 48.85,
+      "lng": 131.2166667
+    },
+    {
+      "cityName": "Alekseyevka",
+      "lat": 48.4,
+      "lng": 132.8333333
+    },
+    {
+      "cityName": "Amurzet",
+      "lat": 47.6966667,
+      "lng": 131.0980556
+    },
+    {
+      "cityName": "Ashikan",
+      "lat": 48.55,
+      "lng": 131.1833333
+    },
+    {
+      "cityName": "Ashinga",
+      "lat": 48.5833333,
+      "lng": 131.2
+    },
+    {
+      "cityName": "Babetova",
+      "lat": 48.1166667,
+      "lng": 132.4833333
+    },
+    {
+      "cityName": "Bashmak",
+      "lat": 47.9411111,
+      "lng": 132.0336111
+    },
+    {
+      "cityName": "Bashurova",
+      "lat": 48.6833333,
+      "lng": 130.6
+    },
+    {
+      "cityName": "Belgorodskoye",
+      "lat": 48.6,
+      "lng": 133.8166667
+    },
+    {
+      "cityName": "Bezymyannyy",
+      "lat": 48.6333333,
+      "lng": 131.1666667
+    },
+    {
+      "cityName": "Bidzhan",
+      "lat": 47.9752778,
+      "lng": 131.9430556
+    },
+    {
+      "cityName": "Birabidzhan",
+      "lat": 48.8,
+      "lng": 132.95
+    },
+    {
+      "cityName": "Bira",
+      "lat": 49,
+      "lng": 132.4666667
+    },
+    {
+      "cityName": "Birafeld",
+      "lat": 48.4333333,
+      "lng": 132.7833333
+    },
+    {
+      "cityName": "Birakan",
+      "lat": 49.0166667,
+      "lng": 131.7
+    },
+    {
+      "cityName": "Birikul",
+      "lat": 48.5,
+      "lng": 131.1166667
+    },
+    {
+      "cityName": "Birushka",
+      "lat": 48.3666667,
+      "lng": 132.65
+    },
+    {
+      "cityName": "Blagoslavennoye",
+      "lat": 47.7691667,
+      "lng": 131.3861111
+    },
+    {
+      "cityName": "Blyukherovo",
+      "lat": 47.9352778,
+      "lng": 132.6241667
+    },
+    {
+      "cityName": "Bolshoy Kitay",
+      "lat": 49.0166667,
+      "lng": 132.3166667
+    },
+    {
+      "cityName": "Brikonanka",
+      "lat": 48.2666667,
+      "lng": 130.8
+    },
+    {
+      "cityName": "Budikan",
+      "lat": 49.0166667,
+      "lng": 132.2166667
+    },
+    {
+      "cityName": "Churki",
+      "lat": 48.0833333,
+      "lng": 132.6666667
+    },
+    {
+      "cityName": "Damun",
+      "lat": 48.5333333,
+      "lng": 130.75
+    },
+    {
+      "cityName": "Danilovka",
+      "lat": 48.5833333,
+      "lng": 134.6166667
+    },
+    {
+      "cityName": "Deshnevka",
+      "lat": 48.55,
+      "lng": 134.7
+    },
+    {
+      "cityName": "Dezhnevo",
+      "lat": 47.7952778,
+      "lng": 132.2033333
+    },
+    {
+      "cityName": "Ditur",
+      "lat": 48.7833333,
+      "lng": 131.95
+    },
+    {
+      "cityName": "Dmitriyevka",
+      "lat": 48.4,
+      "lng": 132.6
+    },
+    {
+      "cityName": "Dobraya",
+      "lat": 47.7638889,
+      "lng": 131.6827778
+    },
+    {
+      "cityName": "Dzarmen",
+      "lat": 48.6166667,
+      "lng": 134.6833333
+    },
+    {
+      "cityName": "Ekaterino-Nikolsk",
+      "lat": 47.75,
+      "lng": 130.9666667
+    },
+    {
+      "cityName": "Elayaksa",
+      "lat": 48.6333333,
+      "lng": 134.9
+    },
+    {
+      "cityName": "Ferganishki",
+      "lat": 48.1666667,
+      "lng": 131.95
+    },
+    {
+      "cityName": "Frolovskiy",
+      "lat": 48.75,
+      "lng": 131.2666667
+    },
+    {
+      "cityName": "Golovino",
+      "lat": 48.2,
+      "lng": 133.2166667
+    },
+    {
+      "cityName": "Hingan",
+      "lat": 48.2166667,
+      "lng": 130.7833333
+    },
+    {
+      "cityName": "Imeni Telmana",
+      "lat": 48.5452778,
+      "lng": 134.9822222
+    },
+    {
+      "cityName": "Izvestkovaya",
+      "lat": 48.9833333,
+      "lng": 131.55
+    },
+    {
+      "cityName": "Jelty Yar",
+      "lat": 48.5666667,
+      "lng": 133.05
+    },
+    {
+      "cityName": "Kamyshevka",
+      "lat": 48.5666667,
+      "lng": 134.5166667
+    },
+    {
+      "cityName": "Kandalik",
+      "lat": 49,
+      "lng": 132.1166667
+    },
+    {
+      "cityName": "Kan-Manga",
+      "lat": 48.6166667,
+      "lng": 134.9166667
+    },
+    {
+      "cityName": "Karyer",
+      "lat": 48.6166667,
+      "lng": 133.8
+    },
+    {
+      "cityName": "Katon",
+      "lat": 48.9666667,
+      "lng": 132.1333333
+    },
+    {
+      "cityName": "Kazanka",
+      "lat": 48.4666667,
+      "lng": 133.0666667
+    },
+    {
+      "cityName": "Kazanskiy",
+      "lat": 48.7333333,
+      "lng": 131.25
+    },
+    {
+      "cityName": "Kazulikha",
+      "lat": 48.3666667,
+      "lng": 131.9
+    },
+    {
+      "cityName": "Khingansk",
+      "lat": 49.1166667,
+      "lng": 131.1833333
+    },
+    {
+      "cityName": "Khristenko",
+      "lat": 48.55,
+      "lng": 133.75
+    },
+    {
+      "cityName": "Kimkan",
+      "lat": 48.9666667,
+      "lng": 131.4333333
+    },
+    {
+      "cityName": "Kirovo",
+      "lat": 47.8530556,
+      "lng": 132.0652778
+    },
+    {
+      "cityName": "Kirpichka",
+      "lat": 48.5666667,
+      "lng": 133.7333333
+    },
+    {
+      "cityName": "Krashninskiy",
+      "lat": 47.7833333,
+      "lng": 132.1333333
+    },
+    {
+      "cityName": "Krasnyy Vostok",
+      "lat": 48.6333333,
+      "lng": 132.9666667
+    },
+    {
+      "cityName": "Krasnyy Yar",
+      "lat": 48.9833333,
+      "lng": 132.0666667
+    },
+    {
+      "cityName": "Kukelevo",
+      "lat": 47.8861111,
+      "lng": 132.5219444
+    },
+    {
+      "cityName": "Kuldur",
+      "lat": 49.2166667,
+      "lng": 131.6333333
+    },
+    {
+      "cityName": "Kurga",
+      "lat": 48.8833333,
+      "lng": 132.85
+    },
+    {
+      "cityName": "Landoko",
+      "lat": 49.0333333,
+      "lng": 131.9833333
+    },
+    {
+      "cityName": "Lasarewo",
+      "lat": 48.2333333,
+      "lng": 132.4333333
+    },
+    {
+      "cityName": "Lugovoye",
+      "lat": 47.7,
+      "lng": 131.0833333
+    },
+    {
+      "cityName": "Lugovskoye",
+      "lat": 48.3333333,
+      "lng": 133.9833333
+    },
+    {
+      "cityName": "Maksikha",
+      "lat": 48.25,
+      "lng": 131.5833333
+    },
+    {
+      "cityName": "Marilovets",
+      "lat": 48.2,
+      "lng": 132.9666667
+    },
+    {
+      "cityName": "Marino",
+      "lat": 48.5166667,
+      "lng": 130.6333333
+    },
+    {
+      "cityName": "Mikhaylo-Arhangelskoye",
+      "lat": 48.3333333,
+      "lng": 132.6
+    },
+    {
+      "cityName": "Mogilevka",
+      "lat": 47.9666667,
+      "lng": 134.95
+    },
+    {
+      "cityName": "Nadezhdinskoye",
+      "lat": 48.3,
+      "lng": 133.1833333
+    },
+    {
+      "cityName": "Nagibova",
+      "lat": 47.7472222,
+      "lng": 131.5375
+    },
+    {
+      "cityName": "Nekipelovo",
+      "lat": 48.5166667,
+      "lng": 133.0833333
+    },
+    {
+      "cityName": "Nikolayevka",
+      "lat": 48.5666667,
+      "lng": 134.7666667
+    },
+    {
+      "cityName": "Nikolskoye",
+      "lat": 47.7358333,
+      "lng": 131.2147222
+    },
+    {
+      "cityName": "Nizhneleninskoye",
+      "lat": 47.9638889,
+      "lng": 132.6711111
+    },
+    {
+      "cityName": "Nizhne-Spasskaya",
+      "lat": 48.45,
+      "lng": 134.5333333
+    },
+    {
+      "cityName": "Novo-Kamenka",
+      "lat": 48.6166667,
+      "lng": 134.8166667
+    },
+    {
+      "cityName": "Novotroitskoye",
+      "lat": 48.25,
+      "lng": 131.9833333
+    },
+    {
+      "cityName": "Novoye",
+      "lat": 47.8102778,
+      "lng": 132.3430556
+    },
+    {
+      "cityName": "Obluche",
+      "lat": 49,
+      "lng": 131.0833333
+    },
+    {
+      "cityName": "Obor",
+      "lat": 48.1,
+      "lng": 132.6833333
+    },
+    {
+      "cityName": "Okeanskaya",
+      "lat": 48.2333333,
+      "lng": 132.0333333
+    },
+    {
+      "cityName": "Oktyabr",
+      "lat": 47.85,
+      "lng": 131.5333333
+    },
+    {
+      "cityName": "Oktyabrskoye",
+      "lat": 47.7166667,
+      "lng": 131.5666667
+    },
+    {
+      "cityName": "Orlovka",
+      "lat": 48.4333333,
+      "lng": 134.7166667
+    },
+    {
+      "cityName": "Pashkova",
+      "lat": 48.8833333,
+      "lng": 130.6333333
+    },
+    {
+      "cityName": "Peschanoye",
+      "lat": 48.5833333,
+      "lng": 133.9333333
+    },
+    {
+      "cityName": "Petrovskaya",
+      "lat": 48.2833333,
+      "lng": 133.7333333
+    },
+    {
+      "cityName": "Pokrovka",
+      "lat": 48.5166667,
+      "lng": 134.9166667
+    },
+    {
+      "cityName": "Polevoye",
+      "lat": 47.845,
+      "lng": 131.3408333
+    },
+    {
+      "cityName": "Polikarpovka",
+      "lat": 48.0166667,
+      "lng": 130.75
+    },
+    {
+      "cityName": "Polovinka",
+      "lat": 48.9333333,
+      "lng": 131.1333333
+    },
+    {
+      "cityName": "Pompeyevka",
+      "lat": 48.35,
+      "lng": 130.8166667
+    },
+    {
+      "cityName": "Pozdnyakovo",
+      "lat": 48.3833333,
+      "lng": 134.8166667
+    },
+    {
+      "cityName": "Preobrazhenovka",
+      "lat": 48.0833333,
+      "lng": 131.9
+    },
+    {
+      "cityName": "Priisk Yermakovskiy",
+      "lat": 48.6,
+      "lng": 131.0833333
+    },
+    {
+      "cityName": "Pronkina Protoka",
+      "lat": 48.6166667,
+      "lng": 133
+    },
+    {
+      "cityName": "Radde",
+      "lat": 48.6,
+      "lng": 130.6166667
+    },
+    {
+      "cityName": "Razdolnaya",
+      "lat": 48.7333333,
+      "lng": 132.9
+    },
+    {
+      "cityName": "Razdolnoye",
+      "lat": 48.85,
+      "lng": 132.8333333
+    },
+    {
+      "cityName": "Russkaya Polyana",
+      "lat": 48.3333333,
+      "lng": 133.25
+    },
+    {
+      "cityName": "Russkiy",
+      "lat": 48.8333333,
+      "lng": 131.3166667
+    },
+    {
+      "cityName": "Sagdy-Bira",
+      "lat": 48.95,
+      "lng": 132.6666667
+    },
+    {
+      "cityName": "Samara",
+      "lat": 47.8286111,
+      "lng": 131.2344444
+    },
+    {
+      "cityName": "Solovyevka",
+      "lat": 48.2833333,
+      "lng": 133.25
+    },
+    {
+      "cityName": "Soyuznaya",
+      "lat": 47.9,
+      "lng": 130.9166667
+    },
+    {
+      "cityName": "Starikova",
+      "lat": 48.7666667,
+      "lng": 130.6
+    },
+    {
+      "cityName": "Stepanovka",
+      "lat": 48.1333333,
+      "lng": 133
+    },
+    {
+      "cityName": "Stepnoye",
+      "lat": 47.8902778,
+      "lng": 131.9097222
+    },
+    {
+      "cityName": "Stolbovaya",
+      "lat": 47.9183333,
+      "lng": 131.0588889
+    },
+    {
+      "cityName": "Storozhevoye",
+      "lat": 48.7833333,
+      "lng": 130.6166667
+    },
+    {
+      "cityName": "Sutara",
+      "lat": 48.8333333,
+      "lng": 131.25
+    },
+    {
+      "cityName": "Taudi",
+      "lat": 48.6333333,
+      "lng": 134.8666667
+    },
+    {
+      "cityName": "Teploozersk",
+      "lat": 49,
+      "lng": 131.9
+    },
+    {
+      "cityName": "Teplyye Klyuchi",
+      "lat": 48.65,
+      "lng": 131.6166667
+    },
+    {
+      "cityName": "Tomskaya",
+      "lat": 48.8666667,
+      "lng": 133.4
+    },
+    {
+      "cityName": "Topolevaya",
+      "lat": 48.9,
+      "lng": 132.75
+    },
+    {
+      "cityName": "Tselinnoye",
+      "lat": 48.1333333,
+      "lng": 132.4
+    },
+    {
+      "cityName": "Tulovskiy",
+      "lat": 48.0833333,
+      "lng": 130.6666667
+    },
+    {
+      "cityName": "Udarnyy",
+      "lat": 48.9833333,
+      "lng": 131.15
+    },
+    {
+      "cityName": "Urkan",
+      "lat": 48.4166667,
+      "lng": 131.9
+    },
+    {
+      "cityName": "Urmi",
+      "lat": 48.6333333,
+      "lng": 133.9166667
+    },
+    {
+      "cityName": "Uspenka",
+      "lat": 48.4833333,
+      "lng": 131.9833333
+    },
+    {
+      "cityName": "Ust-Bidzhan",
+      "lat": 47.75,
+      "lng": 132.3
+    },
+    {
+      "cityName": "Valdgeym",
+      "lat": 48.7166667,
+      "lng": 132.9
+    },
+    {
+      "cityName": "Ventseleva",
+      "lat": 47.7830556,
+      "lng": 131.9397222
+    },
+    {
+      "cityName": "Verkhne-Spasskoye",
+      "lat": 48.4333333,
+      "lng": 134.3166667
+    },
+    {
+      "cityName": "Vladimirovka",
+      "lat": 48.4666667,
+      "lng": 134.9
+    },
+    {
+      "cityName": "Volochayevka Vtoraya",
+      "lat": 48.5833333,
+      "lng": 134.5666667
+    },
+    {
+      "cityName": "Vorobyevo",
+      "lat": 48.9666667,
+      "lng": 131.3
+    },
+    {
+      "cityName": "Voskresenovka",
+      "lat": 48.05,
+      "lng": 132.8666667
+    },
+    {
+      "cityName": "Vostochnaya Zarya",
+      "lat": 47.9666667,
+      "lng": 131.2666667
+    },
+    {
+      "cityName": "Yekaterino-Nikolskoye",
+      "lat": 47.75,
+      "lng": 131
+    },
+    {
+      "cityName": "Zabelevo",
+      "lat": 48.3666667,
+      "lng": 134.1166667
+    }
+  ]
+}

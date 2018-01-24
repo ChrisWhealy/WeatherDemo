@@ -1,0 +1,620 @@
+{
+  "name": "South Island - Tasman",
+  "cities": [
+    {
+      "cityName": "Aorere",
+      "lat": -40.716667,
+      "lng": 172.6
+    },
+    {
+      "cityName": "Ariki",
+      "lat": -41.8,
+      "lng": 172.216667
+    },
+    {
+      "cityName": "Atapo",
+      "lat": -41.616667,
+      "lng": 172.783333
+    },
+    {
+      "cityName": "Atawhai",
+      "lat": -41.233333,
+      "lng": 173.316667
+    },
+    {
+      "cityName": "Bainham",
+      "lat": -40.766667,
+      "lng": 172.55
+    },
+    {
+      "cityName": "Baton",
+      "lat": -41.316667,
+      "lng": 172.716667
+    },
+    {
+      "cityName": "Belgrove",
+      "lat": -41.45,
+      "lng": 172.95
+    },
+    {
+      "cityName": "Berlins",
+      "lat": -41.866667,
+      "lng": 171.833333
+    },
+    {
+      "cityName": "Birchfield",
+      "lat": -41.683333,
+      "lng": 171.8
+    },
+    {
+      "cityName": "Blacks Point",
+      "lat": -42.133333,
+      "lng": 171.883333
+    },
+    {
+      "cityName": "Carters Beach",
+      "lat": -41.75,
+      "lng": 171.566667
+    },
+    {
+      "cityName": "Charleston",
+      "lat": -41.9,
+      "lng": 171.433333
+    },
+    {
+      "cityName": "Coal Creek",
+      "lat": -45.483333,
+      "lng": 169.3
+    },
+    {
+      "cityName": "Collingwood",
+      "lat": -40.666667,
+      "lng": 172.683333
+    },
+    {
+      "cityName": "Corbyvale",
+      "lat": -41.5,
+      "lng": 172.05
+    },
+    {
+      "cityName": "Cronadun",
+      "lat": -42.033333,
+      "lng": 171.866667
+    },
+    {
+      "cityName": "Crushington",
+      "lat": -42.15,
+      "lng": 171.9
+    },
+    {
+      "cityName": "Denniston",
+      "lat": -41.733333,
+      "lng": 171.8
+    },
+    {
+      "cityName": "Dovedale",
+      "lat": -41.333333,
+      "lng": 172.933333
+    },
+    {
+      "cityName": "East Takaka",
+      "lat": -40.916667,
+      "lng": 172.833333
+    },
+    {
+      "cityName": "Fairburn",
+      "lat": -35.1,
+      "lng": 173.4
+    },
+    {
+      "cityName": "Fairdown",
+      "lat": -41.733333,
+      "lng": 171.7
+    },
+    {
+      "cityName": "Foxhill",
+      "lat": -41.433333,
+      "lng": 172.983333
+    },
+    {
+      "cityName": "Glenduan",
+      "lat": -41.186111,
+      "lng": 173.365
+    },
+    {
+      "cityName": "Golden Downs",
+      "lat": -41.583333,
+      "lng": 172.883333
+    },
+    {
+      "cityName": "Gowanbridge",
+      "lat": -41.716667,
+      "lng": 172.566667
+    },
+    {
+      "cityName": "Granity",
+      "lat": -41.633333,
+      "lng": 171.85
+    },
+    {
+      "cityName": "Greville Harbour",
+      "lat": -40.816667,
+      "lng": 173.8
+    },
+    {
+      "cityName": "Hector",
+      "lat": -41.6,
+      "lng": 171.883333
+    },
+    {
+      "cityName": "Hira",
+      "lat": -41.215278,
+      "lng": 173.396111
+    },
+    {
+      "cityName": "Hiwipango",
+      "lat": -41.516667,
+      "lng": 172.933333
+    },
+    {
+      "cityName": "Howard",
+      "lat": -41.766667,
+      "lng": 172.666667
+    },
+    {
+      "cityName": "Hukarere",
+      "lat": -42.25,
+      "lng": 171.7
+    },
+    {
+      "cityName": "Ikamatua",
+      "lat": -42.266667,
+      "lng": 171.683333
+    },
+    {
+      "cityName": "Inangahua Camp",
+      "lat": -41.85,
+      "lng": 171.933333
+    },
+    {
+      "cityName": "Inangahua",
+      "lat": -41.85,
+      "lng": 171.95
+    },
+    {
+      "cityName": "Inangahua Landing",
+      "lat": -41.916667,
+      "lng": 171.883333
+    },
+    {
+      "cityName": "Kairuru",
+      "lat": -41.033333,
+      "lng": 172.933333
+    },
+    {
+      "cityName": "Kapowai",
+      "lat": -40.9,
+      "lng": 173.833333
+    },
+    {
+      "cityName": "Kaweku",
+      "lat": -45.933333,
+      "lng": 168.7
+    },
+    {
+      "cityName": "Kikiwa",
+      "lat": -41.65,
+      "lng": 172.866667
+    },
+    {
+      "cityName": "Kongahu",
+      "lat": -41.3,
+      "lng": 172.1
+    },
+    {
+      "cityName": "Korere",
+      "lat": -41.533333,
+      "lng": 172.8
+    },
+    {
+      "cityName": "Korere Valley",
+      "lat": -41.516667,
+      "lng": 172.8
+    },
+    {
+      "cityName": "Little Wanganui",
+      "lat": -41.4,
+      "lng": 172.066667
+    },
+    {
+      "cityName": "Lower Moutere",
+      "lat": -41.15,
+      "lng": 173
+    },
+    {
+      "cityName": "Lyell",
+      "lat": -41.8,
+      "lng": 172.05
+    },
+    {
+      "cityName": "Maori Point",
+      "lat": -44.866667,
+      "lng": 168.683333
+    },
+    {
+      "cityName": "Mapua",
+      "lat": -41.25,
+      "lng": 173.1
+    },
+    {
+      "cityName": "Mararewa",
+      "lat": -41.416667,
+      "lng": 172.833333
+    },
+    {
+      "cityName": "Market Cross",
+      "lat": -41.25,
+      "lng": 172.133333
+    },
+    {
+      "cityName": "Marsden",
+      "lat": -42.566667,
+      "lng": 171.216667
+    },
+    {
+      "cityName": "Maruia",
+      "lat": -42.183333,
+      "lng": 172.216667
+    },
+    {
+      "cityName": "Maruia Springs",
+      "lat": -42.383333,
+      "lng": 172.333333
+    },
+    {
+      "cityName": "Matariki",
+      "lat": -41.416667,
+      "lng": 172.733333
+    },
+    {
+      "cityName": "Mawheraiti",
+      "lat": -42.183333,
+      "lng": 171.716667
+    },
+    {
+      "cityName": "Merrijigs",
+      "lat": -42.2,
+      "lng": 171.883333
+    },
+    {
+      "cityName": "Miko",
+      "lat": -41.533333,
+      "lng": 171.95
+    },
+    {
+      "cityName": "Millerton",
+      "lat": -41.633333,
+      "lng": 171.866667
+    },
+    {
+      "cityName": "Mokihinui Mine",
+      "lat": -41.583333,
+      "lng": 172.016667
+    },
+    {
+      "cityName": "Mokihinui",
+      "lat": -41.516667,
+      "lng": 171.933333
+    },
+    {
+      "cityName": "Motupiko",
+      "lat": -41.45,
+      "lng": 172.8
+    },
+    {
+      "cityName": "Motupipi",
+      "lat": -40.85,
+      "lng": 172.85
+    },
+    {
+      "cityName": "Nelson",
+      "lat": -41.283333,
+      "lng": 173.283333
+    },
+    {
+      "cityName": "Newton Flat",
+      "lat": -41.783333,
+      "lng": 172.166667
+    },
+    {
+      "cityName": "Ngakawau",
+      "lat": -41.616667,
+      "lng": 171.883333
+    },
+    {
+      "cityName": "Ngatimoti",
+      "lat": -41.216667,
+      "lng": 172.9
+    },
+    {
+      "cityName": "Nikau",
+      "lat": -41.55,
+      "lng": 171.933333
+    },
+    {
+      "cityName": "Onekaka",
+      "lat": -40.75,
+      "lng": 172.7
+    },
+    {
+      "cityName": "Oparara",
+      "lat": -41.216667,
+      "lng": 172.116667
+    },
+    {
+      "cityName": "Owen Junction",
+      "lat": -41.7,
+      "lng": 172.5
+    },
+    {
+      "cityName": "Owen River",
+      "lat": -41.65,
+      "lng": 172.45
+    },
+    {
+      "cityName": "Owen Valley",
+      "lat": -41.633333,
+      "lng": 172.516667
+    },
+    {
+      "cityName": "Pahautane",
+      "lat": -42.05,
+      "lng": 171.366667
+    },
+    {
+      "cityName": "Pakawau",
+      "lat": -40.6,
+      "lng": 172.683333
+    },
+    {
+      "cityName": "Pangatotara",
+      "lat": -41.166667,
+      "lng": 172.916667
+    },
+    {
+      "cityName": "Parapara",
+      "lat": -35.016667,
+      "lng": 173.433333
+    },
+    {
+      "cityName": "Patuki",
+      "lat": -40.733333,
+      "lng": 173.95
+    },
+    {
+      "cityName": "Paturau River",
+      "lat": -40.65,
+      "lng": 172.433333
+    },
+    {
+      "cityName": "Pokororo",
+      "lat": -41.216667,
+      "lng": 172.833333
+    },
+    {
+      "cityName": "Port Hardy",
+      "lat": -40.733333,
+      "lng": 173.833333
+    },
+    {
+      "cityName": "Port Motueka",
+      "lat": -41.133333,
+      "lng": 173.016667
+    },
+    {
+      "cityName": "Port Nelson",
+      "lat": -41.266667,
+      "lng": 173.266667
+    },
+    {
+      "cityName": "Puponga",
+      "lat": -40.516667,
+      "lng": 172.716667
+    },
+    {
+      "cityName": "Pyramid",
+      "lat": -45.933333,
+      "lng": 168.766667
+    },
+    {
+      "cityName": "Reefton",
+      "lat": -42.116667,
+      "lng": 171.866667
+    },
+    {
+      "cityName": "Riwaka",
+      "lat": -41.083333,
+      "lng": 173
+    },
+    {
+      "cityName": "Rocklands",
+      "lat": -45.666667,
+      "lng": 169.983333
+    },
+    {
+      "cityName": "Rockville",
+      "lat": -40.733333,
+      "lng": 172.633333
+    },
+    {
+      "cityName": "Rotokohu",
+      "lat": -41.966667,
+      "lng": 171.9
+    },
+    {
+      "cityName": "Seddonville",
+      "lat": -41.55,
+      "lng": 171.983333
+    },
+    {
+      "cityName": "Sergeants Hill",
+      "lat": -41.766667,
+      "lng": 171.65
+    },
+    {
+      "cityName": "Shenandoah",
+      "lat": -41.866667,
+      "lng": 172.25
+    },
+    {
+      "cityName": "Sherry River",
+      "lat": -41.433333,
+      "lng": 172.733333
+    },
+    {
+      "cityName": "Springs Junction",
+      "lat": -42.316667,
+      "lng": 172.183333
+    },
+    {
+      "cityName": "Stanley Brook",
+      "lat": -41.333333,
+      "lng": 172.816667
+    },
+    {
+      "cityName": "Stockton",
+      "lat": -41.633333,
+      "lng": 171.883333
+    },
+    {
+      "cityName": "Stoke",
+      "lat": -41.316667,
+      "lng": 173.233333
+    },
+    {
+      "cityName": "Tadmor",
+      "lat": -41.433333,
+      "lng": 172.75
+    },
+    {
+      "cityName": "Tahunanui",
+      "lat": -41.283333,
+      "lng": 173.25
+    },
+    {
+      "cityName": "Takaka",
+      "lat": -40.85,
+      "lng": 172.8
+    },
+    {
+      "cityName": "Tapawera",
+      "lat": -41.4,
+      "lng": 172.816667
+    },
+    {
+      "cityName": "Tarakohe",
+      "lat": -40.816667,
+      "lng": 172.9
+    },
+    {
+      "cityName": "Tasman",
+      "lat": -41.2,
+      "lng": 173.05
+    },
+    {
+      "cityName": "Tawhai",
+      "lat": -42.15,
+      "lng": 171.8
+    },
+    {
+      "cityName": "Te Namu",
+      "lat": -41.383333,
+      "lng": 172.083333
+    },
+    {
+      "cityName": "Thorpe",
+      "lat": -41.283333,
+      "lng": 172.866667
+    },
+    {
+      "cityName": "Tui",
+      "lat": -41.533333,
+      "lng": 172.733333
+    },
+    {
+      "cityName": "Tutaki",
+      "lat": -41.816667,
+      "lng": 172.466667
+    },
+    {
+      "cityName": "Umukuri",
+      "lat": -41.083333,
+      "lng": 172.966667
+    },
+    {
+      "cityName": "Upper Moutere",
+      "lat": -41.266667,
+      "lng": 173
+    },
+    {
+      "cityName": "Upper Takaka",
+      "lat": -41.033333,
+      "lng": 172.833333
+    },
+    {
+      "cityName": "Uruwhenua",
+      "lat": -40.983333,
+      "lng": 172.816667
+    },
+    {
+      "cityName": "Wai-iti",
+      "lat": -41.433333,
+      "lng": 173
+    },
+    {
+      "cityName": "Waimangaroa",
+      "lat": -41.716667,
+      "lng": 171.766667
+    },
+    {
+      "cityName": "Waimaunga",
+      "lat": -42.233333,
+      "lng": 171.7
+    },
+    {
+      "cityName": "Waitai",
+      "lat": -40.766667,
+      "lng": 173.933333
+    },
+    {
+      "cityName": "Wakapuaka",
+      "lat": -41.206389,
+      "lng": 173.3575
+    },
+    {
+      "cityName": "Wakatu",
+      "lat": -41.3,
+      "lng": 173.25
+    },
+    {
+      "cityName": "Wangamoa",
+      "lat": -41.166667,
+      "lng": 173.533333
+    },
+    {
+      "cityName": "Wangapeka Valley",
+      "lat": -41.35,
+      "lng": 172.116667
+    },
+    {
+      "cityName": "Wangapeka",
+      "lat": -41.416667,
+      "lng": 172.65
+    },
+    {
+      "cityName": "Warwick Junction",
+      "lat": -42.133333,
+      "lng": 172.233333
+    }
+  ]
+}

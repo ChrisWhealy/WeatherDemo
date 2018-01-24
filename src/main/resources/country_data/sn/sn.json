@@ -1,0 +1,79 @@
+{
+  "name": "Senegal",
+  "iso2": "sn",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Dakar",
+      "id": 0
+    },
+    {
+      "name": "Diourbel",
+      "id": 1
+    },
+    {
+      "name": "Fatick",
+      "id": 2
+    },
+    {
+      "name": "Kaolack",
+      "id": 3
+    },
+    {
+      "name": "Kolda",
+      "id": 4
+    },
+    {
+      "name": "Louga",
+      "id": 5
+    },
+    {
+      "name": "Matam",
+      "id": 6
+    },
+    {
+      "name": "Saint-Louis",
+      "id": 7
+    },
+    {
+      "name": "Tambacounda",
+      "id": 8
+    },
+    {
+      "name": "Thies",
+      "id": 9
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 10
+    },
+    {
+      "name": "Unnamed region 02",
+      "id": 11
+    },
+    {
+      "name": "Unnamed region 03",
+      "id": 12
+    },
+    {
+      "name": "Ziguinchor",
+      "id": 13
+    }
+  ],
+  "geoRectangle": {
+    "West": -17.535238266,
+    "East": -11.3558855057,
+    "North": 16.6916351318,
+    "South": 12.3072738647
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 0,
+    "Flg": 2,
+    "Name": "Dakar",
+    "GeoPt": [
+      14.4,
+      -17.26
+    ]
+  }
+}

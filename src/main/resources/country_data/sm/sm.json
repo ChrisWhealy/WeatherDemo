@@ -1,0 +1,39 @@
+{
+  "name": "San Marino",
+  "iso2": "sm",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Acquaviva",
+      "id": 0
+    },
+    {
+      "name": "Chiesanuova",
+      "id": 1
+    },
+    {
+      "name": "San Marino",
+      "id": 2
+    },
+    {
+      "name": "Serravalle",
+      "id": 3
+    }
+  ],
+  "geoRectangle": {
+    "West": 12.4018592834,
+    "East": 12.5155563354,
+    "North": 43.9998092651,
+    "South": 43.8979110718
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "San Marino",
+    "GeoPt": [
+      43.56,
+      12.25
+    ]
+  }
+}

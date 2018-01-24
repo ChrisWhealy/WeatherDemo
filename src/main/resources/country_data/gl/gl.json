@@ -1,0 +1,35 @@
+{
+  "name": "Greenland",
+  "iso2": "gl",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Nordgronland",
+      "id": 0
+    },
+    {
+      "name": "Ostgronland",
+      "id": 1
+    },
+    {
+      "name": "Vestgronland",
+      "id": 2
+    }
+  ],
+  "geoRectangle": {
+    "West": -73.0420379639,
+    "East": -11.3123178482,
+    "North": 83.6273651123,
+    "South": 59.7773971558
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": -3,
+    "Flg": 2,
+    "Name": "Nuuk",
+    "GeoPt": [
+      64.11,
+      -51.45
+    ]
+  }
+}

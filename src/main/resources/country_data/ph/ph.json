@@ -1,0 +1,587 @@
+{
+  "name": "Philippines",
+  "iso2": "ph",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Abra",
+      "id": 0
+    },
+    {
+      "name": "Agusan del Norte",
+      "id": 1
+    },
+    {
+      "name": "Agusan del Sur",
+      "id": 2
+    },
+    {
+      "name": "Aklan",
+      "id": 3
+    },
+    {
+      "name": "Albay",
+      "id": 4
+    },
+    {
+      "name": "Angeles",
+      "id": 5
+    },
+    {
+      "name": "Antique",
+      "id": 6
+    },
+    {
+      "name": "Aurora",
+      "id": 7
+    },
+    {
+      "name": "Bacolod",
+      "id": 8
+    },
+    {
+      "name": "Bago",
+      "id": 9
+    },
+    {
+      "name": "Baguio",
+      "id": 10
+    },
+    {
+      "name": "Basilan",
+      "id": 11
+    },
+    {
+      "name": "Bataan",
+      "id": 12
+    },
+    {
+      "name": "Batanes",
+      "id": 13
+    },
+    {
+      "name": "Batangas",
+      "id": 14
+    },
+    {
+      "name": "Batangas City",
+      "id": 15
+    },
+    {
+      "name": "Benguet",
+      "id": 16
+    },
+    {
+      "name": "Bohol",
+      "id": 17
+    },
+    {
+      "name": "Bukidnon",
+      "id": 18
+    },
+    {
+      "name": "Bulacan",
+      "id": 19
+    },
+    {
+      "name": "Butuan",
+      "id": 20
+    },
+    {
+      "name": "Cabanatuan",
+      "id": 21
+    },
+    {
+      "name": "Cadiz",
+      "id": 22
+    },
+    {
+      "name": "Cagayan",
+      "id": 23
+    },
+    {
+      "name": "Cagayan de Oro",
+      "id": 24
+    },
+    {
+      "name": "Calbayog",
+      "id": 25
+    },
+    {
+      "name": "Caloocan",
+      "id": 26
+    },
+    {
+      "name": "Camarines Norte",
+      "id": 27
+    },
+    {
+      "name": "Camarines Sur",
+      "id": 28
+    },
+    {
+      "name": "Camiguin",
+      "id": 29
+    },
+    {
+      "name": "Canlaon",
+      "id": 30
+    },
+    {
+      "name": "Capiz",
+      "id": 31
+    },
+    {
+      "name": "Catanduanes",
+      "id": 32
+    },
+    {
+      "name": "Cavite",
+      "id": 33
+    },
+    {
+      "name": "Cavite City",
+      "id": 34
+    },
+    {
+      "name": "Cebu",
+      "id": 35
+    },
+    {
+      "name": "Cebu City",
+      "id": 36
+    },
+    {
+      "name": "Cotabato",
+      "id": 37
+    },
+    {
+      "name": "Dagupan",
+      "id": 38
+    },
+    {
+      "name": "Danao",
+      "id": 39
+    },
+    {
+      "name": "Dapitan",
+      "id": 40
+    },
+    {
+      "name": "Davao",
+      "id": 41
+    },
+    {
+      "name": "Davao City",
+      "id": 42
+    },
+    {
+      "name": "Davao Oriental",
+      "id": 43
+    },
+    {
+      "name": "Davao del Sur",
+      "id": 44
+    },
+    {
+      "name": "Dipolog",
+      "id": 45
+    },
+    {
+      "name": "Dumaguete",
+      "id": 46
+    },
+    {
+      "name": "Eastern Samar",
+      "id": 47
+    },
+    {
+      "name": "General Santos",
+      "id": 48
+    },
+    {
+      "name": "Gingoog",
+      "id": 49
+    },
+    {
+      "name": "Ifugao",
+      "id": 50
+    },
+    {
+      "name": "Iligan",
+      "id": 51
+    },
+    {
+      "name": "Ilocos Norte",
+      "id": 52
+    },
+    {
+      "name": "Ilocos Sur",
+      "id": 53
+    },
+    {
+      "name": "Iloilo",
+      "id": 54
+    },
+    {
+      "name": "Iloilo City",
+      "id": 55
+    },
+    {
+      "name": "Iriga",
+      "id": 56
+    },
+    {
+      "name": "Isabela",
+      "id": 57
+    },
+    {
+      "name": "Kalinga-Apayao",
+      "id": 58
+    },
+    {
+      "name": "La Carlota",
+      "id": 59
+    },
+    {
+      "name": "La Union",
+      "id": 60
+    },
+    {
+      "name": "Laguna",
+      "id": 61
+    },
+    {
+      "name": "Lanao del Norte",
+      "id": 62
+    },
+    {
+      "name": "Lanao del Sur",
+      "id": 63
+    },
+    {
+      "name": "Laoag",
+      "id": 64
+    },
+    {
+      "name": "Lapu-Lapu",
+      "id": 65
+    },
+    {
+      "name": "Legaspi",
+      "id": 66
+    },
+    {
+      "name": "Leyte",
+      "id": 67
+    },
+    {
+      "name": "Lipa",
+      "id": 68
+    },
+    {
+      "name": "Lucena",
+      "id": 69
+    },
+    {
+      "name": "Maguindanao",
+      "id": 70
+    },
+    {
+      "name": "Malaybalay",
+      "id": 71
+    },
+    {
+      "name": "Mandaue",
+      "id": 72
+    },
+    {
+      "name": "Manila",
+      "id": 73
+    },
+    {
+      "name": "Marawi",
+      "id": 74
+    },
+    {
+      "name": "Marinduque",
+      "id": 75
+    },
+    {
+      "name": "Masbate",
+      "id": 76
+    },
+    {
+      "name": "Mindoro Occidental",
+      "id": 77
+    },
+    {
+      "name": "Mindoro Oriental",
+      "id": 78
+    },
+    {
+      "name": "Misamis Occidental",
+      "id": 79
+    },
+    {
+      "name": "Misamis Oriental",
+      "id": 80
+    },
+    {
+      "name": "Mountain",
+      "id": 81
+    },
+    {
+      "name": "Naga",
+      "id": 82
+    },
+    {
+      "name": "Negros Occidental",
+      "id": 83
+    },
+    {
+      "name": "Negros Occidental",
+      "id": 84
+    },
+    {
+      "name": "Negros Oriental",
+      "id": 85
+    },
+    {
+      "name": "North Cotabato",
+      "id": 86
+    },
+    {
+      "name": "Northern Samar",
+      "id": 87
+    },
+    {
+      "name": "Nueva Ecija",
+      "id": 88
+    },
+    {
+      "name": "Nueva Vizcaya",
+      "id": 89
+    },
+    {
+      "name": "Olongapo",
+      "id": 90
+    },
+    {
+      "name": "Ormoc",
+      "id": 91
+    },
+    {
+      "name": "Oroquieta",
+      "id": 92
+    },
+    {
+      "name": "Ozamis",
+      "id": 93
+    },
+    {
+      "name": "Pagadian",
+      "id": 94
+    },
+    {
+      "name": "Palawan",
+      "id": 95
+    },
+    {
+      "name": "Palayan",
+      "id": 96
+    },
+    {
+      "name": "Pampanga",
+      "id": 97
+    },
+    {
+      "name": "Pangasinan",
+      "id": 98
+    },
+    {
+      "name": "Paranaque",
+      "id": 99
+    },
+    {
+      "name": "Pasay",
+      "id": 100
+    },
+    {
+      "name": "Puerto Princesa",
+      "id": 101
+    },
+    {
+      "name": "Quezon",
+      "id": 102
+    },
+    {
+      "name": "Quezon City",
+      "id": 103
+    },
+    {
+      "name": "Quirino",
+      "id": 104
+    },
+    {
+      "name": "Rizal",
+      "id": 105
+    },
+    {
+      "name": "Romblon",
+      "id": 106
+    },
+    {
+      "name": "Roxas",
+      "id": 107
+    },
+    {
+      "name": "Samar",
+      "id": 108
+    },
+    {
+      "name": "San Carlos",
+      "id": 109
+    },
+    {
+      "name": "San Juan",
+      "id": 110
+    },
+    {
+      "name": "San Pablo",
+      "id": 111
+    },
+    {
+      "name": "Silay",
+      "id": 112
+    },
+    {
+      "name": "Siquijor",
+      "id": 113
+    },
+    {
+      "name": "Sorsogon",
+      "id": 114
+    },
+    {
+      "name": "South Cotabato",
+      "id": 115
+    },
+    {
+      "name": "Southern Leyte",
+      "id": 116
+    },
+    {
+      "name": "Sultan Kudarat",
+      "id": 117
+    },
+    {
+      "name": "Sulu",
+      "id": 118
+    },
+    {
+      "name": "Surigao",
+      "id": 119
+    },
+    {
+      "name": "Surigao del Norte",
+      "id": 120
+    },
+    {
+      "name": "Surigao del Sur",
+      "id": 121
+    },
+    {
+      "name": "Tacloban",
+      "id": 122
+    },
+    {
+      "name": "Tagaytay",
+      "id": 123
+    },
+    {
+      "name": "Tagbilaran",
+      "id": 124
+    },
+    {
+      "name": "Tangub",
+      "id": 125
+    },
+    {
+      "name": "Tarlac",
+      "id": 126
+    },
+    {
+      "name": "Tawitawi",
+      "id": 127
+    },
+    {
+      "name": "Toledo",
+      "id": 128
+    },
+    {
+      "name": "Trece Martires",
+      "id": 129
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 130
+    },
+    {
+      "name": "Unnamed region 02",
+      "id": 131
+    },
+    {
+      "name": "Unnamed region 03",
+      "id": 132
+    },
+    {
+      "name": "Unnamed region 04",
+      "id": 133
+    },
+    {
+      "name": "Unnamed region 05",
+      "id": 134
+    },
+    {
+      "name": "Unnamed region 06",
+      "id": 135
+    },
+    {
+      "name": "Unnamed region 07",
+      "id": 136
+    },
+    {
+      "name": "Zambales",
+      "id": 137
+    },
+    {
+      "name": "Zamboanga",
+      "id": 138
+    },
+    {
+      "name": "Zamboanga del Norte",
+      "id": 139
+    },
+    {
+      "name": "Zamboanga del Sur",
+      "id": 140
+    }
+  ],
+  "geoRectangle": {
+    "West": 116.931549072,
+    "East": 126.601531982,
+    "North": 21.1206130981,
+    "South": 4.64330530167
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 8,
+    "Flg": 2,
+    "Name": "Manila",
+    "GeoPt": [
+      14.35,
+      121
+    ]
+  }
+}

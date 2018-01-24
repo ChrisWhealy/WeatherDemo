@@ -1,0 +1,555 @@
+{
+  "name": "Nebbi",
+  "cities": [
+    {
+      "cityName": "Abaji",
+      "lat": 2.45,
+      "lng": 30.8666667
+    },
+    {
+      "cityName": "Acer",
+      "lat": 2.3666667,
+      "lng": 31.1
+    },
+    {
+      "cityName": "Adingi",
+      "lat": 2.4833333,
+      "lng": 30.8
+    },
+    {
+      "cityName": "Adra",
+      "lat": 2.6,
+      "lng": 31.0666667
+    },
+    {
+      "cityName": "Agenmatch",
+      "lat": 2.5666667,
+      "lng": 30.8666667
+    },
+    {
+      "cityName": "Agwok",
+      "lat": 2.4788889,
+      "lng": 31.19
+    },
+    {
+      "cityName": "Ajono",
+      "lat": 2.9666667,
+      "lng": 30.8666667
+    },
+    {
+      "cityName": "Akaba",
+      "lat": 2.5,
+      "lng": 31.15
+    },
+    {
+      "cityName": "Akanyo",
+      "lat": 2.5333333,
+      "lng": 31.2
+    },
+    {
+      "cityName": "Alego",
+      "lat": 2.4833333,
+      "lng": 31.0666667
+    },
+    {
+      "cityName": "Alenzu",
+      "lat": 2.7166667,
+      "lng": 30.9333333
+    },
+    {
+      "cityName": "Alube",
+      "lat": 2.6666667,
+      "lng": 30.8333333
+    },
+    {
+      "cityName": "Alui",
+      "lat": 2.45,
+      "lng": 31.3666667
+    },
+    {
+      "cityName": "Angaba",
+      "lat": 2.25,
+      "lng": 31.2333333
+    },
+    {
+      "cityName": "Angal",
+      "lat": 2.4333333,
+      "lng": 31.1833333
+    },
+    {
+      "cityName": "Anyavu",
+      "lat": 2.6833333,
+      "lng": 30.8666667
+    },
+    {
+      "cityName": "Anyiribu",
+      "lat": 2.5666667,
+      "lng": 31.1
+    },
+    {
+      "cityName": "Ara",
+      "lat": 2.45,
+      "lng": 30.8166667
+    },
+    {
+      "cityName": "Araga",
+      "lat": 2.2833333,
+      "lng": 31.2166667
+    },
+    {
+      "cityName": "Arikpa",
+      "lat": 2.4666667,
+      "lng": 30.8833333
+    },
+    {
+      "cityName": "Aringo",
+      "lat": 2.55,
+      "lng": 30.9333333
+    },
+    {
+      "cityName": "Aryek",
+      "lat": 2.5333333,
+      "lng": 31.0833333
+    },
+    {
+      "cityName": "Asasi",
+      "lat": 2.7166667,
+      "lng": 30.8333333
+    },
+    {
+      "cityName": "Atar",
+      "lat": 2.45,
+      "lng": 31.4166667
+    },
+    {
+      "cityName": "Attiak",
+      "lat": 2.5833333,
+      "lng": 30.9333333
+    },
+    {
+      "cityName": "Atyenda",
+      "lat": 2.4833333,
+      "lng": 30.8833333
+    },
+    {
+      "cityName": "Auwara",
+      "lat": 2.7,
+      "lng": 30.8833333
+    },
+    {
+      "cityName": "Boro",
+      "lat": 2.3333333,
+      "lng": 31.3666667
+    },
+    {
+      "cityName": "Bungalei",
+      "lat": 2.3333333,
+      "lng": 31.2333333
+    },
+    {
+      "cityName": "Dei",
+      "lat": 2.1833333,
+      "lng": 31.2833333
+    },
+    {
+      "cityName": "Edrivu",
+      "lat": 2.7,
+      "lng": 30.8666667
+    },
+    {
+      "cityName": "Erusi",
+      "lat": 2.3333333,
+      "lng": 31.1
+    },
+    {
+      "cityName": "Gabi",
+      "lat": 2.4666667,
+      "lng": 31.3833333
+    },
+    {
+      "cityName": "Gamba",
+      "lat": 2.5833333,
+      "lng": 30.8
+    },
+    {
+      "cityName": "Giligili",
+      "lat": 2.65,
+      "lng": 31.0166667
+    },
+    {
+      "cityName": "Goli",
+      "lat": 2.3852778,
+      "lng": 31.0419444
+    },
+    {
+      "cityName": "Goromi",
+      "lat": 2.7,
+      "lng": 31.0333333
+    },
+    {
+      "cityName": "Jopakubi",
+      "lat": 2.4666667,
+      "lng": 30.8
+    },
+    {
+      "cityName": "Jopangira",
+      "lat": 2.4166667,
+      "lng": 31.05
+    },
+    {
+      "cityName": "Kango",
+      "lat": 2.6513889,
+      "lng": 30.8558333
+    },
+    {
+      "cityName": "Kapita",
+      "lat": 2.4833333,
+      "lng": 31.4666667
+    },
+    {
+      "cityName": "Kaya",
+      "lat": 2.4,
+      "lng": 31.0166667
+    },
+    {
+      "cityName": "Kituna",
+      "lat": 2.3166667,
+      "lng": 31.2333333
+    },
+    {
+      "cityName": "Kiyonga",
+      "lat": 2.2,
+      "lng": 31.3
+    },
+    {
+      "cityName": "Kochawinga",
+      "lat": 2.5166667,
+      "lng": 31.1333333
+    },
+    {
+      "cityName": "Konga",
+      "lat": 2.5,
+      "lng": 30.8666667
+    },
+    {
+      "cityName": "Kosh",
+      "lat": 2.55,
+      "lng": 31.15
+    },
+    {
+      "cityName": "Kuchwiny",
+      "lat": 2.55,
+      "lng": 31.2333333
+    },
+    {
+      "cityName": "Lazebu",
+      "lat": 2.7166667,
+      "lng": 30.9166667
+    },
+    {
+      "cityName": "Logeri",
+      "lat": 2.7666667,
+      "lng": 30.85
+    },
+    {
+      "cityName": "Mahagi Port",
+      "lat": 2.155,
+      "lng": 31.2433333
+    },
+    {
+      "cityName": "Mavura",
+      "lat": 2.45,
+      "lng": 30.85
+    },
+    {
+      "cityName": "Mbaro",
+      "lat": 2.4666667,
+      "lng": 31.1833333
+    },
+    {
+      "cityName": "Milia",
+      "lat": 2.1944444,
+      "lng": 31.1688889
+    },
+    {
+      "cityName": "Mutir",
+      "lat": 2.7711111,
+      "lng": 31.3611111
+    },
+    {
+      "cityName": "Ndriba",
+      "lat": 2.6833333,
+      "lng": 31.0333333
+    },
+    {
+      "cityName": "Nebbi",
+      "lat": 2.4758333,
+      "lng": 31.1025
+    },
+    {
+      "cityName": "Niapea",
+      "lat": 2.4602778,
+      "lng": 30.9666667
+    },
+    {
+      "cityName": "Nyakageyi",
+      "lat": 2.2666667,
+      "lng": 31.3166667
+    },
+    {
+      "cityName": "Nyarabur",
+      "lat": 2.4452778,
+      "lng": 31.2141667
+    },
+    {
+      "cityName": "Ocwalo",
+      "lat": 2.5333333,
+      "lng": 30.8166667
+    },
+    {
+      "cityName": "Odro",
+      "lat": 2.8666667,
+      "lng": 30.9
+    },
+    {
+      "cityName": "Ofaka",
+      "lat": 2.6219444,
+      "lng": 31.0477778
+    },
+    {
+      "cityName": "Okayo",
+      "lat": 2.5333333,
+      "lng": 30.9166667
+    },
+    {
+      "cityName": "Okeyo",
+      "lat": 2.4166667,
+      "lng": 30.95
+    },
+    {
+      "cityName": "Okubu",
+      "lat": 2.55,
+      "lng": 31.1
+    },
+    {
+      "cityName": "Oliavu",
+      "lat": 2.7833333,
+      "lng": 31.35
+    },
+    {
+      "cityName": "Olobodagi",
+      "lat": 2.6,
+      "lng": 31.4
+    },
+    {
+      "cityName": "Olyeko",
+      "lat": 2.5333333,
+      "lng": 30.8333333
+    },
+    {
+      "cityName": "Omoyo",
+      "lat": 2.55,
+      "lng": 30.8166667
+    },
+    {
+      "cityName": "Onder",
+      "lat": 2.5833333,
+      "lng": 30.7666667
+    },
+    {
+      "cityName": "Oryang",
+      "lat": 2.4166667,
+      "lng": 31.2333333
+    },
+    {
+      "cityName": "Oweko",
+      "lat": 2.4166667,
+      "lng": 31.1
+    },
+    {
+      "cityName": "Oyeyu",
+      "lat": 2.4333333,
+      "lng": 30.9666667
+    },
+    {
+      "cityName": "Pacego",
+      "lat": 2.4952778,
+      "lng": 31.4433333
+    },
+    {
+      "cityName": "Padwot",
+      "lat": 2.4833333,
+      "lng": 31.2
+    },
+    {
+      "cityName": "Pagei",
+      "lat": 2.5666667,
+      "lng": 30.85
+    },
+    {
+      "cityName": "Pagwata",
+      "lat": 2.3166667,
+      "lng": 31.1666667
+    },
+    {
+      "cityName": "Paicing",
+      "lat": 2.3166667,
+      "lng": 31.0833333
+    },
+    {
+      "cityName": "Paidha",
+      "lat": 2.4166667,
+      "lng": 30.9833333
+    },
+    {
+      "cityName": "Paila",
+      "lat": 2.4666667,
+      "lng": 31.3166667
+    },
+    {
+      "cityName": "Pakadha",
+      "lat": 2.4,
+      "lng": 30.9166667
+    },
+    {
+      "cityName": "Pakwero",
+      "lat": 2.6038889,
+      "lng": 31.3580556
+    },
+    {
+      "cityName": "Pakwinyo",
+      "lat": 2.7,
+      "lng": 31.45
+    },
+    {
+      "cityName": "Pakwiyo",
+      "lat": 2.4833333,
+      "lng": 31.1833333
+    },
+    {
+      "cityName": "Pamach",
+      "lat": 2.6,
+      "lng": 30.9333333
+    },
+    {
+      "cityName": "Pamenya",
+      "lat": 2.4666667,
+      "lng": 31.15
+    },
+    {
+      "cityName": "Pamora",
+      "lat": 2.4,
+      "lng": 31.1666667
+    },
+    {
+      "cityName": "Pangere",
+      "lat": 2.3166667,
+      "lng": 31.1333333
+    },
+    {
+      "cityName": "Pangero",
+      "lat": 2.5,
+      "lng": 31.1166667
+    },
+    {
+      "cityName": "Panget",
+      "lat": 2.5,
+      "lng": 31.35
+    },
+    {
+      "cityName": "Panyamur",
+      "lat": 2.2852778,
+      "lng": 31.3452778
+    },
+    {
+      "cityName": "Panyango",
+      "lat": 2.5166667,
+      "lng": 31.45
+    },
+    {
+      "cityName": "Panyigoro",
+      "lat": 2.4063889,
+      "lng": 31.4086111
+    },
+    {
+      "cityName": "Paroketto",
+      "lat": 2.4166667,
+      "lng": 31.45
+    },
+    {
+      "cityName": "Parombo",
+      "lat": 2.2969444,
+      "lng": 31.2125
+    },
+    {
+      "cityName": "Pawong",
+      "lat": 2.45,
+      "lng": 31.05
+    },
+    {
+      "cityName": "Payongo",
+      "lat": 2.45,
+      "lng": 31.3833333
+    },
+    {
+      "cityName": "Pei",
+      "lat": 2.45,
+      "lng": 30.9666667
+    },
+    {
+      "cityName": "Pokwero",
+      "lat": 2.5666667,
+      "lng": 31.4333333
+    },
+    {
+      "cityName": "Pumit",
+      "lat": 2.7666667,
+      "lng": 31.3666667
+    },
+    {
+      "cityName": "Ragem",
+      "lat": 2.635,
+      "lng": 31.3872222
+    },
+    {
+      "cityName": "Tata",
+      "lat": 2.5166667,
+      "lng": 31.1
+    },
+    {
+      "cityName": "Vura",
+      "lat": 2.9347222,
+      "lng": 30.9125
+    },
+    {
+      "cityName": "Vur",
+      "lat": 2.5166667,
+      "lng": 31.1833333
+    },
+    {
+      "cityName": "Wadelai",
+      "lat": 2.7333333,
+      "lng": 31.4
+    },
+    {
+      "cityName": "Warr",
+      "lat": 2.5977778,
+      "lng": 30.8997222
+    },
+    {
+      "cityName": "Yamu",
+      "lat": 2.5833333,
+      "lng": 30.9166667
+    },
+    {
+      "cityName": "Zeio",
+      "lat": 2.5086111,
+      "lng": 30.8177778
+    },
+    {
+      "cityName": "Zombo",
+      "lat": 2.5166667,
+      "lng": 30.9166667
+    }
+  ]
+}

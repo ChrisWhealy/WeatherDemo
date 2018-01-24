@@ -1,0 +1,59 @@
+{
+  "name": "Austria",
+  "iso2": "at",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Burgenland",
+      "id": 0
+    },
+    {
+      "name": "Karnten",
+      "id": 1
+    },
+    {
+      "name": "Niederosterreich",
+      "id": 2
+    },
+    {
+      "name": "Oberosterreich",
+      "id": 3
+    },
+    {
+      "name": "Salzburg",
+      "id": 4
+    },
+    {
+      "name": "Steiermark",
+      "id": 5
+    },
+    {
+      "name": "Tirol",
+      "id": 6
+    },
+    {
+      "name": "Vorarlberg",
+      "id": 7
+    },
+    {
+      "name": "Wien",
+      "id": 8
+    }
+  ],
+  "geoRectangle": {
+    "West": 9.53591442108,
+    "East": 17.1627254486,
+    "North": 49.0170631409,
+    "South": 46.3780250549
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Vienna",
+    "GeoPt": [
+      48.12,
+      16.22
+    ]
+  }
+}

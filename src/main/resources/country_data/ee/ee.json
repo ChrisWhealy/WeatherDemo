@@ -1,0 +1,83 @@
+{
+  "name": "Estonia",
+  "iso2": "ee",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Harjumaa",
+      "id": 0
+    },
+    {
+      "name": "Hiiumaa",
+      "id": 1
+    },
+    {
+      "name": "Ida-Virumaa",
+      "id": 2
+    },
+    {
+      "name": "Jarvamaa",
+      "id": 3
+    },
+    {
+      "name": "Jogevamaa",
+      "id": 4
+    },
+    {
+      "name": "Laane-Virumaa",
+      "id": 5
+    },
+    {
+      "name": "Laanemaa",
+      "id": 6
+    },
+    {
+      "name": "Parnumaa",
+      "id": 7
+    },
+    {
+      "name": "Polvamaa",
+      "id": 8
+    },
+    {
+      "name": "Raplamaa",
+      "id": 9
+    },
+    {
+      "name": "Saaremaa",
+      "id": 10
+    },
+    {
+      "name": "Tartumaa",
+      "id": 11
+    },
+    {
+      "name": "Valgamaa",
+      "id": 12
+    },
+    {
+      "name": "Viljandimaa",
+      "id": 13
+    },
+    {
+      "name": "Vorumaa",
+      "id": 14
+    }
+  ],
+  "geoRectangle": {
+    "West": 21.8375816345,
+    "East": 28.2099742889,
+    "North": 59.6762313843,
+    "South": 57.5161857605
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Tallinn",
+    "GeoPt": [
+      59.26,
+      24.43
+    ]
+  }
+}

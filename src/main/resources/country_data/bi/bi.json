@@ -1,0 +1,83 @@
+{
+  "name": "Burundi",
+  "iso2": "bi",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Bubanza",
+      "id": 0
+    },
+    {
+      "name": "Bujumbura",
+      "id": 1
+    },
+    {
+      "name": "Bururi",
+      "id": 2
+    },
+    {
+      "name": "Cankuzo",
+      "id": 3
+    },
+    {
+      "name": "Cibitoke",
+      "id": 4
+    },
+    {
+      "name": "Gitega",
+      "id": 5
+    },
+    {
+      "name": "Karuzi",
+      "id": 6
+    },
+    {
+      "name": "Kayanza",
+      "id": 7
+    },
+    {
+      "name": "Kirundo",
+      "id": 8
+    },
+    {
+      "name": "Makamba",
+      "id": 9
+    },
+    {
+      "name": "Muyinga",
+      "id": 10
+    },
+    {
+      "name": "Ngozi",
+      "id": 11
+    },
+    {
+      "name": "Rutana",
+      "id": 12
+    },
+    {
+      "name": "Ruyigi",
+      "id": 13
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 14
+    }
+  ],
+  "geoRectangle": {
+    "West": 28.993057251,
+    "East": 30.8477325439,
+    "North": -2.31012272835,
+    "South": -4.46571350098
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Bujumbura",
+    "GeoPt": [
+      -3.22,
+      29.21
+    ]
+  }
+}

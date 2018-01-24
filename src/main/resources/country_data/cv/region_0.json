@@ -1,0 +1,575 @@
+{
+  "name": "Sao Domingos",
+  "cities": [
+    {
+      "cityName": "Achada Baleia",
+      "lat": 15.05,
+      "lng": -23.4833333
+    },
+    {
+      "cityName": "Achada Grande",
+      "lat": 14.9833333,
+      "lng": -24.3166667
+    },
+    {
+      "cityName": "Achada Monte",
+      "lat": 15.2333333,
+      "lng": -23.65
+    },
+    {
+      "cityName": "Achadinha",
+      "lat": 15.2333333,
+      "lng": -23.7166667
+    },
+    {
+      "cityName": "Alcatraz",
+      "lat": 15.2166667,
+      "lng": -23.1166667
+    },
+    {
+      "cityName": "Amador",
+      "lat": 16.1166667,
+      "lng": -22.8333333
+    },
+    {
+      "cityName": "Assomada",
+      "lat": 15.1,
+      "lng": -23.6833333
+    },
+    {
+      "cityName": "Atalaia",
+      "lat": 15.0333333,
+      "lng": -24.4
+    },
+    {
+      "cityName": "Bafareira",
+      "lat": 16.1833333,
+      "lng": -22.8333333
+    },
+    {
+      "cityName": "Baleia",
+      "lat": 14.85,
+      "lng": -24.7
+    },
+    {
+      "cityName": "Baluarte",
+      "lat": 15,
+      "lng": -24.4
+    },
+    {
+      "cityName": "Barreiro",
+      "lat": 15.1333333,
+      "lng": -23.1666667
+    },
+    {
+      "cityName": "Biscainhos",
+      "lat": 15.25,
+      "lng": -23.7
+    },
+    {
+      "cityName": "Boa Ventura",
+      "lat": 16.1333333,
+      "lng": -22.9
+    },
+    {
+      "cityName": "Cabeçadas",
+      "lat": 16.1166667,
+      "lng": -22.9
+    },
+    {
+      "cityName": "Cabeço de Tarafes",
+      "lat": 16.1333333,
+      "lng": -22.7333333
+    },
+    {
+      "cityName": "Cachaço",
+      "lat": 14.8333333,
+      "lng": -24.7
+    },
+    {
+      "cityName": "Calheta",
+      "lat": 15.1833333,
+      "lng": -23.6
+    },
+    {
+      "cityName": "Cascabulho",
+      "lat": 15.2666667,
+      "lng": -23.1833333
+    },
+    {
+      "cityName": "Chacha",
+      "lat": 15.2,
+      "lng": -23.6666667
+    },
+    {
+      "cityName": "Chã de Dentro",
+      "lat": 15.2333333,
+      "lng": -23.6833333
+    },
+    {
+      "cityName": "Chã de Figueiras",
+      "lat": 15.1833333,
+      "lng": -23.7166667
+    },
+    {
+      "cityName": "Charco",
+      "lat": 15.1333333,
+      "lng": -23.75
+    },
+    {
+      "cityName": "Cidade Velha",
+      "lat": 14.9166667,
+      "lng": -23.6166667
+    },
+    {
+      "cityName": "Corvo",
+      "lat": 15,
+      "lng": -24.3166667
+    },
+    {
+      "cityName": "Cova Figueira",
+      "lat": 14.8833333,
+      "lng": -24.3
+    },
+    {
+      "cityName": "Curral Branco",
+      "lat": 16.0333333,
+      "lng": -22.8
+    },
+    {
+      "cityName": "Curral Velho",
+      "lat": 15.9833333,
+      "lng": -22.8
+    },
+    {
+      "cityName": "Dacabalaio",
+      "lat": 14.85,
+      "lng": -24.3333333
+    },
+    {
+      "cityName": "Derrubado",
+      "lat": 16.2333333,
+      "lng": -22.8
+    },
+    {
+      "cityName": "Egreja",
+      "lat": 15.0333333,
+      "lng": -24.3333333
+    },
+    {
+      "cityName": "Espingueira",
+      "lat": 16.2166667,
+      "lng": -22.8
+    },
+    {
+      "cityName": "Fajã",
+      "lat": 14.8666667,
+      "lng": -24.75
+    },
+    {
+      "cityName": "Fajãsinha",
+      "lat": 15.05,
+      "lng": -24.35
+    },
+    {
+      "cityName": "Figueira da Horta",
+      "lat": 15.15,
+      "lng": -23.15
+    },
+    {
+      "cityName": "Figueira da Naus",
+      "lat": 15.1833333,
+      "lng": -23.7333333
+    },
+    {
+      "cityName": "Figueira Pavão",
+      "lat": 14.85,
+      "lng": -24.3166667
+    },
+    {
+      "cityName": "Fogão",
+      "lat": 16.0833333,
+      "lng": -22.85
+    },
+    {
+      "cityName": "Fonte Aleixo",
+      "lat": 14.8333333,
+      "lng": -24.3666667
+    },
+    {
+      "cityName": "Forno",
+      "lat": 14.8833333,
+      "lng": -24.45
+    },
+    {
+      "cityName": "Fundo das Figueiras",
+      "lat": 16.15,
+      "lng": -22.7333333
+    },
+    {
+      "cityName": "Fundura",
+      "lat": 15.1666667,
+      "lng": -23.7
+    },
+    {
+      "cityName": "Furna",
+      "lat": 14.8833333,
+      "lng": -24.6833333
+    },
+    {
+      "cityName": "Gala",
+      "lat": 16.2,
+      "lng": -22.7166667
+    },
+    {
+      "cityName": "Galinheiro",
+      "lat": 15,
+      "lng": -24.45
+    },
+    {
+      "cityName": "Garça",
+      "lat": 14.8666667,
+      "lng": -24.7
+    },
+    {
+      "cityName": "Gouveia",
+      "lat": 14.9333333,
+      "lng": -23.6833333
+    },
+    {
+      "cityName": "Ilhéu",
+      "lat": 15.2,
+      "lng": -23.6333333
+    },
+    {
+      "cityName": "Inhuco",
+      "lat": 14.9333333,
+      "lng": -24.45
+    },
+    {
+      "cityName": "Italiano",
+      "lat": 14.9666667,
+      "lng": -24.4666667
+    },
+    {
+      "cityName": "João Barrosa",
+      "lat": 16.0166667,
+      "lng": -22.75
+    },
+    {
+      "cityName": "João Galego",
+      "lat": 16.15,
+      "lng": -22.75
+    },
+    {
+      "cityName": "Lagariça",
+      "lat": 14.9166667,
+      "lng": -24.4666667
+    },
+    {
+      "cityName": "Lagoa Atrás",
+      "lat": 15.0166667,
+      "lng": -24.3333333
+    },
+    {
+      "cityName": "Lagoa",
+      "lat": 15.1333333,
+      "lng": -23.15
+    },
+    {
+      "cityName": "Lapa Cachorro",
+      "lat": 15.2666667,
+      "lng": -23.7
+    },
+    {
+      "cityName": "Logar Novo",
+      "lat": 14.9333333,
+      "lng": -24.4833333
+    },
+    {
+      "cityName": "Luzia Nunes",
+      "lat": 14.8666667,
+      "lng": -24.45
+    },
+    {
+      "cityName": "Maio",
+      "lat": 15.1333333,
+      "lng": -23.2166667
+    },
+    {
+      "cityName": "Malveira",
+      "lat": 15.1333333,
+      "lng": -23.7166667
+    },
+    {
+      "cityName": "Massapé",
+      "lat": 15.2333333,
+      "lng": -23.7
+    },
+    {
+      "cityName": "Mato Correia",
+      "lat": 15.2,
+      "lng": -23.65
+    },
+    {
+      "cityName": "Mira-Mira",
+      "lat": 14.9666667,
+      "lng": -24.45
+    },
+    {
+      "cityName": "Moerão",
+      "lat": 15.25,
+      "lng": -23.7166667
+    },
+    {
+      "cityName": "Moia Moia",
+      "lat": 15.0166667,
+      "lng": -23.4666667
+    },
+    {
+      "cityName": "Montagarro",
+      "lat": 14.95,
+      "lng": -23.5166667
+    },
+    {
+      "cityName": "Montanha",
+      "lat": 15.0833333,
+      "lng": -23.6
+    },
+    {
+      "cityName": "Monte Vermelho",
+      "lat": 14.8333333,
+      "lng": -24.3333333
+    },
+    {
+      "cityName": "Montinho",
+      "lat": 15.2166667,
+      "lng": -23.7166667
+    },
+    {
+      "cityName": "Morrinho",
+      "lat": 15.2666667,
+      "lng": -23.2333333
+    },
+    {
+      "cityName": "Morro",
+      "lat": 15.1833333,
+      "lng": -23.2333333
+    },
+    {
+      "cityName": "Nora",
+      "lat": 15.0166667,
+      "lng": -23.55
+    },
+    {
+      "cityName": "Nossa Senhora do Monte",
+      "lat": 14.85,
+      "lng": -24.7166667
+    },
+    {
+      "cityName": "Órgãos",
+      "lat": 15.0666667,
+      "lng": -23.6166667
+    },
+    {
+      "cityName": "Pae Amaro",
+      "lat": 16.0333333,
+      "lng": -22.7333333
+    },
+    {
+      "cityName": "Pai Joana",
+      "lat": 15.2666667,
+      "lng": -23.1166667
+    },
+    {
+      "cityName": "Palha Carga",
+      "lat": 15.2166667,
+      "lng": -23.6666667
+    },
+    {
+      "cityName": "Patim",
+      "lat": 14.8666667,
+      "lng": -24.4333333
+    },
+    {
+      "cityName": "Pau",
+      "lat": 14.85,
+      "lng": -24.7333333
+    },
+    {
+      "cityName": "Pedro Vaz",
+      "lat": 15.25,
+      "lng": -23.1333333
+    },
+    {
+      "cityName": "Penteada",
+      "lat": 14.8833333,
+      "lng": -24.4666667
+    },
+    {
+      "cityName": "Picos",
+      "lat": 15.0833333,
+      "lng": -23.65
+    },
+    {
+      "cityName": "Pinchossa",
+      "lat": 15.1666667,
+      "lng": -23.6
+    },
+    {
+      "cityName": "Point Adeante",
+      "lat": 16.1833333,
+      "lng": -22.85
+    },
+    {
+      "cityName": "Ponta São Francisco",
+      "lat": 14.9833333,
+      "lng": -23.5
+    },
+    {
+      "cityName": "Porto do Rincão",
+      "lat": 15.05,
+      "lng": -23.7833333
+    },
+    {
+      "cityName": "Povoação Velha",
+      "lat": 16.0333333,
+      "lng": -22.9166667
+    },
+    {
+      "cityName": "Praia Abaixo",
+      "lat": 15.0666667,
+      "lng": -23.4833333
+    },
+    {
+      "cityName": "Praia",
+      "lat": 14.9166667,
+      "lng": -23.5166667
+    },
+    {
+      "cityName": "Prazeres",
+      "lat": 16,
+      "lng": -22.8166667
+    },
+    {
+      "cityName": "Rabil",
+      "lat": 16.1333333,
+      "lng": -22.8833333
+    },
+    {
+      "cityName": "Ribeira da Barca",
+      "lat": 15.1333333,
+      "lng": -23.7666667
+    },
+    {
+      "cityName": "Ribeira da Prata",
+      "lat": 15.2333333,
+      "lng": -23.75
+    },
+    {
+      "cityName": "Ribeira Ilhéu",
+      "lat": 15.0333333,
+      "lng": -24.3833333
+    },
+    {
+      "cityName": "Ribeirão Chiqueiro",
+      "lat": 15.0166667,
+      "lng": -23.5333333
+    },
+    {
+      "cityName": "Rui Vaz",
+      "lat": 15.0333333,
+      "lng": -23.6166667
+    },
+    {
+      "cityName": "Sacramento",
+      "lat": 15.05,
+      "lng": -23.5666667
+    },
+    {
+      "cityName": "Sal Rei",
+      "lat": 16.1833333,
+      "lng": -22.9166667
+    },
+    {
+      "cityName": "San Iago",
+      "lat": 15.1333333,
+      "lng": -23.5333333
+    },
+    {
+      "cityName": "Santa Bárbara",
+      "lat": 14.8833333,
+      "lng": -24.7
+    },
+    {
+      "cityName": "Santa Cruz",
+      "lat": 15.1333333,
+      "lng": -23.5666667
+    },
+    {
+      "cityName": "Santo António",
+      "lat": 15.2666667,
+      "lng": -23.1333333
+    },
+    {
+      "cityName": "São Domingos",
+      "lat": 15.0166667,
+      "lng": -23.5666667
+    },
+    {
+      "cityName": "São Filipe",
+      "lat": 14.9,
+      "lng": -24.5166667
+    },
+    {
+      "cityName": "São João",
+      "lat": 14.95,
+      "lng": -23.6666667
+    },
+    {
+      "cityName": "São Jorge",
+      "lat": 15.0166667,
+      "lng": -24.4333333
+    },
+    {
+      "cityName": "São Martinho",
+      "lat": 14.9166667,
+      "lng": -23.5833333
+    },
+    {
+      "cityName": "Tarrafal",
+      "lat": 15.2833333,
+      "lng": -23.7666667
+    },
+    {
+      "cityName": "Tongom",
+      "lat": 14.9166667,
+      "lng": -24.4833333
+    },
+    {
+      "cityName": "Toril",
+      "lat": 15.3,
+      "lng": -23.7166667
+    },
+    {
+      "cityName": "Trindade",
+      "lat": 14.95,
+      "lng": -23.5666667
+    },
+    {
+      "cityName": "Vale da Custa",
+      "lat": 14.9833333,
+      "lng": -23.4833333
+    },
+    {
+      "cityName": "Vila de Nova Cintra",
+      "lat": 14.8666667,
+      "lng": -24.7166667
+    },
+    {
+      "cityName": "Vila Nova",
+      "lat": 14.9333333,
+      "lng": -23.5166667
+    }
+  ]
+}

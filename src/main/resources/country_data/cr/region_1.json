@@ -1,0 +1,785 @@
+{
+  "name": "Cartago",
+  "cities": [
+    {
+      "cityName": "Aguas",
+      "lat": 9.9,
+      "lng": -83.8333333
+    },
+    {
+      "cityName": "Ánimas",
+      "lat": 9.9166667,
+      "lng": -83.65
+    },
+    {
+      "cityName": "Aquiares",
+      "lat": 9.95,
+      "lng": -83.7166667
+    },
+    {
+      "cityName": "Aragón",
+      "lat": 9.9166667,
+      "lng": -83.7
+    },
+    {
+      "cityName": "Arenilla",
+      "lat": 9.85,
+      "lng": -83.9333333
+    },
+    {
+      "cityName": "Atirro",
+      "lat": 9.8666667,
+      "lng": -83.6666667
+    },
+    {
+      "cityName": "Avance",
+      "lat": 9.9333333,
+      "lng": -83.9166667
+    },
+    {
+      "cityName": "Azul",
+      "lat": 9.9166667,
+      "lng": -83.6666667
+    },
+    {
+      "cityName": "Bajo Congo",
+      "lat": 9.8666667,
+      "lng": -83.75
+    },
+    {
+      "cityName": "Banderilla",
+      "lat": 9.9166667,
+      "lng": -83.9166667
+    },
+    {
+      "cityName": "Barra Mocado",
+      "lat": 9.8166667,
+      "lng": -83.8833333
+    },
+    {
+      "cityName": "Barrancas",
+      "lat": 9.8333333,
+      "lng": -83.9666667
+    },
+    {
+      "cityName": "Bermejo",
+      "lat": 9.8666667,
+      "lng": -83.9833333
+    },
+    {
+      "cityName": "Birricitio",
+      "lat": 9.85,
+      "lng": -83.85
+    },
+    {
+      "cityName": "Birrís",
+      "lat": 9.9,
+      "lng": -83.7833333
+    },
+    {
+      "cityName": "Boquerón",
+      "lat": 9.9,
+      "lng": -83.85
+    },
+    {
+      "cityName": "Caballo Blanco",
+      "lat": 9.85,
+      "lng": -83.9
+    },
+    {
+      "cityName": "Cacao",
+      "lat": 9.8166667,
+      "lng": -83.7
+    },
+    {
+      "cityName": "Cachí",
+      "lat": 9.8333333,
+      "lng": -83.8
+    },
+    {
+      "cityName": "Canadá",
+      "lat": 9.85,
+      "lng": -83.6166667
+    },
+    {
+      "cityName": "Cangreja",
+      "lat": 9.8,
+      "lng": -83.9666667
+    },
+    {
+      "cityName": "Capellades",
+      "lat": 9.9166667,
+      "lng": -83.7833333
+    },
+    {
+      "cityName": "Caragral",
+      "lat": 9.7833333,
+      "lng": -84.0166667
+    },
+    {
+      "cityName": "Carmen",
+      "lat": 9.95,
+      "lng": -84.0166667
+    },
+    {
+      "cityName": "Cartago",
+      "lat": 9.8666667,
+      "lng": -83.9166667
+    },
+    {
+      "cityName": "Casa Mata",
+      "lat": 9.7833333,
+      "lng": -83.9833333
+    },
+    {
+      "cityName": "Cervantes",
+      "lat": 9.8833333,
+      "lng": -83.8
+    },
+    {
+      "cityName": "Chicua",
+      "lat": 9.95,
+      "lng": -83.8666667
+    },
+    {
+      "cityName": "Chirripó",
+      "lat": 9.8166667,
+      "lng": -83.4166667
+    },
+    {
+      "cityName": "Chis",
+      "lat": 9.8666667,
+      "lng": -83.7166667
+    },
+    {
+      "cityName": "Chitaría",
+      "lat": 9.95,
+      "lng": -83.6
+    },
+    {
+      "cityName": "Coliblanco",
+      "lat": 9.95,
+      "lng": -83.7833333
+    },
+    {
+      "cityName": "Concepción",
+      "lat": 9.9333333,
+      "lng": -84
+    },
+    {
+      "cityName": "Copachi",
+      "lat": 9.8166667,
+      "lng": -84.0333333
+    },
+    {
+      "cityName": "Corralillo",
+      "lat": 9.8,
+      "lng": -84.0333333
+    },
+    {
+      "cityName": "Cot",
+      "lat": 9.9,
+      "lng": -83.8666667
+    },
+    {
+      "cityName": "Damita",
+      "lat": 9.7,
+      "lng": -83.9166667
+    },
+    {
+      "cityName": "Descanso",
+      "lat": 9.9,
+      "lng": -83.8
+    },
+    {
+      "cityName": "Domínica",
+      "lat": 9.9166667,
+      "lng": -83.6833333
+    },
+    {
+      "cityName": "Duan",
+      "lat": 9.85,
+      "lng": -83.7666667
+    },
+    {
+      "cityName": "Dulce Nombre",
+      "lat": 9.9166667,
+      "lng": -83.9833333
+    },
+    {
+      "cityName": "Durán",
+      "lat": 9.9166667,
+      "lng": -83.7666667
+    },
+    {
+      "cityName": "El Alto",
+      "lat": 9.8833333,
+      "lng": -83.95
+    },
+    {
+      "cityName": "El Gato",
+      "lat": 9.8,
+      "lng": -83.7
+    },
+    {
+      "cityName": "El Guayabo",
+      "lat": 9.95,
+      "lng": -83.65
+    },
+    {
+      "cityName": "El Muñeco",
+      "lat": 9.8,
+      "lng": -83.9166667
+    },
+    {
+      "cityName": "El Yas",
+      "lat": 9.85,
+      "lng": -83.8166667
+    },
+    {
+      "cityName": "Esmeralda",
+      "lat": 9.9166667,
+      "lng": -83.7333333
+    },
+    {
+      "cityName": "Esperanza",
+      "lat": 9.8,
+      "lng": -83.65
+    },
+    {
+      "cityName": "Estrella",
+      "lat": 9.7833333,
+      "lng": -83.95
+    },
+    {
+      "cityName": "Florencia",
+      "lat": 9.8833333,
+      "lng": -83.6833333
+    },
+    {
+      "cityName": "Flor",
+      "lat": 9.8666667,
+      "lng": -83.8166667
+    },
+    {
+      "cityName": "Gloria",
+      "lat": 9.8666667,
+      "lng": -83.7333333
+    },
+    {
+      "cityName": "Guábata",
+      "lat": 9.8,
+      "lng": -83.8166667
+    },
+    {
+      "cityName": "Guadalupe",
+      "lat": 9.8666667,
+      "lng": -83.95
+    },
+    {
+      "cityName": "Guatusito",
+      "lat": 9.85,
+      "lng": -83.7833333
+    },
+    {
+      "cityName": "Guatuso",
+      "lat": 9.8166667,
+      "lng": -83.95
+    },
+    {
+      "cityName": "Hacienda La Flor",
+      "lat": 9.9833333,
+      "lng": -83.6666667
+    },
+    {
+      "cityName": "Hacienda Las Lajas",
+      "lat": 9.9833333,
+      "lng": -83.65
+    },
+    {
+      "cityName": "Hacienda Palomo",
+      "lat": 9.7833333,
+      "lng": -83.8333333
+    },
+    {
+      "cityName": "Hacienda Pasqui",
+      "lat": 9.9333333,
+      "lng": -83.85
+    },
+    {
+      "cityName": "Hacienda Plantón",
+      "lat": 9.9333333,
+      "lng": -83.8166667
+    },
+    {
+      "cityName": "Hacienda Quéveri",
+      "lat": 9.75,
+      "lng": -83.85
+    },
+    {
+      "cityName": "Hacienda Tapanti",
+      "lat": 9.7666667,
+      "lng": -83.7666667
+    },
+    {
+      "cityName": "Hervidero",
+      "lat": 9.8333333,
+      "lng": -83.9166667
+    },
+    {
+      "cityName": "Higuito",
+      "lat": 9.8166667,
+      "lng": -83.9666667
+    },
+    {
+      "cityName": "Humo",
+      "lat": 9.8,
+      "lng": -83.7166667
+    },
+    {
+      "cityName": "Icotea",
+      "lat": 9.8166667,
+      "lng": -83.55
+    },
+    {
+      "cityName": "Infiernillo",
+      "lat": 9.8833333,
+      "lng": -83.75
+    },
+    {
+      "cityName": "Jaboncilla",
+      "lat": 9.9666667,
+      "lng": -84
+    },
+    {
+      "cityName": "Juan Viñas",
+      "lat": 9.9,
+      "lng": -83.75
+    },
+    {
+      "cityName": "Laguna",
+      "lat": 9.95,
+      "lng": -83.9333333
+    },
+    {
+      "cityName": "La Pacaya",
+      "lat": 9.9166667,
+      "lng": -83.8
+    },
+    {
+      "cityName": "La Pastora",
+      "lat": 9.9666667,
+      "lng": -83.75
+    },
+    {
+      "cityName": "Las Mesas",
+      "lat": 9.8833333,
+      "lng": -83.7833333
+    },
+    {
+      "cityName": "Las Pavas",
+      "lat": 9.8666667,
+      "lng": -83.6833333
+    },
+    {
+      "cityName": "La Unión",
+      "lat": 9.9,
+      "lng": -83.9833333
+    },
+    {
+      "cityName": "Llano Ángeles",
+      "lat": 9.7666667,
+      "lng": -84.0333333
+    },
+    {
+      "cityName": "Llano Grande",
+      "lat": 9.9333333,
+      "lng": -83.9
+    },
+    {
+      "cityName": "Loáiza",
+      "lat": 9.8166667,
+      "lng": -83.8333333
+    },
+    {
+      "cityName": "Lourdes",
+      "lat": 9.8333333,
+      "lng": -83.9
+    },
+    {
+      "cityName": "Luisiana",
+      "lat": 9.8166667,
+      "lng": -83.85
+    },
+    {
+      "cityName": "Moravia",
+      "lat": 9.85,
+      "lng": -83.4333333
+    },
+    {
+      "cityName": "Murcia",
+      "lat": 9.8666667,
+      "lng": -83.7
+    },
+    {
+      "cityName": "Naranjo",
+      "lat": 9.9,
+      "lng": -83.7666667
+    },
+    {
+      "cityName": "Norte San Juan de Tobosi",
+      "lat": 9.8,
+      "lng": -84.0666667
+    },
+    {
+      "cityName": "Nubes",
+      "lat": 9.75,
+      "lng": -83.8166667
+    },
+    {
+      "cityName": "Ochomogo",
+      "lat": 9.9,
+      "lng": -83.95
+    },
+    {
+      "cityName": "Ojo de Agua",
+      "lat": 9.6166667,
+      "lng": -83.8
+    },
+    {
+      "cityName": "Oriente",
+      "lat": 9.8333333,
+      "lng": -83.6833333
+    },
+    {
+      "cityName": "Orosí",
+      "lat": 9.8,
+      "lng": -83.85
+    },
+    {
+      "cityName": "Pacayas",
+      "lat": 9.8,
+      "lng": -84.05
+    },
+    {
+      "cityName": "Páez",
+      "lat": 9.8666667,
+      "lng": -83.8833333
+    },
+    {
+      "cityName": "Palomas",
+      "lat": 9.7666667,
+      "lng": -83.8333333
+    },
+    {
+      "cityName": "Paraíso",
+      "lat": 9.8333333,
+      "lng": -83.8666667
+    },
+    {
+      "cityName": "Pascón",
+      "lat": 9.9,
+      "lng": -83.8166667
+    },
+    {
+      "cityName": "Paso Ancho",
+      "lat": 9.8833333,
+      "lng": -83.8666667
+    },
+    {
+      "cityName": "Paso Macho",
+      "lat": 9.6833333,
+      "lng": -83.9
+    },
+    {
+      "cityName": "Patillos",
+      "lat": 9.75,
+      "lng": -83.7833333
+    },
+    {
+      "cityName": "Patio de Agua",
+      "lat": 9.8166667,
+      "lng": -84
+    },
+    {
+      "cityName": "Pavones",
+      "lat": 9.95,
+      "lng": -83.6166667
+    },
+    {
+      "cityName": "Pénjamo",
+      "lat": 9.9666667,
+      "lng": -83.9166667
+    },
+    {
+      "cityName": "Peralta",
+      "lat": 9.9666667,
+      "lng": -83.6166667
+    },
+    {
+      "cityName": "Platanillal",
+      "lat": 9.9166667,
+      "lng": -83.8333333
+    },
+    {
+      "cityName": "Platanillo",
+      "lat": 9.8333333,
+      "lng": -83.55
+    },
+    {
+      "cityName": "Playa Hermosa",
+      "lat": 9.95,
+      "lng": -83.35
+    },
+    {
+      "cityName": "Potrero Cerrado",
+      "lat": 9.9166667,
+      "lng": -83.8833333
+    },
+    {
+      "cityName": "Purisil",
+      "lat": 9.7666667,
+      "lng": -83.8166667
+    },
+    {
+      "cityName": "Quebradilla",
+      "lat": 9.85,
+      "lng": -84
+    },
+    {
+      "cityName": "Quincot",
+      "lat": 9.9,
+      "lng": -83.9333333
+    },
+    {
+      "cityName": "Raicero",
+      "lat": 9.9833333,
+      "lng": -83.75
+    },
+    {
+      "cityName": "Recreo",
+      "lat": 9.9,
+      "lng": -83.7
+    },
+    {
+      "cityName": "Río Azul",
+      "lat": 9.9,
+      "lng": -84.0333333
+    },
+    {
+      "cityName": "Río Conejo",
+      "lat": 9.7833333,
+      "lng": -84.0666667
+    },
+    {
+      "cityName": "Río Macho",
+      "lat": 9.7833333,
+      "lng": -83.85
+    },
+    {
+      "cityName": "San Antonio de Corralillo",
+      "lat": 9.7833333,
+      "lng": -84.05
+    },
+    {
+      "cityName": "Sanchirí",
+      "lat": 9.8166667,
+      "lng": -83.8666667
+    },
+    {
+      "cityName": "San Diego",
+      "lat": 9.9,
+      "lng": -84
+    },
+    {
+      "cityName": "San Isidro",
+      "lat": 9.8333333,
+      "lng": -83.95
+    },
+    {
+      "cityName": "San Jerónimo",
+      "lat": 9.85,
+      "lng": -83.8
+    },
+    {
+      "cityName": "San Juan Norte",
+      "lat": 9.8833333,
+      "lng": -83.7
+    },
+    {
+      "cityName": "San Miguel",
+      "lat": 9.8666667,
+      "lng": -83.7666667
+    },
+    {
+      "cityName": "San Pablo",
+      "lat": 9.9666667,
+      "lng": -83.8333333
+    },
+    {
+      "cityName": "San Rafael",
+      "lat": 9.75,
+      "lng": -83.8
+    },
+    {
+      "cityName": "San Ramón",
+      "lat": 9.95,
+      "lng": -84
+    },
+    {
+      "cityName": "Santa Cruz",
+      "lat": 9.9666667,
+      "lng": -83.7333333
+    },
+    {
+      "cityName": "Santa Elena Arriba",
+      "lat": 9.7666667,
+      "lng": -84.0666667
+    },
+    {
+      "cityName": "Santa Rosa",
+      "lat": 9.9166667,
+      "lng": -83.85
+    },
+    {
+      "cityName": "Santa Teresa",
+      "lat": 9.9333333,
+      "lng": -83.7833333
+    },
+    {
+      "cityName": "Santiago",
+      "lat": 9.8666667,
+      "lng": -83.8
+    },
+    {
+      "cityName": "Selva",
+      "lat": 9.7833333,
+      "lng": -83.75
+    },
+    {
+      "cityName": "Sierra",
+      "lat": 9.75,
+      "lng": -83.9833333
+    },
+    {
+      "cityName": "Sitio",
+      "lat": 9.7833333,
+      "lng": -83.8166667
+    },
+    {
+      "cityName": "Tablón",
+      "lat": 9.8333333,
+      "lng": -84.0166667
+    },
+    {
+      "cityName": "Taras",
+      "lat": 9.8833333,
+      "lng": -83.9333333
+    },
+    {
+      "cityName": "Tausito",
+      "lat": 9.7833333,
+      "lng": -83.7833333
+    },
+    {
+      "cityName": "Taus",
+      "lat": 9.7833333,
+      "lng": -83.7166667
+    },
+    {
+      "cityName": "Tayutic",
+      "lat": 9.8333333,
+      "lng": -83.5666667
+    },
+    {
+      "cityName": "Tierra Blanca",
+      "lat": 9.9166667,
+      "lng": -83.9
+    },
+    {
+      "cityName": "Tobosí",
+      "lat": 9.8333333,
+      "lng": -83.9833333
+    },
+    {
+      "cityName": "Torito",
+      "lat": 10,
+      "lng": -83.7
+    },
+    {
+      "cityName": "Tres de Junio",
+      "lat": 9.6666667,
+      "lng": -83.85
+    },
+    {
+      "cityName": "Trinidad",
+      "lat": 9.6666667,
+      "lng": -83.8833333
+    },
+    {
+      "cityName": "Troya",
+      "lat": 9.8,
+      "lng": -83.8666667
+    },
+    {
+      "cityName": "Tucurrique",
+      "lat": 9.85,
+      "lng": -83.7166667
+    },
+    {
+      "cityName": "Tuis",
+      "lat": 9.85,
+      "lng": -83.5833333
+    },
+    {
+      "cityName": "Turialba",
+      "lat": 9.9,
+      "lng": -83.6833333
+    },
+    {
+      "cityName": "Ujarrás",
+      "lat": 9.8333333,
+      "lng": -83.8333333
+    },
+    {
+      "cityName": "Urasca",
+      "lat": 9.8333333,
+      "lng": -83.7833333
+    },
+    {
+      "cityName": "Vara de Roble",
+      "lat": 9.75,
+      "lng": -83.9666667
+    },
+    {
+      "cityName": "Verbena Norte",
+      "lat": 9.95,
+      "lng": -83.7
+    },
+    {
+      "cityName": "Verbena Sur",
+      "lat": 9.9333333,
+      "lng": -83.7
+    },
+    {
+      "cityName": "Victoria",
+      "lat": 9.9,
+      "lng": -83.7333333
+    },
+    {
+      "cityName": "Volio",
+      "lat": 9.8166667,
+      "lng": -83.8
+    },
+    {
+      "cityName": "Vueltas",
+      "lat": 9.8333333,
+      "lng": -83.7166667
+    },
+    {
+      "cityName": "Yolanda",
+      "lat": 9.85,
+      "lng": -83.6833333
+    }
+  ]
+}

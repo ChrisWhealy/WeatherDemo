@@ -1,0 +1,63 @@
+{
+  "name": "Cameroon",
+  "iso2": "cm",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Adamaoua",
+      "id": 0
+    },
+    {
+      "name": "Centre",
+      "id": 1
+    },
+    {
+      "name": "Est",
+      "id": 2
+    },
+    {
+      "name": "Extreme-Nord",
+      "id": 3
+    },
+    {
+      "name": "Littoral",
+      "id": 4
+    },
+    {
+      "name": "Nord",
+      "id": 5
+    },
+    {
+      "name": "Nord-Ouest",
+      "id": 6
+    },
+    {
+      "name": "Ouest",
+      "id": 7
+    },
+    {
+      "name": "Sud",
+      "id": 8
+    },
+    {
+      "name": "Sud-Ouest",
+      "id": 9
+    }
+  ],
+  "geoRectangle": {
+    "West": 8.49476146698,
+    "East": 16.1921195984,
+    "North": 13.0780572891,
+    "South": 1.6525478363
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Yaounde",
+    "GeoPt": [
+      3.52,
+      11.31
+    ]
+  }
+}

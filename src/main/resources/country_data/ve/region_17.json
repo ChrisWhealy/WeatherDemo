@@ -1,0 +1,790 @@
+{
+  "name": "Nueva Esparta",
+  "cities": [
+    {
+      "cityName": "Acarigua",
+      "lat": 11.05,
+      "lng": -63.9166667
+    },
+    {
+      "cityName": "Agua de Vaca",
+      "lat": 11.0133333,
+      "lng": -63.9666667
+    },
+    {
+      "cityName": "Altagracia",
+      "lat": 11.0955556,
+      "lng": -63.9433333
+    },
+    {
+      "cityName": "Apostadero",
+      "lat": 11.0183333,
+      "lng": -63.8133333
+    },
+    {
+      "cityName": "Arenas",
+      "lat": 10.9666667,
+      "lng": -64.4
+    },
+    {
+      "cityName": "Aricagua",
+      "lat": 11.1166667,
+      "lng": -63.8666667
+    },
+    {
+      "cityName": "Arismendi",
+      "lat": 11.0833333,
+      "lng": -63.9333333
+    },
+    {
+      "cityName": "Atamo",
+      "lat": 11.0166667,
+      "lng": -63.8333333
+    },
+    {
+      "cityName": "Atamo Sur",
+      "lat": 11.0266667,
+      "lng": -63.8372222
+    },
+    {
+      "cityName": "Barranca Blanca",
+      "lat": 10.8033333,
+      "lng": -64.175
+    },
+    {
+      "cityName": "Barrancas",
+      "lat": 10.9333333,
+      "lng": -64.25
+    },
+    {
+      "cityName": "Bella Vista",
+      "lat": 10.9611111,
+      "lng": -63.8238889
+    },
+    {
+      "cityName": "Boca Chica",
+      "lat": 10.9,
+      "lng": -64.3572222
+    },
+    {
+      "cityName": "Boca del Pozo",
+      "lat": 11,
+      "lng": -64.3833333
+    },
+    {
+      "cityName": "Boca del Río",
+      "lat": 10.9666667,
+      "lng": -64.1833333
+    },
+    {
+      "cityName": "Bolívar",
+      "lat": 11.05,
+      "lng": -63.9333333
+    },
+    {
+      "cityName": "Boquerón",
+      "lat": 11.0166667,
+      "lng": -63.95
+    },
+    {
+      "cityName": "Buenos Aires",
+      "lat": 11.0227778,
+      "lng": -63.8666667
+    },
+    {
+      "cityName": "Carapacho",
+      "lat": 11,
+      "lng": -63.9666667
+    },
+    {
+      "cityName": "Casitas",
+      "lat": 10.8833333,
+      "lng": -64.0666667
+    },
+    {
+      "cityName": "Cedeño",
+      "lat": 11.0177778,
+      "lng": -63.925
+    },
+    {
+      "cityName": "Cerro Colorado",
+      "lat": 10.9538889,
+      "lng": -63.8666667
+    },
+    {
+      "cityName": "Chacachacare",
+      "lat": 10.9666667,
+      "lng": -64.15
+    },
+    {
+      "cityName": "Cochaima",
+      "lat": 11.0588889,
+      "lng": -63.8538889
+    },
+    {
+      "cityName": "Comejenes",
+      "lat": 11.22,
+      "lng": -64.225
+    },
+    {
+      "cityName": "Conejero",
+      "lat": 10.9666667,
+      "lng": -66.8666667
+    },
+    {
+      "cityName": "Constanza",
+      "lat": 11.15,
+      "lng": -63.9
+    },
+    {
+      "cityName": "Cruz Grande",
+      "lat": 10.9783333,
+      "lng": -63.8527778
+    },
+    {
+      "cityName": "Curichicual",
+      "lat": 10.9666667,
+      "lng": -64.3333333
+    },
+    {
+      "cityName": "El Agua",
+      "lat": 11.1416667,
+      "lng": -63.8561111
+    },
+    {
+      "cityName": "El Aguila",
+      "lat": 10.9205556,
+      "lng": -64.0683333
+    },
+    {
+      "cityName": "El Amparo",
+      "lat": 10.7333333,
+      "lng": -63.9166667
+    },
+    {
+      "cityName": "El Barrero",
+      "lat": 11.0977778,
+      "lng": -63.8788889
+    },
+    {
+      "cityName": "El Bichar",
+      "lat": 10.7666667,
+      "lng": -63.9666667
+    },
+    {
+      "cityName": "El Botadero",
+      "lat": 10.9622222,
+      "lng": -64.15
+    },
+    {
+      "cityName": "El Caño",
+      "lat": 10.7533333,
+      "lng": -63.9283333
+    },
+    {
+      "cityName": "El Cardón",
+      "lat": 11.1072222,
+      "lng": -63.8416667
+    },
+    {
+      "cityName": "El Cauca",
+      "lat": 10.99,
+      "lng": -63.8561111
+    },
+    {
+      "cityName": "El Cercado",
+      "lat": 11.0583333,
+      "lng": -63.925
+    },
+    {
+      "cityName": "El Chorro",
+      "lat": 11,
+      "lng": -63.8833333
+    },
+    {
+      "cityName": "El Chueima",
+      "lat": 10.97,
+      "lng": -63.9166667
+    },
+    {
+      "cityName": "El Coco",
+      "lat": 10.7755556,
+      "lng": -63.905
+    },
+    {
+      "cityName": "El Cordon",
+      "lat": 11.1,
+      "lng": -63.8666667
+    },
+    {
+      "cityName": "El Cuarto",
+      "lat": 10.9477778,
+      "lng": -63.8688889
+    },
+    {
+      "cityName": "El Dátil",
+      "lat": 10.9666667,
+      "lng": -63.96
+    },
+    {
+      "cityName": "El Espinal",
+      "lat": 10.9666667,
+      "lng": -63.9833333
+    },
+    {
+      "cityName": "El Genoves",
+      "lat": 10.9783333,
+      "lng": -63.8333333
+    },
+    {
+      "cityName": "El Guamache",
+      "lat": 10.7333333,
+      "lng": -63.9
+    },
+    {
+      "cityName": "El Hatico",
+      "lat": 10.9666667,
+      "lng": -63.9666667
+    },
+    {
+      "cityName": "El Hato",
+      "lat": 11.035,
+      "lng": -63.8155556
+    },
+    {
+      "cityName": "El Horcón",
+      "lat": 10.95,
+      "lng": -64.2833333
+    },
+    {
+      "cityName": "El Maco",
+      "lat": 11.05,
+      "lng": -63.95
+    },
+    {
+      "cityName": "El Maguey",
+      "lat": 11.0833333,
+      "lng": -64.1833333
+    },
+    {
+      "cityName": "El Manglillo",
+      "lat": 10.95,
+      "lng": -64.3
+    },
+    {
+      "cityName": "El Palito",
+      "lat": 11.0666667,
+      "lng": -63.9833333
+    },
+    {
+      "cityName": "El Palotal",
+      "lat": 11.0216667,
+      "lng": -64.01
+    },
+    {
+      "cityName": "El Piache",
+      "lat": 10.9633333,
+      "lng": -63.875
+    },
+    {
+      "cityName": "El Pilar",
+      "lat": 10.9833333,
+      "lng": -63.8333333
+    },
+    {
+      "cityName": "El Poblado",
+      "lat": 10.97,
+      "lng": -63.8483333
+    },
+    {
+      "cityName": "El Portillo",
+      "lat": 11.0133333,
+      "lng": -64.16
+    },
+    {
+      "cityName": "El Pozo",
+      "lat": 10.95,
+      "lng": -64.1977778
+    },
+    {
+      "cityName": "El Saco",
+      "lat": 11.2361111,
+      "lng": -64.2077778
+    },
+    {
+      "cityName": "El Salado",
+      "lat": 11.0833333,
+      "lng": -63.8666667
+    },
+    {
+      "cityName": "El Tunal",
+      "lat": 11.0666667,
+      "lng": -64.3
+    },
+    {
+      "cityName": "El Valle del Espíritu Santo",
+      "lat": 10.9833333,
+      "lng": -63.8666667
+    },
+    {
+      "cityName": "El Valle de Pedro Gonzalez",
+      "lat": 11.1,
+      "lng": -63.95
+    },
+    {
+      "cityName": "El Yaque",
+      "lat": 10.8833333,
+      "lng": -63.9333333
+    },
+    {
+      "cityName": "Espinola",
+      "lat": 11.0166667,
+      "lng": -63.8166667
+    },
+    {
+      "cityName": "Flandes",
+      "lat": 11.0744444,
+      "lng": -63.8283333
+    },
+    {
+      "cityName": "Fuente Dueñas",
+      "lat": 11.0333333,
+      "lng": -63.9166667
+    },
+    {
+      "cityName": "Gamboa",
+      "lat": 11.0772222,
+      "lng": -63.9177778
+    },
+    {
+      "cityName": "Guaimaro",
+      "lat": 11.0666667,
+      "lng": -63.9666667
+    },
+    {
+      "cityName": "Guainamal",
+      "lat": 11.0166667,
+      "lng": -64.3166667
+    },
+    {
+      "cityName": "Guamachito",
+      "lat": 11.2005556,
+      "lng": -64.3766667
+    },
+    {
+      "cityName": "Guaraguao",
+      "lat": 10.9633333,
+      "lng": -63.8333333
+    },
+    {
+      "cityName": "Guatacaral",
+      "lat": 11.0077778,
+      "lng": -63.975
+    },
+    {
+      "cityName": "Guatamare",
+      "lat": 10.9894444,
+      "lng": -63.875
+    },
+    {
+      "cityName": "Guayacancito",
+      "lat": 10.9333333,
+      "lng": -64.2
+    },
+    {
+      "cityName": "Guayacán",
+      "lat": 11.1166667,
+      "lng": -63.9333333
+    },
+    {
+      "cityName": "Güinima",
+      "lat": 10.7333333,
+      "lng": -63.9333333
+    },
+    {
+      "cityName": "Juangriego",
+      "lat": 11.0833333,
+      "lng": -63.95
+    },
+    {
+      "cityName": "La Aguada",
+      "lat": 11.0022222,
+      "lng": -63.8616667
+    },
+    {
+      "cityName": "La Asunción",
+      "lat": 11.0333333,
+      "lng": -63.8627778
+    },
+    {
+      "cityName": "La Auyama",
+      "lat": 11.2511111,
+      "lng": -64.2611111
+    },
+    {
+      "cityName": "La Carmela",
+      "lat": 11.2227778,
+      "lng": -64.3333333
+    },
+    {
+      "cityName": "La Chica",
+      "lat": 10.9333333,
+      "lng": -64.0166667
+    },
+    {
+      "cityName": "La Cruz del Pastel",
+      "lat": 10.95,
+      "lng": -63.8377778
+    },
+    {
+      "cityName": "La Fuente",
+      "lat": 11.0666667,
+      "lng": -63.85
+    },
+    {
+      "cityName": "La Galera",
+      "lat": 11.1,
+      "lng": -63.9666667
+    },
+    {
+      "cityName": "La Guardia",
+      "lat": 11.0166667,
+      "lng": -64.0166667
+    },
+    {
+      "cityName": "Laguna de Raya",
+      "lat": 10.9333333,
+      "lng": -64.1166667
+    },
+    {
+      "cityName": "La Isleta",
+      "lat": 10.9,
+      "lng": -63.9333333
+    },
+    {
+      "cityName": "La Loma",
+      "lat": 11.1444444,
+      "lng": -63.8666667
+    },
+    {
+      "cityName": "La Mira",
+      "lat": 11.15,
+      "lng": -63.8666667
+    },
+    {
+      "cityName": "La Pared",
+      "lat": 11.0633333,
+      "lng": -64.3072222
+    },
+    {
+      "cityName": "La Playa",
+      "lat": 11.1333333,
+      "lng": -63.9166667
+    },
+    {
+      "cityName": "La Polvorosa",
+      "lat": 11.0788889,
+      "lng": -63.8477778
+    },
+    {
+      "cityName": "La Rinconada",
+      "lat": 11.1,
+      "lng": -63.8833333
+    },
+    {
+      "cityName": "Las Bermúdez",
+      "lat": 10.9422222,
+      "lng": -64.0138889
+    },
+    {
+      "cityName": "Las Cabrera",
+      "lat": 11.05,
+      "lng": -63.9666667
+    },
+    {
+      "cityName": "Las Giles",
+      "lat": 10.9166667,
+      "lng": -64.0416667
+    },
+    {
+      "cityName": "Las Guevara",
+      "lat": 10.9666667,
+      "lng": -64
+    },
+    {
+      "cityName": "Las Hernandes",
+      "lat": 10.95,
+      "lng": -64.05
+    },
+    {
+      "cityName": "Las Huertas",
+      "lat": 11.025,
+      "lng": -63.8455556
+    },
+    {
+      "cityName": "La Sierra",
+      "lat": 11.0138889,
+      "lng": -63.8738889
+    },
+    {
+      "cityName": "Las Maritas",
+      "lat": 10.9433333,
+      "lng": -63.9138889
+    },
+    {
+      "cityName": "Las Piedras",
+      "lat": 10.9938889,
+      "lng": -63.8888889
+    },
+    {
+      "cityName": "Las Vásquez",
+      "lat": 10.9355556,
+      "lng": -64.0211111
+    },
+    {
+      "cityName": "Las Villaroel",
+      "lat": 10.9877778,
+      "lng": -63.9777778
+    },
+    {
+      "cityName": "La Uva",
+      "lat": 10.8,
+      "lng": -63.9333333
+    },
+    {
+      "cityName": "La Valla",
+      "lat": 11.1227778,
+      "lng": -63.8911111
+    },
+    {
+      "cityName": "La Vecindad",
+      "lat": 11.0666667,
+      "lng": -63.9333333
+    },
+    {
+      "cityName": "Loma de Guerra",
+      "lat": 11.1061111,
+      "lng": -63.8527778
+    },
+    {
+      "cityName": "Los Algodones",
+      "lat": 10.8833333,
+      "lng": -64.0166667
+    },
+    {
+      "cityName": "Los Bagres",
+      "lat": 10.95,
+      "lng": -63.9666667
+    },
+    {
+      "cityName": "Los Cerritos",
+      "lat": 11.0194444,
+      "lng": -63.8472222
+    },
+    {
+      "cityName": "Los Cuartos",
+      "lat": 10.905,
+      "lng": -64.075
+    },
+    {
+      "cityName": "Los Gómez",
+      "lat": 10.95,
+      "lng": -64.0833333
+    },
+    {
+      "cityName": "Los Horcones",
+      "lat": 10.9483333,
+      "lng": -64.2916667
+    },
+    {
+      "cityName": "Los Manglitos",
+      "lat": 10.8,
+      "lng": -64.2
+    },
+    {
+      "cityName": "Los Marvales",
+      "lat": 10.9333333,
+      "lng": -64.0561111
+    },
+    {
+      "cityName": "Los Millanes",
+      "lat": 11.0666667,
+      "lng": -63.95
+    },
+    {
+      "cityName": "Los Narvales",
+      "lat": 10.9333333,
+      "lng": -64.05
+    },
+    {
+      "cityName": "Los Panecillos",
+      "lat": 10.8044444,
+      "lng": -64.1666667
+    },
+    {
+      "cityName": "Los Romero",
+      "lat": 11.0166667,
+      "lng": -64
+    },
+    {
+      "cityName": "Macho Muerto",
+      "lat": 10.95,
+      "lng": -63.8833333
+    },
+    {
+      "cityName": "Manzanillo",
+      "lat": 10.9377778,
+      "lng": -64.2066667
+    },
+    {
+      "cityName": "Mata Redondo",
+      "lat": 10.9455556,
+      "lng": -64.1166667
+    },
+    {
+      "cityName": "Orinoco",
+      "lat": 10.9166667,
+      "lng": -64.0333333
+    },
+    {
+      "cityName": "Pampatar",
+      "lat": 11,
+      "lng": -63.8
+    },
+    {
+      "cityName": "Paraguachi",
+      "lat": 11.1,
+      "lng": -63.85
+    },
+    {
+      "cityName": "Parate Bueno",
+      "lat": 10.98,
+      "lng": -64.3605556
+    },
+    {
+      "cityName": "Pedro Gonzalez",
+      "lat": 11.1166667,
+      "lng": -63.9166667
+    },
+    {
+      "cityName": "Piedra Lisa",
+      "lat": 11.1905556,
+      "lng": -64.2555556
+    },
+    {
+      "cityName": "Piedras Negras",
+      "lat": 10.9666667,
+      "lng": -64.0833333
+    },
+    {
+      "cityName": "Plaza del Gallo",
+      "lat": 11.025,
+      "lng": -63.945
+    },
+    {
+      "cityName": "Porlamar",
+      "lat": 10.95,
+      "lng": -63.85
+    },
+    {
+      "cityName": "Puerto Moreno",
+      "lat": 10.9833333,
+      "lng": -63.8
+    },
+    {
+      "cityName": "Punta de las Piedras",
+      "lat": 10.9,
+      "lng": -64.1
+    },
+    {
+      "cityName": "Punta de Mangle",
+      "lat": 10.8833333,
+      "lng": -64.0333333
+    },
+    {
+      "cityName": "Risco Blanco",
+      "lat": 11.1888889,
+      "lng": -64.3
+    },
+    {
+      "cityName": "Robeledar",
+      "lat": 11.0333333,
+      "lng": -64.3666667
+    },
+    {
+      "cityName": "Salamanca",
+      "lat": 11.05,
+      "lng": -63.8666667
+    },
+    {
+      "cityName": "San Antonio del Norte",
+      "lat": 10.9627778,
+      "lng": -63.9166667
+    },
+    {
+      "cityName": "San Antonio del Sur",
+      "lat": 10.95,
+      "lng": -63.9166667
+    },
+    {
+      "cityName": "San Francisco",
+      "lat": 11.0166667,
+      "lng": -64.2833333
+    },
+    {
+      "cityName": "San Martín",
+      "lat": 11.0566667,
+      "lng": -63.9855556
+    },
+    {
+      "cityName": "San Pedro de Coche",
+      "lat": 10.7833333,
+      "lng": -63.9833333
+    },
+    {
+      "cityName": "San Pedro",
+      "lat": 10.7666667,
+      "lng": -63.9833333
+    },
+    {
+      "cityName": "San Sebastián",
+      "lat": 11.05,
+      "lng": -63.9
+    },
+    {
+      "cityName": "Santa Ana",
+      "lat": 11.0666667,
+      "lng": -63.9166667
+    },
+    {
+      "cityName": "Santa Inés",
+      "lat": 11.2261111,
+      "lng": -64.2755556
+    },
+    {
+      "cityName": "Santa María",
+      "lat": 10.9505556,
+      "lng": -64.0994444
+    },
+    {
+      "cityName": "Sulica",
+      "lat": 10.7666667,
+      "lng": -63.8833333
+    },
+    {
+      "cityName": "Tacarigua",
+      "lat": 11.055,
+      "lng": -63.8983333
+    },
+    {
+      "cityName": "Tajerías",
+      "lat": 10.9833333,
+      "lng": -64.3666667
+    },
+    {
+      "cityName": "Vega de San Juan",
+      "lat": 11.0177778,
+      "lng": -63.9666667
+    }
+  ]
+}

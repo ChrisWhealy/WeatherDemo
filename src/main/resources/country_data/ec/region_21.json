@@ -1,0 +1,830 @@
+{
+  "name": "Zamora-Chinchipe",
+  "cities": [
+    {
+      "cityName": "28 de Mayo",
+      "lat": -3.6327778,
+      "lng": -78.9244444
+    },
+    {
+      "cityName": "Achuntza",
+      "lat": -3.6972222,
+      "lng": -78.5583333
+    },
+    {
+      "cityName": "Barbascal",
+      "lat": -3.6133333,
+      "lng": -78.9222222
+    },
+    {
+      "cityName": "Buena Fé",
+      "lat": -3.6741667,
+      "lng": -78.6097222
+    },
+    {
+      "cityName": "Caipi",
+      "lat": -3.7108333,
+      "lng": -78.5625
+    },
+    {
+      "cityName": "Cambana",
+      "lat": -3.6588889,
+      "lng": -78.9083333
+    },
+    {
+      "cityName": "Campamento Agua Colorada",
+      "lat": -4.5772222,
+      "lng": -78.6633333
+    },
+    {
+      "cityName": "Campamento El Abandono",
+      "lat": -4.6105556,
+      "lng": -78.6997222
+    },
+    {
+      "cityName": "Campamento El Diluvio",
+      "lat": -4.6194444,
+      "lng": -78.7247222
+    },
+    {
+      "cityName": "Campamento El Mirador",
+      "lat": -4.6391667,
+      "lng": -78.77
+    },
+    {
+      "cityName": "Campamento La Hambruna",
+      "lat": -4.5419444,
+      "lng": -78.6622222
+    },
+    {
+      "cityName": "Campamento La Pampa",
+      "lat": -4.5561111,
+      "lng": -78.6602778
+    },
+    {
+      "cityName": "Campamento Ruiseñor",
+      "lat": -4.5233333,
+      "lng": -78.6577778
+    },
+    {
+      "cityName": "Cantzama",
+      "lat": -3.855,
+      "lng": -78.8847222
+    },
+    {
+      "cityName": "Centro Miasí",
+      "lat": -3.5505556,
+      "lng": -78.5763889
+    },
+    {
+      "cityName": "Centro Shuara",
+      "lat": -3.8488889,
+      "lng": -78.9002778
+    },
+    {
+      "cityName": "Centro Shuara del Quimi",
+      "lat": -3.6119444,
+      "lng": -78.5575
+    },
+    {
+      "cityName": "Centro Shuara de Machinaza",
+      "lat": -3.6138889,
+      "lng": -78.5311111
+    },
+    {
+      "cityName": "Chapintza",
+      "lat": -3.7669444,
+      "lng": -78.8708333
+    },
+    {
+      "cityName": "Chicaña Alto",
+      "lat": -3.7077778,
+      "lng": -78.7633333
+    },
+    {
+      "cityName": "Chicaña Bajo",
+      "lat": -3.7497222,
+      "lng": -78.7327778
+    },
+    {
+      "cityName": "Chicaña",
+      "lat": -3.7241667,
+      "lng": -78.7433333
+    },
+    {
+      "cityName": "Chiches",
+      "lat": -3.6413889,
+      "lng": -78.5961111
+    },
+    {
+      "cityName": "Chimbuza",
+      "lat": -3.7769444,
+      "lng": -78.7455556
+    },
+    {
+      "cityName": "Chinchipe",
+      "lat": -4.8666667,
+      "lng": -79.15
+    },
+    {
+      "cityName": "Chito",
+      "lat": -4.9333333,
+      "lng": -79.05
+    },
+    {
+      "cityName": "Cóndor Samana",
+      "lat": -3.6377778,
+      "lng": -78.9911111
+    },
+    {
+      "cityName": "Corral Pamba",
+      "lat": -3.5733333,
+      "lng": -78.9602778
+    },
+    {
+      "cityName": "Cumay Alto",
+      "lat": -4.0227778,
+      "lng": -78.8238889
+    },
+    {
+      "cityName": "Cumbaratza",
+      "lat": -3.9905556,
+      "lng": -78.8630556
+    },
+    {
+      "cityName": "Curacaca",
+      "lat": -3.7694444,
+      "lng": -78.8938889
+    },
+    {
+      "cityName": "Cutuntza",
+      "lat": -4.0319444,
+      "lng": -78.8727778
+    },
+    {
+      "cityName": "Destacamento Tundayme",
+      "lat": -3.5744444,
+      "lng": -78.4769444
+    },
+    {
+      "cityName": "El Carmelo",
+      "lat": -3.8191667,
+      "lng": -78.8563889
+    },
+    {
+      "cityName": "El Cedro",
+      "lat": -3.6805556,
+      "lng": -78.5444444
+    },
+    {
+      "cityName": "El Chamico",
+      "lat": -3.9469444,
+      "lng": -78.8208333
+    },
+    {
+      "cityName": "El Chorro",
+      "lat": -4.9,
+      "lng": -79.1
+    },
+    {
+      "cityName": "El Cisne",
+      "lat": -3.6427778,
+      "lng": -78.9047222
+    },
+    {
+      "cityName": "El Dorado",
+      "lat": -3.9305556,
+      "lng": -78.6972222
+    },
+    {
+      "cityName": "El Ingenio",
+      "lat": -3.655,
+      "lng": -78.9694444
+    },
+    {
+      "cityName": "El Pangui",
+      "lat": -3.625,
+      "lng": -78.5869444
+    },
+    {
+      "cityName": "El Pindal",
+      "lat": -3.7577778,
+      "lng": -78.6025
+    },
+    {
+      "cityName": "El Plateado",
+      "lat": -3.6613889,
+      "lng": -78.7780556
+    },
+    {
+      "cityName": "El Progreso",
+      "lat": -3.9016667,
+      "lng": -78.8597222
+    },
+    {
+      "cityName": "El Salado",
+      "lat": -3.6441667,
+      "lng": -78.9236111
+    },
+    {
+      "cityName": "Garcelán",
+      "lat": -3.6363889,
+      "lng": -78.9547222
+    },
+    {
+      "cityName": "Guabiduca",
+      "lat": -3.6011111,
+      "lng": -78.9311111
+    },
+    {
+      "cityName": "Guadalupe",
+      "lat": -3.8438889,
+      "lng": -78.8863889
+    },
+    {
+      "cityName": "Guaguaime",
+      "lat": -3.6494444,
+      "lng": -78.8766667
+    },
+    {
+      "cityName": "Guaguayme Alto",
+      "lat": -3.9041667,
+      "lng": -78.8855556
+    },
+    {
+      "cityName": "Guaguayme Bajo",
+      "lat": -3.9097222,
+      "lng": -78.8852778
+    },
+    {
+      "cityName": "Guando",
+      "lat": -3.5694444,
+      "lng": -78.9208333
+    },
+    {
+      "cityName": "Guaranguillo",
+      "lat": -4.95,
+      "lng": -79.1833333
+    },
+    {
+      "cityName": "Guasimi",
+      "lat": -4.0466667,
+      "lng": -78.6833333
+    },
+    {
+      "cityName": "Guisme",
+      "lat": -3.5508333,
+      "lng": -78.5686111
+    },
+    {
+      "cityName": "Jambue Alto",
+      "lat": -4.1122222,
+      "lng": -78.9436111
+    },
+    {
+      "cityName": "Jambue Bajo",
+      "lat": -4.0825,
+      "lng": -78.9361111
+    },
+    {
+      "cityName": "Jibaría Congüime",
+      "lat": -4.0363889,
+      "lng": -78.6336111
+    },
+    {
+      "cityName": "La Centza",
+      "lat": -3.7655556,
+      "lng": -78.6266667
+    },
+    {
+      "cityName": "La Chonta",
+      "lat": -4.95,
+      "lng": -79.1
+    },
+    {
+      "cityName": "La Chorrera",
+      "lat": -4.0502778,
+      "lng": -78.9297222
+    },
+    {
+      "cityName": "La Cuna de Los Maldonado",
+      "lat": -3.5172222,
+      "lng": -78.9413889
+    },
+    {
+      "cityName": "La Esperanza",
+      "lat": -3.5722222,
+      "lng": -78.9388889
+    },
+    {
+      "cityName": "La Florida",
+      "lat": -3.6263889,
+      "lng": -78.9944444
+    },
+    {
+      "cityName": "La Fragancia",
+      "lat": -4.0463889,
+      "lng": -78.9866667
+    },
+    {
+      "cityName": "La Guanta",
+      "lat": -4.2333333,
+      "lng": -78.65
+    },
+    {
+      "cityName": "La Guantza",
+      "lat": -4.1630556,
+      "lng": -78.6427778
+    },
+    {
+      "cityName": "La Hueca",
+      "lat": -3.9086111,
+      "lng": -78.8088889
+    },
+    {
+      "cityName": "La Misión",
+      "lat": -3.8433333,
+      "lng": -78.8902778
+    },
+    {
+      "cityName": "La Palmira",
+      "lat": -3.5780556,
+      "lng": -78.5588889
+    },
+    {
+      "cityName": "La Paz",
+      "lat": -3.6969444,
+      "lng": -78.8913889
+    },
+    {
+      "cityName": "La Pituca",
+      "lat": -4.1355556,
+      "lng": -78.94
+    },
+    {
+      "cityName": "La Saquea",
+      "lat": -3.9108333,
+      "lng": -78.8497222
+    },
+    {
+      "cityName": "Las Palmas",
+      "lat": -3.9783333,
+      "lng": -78.9083333
+    },
+    {
+      "cityName": "Las Peñas",
+      "lat": -3.78,
+      "lng": -78.4894444
+    },
+    {
+      "cityName": "Las Tres Aguas",
+      "lat": -4.8833333,
+      "lng": -79
+    },
+    {
+      "cityName": "La Tapaza",
+      "lat": -3.8263889,
+      "lng": -78.6905556
+    },
+    {
+      "cityName": "La Victoria de Imbana",
+      "lat": -3.8166667,
+      "lng": -79.1166667
+    },
+    {
+      "cityName": "La Yamilla",
+      "lat": -4.0227778,
+      "lng": -78.9402778
+    },
+    {
+      "cityName": "Limón",
+      "lat": -4.05,
+      "lng": -78.9666667
+    },
+    {
+      "cityName": "Los Hachos",
+      "lat": -3.7988889,
+      "lng": -78.7394444
+    },
+    {
+      "cityName": "Los Planes",
+      "lat": -4.8847222,
+      "lng": -78.9644444
+    },
+    {
+      "cityName": "Loyola",
+      "lat": -4.4666667,
+      "lng": -78.9833333
+    },
+    {
+      "cityName": "Miasi",
+      "lat": -4.3166667,
+      "lng": -78.65
+    },
+    {
+      "cityName": "Moradilla",
+      "lat": -3.5636111,
+      "lng": -78.9388889
+    },
+    {
+      "cityName": "Moradillas",
+      "lat": -3.6111111,
+      "lng": -78.9552778
+    },
+    {
+      "cityName": "Muchine",
+      "lat": -3.75,
+      "lng": -78.6722222
+    },
+    {
+      "cityName": "Mutintza",
+      "lat": -3.7788889,
+      "lng": -78.7169444
+    },
+    {
+      "cityName": "Namacuntza",
+      "lat": -3.9905556,
+      "lng": -78.8208333
+    },
+    {
+      "cityName": "Nambija Bajo",
+      "lat": -3.9769444,
+      "lng": -78.8372222
+    },
+    {
+      "cityName": "Nanguipa Alto",
+      "lat": -3.9391667,
+      "lng": -78.7436111
+    },
+    {
+      "cityName": "Nanguipa Bajo",
+      "lat": -3.9044444,
+      "lng": -78.7516667
+    },
+    {
+      "cityName": "Nanguipa",
+      "lat": -3.8833333,
+      "lng": -78.7666667
+    },
+    {
+      "cityName": "Napurca",
+      "lat": -3.7516667,
+      "lng": -78.8711111
+    },
+    {
+      "cityName": "Nayona",
+      "lat": -3.7572222,
+      "lng": -78.7097222
+    },
+    {
+      "cityName": "Nueva Esperanza",
+      "lat": -3.8647222,
+      "lng": -78.6852778
+    },
+    {
+      "cityName": "Numbaymi",
+      "lat": -3.5983333,
+      "lng": -78.5252778
+    },
+    {
+      "cityName": "Oretga",
+      "lat": -3.5522222,
+      "lng": -78.9322222
+    },
+    {
+      "cityName": "Ortega Alto",
+      "lat": -3.5175,
+      "lng": -78.9202778
+    },
+    {
+      "cityName": "Ortega Bajo",
+      "lat": -3.5322222,
+      "lng": -78.91
+    },
+    {
+      "cityName": "Pachicutza Bajo",
+      "lat": -3.6647222,
+      "lng": -78.6086111
+    },
+    {
+      "cityName": "Pachicutza",
+      "lat": -4.1225,
+      "lng": -78.6352778
+    },
+    {
+      "cityName": "Padmi Bajo",
+      "lat": -3.7411111,
+      "lng": -78.6144444
+    },
+    {
+      "cityName": "Padmi",
+      "lat": -3.7247222,
+      "lng": -78.6336111
+    },
+    {
+      "cityName": "Palanda",
+      "lat": -4.65,
+      "lng": -79.15
+    },
+    {
+      "cityName": "Palanuma",
+      "lat": -4.7,
+      "lng": -79.1333333
+    },
+    {
+      "cityName": "Palmaloma",
+      "lat": -3.6252778,
+      "lng": -78.8991667
+    },
+    {
+      "cityName": "Panguintza",
+      "lat": -3.8986111,
+      "lng": -78.8125
+    },
+    {
+      "cityName": "Paquintza",
+      "lat": -3.5538889,
+      "lng": -78.5427778
+    },
+    {
+      "cityName": "Paquinza",
+      "lat": -3.5875,
+      "lng": -78.9286111
+    },
+    {
+      "cityName": "Paquisha",
+      "lat": -3.93,
+      "lng": -78.6741667
+    },
+    {
+      "cityName": "Peña Blanca",
+      "lat": -3.6327778,
+      "lng": -78.8758333
+    },
+    {
+      "cityName": "Pincho",
+      "lat": -3.7136111,
+      "lng": -78.5936111
+    },
+    {
+      "cityName": "Pita",
+      "lat": -3.8075,
+      "lng": -78.7541667
+    },
+    {
+      "cityName": "Piuntza",
+      "lat": -3.8675,
+      "lng": -78.8758333
+    },
+    {
+      "cityName": "Pucapamba",
+      "lat": -4.95,
+      "lng": -79.1166667
+    },
+    {
+      "cityName": "Pueblo Viejo",
+      "lat": -4.0522222,
+      "lng": -78.9077778
+    },
+    {
+      "cityName": "Puerto Paquisha",
+      "lat": -3.9266667,
+      "lng": -78.7016667
+    },
+    {
+      "cityName": "Quimi",
+      "lat": -3.5719444,
+      "lng": -78.5183333
+    },
+    {
+      "cityName": "Rabija",
+      "lat": -3.5441667,
+      "lng": -78.9561111
+    },
+    {
+      "cityName": "Ramírez Alto",
+      "lat": -3.9411111,
+      "lng": -78.8825
+    },
+    {
+      "cityName": "Rancho Achupallas",
+      "lat": -4.5,
+      "lng": -79.0833333
+    },
+    {
+      "cityName": "Rancho Cruz Chica",
+      "lat": -4.5333333,
+      "lng": -79.05
+    },
+    {
+      "cityName": "Sabanilla",
+      "lat": -3.95,
+      "lng": -79.05
+    },
+    {
+      "cityName": "Sacansa",
+      "lat": -4.1219444,
+      "lng": -78.9127778
+    },
+    {
+      "cityName": "San Antonio de Canelos",
+      "lat": -3.6211111,
+      "lng": -78.9627778
+    },
+    {
+      "cityName": "San Antonio del Vergel",
+      "lat": -3.8044444,
+      "lng": -78.8955556
+    },
+    {
+      "cityName": "San Cristóbal",
+      "lat": -3.5263889,
+      "lng": -78.955
+    },
+    {
+      "cityName": "San Diego del Ingenio",
+      "lat": -3.75,
+      "lng": -78.8666667
+    },
+    {
+      "cityName": "San Francisco de Asis",
+      "lat": -3.7122222,
+      "lng": -78.6291667
+    },
+    {
+      "cityName": "San Joaquín",
+      "lat": -3.6155556,
+      "lng": -78.9825
+    },
+    {
+      "cityName": "San Luis",
+      "lat": -3.5919444,
+      "lng": -78.9627778
+    },
+    {
+      "cityName": "San Marcos de Tundayme Alto",
+      "lat": -3.5686111,
+      "lng": -78.4705556
+    },
+    {
+      "cityName": "San Roque",
+      "lat": -3.6972222,
+      "lng": -78.6002778
+    },
+    {
+      "cityName": "Santa Ana",
+      "lat": -4.6166667,
+      "lng": -79.0166667
+    },
+    {
+      "cityName": "Santa Bárbara",
+      "lat": -3.8838889,
+      "lng": -78.7516667
+    },
+    {
+      "cityName": "Santa Clara del Vergel",
+      "lat": -4.6666667,
+      "lng": -79.0333333
+    },
+    {
+      "cityName": "Santa Cruz",
+      "lat": -3.6302778,
+      "lng": -78.4980556
+    },
+    {
+      "cityName": "San Vicente",
+      "lat": -3.6358333,
+      "lng": -78.8577778
+    },
+    {
+      "cityName": "Sinche",
+      "lat": -3.5244444,
+      "lng": -78.9672222
+    },
+    {
+      "cityName": "Sitio Corral",
+      "lat": -4.6166667,
+      "lng": -79.0333333
+    },
+    {
+      "cityName": "Sitio Palmar",
+      "lat": -4.5666667,
+      "lng": -79.0333333
+    },
+    {
+      "cityName": "Suapaca",
+      "lat": -3.9166667,
+      "lng": -78.8333333
+    },
+    {
+      "cityName": "Surmi",
+      "lat": -4.1016667,
+      "lng": -78.6666667
+    },
+    {
+      "cityName": "Tambo El Oso",
+      "lat": -4.0333333,
+      "lng": -79.0166667
+    },
+    {
+      "cityName": "Tambo Loma",
+      "lat": -3.6188889,
+      "lng": -78.945
+    },
+    {
+      "cityName": "Tambo Valladolid",
+      "lat": -4.55,
+      "lng": -79.05
+    },
+    {
+      "cityName": "Tarabita",
+      "lat": -4.0852778,
+      "lng": -78.9388889
+    },
+    {
+      "cityName": "Tigre",
+      "lat": -4.9666667,
+      "lng": -79.2666667
+    },
+    {
+      "cityName": "Timbara Alto",
+      "lat": -4.0433333,
+      "lng": -78.9044444
+    },
+    {
+      "cityName": "Timbara",
+      "lat": -4.0302778,
+      "lng": -78.8991667
+    },
+    {
+      "cityName": "Toscón",
+      "lat": -4.0627778,
+      "lng": -78.9522222
+    },
+    {
+      "cityName": "Tucus",
+      "lat": -3.6344444,
+      "lng": -78.98
+    },
+    {
+      "cityName": "Tundayme Bajo",
+      "lat": -3.5763889,
+      "lng": -78.4902778
+    },
+    {
+      "cityName": "Tutupali",
+      "lat": -3.5261111,
+      "lng": -78.9486111
+    },
+    {
+      "cityName": "Tzunantza Alto",
+      "lat": -4.0647222,
+      "lng": -78.8836111
+    },
+    {
+      "cityName": "Tzunantza Bajo",
+      "lat": -4.0472222,
+      "lng": -78.9202778
+    },
+    {
+      "cityName": "Valladolid",
+      "lat": -4.55,
+      "lng": -79.1333333
+    },
+    {
+      "cityName": "Valle del Quimi",
+      "lat": -3.5344444,
+      "lng": -78.4563889
+    },
+    {
+      "cityName": "Valle Hermoso",
+      "lat": -3.76,
+      "lng": -78.7758333
+    },
+    {
+      "cityName": "Yacuambi",
+      "lat": -3.9333333,
+      "lng": -78.85
+    },
+    {
+      "cityName": "Yantzaza",
+      "lat": -3.8277778,
+      "lng": -78.7594444
+    },
+    {
+      "cityName": "Yapi",
+      "lat": -4.1394444,
+      "lng": -78.6325
+    },
+    {
+      "cityName": "Zamora",
+      "lat": -4.0691667,
+      "lng": -78.9566667
+    },
+    {
+      "cityName": "Zumbi",
+      "lat": -3.8913889,
+      "lng": -78.7786111
+    }
+  ]
+}

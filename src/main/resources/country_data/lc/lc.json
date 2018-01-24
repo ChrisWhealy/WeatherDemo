@@ -1,0 +1,67 @@
+{
+  "name": "Saint Lucia",
+  "iso2": "lc",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Anse-la-Raye",
+      "id": 0
+    },
+    {
+      "name": "Castries",
+      "id": 1
+    },
+    {
+      "name": "Choiseul",
+      "id": 2
+    },
+    {
+      "name": "Dauphin",
+      "id": 3
+    },
+    {
+      "name": "Dennery",
+      "id": 4
+    },
+    {
+      "name": "Gros-Islet",
+      "id": 5
+    },
+    {
+      "name": "Laborie",
+      "id": 6
+    },
+    {
+      "name": "Micoud",
+      "id": 7
+    },
+    {
+      "name": "Praslin",
+      "id": 8
+    },
+    {
+      "name": "Soufriere",
+      "id": 9
+    },
+    {
+      "name": "Vieux-Fort",
+      "id": 10
+    }
+  ],
+  "geoRectangle": {
+    "West": -61.0741539001,
+    "East": -60.8741989136,
+    "North": 14.1032466888,
+    "South": 13.7047767639
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -4,
+    "Flg": 2,
+    "Name": "Castries",
+    "GeoPt": [
+      14.01,
+      -61
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Bahrain",
+  "iso2": "bh",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Al Hadd",
+      "id": 0
+    },
+    {
+      "name": "Al Manamah",
+      "id": 1
+    },
+    {
+      "name": "Al Mintaqah al Gharbiyah",
+      "id": 2
+    },
+    {
+      "name": "Al Mintaqah al Wusta",
+      "id": 3
+    },
+    {
+      "name": "Al Mintaqah ash Shamaliyah",
+      "id": 4
+    },
+    {
+      "name": "Ar Rifa",
+      "id": 5
+    },
+    {
+      "name": "Jidd Hafs",
+      "id": 6
+    },
+    {
+      "name": "Madinat",
+      "id": 7
+    },
+    {
+      "name": "Mintaqat Juzur Hawar",
+      "id": 8
+    },
+    {
+      "name": "Sitrah",
+      "id": 9
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 10
+    },
+    {
+      "name": "Unnamed region 02",
+      "id": 11
+    }
+  ],
+  "geoRectangle": {
+    "West": 50.4541358948,
+    "East": 50.664478302,
+    "North": 26.282585144,
+    "South": 25.7968597412
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 3,
+    "Flg": 2,
+    "Name": "Manama",
+    "GeoPt": [
+      26.14,
+      50.34
+    ]
+  }
+}

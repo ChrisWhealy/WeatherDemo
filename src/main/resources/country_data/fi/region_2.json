@@ -1,0 +1,2835 @@
+{
+  "name": "Lapland",
+  "cities": [
+    {
+      "cityName": "Aanaar",
+      "lat": 68.9,
+      "lng": 27.016667
+    },
+    {
+      "cityName": "Aapajärven Asutusalue",
+      "lat": 67.250556,
+      "lng": 27.298611
+    },
+    {
+      "cityName": "Aapajoki",
+      "lat": 66.016667,
+      "lng": 24.1
+    },
+    {
+      "cityName": "Aatsinki",
+      "lat": 66.883333,
+      "lng": 28.916667
+    },
+    {
+      "cityName": "Aavasaksa",
+      "lat": 66.383333,
+      "lng": 23.716667
+    },
+    {
+      "cityName": "Ahola",
+      "lat": 66.116667,
+      "lng": 28.166667
+    },
+    {
+      "cityName": "Ahvenselkä",
+      "lat": 67,
+      "lng": 28.033333
+    },
+    {
+      "cityName": "Aitamannikkä",
+      "lat": 67.016667,
+      "lng": 24.066667
+    },
+    {
+      "cityName": "Aittaniemi",
+      "lat": 66.366667,
+      "lng": 27.883333
+    },
+    {
+      "cityName": "Aittoperä",
+      "lat": 66.383333,
+      "lng": 27.766667
+    },
+    {
+      "cityName": "Akanlahti",
+      "lat": 66.016667,
+      "lng": 28.333333
+    },
+    {
+      "cityName": "Äkäsjoensuu",
+      "lat": 67.45,
+      "lng": 23.7
+    },
+    {
+      "cityName": "Äkäslompolo",
+      "lat": 67.6,
+      "lng": 24.15
+    },
+    {
+      "cityName": "Akshujävri",
+      "lat": 69.2,
+      "lng": 26.95
+    },
+    {
+      "cityName": "Akujärvi",
+      "lat": 68.683333,
+      "lng": 27.7
+    },
+    {
+      "cityName": "Alajääskö",
+      "lat": 67.033333,
+      "lng": 25.116667
+    },
+    {
+      "cityName": "Alakärppä",
+      "lat": 65.833333,
+      "lng": 25.3
+    },
+    {
+      "cityName": "Alakylä",
+      "lat": 66.616667,
+      "lng": 27.333333
+    },
+    {
+      "cityName": "Alamuonio",
+      "lat": 67.966667,
+      "lng": 23.666667
+    },
+    {
+      "cityName": "Alanampa",
+      "lat": 66.733333,
+      "lng": 26.283333
+    },
+    {
+      "cityName": "Alapaakkola",
+      "lat": 65.933333,
+      "lng": 24.716667
+    },
+    {
+      "cityName": "Alaperä",
+      "lat": 67.033333,
+      "lng": 27.566667
+    },
+    {
+      "cityName": "Alarauma",
+      "lat": 65.85,
+      "lng": 24.266667
+    },
+    {
+      "cityName": "Alasuulari",
+      "lat": 66.5,
+      "lng": 25.783333
+    },
+    {
+      "cityName": "Alatornio",
+      "lat": 65.833333,
+      "lng": 24.166667
+    },
+    {
+      "cityName": "Alaviinpola",
+      "lat": 66.35,
+      "lng": 23.7
+    },
+    {
+      "cityName": "Alavojakkala",
+      "lat": 65.916667,
+      "lng": 24.15
+    },
+    {
+      "cityName": "Alkkula",
+      "lat": 66.333333,
+      "lng": 23.7
+    },
+    {
+      "cityName": "Ämmälä",
+      "lat": 62.683333,
+      "lng": 22.966667
+    },
+    {
+      "cityName": "Angeli",
+      "lat": 68.916667,
+      "lng": 25.65
+    },
+    {
+      "cityName": "Anttila",
+      "lat": 66.383333,
+      "lng": 27.266667
+    },
+    {
+      "cityName": "Apukka",
+      "lat": 66.583333,
+      "lng": 26.033333
+    },
+    {
+      "cityName": "Armasaari",
+      "lat": 66.266667,
+      "lng": 23.7
+    },
+    {
+      "cityName": "Arpela",
+      "lat": 66.016667,
+      "lng": 24.383333
+    },
+    {
+      "cityName": "Arvola",
+      "lat": 67.05,
+      "lng": 27.566667
+    },
+    {
+      "cityName": "Aska",
+      "lat": 67.3,
+      "lng": 26.7
+    },
+    {
+      "cityName": "Autinkylä",
+      "lat": 66.316667,
+      "lng": 27.1
+    },
+    {
+      "cityName": "Autioniemi",
+      "lat": 67,
+      "lng": 27.566667
+    },
+    {
+      "cityName": "Avveel",
+      "lat": 68.65,
+      "lng": 27.6
+    },
+    {
+      "cityName": "Enodak",
+      "lat": 68.383333,
+      "lng": 23.633333
+    },
+    {
+      "cityName": "Filpus",
+      "lat": 65.8,
+      "lng": 25.016667
+    },
+    {
+      "cityName": "Garnjarga",
+      "lat": 69.933333,
+      "lng": 27.166667
+    },
+    {
+      "cityName": "Haara",
+      "lat": 65.716667,
+      "lng": 26.666667
+    },
+    {
+      "cityName": "Haikkoniemi",
+      "lat": 66.716667,
+      "lng": 24.7
+    },
+    {
+      "cityName": "Halonen",
+      "lat": 66.683333,
+      "lng": 27.5
+    },
+    {
+      "cityName": "Halosenranta",
+      "lat": 66.666667,
+      "lng": 27.483333
+    },
+    {
+      "cityName": "Hamari",
+      "lat": 65.7,
+      "lng": 25.166667
+    },
+    {
+      "cityName": "Häme",
+      "lat": 66.266667,
+      "lng": 28.166667
+    },
+    {
+      "cityName": "Hanhela",
+      "lat": 66.966667,
+      "lng": 25.35
+    },
+    {
+      "cityName": "Hanhimaa",
+      "lat": 67.916667,
+      "lng": 25.05
+    },
+    {
+      "cityName": "Hannuerkki",
+      "lat": 65.783333,
+      "lng": 24.5
+    },
+    {
+      "cityName": "Hannula",
+      "lat": 66.816667,
+      "lng": 28.416667
+    },
+    {
+      "cityName": "Harri",
+      "lat": 66.483333,
+      "lng": 24.416667
+    },
+    {
+      "cityName": "Hautajärvi",
+      "lat": 66.516667,
+      "lng": 29.033333
+    },
+    {
+      "cityName": "Heikinpalo",
+      "lat": 66.683333,
+      "lng": 28
+    },
+    {
+      "cityName": "Heimola",
+      "lat": 66.383333,
+      "lng": 27.283333
+    },
+    {
+      "cityName": "Hellälä",
+      "lat": 65.8,
+      "lng": 24.15
+    },
+    {
+      "cityName": "Helmelä",
+      "lat": 66.75,
+      "lng": 27.466667
+    },
+    {
+      "cityName": "Helppi",
+      "lat": 67.216667,
+      "lng": 24.85
+    },
+    {
+      "cityName": "Hepola",
+      "lat": 65.683333,
+      "lng": 24.666667
+    },
+    {
+      "cityName": "Herva",
+      "lat": 65.916667,
+      "lng": 26.95
+    },
+    {
+      "cityName": "Hetemäki",
+      "lat": 66.2,
+      "lng": 26.933333
+    },
+    {
+      "cityName": "Hietajoensuu",
+      "lat": 69.15,
+      "lng": 27.816667
+    },
+    {
+      "cityName": "Hietala",
+      "lat": 65.633333,
+      "lng": 24.95
+    },
+    {
+      "cityName": "Hietaniemi",
+      "lat": 66.033333,
+      "lng": 28.533333
+    },
+    {
+      "cityName": "Hietasuanto",
+      "lat": 67.151667,
+      "lng": 27.276944
+    },
+    {
+      "cityName": "Hirmula",
+      "lat": 65.833333,
+      "lng": 24.616667
+    },
+    {
+      "cityName": "Hirvasvaara",
+      "lat": 66.55,
+      "lng": 28.6
+    },
+    {
+      "cityName": "Hirvasvuopio",
+      "lat": 68.883333,
+      "lng": 22.183333
+    },
+    {
+      "cityName": "Hoppula",
+      "lat": 66.416667,
+      "lng": 27.316667
+    },
+    {
+      "cityName": "Hosio",
+      "lat": 65.916667,
+      "lng": 25.816667
+    },
+    {
+      "cityName": "Huhtala",
+      "lat": 65.816667,
+      "lng": 25.316667
+    },
+    {
+      "cityName": "Ilmola",
+      "lat": 65.866667,
+      "lng": 24.633333
+    },
+    {
+      "cityName": "Impiö",
+      "lat": 65.966667,
+      "lng": 27.216667
+    },
+    {
+      "cityName": "Imponen",
+      "lat": 66.666667,
+      "lng": 27.616667
+    },
+    {
+      "cityName": "Inkilä",
+      "lat": 66.633333,
+      "lng": 27.4
+    },
+    {
+      "cityName": "Isokylä",
+      "lat": 66.633333,
+      "lng": 27.683333
+    },
+    {
+      "cityName": "Isola",
+      "lat": 65.916667,
+      "lng": 27.033333
+    },
+    {
+      "cityName": "Isoniemi",
+      "lat": 66,
+      "lng": 28.116667
+    },
+    {
+      "cityName": "Isoranta",
+      "lat": 66.7,
+      "lng": 27.566667
+    },
+    {
+      "cityName": "Iso Tainijoen Asutusalue",
+      "lat": 66.95,
+      "lng": 25.6
+    },
+    {
+      "cityName": "Itäkoski",
+      "lat": 65.966667,
+      "lng": 24.766667
+    },
+    {
+      "cityName": "Ivalon-Matti",
+      "lat": 68.35,
+      "lng": 25.916667
+    },
+    {
+      "cityName": "Jaakkola",
+      "lat": 66.666667,
+      "lng": 27.6
+    },
+    {
+      "cityName": "Jaatila",
+      "lat": 66.266667,
+      "lng": 25.366667
+    },
+    {
+      "cityName": "Jaksamo",
+      "lat": 66.266667,
+      "lng": 28.416667
+    },
+    {
+      "cityName": "Jänkisjärvi",
+      "lat": 66.466667,
+      "lng": 23.7
+    },
+    {
+      "cityName": "Jankkila",
+      "lat": 69.566667,
+      "lng": 29.166667
+    },
+    {
+      "cityName": "Järvelä",
+      "lat": 69.383333,
+      "lng": 27.65
+    },
+    {
+      "cityName": "Javarus",
+      "lat": 66.9,
+      "lng": 26.966667
+    },
+    {
+      "cityName": "Javarussaari",
+      "lat": 66.933333,
+      "lng": 27.5
+    },
+    {
+      "cityName": "Javarusvastu",
+      "lat": 66.916667,
+      "lng": 27.5
+    },
+    {
+      "cityName": "Jeesiö",
+      "lat": 67.5,
+      "lng": 26.016667
+    },
+    {
+      "cityName": "Jokela",
+      "lat": 66.4,
+      "lng": 26.4
+    },
+    {
+      "cityName": "Jokijalka",
+      "lat": 67.333333,
+      "lng": 23.8
+    },
+    {
+      "cityName": "Jokikylä",
+      "lat": 65.75,
+      "lng": 25.3
+    },
+    {
+      "cityName": "Jolanki",
+      "lat": 66.633333,
+      "lng": 24.583333
+    },
+    {
+      "cityName": "Jolma",
+      "lat": 66.766667,
+      "lng": 23.966667
+    },
+    {
+      "cityName": "Jomppala",
+      "lat": 69.766667,
+      "lng": 27
+    },
+    {
+      "cityName": "Joutasniemi",
+      "lat": 66.316667,
+      "lng": 26.933333
+    },
+    {
+      "cityName": "Joutsijärvi",
+      "lat": 66.666667,
+      "lng": 28
+    },
+    {
+      "cityName": "Jumisko",
+      "lat": 66.333333,
+      "lng": 28.15
+    },
+    {
+      "cityName": "Junttila",
+      "lat": 65.916667,
+      "lng": 27.95
+    },
+    {
+      "cityName": "Juujärvi",
+      "lat": 66.4,
+      "lng": 27.3
+    },
+    {
+      "cityName": "Juutua",
+      "lat": 68.916667,
+      "lng": 27.066667
+    },
+    {
+      "cityName": "Juvälä",
+      "lat": 66.7,
+      "lng": 27.433333
+    },
+    {
+      "cityName": "Kaakama",
+      "lat": 65.8,
+      "lng": 24.433333
+    },
+    {
+      "cityName": "Kaakkuri",
+      "lat": 66.933333,
+      "lng": 27.433333
+    },
+    {
+      "cityName": "Kaamanen",
+      "lat": 69.05,
+      "lng": 27
+    },
+    {
+      "cityName": "Kaaresuvanto",
+      "lat": 68.45,
+      "lng": 22.5
+    },
+    {
+      "cityName": "Kaava",
+      "lat": 69.95,
+      "lng": 26.85
+    },
+    {
+      "cityName": "Kaihua",
+      "lat": 66.35,
+      "lng": 26.85
+    },
+    {
+      "cityName": "Kainuu",
+      "lat": 66.216667,
+      "lng": 23.8
+    },
+    {
+      "cityName": "Kairala",
+      "lat": 67.192222,
+      "lng": 27.4425
+    },
+    {
+      "cityName": "Kajanki",
+      "lat": 68.083333,
+      "lng": 23.6
+    },
+    {
+      "cityName": "Kalkkimaa",
+      "lat": 65.9,
+      "lng": 24.466667
+    },
+    {
+      "cityName": "Kallo",
+      "lat": 67.416667,
+      "lng": 24.5
+    },
+    {
+      "cityName": "Kallunki",
+      "lat": 66.65,
+      "lng": 28.933333
+    },
+    {
+      "cityName": "Kangasjärvi",
+      "lat": 67.816667,
+      "lng": 23.7
+    },
+    {
+      "cityName": "Kangas",
+      "lat": 66.683333,
+      "lng": 27.483333
+    },
+    {
+      "cityName": "Kantojärvi",
+      "lat": 65.983333,
+      "lng": 24.316667
+    },
+    {
+      "cityName": "Kantomaanpää",
+      "lat": 66.416667,
+      "lng": 24.066667
+    },
+    {
+      "cityName": "Kapustavuoma",
+      "lat": 66.35,
+      "lng": 24.35
+    },
+    {
+      "cityName": "Karigasniemi",
+      "lat": 69.4,
+      "lng": 25.833333
+    },
+    {
+      "cityName": "Karihaara",
+      "lat": 65.75,
+      "lng": 24.55
+    },
+    {
+      "cityName": "Karjalaisenniemi",
+      "lat": 66.25,
+      "lng": 28.2
+    },
+    {
+      "cityName": "Karri",
+      "lat": 66.116667,
+      "lng": 24.933333
+    },
+    {
+      "cityName": "Karsikko",
+      "lat": 65.633333,
+      "lng": 24.716667
+    },
+    {
+      "cityName": "Karunki",
+      "lat": 66.033333,
+      "lng": 24.016667
+    },
+    {
+      "cityName": "Karvonen",
+      "lat": 66,
+      "lng": 28.366667
+    },
+    {
+      "cityName": "Käsmä",
+      "lat": 66.6,
+      "lng": 28.5
+    },
+    {
+      "cityName": "Kätkäsuvanto",
+      "lat": 68.116667,
+      "lng": 23.35
+    },
+    {
+      "cityName": "Kaukonen",
+      "lat": 67.483333,
+      "lng": 24.9
+    },
+    {
+      "cityName": "Kauliranta",
+      "lat": 66.45,
+      "lng": 23.683333
+    },
+    {
+      "cityName": "Kaunispää",
+      "lat": 68.433333,
+      "lng": 27.45
+    },
+    {
+      "cityName": "Kauppila",
+      "lat": 65.65,
+      "lng": 24.716667
+    },
+    {
+      "cityName": "Kauvasaari",
+      "lat": 66.5,
+      "lng": 23.766667
+    },
+    {
+      "cityName": "Käyrämö",
+      "lat": 66.966667,
+      "lng": 26.283333
+    },
+    {
+      "cityName": "Kela",
+      "lat": 65.75,
+      "lng": 27.033333
+    },
+    {
+      "cityName": "Kelloniemi",
+      "lat": 66.65,
+      "lng": 27.533333
+    },
+    {
+      "cityName": "Kelloselkä",
+      "lat": 66.933333,
+      "lng": 28.833333
+    },
+    {
+      "cityName": "Kelola",
+      "lat": 66.933333,
+      "lng": 28.866667
+    },
+    {
+      "cityName": "Kelontekemä",
+      "lat": 67.516667,
+      "lng": 25.616667
+    },
+    {
+      "cityName": "Kelujärvi",
+      "lat": 67.465,
+      "lng": 27.031111
+    },
+    {
+      "cityName": "Kemihaara",
+      "lat": 66.216667,
+      "lng": 27
+    },
+    {
+      "cityName": "Kemijärvi",
+      "lat": 66.666667,
+      "lng": 27.416667
+    },
+    {
+      "cityName": "Kemi",
+      "lat": 65.733333,
+      "lng": 24.566667
+    },
+    {
+      "cityName": "Keminmaa",
+      "lat": 65.816667,
+      "lng": 24.533333
+    },
+    {
+      "cityName": "Kenttäkumpu",
+      "lat": 66.866667,
+      "lng": 27.466667
+    },
+    {
+      "cityName": "Kenttämaa",
+      "lat": 66.45,
+      "lng": 24.25
+    },
+    {
+      "cityName": "Kersilö",
+      "lat": 67.583333,
+      "lng": 26.716667
+    },
+    {
+      "cityName": "Keskenkorva",
+      "lat": 67.3,
+      "lng": 24.916667
+    },
+    {
+      "cityName": "Ketola",
+      "lat": 65.75,
+      "lng": 27.05
+    },
+    {
+      "cityName": "Ketomella",
+      "lat": 68.266667,
+      "lng": 24.033333
+    },
+    {
+      "cityName": "Kevo",
+      "lat": 69.75,
+      "lng": 27.016667
+    },
+    {
+      "cityName": "Kiemunki",
+      "lat": 67.016667,
+      "lng": 27.566667
+    },
+    {
+      "cityName": "Kiemunkivaara",
+      "lat": 67.014444,
+      "lng": 27.563056
+    },
+    {
+      "cityName": "Kierinki",
+      "lat": 67.266667,
+      "lng": 25.55
+    },
+    {
+      "cityName": "Kihlanki",
+      "lat": 67.583333,
+      "lng": 23.55
+    },
+    {
+      "cityName": "Kiistala",
+      "lat": 67.866667,
+      "lng": 25.333333
+    },
+    {
+      "cityName": "Kilpimaa",
+      "lat": 67.116667,
+      "lng": 27.5
+    },
+    {
+      "cityName": "Kinisjärvi",
+      "lat": 67.2,
+      "lng": 25.2
+    },
+    {
+      "cityName": "Kirkonkylä",
+      "lat": 65.816667,
+      "lng": 24.55
+    },
+    {
+      "cityName": "Kirkonmäki",
+      "lat": 65.833333,
+      "lng": 24.15
+    },
+    {
+      "cityName": "Kittilä",
+      "lat": 67.666667,
+      "lng": 24.9
+    },
+    {
+      "cityName": "Kiurujärvi",
+      "lat": 67.522778,
+      "lng": 27.426111
+    },
+    {
+      "cityName": "Kivilompolo",
+      "lat": 66.3,
+      "lng": 24.266667
+    },
+    {
+      "cityName": "Kivitaipale",
+      "lat": 66.333333,
+      "lng": 25.95
+    },
+    {
+      "cityName": "Koikkiniva",
+      "lat": 69.35,
+      "lng": 25.75
+    },
+    {
+      "cityName": "Koivuharju",
+      "lat": 65.75,
+      "lng": 24.566667
+    },
+    {
+      "cityName": "Koivu",
+      "lat": 66.183333,
+      "lng": 25.25
+    },
+    {
+      "cityName": "Koivula",
+      "lat": 65.683333,
+      "lng": 25.066667
+    },
+    {
+      "cityName": "Kola",
+      "lat": 69.416667,
+      "lng": 27.733333
+    },
+    {
+      "cityName": "Köngäs",
+      "lat": 67.866667,
+      "lng": 24.866667
+    },
+    {
+      "cityName": "Könölä",
+      "lat": 65.983333,
+      "lng": 24.466667
+    },
+    {
+      "cityName": "Konttajärvi",
+      "lat": 66.833333,
+      "lng": 24.383333
+    },
+    {
+      "cityName": "Koppelojärvi",
+      "lat": 66.183333,
+      "lng": 27.583333
+    },
+    {
+      "cityName": "Koppelo",
+      "lat": 68.75,
+      "lng": 27.6
+    },
+    {
+      "cityName": "Korkalo",
+      "lat": 66.466667,
+      "lng": 25.666667
+    },
+    {
+      "cityName": "Korkea",
+      "lat": 65.816667,
+      "lng": 24.266667
+    },
+    {
+      "cityName": "Koroiskylä",
+      "lat": 65.883333,
+      "lng": 24.65
+    },
+    {
+      "cityName": "Korpikylä",
+      "lat": 66.15,
+      "lng": 23.95
+    },
+    {
+      "cityName": "Kortetniemi",
+      "lat": 66.783333,
+      "lng": 24
+    },
+    {
+      "cityName": "Korvanen",
+      "lat": 67.95,
+      "lng": 27.783333
+    },
+    {
+      "cityName": "Koskela",
+      "lat": 66.45,
+      "lng": 27.366667
+    },
+    {
+      "cityName": "Koskenkylä",
+      "lat": 65.933333,
+      "lng": 24.7
+    },
+    {
+      "cityName": "Kostamo",
+      "lat": 66.783333,
+      "lng": 27.45
+    },
+    {
+      "cityName": "Kota-aapa",
+      "lat": 67.016944,
+      "lng": 29.017222
+    },
+    {
+      "cityName": "Kotaniemi",
+      "lat": 67.016667,
+      "lng": 24.6
+    },
+    {
+      "cityName": "Kourilehto",
+      "lat": 65.966667,
+      "lng": 24.183333
+    },
+    {
+      "cityName": "Kuha",
+      "lat": 65.9,
+      "lng": 26.716667
+    },
+    {
+      "cityName": "Kuivakangas",
+      "lat": 66.416667,
+      "lng": 23.666667
+    },
+    {
+      "cityName": "Kuivasalmi",
+      "lat": 67.716667,
+      "lng": 25.416667
+    },
+    {
+      "cityName": "Kukkola",
+      "lat": 65.983333,
+      "lng": 24.066667
+    },
+    {
+      "cityName": "Kuloharju",
+      "lat": 65.916667,
+      "lng": 28.133333
+    },
+    {
+      "cityName": "Kulppio",
+      "lat": 66.666667,
+      "lng": 27.516667
+    },
+    {
+      "cityName": "Kumpu",
+      "lat": 66.883333,
+      "lng": 27.433333
+    },
+    {
+      "cityName": "Kumpula",
+      "lat": 66.666667,
+      "lng": 27.583333
+    },
+    {
+      "cityName": "Kuosku",
+      "lat": 67.235556,
+      "lng": 28.395556
+    },
+    {
+      "cityName": "Kuoskunkorva",
+      "lat": 67.233333,
+      "lng": 28.383333
+    },
+    {
+      "cityName": "Kupari",
+      "lat": 66.116667,
+      "lng": 24.916667
+    },
+    {
+      "cityName": "Kurkkio",
+      "lat": 68.066667,
+      "lng": 24.5
+    },
+    {
+      "cityName": "Kurkkiomiska",
+      "lat": 68.383333,
+      "lng": 22.85
+    },
+    {
+      "cityName": "Kursu",
+      "lat": 66.783333,
+      "lng": 28.133333
+    },
+    {
+      "cityName": "Kurtakko",
+      "lat": 67.4,
+      "lng": 24.2
+    },
+    {
+      "cityName": "Kuttala",
+      "lat": 69.916667,
+      "lng": 27.016667
+    },
+    {
+      "cityName": "Kutuperä",
+      "lat": 66.733333,
+      "lng": 27.6
+    },
+    {
+      "cityName": "Kuukasjärvi",
+      "lat": 65.8,
+      "lng": 26.95
+    },
+    {
+      "cityName": "Kuusela",
+      "lat": 66.516667,
+      "lng": 25.766667
+    },
+    {
+      "cityName": "Kuusikkolaki",
+      "lat": 67.4,
+      "lng": 24.25
+    },
+    {
+      "cityName": "Kuusiniemi",
+      "lat": 67.35,
+      "lng": 26.816667
+    },
+    {
+      "cityName": "Kyläjoki",
+      "lat": 65.833333,
+      "lng": 24.283333
+    },
+    {
+      "cityName": "Kynsijärvi",
+      "lat": 65.9,
+      "lng": 28.35
+    },
+    {
+      "cityName": "Kynsiperä",
+      "lat": 65.883333,
+      "lng": 28.2
+    },
+    {
+      "cityName": "Lähdejänkä",
+      "lat": 66.35,
+      "lng": 24.1
+    },
+    {
+      "cityName": "Lahdenperä",
+      "lat": 65.983333,
+      "lng": 24.233333
+    },
+    {
+      "cityName": "Lahtela",
+      "lat": 66.316667,
+      "lng": 27.05
+    },
+    {
+      "cityName": "Laitakari",
+      "lat": 65.716667,
+      "lng": 24.583333
+    },
+    {
+      "cityName": "Laivajärvi",
+      "lat": 65.833333,
+      "lng": 24.383333
+    },
+    {
+      "cityName": "Laivaniemi",
+      "lat": 65.8,
+      "lng": 24.333333
+    },
+    {
+      "cityName": "Laivavaara",
+      "lat": 65.916667,
+      "lng": 26.616667
+    },
+    {
+      "cityName": "Lampijarvi",
+      "lat": 66.683333,
+      "lng": 24.516667
+    },
+    {
+      "cityName": "Lankojärvi",
+      "lat": 66.716667,
+      "lng": 24.333333
+    },
+    {
+      "cityName": "Lapinlahti",
+      "lat": 67.033333,
+      "lng": 23.716667
+    },
+    {
+      "cityName": "Lapinniemí",
+      "lat": 66.066667,
+      "lng": 24.833333
+    },
+    {
+      "cityName": "Lappeakoski",
+      "lat": 67.166667,
+      "lng": 23.566667
+    },
+    {
+      "cityName": "Laurila",
+      "lat": 65.8,
+      "lng": 24.533333
+    },
+    {
+      "cityName": "Lautiosaari",
+      "lat": 65.8,
+      "lng": 24.583333
+    },
+    {
+      "cityName": "Lehmikumpu",
+      "lat": 66.033333,
+      "lng": 25.033333
+    },
+    {
+      "cityName": "Lehtiniemi",
+      "lat": 66.25,
+      "lng": 27.95
+    },
+    {
+      "cityName": "Lehtola",
+      "lat": 66.333333,
+      "lng": 26.883333
+    },
+    {
+      "cityName": "Leipee",
+      "lat": 66.266667,
+      "lng": 25.2
+    },
+    {
+      "cityName": "Lepistö",
+      "lat": 66.516667,
+      "lng": 24.8
+    },
+    {
+      "cityName": "Leppäjärvi",
+      "lat": 68.5,
+      "lng": 23.3
+    },
+    {
+      "cityName": "Leppiaho",
+      "lat": 66.966667,
+      "lng": 25.966667
+    },
+    {
+      "cityName": "Leväaapa",
+      "lat": 65.816667,
+      "lng": 25.583333
+    },
+    {
+      "cityName": "Leväranta",
+      "lat": 66.8,
+      "lng": 27.4
+    },
+    {
+      "cityName": "Liakka",
+      "lat": 65.883333,
+      "lng": 24.216667
+    },
+    {
+      "cityName": "Liedakkala",
+      "lat": 65.866667,
+      "lng": 24.6
+    },
+    {
+      "cityName": "Liekola",
+      "lat": 65.65,
+      "lng": 26.466667
+    },
+    {
+      "cityName": "Liinaja",
+      "lat": 67.2,
+      "lng": 25.066667
+    },
+    {
+      "cityName": "Liinanki",
+      "lat": 66.583333,
+      "lng": 24.633333
+    },
+    {
+      "cityName": "Lohijärvi",
+      "lat": 66.45,
+      "lng": 24.366667
+    },
+    {
+      "cityName": "Lohiniva",
+      "lat": 67.166667,
+      "lng": 24.966667
+    },
+    {
+      "cityName": "Lokka",
+      "lat": 67.82,
+      "lng": 27.737222
+    },
+    {
+      "cityName": "Lompola",
+      "lat": 68.083333,
+      "lng": 24.816667
+    },
+    {
+      "cityName": "Luiro",
+      "lat": 67.216667,
+      "lng": 27.533333
+    },
+    {
+      "cityName": "Lukkarpäiki",
+      "lat": 69.716667,
+      "lng": 26.1
+    },
+    {
+      "cityName": "Lunkkauksen Asutusalue",
+      "lat": 67.245556,
+      "lng": 27.903611
+    },
+    {
+      "cityName": "Lupaniemi",
+      "lat": 66.233333,
+      "lng": 26.483333
+    },
+    {
+      "cityName": "Luspa",
+      "lat": 68.483333,
+      "lng": 22.033333
+    },
+    {
+      "cityName": "Luusua",
+      "lat": 66.216667,
+      "lng": 27.883333
+    },
+    {
+      "cityName": "Maaningantalot",
+      "lat": 66.45,
+      "lng": 28.483333
+    },
+    {
+      "cityName": "Madetkoski",
+      "lat": 68.083333,
+      "lng": 26.55
+    },
+    {
+      "cityName": "Maijala",
+      "lat": 67.35,
+      "lng": 26.833333
+    },
+    {
+      "cityName": "Maijanen",
+      "lat": 67.083333,
+      "lng": 25.083333
+    },
+    {
+      "cityName": "Mäkelä",
+      "lat": 66.783333,
+      "lng": 28.116667
+    },
+    {
+      "cityName": "Mäkiniemi",
+      "lat": 66.633333,
+      "lng": 24.55
+    },
+    {
+      "cityName": "Maksniemi",
+      "lat": 65.666667,
+      "lng": 24.783333
+    },
+    {
+      "cityName": "Mäläaapa",
+      "lat": 66.866667,
+      "lng": 28.066667
+    },
+    {
+      "cityName": "Mämmelä",
+      "lat": 66.716667,
+      "lng": 23.916667
+    },
+    {
+      "cityName": "Männikkö",
+      "lat": 66.05,
+      "lng": 26.916667
+    },
+    {
+      "cityName": "Männistö",
+      "lat": 67.133333,
+      "lng": 24
+    },
+    {
+      "cityName": "Mansikka",
+      "lat": 66.616667,
+      "lng": 27.4
+    },
+    {
+      "cityName": "Mäntyjärvi",
+      "lat": 66,
+      "lng": 27.55
+    },
+    {
+      "cityName": "Mänty",
+      "lat": 66.7,
+      "lng": 25.033333
+    },
+    {
+      "cityName": "Mäntyvaara",
+      "lat": 66.683333,
+      "lng": 27.866667
+    },
+    {
+      "cityName": "Märkäjärvi",
+      "lat": 66.833333,
+      "lng": 28.666667
+    },
+    {
+      "cityName": "Markkina",
+      "lat": 68.483333,
+      "lng": 22.316667
+    },
+    {
+      "cityName": "Marottaja",
+      "lat": 69.116667,
+      "lng": 28.566667
+    },
+    {
+      "cityName": "Marrasjärvi",
+      "lat": 66.9,
+      "lng": 25.133333
+    },
+    {
+      "cityName": "Marttia",
+      "lat": 67.474722,
+      "lng": 28.372222
+    },
+    {
+      "cityName": "Marttiini",
+      "lat": 67.266667,
+      "lng": 25.533333
+    },
+    {
+      "cityName": "Matinlompolo",
+      "lat": 66.733333,
+      "lng": 24.316667
+    },
+    {
+      "cityName": "Mattinen",
+      "lat": 66.116667,
+      "lng": 24.983333
+    },
+    {
+      "cityName": "Maula",
+      "lat": 66.866667,
+      "lng": 24.666667
+    },
+    {
+      "cityName": "Mellakosken Asutusale",
+      "lat": 66.4,
+      "lng": 24.5
+    },
+    {
+      "cityName": "Meltaus",
+      "lat": 66.9,
+      "lng": 25.366667
+    },
+    {
+      "cityName": "Meltosjärvi",
+      "lat": 66.533333,
+      "lng": 24.633333
+    },
+    {
+      "cityName": "Metsola",
+      "lat": 67.266667,
+      "lng": 26.216667
+    },
+    {
+      "cityName": "Mettisvuoma",
+      "lat": 67.2,
+      "lng": 25
+    },
+    {
+      "cityName": "Mikkola",
+      "lat": 66.05,
+      "lng": 28.666667
+    },
+    {
+      "cityName": "Molkojärvi",
+      "lat": 67.3,
+      "lng": 25.266667
+    },
+    {
+      "cityName": "Moskuvaara",
+      "lat": 67.6,
+      "lng": 26.883333
+    },
+    {
+      "cityName": "Mourujärvi",
+      "lat": 66.366667,
+      "lng": 28.383333
+    },
+    {
+      "cityName": "Muddusjärvi",
+      "lat": 69.016667,
+      "lng": 27.066667
+    },
+    {
+      "cityName": "Mukkala",
+      "lat": 67.051111,
+      "lng": 28.922222
+    },
+    {
+      "cityName": "Mukkavaara",
+      "lat": 67.268611,
+      "lng": 28.118333
+    },
+    {
+      "cityName": "Multila",
+      "lat": 66.05,
+      "lng": 28.616667
+    },
+    {
+      "cityName": "Muonio",
+      "lat": 67.95,
+      "lng": 23.7
+    },
+    {
+      "cityName": "Muotkajärvi",
+      "lat": 68.316667,
+      "lng": 23.366667
+    },
+    {
+      "cityName": "Mustola",
+      "lat": 68.8,
+      "lng": 28.1
+    },
+    {
+      "cityName": "Mutenia",
+      "lat": 68.05,
+      "lng": 27.4
+    },
+    {
+      "cityName": "Mutka",
+      "lat": 67.266667,
+      "lng": 28.116667
+    },
+    {
+      "cityName": "Muurola",
+      "lat": 66.383333,
+      "lng": 25.4
+    },
+    {
+      "cityName": "Muusko",
+      "lat": 66.483333,
+      "lng": 27.383333
+    },
+    {
+      "cityName": "Myllykylä",
+      "lat": 66.533333,
+      "lng": 25.833333
+    },
+    {
+      "cityName": "Näätäsaari",
+      "lat": 65.8,
+      "lng": 24.183333
+    },
+    {
+      "cityName": "Näkkälä",
+      "lat": 68.6,
+      "lng": 23.583333
+    },
+    {
+      "cityName": "Nampa",
+      "lat": 66.666667,
+      "lng": 26.2
+    },
+    {
+      "cityName": "Narkaus",
+      "lat": 66.283333,
+      "lng": 26.133333
+    },
+    {
+      "cityName": "Närkki",
+      "lat": 66.383333,
+      "lng": 23.7
+    },
+    {
+      "cityName": "Narva",
+      "lat": 66.266667,
+      "lng": 26.85
+    },
+    {
+      "cityName": "Nellim",
+      "lat": 68.85,
+      "lng": 28.316667
+    },
+    {
+      "cityName": "Niemelä",
+      "lat": 66.466667,
+      "lng": 27.35
+    },
+    {
+      "cityName": "Niemi",
+      "lat": 66.316667,
+      "lng": 26.95
+    },
+    {
+      "cityName": "Niesi",
+      "lat": 67.05,
+      "lng": 25.95
+    },
+    {
+      "cityName": "Niinivesi",
+      "lat": 67.083333,
+      "lng": 27.5
+    },
+    {
+      "cityName": "Nikkilä",
+      "lat": 65.783333,
+      "lng": 24.433333
+    },
+    {
+      "cityName": "Niska",
+      "lat": 66.533333,
+      "lng": 23.8
+    },
+    {
+      "cityName": "Nivankylä",
+      "lat": 66.583333,
+      "lng": 25.616667
+    },
+    {
+      "cityName": "Nousu",
+      "lat": 67.158333,
+      "lng": 28.640833
+    },
+    {
+      "cityName": "Nunnanen",
+      "lat": 68.4,
+      "lng": 24.516667
+    },
+    {
+      "cityName": "Nuorgami",
+      "lat": 70.083333,
+      "lng": 27.85
+    },
+    {
+      "cityName": "Nuotioranta",
+      "lat": 66.3,
+      "lng": 23.7
+    },
+    {
+      "cityName": "Nuulanen",
+      "lat": 67.433333,
+      "lng": 26.4
+    },
+    {
+      "cityName": "Nuupas",
+      "lat": 66.016667,
+      "lng": 26.316667
+    },
+    {
+      "cityName": "Nuvusskaidi",
+      "lat": 69.75,
+      "lng": 26.183333
+    },
+    {
+      "cityName": "Nuvvus",
+      "lat": 69.783333,
+      "lng": 26.25
+    },
+    {
+      "cityName": "Oinaankylä",
+      "lat": 66.883333,
+      "lng": 27.483333
+    },
+    {
+      "cityName": "Ojaniemi",
+      "lat": 66.333333,
+      "lng": 27.05
+    },
+    {
+      "cityName": "Ollila",
+      "lat": 69.633333,
+      "lng": 27.066667
+    },
+    {
+      "cityName": "Onkalo",
+      "lat": 65.616667,
+      "lng": 25.066667
+    },
+    {
+      "cityName": "Onkamojärvi",
+      "lat": 66.75,
+      "lng": 29.1
+    },
+    {
+      "cityName": "Onnela",
+      "lat": 65.8,
+      "lng": 26.916667
+    },
+    {
+      "cityName": "Orajärvi",
+      "lat": 66.883333,
+      "lng": 24.1
+    },
+    {
+      "cityName": "Orakylä",
+      "lat": 67.35,
+      "lng": 26.85
+    },
+    {
+      "cityName": "Osma",
+      "lat": 67.05,
+      "lng": 25.6
+    },
+    {
+      "cityName": "Oulanka",
+      "lat": 66.45,
+      "lng": 29
+    },
+    {
+      "cityName": "Ounasjoki",
+      "lat": 66.833333,
+      "lng": 25.416667
+    },
+    {
+      "cityName": "Outakoski",
+      "lat": 69.6,
+      "lng": 25.966667
+    },
+    {
+      "cityName": "Paadari",
+      "lat": 68.75,
+      "lng": 26.45
+    },
+    {
+      "cityName": "Paaddos",
+      "lat": 69.866667,
+      "lng": 26.4
+    },
+    {
+      "cityName": "Paakkola",
+      "lat": 66.016667,
+      "lng": 24.75
+    },
+    {
+      "cityName": "Päätalo",
+      "lat": 66.583333,
+      "lng": 27.9
+    },
+    {
+      "cityName": "Paatio",
+      "lat": 65.766667,
+      "lng": 24.566667
+    },
+    {
+      "cityName": "Paatsjoki",
+      "lat": 68.9,
+      "lng": 28.333333
+    },
+    {
+      "cityName": "Paavola",
+      "lat": 66.666667,
+      "lng": 27.5
+    },
+    {
+      "cityName": "Paavonkari",
+      "lat": 65.683333,
+      "lng": 24.65
+    },
+    {
+      "cityName": "Pahalampi",
+      "lat": 66.283333,
+      "lng": 27.116667
+    },
+    {
+      "cityName": "Pahtaoja",
+      "lat": 65.983333,
+      "lng": 25.133333
+    },
+    {
+      "cityName": "Pahtonen",
+      "lat": 67.916667,
+      "lng": 23.65
+    },
+    {
+      "cityName": "Palojärvi",
+      "lat": 68.583333,
+      "lng": 23.333333
+    },
+    {
+      "cityName": "Palojoensuu",
+      "lat": 68.283333,
+      "lng": 23.083333
+    },
+    {
+      "cityName": "Palojoki",
+      "lat": 66.266667,
+      "lng": 27.25
+    },
+    {
+      "cityName": "Paloperä",
+      "lat": 66.45,
+      "lng": 28.15
+    },
+    {
+      "cityName": "Palovaara",
+      "lat": 66.133333,
+      "lng": 24.166667
+    },
+    {
+      "cityName": "Pappila",
+      "lat": 65.65,
+      "lng": 24.9
+    },
+    {
+      "cityName": "Paranen",
+      "lat": 66.783333,
+      "lng": 23.983333
+    },
+    {
+      "cityName": "Parkkiniemi",
+      "lat": 68.9,
+      "lng": 28.316667
+    },
+    {
+      "cityName": "Parpala",
+      "lat": 65.633333,
+      "lng": 25.05
+    },
+    {
+      "cityName": "Parski",
+      "lat": 69.616667,
+      "lng": 25.983333
+    },
+    {
+      "cityName": "Pasmajärvi",
+      "lat": 67.1,
+      "lng": 24.4
+    },
+    {
+      "cityName": "Patokoski",
+      "lat": 65.666667,
+      "lng": 25.1
+    },
+    {
+      "cityName": "Patoski",
+      "lat": 66.866667,
+      "lng": 25.466667
+    },
+    {
+      "cityName": "Pauna",
+      "lat": 66.9,
+      "lng": 27.433333
+    },
+    {
+      "cityName": "Pekanpää",
+      "lat": 66.2,
+      "lng": 23.8
+    },
+    {
+      "cityName": "Pekkala",
+      "lat": 65.816667,
+      "lng": 24.65
+    },
+    {
+      "cityName": "Pelkosenniemi",
+      "lat": 67.110833,
+      "lng": 27.510556
+    },
+    {
+      "cityName": "Pello",
+      "lat": 66.783333,
+      "lng": 23.916667
+    },
+    {
+      "cityName": "Peltovuoma",
+      "lat": 68.383333,
+      "lng": 24.183333
+    },
+    {
+      "cityName": "Peräposio",
+      "lat": 66.183333,
+      "lng": 27.883333
+    },
+    {
+      "cityName": "Pernujärvi",
+      "lat": 66.183333,
+      "lng": 27.6
+    },
+    {
+      "cityName": "Perttausjoki",
+      "lat": 67.016667,
+      "lng": 25.533333
+    },
+    {
+      "cityName": "Petäjäjärvi",
+      "lat": 65.833333,
+      "lng": 26.783333
+    },
+    {
+      "cityName": "Petkula",
+      "lat": 67.666667,
+      "lng": 26.683333
+    },
+    {
+      "cityName": "Petsikko",
+      "lat": 69.433333,
+      "lng": 27.25
+    },
+    {
+      "cityName": "Peurasuvanto",
+      "lat": 67.833333,
+      "lng": 26.75
+    },
+    {
+      "cityName": "Piekkola",
+      "lat": 67.416667,
+      "lng": 26.216667
+    },
+    {
+      "cityName": "Pienaniemi",
+      "lat": 66.85,
+      "lng": 25.45
+    },
+    {
+      "cityName": "Piesjoensuu",
+      "lat": 69.533333,
+      "lng": 25.866667
+    },
+    {
+      "cityName": "Piittisjärvi",
+      "lat": 66.25,
+      "lng": 26.833333
+    },
+    {
+      "cityName": "Pikkuoja",
+      "lat": 65.983333,
+      "lng": 25.6
+    },
+    {
+      "cityName": "Pirttilä",
+      "lat": 66.816667,
+      "lng": 28.433333
+    },
+    {
+      "cityName": "Pohjanperä",
+      "lat": 66.216667,
+      "lng": 26.866667
+    },
+    {
+      "cityName": "Poikela",
+      "lat": 67.416667,
+      "lng": 24.516667
+    },
+    {
+      "cityName": "Pokka",
+      "lat": 68.15,
+      "lng": 25.783333
+    },
+    {
+      "cityName": "Polska",
+      "lat": 67.1,
+      "lng": 27.5
+    },
+    {
+      "cityName": "Pömiö",
+      "lat": 65.8,
+      "lng": 25.033333
+    },
+    {
+      "cityName": "Pöntsö",
+      "lat": 67.916667,
+      "lng": 24.533333
+    },
+    {
+      "cityName": "Pörhölä",
+      "lat": 65.8,
+      "lng": 24.483333
+    },
+    {
+      "cityName": "Pörhö",
+      "lat": 65.816667,
+      "lng": 24.333333
+    },
+    {
+      "cityName": "Portimojärvi",
+      "lat": 66.383333,
+      "lng": 24
+    },
+    {
+      "cityName": "Portimo",
+      "lat": 66.1,
+      "lng": 26.4
+    },
+    {
+      "cityName": "Posio",
+      "lat": 66.1,
+      "lng": 28.15
+    },
+    {
+      "cityName": "Pötkönen",
+      "lat": 66.1,
+      "lng": 24.883333
+    },
+    {
+      "cityName": "Pöykköla",
+      "lat": 66.466667,
+      "lng": 25.75
+    },
+    {
+      "cityName": "Pudas",
+      "lat": 67.383333,
+      "lng": 24.766667
+    },
+    {
+      "cityName": "Puikkola",
+      "lat": 66.716667,
+      "lng": 27.616667
+    },
+    {
+      "cityName": "Pumpanen",
+      "lat": 67.416667,
+      "lng": 26.233333
+    },
+    {
+      "cityName": "Puntarniemi",
+      "lat": 65.666667,
+      "lng": 24.75
+    },
+    {
+      "cityName": "Purnumukka",
+      "lat": 68.216667,
+      "lng": 27.05
+    },
+    {
+      "cityName": "Puukkokumpu",
+      "lat": 65.916667,
+      "lng": 25.083333
+    },
+    {
+      "cityName": "Puuluoto",
+      "lat": 65.783333,
+      "lng": 24.216667
+    },
+    {
+      "cityName": "Pyhähuhta",
+      "lat": 67.05,
+      "lng": 27.2
+    },
+    {
+      "cityName": "Pyhäjärvi",
+      "lat": 67.071389,
+      "lng": 27.215556
+    },
+    {
+      "cityName": "Raajärvi",
+      "lat": 66.683333,
+      "lng": 27.066667
+    },
+    {
+      "cityName": "Raanujärvi",
+      "lat": 66.65,
+      "lng": 24.716667
+    },
+    {
+      "cityName": "Raatikka",
+      "lat": 67.05,
+      "lng": 28.95
+    },
+    {
+      "cityName": "Raattama",
+      "lat": 68.133333,
+      "lng": 24.25
+    },
+    {
+      "cityName": "Räisälä",
+      "lat": 66.583333,
+      "lng": 27.933333
+    },
+    {
+      "cityName": "Raiskio",
+      "lat": 66,
+      "lng": 26.2
+    },
+    {
+      "cityName": "Raistakka",
+      "lat": 66.033333,
+      "lng": 28.083333
+    },
+    {
+      "cityName": "Rajala",
+      "lat": 67.633333,
+      "lng": 26.166667
+    },
+    {
+      "cityName": "Rantaaho",
+      "lat": 65.916667,
+      "lng": 27.966667
+    },
+    {
+      "cityName": "Rantapää",
+      "lat": 66.133333,
+      "lng": 24.116667
+    },
+    {
+      "cityName": "Rantavoimasvuoman Asutusalue",
+      "lat": 67.25,
+      "lng": 24.95
+    },
+    {
+      "cityName": "Ranua",
+      "lat": 65.916667,
+      "lng": 26.533333
+    },
+    {
+      "cityName": "Räpäkkö",
+      "lat": 66.533333,
+      "lng": 24.5
+    },
+    {
+      "cityName": "Ratasjoki",
+      "lat": 66.533333,
+      "lng": 23.833333
+    },
+    {
+      "cityName": "Rattosjärvi",
+      "lat": 66.85,
+      "lng": 24.883333
+    },
+    {
+      "cityName": "Rauhala",
+      "lat": 67.9,
+      "lng": 24.216667
+    },
+    {
+      "cityName": "Rautusjärvi",
+      "lat": 67.866667,
+      "lng": 24.966667
+    },
+    {
+      "cityName": "Reisu",
+      "lat": 66.466667,
+      "lng": 23.716667
+    },
+    {
+      "cityName": "Repokaira",
+      "lat": 68.4,
+      "lng": 25.533333
+    },
+    {
+      "cityName": "Riesto",
+      "lat": 67.916667,
+      "lng": 27.6
+    },
+    {
+      "cityName": "Riipi",
+      "lat": 67.333333,
+      "lng": 26.05
+    },
+    {
+      "cityName": "Rinne",
+      "lat": 66.4,
+      "lng": 23.766667
+    },
+    {
+      "cityName": "Rintamaa",
+      "lat": 65.85,
+      "lng": 28.166667
+    },
+    {
+      "cityName": "Riutula",
+      "lat": 68.95,
+      "lng": 26.8
+    },
+    {
+      "cityName": "Romakkaniemi",
+      "lat": 66.7,
+      "lng": 24.666667
+    },
+    {
+      "cityName": "Ronianemi",
+      "lat": 66.5,
+      "lng": 25.716667
+    },
+    {
+      "cityName": "Rovala",
+      "lat": 67.383333,
+      "lng": 26.85
+    },
+    {
+      "cityName": "Rovanen",
+      "lat": 68.1,
+      "lng": 26.583333
+    },
+    {
+      "cityName": "Rovastinaho",
+      "lat": 65.95,
+      "lng": 26.083333
+    },
+    {
+      "cityName": "Röyttä",
+      "lat": 65.75,
+      "lng": 24.166667
+    },
+    {
+      "cityName": "Ruikka",
+      "lat": 66.283333,
+      "lng": 25.35
+    },
+    {
+      "cityName": "Runkaus",
+      "lat": 66.1,
+      "lng": 25.15
+    },
+    {
+      "cityName": "Ruokamo",
+      "lat": 66.65,
+      "lng": 27.666667
+    },
+    {
+      "cityName": "Ruokojärvi",
+      "lat": 67.166667,
+      "lng": 24.433333
+    },
+    {
+      "cityName": "Ruonajoki",
+      "lat": 66.016667,
+      "lng": 26
+    },
+    {
+      "cityName": "Ruotala",
+      "lat": 65.85,
+      "lng": 24.5
+    },
+    {
+      "cityName": "Ruotsala",
+      "lat": 66.716667,
+      "lng": 27.5
+    },
+    {
+      "cityName": "Ruuhimäki",
+      "lat": 66.316667,
+      "lng": 27.066667
+    },
+    {
+      "cityName": "Ruuvaoja",
+      "lat": 67.6575,
+      "lng": 28.709167
+    },
+    {
+      "cityName": "Rytikari",
+      "lat": 65.683333,
+      "lng": 24.633333
+    },
+    {
+      "cityName": "Rytiniemi",
+      "lat": 66.583333,
+      "lng": 27.866667
+    },
+    {
+      "cityName": "Saaelo",
+      "lat": 65.916667,
+      "lng": 27.15
+    },
+    {
+      "cityName": "Saarenkylä",
+      "lat": 66.516667,
+      "lng": 25.8
+    },
+    {
+      "cityName": "Sääskilahti",
+      "lat": 66.066667,
+      "lng": 27.15
+    },
+    {
+      "cityName": "Saija",
+      "lat": 67.0925,
+      "lng": 28.821944
+    },
+    {
+      "cityName": "Salkko",
+      "lat": 68.366667,
+      "lng": 25.483333
+    },
+    {
+      "cityName": "Sallansuu",
+      "lat": 66.566667,
+      "lng": 29.1
+    },
+    {
+      "cityName": "Salmi",
+      "lat": 67.45,
+      "lng": 26.85
+    },
+    {
+      "cityName": "Sammale",
+      "lat": 66.716667,
+      "lng": 26.85
+    },
+    {
+      "cityName": "Sammalvaara",
+      "lat": 67.05,
+      "lng": 24.05
+    },
+    {
+      "cityName": "Sankamuotka",
+      "lat": 68.166667,
+      "lng": 23.3
+    },
+    {
+      "cityName": "Sarajärvi",
+      "lat": 66,
+      "lng": 27.566667
+    },
+    {
+      "cityName": "Särkelä",
+      "lat": 67.033333,
+      "lng": 28.966667
+    },
+    {
+      "cityName": "Särkijärvi",
+      "lat": 67.916667,
+      "lng": 23.933333
+    },
+    {
+      "cityName": "Särkikangas",
+      "lat": 66.716667,
+      "lng": 27.4
+    },
+    {
+      "cityName": "Sassali",
+      "lat": 67.266667,
+      "lng": 25.833333
+    },
+    {
+      "cityName": "Sattanen",
+      "lat": 67.5,
+      "lng": 26.616667
+    },
+    {
+      "cityName": "Saukkojärvi",
+      "lat": 66.083333,
+      "lng": 26.45
+    },
+    {
+      "cityName": "Saukkooja",
+      "lat": 66.8,
+      "lng": 24
+    },
+    {
+      "cityName": "Saukkoriipi",
+      "lat": 66.816667,
+      "lng": 24.25
+    },
+    {
+      "cityName": "Saukoski",
+      "lat": 67.2925,
+      "lng": 28.158056
+    },
+    {
+      "cityName": "Saunavaara",
+      "lat": 67.05,
+      "lng": 27.516667
+    },
+    {
+      "cityName": "Seipäjärvi",
+      "lat": 67.166667,
+      "lng": 26.233333
+    },
+    {
+      "cityName": "Selkälä",
+      "lat": 66.666667,
+      "lng": 29.2
+    },
+    {
+      "cityName": "Severi",
+      "lat": 66.483333,
+      "lng": 27.25
+    },
+    {
+      "cityName": "Sevettijärvi",
+      "lat": 69.516667,
+      "lng": 28.633333
+    },
+    {
+      "cityName": "Sieppijärvi",
+      "lat": 67.15,
+      "lng": 23.983333
+    },
+    {
+      "cityName": "Sietaniemi",
+      "lat": 67.366667,
+      "lng": 26.85
+    },
+    {
+      "cityName": "Siirtola",
+      "lat": 67.016667,
+      "lng": 24.05
+    },
+    {
+      "cityName": "Siivola",
+      "lat": 65.833333,
+      "lng": 24.25
+    },
+    {
+      "cityName": "Sikkola",
+      "lat": 67.816667,
+      "lng": 24.8
+    },
+    {
+      "cityName": "Simå",
+      "lat": 65.666667,
+      "lng": 24.066667
+    },
+    {
+      "cityName": "Simoniemi",
+      "lat": 65.666667,
+      "lng": 24.916667
+    },
+    {
+      "cityName": "Sinettä",
+      "lat": 66.65,
+      "lng": 25.466667
+    },
+    {
+      "cityName": "Sipola",
+      "lat": 66.466667,
+      "lng": 27.333333
+    },
+    {
+      "cityName": "Sipovaara",
+      "lat": 66.716667,
+      "lng": 27.483333
+    },
+    {
+      "cityName": "Sirkkakoski",
+      "lat": 66.683333,
+      "lng": 24.4
+    },
+    {
+      "cityName": "Sodankylä",
+      "lat": 67.416667,
+      "lng": 26.6
+    },
+    {
+      "cityName": "Soikko",
+      "lat": 65.75,
+      "lng": 25.283333
+    },
+    {
+      "cityName": "Sonka",
+      "lat": 66.633333,
+      "lng": 25.233333
+    },
+    {
+      "cityName": "Soppela",
+      "lat": 66.65,
+      "lng": 27.633333
+    },
+    {
+      "cityName": "Suolijoki",
+      "lat": 66.166667,
+      "lng": 25.466667
+    },
+    {
+      "cityName": "Suonttajärvi",
+      "lat": 68.4,
+      "lng": 23.216667
+    },
+    {
+      "cityName": "Syrjälä",
+      "lat": 66.5,
+      "lng": 25.8
+    },
+    {
+      "cityName": "Syväjärvi",
+      "lat": 67.3,
+      "lng": 25.933333
+    },
+    {
+      "cityName": "Taapajärvi",
+      "lat": 67.116667,
+      "lng": 24.7
+    },
+    {
+      "cityName": "Tähtelä",
+      "lat": 67.366667,
+      "lng": 26.616667
+    },
+    {
+      "cityName": "Takala",
+      "lat": 67.283333,
+      "lng": 26.7
+    },
+    {
+      "cityName": "Talosenkylä",
+      "lat": 66.966667,
+      "lng": 25.3
+    },
+    {
+      "cityName": "Tanhua",
+      "lat": 67.528056,
+      "lng": 27.539167
+    },
+    {
+      "cityName": "Tapionkylä",
+      "lat": 66.7,
+      "lng": 25.45
+    },
+    {
+      "cityName": "Tapionniemi",
+      "lat": 66.866667,
+      "lng": 27.45
+    },
+    {
+      "cityName": "Tapio",
+      "lat": 66.45,
+      "lng": 26.083333
+    },
+    {
+      "cityName": "Tapojärvi",
+      "lat": 67.533333,
+      "lng": 23.633333
+    },
+    {
+      "cityName": "Tarvas",
+      "lat": 66.7,
+      "lng": 27.583333
+    },
+    {
+      "cityName": "Tasala",
+      "lat": 67.083333,
+      "lng": 28.816667
+    },
+    {
+      "cityName": "Tengeliö",
+      "lat": 66.383333,
+      "lng": 23.9
+    },
+    {
+      "cityName": "Tenniö",
+      "lat": 67.233333,
+      "lng": 28.4
+    },
+    {
+      "cityName": "Tepasto",
+      "lat": 68,
+      "lng": 24.683333
+    },
+    {
+      "cityName": "Tepsa",
+      "lat": 67.566667,
+      "lng": 25.683333
+    },
+    {
+      "cityName": "Tervola",
+      "lat": 66.083333,
+      "lng": 24.8
+    },
+    {
+      "cityName": "Tervo",
+      "lat": 67.1,
+      "lng": 27.516667
+    },
+    {
+      "cityName": "Tikkala",
+      "lat": 66.816667,
+      "lng": 28.666667
+    },
+    {
+      "cityName": "Timisjärvi",
+      "lat": 66.216667,
+      "lng": 27.833333
+    },
+    {
+      "cityName": "Tinaselkä",
+      "lat": 67.366667,
+      "lng": 26.1
+    },
+    {
+      "cityName": "Tohmo",
+      "lat": 66.733333,
+      "lng": 27.316667
+    },
+    {
+      "cityName": "Toivakka",
+      "lat": 66.033333,
+      "lng": 26.866667
+    },
+    {
+      "cityName": "Toivola",
+      "lat": 67.433333,
+      "lng": 26.2
+    },
+    {
+      "cityName": "Toljanjärvi",
+      "lat": 66.016667,
+      "lng": 26.566667
+    },
+    {
+      "cityName": "Tolvanniemi",
+      "lat": 66.15,
+      "lng": 28.616667
+    },
+    {
+      "cityName": "Tolva",
+      "lat": 66.216667,
+      "lng": 28.716667
+    },
+    {
+      "cityName": "Törmänen",
+      "lat": 66.366667,
+      "lng": 24.2
+    },
+    {
+      "cityName": "Torneå",
+      "lat": 65.85,
+      "lng": 24.183333
+    },
+    {
+      "cityName": "Torvinen",
+      "lat": 67.2,
+      "lng": 26.633333
+    },
+    {
+      "cityName": "Tossava",
+      "lat": 66.05,
+      "lng": 24.783333
+    },
+    {
+      "cityName": "Tulppio",
+      "lat": 67.771944,
+      "lng": 29.213056
+    },
+    {
+      "cityName": "Turksa",
+      "lat": 65.666667,
+      "lng": 24.85
+    },
+    {
+      "cityName": "Turtola",
+      "lat": 66.65,
+      "lng": 23.883333
+    },
+    {
+      "cityName": "Tuuliharju",
+      "lat": 67.25,
+      "lng": 24.85
+    },
+    {
+      "cityName": "Tuulirova",
+      "lat": 68.35,
+      "lng": 24.15
+    },
+    {
+      "cityName": "Typpyrä",
+      "lat": 66.75,
+      "lng": 25.1
+    },
+    {
+      "cityName": "Uimaniemi",
+      "lat": 67.183333,
+      "lng": 25.733333
+    },
+    {
+      "cityName": "Ulkuniemi",
+      "lat": 66.516667,
+      "lng": 27.233333
+    },
+    {
+      "cityName": "Unari",
+      "lat": 67.15,
+      "lng": 25.716667
+    },
+    {
+      "cityName": "Utsjoki",
+      "lat": 69.883333,
+      "lng": 27
+    },
+    {
+      "cityName": "Uusitalo",
+      "lat": 66.483333,
+      "lng": 27.35
+    },
+    {
+      "cityName": "Uutela",
+      "lat": 66.333333,
+      "lng": 26.933333
+    },
+    {
+      "cityName": "Vaalajärvi",
+      "lat": 67.433333,
+      "lng": 26.216667
+    },
+    {
+      "cityName": "Vaatojarve",
+      "lat": 67.216667,
+      "lng": 24.2
+    },
+    {
+      "cityName": "Vähäjoki",
+      "lat": 66.116667,
+      "lng": 25.383333
+    },
+    {
+      "cityName": "Vaimarinniemi",
+      "lat": 65.783333,
+      "lng": 24.516667
+    },
+    {
+      "cityName": "Välikangas",
+      "lat": 66.933333,
+      "lng": 25.366667
+    },
+    {
+      "cityName": "Välimaa",
+      "lat": 67.2,
+      "lng": 24.2
+    },
+    {
+      "cityName": "Valkeajärvi",
+      "lat": 67.516667,
+      "lng": 23.616667
+    },
+    {
+      "cityName": "Varajärvi",
+      "lat": 66.25,
+      "lng": 24.566667
+    },
+    {
+      "cityName": "Varejoki",
+      "lat": 66.15,
+      "lng": 24.75
+    },
+    {
+      "cityName": "Varrio",
+      "lat": 66.816667,
+      "lng": 27.466667
+    },
+    {
+      "cityName": "Väylänpää",
+      "lat": 67.05,
+      "lng": 23.733333
+    },
+    {
+      "cityName": "Väylä",
+      "lat": 69.083333,
+      "lng": 27.55
+    },
+    {
+      "cityName": "Väystäjä",
+      "lat": 66.266667,
+      "lng": 24.116667
+    },
+    {
+      "cityName": "Veatshak",
+      "lat": 69.95,
+      "lng": 27.3
+    },
+    {
+      "cityName": "Veittikoski",
+      "lat": 65.85,
+      "lng": 25.416667
+    },
+    {
+      "cityName": "Venejärvenkylä",
+      "lat": 67.283333,
+      "lng": 24.233333
+    },
+    {
+      "cityName": "Veskoniemi",
+      "lat": 68.783333,
+      "lng": 27.666667
+    },
+    {
+      "cityName": "Viantie",
+      "lat": 65.683333,
+      "lng": 24.95
+    },
+    {
+      "cityName": "Viekonelo",
+      "lat": 68.7,
+      "lng": 27.583333
+    },
+    {
+      "cityName": "Viettivuoman Asutusalue",
+      "lat": 67.233333,
+      "lng": 24.95
+    },
+    {
+      "cityName": "Viheriälä",
+      "lat": 65.8,
+      "lng": 24.6
+    },
+    {
+      "cityName": "Viirinkylä",
+      "lat": 66.383333,
+      "lng": 26.583333
+    },
+    {
+      "cityName": "Vikajärvi",
+      "lat": 66.616667,
+      "lng": 26.2
+    },
+    {
+      "cityName": "Vikkuri",
+      "lat": 68.483333,
+      "lng": 22.2
+    },
+    {
+      "cityName": "Vojakkala",
+      "lat": 65.933333,
+      "lng": 24.133333
+    },
+    {
+      "cityName": "Völimaa",
+      "lat": 66.766667,
+      "lng": 23.95
+    },
+    {
+      "cityName": "Vuojärvi",
+      "lat": 67.1,
+      "lng": 26.6
+    },
+    {
+      "cityName": "Vuolli",
+      "lat": 67.5,
+      "lng": 25.616667
+    },
+    {
+      "cityName": "Vuontisjärvi",
+      "lat": 68.433333,
+      "lng": 24.016667
+    },
+    {
+      "cityName": "Vuopioniemi",
+      "lat": 68.966667,
+      "lng": 28.116667
+    },
+    {
+      "cityName": "Vuoska",
+      "lat": 65.85,
+      "lng": 28.45
+    },
+    {
+      "cityName": "Vuostimos",
+      "lat": 66.95,
+      "lng": 27.533333
+    },
+    {
+      "cityName": "Vuotso",
+      "lat": 68.1,
+      "lng": 27.133333
+    },
+    {
+      "cityName": "Yakunnari",
+      "lat": 66.533333,
+      "lng": 25.7
+    },
+    {
+      "cityName": "Ylikärppä",
+      "lat": 65.8,
+      "lng": 25.683333
+    },
+    {
+      "cityName": "Ylikitka",
+      "lat": 66.133333,
+      "lng": 28.45
+    },
+    {
+      "cityName": "Ylikylä",
+      "lat": 66.9,
+      "lng": 27.466667
+    },
+    {
+      "cityName": "Ylimuonio",
+      "lat": 68.016667,
+      "lng": 23.55
+    },
+    {
+      "cityName": "Ylinampa",
+      "lat": 66.8,
+      "lng": 26.25
+    },
+    {
+      "cityName": "Ylipää",
+      "lat": 66.716667,
+      "lng": 24.683333
+    },
+    {
+      "cityName": "Ylirauma",
+      "lat": 65.85,
+      "lng": 24.216667
+    },
+    {
+      "cityName": "Ylitornio",
+      "lat": 66.3,
+      "lng": 23.666667
+    },
+    {
+      "cityName": "Ylivojakkala",
+      "lat": 65.95,
+      "lng": 24.1
+    }
+  ]
+}

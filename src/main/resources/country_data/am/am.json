@@ -1,0 +1,67 @@
+{
+  "name": "Armenia",
+  "iso2": "am",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Aragatsotn",
+      "id": 0
+    },
+    {
+      "name": "Ararat",
+      "id": 1
+    },
+    {
+      "name": "Armavir",
+      "id": 2
+    },
+    {
+      "name": "Geghark'unik'",
+      "id": 3
+    },
+    {
+      "name": "Kotayk'",
+      "id": 4
+    },
+    {
+      "name": "Lorri",
+      "id": 5
+    },
+    {
+      "name": "Shirak",
+      "id": 6
+    },
+    {
+      "name": "Syunik'",
+      "id": 7
+    },
+    {
+      "name": "Tavush",
+      "id": 8
+    },
+    {
+      "name": "Vayots' Dzor",
+      "id": 9
+    },
+    {
+      "name": "Yerevan",
+      "id": 10
+    }
+  ],
+  "geoRectangle": {
+    "West": 43.4497756958,
+    "East": 49.4783973694,
+    "North": 41.3018379211,
+    "South": 38.3970527649
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 4,
+    "Flg": 2,
+    "Name": "Yerevan",
+    "GeoPt": [
+      40.1,
+      44.3
+    ]
+  }
+}

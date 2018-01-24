@@ -1,0 +1,67 @@
+{
+  "name": "Mali",
+  "iso2": "ml",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Bamako",
+      "id": 0
+    },
+    {
+      "name": "Gao",
+      "id": 1
+    },
+    {
+      "name": "Kayes",
+      "id": 2
+    },
+    {
+      "name": "Kidal",
+      "id": 3
+    },
+    {
+      "name": "Koulikoro",
+      "id": 4
+    },
+    {
+      "name": "Mopti",
+      "id": 5
+    },
+    {
+      "name": "Segou",
+      "id": 6
+    },
+    {
+      "name": "Sikasso",
+      "id": 7
+    },
+    {
+      "name": "Tombouctou",
+      "id": 8
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 9
+    },
+    {
+      "name": "Unnamed region 02",
+      "id": 10
+    }
+  ],
+  "geoRectangle": {
+    "West": -12.2426156998,
+    "East": 4.24496889114,
+    "North": 25.000005722,
+    "South": 10.1595115662
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 0,
+    "Flg": 2,
+    "Name": "Bamako",
+    "GeoPt": [
+      12.39,
+      -8
+    ]
+  }
+}

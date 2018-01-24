@@ -1,0 +1,455 @@
+{
+  "name": "Karaman",
+  "cities": [
+    {
+      "cityName": "Ada Tepesi Ciftligi",
+      "lat": 37.333333,
+      "lng": 33.583333
+    },
+    {
+      "cityName": "Afgan",
+      "lat": 36.983333,
+      "lng": 33.016667
+    },
+    {
+      "cityName": "Agilonu",
+      "lat": 37.233333,
+      "lng": 33.366667
+    },
+    {
+      "cityName": "Agizbogaz",
+      "lat": 37.416667,
+      "lng": 33.85
+    },
+    {
+      "cityName": "Akcasehir",
+      "lat": 37.445833,
+      "lng": 33.493333
+    },
+    {
+      "cityName": "Ak Yokus",
+      "lat": 37.181111,
+      "lng": 33.215
+    },
+    {
+      "cityName": "Alacati",
+      "lat": 37.266667,
+      "lng": 33.316667
+    },
+    {
+      "cityName": "Ambar",
+      "lat": 37.483333,
+      "lng": 33.633333
+    },
+    {
+      "cityName": "Asiran",
+      "lat": 37.333333,
+      "lng": 33.366667
+    },
+    {
+      "cityName": "Ayranci",
+      "lat": 37.361944,
+      "lng": 33.683611
+    },
+    {
+      "cityName": "Barutkavran",
+      "lat": 37.166667,
+      "lng": 33.383333
+    },
+    {
+      "cityName": "Beydili",
+      "lat": 37.35,
+      "lng": 33.316667
+    },
+    {
+      "cityName": "Bolukyazi",
+      "lat": 37.216667,
+      "lng": 33.116667
+    },
+    {
+      "cityName": "Bostanözü",
+      "lat": 36.933333,
+      "lng": 33.016667
+    },
+    {
+      "cityName": "Boyali",
+      "lat": 37.066667,
+      "lng": 33.183333
+    },
+    {
+      "cityName": "Boyalitepe",
+      "lat": 37.483333,
+      "lng": 33.3
+    },
+    {
+      "cityName": "Bucakkisla",
+      "lat": 36.956667,
+      "lng": 33.030833
+    },
+    {
+      "cityName": "Burhan",
+      "lat": 37.083333,
+      "lng": 33.083333
+    },
+    {
+      "cityName": "Burunoba",
+      "lat": 37.45,
+      "lng": 33.35
+    },
+    {
+      "cityName": "Buyukkoras",
+      "lat": 37.116667,
+      "lng": 33.716667
+    },
+    {
+      "cityName": "Cakirbag",
+      "lat": 37.183333,
+      "lng": 33.133333
+    },
+    {
+      "cityName": "Çatak",
+      "lat": 37.014167,
+      "lng": 32.964722
+    },
+    {
+      "cityName": "Çatköy",
+      "lat": 37.166667,
+      "lng": 33.866667
+    },
+    {
+      "cityName": "Catmalioba Yaylasi",
+      "lat": 37.55,
+      "lng": 33.616667
+    },
+    {
+      "cityName": "Cavuspinari",
+      "lat": 37.116667,
+      "lng": 33.15
+    },
+    {
+      "cityName": "Cigdemli",
+      "lat": 37.233333,
+      "lng": 33.15
+    },
+    {
+      "cityName": "Cigil",
+      "lat": 37.483333,
+      "lng": 33.333333
+    },
+    {
+      "cityName": "Coglu",
+      "lat": 37.433333,
+      "lng": 33.316667
+    },
+    {
+      "cityName": "Cukurbag",
+      "lat": 37.016667,
+      "lng": 33.016667
+    },
+    {
+      "cityName": "Çukur",
+      "lat": 36.943056,
+      "lng": 32.993889
+    },
+    {
+      "cityName": "Dagal",
+      "lat": 37.033333,
+      "lng": 32.966667
+    },
+    {
+      "cityName": "Degircik",
+      "lat": 37.2,
+      "lng": 33.416667
+    },
+    {
+      "cityName": "Demiryurt",
+      "lat": 37.35,
+      "lng": 33.066667
+    },
+    {
+      "cityName": "Deper Yaylasi",
+      "lat": 37.516667,
+      "lng": 33.533333
+    },
+    {
+      "cityName": "Dereköy",
+      "lat": 37.133333,
+      "lng": 33.283333
+    },
+    {
+      "cityName": "Dikmen",
+      "lat": 37.083333,
+      "lng": 33.75
+    },
+    {
+      "cityName": "Dilbeyan",
+      "lat": 37.2,
+      "lng": 33.15
+    },
+    {
+      "cityName": "Dinek",
+      "lat": 37.383333,
+      "lng": 33.266667
+    },
+    {
+      "cityName": "Divle",
+      "lat": 37.283333,
+      "lng": 33.816667
+    },
+    {
+      "cityName": "Dokuzyol",
+      "lat": 37.316667,
+      "lng": 33.633333
+    },
+    {
+      "cityName": "Durayda",
+      "lat": 37.266667,
+      "lng": 33.083333
+    },
+    {
+      "cityName": "Eminler",
+      "lat": 37.333333,
+      "lng": 33.116667
+    },
+    {
+      "cityName": "Gaferîyat",
+      "lat": 37.230278,
+      "lng": 32.958889
+    },
+    {
+      "cityName": "Göztepe",
+      "lat": 37.283333,
+      "lng": 33.233333
+    },
+    {
+      "cityName": "Güdümen",
+      "lat": 37.283333,
+      "lng": 33.3
+    },
+    {
+      "cityName": "Gulaliobasi",
+      "lat": 37.45,
+      "lng": 33.283333
+    },
+    {
+      "cityName": "Gündere",
+      "lat": 37.15,
+      "lng": 33.116667
+    },
+    {
+      "cityName": "Güzeller",
+      "lat": 37.133333,
+      "lng": 33.883333
+    },
+    {
+      "cityName": "Hamidiye",
+      "lat": 37.316667,
+      "lng": 33.25
+    },
+    {
+      "cityName": "Hatibintol Yaylasi",
+      "lat": 37.533333,
+      "lng": 33.566667
+    },
+    {
+      "cityName": "Hüyükburnu",
+      "lat": 37.366667,
+      "lng": 33.65
+    },
+    {
+      "cityName": "Ibrahimcavusun Yaylasi",
+      "lat": 37.516667,
+      "lng": 33.566667
+    },
+    {
+      "cityName": "Ilisira",
+      "lat": 37.2,
+      "lng": 33.033333
+    },
+    {
+      "cityName": "Inonuciftligi",
+      "lat": 37.316667,
+      "lng": 33.766667
+    },
+    {
+      "cityName": "Islihisar",
+      "lat": 37.366667,
+      "lng": 33.016667
+    },
+    {
+      "cityName": "Kaleköy",
+      "lat": 37.45,
+      "lng": 33.6
+    },
+    {
+      "cityName": "Kâmran",
+      "lat": 36.966667,
+      "lng": 33.083333
+    },
+    {
+      "cityName": "Karaagac",
+      "lat": 37.416667,
+      "lng": 33.566667
+    },
+    {
+      "cityName": "Karalgazi",
+      "lat": 37.3,
+      "lng": 33.066667
+    },
+    {
+      "cityName": "Kasoba",
+      "lat": 37.433333,
+      "lng": 33.016667
+    },
+    {
+      "cityName": "Kavuklar",
+      "lat": 37.516667,
+      "lng": 33.616667
+    },
+    {
+      "cityName": "Kesecik",
+      "lat": 37.4,
+      "lng": 33.016667
+    },
+    {
+      "cityName": "Kilbasan",
+      "lat": 37.333333,
+      "lng": 33.2
+    },
+    {
+      "cityName": "Kiraman",
+      "lat": 37.266667,
+      "lng": 33.883333
+    },
+    {
+      "cityName": "Kizik",
+      "lat": 37.266667,
+      "lng": 33.3
+    },
+    {
+      "cityName": "Kucukkoras",
+      "lat": 37.113611,
+      "lng": 33.821389
+    },
+    {
+      "cityName": "Kumoba",
+      "lat": 37.416667,
+      "lng": 33.266667
+    },
+    {
+      "cityName": "Kürtderesiköy",
+      "lat": 37.133333,
+      "lng": 33.166667
+    },
+    {
+      "cityName": "Madensehir",
+      "lat": 37.45,
+      "lng": 33.183333
+    },
+    {
+      "cityName": "Mecidiye",
+      "lat": 37.233333,
+      "lng": 33.033333
+    },
+    {
+      "cityName": "Melikli",
+      "lat": 37.2,
+      "lng": 33.8
+    },
+    {
+      "cityName": "Mercik",
+      "lat": 37.283333,
+      "lng": 33.133333
+    },
+    {
+      "cityName": "Morcali",
+      "lat": 37.066667,
+      "lng": 33.116667
+    },
+    {
+      "cityName": "Musaköy",
+      "lat": 37.35,
+      "lng": 33.733333
+    },
+    {
+      "cityName": "Ortaoba",
+      "lat": 37.45,
+      "lng": 33.05
+    },
+    {
+      "cityName": "Pinarbasi Koy",
+      "lat": 37.1,
+      "lng": 33.066667
+    },
+    {
+      "cityName": "Salur",
+      "lat": 37.316667,
+      "lng": 33.333333
+    },
+    {
+      "cityName": "Samayil Yaylasi",
+      "lat": 37.466667,
+      "lng": 33.566667
+    },
+    {
+      "cityName": "Samuk Yaylasi",
+      "lat": 37.533333,
+      "lng": 33.466667
+    },
+    {
+      "cityName": "Saray",
+      "lat": 37.4,
+      "lng": 33.683333
+    },
+    {
+      "cityName": "Sidrova",
+      "lat": 37.283333,
+      "lng": 33.383333
+    },
+    {
+      "cityName": "Sulerek Ciftligi",
+      "lat": 37.2,
+      "lng": 33.383333
+    },
+    {
+      "cityName": "Suleymanhaci",
+      "lat": 37.466667,
+      "lng": 33.083333
+    },
+    {
+      "cityName": "Yarikkuyu",
+      "lat": 37.266667,
+      "lng": 33.716667
+    },
+    {
+      "cityName": "Yassitepe",
+      "lat": 37.433333,
+      "lng": 33.133333
+    },
+    {
+      "cityName": "Yazili",
+      "lat": 37.15,
+      "lng": 33.1
+    },
+    {
+      "cityName": "Yazir",
+      "lat": 37.216667,
+      "lng": 33.766667
+    },
+    {
+      "cityName": "Yenicekoyciftligi",
+      "lat": 37.216667,
+      "lng": 33.183333
+    },
+    {
+      "cityName": "Yenikuyuköy",
+      "lat": 37.5,
+      "lng": 33.366667
+    },
+    {
+      "cityName": "Yogullar",
+      "lat": 37.2,
+      "lng": 33.1
+    }
+  ]
+}

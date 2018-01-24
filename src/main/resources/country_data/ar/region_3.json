@@ -1,0 +1,590 @@
+{
+  "name": "Chubut",
+  "cities": [
+    {
+      "cityName": "Aldea",
+      "lat": -45.55,
+      "lng": -71.5333333
+    },
+    {
+      "cityName": "Aldea Apeleg",
+      "lat": -44.6833333,
+      "lng": -70.85
+    },
+    {
+      "cityName": "Alto Río Mayo",
+      "lat": -45.55,
+      "lng": -71.3
+    },
+    {
+      "cityName": "Alto Río Senguer",
+      "lat": -45.0333333,
+      "lng": -70.8333333
+    },
+    {
+      "cityName": "Apeleg",
+      "lat": -44.6,
+      "lng": -71.1
+    },
+    {
+      "cityName": "Arroyo Verde",
+      "lat": -42,
+      "lng": -65.1
+    },
+    {
+      "cityName": "Astra",
+      "lat": -45.7333333,
+      "lng": -67.5
+    },
+    {
+      "cityName": "Baggle",
+      "lat": -43.1666667,
+      "lng": -71.6666667
+    },
+    {
+      "cityName": "Bahía Bustamante",
+      "lat": -45.1333333,
+      "lng": -66.5333333
+    },
+    {
+      "cityName": "Balneario Unión",
+      "lat": -43.3166667,
+      "lng": -65.0333333
+    },
+    {
+      "cityName": "Barranca",
+      "lat": -43.5166667,
+      "lng": -71.25
+    },
+    {
+      "cityName": "Barrio Laprida",
+      "lat": -45.8166667,
+      "lng": -67.5166667
+    },
+    {
+      "cityName": "Barrio Saavedra",
+      "lat": -45.8333333,
+      "lng": -67.5333333
+    },
+    {
+      "cityName": "Boca de la Zanja",
+      "lat": -43.35,
+      "lng": -65.9333333
+    },
+    {
+      "cityName": "Buenas Aires Chico",
+      "lat": -42.0833333,
+      "lng": -71.2333333
+    },
+    {
+      "cityName": "Buen Pasto",
+      "lat": -45.0833333,
+      "lng": -69.4666667
+    },
+    {
+      "cityName": "Cabo Raso",
+      "lat": -44.35,
+      "lng": -65.2333333
+    },
+    {
+      "cityName": "Caleta Córdoba",
+      "lat": -45.7333333,
+      "lng": -67.0666667
+    },
+    {
+      "cityName": "Camarones",
+      "lat": -44.8,
+      "lng": -65.7
+    },
+    {
+      "cityName": "Campamento I",
+      "lat": -45.6666667,
+      "lng": -67.6333333
+    },
+    {
+      "cityName": "Campamento Villegas",
+      "lat": -43.4333333,
+      "lng": -66.1333333
+    },
+    {
+      "cityName": "Campo del Río Pica",
+      "lat": -44.2166667,
+      "lng": -71.35
+    },
+    {
+      "cityName": "Cañadón Lagarto",
+      "lat": -45.8666667,
+      "lng": -68.4166667
+    },
+    {
+      "cityName": "Cañadón Perdido",
+      "lat": -45.7166667,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "Canque",
+      "lat": -44.5333333,
+      "lng": -68.3666667
+    },
+    {
+      "cityName": "Carrayalde",
+      "lat": -44.6666667,
+      "lng": -66.6666667
+    },
+    {
+      "cityName": "Carrenleufú",
+      "lat": -43.5833333,
+      "lng": -71.7
+    },
+    {
+      "cityName": "Casa Koslowsky",
+      "lat": -45.95,
+      "lng": -71.5166667
+    },
+    {
+      "cityName": "Centro Río Mayo",
+      "lat": -45.5833333,
+      "lng": -71.1
+    },
+    {
+      "cityName": "Cerro Dragón",
+      "lat": -45.7166667,
+      "lng": -68.3333333
+    },
+    {
+      "cityName": "Chasicó",
+      "lat": -42.8166667,
+      "lng": -66.8333333
+    },
+    {
+      "cityName": "Cholila",
+      "lat": -42.3833333,
+      "lng": -71.05
+    },
+    {
+      "cityName": "Cholita",
+      "lat": -42.5166667,
+      "lng": -71.45
+    },
+    {
+      "cityName": "Colan Conhué",
+      "lat": -43.2666667,
+      "lng": -69.85
+    },
+    {
+      "cityName": "Colonia San Martín",
+      "lat": -44.0333333,
+      "lng": -70.4833333
+    },
+    {
+      "cityName": "Colonia Sarmiento",
+      "lat": -45.6,
+      "lng": -69.0833333
+    },
+    {
+      "cityName": "Corcovado",
+      "lat": -43.5333333,
+      "lng": -71.6
+    },
+    {
+      "cityName": "D. Casanova",
+      "lat": -45.9666667,
+      "lng": -70.6
+    },
+    {
+      "cityName": "Diadema Argentina",
+      "lat": -45.7666667,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "Dique Florentino Ameghino",
+      "lat": -43.6666667,
+      "lng": -66.4166667
+    },
+    {
+      "cityName": "Doctor Ricardo Rojas",
+      "lat": -45.5666667,
+      "lng": -71.0666667
+    },
+    {
+      "cityName": "El Corcovado",
+      "lat": -42.7,
+      "lng": -65.8
+    },
+    {
+      "cityName": "El Coyte",
+      "lat": -45.2166667,
+      "lng": -71.3
+    },
+    {
+      "cityName": "Elena",
+      "lat": -43.7,
+      "lng": -71.2666667
+    },
+    {
+      "cityName": "El Hunco",
+      "lat": -42.35,
+      "lng": -66.2
+    },
+    {
+      "cityName": "El Mayoco",
+      "lat": -42.65,
+      "lng": -70.9833333
+    },
+    {
+      "cityName": "El Mirasol",
+      "lat": -43.3666667,
+      "lng": -67.7
+    },
+    {
+      "cityName": "El Molle",
+      "lat": -43.8166667,
+      "lng": -69.9166667
+    },
+    {
+      "cityName": "El Pajarito",
+      "lat": -43.8,
+      "lng": -69.25
+    },
+    {
+      "cityName": "El Rincón",
+      "lat": -42.55,
+      "lng": -71.5333333
+    },
+    {
+      "cityName": "El Tordillo",
+      "lat": -45.8833333,
+      "lng": -68.0833333
+    },
+    {
+      "cityName": "El Trébol",
+      "lat": -45.8166667,
+      "lng": -67.9333333
+    },
+    {
+      "cityName": "Esperanza",
+      "lat": -43.0833333,
+      "lng": -70.6166667
+    },
+    {
+      "cityName": "Estancia Sacanana",
+      "lat": -42.5,
+      "lng": -68.5166667
+    },
+    {
+      "cityName": "Facundo",
+      "lat": -45.3,
+      "lng": -69.95
+    },
+    {
+      "cityName": "Ferrocarrilera",
+      "lat": -45.8,
+      "lng": -67.4166667
+    },
+    {
+      "cityName": "Foyel",
+      "lat": -43.6,
+      "lng": -71.0333333
+    },
+    {
+      "cityName": "Gaimán",
+      "lat": -43.2833333,
+      "lng": -65.4833333
+    },
+    {
+      "cityName": "Gasoducto",
+      "lat": -45.7833333,
+      "lng": -67.5166667
+    },
+    {
+      "cityName": "Gastre",
+      "lat": -42.2833333,
+      "lng": -69.2333333
+    },
+    {
+      "cityName": "General Mosconi",
+      "lat": -45.7,
+      "lng": -67.4666667
+    },
+    {
+      "cityName": "Gobernador Costa",
+      "lat": -44.0666667,
+      "lng": -70.5833333
+    },
+    {
+      "cityName": "Golondrinas",
+      "lat": -42.0166667,
+      "lng": -71.5166667
+    },
+    {
+      "cityName": "Gualjaina",
+      "lat": -42.7,
+      "lng": -70.5
+    },
+    {
+      "cityName": "Herreria",
+      "lat": -43.8833333,
+      "lng": -69.15
+    },
+    {
+      "cityName": "Holdich",
+      "lat": -45.95,
+      "lng": -68.2166667
+    },
+    {
+      "cityName": "Hoyo de Epuyén",
+      "lat": -42.0666667,
+      "lng": -71.5
+    },
+    {
+      "cityName": "Jaramillo",
+      "lat": -43.8166667,
+      "lng": -71.2
+    },
+    {
+      "cityName": "Kilómetro 162",
+      "lat": -45.7833333,
+      "lng": -68.75
+    },
+    {
+      "cityName": "Kilómetro 5",
+      "lat": -45.8166667,
+      "lng": -67.45
+    },
+    {
+      "cityName": "Kilómetro 8",
+      "lat": -45.8,
+      "lng": -67.5333333
+    },
+    {
+      "cityName": "La Aldea",
+      "lat": -43.1166667,
+      "lng": -71.55
+    },
+    {
+      "cityName": "La Bolsa",
+      "lat": -42.55,
+      "lng": -71.5833333
+    },
+    {
+      "cityName": "La Carlota",
+      "lat": -43.5333333,
+      "lng": -70.7333333
+    },
+    {
+      "cityName": "Lago Blanco",
+      "lat": -45.9166667,
+      "lng": -71.25
+    },
+    {
+      "cityName": "Lago Futalaufquen",
+      "lat": -42.8833333,
+      "lng": -71.6166667
+    },
+    {
+      "cityName": "Lago Puelo",
+      "lat": -42.0833333,
+      "lng": -71.6333333
+    },
+    {
+      "cityName": "Laguna Grande",
+      "lat": -43.7,
+      "lng": -66.8
+    },
+    {
+      "cityName": "La Martha",
+      "lat": -43.0166667,
+      "lng": -70.05
+    },
+    {
+      "cityName": "Languileo",
+      "lat": -43.3,
+      "lng": -70.4166667
+    },
+    {
+      "cityName": "Las Chapas",
+      "lat": -43.6166667,
+      "lng": -66.5833333
+    },
+    {
+      "cityName": "Las Plumas",
+      "lat": -43.7166667,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Las Pulgas",
+      "lat": -45.4333333,
+      "lng": -69.6333333
+    },
+    {
+      "cityName": "Lepá",
+      "lat": -42.5666667,
+      "lng": -71.05
+    },
+    {
+      "cityName": "Los Cipreses",
+      "lat": -43.1666667,
+      "lng": -71.75
+    },
+    {
+      "cityName": "Los Tamariscos",
+      "lat": -45.0333333,
+      "lng": -70.0333333
+    },
+    {
+      "cityName": "Madryn",
+      "lat": -42.7666667,
+      "lng": -65.05
+    },
+    {
+      "cityName": "Malaspina",
+      "lat": -44.9333333,
+      "lng": -66.9
+    },
+    {
+      "cityName": "Manantiales Behr",
+      "lat": -45.6833333,
+      "lng": -67.5166667
+    },
+    {
+      "cityName": "Niedo",
+      "lat": -43.3333333,
+      "lng": -70.9
+    },
+    {
+      "cityName": "Nueva Lubeca",
+      "lat": -44.5333333,
+      "lng": -70.4
+    },
+    {
+      "cityName": "Pampa de Agnia",
+      "lat": -43.75,
+      "lng": -69.6666667
+    },
+    {
+      "cityName": "Pampa del Castillo",
+      "lat": -45.8,
+      "lng": -68.0833333
+    },
+    {
+      "cityName": "Paso de Indios",
+      "lat": -43.8666667,
+      "lng": -69.1
+    },
+    {
+      "cityName": "Paso Rio de Mayo",
+      "lat": -45.6833333,
+      "lng": -70.2666667
+    },
+    {
+      "cityName": "Pastos Blancos",
+      "lat": -45.3,
+      "lng": -70.5
+    },
+    {
+      "cityName": "Pico de Salamanca",
+      "lat": -45.4166667,
+      "lng": -67.4166667
+    },
+    {
+      "cityName": "Pirámide",
+      "lat": -42.5666667,
+      "lng": -64.2833333
+    },
+    {
+      "cityName": "Puelo",
+      "lat": -42.1166667,
+      "lng": -71.7166667
+    },
+    {
+      "cityName": "Puerto Rawson",
+      "lat": -43.3333333,
+      "lng": -65.05
+    },
+    {
+      "cityName": "Puerto Visser",
+      "lat": -45.4,
+      "lng": -67.1333333
+    },
+    {
+      "cityName": "Punta Delgada",
+      "lat": -42.7666667,
+      "lng": -63.6333333
+    },
+    {
+      "cityName": "Putrachoique",
+      "lat": -43.8166667,
+      "lng": -70.9166667
+    },
+    {
+      "cityName": "Rada Tilli",
+      "lat": -45.9333333,
+      "lng": -67.5333333
+    },
+    {
+      "cityName": "Rawson",
+      "lat": -43.3,
+      "lng": -65.1
+    },
+    {
+      "cityName": "Roberto M. Ortiz",
+      "lat": -45.8166667,
+      "lng": -67.4333333
+    },
+    {
+      "cityName": "Sierra Chata",
+      "lat": -42.75,
+      "lng": -66
+    },
+    {
+      "cityName": "Sierra Nevada",
+      "lat": -44.6833333,
+      "lng": -69.6333333
+    },
+    {
+      "cityName": "Sierra Rosada",
+      "lat": -43.1166667,
+      "lng": -67.3333333
+    },
+    {
+      "cityName": "Talagapa",
+      "lat": -42.2333333,
+      "lng": -68.2833333
+    },
+    {
+      "cityName": "Tecka",
+      "lat": -43.4833333,
+      "lng": -70.8
+    },
+    {
+      "cityName": "Telsen",
+      "lat": -42.4,
+      "lng": -66.95
+    },
+    {
+      "cityName": "Trelew",
+      "lat": -43.25,
+      "lng": -65.3
+    },
+    {
+      "cityName": "Trevelín",
+      "lat": -43.0666667,
+      "lng": -71.4666667
+    },
+    {
+      "cityName": "Uzcudum",
+      "lat": -44.2166667,
+      "lng": -66.15
+    },
+    {
+      "cityName": "Valle",
+      "lat": -45.8,
+      "lng": -67.4833333
+    },
+    {
+      "cityName": "Vargas",
+      "lat": -43.7166667,
+      "lng": -71.2166667
+    }
+  ]
+}

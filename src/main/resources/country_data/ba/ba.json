@@ -1,0 +1,35 @@
+{
+  "name": "Bosnia and Herzegovina",
+  "iso2": "ba",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Federation of Bosnia and Herzegovina",
+      "id": 0
+    },
+    {
+      "name": "Republika Srpska",
+      "id": 1
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 2
+    }
+  ],
+  "geoRectangle": {
+    "West": 15.7189435959,
+    "East": 19.6222267151,
+    "North": 45.239200592,
+    "South": 42.5461044312
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Sarajevo",
+    "GeoPt": [
+      43.52,
+      18.25
+    ]
+  }
+}

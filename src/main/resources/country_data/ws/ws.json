@@ -1,0 +1,913 @@
+{
+  "name": "Samoa",
+  "iso2": "ws",
+  "cities": [
+    {
+      "cityName": "Afega",
+      "lat": -13.8,
+      "lng": -171.8166667
+    },
+    {
+      "cityName": "Afiamalu",
+      "lat": -13.9166667,
+      "lng": -171.7166667
+    },
+    {
+      "cityName": "Aganoa",
+      "lat": -14.0333333,
+      "lng": -171.7833333
+    },
+    {
+      "cityName": "Ahners",
+      "lat": -13.8333333,
+      "lng": -171.75
+    },
+    {
+      "cityName": "Alaloa",
+      "lat": -13.8166667,
+      "lng": -171.9166667
+    },
+    {
+      "cityName": "Amaile",
+      "lat": -13.95,
+      "lng": -171.3833333
+    },
+    {
+      "cityName": "Amvalea",
+      "lat": -13.4666667,
+      "lng": -172.6
+    },
+    {
+      "cityName": "Aopo",
+      "lat": -13.4833333,
+      "lng": -172.5
+    },
+    {
+      "cityName": "Apia",
+      "lat": -13.8333333,
+      "lng": -171.7333333
+    },
+    {
+      "cityName": "Asaga",
+      "lat": -13.5833333,
+      "lng": -172.1333333
+    },
+    {
+      "cityName": "Asaua",
+      "lat": -13.4666667,
+      "lng": -172.5833333
+    },
+    {
+      "cityName": "Asauana",
+      "lat": -13.8833333,
+      "lng": -171.5166667
+    },
+    {
+      "cityName": "Atoe",
+      "lat": -13.9166667,
+      "lng": -171.5166667
+    },
+    {
+      "cityName": "Aufaga",
+      "lat": -14.0166667,
+      "lng": -171.4666667
+    },
+    {
+      "cityName": "Avao",
+      "lat": -13.45,
+      "lng": -172.3666667
+    },
+    {
+      "cityName": "Avata",
+      "lat": -13.4833333,
+      "lng": -172.7833333
+    },
+    {
+      "cityName": "Etemuli",
+      "lat": -14.0166667,
+      "lng": -171.5
+    },
+    {
+      "cityName": "Eva",
+      "lat": -13.8666667,
+      "lng": -171.5833333
+    },
+    {
+      "cityName": "Faga",
+      "lat": -13.65,
+      "lng": -172.1333333
+    },
+    {
+      "cityName": "Fagafau",
+      "lat": -13.5833333,
+      "lng": -172.65
+    },
+    {
+      "cityName": "Fagaiofu",
+      "lat": -13.95,
+      "lng": -171.9666667
+    },
+    {
+      "cityName": "Fagali`i",
+      "lat": -13.8333333,
+      "lng": -171.7166667
+    },
+    {
+      "cityName": "Fagaloa",
+      "lat": -13.75,
+      "lng": -172.5166667
+    },
+    {
+      "cityName": "Fagamalo",
+      "lat": -13.4166667,
+      "lng": -172.35
+    },
+    {
+      "cityName": "Faiaai",
+      "lat": -13.6333333,
+      "lng": -172.6333333
+    },
+    {
+      "cityName": "Falealupo",
+      "lat": -13.5,
+      "lng": -172.8
+    },
+    {
+      "cityName": "Faleapuna",
+      "lat": -13.8666667,
+      "lng": -171.5666667
+    },
+    {
+      "cityName": "Falease`ela",
+      "lat": -13.9166667,
+      "lng": -171.9333333
+    },
+    {
+      "cityName": "Faleasi`u",
+      "lat": -13.8,
+      "lng": -171.8833333
+    },
+    {
+      "cityName": "Faleata",
+      "lat": -13.8166667,
+      "lng": -171.7833333
+    },
+    {
+      "cityName": "Faleatiu",
+      "lat": -13.8166667,
+      "lng": -171.9333333
+    },
+    {
+      "cityName": "Falefa",
+      "lat": -13.8833333,
+      "lng": -171.55
+    },
+    {
+      "cityName": "Falelatai",
+      "lat": -13.9166667,
+      "lng": -171.9833333
+    },
+    {
+      "cityName": "Falelatai Reef",
+      "lat": -13.9333333,
+      "lng": -172.0333333
+    },
+    {
+      "cityName": "Falelima",
+      "lat": -13.5333333,
+      "lng": -172.6833333
+    },
+    {
+      "cityName": "Faleolo",
+      "lat": -13.8166667,
+      "lng": -171.9833333
+    },
+    {
+      "cityName": "Falepouma`a",
+      "lat": -13.9166667,
+      "lng": -171.7
+    },
+    {
+      "cityName": "Falepuga",
+      "lat": -13.85,
+      "lng": -172.0333333
+    },
+    {
+      "cityName": "Faleula",
+      "lat": -13.8,
+      "lng": -171.8
+    },
+    {
+      "cityName": "Faleulu",
+      "lat": -13.95,
+      "lng": -171.4166667
+    },
+    {
+      "cityName": "Falevao",
+      "lat": -13.9,
+      "lng": -171.5333333
+    },
+    {
+      "cityName": "Fatuvalu",
+      "lat": -13.4666667,
+      "lng": -172.4166667
+    },
+    {
+      "cityName": "Fausaga",
+      "lat": -14.0166667,
+      "lng": -171.8
+    },
+    {
+      "cityName": "Foailalo",
+      "lat": -13.6666667,
+      "lng": -172.5666667
+    },
+    {
+      "cityName": "Foailuga",
+      "lat": -13.6666667,
+      "lng": -172.55
+    },
+    {
+      "cityName": "Fogasavaii",
+      "lat": -13.6333333,
+      "lng": -172.6
+    },
+    {
+      "cityName": "Fogatuli",
+      "lat": -13.6166667,
+      "lng": -172.6166667
+    },
+    {
+      "cityName": "Fuailalo",
+      "lat": -13.8333333,
+      "lng": -172.0166667
+    },
+    {
+      "cityName": "Fusi",
+      "lat": -14,
+      "lng": -171.8
+    },
+    {
+      "cityName": "Gaitavai",
+      "lat": -13.75,
+      "lng": -172.3833333
+    },
+    {
+      "cityName": "Gaogao",
+      "lat": -14.0166667,
+      "lng": -171.6333333
+    },
+    {
+      "cityName": "Gautavai",
+      "lat": -13.75,
+      "lng": -172.3666667
+    },
+    {
+      "cityName": "Iliili",
+      "lat": -14.0166667,
+      "lng": -171.7
+    },
+    {
+      "cityName": "Iva",
+      "lat": -13.6833333,
+      "lng": -172.1666667
+    },
+    {
+      "cityName": "Lalomalava",
+      "lat": -13.7,
+      "lng": -172.1333333
+    },
+    {
+      "cityName": "Lalomanu",
+      "lat": -14,
+      "lng": -171.4
+    },
+    {
+      "cityName": "Lalomauga",
+      "lat": -13.9,
+      "lng": -171.5666667
+    },
+    {
+      "cityName": "Lanafala",
+      "lat": -13.9,
+      "lng": -171.75
+    },
+    {
+      "cityName": "Lano",
+      "lat": -13.6,
+      "lng": -172.1333333
+    },
+    {
+      "cityName": "Lara Lafa",
+      "lat": -13.85,
+      "lng": -171.7333333
+    },
+    {
+      "cityName": "Lataiuta",
+      "lat": -13.7166667,
+      "lng": -172.5166667
+    },
+    {
+      "cityName": "Lata",
+      "lat": -14.0166667,
+      "lng": -171.3833333
+    },
+    {
+      "cityName": "Lauli`i",
+      "lat": -13.85,
+      "lng": -171.6833333
+    },
+    {
+      "cityName": "Leagiaga",
+      "lat": -13.45,
+      "lng": -172.4
+    },
+    {
+      "cityName": "Lealaalii",
+      "lat": -13.8,
+      "lng": -171.9
+    },
+    {
+      "cityName": "Leauva`a",
+      "lat": -13.8,
+      "lng": -171.85
+    },
+    {
+      "cityName": "Leaveave",
+      "lat": -13.7333333,
+      "lng": -172.5333333
+    },
+    {
+      "cityName": "Lefaga",
+      "lat": -14.0333333,
+      "lng": -171.45
+    },
+    {
+      "cityName": "Lelepa",
+      "lat": -13.45,
+      "lng": -172.3333333
+    },
+    {
+      "cityName": "Lepa",
+      "lat": -14,
+      "lng": -171.45
+    },
+    {
+      "cityName": "Lepea",
+      "lat": -13.8333333,
+      "lng": -171.7833333
+    },
+    {
+      "cityName": "Letaupe",
+      "lat": -14.0166667,
+      "lng": -171.5333333
+    },
+    {
+      "cityName": "Letogo",
+      "lat": -13.8333333,
+      "lng": -171.7
+    },
+    {
+      "cityName": "Letui",
+      "lat": -13.4666667,
+      "lng": -172.4666667
+    },
+    {
+      "cityName": "Leusoalii",
+      "lat": -13.85,
+      "lng": -171.6666667
+    },
+    {
+      "cityName": "Lona",
+      "lat": -13.9166667,
+      "lng": -171.4666667
+    },
+    {
+      "cityName": "Lotofaga",
+      "lat": -13.9833333,
+      "lng": -171.8333333
+    },
+    {
+      "cityName": "Luatuanu`u",
+      "lat": -13.85,
+      "lng": -171.65
+    },
+    {
+      "cityName": "Lufilufi",
+      "lat": -13.85,
+      "lng": -171.5833333
+    },
+    {
+      "cityName": "Maasina",
+      "lat": -13.9166667,
+      "lng": -171.5
+    },
+    {
+      "cityName": "Mafafa",
+      "lat": -13.9333333,
+      "lng": -171.95
+    },
+    {
+      "cityName": "Magiagi",
+      "lat": -13.85,
+      "lng": -171.7166667
+    },
+    {
+      "cityName": "Magia",
+      "lat": -13.8166667,
+      "lng": -171.9666667
+    },
+    {
+      "cityName": "Malaemalu",
+      "lat": -14.0166667,
+      "lng": -171.6166667
+    },
+    {
+      "cityName": "Malaeola",
+      "lat": -13.4833333,
+      "lng": -172.25
+    },
+    {
+      "cityName": "Manase",
+      "lat": -13.4333333,
+      "lng": -172.3666667
+    },
+    {
+      "cityName": "Maniani",
+      "lat": -13.8333333,
+      "lng": -171.7666667
+    },
+    {
+      "cityName": "Maninoa",
+      "lat": -14.0166667,
+      "lng": -171.7833333
+    },
+    {
+      "cityName": "Matafele",
+      "lat": -13.8166667,
+      "lng": -171.7666667
+    },
+    {
+      "cityName": "Matailiili",
+      "lat": -13.8,
+      "lng": -171.9166667
+    },
+    {
+      "cityName": "Matautu",
+      "lat": -13.8166667,
+      "lng": -171.7333333
+    },
+    {
+      "cityName": "Moata`a",
+      "lat": -13.8166667,
+      "lng": -171.7166667
+    },
+    {
+      "cityName": "Muliatele",
+      "lat": -13.9833333,
+      "lng": -171.3666667
+    },
+    {
+      "cityName": "Mulifanua",
+      "lat": -13.8333333,
+      "lng": -171.9833333
+    },
+    {
+      "cityName": "Mulinuu",
+      "lat": -13.8166667,
+      "lng": -171.75
+    },
+    {
+      "cityName": "Musumusu",
+      "lat": -13.8833333,
+      "lng": -171.5
+    },
+    {
+      "cityName": "Namo",
+      "lat": -13.8666667,
+      "lng": -171.6333333
+    },
+    {
+      "cityName": "Nefunefu",
+      "lat": -13.9166667,
+      "lng": -172
+    },
+    {
+      "cityName": "Neiafu",
+      "lat": -13.5166667,
+      "lng": -172.7166667
+    },
+    {
+      "cityName": "Niusuatia",
+      "lat": -13.9666667,
+      "lng": -171.8
+    },
+    {
+      "cityName": "Nu`u",
+      "lat": -13.7666667,
+      "lng": -172.4333333
+    },
+    {
+      "cityName": "Olofetu",
+      "lat": -13.4666667,
+      "lng": -172.65
+    },
+    {
+      "cityName": "Paia",
+      "lat": -13.4666667,
+      "lng": -172.4
+    },
+    {
+      "cityName": "Palauli",
+      "lat": -13.7333333,
+      "lng": -172.2666667
+    },
+    {
+      "cityName": "Papa",
+      "lat": -13.4666667,
+      "lng": -172.7
+    },
+    {
+      "cityName": "Papaseea",
+      "lat": -13.85,
+      "lng": -171.75
+    },
+    {
+      "cityName": "Patamea",
+      "lat": -13.4833333,
+      "lng": -172.2666667
+    },
+    {
+      "cityName": "Piula",
+      "lat": -13.85,
+      "lng": -171.55
+    },
+    {
+      "cityName": "Piu",
+      "lat": -14,
+      "lng": -171.5666667
+    },
+    {
+      "cityName": "Poutasi",
+      "lat": -14.0166667,
+      "lng": -171.6833333
+    },
+    {
+      "cityName": "Pu`apu`a",
+      "lat": -13.5833333,
+      "lng": -172.2166667
+    },
+    {
+      "cityName": "Puleia",
+      "lat": -13.75,
+      "lng": -172.35
+    },
+    {
+      "cityName": "Saanapu",
+      "lat": -13.9833333,
+      "lng": -171.8666667
+    },
+    {
+      "cityName": "Saasaai",
+      "lat": -13.6166667,
+      "lng": -172.1333333
+    },
+    {
+      "cityName": "Safaato`a",
+      "lat": -13.9333333,
+      "lng": -171.9333333
+    },
+    {
+      "cityName": "Safatulafei",
+      "lat": -13.6666667,
+      "lng": -172.1166667
+    },
+    {
+      "cityName": "Sagone",
+      "lat": -13.65,
+      "lng": -172.5833333
+    },
+    {
+      "cityName": "Sala`ilua",
+      "lat": -13.6833333,
+      "lng": -172.5666667
+    },
+    {
+      "cityName": "Salamumu",
+      "lat": -13.9666667,
+      "lng": -171.9166667
+    },
+    {
+      "cityName": "Salani",
+      "lat": -14,
+      "lng": -171.55
+    },
+    {
+      "cityName": "Saleaaumua",
+      "lat": -13.9666667,
+      "lng": -171.3666667
+    },
+    {
+      "cityName": "Saleapaga",
+      "lat": -13.8666667,
+      "lng": -171.5333333
+    },
+    {
+      "cityName": "Saleaula",
+      "lat": -13.4333333,
+      "lng": -172.3333333
+    },
+    {
+      "cityName": "Sale`imoa",
+      "lat": -13.8,
+      "lng": -171.8666667
+    },
+    {
+      "cityName": "Salelavalu",
+      "lat": -13.7166667,
+      "lng": -172.15
+    },
+    {
+      "cityName": "Salelologa",
+      "lat": -13.7333333,
+      "lng": -172.1666667
+    },
+    {
+      "cityName": "Salimu",
+      "lat": -13.65,
+      "lng": -172.1166667
+    },
+    {
+      "cityName": "Sama`i",
+      "lat": -13.9166667,
+      "lng": -171.9666667
+    },
+    {
+      "cityName": "Samalaeulu",
+      "lat": -13.4666667,
+      "lng": -172.2666667
+    },
+    {
+      "cityName": "Samamea",
+      "lat": -13.9,
+      "lng": -171.4666667
+    },
+    {
+      "cityName": "Samataitai",
+      "lat": -13.6,
+      "lng": -172.6333333
+    },
+    {
+      "cityName": "Samatau",
+      "lat": -13.9,
+      "lng": -172.0333333
+    },
+    {
+      "cityName": "Samauga",
+      "lat": -13.9166667,
+      "lng": -171.5666667
+    },
+    {
+      "cityName": "Saninoga",
+      "lat": -13.9333333,
+      "lng": -171.8166667
+    },
+    {
+      "cityName": "Sapapalii",
+      "lat": -13.6833333,
+      "lng": -172.1166667
+    },
+    {
+      "cityName": "Sapo`e",
+      "lat": -14.0166667,
+      "lng": -171.55
+    },
+    {
+      "cityName": "Sasina",
+      "lat": -13.45,
+      "lng": -172.4333333
+    },
+    {
+      "cityName": "Satalo",
+      "lat": -14.0166667,
+      "lng": -171.5833333
+    },
+    {
+      "cityName": "Satapuala",
+      "lat": -13.8333333,
+      "lng": -171.9666667
+    },
+    {
+      "cityName": "Sataua",
+      "lat": -13.4666667,
+      "lng": -172.6666667
+    },
+    {
+      "cityName": "Satufia",
+      "lat": -13.7666667,
+      "lng": -172.3
+    },
+    {
+      "cityName": "Satuiatua",
+      "lat": -13.6833333,
+      "lng": -172.55
+    },
+    {
+      "cityName": "Satupa`itea",
+      "lat": -13.75,
+      "lng": -172.3
+    },
+    {
+      "cityName": "Saumaga",
+      "lat": -13.4333333,
+      "lng": -172.4
+    },
+    {
+      "cityName": "Sili",
+      "lat": -13.7166667,
+      "lng": -172.35
+    },
+    {
+      "cityName": "Siupapa",
+      "lat": -14.0166667,
+      "lng": -171.45
+    },
+    {
+      "cityName": "Siusega",
+      "lat": -13.8333333,
+      "lng": -171.8166667
+    },
+    {
+      "cityName": "Siuvao",
+      "lat": -13.5666667,
+      "lng": -172.6666667
+    },
+    {
+      "cityName": "Solomea",
+      "lat": -13.4833333,
+      "lng": -172.2
+    },
+    {
+      "cityName": "Solosolo",
+      "lat": -13.85,
+      "lng": -171.6
+    },
+    {
+      "cityName": "Tafagamanu",
+      "lat": -13.95,
+      "lng": -171.9166667
+    },
+    {
+      "cityName": "Tafatafa",
+      "lat": -14.0166667,
+      "lng": -171.65
+    },
+    {
+      "cityName": "Tafua",
+      "lat": -13.7833333,
+      "lng": -172.2166667
+    },
+    {
+      "cityName": "Taga",
+      "lat": -13.7666667,
+      "lng": -172.4666667
+    },
+    {
+      "cityName": "Tapueleele",
+      "lat": -13.6333333,
+      "lng": -172.1666667
+    },
+    {
+      "cityName": "Tiapapata",
+      "lat": -13.8833333,
+      "lng": -171.7333333
+    },
+    {
+      "cityName": "Tiapepe",
+      "lat": -13.8,
+      "lng": -171.7833333
+    },
+    {
+      "cityName": "Ti' Avea",
+      "lat": -13.95,
+      "lng": -171.4
+    },
+    {
+      "cityName": "Tiavi",
+      "lat": -13.9166667,
+      "lng": -171.75
+    },
+    {
+      "cityName": "Tuana`i",
+      "lat": -13.8,
+      "lng": -171.8333333
+    },
+    {
+      "cityName": "Tufutafoe",
+      "lat": -13.4833333,
+      "lng": -172.7666667
+    },
+    {
+      "cityName": "Tufu",
+      "lat": -13.7666667,
+      "lng": -172.3666667
+    },
+    {
+      "cityName": "Tuiolemu",
+      "lat": -14.0166667,
+      "lng": -171.4333333
+    },
+    {
+      "cityName": "Tulivae",
+      "lat": -13.8833333,
+      "lng": -172.05
+    },
+    {
+      "cityName": "Uafato",
+      "lat": -13.9333333,
+      "lng": -171.4333333
+    },
+    {
+      "cityName": "Uliamoa",
+      "lat": -13.6833333,
+      "lng": -172.3166667
+    },
+    {
+      "cityName": "Ulutogia",
+      "lat": -14,
+      "lng": -171.3833333
+    },
+    {
+      "cityName": "Utuavanua",
+      "lat": -13.7833333,
+      "lng": -171.8166667
+    },
+    {
+      "cityName": "Vaialoa",
+      "lat": -13.7333333,
+      "lng": -172.2833333
+    },
+    {
+      "cityName": "Vaiee",
+      "lat": -14,
+      "lng": -171.8166667
+    },
+    {
+      "cityName": "Vaigaga",
+      "lat": -13.8166667,
+      "lng": -171.8
+    },
+    {
+      "cityName": "Vailima",
+      "lat": -13.8666667,
+      "lng": -171.7333333
+    },
+    {
+      "cityName": "Vailutai",
+      "lat": -13.8166667,
+      "lng": -171.95
+    },
+    {
+      "cityName": "Vaipouli",
+      "lat": -13.45,
+      "lng": -172.35
+    },
+    {
+      "cityName": "Vaipua",
+      "lat": -13.6333333,
+      "lng": -172.6166667
+    },
+    {
+      "cityName": "Vaisala",
+      "lat": -13.4666667,
+      "lng": -172.6166667
+    },
+    {
+      "cityName": "Vaitupua",
+      "lat": -13.5,
+      "lng": -172.7833333
+    },
+    {
+      "cityName": "Vavau",
+      "lat": -14.0166667,
+      "lng": -171.4833333
+    }
+  ],
+  "regionList": null,
+  "geoRectangle": {
+    "West": -172.798614502,
+    "East": -171.415725708,
+    "North": -13.4322052002,
+    "South": -14.0409402847
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -11,
+    "Flg": 2,
+    "Name": "Apia",
+    "GeoPt": [
+      -13.5,
+      -171.44
+    ]
+  }
+}

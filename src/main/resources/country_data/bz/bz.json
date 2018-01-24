@@ -1,0 +1,47 @@
+{
+  "name": "Belize",
+  "iso2": "bz",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Belize",
+      "id": 0
+    },
+    {
+      "name": "Cayo",
+      "id": 1
+    },
+    {
+      "name": "Corozal",
+      "id": 2
+    },
+    {
+      "name": "Orange Walk",
+      "id": 3
+    },
+    {
+      "name": "Stann Creek",
+      "id": 4
+    },
+    {
+      "name": "Toledo",
+      "id": 5
+    }
+  ],
+  "geoRectangle": {
+    "West": -89.224822998,
+    "East": -87.7769699097,
+    "North": 18.4965591431,
+    "South": 15.889298439
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -6,
+    "Flg": 2,
+    "Name": "Belmopan",
+    "GeoPt": [
+      17.15,
+      -88.46
+    ]
+  }
+}

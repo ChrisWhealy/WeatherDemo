@@ -1,0 +1,865 @@
+{
+  "name": "Enugu",
+  "cities": [
+    {
+      "cityName": "Abaja-Awwa",
+      "lat": 6.3666667,
+      "lng": 7.3
+    },
+    {
+      "cityName": "Abaw-Ogugu",
+      "lat": 6.25,
+      "lng": 7.4666667
+    },
+    {
+      "cityName": "Abia",
+      "lat": 6.3333333,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Abi",
+      "lat": 6.8333333,
+      "lng": 7.2333333
+    },
+    {
+      "cityName": "Abo",
+      "lat": 6.4666667,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Abodow-Isu",
+      "lat": 6.2333333,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Abonuzu",
+      "lat": 6.3833333,
+      "lng": 7.3333333
+    },
+    {
+      "cityName": "Achalla Owa Olo",
+      "lat": 6.45,
+      "lng": 7.25
+    },
+    {
+      "cityName": "Adaba",
+      "lat": 6.6166667,
+      "lng": 7.1333333
+    },
+    {
+      "cityName": "Adda",
+      "lat": 6.9,
+      "lng": 7.5666667
+    },
+    {
+      "cityName": "Afa",
+      "lat": 6.5833333,
+      "lng": 7.3333333
+    },
+    {
+      "cityName": "Aforoye",
+      "lat": 6.4333333,
+      "lng": 7.3
+    },
+    {
+      "cityName": "Afor Ugwu",
+      "lat": 6.3666667,
+      "lng": 7.2666667
+    },
+    {
+      "cityName": "Agamede",
+      "lat": 6.7333333,
+      "lng": 7.7666667
+    },
+    {
+      "cityName": "Agbani",
+      "lat": 6.3166667,
+      "lng": 7.55
+    },
+    {
+      "cityName": "Agobi Iwolu",
+      "lat": 6.4333333,
+      "lng": 7.2333333
+    },
+    {
+      "cityName": "Akama Oye",
+      "lat": 6.45,
+      "lng": 7.3166667
+    },
+    {
+      "cityName": "Akpakume",
+      "lat": 6.65,
+      "lng": 7.3
+    },
+    {
+      "cityName": "Akpochi",
+      "lat": 6.75,
+      "lng": 7.5833333
+    },
+    {
+      "cityName": "Akpoga",
+      "lat": 6.8333333,
+      "lng": 7.6166667
+    },
+    {
+      "cityName": "Akpoga Ndiagu",
+      "lat": 6.8166667,
+      "lng": 7.6166667
+    },
+    {
+      "cityName": "Akpugo",
+      "lat": 6.3333333,
+      "lng": 7.6
+    },
+    {
+      "cityName": "Akpugu",
+      "lat": 6.7166667,
+      "lng": 7.2833333
+    },
+    {
+      "cityName": "Aku",
+      "lat": 6.7,
+      "lng": 7.3333333
+    },
+    {
+      "cityName": "Akwebe",
+      "lat": 6.7166667,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Amagunze",
+      "lat": 6.3333333,
+      "lng": 7.65
+    },
+    {
+      "cityName": "Amankwo",
+      "lat": 6.45,
+      "lng": 7.3
+    },
+    {
+      "cityName": "Amankwor Oye",
+      "lat": 6.4833333,
+      "lng": 7.25
+    },
+    {
+      "cityName": "Amansiodo",
+      "lat": 6.4666667,
+      "lng": 7.2833333
+    },
+    {
+      "cityName": "Amaofu",
+      "lat": 6.15,
+      "lng": 7.6833333
+    },
+    {
+      "cityName": "Amaowele",
+      "lat": 6.1833333,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Ameke",
+      "lat": 6.45,
+      "lng": 7.4
+    },
+    {
+      "cityName": "Amokwe",
+      "lat": 6.3,
+      "lng": 7.3666667
+    },
+    {
+      "cityName": "Amono",
+      "lat": 6.7666667,
+      "lng": 7.2
+    },
+    {
+      "cityName": "Amurri",
+      "lat": 6.2666667,
+      "lng": 7.5166667
+    },
+    {
+      "cityName": "Atugbuoma",
+      "lat": 6.3666667,
+      "lng": 7.5
+    },
+    {
+      "cityName": "Awba",
+      "lat": 6.85,
+      "lng": 7.45
+    },
+    {
+      "cityName": "Awgu",
+      "lat": 6.0666667,
+      "lng": 7.4833333
+    },
+    {
+      "cityName": "Awhum",
+      "lat": 6.5333333,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Ebe",
+      "lat": 6.4833333,
+      "lng": 7.3833333
+    },
+    {
+      "cityName": "Edema",
+      "lat": 6.4666667,
+      "lng": 7.75
+    },
+    {
+      "cityName": "Effokwa",
+      "lat": 6.5833333,
+      "lng": 7.5333333
+    },
+    {
+      "cityName": "Egede",
+      "lat": 6.55,
+      "lng": 7.3666667
+    },
+    {
+      "cityName": "Egedegebe",
+      "lat": 6.5833333,
+      "lng": 7.7666667
+    },
+    {
+      "cityName": "Eha Alumona",
+      "lat": 6.8333333,
+      "lng": 7.45
+    },
+    {
+      "cityName": "Eha Amufu",
+      "lat": 6.6666667,
+      "lng": 7.7666667
+    },
+    {
+      "cityName": "Ehandiagu",
+      "lat": 6.8,
+      "lng": 7.5666667
+    },
+    {
+      "cityName": "Eke",
+      "lat": 6.45,
+      "lng": 7.3666667
+    },
+    {
+      "cityName": "Eke Ugwu",
+      "lat": 6.4,
+      "lng": 7.3
+    },
+    {
+      "cityName": "Emene",
+      "lat": 6.4833333,
+      "lng": 7.5666667
+    },
+    {
+      "cityName": "Emezu",
+      "lat": 6.5666667,
+      "lng": 7.75
+    },
+    {
+      "cityName": "Enuga",
+      "lat": 6.4333333,
+      "lng": 7.4833333
+    },
+    {
+      "cityName": "Enugu Ngwo",
+      "lat": 6.4166667,
+      "lng": 7.4333333
+    },
+    {
+      "cityName": "Ezeagu",
+      "lat": 6.3833333,
+      "lng": 7.2833333
+    },
+    {
+      "cityName": "Ezimo",
+      "lat": 6.8666667,
+      "lng": 7.5333333
+    },
+    {
+      "cityName": "Ezingbo",
+      "lat": 6.7333333,
+      "lng": 7.5666667
+    },
+    {
+      "cityName": "Ezza Agu",
+      "lat": 6.2666667,
+      "lng": 7.7333333
+    },
+    {
+      "cityName": "Ibegwa Ani",
+      "lat": 6.9,
+      "lng": 7.3333333
+    },
+    {
+      "cityName": "Idedu",
+      "lat": 6.3166667,
+      "lng": 7.4
+    },
+    {
+      "cityName": "Idi",
+      "lat": 6.7666667,
+      "lng": 7.4333333
+    },
+    {
+      "cityName": "Idodo",
+      "lat": 6.4666667,
+      "lng": 7.7166667
+    },
+    {
+      "cityName": "Igbo Etiti",
+      "lat": 6.7333333,
+      "lng": 7.2666667
+    },
+    {
+      "cityName": "Igulala",
+      "lat": 6.7666667,
+      "lng": 7.05
+    },
+    {
+      "cityName": "Igwugwa",
+      "lat": 6.8833333,
+      "lng": 7.5
+    },
+    {
+      "cityName": "Ihe",
+      "lat": 6.2333333,
+      "lng": 7.4666667
+    },
+    {
+      "cityName": "Iheuokpara",
+      "lat": 6.3166667,
+      "lng": 7.6666667
+    },
+    {
+      "cityName": "Ikem",
+      "lat": 6.7833333,
+      "lng": 7.7
+    },
+    {
+      "cityName": "Ikem Nkwor",
+      "lat": 6.8166667,
+      "lng": 7.75
+    },
+    {
+      "cityName": "Ikem Omuaram",
+      "lat": 6.7666667,
+      "lng": 7.7166667
+    },
+    {
+      "cityName": "Ikolo",
+      "lat": 6.6833333,
+      "lng": 7.35
+    },
+    {
+      "cityName": "Ikwoka",
+      "lat": 6.8166667,
+      "lng": 7.35
+    },
+    {
+      "cityName": "Imilike",
+      "lat": 6.8833333,
+      "lng": 7.4833333
+    },
+    {
+      "cityName": "Iseagu",
+      "lat": 6.7666667,
+      "lng": 7.55
+    },
+    {
+      "cityName": "Isu",
+      "lat": 6.7333333,
+      "lng": 7.7333333
+    },
+    {
+      "cityName": "Ituku",
+      "lat": 6.2833333,
+      "lng": 7.45
+    },
+    {
+      "cityName": "Iwollo Oye",
+      "lat": 6.45,
+      "lng": 7.2833333
+    },
+    {
+      "cityName": "Leja",
+      "lat": 6.75,
+      "lng": 7.3666667
+    },
+    {
+      "cityName": "Leke-Awnueme",
+      "lat": 6.7166667,
+      "lng": 7.65
+    },
+    {
+      "cityName": "Like",
+      "lat": 6.9,
+      "lng": 7.4833333
+    },
+    {
+      "cityName": "Maku",
+      "lat": 6.1166667,
+      "lng": 7.45
+    },
+    {
+      "cityName": "Mbalaze",
+      "lat": 6.1833333,
+      "lng": 7.7166667
+    },
+    {
+      "cityName": "Mberubu",
+      "lat": 6.1666667,
+      "lng": 7.6166667
+    },
+    {
+      "cityName": "Mbu",
+      "lat": 6.8,
+      "lng": 7.6
+    },
+    {
+      "cityName": "Mgbidi",
+      "lat": 6.0833333,
+      "lng": 7.45
+    },
+    {
+      "cityName": "Mgbo",
+      "lat": 6.1,
+      "lng": 7.5166667
+    },
+    {
+      "cityName": "Nachi (1)",
+      "lat": 6.3,
+      "lng": 7.3166667
+    },
+    {
+      "cityName": "Nachi (2)",
+      "lat": 6.2833333,
+      "lng": 7.3333333
+    },
+    {
+      "cityName": "Nara",
+      "lat": 6.2166667,
+      "lng": 7.65
+    },
+    {
+      "cityName": "Ndiaga Akpugu",
+      "lat": 6.3666667,
+      "lng": 7.6
+    },
+    {
+      "cityName": "Ndiago",
+      "lat": 6.5,
+      "lng": 7.7
+    },
+    {
+      "cityName": "Ndiagu",
+      "lat": 6.2166667,
+      "lng": 7.7666667
+    },
+    {
+      "cityName": "Nebo",
+      "lat": 6.8166667,
+      "lng": 7.1666667
+    },
+    {
+      "cityName": "Nenwe",
+      "lat": 6.1166667,
+      "lng": 7.5166667
+    },
+    {
+      "cityName": "Ngalakwu",
+      "lat": 6.7,
+      "lng": 7.4
+    },
+    {
+      "cityName": "Ngbana Eze",
+      "lat": 6.2,
+      "lng": 7.7333333
+    },
+    {
+      "cityName": "Ngbanaocha",
+      "lat": 6.1666667,
+      "lng": 7.6833333
+    },
+    {
+      "cityName": "Ngeneugbo",
+      "lat": 6.1666667,
+      "lng": 7.4666667
+    },
+    {
+      "cityName": "Ngine",
+      "lat": 6.3666667,
+      "lng": 7.5333333
+    },
+    {
+      "cityName": "Ngwo Uno",
+      "lat": 6.4333333,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Nine Mile Corner",
+      "lat": 6.4166667,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Nkalago",
+      "lat": 6.4833333,
+      "lng": 7.7666667
+    },
+    {
+      "cityName": "Nkpologu",
+      "lat": 6.7666667,
+      "lng": 7.25
+    },
+    {
+      "cityName": "Nkwelegwu",
+      "lat": 6.7833333,
+      "lng": 7.1833333
+    },
+    {
+      "cityName": "Nkwe",
+      "lat": 6.0833333,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Nkwoida",
+      "lat": 6.4833333,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Nomeh",
+      "lat": 6.1666667,
+      "lng": 7.5833333
+    },
+    {
+      "cityName": "Nrobo",
+      "lat": 6.8333333,
+      "lng": 7.2833333
+    },
+    {
+      "cityName": "Nsude",
+      "lat": 6.4,
+      "lng": 7.4
+    },
+    {
+      "cityName": "Nsukka",
+      "lat": 6.8666667,
+      "lng": 7.3833333
+    },
+    {
+      "cityName": "Oba",
+      "lat": 6.3,
+      "lng": 7.5166667
+    },
+    {
+      "cityName": "Obeagu",
+      "lat": 6.15,
+      "lng": 7.45
+    },
+    {
+      "cityName": "Obego",
+      "lat": 6.6,
+      "lng": 7.7166667
+    },
+    {
+      "cityName": "Obeleagu",
+      "lat": 6.35,
+      "lng": 7.3666667
+    },
+    {
+      "cityName": "Obiagu",
+      "lat": 6.2833333,
+      "lng": 7.7333333
+    },
+    {
+      "cityName": "Obimo",
+      "lat": 6.8166667,
+      "lng": 7.3166667
+    },
+    {
+      "cityName": "Obinagu",
+      "lat": 6.2833333,
+      "lng": 7.4
+    },
+    {
+      "cityName": "Obina",
+      "lat": 6.15,
+      "lng": 7.7666667
+    },
+    {
+      "cityName": "Obinefu Nenwe",
+      "lat": 6.0833333,
+      "lng": 7.5833333
+    },
+    {
+      "cityName": "Obioma",
+      "lat": 6.3666667,
+      "lng": 7.4
+    },
+    {
+      "cityName": "Obodo Aba",
+      "lat": 6.8333333,
+      "lng": 7.6
+    },
+    {
+      "cityName": "Obolo Eke",
+      "lat": 6.8666667,
+      "lng": 7.6666667
+    },
+    {
+      "cityName": "Obolo",
+      "lat": 6.9166667,
+      "lng": 7.5166667
+    },
+    {
+      "cityName": "Obukpa",
+      "lat": 6.9,
+      "lng": 7.4
+    },
+    {
+      "cityName": "Ofoko",
+      "lat": 6.8833333,
+      "lng": 7.45
+    },
+    {
+      "cityName": "Ogbaho",
+      "lat": 6.5333333,
+      "lng": 7.6666667
+    },
+    {
+      "cityName": "Ogbaku Ndiagu",
+      "lat": 6.2,
+      "lng": 7.5
+    },
+    {
+      "cityName": "Ogbaku",
+      "lat": 6.1833333,
+      "lng": 7.5333333
+    },
+    {
+      "cityName": "Ogbede",
+      "lat": 6.6666667,
+      "lng": 7.3666667
+    },
+    {
+      "cityName": "Ogbo Uvuru",
+      "lat": 6.7,
+      "lng": 7.1833333
+    },
+    {
+      "cityName": "Ogo Ndago",
+      "lat": 6.8333333,
+      "lng": 7.7
+    },
+    {
+      "cityName": "Ogugu",
+      "lat": 6.1666667,
+      "lng": 7.4833333
+    },
+    {
+      "cityName": "Ogwuosie",
+      "lat": 6.3833333,
+      "lng": 7.3666667
+    },
+    {
+      "cityName": "Ohebo",
+      "lat": 6.7,
+      "lng": 7.3666667
+    },
+    {
+      "cityName": "Okinano",
+      "lat": 6.3833333,
+      "lng": 7.5
+    },
+    {
+      "cityName": "Okpata",
+      "lat": 6.5666667,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Okpogho",
+      "lat": 6.4333333,
+      "lng": 7.2666667
+    },
+    {
+      "cityName": "Okpuwa Imeze",
+      "lat": 6.4666667,
+      "lng": 7.25
+    },
+    {
+      "cityName": "Omanze",
+      "lat": 6.7833333,
+      "lng": 7.8666667
+    },
+    {
+      "cityName": "Omoniko",
+      "lat": 6.1666667,
+      "lng": 7.7833333
+    },
+    {
+      "cityName": "Onuankwo",
+      "lat": 6.5166667,
+      "lng": 7.7666667
+    },
+    {
+      "cityName": "Onuba",
+      "lat": 6.4666667,
+      "lng": 7.6166667
+    },
+    {
+      "cityName": "Opanda",
+      "lat": 6.8,
+      "lng": 7.1
+    },
+    {
+      "cityName": "Opi",
+      "lat": 6.7833333,
+      "lng": 7.4333333
+    },
+    {
+      "cityName": "Oruku",
+      "lat": 6.45,
+      "lng": 7.65
+    },
+    {
+      "cityName": "Osu",
+      "lat": 6.3333333,
+      "lng": 7.6666667
+    },
+    {
+      "cityName": "Overo",
+      "lat": 6.7833333,
+      "lng": 7.2166667
+    },
+    {
+      "cityName": "Owele",
+      "lat": 6.1833333,
+      "lng": 7.4666667
+    },
+    {
+      "cityName": "Owo",
+      "lat": 6.5,
+      "lng": 7.6833333
+    },
+    {
+      "cityName": "Ozala",
+      "lat": 6.3166667,
+      "lng": 7.4833333
+    },
+    {
+      "cityName": "Ozalla (2)",
+      "lat": 6.2833333,
+      "lng": 7.4833333
+    },
+    {
+      "cityName": "Udi",
+      "lat": 6.3166667,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Uduma",
+      "lat": 6.0833333,
+      "lng": 7.6333333
+    },
+    {
+      "cityName": "Ugbobo Ani",
+      "lat": 6.45,
+      "lng": 7.6333333
+    },
+    {
+      "cityName": "Ugboka",
+      "lat": 6.2166667,
+      "lng": 7.5666667
+    },
+    {
+      "cityName": "Ugbuokpara",
+      "lat": 6.1666667,
+      "lng": 7.45
+    },
+    {
+      "cityName": "Ugwuafor",
+      "lat": 6.3833333,
+      "lng": 7.6166667
+    },
+    {
+      "cityName": "Ukana",
+      "lat": 6.5,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Ukehe",
+      "lat": 6.65,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Ukpabi Nimbo",
+      "lat": 6.8,
+      "lng": 7.15
+    },
+    {
+      "cityName": "Ukpata",
+      "lat": 6.65,
+      "lng": 7.1666667
+    },
+    {
+      "cityName": "Ukpulugu",
+      "lat": 6.3666667,
+      "lng": 7.6166667
+    },
+    {
+      "cityName": "Umabo",
+      "lat": 6.8166667,
+      "lng": 7.5333333
+    },
+    {
+      "cityName": "Umeka",
+      "lat": 6.7333333,
+      "lng": 7.2
+    },
+    {
+      "cityName": "Umosigide",
+      "lat": 6.9,
+      "lng": 7.55
+    },
+    {
+      "cityName": "Umuabi",
+      "lat": 6.2833333,
+      "lng": 7.3666667
+    },
+    {
+      "cityName": "Umuaga",
+      "lat": 6.2666667,
+      "lng": 7.35
+    },
+    {
+      "cityName": "Umualo",
+      "lat": 6.6666667,
+      "lng": 7.6666667
+    },
+    {
+      "cityName": "Umuatugbuoma",
+      "lat": 6.35,
+      "lng": 7.5
+    },
+    {
+      "cityName": "Umu-Lumbe",
+      "lat": 6.6,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Umundi",
+      "lat": 6.9,
+      "lng": 7.5
+    },
+    {
+      "cityName": "Umunko",
+      "lat": 6.6833333,
+      "lng": 7.4166667
+    },
+    {
+      "cityName": "Uvru",
+      "lat": 6.75,
+      "lng": 7.2166667
+    }
+  ]
+}

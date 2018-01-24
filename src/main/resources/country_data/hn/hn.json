@@ -1,0 +1,95 @@
+{
+  "name": "Honduras",
+  "iso2": "hn",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Atlantida",
+      "id": 0
+    },
+    {
+      "name": "Choluteca",
+      "id": 1
+    },
+    {
+      "name": "Colon",
+      "id": 2
+    },
+    {
+      "name": "Comayagua",
+      "id": 3
+    },
+    {
+      "name": "Copan",
+      "id": 4
+    },
+    {
+      "name": "Cortes",
+      "id": 5
+    },
+    {
+      "name": "El Paraiso",
+      "id": 6
+    },
+    {
+      "name": "Francisco Morazan",
+      "id": 7
+    },
+    {
+      "name": "Gracias a Dios",
+      "id": 8
+    },
+    {
+      "name": "Intibuca",
+      "id": 9
+    },
+    {
+      "name": "Islas de la Bahia",
+      "id": 10
+    },
+    {
+      "name": "La Paz",
+      "id": 11
+    },
+    {
+      "name": "Lempira",
+      "id": 12
+    },
+    {
+      "name": "Ocotepeque",
+      "id": 13
+    },
+    {
+      "name": "Olancho",
+      "id": 14
+    },
+    {
+      "name": "Santa Barbara",
+      "id": 15
+    },
+    {
+      "name": "Valle",
+      "id": 16
+    },
+    {
+      "name": "Yoro",
+      "id": 17
+    }
+  ],
+  "geoRectangle": {
+    "West": -89.3508071899,
+    "East": -83.1553878784,
+    "North": 16.5102596283,
+    "South": 12.9824094772
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": -6,
+    "Flg": 2,
+    "Name": "Tegucigalpa",
+    "GeoPt": [
+      14.06,
+      -87.13
+    ]
+  }
+}

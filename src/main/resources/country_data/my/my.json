@@ -1,0 +1,83 @@
+{
+  "name": "Malaysia",
+  "iso2": "my",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Johor",
+      "id": 0
+    },
+    {
+      "name": "Kedah",
+      "id": 1
+    },
+    {
+      "name": "Kelantan",
+      "id": 2
+    },
+    {
+      "name": "Kuala Lumpur",
+      "id": 3
+    },
+    {
+      "name": "Labuan",
+      "id": 4
+    },
+    {
+      "name": "Melaka",
+      "id": 5
+    },
+    {
+      "name": "Negeri Sembilan",
+      "id": 6
+    },
+    {
+      "name": "Pahang",
+      "id": 7
+    },
+    {
+      "name": "Perak",
+      "id": 8
+    },
+    {
+      "name": "Perlis",
+      "id": 9
+    },
+    {
+      "name": "Pulau Pinang",
+      "id": 10
+    },
+    {
+      "name": "Sabah",
+      "id": 11
+    },
+    {
+      "name": "Sarawak",
+      "id": 12
+    },
+    {
+      "name": "Selangor",
+      "id": 13
+    },
+    {
+      "name": "Terengganu",
+      "id": 14
+    }
+  ],
+  "geoRectangle": {
+    "West": 99.6434402466,
+    "East": 119.26751709,
+    "North": 7.36341762543,
+    "South": 0.855221927166
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 8,
+    "Flg": 2,
+    "Name": "Kuala Lumpur",
+    "GeoPt": [
+      3.1,
+      101.42
+    ]
+  }
+}

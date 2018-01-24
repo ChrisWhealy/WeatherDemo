@@ -1,0 +1,590 @@
+{
+  "name": "Delta Amacuro",
+  "cities": [
+    {
+      "cityName": "Ajotejana",
+      "lat": 8.7141667,
+      "lng": -60.9452778
+    },
+    {
+      "cityName": "Araguabisi",
+      "lat": 9.1841667,
+      "lng": -61.0880556
+    },
+    {
+      "cityName": "Araguaimujo",
+      "lat": 8.7175,
+      "lng": -61.5552778
+    },
+    {
+      "cityName": "Araguao",
+      "lat": 9.1666667,
+      "lng": -61.0833333
+    },
+    {
+      "cityName": "Arawibisi",
+      "lat": 9.1438889,
+      "lng": -61.1066667
+    },
+    {
+      "cityName": "Asunción",
+      "lat": 8.4386111,
+      "lng": -61.6044444
+    },
+    {
+      "cityName": "Barranquilla",
+      "lat": 9.175,
+      "lng": -61.0955556
+    },
+    {
+      "cityName": "Bella Vista",
+      "lat": 8.7386111,
+      "lng": -60.8186111
+    },
+    {
+      "cityName": "Boca Araguabisi",
+      "lat": 9.3519444,
+      "lng": -60.9241667
+    },
+    {
+      "cityName": "Boca Araguáito",
+      "lat": 8.6833333,
+      "lng": -61.9941667
+    },
+    {
+      "cityName": "Boca de Araguao",
+      "lat": 8.6238889,
+      "lng": -61.7127778
+    },
+    {
+      "cityName": "Boca de Los Remolinos",
+      "lat": 8.6511111,
+      "lng": -61.9597222
+    },
+    {
+      "cityName": "Boca de Macareíto",
+      "lat": 8.9080556,
+      "lng": -61.9838889
+    },
+    {
+      "cityName": "Boca de Macareo",
+      "lat": 8.8261111,
+      "lng": -61.9969444
+    },
+    {
+      "cityName": "Bochinche",
+      "lat": 7.5666667,
+      "lng": -60.7333333
+    },
+    {
+      "cityName": "Cabañas",
+      "lat": 8.5166667,
+      "lng": -61.7833333
+    },
+    {
+      "cityName": "Caño Mánamo",
+      "lat": 9.4333333,
+      "lng": -62.4
+    },
+    {
+      "cityName": "Capure",
+      "lat": 9.9663889,
+      "lng": -62.2525
+    },
+    {
+      "cityName": "Carapal de Guara",
+      "lat": 8.9163889,
+      "lng": -61.9872222
+    },
+    {
+      "cityName": "Casacoima",
+      "lat": 8.5663889,
+      "lng": -62.2211111
+    },
+    {
+      "cityName": "Casa Cuyubini",
+      "lat": 8.3166667,
+      "lng": -60.1833333
+    },
+    {
+      "cityName": "Clavelina",
+      "lat": 9.1688889,
+      "lng": -62.105
+    },
+    {
+      "cityName": "Coberuna",
+      "lat": 9.2769444,
+      "lng": -61.0858333
+    },
+    {
+      "cityName": "Coboina",
+      "lat": 9.1497222,
+      "lng": -61.0716667
+    },
+    {
+      "cityName": "Cochina",
+      "lat": 9.1011111,
+      "lng": -62.0638889
+    },
+    {
+      "cityName": "Cojoida",
+      "lat": 8.6555556,
+      "lng": -61.1797222
+    },
+    {
+      "cityName": "Consejo",
+      "lat": 8.7072222,
+      "lng": -62.0263889
+    },
+    {
+      "cityName": "Coporito Abajo",
+      "lat": 8.8905556,
+      "lng": -61.9888889
+    },
+    {
+      "cityName": "Cuajuno",
+      "lat": 8.9266667,
+      "lng": -60.8697222
+    },
+    {
+      "cityName": "Cuberina",
+      "lat": 8.5638889,
+      "lng": -61.2402778
+    },
+    {
+      "cityName": "Curiapo",
+      "lat": 8.5816667,
+      "lng": -60.9975
+    },
+    {
+      "cityName": "Dinamita",
+      "lat": 8.4686111,
+      "lng": -62.5230556
+    },
+    {
+      "cityName": "El Amparo",
+      "lat": 8.4808333,
+      "lng": -62.4619444
+    },
+    {
+      "cityName": "El Borobollón",
+      "lat": 9.2066667,
+      "lng": -61.0286111
+    },
+    {
+      "cityName": "El Guasey",
+      "lat": 8.4261111,
+      "lng": -61.1725
+    },
+    {
+      "cityName": "El Mosquero",
+      "lat": 8.7097222,
+      "lng": -61.7777778
+    },
+    {
+      "cityName": "El Muertico",
+      "lat": 9.0075,
+      "lng": -61.8194444
+    },
+    {
+      "cityName": "El Muerto",
+      "lat": 8.9533333,
+      "lng": -61.8505556
+    },
+    {
+      "cityName": "El Raudal",
+      "lat": 8.3833333,
+      "lng": -61.6833333
+    },
+    {
+      "cityName": "El Supamo",
+      "lat": 8.4933333,
+      "lng": -62.3797222
+    },
+    {
+      "cityName": "El Terror",
+      "lat": 8.0333333,
+      "lng": -60.4333333
+    },
+    {
+      "cityName": "El Tirital",
+      "lat": 9.0605556,
+      "lng": -61.8111111
+    },
+    {
+      "cityName": "El Toro",
+      "lat": 8.5105556,
+      "lng": -61.4877778
+    },
+    {
+      "cityName": "España",
+      "lat": 9.2663889,
+      "lng": -61.0880556
+    },
+    {
+      "cityName": "Faro de Barima",
+      "lat": 8.6,
+      "lng": -60.4
+    },
+    {
+      "cityName": "Geina",
+      "lat": 8.6297222,
+      "lng": -61.8852778
+    },
+    {
+      "cityName": "Guacara",
+      "lat": 8.5280556,
+      "lng": -61.9722222
+    },
+    {
+      "cityName": "Guamal",
+      "lat": 9.5166667,
+      "lng": -62.4166667
+    },
+    {
+      "cityName": "Guarajara",
+      "lat": 8.8666667,
+      "lng": -61.1
+    },
+    {
+      "cityName": "Guaranoco",
+      "lat": 9.6344444,
+      "lng": -62.2027778
+    },
+    {
+      "cityName": "Guarivaca",
+      "lat": 8.7486111,
+      "lng": -60.7791667
+    },
+    {
+      "cityName": "Güiniquina",
+      "lat": 9.165,
+      "lng": -61.1327778
+    },
+    {
+      "cityName": "Hermanas",
+      "lat": 8.4444444,
+      "lng": -61.6933333
+    },
+    {
+      "cityName": "Ibacuajarina",
+      "lat": 8.6036111,
+      "lng": -60.7277778
+    },
+    {
+      "cityName": "Imataca",
+      "lat": 8.4205556,
+      "lng": -61.3313889
+    },
+    {
+      "cityName": "Jamatuba",
+      "lat": 8.4402778,
+      "lng": -60.9588889
+    },
+    {
+      "cityName": "Jananobo",
+      "lat": 9.3052778,
+      "lng": -61.0869444
+    },
+    {
+      "cityName": "Jebucabanoco",
+      "lat": 9.2311111,
+      "lng": -60.8444444
+    },
+    {
+      "cityName": "Joana",
+      "lat": 9.0955556,
+      "lng": -60.9844444
+    },
+    {
+      "cityName": "Jobure",
+      "lat": 8.7497222,
+      "lng": -60.9075
+    },
+    {
+      "cityName": "Jotajana",
+      "lat": 8.7894444,
+      "lng": -60.8152778
+    },
+    {
+      "cityName": "Juaneyda",
+      "lat": 8.7769444,
+      "lng": -60.8158333
+    },
+    {
+      "cityName": "Juncalito",
+      "lat": 8.7261111,
+      "lng": -61.8727778
+    },
+    {
+      "cityName": "La Esperanza",
+      "lat": 8.4827778,
+      "lng": -61.9166667
+    },
+    {
+      "cityName": "La Horqueta",
+      "lat": 7.85,
+      "lng": -60.3166667
+    },
+    {
+      "cityName": "La Imperial",
+      "lat": 8.5263889,
+      "lng": -62.3797222
+    },
+    {
+      "cityName": "La Línea",
+      "lat": 8.3333333,
+      "lng": -59.8333333
+    },
+    {
+      "cityName": "La Margarita",
+      "lat": 8.0833333,
+      "lng": -60.9833333
+    },
+    {
+      "cityName": "La Portuguesa",
+      "lat": 8.6177778,
+      "lng": -61.7791667
+    },
+    {
+      "cityName": "La Represalia",
+      "lat": 8.5166667,
+      "lng": -61.6833333
+    },
+    {
+      "cityName": "Las Mulas",
+      "lat": 9.145,
+      "lng": -61.9886111
+    },
+    {
+      "cityName": "Las Piedras",
+      "lat": 8.15,
+      "lng": -60.9833333
+    },
+    {
+      "cityName": "La Tortuga",
+      "lat": 8.7466667,
+      "lng": -61.6944444
+    },
+    {
+      "cityName": "Los Angelitos",
+      "lat": 8.8013889,
+      "lng": -61.9663889
+    },
+    {
+      "cityName": "Los Castillitos",
+      "lat": 8.5163889,
+      "lng": -62.4063889
+    },
+    {
+      "cityName": "Los Güires",
+      "lat": 9.2497222,
+      "lng": -61.8891667
+    },
+    {
+      "cityName": "Macareo de Santo Niño",
+      "lat": 8.7991667,
+      "lng": -62.0547222
+    },
+    {
+      "cityName": "Manacal de Tórtola",
+      "lat": 8.6005556,
+      "lng": -62.1497222
+    },
+    {
+      "cityName": "Mataruca",
+      "lat": 8.7516667,
+      "lng": -60.8086111
+    },
+    {
+      "cityName": "Merejina",
+      "lat": 8.8763889,
+      "lng": -60.8575
+    },
+    {
+      "cityName": "Misión San Francisco de Guayo",
+      "lat": 9.0205556,
+      "lng": -60.8902778
+    },
+    {
+      "cityName": "Mora",
+      "lat": 8.9194444,
+      "lng": -60.88
+    },
+    {
+      "cityName": "Morichito",
+      "lat": 9.1805556,
+      "lng": -61.1044444
+    },
+    {
+      "cityName": "Morocoto",
+      "lat": 8.5355556,
+      "lng": -61.8622222
+    },
+    {
+      "cityName": "Muasimoina",
+      "lat": 8.7055556,
+      "lng": -60.7772222
+    },
+    {
+      "cityName": "Musimurina",
+      "lat": 9.0211111,
+      "lng": -61.1172222
+    },
+    {
+      "cityName": "Navasanuca",
+      "lat": 9.1447222,
+      "lng": -61.0566667
+    },
+    {
+      "cityName": "Orinanoco",
+      "lat": 9.0272222,
+      "lng": -61.0113889
+    },
+    {
+      "cityName": "Palencho",
+      "lat": 9.7022222,
+      "lng": -61.4519444
+    },
+    {
+      "cityName": "Palmito",
+      "lat": 8.7425,
+      "lng": -60.9058333
+    },
+    {
+      "cityName": "Palo Blanco",
+      "lat": 9.1672222,
+      "lng": -61.9469444
+    },
+    {
+      "cityName": "Palo Largo",
+      "lat": 8.9,
+      "lng": -61.3333333
+    },
+    {
+      "cityName": "Pedernales",
+      "lat": 9.9591667,
+      "lng": -62.2641667
+    },
+    {
+      "cityName": "Piacoa",
+      "lat": 8.5819444,
+      "lng": -62.1338889
+    },
+    {
+      "cityName": "Puchima Arriba",
+      "lat": 8.0166667,
+      "lng": -61.8833333
+    },
+    {
+      "cityName": "Pueblo Blanco",
+      "lat": 9.18,
+      "lng": -61.7997222
+    },
+    {
+      "cityName": "Puerto Luis",
+      "lat": 8.73,
+      "lng": -61.5580556
+    },
+    {
+      "cityName": "Rancherías Jana Cajamana",
+      "lat": 9.1777778,
+      "lng": -61.2013889
+    },
+    {
+      "cityName": "Repiques",
+      "lat": 7.75,
+      "lng": -60.65
+    },
+    {
+      "cityName": "Sacupana del Cerro",
+      "lat": 8.5725,
+      "lng": -61.6516667
+    },
+    {
+      "cityName": "San Antonio de Araguao",
+      "lat": 8.6991667,
+      "lng": -61.6016667
+    },
+    {
+      "cityName": "San Jose de Amacuro",
+      "lat": 8.2333333,
+      "lng": -59.9666667
+    },
+    {
+      "cityName": "San José de Macareíto",
+      "lat": 8.9333333,
+      "lng": -61.9658333
+    },
+    {
+      "cityName": "San Miguel Abajo",
+      "lat": 9.1469444,
+      "lng": -62.3222222
+    },
+    {
+      "cityName": "San Rafael de Curiapo",
+      "lat": 8.5447222,
+      "lng": -60.9575
+    },
+    {
+      "cityName": "San Salvador",
+      "lat": 8.9547222,
+      "lng": -62.0833333
+    },
+    {
+      "cityName": "Santa Catalina",
+      "lat": 8.5627778,
+      "lng": -61.8247222
+    },
+    {
+      "cityName": "Santa Clara",
+      "lat": 9.0186111,
+      "lng": -60.8466667
+    },
+    {
+      "cityName": "Santa Rosa",
+      "lat": 8.7666667,
+      "lng": -61.5502778
+    },
+    {
+      "cityName": "Siaguani",
+      "lat": 9.1719444,
+      "lng": -60.9494444
+    },
+    {
+      "cityName": "Soburojo",
+      "lat": 9.5444444,
+      "lng": -61.0397222
+    },
+    {
+      "cityName": "Tobabanuco",
+      "lat": 9.1163889,
+      "lng": -60.8372222
+    },
+    {
+      "cityName": "Tucupita",
+      "lat": 9.0686111,
+      "lng": -62.0491667
+    },
+    {
+      "cityName": "Varadero de Yaya",
+      "lat": 8.5591667,
+      "lng": -61.8536111
+    },
+    {
+      "cityName": "Vuelta de Los Indios",
+      "lat": 8.8038889,
+      "lng": -61.9472222
+    },
+    {
+      "cityName": "Vuelta Larga",
+      "lat": 9.1483333,
+      "lng": -61.8291667
+    },
+    {
+      "cityName": "Yaguaraco",
+      "lat": 8.8216667,
+      "lng": -61.5722222
+    }
+  ]
+}

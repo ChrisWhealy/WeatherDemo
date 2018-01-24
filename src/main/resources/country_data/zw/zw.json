@@ -1,0 +1,47 @@
+{
+  "name": "Zimbabwe",
+  "iso2": "zw",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Mashonaland Central",
+      "id": 0
+    },
+    {
+      "name": "Mashonaland East",
+      "id": 1
+    },
+    {
+      "name": "Masvingo",
+      "id": 2
+    },
+    {
+      "name": "Matabeleland North",
+      "id": 3
+    },
+    {
+      "name": "Matabeleland South",
+      "id": 4
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 5
+    }
+  ],
+  "geoRectangle": {
+    "West": 25.2370243073,
+    "East": 33.056312561,
+    "North": -15.608833313,
+    "South": -22.4177417755
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Harare",
+    "GeoPt": [
+      -17.5,
+      31.03
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Australia",
+  "iso2": "au",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Australian Capital Territory",
+      "id": 0
+    },
+    {
+      "name": "New South Wales",
+      "id": 1
+    },
+    {
+      "name": "Northern Territory",
+      "id": 2
+    },
+    {
+      "name": "Queensland",
+      "id": 3
+    },
+    {
+      "name": "South Australia",
+      "id": 4
+    },
+    {
+      "name": "Tasmania",
+      "id": 5
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 6
+    },
+    {
+      "name": "Victoria",
+      "id": 7
+    },
+    {
+      "name": "Western Australia",
+      "id": 8
+    }
+  ],
+  "geoRectangle": {
+    "West": 112.911048889,
+    "East": 153.639282227,
+    "North": -10.0628032684,
+    "South": -43.6439743042
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 10,
+    "Flg": 2,
+    "Name": "Canberra",
+    "GeoPt": [
+      -35.17,
+      149.13
+    ]
+  }
+}

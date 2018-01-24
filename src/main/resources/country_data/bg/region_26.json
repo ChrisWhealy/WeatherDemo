@@ -1,0 +1,645 @@
+{
+  "name": "Vidin",
+  "cities": [
+    {
+      "cityName": "Adlijo",
+      "lat": 43.8877778,
+      "lng": 22.5213889
+    },
+    {
+      "cityName": "Akcar",
+      "lat": 43.8111111,
+      "lng": 22.9183333
+    },
+    {
+      "cityName": "Aleksandrovo",
+      "lat": 43.7416667,
+      "lng": 22.7269444
+    },
+    {
+      "cityName": "Bela",
+      "lat": 43.7116667,
+      "lng": 22.7111111
+    },
+    {
+      "cityName": "Bela Rada",
+      "lat": 43.9763889,
+      "lng": 22.7577778
+    },
+    {
+      "cityName": "Belogradchik",
+      "lat": 43.6272222,
+      "lng": 22.6836111
+    },
+    {
+      "cityName": "Belo Pole",
+      "lat": 43.65,
+      "lng": 22.9011111
+    },
+    {
+      "cityName": "Beloptichene",
+      "lat": 43.6166667,
+      "lng": 22.8333333
+    },
+    {
+      "cityName": "Boinica",
+      "lat": 43.955,
+      "lng": 22.5316667
+    },
+    {
+      "cityName": "Borovica",
+      "lat": 43.5780556,
+      "lng": 22.7311111
+    },
+    {
+      "cityName": "Bosktan Machala",
+      "lat": 43.5666667,
+      "lng": 22.6833333
+    },
+    {
+      "cityName": "Botevo",
+      "lat": 43.8380556,
+      "lng": 22.8594444
+    },
+    {
+      "cityName": "Boyanovo",
+      "lat": 43.8752778,
+      "lng": 22.6886111
+    },
+    {
+      "cityName": "Brankovtsi",
+      "lat": 43.8266667,
+      "lng": 22.5658333
+    },
+    {
+      "cityName": "Bregovo",
+      "lat": 44.1516667,
+      "lng": 22.6425
+    },
+    {
+      "cityName": "Bukovets",
+      "lat": 43.9330556,
+      "lng": 22.7616667
+    },
+    {
+      "cityName": "Cherno Pole",
+      "lat": 43.6136111,
+      "lng": 22.9225
+    },
+    {
+      "cityName": "Chichil",
+      "lat": 43.9041667,
+      "lng": 22.6102778
+    },
+    {
+      "cityName": "Chiflik",
+      "lat": 43.5997222,
+      "lng": 22.6619444
+    },
+    {
+      "cityName": "Chorlevo",
+      "lat": 43.7,
+      "lng": 22.9666667
+    },
+    {
+      "cityName": "Chuprene",
+      "lat": 43.5180556,
+      "lng": 22.6661111
+    },
+    {
+      "cityName": "Dabrawka",
+      "lat": 43.6375,
+      "lng": 22.6225
+    },
+    {
+      "cityName": "Dafinintsi",
+      "lat": 43.6275,
+      "lng": 22.5908333
+    },
+    {
+      "cityName": "Dalgo-Pole",
+      "lat": 43.6958333,
+      "lng": 22.7772222
+    },
+    {
+      "cityName": "Darshaniza",
+      "lat": 43.8091667,
+      "lng": 22.8436111
+    },
+    {
+      "cityName": "Dolen Turchin",
+      "lat": 43.9575,
+      "lng": 22.6341667
+    },
+    {
+      "cityName": "Dolni Chiflik",
+      "lat": 43.6,
+      "lng": 22.6666667
+    },
+    {
+      "cityName": "Dolni Lom",
+      "lat": 43.5066667,
+      "lng": 22.7797222
+    },
+    {
+      "cityName": "Drashinzi",
+      "lat": 43.6313889,
+      "lng": 22.875
+    },
+    {
+      "cityName": "Dregichevi Kolibi",
+      "lat": 43.9497222,
+      "lng": 22.4155556
+    },
+    {
+      "cityName": "Drenovets",
+      "lat": 43.6933333,
+      "lng": 22.9808333
+    },
+    {
+      "cityName": "Druzhba",
+      "lat": 43.9988889,
+      "lng": 22.7175
+    },
+    {
+      "cityName": "Dubravata",
+      "lat": 43.7225,
+      "lng": 22.5358333
+    },
+    {
+      "cityName": "Dunavtsi",
+      "lat": 43.9211111,
+      "lng": 22.8211111
+    },
+    {
+      "cityName": "Falkovets",
+      "lat": 43.5927778,
+      "lng": 22.7780556
+    },
+    {
+      "cityName": "Fusovitsa",
+      "lat": 43.9,
+      "lng": 22.75
+    },
+    {
+      "cityName": "Gajtanzi",
+      "lat": 43.8319444,
+      "lng": 22.8119444
+    },
+    {
+      "cityName": "Gara Oreshets",
+      "lat": 43.6572222,
+      "lng": 22.7388889
+    },
+    {
+      "cityName": "General-Marinovo",
+      "lat": 43.9975,
+      "lng": 22.7441667
+    },
+    {
+      "cityName": "Gjuigitsch",
+      "lat": 43.5502778,
+      "lng": 22.8733333
+    },
+    {
+      "cityName": "Glotnitsi",
+      "lat": 43.8525,
+      "lng": 22.8416667
+    },
+    {
+      "cityName": "Golemanovo",
+      "lat": 43.9222222,
+      "lng": 22.4461111
+    },
+    {
+      "cityName": "Gol Tupan",
+      "lat": 43.8322222,
+      "lng": 22.7352778
+    },
+    {
+      "cityName": "Gorni Boshnyak",
+      "lat": 43.9869444,
+      "lng": 22.6219444
+    },
+    {
+      "cityName": "Gorni Chiflik",
+      "lat": 43.6,
+      "lng": 22.6333333
+    },
+    {
+      "cityName": "Gorni Lom",
+      "lat": 43.485,
+      "lng": 22.7475
+    },
+    {
+      "cityName": "Gorni Turchin",
+      "lat": 43.7663889,
+      "lng": 22.5580556
+    },
+    {
+      "cityName": "Gradskovski Kolibi",
+      "lat": 44,
+      "lng": 22.4333333
+    },
+    {
+      "cityName": "Gramada",
+      "lat": 43.8344444,
+      "lng": 22.6586111
+    },
+    {
+      "cityName": "Granichak",
+      "lat": 43.6427778,
+      "lng": 22.5877778
+    },
+    {
+      "cityName": "Granitovo",
+      "lat": 43.6786111,
+      "lng": 22.6913889
+    },
+    {
+      "cityName": "Gurkovo",
+      "lat": 43.9,
+      "lng": 22.8
+    },
+    {
+      "cityName": "Guzeliya",
+      "lat": 43.9902778,
+      "lng": 22.7330556
+    },
+    {
+      "cityName": "Iswor",
+      "lat": 43.75,
+      "lng": 22.8
+    },
+    {
+      "cityName": "Iswor Machla",
+      "lat": 43.8688889,
+      "lng": 22.4194444
+    },
+    {
+      "cityName": "Ivanovtsi",
+      "lat": 43.8625,
+      "lng": 22.7619444
+    },
+    {
+      "cityName": "Janjowez",
+      "lat": 43.6052778,
+      "lng": 22.7625
+    },
+    {
+      "cityName": "Jarlowiza",
+      "lat": 43.7477778,
+      "lng": 22.9027778
+    },
+    {
+      "cityName": "Jassen",
+      "lat": 44.1152778,
+      "lng": 22.8797222
+    },
+    {
+      "cityName": "Karbintsi",
+      "lat": 43.6763889,
+      "lng": 22.8405556
+    },
+    {
+      "cityName": "Khalovski Kolibi",
+      "lat": 43.9783333,
+      "lng": 22.4227778
+    },
+    {
+      "cityName": "Khana",
+      "lat": 43.9166667,
+      "lng": 22.8166667
+    },
+    {
+      "cityName": "Kireevo",
+      "lat": 43.7947222,
+      "lng": 22.3933333
+    },
+    {
+      "cityName": "Kladorub",
+      "lat": 43.7166667,
+      "lng": 22.6511111
+    },
+    {
+      "cityName": "Kolich",
+      "lat": 43.6333333,
+      "lng": 22.7666667
+    },
+    {
+      "cityName": "Kosta Perchevo",
+      "lat": 43.8530556,
+      "lng": 22.5925
+    },
+    {
+      "cityName": "Kostichovtsi",
+      "lat": 43.7152778,
+      "lng": 22.7791667
+    },
+    {
+      "cityName": "Krachemir",
+      "lat": 43.5841667,
+      "lng": 22.5572222
+    },
+    {
+      "cityName": "Krushaka",
+      "lat": 43.7161111,
+      "lng": 22.5225
+    },
+    {
+      "cityName": "Kutsarovtsi",
+      "lat": 43.6325,
+      "lng": 22.5225
+    },
+    {
+      "cityName": "Lagoschewzi",
+      "lat": 43.7741667,
+      "lng": 22.7766667
+    },
+    {
+      "cityName": "Makhala Spasova",
+      "lat": 43.7666667,
+      "lng": 22.7833333
+    },
+    {
+      "cityName": "Makresch",
+      "lat": 43.7680556,
+      "lng": 22.6638889
+    },
+    {
+      "cityName": "Mali Drenovets",
+      "lat": 43.7827778,
+      "lng": 22.8622222
+    },
+    {
+      "cityName": "Medeschewzi",
+      "lat": 43.8861111,
+      "lng": 22.6413889
+    },
+    {
+      "cityName": "Medovnica",
+      "lat": 43.655,
+      "lng": 22.7819444
+    },
+    {
+      "cityName": "Mekhmedovtsi",
+      "lat": 43.6833333,
+      "lng": 22.8333333
+    },
+    {
+      "cityName": "Milchina Luka",
+      "lat": 43.8875,
+      "lng": 22.6863889
+    },
+    {
+      "cityName": "Nikolniki",
+      "lat": 43.6494444,
+      "lng": 22.5936111
+    },
+    {
+      "cityName": "Novo Selo",
+      "lat": 44.1586111,
+      "lng": 22.7866667
+    },
+    {
+      "cityName": "Novoseltsi",
+      "lat": 43.9888889,
+      "lng": 22.8302778
+    },
+    {
+      "cityName": "Oreschez",
+      "lat": 43.6336111,
+      "lng": 22.7327778
+    },
+    {
+      "cityName": "Oschane",
+      "lat": 43.6894444,
+      "lng": 22.5505556
+    },
+    {
+      "cityName": "Ostrokaptsi",
+      "lat": 43.725,
+      "lng": 22.6858333
+    },
+    {
+      "cityName": "Perilovets",
+      "lat": 43.9944444,
+      "lng": 22.5422222
+    },
+    {
+      "cityName": "Plaschiwe",
+      "lat": 43.5938889,
+      "lng": 22.8266667
+    },
+    {
+      "cityName": "Podgore",
+      "lat": 43.7513889,
+      "lng": 22.49
+    },
+    {
+      "cityName": "Poletkovtsi",
+      "lat": 43.86,
+      "lng": 22.5191667
+    },
+    {
+      "cityName": "Praushda",
+      "lat": 43.6044444,
+      "lng": 22.5991667
+    },
+    {
+      "cityName": "Prolasniza",
+      "lat": 43.5825,
+      "lng": 22.6538889
+    },
+    {
+      "cityName": "Protopopintsi",
+      "lat": 43.5625,
+      "lng": 22.7505556
+    },
+    {
+      "cityName": "Purvolovski Kolibi",
+      "lat": 43.6297222,
+      "lng": 22.6019444
+    },
+    {
+      "cityName": "Rabisa",
+      "lat": 43.7172222,
+      "lng": 22.6002778
+    },
+    {
+      "cityName": "Rabishki Vrukh",
+      "lat": 43.7183333,
+      "lng": 22.5488889
+    },
+    {
+      "cityName": "Rajanowzi",
+      "lat": 43.7025,
+      "lng": 22.5227778
+    },
+    {
+      "cityName": "Rakovica",
+      "lat": 43.7661111,
+      "lng": 22.4763889
+    },
+    {
+      "cityName": "Repljana",
+      "lat": 43.5158333,
+      "lng": 22.7341667
+    },
+    {
+      "cityName": "Roglets",
+      "lat": 43.6702778,
+      "lng": 22.9333333
+    },
+    {
+      "cityName": "Rujintsi",
+      "lat": 43.6233333,
+      "lng": 22.8308333
+    },
+    {
+      "cityName": "Salach",
+      "lat": 43.6127778,
+      "lng": 22.5283333
+    },
+    {
+      "cityName": "Schipot",
+      "lat": 43.7319444,
+      "lng": 22.7952778
+    },
+    {
+      "cityName": "Schischenzi",
+      "lat": 43.9808333,
+      "lng": 22.4783333
+    },
+    {
+      "cityName": "Septemvriytsi",
+      "lat": 43.7608333,
+      "lng": 22.9463889
+    },
+    {
+      "cityName": "Shegliza",
+      "lat": 43.8802778,
+      "lng": 22.8
+    },
+    {
+      "cityName": "Shipikova Makhala",
+      "lat": 44,
+      "lng": 22.4666667
+    },
+    {
+      "cityName": "Sinagovtsi",
+      "lat": 43.8980556,
+      "lng": 22.7669444
+    },
+    {
+      "cityName": "Skomlja",
+      "lat": 43.68,
+      "lng": 22.7655556
+    },
+    {
+      "cityName": "Slana Bara",
+      "lat": 43.9697222,
+      "lng": 22.8063889
+    },
+    {
+      "cityName": "Slivovnik",
+      "lat": 43.6775,
+      "lng": 22.6438889
+    },
+    {
+      "cityName": "Sredogriv",
+      "lat": 43.5494444,
+      "lng": 22.7855556
+    },
+    {
+      "cityName": "Stakevci",
+      "lat": 43.5461111,
+      "lng": 22.5669444
+    },
+    {
+      "cityName": "Staropatitsa",
+      "lat": 43.8316667,
+      "lng": 22.4919444
+    },
+    {
+      "cityName": "Struindol",
+      "lat": 43.6727778,
+      "lng": 22.5780556
+    },
+    {
+      "cityName": "Stublitsa",
+      "lat": 43.7219444,
+      "lng": 22.5175
+    },
+    {
+      "cityName": "Targovishte",
+      "lat": 43.5322222,
+      "lng": 22.7030556
+    },
+    {
+      "cityName": "Tarnjane",
+      "lat": 43.9233333,
+      "lng": 22.7980556
+    },
+    {
+      "cityName": "Tolovitsa",
+      "lat": 43.7536111,
+      "lng": 22.5816667
+    },
+    {
+      "cityName": "Valchan",
+      "lat": 43.7847222,
+      "lng": 22.7138889
+    },
+    {
+      "cityName": "Veshtitsa",
+      "lat": 43.6822222,
+      "lng": 22.5916667
+    },
+    {
+      "cityName": "Vidine",
+      "lat": 43.99,
+      "lng": 22.8725
+    },
+    {
+      "cityName": "Vladichentsi",
+      "lat": 43.7819444,
+      "lng": 22.8497222
+    },
+    {
+      "cityName": "Vodna",
+      "lat": 43.8519444,
+      "lng": 22.7052778
+    },
+    {
+      "cityName": "Vodnyantsi",
+      "lat": 43.7002778,
+      "lng": 22.8658333
+    },
+    {
+      "cityName": "Voynitsa",
+      "lat": 43.9366667,
+      "lng": 22.6975
+    },
+    {
+      "cityName": "Vurba",
+      "lat": 43.6908333,
+      "lng": 22.6258333
+    },
+    {
+      "cityName": "Vurbovchets",
+      "lat": 43.6175,
+      "lng": 22.7677778
+    },
+    {
+      "cityName": "Vurbovo",
+      "lat": 43.5430556,
+      "lng": 22.6463889
+    },
+    {
+      "cityName": "Vurtop",
+      "lat": 43.8025,
+      "lng": 22.7905556
+    }
+  ]
+}

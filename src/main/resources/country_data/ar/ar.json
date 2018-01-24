@@ -1,0 +1,119 @@
+{
+  "name": "Argentina",
+  "iso2": "ar",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Buenos Aires",
+      "id": 0
+    },
+    {
+      "name": "Catamarca",
+      "id": 1
+    },
+    {
+      "name": "Chaco",
+      "id": 2
+    },
+    {
+      "name": "Chubut",
+      "id": 3
+    },
+    {
+      "name": "Cordoba",
+      "id": 4
+    },
+    {
+      "name": "Corrientes",
+      "id": 5
+    },
+    {
+      "name": "Distrito Federal",
+      "id": 6
+    },
+    {
+      "name": "Entre Rios",
+      "id": 7
+    },
+    {
+      "name": "Formosa",
+      "id": 8
+    },
+    {
+      "name": "Jujuy",
+      "id": 9
+    },
+    {
+      "name": "La Pampa",
+      "id": 10
+    },
+    {
+      "name": "La Rioja",
+      "id": 11
+    },
+    {
+      "name": "Mendoza",
+      "id": 12
+    },
+    {
+      "name": "Misiones",
+      "id": 13
+    },
+    {
+      "name": "Neuquen",
+      "id": 14
+    },
+    {
+      "name": "Rio Negro",
+      "id": 15
+    },
+    {
+      "name": "Salta",
+      "id": 16
+    },
+    {
+      "name": "San Juan",
+      "id": 17
+    },
+    {
+      "name": "San Luis",
+      "id": 18
+    },
+    {
+      "name": "Santa Cruz",
+      "id": 19
+    },
+    {
+      "name": "Santa Fe",
+      "id": 20
+    },
+    {
+      "name": "Santiago del Estero",
+      "id": 21
+    },
+    {
+      "name": "Tierra del Fuego",
+      "id": 22
+    },
+    {
+      "name": "Tucuman",
+      "id": 23
+    }
+  ],
+  "geoRectangle": {
+    "West": -73.5829849243,
+    "East": -53.5918273926,
+    "North": -21.7812747955,
+    "South": -55.0613212585
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": -3,
+    "Flg": 2,
+    "Name": "Buenos Aires",
+    "GeoPt": [
+      -34.36,
+      -58.4
+    ]
+  }
+}

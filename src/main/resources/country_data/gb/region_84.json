@@ -1,0 +1,725 @@
+{
+  "name": "Gwynedd",
+  "cities": [
+    {
+      "cityName": "Aber Cowarch",
+      "lat": 52.75,
+      "lng": -3.7
+    },
+    {
+      "cityName": "Aberdaron",
+      "lat": 52.816667,
+      "lng": -4.7
+    },
+    {
+      "cityName": "Aberdovey",
+      "lat": 52.55,
+      "lng": -4.033333
+    },
+    {
+      "cityName": "Abererch",
+      "lat": 52.9,
+      "lng": -4.4
+    },
+    {
+      "cityName": "Abergynolwyn",
+      "lat": 52.633333,
+      "lng": -3.95
+    },
+    {
+      "cityName": "Aberllefenni",
+      "lat": 52.666667,
+      "lng": -3.816667
+    },
+    {
+      "cityName": "Abersoch",
+      "lat": 52.816667,
+      "lng": -4.5
+    },
+    {
+      "cityName": "Adpar",
+      "lat": 53.033333,
+      "lng": -4.466667
+    },
+    {
+      "cityName": "Arthog",
+      "lat": 52.7,
+      "lng": -4.016667
+    },
+    {
+      "cityName": "Bala",
+      "lat": 52.916667,
+      "lng": -3.6
+    },
+    {
+      "cityName": "Bangon",
+      "lat": 53.266667,
+      "lng": -4.116667
+    },
+    {
+      "cityName": "Bangor",
+      "lat": 52.033333,
+      "lng": -4.366667
+    },
+    {
+      "cityName": "Bangor-is-y-coed",
+      "lat": 53,
+      "lng": -2.916667
+    },
+    {
+      "cityName": "Barmouth",
+      "lat": 52.75,
+      "lng": -4.066667
+    },
+    {
+      "cityName": "Beddgelert",
+      "lat": 53.016667,
+      "lng": -4.1
+    },
+    {
+      "cityName": "Bettws Garmon",
+      "lat": 53.083333,
+      "lng": -4.183333
+    },
+    {
+      "cityName": "Bodfean",
+      "lat": 52.916667,
+      "lng": -4.5
+    },
+    {
+      "cityName": "Bottwnog",
+      "lat": 52.85,
+      "lng": -4.583333
+    },
+    {
+      "cityName": "Boughrood",
+      "lat": 52.033333,
+      "lng": -3.266667
+    },
+    {
+      "cityName": "Bryncir",
+      "lat": 52.966667,
+      "lng": -4.233333
+    },
+    {
+      "cityName": "Bryncroes",
+      "lat": 52.85,
+      "lng": -4.633333
+    },
+    {
+      "cityName": "Bryn-crug",
+      "lat": 52.6,
+      "lng": -4.066667
+    },
+    {
+      "cityName": "Caerhûn",
+      "lat": 53.216667,
+      "lng": -3.833333
+    },
+    {
+      "cityName": "Caernarfon",
+      "lat": 53.15,
+      "lng": -4.266667
+    },
+    {
+      "cityName": "Capel-y-ffin",
+      "lat": 51.966667,
+      "lng": -3.083333
+    },
+    {
+      "cityName": "Carnguwch",
+      "lat": 52.95,
+      "lng": -4.416667
+    },
+    {
+      "cityName": "Cerrig-y-Druidion",
+      "lat": 53.016667,
+      "lng": -3.566667
+    },
+    {
+      "cityName": "Chwilog",
+      "lat": 52.916667,
+      "lng": -4.333333
+    },
+    {
+      "cityName": "Clifford",
+      "lat": 52.1,
+      "lng": -3.1
+    },
+    {
+      "cityName": "Clynnog",
+      "lat": 53.016667,
+      "lng": -4.366667
+    },
+    {
+      "cityName": "Clyro",
+      "lat": 52.083333,
+      "lng": -3.15
+    },
+    {
+      "cityName": "Colva",
+      "lat": 52.166667,
+      "lng": -3.166667
+    },
+    {
+      "cityName": "Cregina",
+      "lat": 52.15,
+      "lng": -3.283333
+    },
+    {
+      "cityName": "Criccieth",
+      "lat": 52.916667,
+      "lng": -4.233333
+    },
+    {
+      "cityName": "Crickadarn",
+      "lat": 52.066667,
+      "lng": -3.333333
+    },
+    {
+      "cityName": "Cross Foxes",
+      "lat": 52.716667,
+      "lng": -3.833333
+    },
+    {
+      "cityName": "Cwm-du",
+      "lat": 51.9,
+      "lng": -3.183333
+    },
+    {
+      "cityName": "Cwm-y-glo",
+      "lat": 53.133333,
+      "lng": -4.166667
+    },
+    {
+      "cityName": "Cwmyoy",
+      "lat": 51.9,
+      "lng": -3.016667
+    },
+    {
+      "cityName": "Dinas",
+      "lat": 53.1,
+      "lng": -4.266667
+    },
+    {
+      "cityName": "Dinas Mawddwy",
+      "lat": 52.733333,
+      "lng": -3.666667
+    },
+    {
+      "cityName": "Dolbenmaen",
+      "lat": 52.966667,
+      "lng": -4.266667
+    },
+    {
+      "cityName": "Dolgellau",
+      "lat": 52.75,
+      "lng": -3.883333
+    },
+    {
+      "cityName": "Dyffryn",
+      "lat": 52.783333,
+      "lng": -4.1
+    },
+    {
+      "cityName": "Ederyn",
+      "lat": 52.933333,
+      "lng": -4.566667
+    },
+    {
+      "cityName": "Erbistock",
+      "lat": 52.966667,
+      "lng": -2.95
+    },
+    {
+      "cityName": "Felindre",
+      "lat": 52.016667,
+      "lng": -3.183333
+    },
+    {
+      "cityName": "Ffestiniog",
+      "lat": 52.95,
+      "lng": -3.933333
+    },
+    {
+      "cityName": "Frongoch",
+      "lat": 52.933333,
+      "lng": -3.633333
+    },
+    {
+      "cityName": "Glasbury",
+      "lat": 52.033333,
+      "lng": -3.2
+    },
+    {
+      "cityName": "Glascwm",
+      "lat": 52.166667,
+      "lng": -3.233333
+    },
+    {
+      "cityName": "Groeslon",
+      "lat": 53.066667,
+      "lng": -4.283333
+    },
+    {
+      "cityName": "Gwenddwr",
+      "lat": 52.066667,
+      "lng": -3.366667
+    },
+    {
+      "cityName": "Gwydir",
+      "lat": 52.983333,
+      "lng": -4.416667
+    },
+    {
+      "cityName": "Gyrngôch",
+      "lat": 53,
+      "lng": -4.383333
+    },
+    {
+      "cityName": "Harlech",
+      "lat": 52.866667,
+      "lng": -4.1
+    },
+    {
+      "cityName": "Hay",
+      "lat": 52.066667,
+      "lng": -3.116667
+    },
+    {
+      "cityName": "Henllan",
+      "lat": 52.033333,
+      "lng": -4.4
+    },
+    {
+      "cityName": "Llabedr-Dyffryn-Clwyd",
+      "lat": 53.116667,
+      "lng": -3.283333
+    },
+    {
+      "cityName": "Llanaber",
+      "lat": 52.733333,
+      "lng": -4.083333
+    },
+    {
+      "cityName": "Llanaelhaiarn",
+      "lat": 52.966667,
+      "lng": -4.4
+    },
+    {
+      "cityName": "Llanarmon",
+      "lat": 52.916667,
+      "lng": -4.35
+    },
+    {
+      "cityName": "Llanbedr",
+      "lat": 51.883333,
+      "lng": -3.1
+    },
+    {
+      "cityName": "Llanbedrog",
+      "lat": 52.85,
+      "lng": -4.483333
+    },
+    {
+      "cityName": "Llanbedr-y-cennin",
+      "lat": 53.2,
+      "lng": -3.866667
+    },
+    {
+      "cityName": "Llanberis",
+      "lat": 53.116667,
+      "lng": -4.15
+    },
+    {
+      "cityName": "Llandderfel",
+      "lat": 52.916667,
+      "lng": -3.516667
+    },
+    {
+      "cityName": "Llanddwywe",
+      "lat": 52.766667,
+      "lng": -4.1
+    },
+    {
+      "cityName": "Llandecwyn",
+      "lat": 52.916667,
+      "lng": -4.033333
+    },
+    {
+      "cityName": "Llandegwning",
+      "lat": 52.833333,
+      "lng": -4.566667
+    },
+    {
+      "cityName": "Llandudwen",
+      "lat": 52.9,
+      "lng": -4.583333
+    },
+    {
+      "cityName": "Llandwrog",
+      "lat": 53.066667,
+      "lng": -4.316667
+    },
+    {
+      "cityName": "Llanegryn",
+      "lat": 52.616667,
+      "lng": -4.066667
+    },
+    {
+      "cityName": "Llanelltyd",
+      "lat": 52.75,
+      "lng": -3.9
+    },
+    {
+      "cityName": "Llanengan",
+      "lat": 52.833333,
+      "lng": -4.533333
+    },
+    {
+      "cityName": "Llanfachreth",
+      "lat": 52.783333,
+      "lng": -3.85
+    },
+    {
+      "cityName": "Llanfaelrhys",
+      "lat": 52.8,
+      "lng": -4.65
+    },
+    {
+      "cityName": "Llanfaes",
+      "lat": 53.266667,
+      "lng": -4.1
+    },
+    {
+      "cityName": "Llanfair",
+      "lat": 52.833333,
+      "lng": -4.116667
+    },
+    {
+      "cityName": "Llanferres",
+      "lat": 53.133333,
+      "lng": -3.216667
+    },
+    {
+      "cityName": "Llanfihangel Bachellaeth",
+      "lat": 52.883333,
+      "lng": -4.516667
+    },
+    {
+      "cityName": "Llanfihangel-y-Pennant",
+      "lat": 52.666667,
+      "lng": -3.966667
+    },
+    {
+      "cityName": "Llanfor",
+      "lat": 52.916667,
+      "lng": -3.583333
+    },
+    {
+      "cityName": "Llanfrothen",
+      "lat": 52.95,
+      "lng": -4.05
+    },
+    {
+      "cityName": "Llangeler",
+      "lat": 52.016667,
+      "lng": -4.383333
+    },
+    {
+      "cityName": "Llangelynin",
+      "lat": 52.633333,
+      "lng": -4.116667
+    },
+    {
+      "cityName": "Llangower",
+      "lat": 52.866667,
+      "lng": -3.633333
+    },
+    {
+      "cityName": "Llangwm",
+      "lat": 52.983333,
+      "lng": -3.533333
+    },
+    {
+      "cityName": "Llangwnadl",
+      "lat": 52.866667,
+      "lng": -4.666667
+    },
+    {
+      "cityName": "Llangybi",
+      "lat": 52.933333,
+      "lng": -4.35
+    },
+    {
+      "cityName": "Llanigon",
+      "lat": 52.05,
+      "lng": -3.15
+    },
+    {
+      "cityName": "Llanllyfni",
+      "lat": 53.033333,
+      "lng": -4.283333
+    },
+    {
+      "cityName": "Llannor",
+      "lat": 52.9,
+      "lng": -4.45
+    },
+    {
+      "cityName": "Llanrug",
+      "lat": 53.133333,
+      "lng": -4.2
+    },
+    {
+      "cityName": "Llanstephan",
+      "lat": 52.066667,
+      "lng": -3.283333
+    },
+    {
+      "cityName": "Llanthony",
+      "lat": 51.95,
+      "lng": -3.033333
+    },
+    {
+      "cityName": "Llanuwchllyn",
+      "lat": 52.866667,
+      "lng": -3.666667
+    },
+    {
+      "cityName": "Llanwnda",
+      "lat": 53.1,
+      "lng": -4.283333
+    },
+    {
+      "cityName": "Llanycil",
+      "lat": 52.9,
+      "lng": -3.616667
+    },
+    {
+      "cityName": "Llanymawddwy",
+      "lat": 52.75,
+      "lng": -3.633333
+    },
+    {
+      "cityName": "Llanystumdwy",
+      "lat": 52.916667,
+      "lng": -4.266667
+    },
+    {
+      "cityName": "Llithfaen",
+      "lat": 52.95,
+      "lng": -4.45
+    },
+    {
+      "cityName": "Llowes",
+      "lat": 52.066667,
+      "lng": -3.183333
+    },
+    {
+      "cityName": "Llwyngwril",
+      "lat": 52.666667,
+      "lng": -4.083333
+    },
+    {
+      "cityName": "Maentwrog",
+      "lat": 52.933333,
+      "lng": -3.983333
+    },
+    {
+      "cityName": "Marchwiel",
+      "lat": 53.016667,
+      "lng": -2.95
+    },
+    {
+      "cityName": "Meyllteyrn",
+      "lat": 52.866667,
+      "lng": -4.616667
+    },
+    {
+      "cityName": "Minffordd",
+      "lat": 52.916667,
+      "lng": -4.083333
+    },
+    {
+      "cityName": "Moaltryfan",
+      "lat": 53.083333,
+      "lng": -4.233333
+    },
+    {
+      "cityName": "Morfa Nefyn",
+      "lat": 52.933333,
+      "lng": -4.533333
+    },
+    {
+      "cityName": "Nantlle",
+      "lat": 53.05,
+      "lng": -4.233333
+    },
+    {
+      "cityName": "Nefyn",
+      "lat": 52.933333,
+      "lng": -4.5
+    },
+    {
+      "cityName": "Newchurch",
+      "lat": 52.15,
+      "lng": -3.15
+    },
+    {
+      "cityName": "Overton",
+      "lat": 52.966667,
+      "lng": -2.933333
+    },
+    {
+      "cityName": "Painscastle",
+      "lat": 52.1,
+      "lng": -3.216667
+    },
+    {
+      "cityName": "Pandy",
+      "lat": 52.85,
+      "lng": -3.666667
+    },
+    {
+      "cityName": "Partrishow",
+      "lat": 51.9,
+      "lng": -3.05
+    },
+    {
+      "cityName": "Penllech",
+      "lat": 52.883333,
+      "lng": -4.65
+    },
+    {
+      "cityName": "Penrhos",
+      "lat": 52.866667,
+      "lng": -4.466667
+    },
+    {
+      "cityName": "Penrhyn Deudraeth",
+      "lat": 52.933333,
+      "lng": -4.066667
+    },
+    {
+      "cityName": "Pen-y-groes",
+      "lat": 53.05,
+      "lng": -4.283333
+    },
+    {
+      "cityName": "Pistyll",
+      "lat": 52.95,
+      "lng": -4.483333
+    },
+    {
+      "cityName": "Pont Newydd",
+      "lat": 51.866667,
+      "lng": -3.066667
+    },
+    {
+      "cityName": "Pont-Tyweli",
+      "lat": 52.05,
+      "lng": -4.316667
+    },
+    {
+      "cityName": "Porthmadog",
+      "lat": 52.933333,
+      "lng": -4.116667
+    },
+    {
+      "cityName": "Pwllbeli",
+      "lat": 52.883333,
+      "lng": -4.416667
+    },
+    {
+      "cityName": "Rhiw",
+      "lat": 52.816667,
+      "lng": -4.633333
+    },
+    {
+      "cityName": "Rhos-gôch",
+      "lat": 52.116667,
+      "lng": -3.183333
+    },
+    {
+      "cityName": "Rhôs-y-llan",
+      "lat": 52.9,
+      "lng": -4.633333
+    },
+    {
+      "cityName": "Sarn",
+      "lat": 52.85,
+      "lng": -4.616667
+    },
+    {
+      "cityName": "South Beach",
+      "lat": 52.866667,
+      "lng": -4.416667
+    },
+    {
+      "cityName": "Talsarnau",
+      "lat": 52.9,
+      "lng": -4.066667
+    },
+    {
+      "cityName": "Tal-y-Cafn",
+      "lat": 53.216667,
+      "lng": -3.816667
+    },
+    {
+      "cityName": "Tal-y-llyn",
+      "lat": 52.666667,
+      "lng": -3.9
+    },
+    {
+      "cityName": "Tan-y-Bwlch",
+      "lat": 52.933333,
+      "lng": -4
+    },
+    {
+      "cityName": "Tanygrisiau",
+      "lat": 52.966667,
+      "lng": -3.933333
+    },
+    {
+      "cityName": "Ton-fanau",
+      "lat": 52.6,
+      "lng": -4.116667
+    },
+    {
+      "cityName": "Towyn",
+      "lat": 52.6,
+      "lng": -4.083333
+    },
+    {
+      "cityName": "Trawsfynydd",
+      "lat": 52.9,
+      "lng": -3.916667
+    },
+    {
+      "cityName": "Tremadoc",
+      "lat": 52.933333,
+      "lng": -4.15
+    },
+    {
+      "cityName": "Trevor",
+      "lat": 53,
+      "lng": -4.433333
+    },
+    {
+      "cityName": "Tudweiliog",
+      "lat": 52.9,
+      "lng": -4.616667
+    },
+    {
+      "cityName": "Waenfawr",
+      "lat": 53.1,
+      "lng": -4.2
+    },
+    {
+      "cityName": "Worthenbury",
+      "lat": 53,
+      "lng": -2.866667
+    }
+  ]
+}

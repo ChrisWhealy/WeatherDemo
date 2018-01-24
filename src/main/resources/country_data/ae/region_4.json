@@ -1,0 +1,515 @@
+{
+  "name": "Ras Al Khaimah",
+  "cities": [
+    {
+      "cityName": "Ad Dharbaniya",
+      "lat": 25.7833333,
+      "lng": 55.9333333
+    },
+    {
+      "cityName": "Adhan",
+      "lat": 25.4586111,
+      "lng": 56.0155556
+    },
+    {
+      "cityName": "Ajima",
+      "lat": 25.4025,
+      "lng": 56.1430556
+    },
+    {
+      "cityName": "Al Fahlayn",
+      "lat": 25.6841667,
+      "lng": 55.9666667
+    },
+    {
+      "cityName": "Al Fai",
+      "lat": 26.0213889,
+      "lng": 56.0913889
+    },
+    {
+      "cityName": "Al Fara`",
+      "lat": 25.4122222,
+      "lng": 56.0897222
+    },
+    {
+      "cityName": "Al Fulayyah",
+      "lat": 25.7402778,
+      "lng": 55.98
+    },
+    {
+      "cityName": "Al Ghabah",
+      "lat": 26.0488889,
+      "lng": 56.1533333
+    },
+    {
+      "cityName": "Al Ghabam",
+      "lat": 26.0327778,
+      "lng": 56.1522222
+    },
+    {
+      "cityName": "Al Ghashban",
+      "lat": 26.0425,
+      "lng": 56.1186111
+    },
+    {
+      "cityName": "Al-Ghil",
+      "lat": 25.4,
+      "lng": 56.0666667
+    },
+    {
+      "cityName": "Algida",
+      "lat": 25.9961111,
+      "lng": 56.0841667
+    },
+    {
+      "cityName": "Al Hamra'",
+      "lat": 25.7083333,
+      "lng": 55.7972222
+    },
+    {
+      "cityName": "Al Hamraniyah",
+      "lat": 25.6113889,
+      "lng": 55.9002778
+    },
+    {
+      "cityName": "Al Hayir",
+      "lat": 25.9786111,
+      "lng": 56.0852778
+    },
+    {
+      "cityName": "Al Hayl",
+      "lat": 25.7066667,
+      "lng": 55.9816667
+    },
+    {
+      "cityName": "Al Hulaylah",
+      "lat": 25.8855556,
+      "lng": 56.0522222
+    },
+    {
+      "cityName": "Al Kharan",
+      "lat": 25.7130556,
+      "lng": 55.9691667
+    },
+    {
+      "cityName": "Al Khari",
+      "lat": 25.0963889,
+      "lng": 56.0263889
+    },
+    {
+      "cityName": "Al Khashfah",
+      "lat": 26.0283333,
+      "lng": 56.1394444
+    },
+    {
+      "cityName": "Al Maham",
+      "lat": 25.675,
+      "lng": 55.9902778
+    },
+    {
+      "cityName": "Al Masafirah",
+      "lat": 25.6833333,
+      "lng": 55.95
+    },
+    {
+      "cityName": "Al Mataf",
+      "lat": 25.8333333,
+      "lng": 55.9833333
+    },
+    {
+      "cityName": "Al Mu`amurah",
+      "lat": 25.8097222,
+      "lng": 55.9763889
+    },
+    {
+      "cityName": "Al-Naslah",
+      "lat": 24.8647222,
+      "lng": 56.2608333
+    },
+    {
+      "cityName": "Al Qawr",
+      "lat": 24.9113889,
+      "lng": 56.0986111
+    },
+    {
+      "cityName": "Al Qir",
+      "lat": 26.0363889,
+      "lng": 56.0977778
+    },
+    {
+      "cityName": "Al Quwayz",
+      "lat": 25.7747222,
+      "lng": 55.9697222
+    },
+    {
+      "cityName": "Al Usayli",
+      "lat": 25.6166667,
+      "lng": 56
+    },
+    {
+      "cityName": "An Nakhil",
+      "lat": 25.7816667,
+      "lng": 55.97
+    },
+    {
+      "cityName": "Araibi",
+      "lat": 25.7830556,
+      "lng": 55.9794444
+    },
+    {
+      "cityName": "Ar Rafa`ah",
+      "lat": 25.6152778,
+      "lng": 55.7027778
+    },
+    {
+      "cityName": "Ar Rams",
+      "lat": 25.8788889,
+      "lng": 56.0236111
+    },
+    {
+      "cityName": "Ash Sha`m",
+      "lat": 26.0244444,
+      "lng": 56.0838889
+    },
+    {
+      "cityName": "Ash Shu`ayb",
+      "lat": 24.7455556,
+      "lng": 55.8127778
+    },
+    {
+      "cityName": "As Salihiyah",
+      "lat": 25.7205556,
+      "lng": 55.9880556
+    },
+    {
+      "cityName": "As Sur",
+      "lat": 25.7791667,
+      "lng": 55.9947222
+    },
+    {
+      "cityName": "Athaba",
+      "lat": 25.1611111,
+      "lng": 56.0963889
+    },
+    {
+      "cityName": "`Ayim",
+      "lat": 25.4333333,
+      "lng": 56.0666667
+    },
+    {
+      "cityName": "Baqal",
+      "lat": 25.6894444,
+      "lng": 56.0883333
+    },
+    {
+      "cityName": "Bidá",
+      "lat": 25.75,
+      "lng": 55.9666667
+    },
+    {
+      "cityName": "Bidiyah",
+      "lat": 25.675,
+      "lng": 55.9719444
+    },
+    {
+      "cityName": "Dafta",
+      "lat": 25.2741667,
+      "lng": 56.1833333
+    },
+    {
+      "cityName": "Darah",
+      "lat": 25.1008333,
+      "lng": 56.0572222
+    },
+    {
+      "cityName": "Dayah",
+      "lat": 25.8886111,
+      "lng": 56.0655556
+    },
+    {
+      "cityName": "Daynah",
+      "lat": 25.0438889,
+      "lng": 56.0011111
+    },
+    {
+      "cityName": "Dhad al Arab",
+      "lat": 25.6166667,
+      "lng": 55.85
+    },
+    {
+      "cityName": "Difan",
+      "lat": 25.7858333,
+      "lng": 55.9430556
+    },
+    {
+      "cityName": "Digdagga",
+      "lat": 25.6655556,
+      "lng": 55.9686111
+    },
+    {
+      "cityName": "Dihan",
+      "lat": 25.7594444,
+      "lng": 55.925
+    },
+    {
+      "cityName": "Faiyada",
+      "lat": 24.9580556,
+      "lng": 56.2033333
+    },
+    {
+      "cityName": "Fashra",
+      "lat": 24.88,
+      "lng": 56.2063889
+    },
+    {
+      "cityName": "Fa'y",
+      "lat": 25.1705556,
+      "lng": 56.1013889
+    },
+    {
+      "cityName": "Gargaha",
+      "lat": 25.7666667,
+      "lng": 56.0666667
+    },
+    {
+      "cityName": "Ghadaf",
+      "lat": 25.2838889,
+      "lng": 56.1730556
+    },
+    {
+      "cityName": "Ghalilah",
+      "lat": 25.9975,
+      "lng": 56.0744444
+    },
+    {
+      "cityName": "Ghamara",
+      "lat": 25.2941667,
+      "lng": 56.1697222
+    },
+    {
+      "cityName": "Ghubbat Khawarah",
+      "lat": 26.0427778,
+      "lng": 56.135
+    },
+    {
+      "cityName": "Ghubb",
+      "lat": 25.8088889,
+      "lng": 55.9908333
+    },
+    {
+      "cityName": "Gragrah",
+      "lat": 25.4647222,
+      "lng": 55.9847222
+    },
+    {
+      "cityName": "Hadaibah",
+      "lat": 25.7963889,
+      "lng": 55.9827778
+    },
+    {
+      "cityName": "Ham Ham",
+      "lat": 25.6861111,
+      "lng": 55.9638889
+    },
+    {
+      "cityName": "Harat `Awali",
+      "lat": 26.0163889,
+      "lng": 56.1325
+    },
+    {
+      "cityName": "Harra",
+      "lat": 24.99,
+      "lng": 56.2172222
+    },
+    {
+      "cityName": "Howeilat",
+      "lat": 24.8772222,
+      "lng": 56.1733333
+    },
+    {
+      "cityName": "Julfa",
+      "lat": 25.7911111,
+      "lng": 55.9427778
+    },
+    {
+      "cityName": "Khabakhib",
+      "lat": 25.4380556,
+      "lng": 56.0980556
+    },
+    {
+      "cityName": "Khawr Khuwayr",
+      "lat": 25.9672222,
+      "lng": 56.0544444
+    },
+    {
+      "cityName": "Khazam",
+      "lat": 25.765,
+      "lng": 55.9341667
+    },
+    {
+      "cityName": "Kub",
+      "lat": 25.4666667,
+      "lng": 56.1166667
+    },
+    {
+      "cityName": "Ma'airidh",
+      "lat": 25.8094444,
+      "lng": 55.9625
+    },
+    {
+      "cityName": "Maghribiyah",
+      "lat": 25.2,
+      "lng": 56.05
+    },
+    {
+      "cityName": "Manai'i",
+      "lat": 24.9491667,
+      "lng": 56.1519444
+    },
+    {
+      "cityName": "Manqashah",
+      "lat": 26.035,
+      "lng": 56.1486111
+    },
+    {
+      "cityName": "Marhamid",
+      "lat": 25.095,
+      "lng": 56.0272222
+    },
+    {
+      "cityName": "Mawrid",
+      "lat": 25.4325,
+      "lng": 56.115
+    },
+    {
+      "cityName": "Minha",
+      "lat": 25.1583333,
+      "lng": 56.0811111
+    },
+    {
+      "cityName": "Muraytah",
+      "lat": 25.4041667,
+      "lng": 56.0619444
+    },
+    {
+      "cityName": "Qabas",
+      "lat": 26.0355556,
+      "lng": 56.1083333
+    },
+    {
+      "cityName": "Qaf'ah",
+      "lat": 26.0380556,
+      "lng": 56.1086111
+    },
+    {
+      "cityName": "Qarat ad Dulm",
+      "lat": 25.8602778,
+      "lng": 56.025
+    },
+    {
+      "cityName": "Quar Ah Qahlish",
+      "lat": 25.985,
+      "lng": 56.0863889
+    },
+    {
+      "cityName": "Qurm",
+      "lat": 25.9113889,
+      "lng": 56.0641667
+    },
+    {
+      "cityName": "Qusaidat",
+      "lat": 25.7636111,
+      "lng": 55.9755556
+    },
+    {
+      "cityName": "Rafaq",
+      "lat": 24.875,
+      "lng": 56.2455556
+    },
+    {
+      "cityName": "Rimá",
+      "lat": 25.1666667,
+      "lng": 56.1166667
+    },
+    {
+      "cityName": "Sa`abah",
+      "lat": 24.9941667,
+      "lng": 56.025
+    },
+    {
+      "cityName": "Sahawat",
+      "lat": 25.9666667,
+      "lng": 56.0833333
+    },
+    {
+      "cityName": "Sal Dora",
+      "lat": 26.0580556,
+      "lng": 56.1052778
+    },
+    {
+      "cityName": "Sall",
+      "lat": 25.9366667,
+      "lng": 56.1722222
+    },
+    {
+      "cityName": "Sayh as Saqlah",
+      "lat": 24.8833333,
+      "lng": 56.1666667
+    },
+    {
+      "cityName": "Sayh",
+      "lat": 25.9333333,
+      "lng": 56.0666667
+    },
+    {
+      "cityName": "Shabakah",
+      "lat": 25.0333333,
+      "lng": 56
+    },
+    {
+      "cityName": "Shah",
+      "lat": 25.8986111,
+      "lng": 56.1283333
+    },
+    {
+      "cityName": "Shariyah",
+      "lat": 25.1,
+      "lng": 56.0333333
+    },
+    {
+      "cityName": "Sharyat",
+      "lat": 26.0430556,
+      "lng": 56.1080556
+    },
+    {
+      "cityName": "Shimal",
+      "lat": 25.8180556,
+      "lng": 56.0316667
+    },
+    {
+      "cityName": "Suhaybah",
+      "lat": 24.9375,
+      "lng": 56.1577778
+    },
+    {
+      "cityName": "Wad Wid",
+      "lat": 25.6333333,
+      "lng": 56.0186111
+    },
+    {
+      "cityName": "Wayb Hawf",
+      "lat": 26.0288889,
+      "lng": 56.1211111
+    },
+    {
+      "cityName": "Yinainir",
+      "lat": 25.9080556,
+      "lng": 56.17
+    },
+    {
+      "cityName": "Yinas",
+      "lat": 25.7413889,
+      "lng": 56.1302778
+    }
+  ]
+}

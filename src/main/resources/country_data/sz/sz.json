@@ -1,0 +1,39 @@
+{
+  "name": "Swaziland",
+  "iso2": "sz",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Hhohho",
+      "id": 0
+    },
+    {
+      "name": "Lubombo",
+      "id": 1
+    },
+    {
+      "name": "Manzini",
+      "id": 2
+    },
+    {
+      "name": "Shiselweni",
+      "id": 3
+    }
+  ],
+  "geoRectangle": {
+    "West": 30.7941036224,
+    "East": 32.1372642517,
+    "North": -25.7196445465,
+    "South": -27.3171043396
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Mbabane",
+    "GeoPt": [
+      -26.18,
+      31.06
+    ]
+  }
+}

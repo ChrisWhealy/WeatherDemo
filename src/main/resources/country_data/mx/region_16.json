@@ -1,0 +1,985 @@
+{
+  "name": "Morelos",
+  "cities": [
+    {
+      "cityName": "Acamilpa",
+      "lat": 18.7,
+      "lng": -99.166667
+    },
+    {
+      "cityName": "Acapantzingo",
+      "lat": 18.9,
+      "lng": -99.216667
+    },
+    {
+      "cityName": "Acatlipa",
+      "lat": 18.816667,
+      "lng": -99.233333
+    },
+    {
+      "cityName": "Achichipico",
+      "lat": 18.933333,
+      "lng": -98.816667
+    },
+    {
+      "cityName": "Ahuacatitlán",
+      "lat": 18.966667,
+      "lng": -99.266667
+    },
+    {
+      "cityName": "Ahuatepec",
+      "lat": 18.95,
+      "lng": -99.216667
+    },
+    {
+      "cityName": "Ahuehuecingo",
+      "lat": 18.666667,
+      "lng": -99.316667
+    },
+    {
+      "cityName": "Ajuchitlán",
+      "lat": 18.466667,
+      "lng": -98.966667
+    },
+    {
+      "cityName": "Alpuyeca",
+      "lat": 18.733333,
+      "lng": -99.266667
+    },
+    {
+      "cityName": "Amatitlán",
+      "lat": 18.916667,
+      "lng": -99.233333
+    },
+    {
+      "cityName": "Amatlán",
+      "lat": 18.966667,
+      "lng": -99.033333
+    },
+    {
+      "cityName": "Amatlipac",
+      "lat": 18.983333,
+      "lng": -98.966667
+    },
+    {
+      "cityName": "Amayuca",
+      "lat": 18.7,
+      "lng": -98.766667
+    },
+    {
+      "cityName": "Amilcingo",
+      "lat": 18.75,
+      "lng": -98.766667
+    },
+    {
+      "cityName": "Anenecuilco",
+      "lat": 18.766667,
+      "lng": -98.983333
+    },
+    {
+      "cityName": "Ánimas",
+      "lat": 18.616667,
+      "lng": -99.05
+    },
+    {
+      "cityName": "Apanquezalco",
+      "lat": 18.9,
+      "lng": -99.083333
+    },
+    {
+      "cityName": "Apatlaco",
+      "lat": 18.783333,
+      "lng": -98.95
+    },
+    {
+      "cityName": "Astillero",
+      "lat": 18.566667,
+      "lng": -99.1
+    },
+    {
+      "cityName": "Atlacahualoya",
+      "lat": 18.533333,
+      "lng": -98.733333
+    },
+    {
+      "cityName": "Atlacholoaya",
+      "lat": 18.733333,
+      "lng": -99.216667
+    },
+    {
+      "cityName": "Atlacomulco",
+      "lat": 18.9,
+      "lng": -99.166667
+    },
+    {
+      "cityName": "Atlatlahuacan",
+      "lat": 18.933333,
+      "lng": -98.9
+    },
+    {
+      "cityName": "Atotonilco",
+      "lat": 18.633333,
+      "lng": -98.833333
+    },
+    {
+      "cityName": "Axochiapan",
+      "lat": 18.5,
+      "lng": -98.766667
+    },
+    {
+      "cityName": "Ayala",
+      "lat": 18.75,
+      "lng": -98.983333
+    },
+    {
+      "cityName": "Baños",
+      "lat": 18.533333,
+      "lng": -99.266667
+    },
+    {
+      "cityName": "Barranca Honda",
+      "lat": 18.816667,
+      "lng": -99.1
+    },
+    {
+      "cityName": "Bonifacio García",
+      "lat": 18.733333,
+      "lng": -99.133333
+    },
+    {
+      "cityName": "Buenavista",
+      "lat": 18.933333,
+      "lng": -99.3
+    },
+    {
+      "cityName": "Cacahuananche",
+      "lat": 18.5,
+      "lng": -99.333333
+    },
+    {
+      "cityName": "Calderón",
+      "lat": 18.85,
+      "lng": -98.966667
+    },
+    {
+      "cityName": "Casahuatlán",
+      "lat": 18.566667,
+      "lng": -99.383333
+    },
+    {
+      "cityName": "Casasano",
+      "lat": 18.85,
+      "lng": -98.95
+    },
+    {
+      "cityName": "Chalcacingo",
+      "lat": 18.683333,
+      "lng": -98.766667
+    },
+    {
+      "cityName": "Chamilpa",
+      "lat": 18.966667,
+      "lng": -99.25
+    },
+    {
+      "cityName": "Chavarría",
+      "lat": 18.7,
+      "lng": -99.466667
+    },
+    {
+      "cityName": "Chimalacatlán",
+      "lat": 18.466667,
+      "lng": -99.1
+    },
+    {
+      "cityName": "Chinameca",
+      "lat": 18.616667,
+      "lng": -99
+    },
+    {
+      "cityName": "Chisco",
+      "lat": 18.533333,
+      "lng": -99.25
+    },
+    {
+      "cityName": "Ciudad del Valle de Cuernavaca",
+      "lat": 18.916667,
+      "lng": -99.166667
+    },
+    {
+      "cityName": "Coajomulco",
+      "lat": 19.0325,
+      "lng": -99.206111
+    },
+    {
+      "cityName": "Coatepec",
+      "lat": 19.05,
+      "lng": -98.916667
+    },
+    {
+      "cityName": "Coatetelco",
+      "lat": 18.716667,
+      "lng": -99.333333
+    },
+    {
+      "cityName": "Coatlán del Río",
+      "lat": 18.733333,
+      "lng": -99.433333
+    },
+    {
+      "cityName": "Coaxitlan",
+      "lat": 18.45,
+      "lng": -99.183333
+    },
+    {
+      "cityName": "Cocoyoc",
+      "lat": 18.866667,
+      "lng": -98.983333
+    },
+    {
+      "cityName": "Cocoyotla",
+      "lat": 18.75,
+      "lng": -99.433333
+    },
+    {
+      "cityName": "Colonia Morelos",
+      "lat": 18.75,
+      "lng": -99.466667
+    },
+    {
+      "cityName": "Contla",
+      "lat": 18.516667,
+      "lng": -98.816667
+    },
+    {
+      "cityName": "Contlalco",
+      "lat": 18.633333,
+      "lng": -99.433333
+    },
+    {
+      "cityName": "Crucero",
+      "lat": 19.033333,
+      "lng": -98.95
+    },
+    {
+      "cityName": "Cuatlita",
+      "lat": 18.7,
+      "lng": -99.366667
+    },
+    {
+      "cityName": "Cuauchichinola",
+      "lat": 18.666667,
+      "lng": -99.383333
+    },
+    {
+      "cityName": "Cuauhtempan",
+      "lat": 18.966667,
+      "lng": -98.933333
+    },
+    {
+      "cityName": "Cuautla",
+      "lat": 18.8,
+      "lng": -98.95
+    },
+    {
+      "cityName": "Cuautlixco",
+      "lat": 18.866667,
+      "lng": -98.933333
+    },
+    {
+      "cityName": "Cuentepec",
+      "lat": 18.85,
+      "lng": -99.333333
+    },
+    {
+      "cityName": "Cuernavaca",
+      "lat": 18.916667,
+      "lng": -99.25
+    },
+    {
+      "cityName": "Curva La Pera",
+      "lat": 19.017778,
+      "lng": -99.1375
+    },
+    {
+      "cityName": "Ejotes",
+      "lat": 18.516667,
+      "lng": -99.116667
+    },
+    {
+      "cityName": "El Capulín",
+      "lat": 19.086111,
+      "lng": -99.228611
+    },
+    {
+      "cityName": "El Estudiante",
+      "lat": 18.566667,
+      "lng": -99.3
+    },
+    {
+      "cityName": "El Jicarero",
+      "lat": 18.616667,
+      "lng": -99.233333
+    },
+    {
+      "cityName": "El Limón",
+      "lat": 18.533333,
+      "lng": -98.933333
+    },
+    {
+      "cityName": "El Rodeo",
+      "lat": 18.75,
+      "lng": -99.333333
+    },
+    {
+      "cityName": "Emiliano Zapata",
+      "lat": 18.833333,
+      "lng": -99.183333
+    },
+    {
+      "cityName": "Estacas",
+      "lat": 18.733333,
+      "lng": -99.1
+    },
+    {
+      "cityName": "Fierro del Toro",
+      "lat": 19.093889,
+      "lng": -99.241389
+    },
+    {
+      "cityName": "Gabriel Mariaca",
+      "lat": 18.95,
+      "lng": -99.15
+    },
+    {
+      "cityName": "Galeana",
+      "lat": 18.633333,
+      "lng": -99.216667
+    },
+    {
+      "cityName": "Hidalgo",
+      "lat": 18.583333,
+      "lng": -99.066667
+    },
+    {
+      "cityName": "Higueras",
+      "lat": 18.566667,
+      "lng": -99.183333
+    },
+    {
+      "cityName": "Higuerón",
+      "lat": 18.583333,
+      "lng": -99.166667
+    },
+    {
+      "cityName": "Hornos",
+      "lat": 18.533333,
+      "lng": -99.066667
+    },
+    {
+      "cityName": "Hospital",
+      "lat": 18.816667,
+      "lng": -98.983333
+    },
+    {
+      "cityName": "Huajintlán",
+      "lat": 18.6,
+      "lng": -99.416667
+    },
+    {
+      "cityName": "Huantla",
+      "lat": 18.383333,
+      "lng": -99.066667
+    },
+    {
+      "cityName": "Huatecalco",
+      "lat": 18.683333,
+      "lng": -99.15
+    },
+    {
+      "cityName": "Huecahuasco",
+      "lat": 18.933333,
+      "lng": -98.783333
+    },
+    {
+      "cityName": "Huepalcalco",
+      "lat": 18.9,
+      "lng": -98.75
+    },
+    {
+      "cityName": "Huertas de San Pedro",
+      "lat": 19.007778,
+      "lng": -99.266389
+    },
+    {
+      "cityName": "Huesca",
+      "lat": 18.8,
+      "lng": -98.866667
+    },
+    {
+      "cityName": "Hueyapan",
+      "lat": 18.866667,
+      "lng": -98.666667
+    },
+    {
+      "cityName": "Huitchila",
+      "lat": 18.633333,
+      "lng": -98.933333
+    },
+    {
+      "cityName": "Huitlapa",
+      "lat": 18.916667,
+      "lng": -98.833333
+    },
+    {
+      "cityName": "Huitzilac",
+      "lat": 19.029167,
+      "lng": -99.268333
+    },
+    {
+      "cityName": "Huitzililla",
+      "lat": 18.683333,
+      "lng": -98.9
+    },
+    {
+      "cityName": "Itzamatitlán",
+      "lat": 18.9,
+      "lng": -99.033333
+    },
+    {
+      "cityName": "Ixcatepec",
+      "lat": 18.95,
+      "lng": -99.083333
+    },
+    {
+      "cityName": "Jalmitepec",
+      "lat": 18.9,
+      "lng": -98.783333
+    },
+    {
+      "cityName": "Jaloxtoc",
+      "lat": 18.716667,
+      "lng": -98.9
+    },
+    {
+      "cityName": "Jilguero",
+      "lat": 18.566667,
+      "lng": -99.083333
+    },
+    {
+      "cityName": "Jiutepec",
+      "lat": 18.866667,
+      "lng": -99.183333
+    },
+    {
+      "cityName": "Jojutla de Juárez",
+      "lat": 18.616667,
+      "lng": -99.183333
+    },
+    {
+      "cityName": "Jonacatepec",
+      "lat": 18.683333,
+      "lng": -98.8
+    },
+    {
+      "cityName": "La Calera",
+      "lat": 18.95,
+      "lng": -99.116667
+    },
+    {
+      "cityName": "La Chía",
+      "lat": 18.766667,
+      "lng": -99.433333
+    },
+    {
+      "cityName": "La Joya",
+      "lat": 18.666667,
+      "lng": -99.466667
+    },
+    {
+      "cityName": "La Nopalera",
+      "lat": 18.783333,
+      "lng": -99.066667
+    },
+    {
+      "cityName": "Las Cabañas",
+      "lat": 19.037222,
+      "lng": -99.268056
+    },
+    {
+      "cityName": "Limones",
+      "lat": 18.783333,
+      "lng": -98.85
+    },
+    {
+      "cityName": "Los Laureles",
+      "lat": 18.966667,
+      "lng": -98.983333
+    },
+    {
+      "cityName": "Los Medina",
+      "lat": 22.033333,
+      "lng": -105.35
+    },
+    {
+      "cityName": "María del Socorro",
+      "lat": 19.046111,
+      "lng": -99.27
+    },
+    {
+      "cityName": "Mata Ratón",
+      "lat": 18.583333,
+      "lng": -98.9
+    },
+    {
+      "cityName": "Mazatepec",
+      "lat": 18.716667,
+      "lng": -99.35
+    },
+    {
+      "cityName": "Metates",
+      "lat": 18.616667,
+      "lng": -98.966667
+    },
+    {
+      "cityName": "Mezquites",
+      "lat": 18.833333,
+      "lng": -99.05
+    },
+    {
+      "cityName": "Miacatlán",
+      "lat": 18.766667,
+      "lng": -99.366667
+    },
+    {
+      "cityName": "Moyotepec",
+      "lat": 18.716667,
+      "lng": -98.983333
+    },
+    {
+      "cityName": "Nepopualco",
+      "lat": 18.983333,
+      "lng": -98.933333
+    },
+    {
+      "cityName": "Nexpa",
+      "lat": 18.516667,
+      "lng": -99.166667
+    },
+    {
+      "cityName": "Nopata",
+      "lat": 18.916667,
+      "lng": -99.066667
+    },
+    {
+      "cityName": "Nuevo",
+      "lat": 18.683333,
+      "lng": -99.166667
+    },
+    {
+      "cityName": "Oacalco",
+      "lat": 18.916667,
+      "lng": -99.016667
+    },
+    {
+      "cityName": "Oaxtepec",
+      "lat": 18.9,
+      "lng": -98.966667
+    },
+    {
+      "cityName": "Ocotepec",
+      "lat": 18.95,
+      "lng": -99.233333
+    },
+    {
+      "cityName": "Ocotitlán",
+      "lat": 19.010556,
+      "lng": -99.061944
+    },
+    {
+      "cityName": "Ocuituco",
+      "lat": 18.866667,
+      "lng": -98.766667
+    },
+    {
+      "cityName": "Palmira",
+      "lat": 18.866667,
+      "lng": -99.233333
+    },
+    {
+      "cityName": "Palo Grande",
+      "lat": 18.833333,
+      "lng": -99.4
+    },
+    {
+      "cityName": "Palpán",
+      "lat": 18.85,
+      "lng": -99.416667
+    },
+    {
+      "cityName": "Panchimalco",
+      "lat": 18.6,
+      "lng": -99.183333
+    },
+    {
+      "cityName": "Pantitlán",
+      "lat": 18.9,
+      "lng": -98.983333
+    },
+    {
+      "cityName": "Paxalotlaco",
+      "lat": 18.533333,
+      "lng": -99.183333
+    },
+    {
+      "cityName": "Pazulco",
+      "lat": 18.933333,
+      "lng": -98.866667
+    },
+    {
+      "cityName": "Piedra",
+      "lat": 18.683333,
+      "lng": -98.983333
+    },
+    {
+      "cityName": "Potreros",
+      "lat": 18.483333,
+      "lng": -99.35
+    },
+    {
+      "cityName": "Puente de Ixtla",
+      "lat": 18.616667,
+      "lng": -99.3
+    },
+    {
+      "cityName": "Quebrantadero",
+      "lat": 18.516667,
+      "lng": -98.783333
+    },
+    {
+      "cityName": "Quilamula",
+      "lat": 18.516667,
+      "lng": -99.033333
+    },
+    {
+      "cityName": "San Gabriel",
+      "lat": 18.616667,
+      "lng": -99.35
+    },
+    {
+      "cityName": "San Ignacio",
+      "lat": 18.583333,
+      "lng": -98.75
+    },
+    {
+      "cityName": "San José",
+      "lat": 18.866667,
+      "lng": -99.05
+    },
+    {
+      "cityName": "San Rafael",
+      "lat": 18.65,
+      "lng": -99.016667
+    },
+    {
+      "cityName": "Santa Catarina",
+      "lat": 18.966667,
+      "lng": -99.133333
+    },
+    {
+      "cityName": "Santa Inés",
+      "lat": 18.833333,
+      "lng": -98.95
+    },
+    {
+      "cityName": "Santa Rosa",
+      "lat": 18.55,
+      "lng": -99.016667
+    },
+    {
+      "cityName": "San Vicente",
+      "lat": 18.683333,
+      "lng": -98.966667
+    },
+    {
+      "cityName": "Tecajec",
+      "lat": 18.783333,
+      "lng": -98.8
+    },
+    {
+      "cityName": "Tecolote",
+      "lat": 18.833333,
+      "lng": -98.883333
+    },
+    {
+      "cityName": "Tecomalco",
+      "lat": 18.633333,
+      "lng": -98.983333
+    },
+    {
+      "cityName": "Tecuancaco",
+      "lat": 18.716667,
+      "lng": -98.8
+    },
+    {
+      "cityName": "Tehuixtla",
+      "lat": 18.55,
+      "lng": -99.266667
+    },
+    {
+      "cityName": "Telela del Volcan",
+      "lat": 18.866667,
+      "lng": -98.716667
+    },
+    {
+      "cityName": "Telixtac",
+      "lat": 18.566667,
+      "lng": -98.766667
+    },
+    {
+      "cityName": "Temilpa",
+      "lat": 18.683333,
+      "lng": -99.1
+    },
+    {
+      "cityName": "Temimilcingo",
+      "lat": 18.733333,
+      "lng": -99.166667
+    },
+    {
+      "cityName": "Temisco",
+      "lat": 18.85,
+      "lng": -99.233333
+    },
+    {
+      "cityName": "Temoac",
+      "lat": 18.766667,
+      "lng": -98.783333
+    },
+    {
+      "cityName": "Tenango",
+      "lat": 18.616667,
+      "lng": -98.75
+    },
+    {
+      "cityName": "Tenayucan",
+      "lat": 18.566667,
+      "lng": -99.233333
+    },
+    {
+      "cityName": "Tepalcingo",
+      "lat": 18.6,
+      "lng": -98.85
+    },
+    {
+      "cityName": "Tepetlixpita",
+      "lat": 18.95,
+      "lng": -98.916667
+    },
+    {
+      "cityName": "Tepetzingo",
+      "lat": 18.766667,
+      "lng": -99.183333
+    },
+    {
+      "cityName": "Tepoxtlán",
+      "lat": 18.983333,
+      "lng": -99.1
+    },
+    {
+      "cityName": "Tequesquitengo",
+      "lat": 18.6,
+      "lng": -99.266667
+    },
+    {
+      "cityName": "Teresita",
+      "lat": 19.038611,
+      "lng": -99.259444
+    },
+    {
+      "cityName": "Tetecala",
+      "lat": 18.716667,
+      "lng": -99.4
+    },
+    {
+      "cityName": "Tetelapa",
+      "lat": 18.666667,
+      "lng": -99.233333
+    },
+    {
+      "cityName": "Tetelcingo",
+      "lat": 18.7,
+      "lng": -98.916667
+    },
+    {
+      "cityName": "Tetelillas",
+      "lat": 18.6,
+      "lng": -98.766667
+    },
+    {
+      "cityName": "Tetlama",
+      "lat": 18.816667,
+      "lng": -99.283333
+    },
+    {
+      "cityName": "Texcala",
+      "lat": 18.916667,
+      "lng": -98.783333
+    },
+    {
+      "cityName": "Texcalpan",
+      "lat": 18.933333,
+      "lng": -98.933333
+    },
+    {
+      "cityName": "Tezoyuca",
+      "lat": 18.8,
+      "lng": -99.216667
+    },
+    {
+      "cityName": "Ticumán",
+      "lat": 18.75,
+      "lng": -99.116667
+    },
+    {
+      "cityName": "Tilzapotla",
+      "lat": 18.483333,
+      "lng": -99.266667
+    },
+    {
+      "cityName": "Tlacotenco",
+      "lat": 19.015,
+      "lng": -99.094444
+    },
+    {
+      "cityName": "Tlacotepec",
+      "lat": 18.816667,
+      "lng": -98.75
+    },
+    {
+      "cityName": "Tlajotla",
+      "lat": 18.866667,
+      "lng": -99.4
+    },
+    {
+      "cityName": "Tlalmimilulpan",
+      "lat": 18.916667,
+      "lng": -98.75
+    },
+    {
+      "cityName": "Tlalnepantla",
+      "lat": 19,
+      "lng": -98.983333
+    },
+    {
+      "cityName": "Tlaltenango",
+      "lat": 18.933333,
+      "lng": -99.25
+    },
+    {
+      "cityName": "Tlaltetelco",
+      "lat": 18.95,
+      "lng": -98.933333
+    },
+    {
+      "cityName": "Tlaltizapán",
+      "lat": 18.683333,
+      "lng": -99.116667
+    },
+    {
+      "cityName": "Tlaquiltenango",
+      "lat": 18.633333,
+      "lng": -99.166667
+    },
+    {
+      "cityName": "Tlatenchi",
+      "lat": 18.583333,
+      "lng": -99.2
+    },
+    {
+      "cityName": "Tlayacapan",
+      "lat": 18.933333,
+      "lng": -98.983333
+    },
+    {
+      "cityName": "Tlayecac",
+      "lat": 18.75,
+      "lng": -98.883333
+    },
+    {
+      "cityName": "Tonautzontla",
+      "lat": 19.043889,
+      "lng": -99.26
+    },
+    {
+      "cityName": "Totolapan",
+      "lat": 18.966667,
+      "lng": -98.916667
+    },
+    {
+      "cityName": "Treinta",
+      "lat": 18.683333,
+      "lng": -99.183333
+    },
+    {
+      "cityName": "Tres Marías",
+      "lat": 19.052222,
+      "lng": -99.243056
+    },
+    {
+      "cityName": "Vista Hermosa",
+      "lat": 18.666667,
+      "lng": -99.266667
+    },
+    {
+      "cityName": "Xantiopan",
+      "lat": 18.433333,
+      "lng": -98.95
+    },
+    {
+      "cityName": "Xochiltepec",
+      "lat": 18.783333,
+      "lng": -99.233333
+    },
+    {
+      "cityName": "Xochimancas",
+      "lat": 18.783333,
+      "lng": -99.1
+    },
+    {
+      "cityName": "Xochipala",
+      "lat": 18.416667,
+      "lng": -99.066667
+    },
+    {
+      "cityName": "Xochitlán",
+      "lat": 18.866667,
+      "lng": -98.816667
+    },
+    {
+      "cityName": "Xolhoayo",
+      "lat": 18.9,
+      "lng": -98.816667
+    },
+    {
+      "cityName": "Xoxocotla",
+      "lat": 18.683333,
+      "lng": -99.25
+    },
+    {
+      "cityName": "Yacapitztla",
+      "lat": 18.883333,
+      "lng": -98.866667
+    },
+    {
+      "cityName": "Yautepec",
+      "lat": 18.883333,
+      "lng": -99.066667
+    },
+    {
+      "cityName": "Zacatepec",
+      "lat": 18.65,
+      "lng": -99.2
+    }
+  ]
+}

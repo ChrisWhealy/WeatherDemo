@@ -1,0 +1,38 @@
+{
+  "name": "Saint Pierre and Miquelon",
+  "iso2": "pm",
+  "cities": [
+    {
+      "cityName": "Miquelon",
+      "lat": 47.0975,
+      "lng": -56.3813889
+    },
+    {
+      "cityName": "Petit Barachois",
+      "lat": 46.8602778,
+      "lng": -56.3638889
+    },
+    {
+      "cityName": "Saint-Pierre",
+      "lat": 46.7666667,
+      "lng": -56.1833333
+    }
+  ],
+  "regionList": null,
+  "geoRectangle": {
+    "West": -56.4206619263,
+    "East": -56.252986908,
+    "North": 47.1462898254,
+    "South": 46.7860336304
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": -3,
+    "Flg": 2,
+    "Name": "Saint-Pierre",
+    "GeoPt": [
+      46.46,
+      -56.11
+    ]
+  }
+}

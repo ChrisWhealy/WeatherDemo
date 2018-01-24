@@ -1,0 +1,39 @@
+{
+  "name": "Taiwan",
+  "iso2": "tw",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Fu-chien",
+      "id": 0
+    },
+    {
+      "name": "Kao-hsiung",
+      "id": 1
+    },
+    {
+      "name": "T'ai-pei",
+      "id": 2
+    },
+    {
+      "name": "T'ai-wan",
+      "id": 3
+    }
+  ],
+  "geoRectangle": {
+    "West": 119.534683228,
+    "East": 122.000457764,
+    "North": 25.2982521057,
+    "South": 21.9018039703
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 8,
+    "Flg": 2,
+    "Name": "Taipei",
+    "GeoPt": [
+      25.03,
+      121.3
+    ]
+  }
+}

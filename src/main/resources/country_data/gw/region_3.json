@@ -1,0 +1,560 @@
+{
+  "name": "Bolama",
+  "cities": [
+    {
+      "cityName": "América",
+      "lat": 11.5666667,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Amizade",
+      "lat": 11.45,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Areia Branca",
+      "lat": 11.5,
+      "lng": -15.55
+    },
+    {
+      "cityName": "Arranja a Vida de Baixo",
+      "lat": 11.55,
+      "lng": -15.5166667
+    },
+    {
+      "cityName": "Arranja a Vida de Cima",
+      "lat": 11.55,
+      "lng": -15.5333333
+    },
+    {
+      "cityName": "Balambai",
+      "lat": 11.6,
+      "lng": -15.4833333
+    },
+    {
+      "cityName": "Balanca",
+      "lat": 11.6666667,
+      "lng": -15.4833333
+    },
+    {
+      "cityName": "Bambaiã",
+      "lat": 11.5,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Barraca",
+      "lat": 11.7,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Belai",
+      "lat": 11.65,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Belém",
+      "lat": 11.5166667,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Beracolom",
+      "lat": 11.6333333,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Bigine",
+      "lat": 11.4333333,
+      "lng": -15.4
+    },
+    {
+      "cityName": "Bijene",
+      "lat": 11.6,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Binhal",
+      "lat": 11.5333333,
+      "lng": -15.3166667
+    },
+    {
+      "cityName": "Bissássema de Baixo",
+      "lat": 11.35,
+      "lng": -15.5
+    },
+    {
+      "cityName": "Bissássema de Cima",
+      "lat": 11.4666667,
+      "lng": -15.4833333
+    },
+    {
+      "cityName": "Bolama",
+      "lat": 11.5833333,
+      "lng": -15.4666667
+    },
+    {
+      "cityName": "Bolama de Baixo",
+      "lat": 11.5166667,
+      "lng": -15.6166667
+    },
+    {
+      "cityName": "Bolama Nova",
+      "lat": 11.5833333,
+      "lng": -15.4833333
+    },
+    {
+      "cityName": "Cabaceira",
+      "lat": 11.5166667,
+      "lng": -15.3666667
+    },
+    {
+      "cityName": "Cabicunda",
+      "lat": 11.55,
+      "lng": -15.5666667
+    },
+    {
+      "cityName": "Caboupa Aguiar",
+      "lat": 11.5833333,
+      "lng": -15.5166667
+    },
+    {
+      "cityName": "Caboupa Cabral",
+      "lat": 11.5833333,
+      "lng": -15.5333333
+    },
+    {
+      "cityName": "Cacheusinho",
+      "lat": 11.6333333,
+      "lng": -15.45
+    },
+    {
+      "cityName": "Calaje",
+      "lat": 11.5166667,
+      "lng": -15.5833333
+    },
+    {
+      "cityName": "Calamancunda",
+      "lat": 11.5666667,
+      "lng": -15.5
+    },
+    {
+      "cityName": "Camagá",
+      "lat": 11.4333333,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Candebe",
+      "lat": 11.4833333,
+      "lng": -15.4666667
+    },
+    {
+      "cityName": "Cane",
+      "lat": 11.55,
+      "lng": -15.5833333
+    },
+    {
+      "cityName": "Canema Bijagó",
+      "lat": 11.5666667,
+      "lng": -15.5333333
+    },
+    {
+      "cityName": "Canema",
+      "lat": 11.55,
+      "lng": -15.55
+    },
+    {
+      "cityName": "Canhoga",
+      "lat": 11.6166667,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Cansonco",
+      "lat": 11.6,
+      "lng": -15.3
+    },
+    {
+      "cityName": "Cantambá",
+      "lat": 11.4,
+      "lng": -15.4
+    },
+    {
+      "cityName": "Cantene",
+      "lat": 11.6333333,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Capol",
+      "lat": 11.4666667,
+      "lng": -15.4
+    },
+    {
+      "cityName": "Cassequé",
+      "lat": 11.5666667,
+      "lng": -15.4833333
+    },
+    {
+      "cityName": "Caunto",
+      "lat": 11.4666667,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Colonia",
+      "lat": 11.5666667,
+      "lng": -15.45
+    },
+    {
+      "cityName": "Colónia de Cima",
+      "lat": 11.5833333,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Dacar",
+      "lat": 11.4666667,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Dacarzinho",
+      "lat": 11.4833333,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Darsalame",
+      "lat": 11.45,
+      "lng": -15.4
+    },
+    {
+      "cityName": "Farancunda",
+      "lat": 11.6666667,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Farato",
+      "lat": 11.6666667,
+      "lng": -15.4
+    },
+    {
+      "cityName": "Farroba",
+      "lat": 11.5,
+      "lng": -15.3666667
+    },
+    {
+      "cityName": "Fei",
+      "lat": 11.6666667,
+      "lng": -15.45
+    },
+    {
+      "cityName": "Fulacunda",
+      "lat": 11.4333333,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Gã Eugénia Bijagó",
+      "lat": 11.5166667,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Gã Eugénia",
+      "lat": 11.5333333,
+      "lng": -15.4
+    },
+    {
+      "cityName": "Gã José",
+      "lat": 11.6666667,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Gã Juliana",
+      "lat": 11.7,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Gã Maior Beafada",
+      "lat": 11.5833333,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Gã Maior de Baixo",
+      "lat": 11.5666667,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Gã Maior de Cima",
+      "lat": 11.6,
+      "lng": -15.4
+    },
+    {
+      "cityName": "Gamamadubà",
+      "lat": 11.3666667,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Gã Maria",
+      "lat": 11.5166667,
+      "lng": -15.55
+    },
+    {
+      "cityName": "Gamariquê",
+      "lat": 11.65,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Gambácar Nancho",
+      "lat": 11.6333333,
+      "lng": -15.4
+    },
+    {
+      "cityName": "Gambaqui",
+      "lat": 11.4,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Gambussi",
+      "lat": 11.7166667,
+      "lng": -15.45
+    },
+    {
+      "cityName": "Gã Mitilia",
+      "lat": 11.65,
+      "lng": -15.4666667
+    },
+    {
+      "cityName": "Gampite",
+      "lat": 11.5666667,
+      "lng": -15.3166667
+    },
+    {
+      "cityName": "Gam Vicente",
+      "lat": 11.6166667,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Ganchombè",
+      "lat": 11.35,
+      "lng": -15.45
+    },
+    {
+      "cityName": "Gancula",
+      "lat": 11.55,
+      "lng": -15.3166667
+    },
+    {
+      "cityName": "Gandenós",
+      "lat": 11.4166667,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Ganfodebá",
+      "lat": 11.55,
+      "lng": -15.4666667
+    },
+    {
+      "cityName": "Ganfodè Jassi",
+      "lat": 11.65,
+      "lng": -15.3666667
+    },
+    {
+      "cityName": "Ganjombom",
+      "lat": 11.4833333,
+      "lng": -15.3666667
+    },
+    {
+      "cityName": "Gantumane",
+      "lat": 11.4,
+      "lng": -15.4833333
+    },
+    {
+      "cityName": "Ganturè",
+      "lat": 11.4,
+      "lng": -15.45
+    },
+    {
+      "cityName": "Gã Saúde",
+      "lat": 11.6666667,
+      "lng": -15.4666667
+    },
+    {
+      "cityName": "Gã Silá",
+      "lat": 11.55,
+      "lng": -15.4833333
+    },
+    {
+      "cityName": "Gubia Mancanha",
+      "lat": 11.5,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Guebambol",
+      "lat": 11.6333333,
+      "lng": -15.3166667
+    },
+    {
+      "cityName": "Ilha das Cobras",
+      "lat": 11.6333333,
+      "lng": -15.4666667
+    },
+    {
+      "cityName": "Ilhéu do Mancebo",
+      "lat": 11.6833333,
+      "lng": -15.5333333
+    },
+    {
+      "cityName": "Intindumbo",
+      "lat": 11.3833333,
+      "lng": -15.4833333
+    },
+    {
+      "cityName": "João Monteiro",
+      "lat": 11.55,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "João Monteirozinho",
+      "lat": 11.5833333,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Junqueira",
+      "lat": 11.65,
+      "lng": -15.45
+    },
+    {
+      "cityName": "Lala Balanta",
+      "lat": 11.6,
+      "lng": -15.5
+    },
+    {
+      "cityName": "Lala de Baixo",
+      "lat": 11.6333333,
+      "lng": -15.3666667
+    },
+    {
+      "cityName": "Lala de Cima",
+      "lat": 11.6333333,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Lala",
+      "lat": 11.5,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Marsasse",
+      "lat": 11.5666667,
+      "lng": -15.5666667
+    },
+    {
+      "cityName": "Mato Grande",
+      "lat": 11.6833333,
+      "lng": -15.4166667
+    },
+    {
+      "cityName": "Meningue",
+      "lat": 11.6833333,
+      "lng": -15.45
+    },
+    {
+      "cityName": "Mèruigi",
+      "lat": 11.3333333,
+      "lng": -15.5
+    },
+    {
+      "cityName": "Missirá",
+      "lat": 11.5833333,
+      "lng": -15.5
+    },
+    {
+      "cityName": "Nerompe",
+      "lat": 11.5333333,
+      "lng": -15.6
+    },
+    {
+      "cityName": "Paiunco",
+      "lat": 11.4666667,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "Ponta Filipe",
+      "lat": 11.4833333,
+      "lng": -15.35
+    },
+    {
+      "cityName": "Ponta Nova",
+      "lat": 11.6,
+      "lng": -15.5166667
+    },
+    {
+      "cityName": "Pontia",
+      "lat": 11.5333333,
+      "lng": -15.5833333
+    },
+    {
+      "cityName": "Preço Leve",
+      "lat": 11.5666667,
+      "lng": -15.4666667
+    },
+    {
+      "cityName": "Pujunguto",
+      "lat": 11.6166667,
+      "lng": -15.4833333
+    },
+    {
+      "cityName": "Salanca",
+      "lat": 11.5333333,
+      "lng": -15.5666667
+    },
+    {
+      "cityName": "Sancoma",
+      "lat": 11.4833333,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Santa Joana",
+      "lat": 11.6833333,
+      "lng": -15.4666667
+    },
+    {
+      "cityName": "Santa Maria",
+      "lat": 11.6166667,
+      "lng": -15.45
+    },
+    {
+      "cityName": "São Domingos",
+      "lat": 11.3833333,
+      "lng": -15.3833333
+    },
+    {
+      "cityName": "São João",
+      "lat": 11.5833333,
+      "lng": -15.45
+    },
+    {
+      "cityName": "São Martinho",
+      "lat": 11.4166667,
+      "lng": -15.45
+    },
+    {
+      "cityName": "Somba",
+      "lat": 11.4333333,
+      "lng": -15.3666667
+    },
+    {
+      "cityName": "Tabanca Nova",
+      "lat": 11.4666667,
+      "lng": -15.4333333
+    },
+    {
+      "cityName": "Tarna",
+      "lat": 11.55,
+      "lng": -15.2833333
+    },
+    {
+      "cityName": "Tema",
+      "lat": 11.6166667,
+      "lng": -15.3333333
+    },
+    {
+      "cityName": "Umpotoco",
+      "lat": 11.4166667,
+      "lng": -15.3833333
+    }
+  ]
+}

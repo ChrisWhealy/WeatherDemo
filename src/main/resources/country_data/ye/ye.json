@@ -1,0 +1,91 @@
+{
+  "name": "Yemen",
+  "iso2": "ye",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Abyan",
+      "id": 0
+    },
+    {
+      "name": "Adan",
+      "id": 1
+    },
+    {
+      "name": "Al Bayda'",
+      "id": 2
+    },
+    {
+      "name": "Al Hudaydah",
+      "id": 3
+    },
+    {
+      "name": "Al Jawf",
+      "id": 4
+    },
+    {
+      "name": "Al Mahrah",
+      "id": 5
+    },
+    {
+      "name": "Al Mahwit",
+      "id": 6
+    },
+    {
+      "name": "Dhamar",
+      "id": 7
+    },
+    {
+      "name": "Hadramawt",
+      "id": 8
+    },
+    {
+      "name": "Hajjah",
+      "id": 9
+    },
+    {
+      "name": "Ibb",
+      "id": 10
+    },
+    {
+      "name": "Lahij",
+      "id": 11
+    },
+    {
+      "name": "Ma'rib",
+      "id": 12
+    },
+    {
+      "name": "Sa'dah",
+      "id": 13
+    },
+    {
+      "name": "San'a'",
+      "id": 14
+    },
+    {
+      "name": "Taizz",
+      "id": 15
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 16
+    }
+  ],
+  "geoRectangle": {
+    "West": 42.5325241089,
+    "East": 54.5305328369,
+    "North": 19.0023365021,
+    "South": 12.1110811234
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 3,
+    "Flg": 2,
+    "Name": "Sanaa",
+    "GeoPt": [
+      15.21,
+      44.12
+    ]
+  }
+}

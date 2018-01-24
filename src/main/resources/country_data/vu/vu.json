@@ -1,0 +1,67 @@
+{
+  "name": "Vanuatu",
+  "iso2": "vu",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Ambrym",
+      "id": 0
+    },
+    {
+      "name": "Aoba",
+      "id": 1
+    },
+    {
+      "name": "Efate",
+      "id": 2
+    },
+    {
+      "name": "Epi",
+      "id": 3
+    },
+    {
+      "name": "Malakula",
+      "id": 4
+    },
+    {
+      "name": "Paama",
+      "id": 5
+    },
+    {
+      "name": "Pentecote",
+      "id": 6
+    },
+    {
+      "name": "Sanma",
+      "id": 7
+    },
+    {
+      "name": "Shepherd",
+      "id": 8
+    },
+    {
+      "name": "Tafea",
+      "id": 9
+    },
+    {
+      "name": "Torba",
+      "id": 10
+    }
+  ],
+  "geoRectangle": {
+    "West": 166.524963379,
+    "East": 169.904800415,
+    "North": -13.0734424591,
+    "South": -20.2489471436
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 11,
+    "Flg": 2,
+    "Name": "Port-Vila",
+    "GeoPt": [
+      -17.44,
+      168.19
+    ]
+  }
+}

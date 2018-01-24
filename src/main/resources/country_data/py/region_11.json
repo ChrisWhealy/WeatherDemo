@@ -1,0 +1,590 @@
+{
+  "name": "Itapua",
+  "cities": [
+    {
+      "cityName": "Alborada Dos",
+      "lat": -27.3,
+      "lng": -55.7166667
+    },
+    {
+      "cityName": "Alborada Uno",
+      "lat": -27.2666667,
+      "lng": -55.7
+    },
+    {
+      "cityName": "Alto Verá",
+      "lat": -26.5833333,
+      "lng": -55.6333333
+    },
+    {
+      "cityName": "Arquitecto Tomás Romero Pereira",
+      "lat": -26.4833333,
+      "lng": -55.25
+    },
+    {
+      "cityName": "Asseradero",
+      "lat": -27.2166667,
+      "lng": -56.1666667
+    },
+    {
+      "cityName": "Assetadero",
+      "lat": -27.3666667,
+      "lng": -55.85
+    },
+    {
+      "cityName": "Bella Vista",
+      "lat": -27.05,
+      "lng": -55.55
+    },
+    {
+      "cityName": "Bobí",
+      "lat": -26.9333333,
+      "lng": -56.2166667
+    },
+    {
+      "cityName": "Cachi Puente",
+      "lat": -27.1833333,
+      "lng": -56.3
+    },
+    {
+      "cityName": "Cambyretá",
+      "lat": -27.35,
+      "lng": -55.7833333
+    },
+    {
+      "cityName": "Campichuelo",
+      "lat": -27.4333333,
+      "lng": -55.7666667
+    },
+    {
+      "cityName": "Capitán Meza",
+      "lat": -27.0166667,
+      "lng": -55.5666667
+    },
+    {
+      "cityName": "Capitán Miranda",
+      "lat": -27.2,
+      "lng": -55.8
+    },
+    {
+      "cityName": "Capitán Vicente A. Matiauda",
+      "lat": -27.2333333,
+      "lng": -55.6
+    },
+    {
+      "cityName": "Caraguatá",
+      "lat": -27.25,
+      "lng": -56.0833333
+    },
+    {
+      "cityName": "Carlos Antonio López",
+      "lat": -26.4,
+      "lng": -54.7666667
+    },
+    {
+      "cityName": "Carmen",
+      "lat": -27.2333333,
+      "lng": -56.2166667
+    },
+    {
+      "cityName": "Colonia Ape-Aime",
+      "lat": -26.5833333,
+      "lng": -54.8666667
+    },
+    {
+      "cityName": "Colonia Caárendy",
+      "lat": -26.9333333,
+      "lng": -55.45
+    },
+    {
+      "cityName": "Colonia Capitán F. Leguizamón",
+      "lat": -26.75,
+      "lng": -56.2333333
+    },
+    {
+      "cityName": "Colonia Doctor Pastor Obligado",
+      "lat": -27.0333333,
+      "lng": -55.6333333
+    },
+    {
+      "cityName": "Colonia Fram",
+      "lat": -27.0333333,
+      "lng": -56.05
+    },
+    {
+      "cityName": "Colonia General Delgado",
+      "lat": -27.1666667,
+      "lng": -56.5166667
+    },
+    {
+      "cityName": "Colonia Herrera Vega",
+      "lat": -27.2166667,
+      "lng": -55.7166667
+    },
+    {
+      "cityName": "Colonia Hohenau",
+      "lat": -27.0833333,
+      "lng": -55.75
+    },
+    {
+      "cityName": "Colonia Mayor Otaño",
+      "lat": -26.6166667,
+      "lng": -54.9
+    },
+    {
+      "cityName": "Colonia Rusa",
+      "lat": -27.2333333,
+      "lng": -55.85
+    },
+    {
+      "cityName": "Colonia Salto",
+      "lat": -27.45,
+      "lng": -56.6833333
+    },
+    {
+      "cityName": "Colonia Santo Domingo",
+      "lat": -27.3166667,
+      "lng": -56.0333333
+    },
+    {
+      "cityName": "Colonia Siete de Agosto",
+      "lat": -26.3833333,
+      "lng": -54.9
+    },
+    {
+      "cityName": "Colonia Tacuarí",
+      "lat": -27.2666667,
+      "lng": -55.8666667
+    },
+    {
+      "cityName": "Compañia Curuñai",
+      "lat": -27.1,
+      "lng": -56.4833333
+    },
+    {
+      "cityName": "Compañía Resquín Cué",
+      "lat": -27.25,
+      "lng": -56.2333333
+    },
+    {
+      "cityName": "Edelira",
+      "lat": -26.75,
+      "lng": -55.2666667
+    },
+    {
+      "cityName": "Encarnación",
+      "lat": -27.3333333,
+      "lng": -55.9
+    },
+    {
+      "cityName": "Establecimito Juan Benitez",
+      "lat": -27.1,
+      "lng": -56.3166667
+    },
+    {
+      "cityName": "Estancia Avarenga",
+      "lat": -27.05,
+      "lng": -56.2
+    },
+    {
+      "cityName": "Estancia Barboza",
+      "lat": -26.7833333,
+      "lng": -56.4333333
+    },
+    {
+      "cityName": "Estancia Cerrito",
+      "lat": -26.9,
+      "lng": -56.4833333
+    },
+    {
+      "cityName": "Estancia Gaona",
+      "lat": -27.0333333,
+      "lng": -56.2833333
+    },
+    {
+      "cityName": "Estancia Laurel",
+      "lat": -27.1833333,
+      "lng": -56.5666667
+    },
+    {
+      "cityName": "Estancia Lavista",
+      "lat": -27.2333333,
+      "lng": -56.2333333
+    },
+    {
+      "cityName": "Estancia Loma",
+      "lat": -26.8166667,
+      "lng": -56.4666667
+    },
+    {
+      "cityName": "Estancia Maria Ester",
+      "lat": -26.8333333,
+      "lng": -56.6166667
+    },
+    {
+      "cityName": "Estancia Pablo Rene Mora",
+      "lat": -27.2666667,
+      "lng": -56.6666667
+    },
+    {
+      "cityName": "Estancia Pirity",
+      "lat": -26.9333333,
+      "lng": -56.3333333
+    },
+    {
+      "cityName": "Estancia Prado Verde",
+      "lat": -26.2,
+      "lng": -54.85
+    },
+    {
+      "cityName": "Estancia Ramón Dávalos",
+      "lat": -27.0333333,
+      "lng": -56.4333333
+    },
+    {
+      "cityName": "Estancia Salitre Cué",
+      "lat": -26.65,
+      "lng": -56.3666667
+    },
+    {
+      "cityName": "Estancia Salto Cué",
+      "lat": -26.8,
+      "lng": -56.5333333
+    },
+    {
+      "cityName": "Estancia San Antonio",
+      "lat": -27.0833333,
+      "lng": -56.4166667
+    },
+    {
+      "cityName": "Estancia San Isidro",
+      "lat": -26.5166667,
+      "lng": -55.8666667
+    },
+    {
+      "cityName": "Estancia Santa Teresa",
+      "lat": -26.5833333,
+      "lng": -55.9833333
+    },
+    {
+      "cityName": "Estancia Seripi",
+      "lat": -27.2666667,
+      "lng": -56.3333333
+    },
+    {
+      "cityName": "Estancia Tatare",
+      "lat": -26.9833333,
+      "lng": -56.6166667
+    },
+    {
+      "cityName": "Estancia Yacuá Nú",
+      "lat": -27.05,
+      "lng": -56.6166667
+    },
+    {
+      "cityName": "Fram",
+      "lat": -26.9833333,
+      "lng": -55.8833333
+    },
+    {
+      "cityName": "Isla Alta",
+      "lat": -27,
+      "lng": -56.3166667
+    },
+    {
+      "cityName": "Itapúa Poty",
+      "lat": -26.5833333,
+      "lng": -55.5666667
+    },
+    {
+      "cityName": "Jesús",
+      "lat": -27.05,
+      "lng": -55.7833333
+    },
+    {
+      "cityName": "José Potrero",
+      "lat": -26.8833333,
+      "lng": -56
+    },
+    {
+      "cityName": "Katupyry",
+      "lat": -26.4833333,
+      "lng": -55.5333333
+    },
+    {
+      "cityName": "La Paz",
+      "lat": -27.0166667,
+      "lng": -55.85
+    },
+    {
+      "cityName": "Leandro Oviedo",
+      "lat": -26.7166667,
+      "lng": -56.2333333
+    },
+    {
+      "cityName": "Maciel-cué",
+      "lat": -27.1833333,
+      "lng": -56.6166667
+    },
+    {
+      "cityName": "Mayor Julio D. Otaño",
+      "lat": -26.3,
+      "lng": -54.7
+    },
+    {
+      "cityName": "Naranjito",
+      "lat": -26.3166667,
+      "lng": -55.2166667
+    },
+    {
+      "cityName": "Natalio",
+      "lat": -26.7166667,
+      "lng": -55.0833333
+    },
+    {
+      "cityName": "Nueva Alborada",
+      "lat": -27.25,
+      "lng": -55.6166667
+    },
+    {
+      "cityName": "Pacú Cuá",
+      "lat": -27.4,
+      "lng": -55.8166667
+    },
+    {
+      "cityName": "Paraje Linda",
+      "lat": -26.3833333,
+      "lng": -55.1166667
+    },
+    {
+      "cityName": "Pareja",
+      "lat": -26.3,
+      "lng": -54.75
+    },
+    {
+      "cityName": "Pelanca",
+      "lat": -26.2833333,
+      "lng": -55.2833333
+    },
+    {
+      "cityName": "Pirapo",
+      "lat": -26.85,
+      "lng": -55.5333333
+    },
+    {
+      "cityName": "Piratey",
+      "lat": -26.55,
+      "lng": -55.2833333
+    },
+    {
+      "cityName": "Potrero Ybate",
+      "lat": -26.8,
+      "lng": -56.1
+    },
+    {
+      "cityName": "Puerto Arroyo Verde",
+      "lat": -27.3833333,
+      "lng": -55.7
+    },
+    {
+      "cityName": "Puerto Bella Vista",
+      "lat": -27.1,
+      "lng": -55.5166667
+    },
+    {
+      "cityName": "Puerto Cantera",
+      "lat": -27.2166667,
+      "lng": -55.6
+    },
+    {
+      "cityName": "Puerto Carmona",
+      "lat": -27.15,
+      "lng": -55.7
+    },
+    {
+      "cityName": "Puerto Edelira",
+      "lat": -26.9,
+      "lng": -55.15
+    },
+    {
+      "cityName": "Puerto Hohenau",
+      "lat": -27.15,
+      "lng": -55.5666667
+    },
+    {
+      "cityName": "Puerto Iribo",
+      "lat": -27.3666667,
+      "lng": -55.6833333
+    },
+    {
+      "cityName": "Puerto Italia",
+      "lat": -26.9833333,
+      "lng": -55.45
+    },
+    {
+      "cityName": "Puerto Mayor Otaño",
+      "lat": -26.4,
+      "lng": -54.7
+    },
+    {
+      "cityName": "Puerto Mburajhe",
+      "lat": -27.4833333,
+      "lng": -56.7333333
+    },
+    {
+      "cityName": "Puerto Obligado",
+      "lat": -27.1,
+      "lng": -55.5666667
+    },
+    {
+      "cityName": "Puerto Paloma",
+      "lat": -26.85,
+      "lng": -55.1333333
+    },
+    {
+      "cityName": "Puerto Paraiso",
+      "lat": -27.2833333,
+      "lng": -55.6166667
+    },
+    {
+      "cityName": "Puerto Porvenir",
+      "lat": -26.6833333,
+      "lng": -54.9333333
+    },
+    {
+      "cityName": "Puerto Samuhú",
+      "lat": -27.3333333,
+      "lng": -55.6166667
+    },
+    {
+      "cityName": "Puerto San José",
+      "lat": -26.5666667,
+      "lng": -54.8
+    },
+    {
+      "cityName": "Puerto San Lorenzo",
+      "lat": -26.5166667,
+      "lng": -54.7666667
+    },
+    {
+      "cityName": "Puerto Santa Rosa de Lima",
+      "lat": -27.15,
+      "lng": -55.6
+    },
+    {
+      "cityName": "Puerto Siete de Agosto",
+      "lat": -26.45,
+      "lng": -54.8
+    },
+    {
+      "cityName": "Puerto Tres Palmito",
+      "lat": -27.3666667,
+      "lng": -55.65
+    },
+    {
+      "cityName": "Puerto Triunfo",
+      "lat": -26.75,
+      "lng": -55.1
+    },
+    {
+      "cityName": "Puerto Turi",
+      "lat": -27.4,
+      "lng": -56.75
+    },
+    {
+      "cityName": "Puerto Vacay",
+      "lat": -27.0333333,
+      "lng": -55.4666667
+    },
+    {
+      "cityName": "Puerto Yacare Cué",
+      "lat": -26.7833333,
+      "lng": -55.0666667
+    },
+    {
+      "cityName": "Puerto Ybcui Ñaro",
+      "lat": -27.35,
+      "lng": -55.6
+    },
+    {
+      "cityName": "Rancho Cabrera",
+      "lat": -26.2166667,
+      "lng": -54.8166667
+    },
+    {
+      "cityName": "San Cosme",
+      "lat": -27.3166667,
+      "lng": -56.35
+    },
+    {
+      "cityName": "San José",
+      "lat": -26.7,
+      "lng": -55.0333333
+    },
+    {
+      "cityName": "San Juan del Paraná",
+      "lat": -27.3,
+      "lng": -55.9666667
+    },
+    {
+      "cityName": "San Juan",
+      "lat": -27.2666667,
+      "lng": -56
+    },
+    {
+      "cityName": "San Luis Boquerón",
+      "lat": -27.1,
+      "lng": -56.6
+    },
+    {
+      "cityName": "San Pedro del Paraná",
+      "lat": -26.8333333,
+      "lng": -56.2
+    },
+    {
+      "cityName": "San Rafael del Parana",
+      "lat": -26.65,
+      "lng": -54.9333333
+    },
+    {
+      "cityName": "San Rafael",
+      "lat": -27.1333333,
+      "lng": -56.3833333
+    },
+    {
+      "cityName": "Santa Maria",
+      "lat": -26.9,
+      "lng": -55.8166667
+    },
+    {
+      "cityName": "Santa Rosa",
+      "lat": -27,
+      "lng": -55.8333333
+    },
+    {
+      "cityName": "Santiago Cué",
+      "lat": -26.8666667,
+      "lng": -55.9333333
+    },
+    {
+      "cityName": "Santo Domingo",
+      "lat": -26.65,
+      "lng": -55.0666667
+    },
+    {
+      "cityName": "Trinidad",
+      "lat": -27.1166667,
+      "lng": -55.7833333
+    },
+    {
+      "cityName": "Urusapucai",
+      "lat": -27.1833333,
+      "lng": -55.95
+    },
+    {
+      "cityName": "Vacay",
+      "lat": -26.9,
+      "lng": -55.6
+    }
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "name": "Borgou",
+  "cities": [
+    {
+      "cityName": "Adakparo",
+      "lat": 9.2666667,
+      "lng": 2.65
+    },
+    {
+      "cityName": "Adamoukparo",
+      "lat": 9.25,
+      "lng": 2.65
+    },
+    {
+      "cityName": "Adohoukparou",
+      "lat": 9.0333333,
+      "lng": 2.5
+    },
+    {
+      "cityName": "Agramarou",
+      "lat": 9.05,
+      "lng": 2.4
+    },
+    {
+      "cityName": "Alafiarou",
+      "lat": 9.4,
+      "lng": 2.6833333
+    },
+    {
+      "cityName": "Amawihon",
+      "lat": 9.3666667,
+      "lng": 2.6166667
+    },
+    {
+      "cityName": "Aménourou",
+      "lat": 9.2,
+      "lng": 2.5
+    },
+    {
+      "cityName": "Arérou",
+      "lat": 9.45,
+      "lng": 2.6
+    },
+    {
+      "cityName": "Arraronmi",
+      "lat": 8.4833333,
+      "lng": 2.65
+    },
+    {
+      "cityName": "Ayégourou",
+      "lat": 9.1166667,
+      "lng": 2.3833333
+    },
+    {
+      "cityName": "Babarou",
+      "lat": 9.1,
+      "lng": 2.4166667
+    },
+    {
+      "cityName": "Badékparou",
+      "lat": 9.2166667,
+      "lng": 2.5666667
+    },
+    {
+      "cityName": "Bagweru",
+      "lat": 9.2666667,
+      "lng": 2.5833333
+    },
+    {
+      "cityName": "Bakaga",
+      "lat": 9.3,
+      "lng": 2.6666667
+    },
+    {
+      "cityName": "Bakounkparou",
+      "lat": 9.4166667,
+      "lng": 2.5833333
+    },
+    {
+      "cityName": "Bakounourou",
+      "lat": 9.2833333,
+      "lng": 2.6166667
+    },
+    {
+      "cityName": "Bankaro",
+      "lat": 9.1833333,
+      "lng": 2.45
+    },
+    {
+      "cityName": "Barérou",
+      "lat": 9.35,
+      "lng": 2.4
+    },
+    {
+      "cityName": "Bassa",
+      "lat": 9.2833333,
+      "lng": 2.7333333
+    },
+    {
+      "cityName": "Bébiéourou",
+      "lat": 9.2333333,
+      "lng": 2.6333333
+    },
+    {
+      "cityName": "Béradourouga",
+      "lat": 8.9666667,
+      "lng": 2.6333333
+    },
+    {
+      "cityName": "Bérékpané",
+      "lat": 9.0666667,
+      "lng": 2.5333333
+    },
+    {
+      "cityName": "Béréyadou",
+      "lat": 9.3,
+      "lng": 2.6
+    },
+    {
+      "cityName": "Bibi",
+      "lat": 9.0166667,
+      "lng": 2.5
+    },
+    {
+      "cityName": "Bissira",
+      "lat": 9.3666667,
+      "lng": 2.4333333
+    },
+    {
+      "cityName": "Bopokou",
+      "lat": 9.1666667,
+      "lng": 2.6
+    },
+    {
+      "cityName": "Borarou",
+      "lat": 9.3,
+      "lng": 2.5666667
+    },
+    {
+      "cityName": "Bouhihakao",
+      "lat": 9,
+      "lng": 2.5333333
+    },
+    {
+      "cityName": "Boun",
+      "lat": 9.2333333,
+      "lng": 2.5166667
+    },
+    {
+      "cityName": "Bountiro",
+      "lat": 9.1,
+      "lng": 2.5833333
+    },
+    {
+      "cityName": "Chachu",
+      "lat": 9.1166667,
+      "lng": 2.5666667
+    },
+    {
+      "cityName": "Dabou",
+      "lat": 9.45,
+      "lng": 2.5666667
+    },
+    {
+      "cityName": "Darno",
+      "lat": 9.4333333,
+      "lng": 2.7166667
+    },
+    {
+      "cityName": "Darou Kourarou",
+      "lat": 9.4,
+      "lng": 2.5833333
+    },
+    {
+      "cityName": "Débrégourou",
+      "lat": 9.4166667,
+      "lng": 2.6166667
+    },
+    {
+      "cityName": "Démon",
+      "lat": 8.9833333,
+      "lng": 2.5666667
+    },
+    {
+      "cityName": "Démou",
+      "lat": 9.0333333,
+      "lng": 2.55
+    },
+    {
+      "cityName": "Dokparou",
+      "lat": 9.3833333,
+      "lng": 2.65
+    },
+    {
+      "cityName": "Donouhorou",
+      "lat": 8.9833333,
+      "lng": 2.6333333
+    },
+    {
+      "cityName": "Douroubé",
+      "lat": 9.4166667,
+      "lng": 2.6833333
+    },
+    {
+      "cityName": "Fiarou",
+      "lat": 9.25,
+      "lng": 2.4333333
+    },
+    {
+      "cityName": "Forané Kparou",
+      "lat": 9.4,
+      "lng": 2.5666667
+    },
+    {
+      "cityName": "Gabaka",
+      "lat": 9.2833333,
+      "lng": 2.5166667
+    },
+    {
+      "cityName": "Gagbébou",
+      "lat": 9.3833333,
+      "lng": 2.6
+    },
+    {
+      "cityName": "Gandérou",
+      "lat": 9.2666667,
+      "lng": 2.5666667
+    },
+    {
+      "cityName": "Ganou",
+      "lat": 9.3833333,
+      "lng": 2.6333333
+    },
+    {
+      "cityName": "Ga Yakabou",
+      "lat": 9.4166667,
+      "lng": 2.5666667
+    },
+    {
+      "cityName": "Gbassa",
+      "lat": 9.2333333,
+      "lng": 2.3666667
+    },
+    {
+      "cityName": "Gbégourou",
+      "lat": 9.1333333,
+      "lng": 2.3833333
+    },
+    {
+      "cityName": "Gbéroukpané",
+      "lat": 9.25,
+      "lng": 2.35
+    },
+    {
+      "cityName": "Gbétébou",
+      "lat": 9.2,
+      "lng": 2.4333333
+    },
+    {
+      "cityName": "Gobigourou",
+      "lat": 9.2333333,
+      "lng": 2.5
+    },
+    {
+      "cityName": "Gogborérou",
+      "lat": 9.3333333,
+      "lng": 2.4833333
+    },
+    {
+      "cityName": "Gokana",
+      "lat": 9.0333333,
+      "lng": 2.5833333
+    },
+    {
+      "cityName": "Gommboko",
+      "lat": 9.2666667,
+      "lng": 2.6166667
+    },
+    {
+      "cityName": "Goromossorou",
+      "lat": 9.2666667,
+      "lng": 2.35
+    },
+    {
+      "cityName": "Gouarou",
+      "lat": 9.2,
+      "lng": 2.4833333
+    },
+    {
+      "cityName": "Gouforou",
+      "lat": 9.25,
+      "lng": 2.6166667
+    },
+    {
+      "cityName": "Gouniako",
+      "lat": 9.3,
+      "lng": 2.7833333
+    },
+    {
+      "cityName": "Gounourou",
+      "lat": 9.2833333,
+      "lng": 2.5
+    },
+    {
+      "cityName": "Goutéré",
+      "lat": 9.3,
+      "lng": 2.6833333
+    },
+    {
+      "cityName": "Guéma",
+      "lat": 9.4,
+      "lng": 2.6
+    },
+    {
+      "cityName": "Guérérou",
+      "lat": 9.3666667,
+      "lng": 2.6
+    },
+    {
+      "cityName": "Guéssou",
+      "lat": 9.4166667,
+      "lng": 2.7333333
+    },
+    {
+      "cityName": "Guidankouarou",
+      "lat": 9.05,
+      "lng": 2.5166667
+    },
+    {
+      "cityName": "Guidanparo",
+      "lat": 9.35,
+      "lng": 2.7833333
+    },
+    {
+      "cityName": "Guinrérou",
+      "lat": 9.3333333,
+      "lng": 2.5166667
+    },
+    {
+      "cityName": "Guinrou",
+      "lat": 9.3,
+      "lng": 2.5
+    },
+    {
+      "cityName": "Ibrassimga",
+      "lat": 9.2333333,
+      "lng": 2.6
+    },
+    {
+      "cityName": "Jimmba",
+      "lat": 9.15,
+      "lng": 2.5166667
+    },
+    {
+      "cityName": "Kaborokpo",
+      "lat": 9.3166667,
+      "lng": 2.55
+    },
+    {
+      "cityName": "Kabro",
+      "lat": 9.3166667,
+      "lng": 2.5666667
+    },
+    {
+      "cityName": "Karla",
+      "lat": 9.0666667,
+      "lng": 2.7333333
+    },
+    {
+      "cityName": "Karobouarou",
+      "lat": 9.3666667,
+      "lng": 2.7
+    },
+    {
+      "cityName": "Karo",
+      "lat": 9.2,
+      "lng": 2.6333333
+    },
+    {
+      "cityName": "Karokoubou",
+      "lat": 9.2666667,
+      "lng": 2.4666667
+    },
+    {
+      "cityName": "Kassakpéré",
+      "lat": 9.2833333,
+      "lng": 2.4666667
+    },
+    {
+      "cityName": "Kénoukpanou",
+      "lat": 9.0833333,
+      "lng": 2.5
+    },
+    {
+      "cityName": "Kika",
+      "lat": 9.2833333,
+      "lng": 2.7833333
+    },
+    {
+      "cityName": "Kikanga",
+      "lat": 9.3166667,
+      "lng": 2.8
+    },
+    {
+      "cityName": "Kiro",
+      "lat": 9.0666667,
+      "lng": 2.5833333
+    },
+    {
+      "cityName": "Kodowari",
+      "lat": 9.2,
+      "lng": 2.5666667
+    },
+    {
+      "cityName": "Komi",
+      "lat": 9.4333333,
+      "lng": 2.65
+    },
+    {
+      "cityName": "Konkoma",
+      "lat": 9.3166667,
+      "lng": 2.7
+    },
+    {
+      "cityName": "Kontoubarou",
+      "lat": 9.15,
+      "lng": 2.6
+    },
+    {
+      "cityName": "Koumbéréka",
+      "lat": 9.25,
+      "lng": 2.5666667
+    },
+    {
+      "cityName": "Koumérou",
+      "lat": 9.3166667,
+      "lng": 2.5833333
+    },
+    {
+      "cityName": "Kpatébou",
+      "lat": 9.3166667,
+      "lng": 2.5
+    },
+    {
+      "cityName": "Kpéba",
+      "lat": 9.0666667,
+      "lng": 2.4333333
+    },
+    {
+      "cityName": "Moundouro",
+      "lat": 9.2833333,
+      "lng": 2.65
+    },
+    {
+      "cityName": "Nékinparo",
+      "lat": 9.2666667,
+      "lng": 2.6
+    },
+    {
+      "cityName": "Nizouhabou",
+      "lat": 9,
+      "lng": 2.5
+    },
+    {
+      "cityName": "Oudarou",
+      "lat": 9.25,
+      "lng": 2.5833333
+    },
+    {
+      "cityName": "Ouorora",
+      "lat": 9.35,
+      "lng": 2.55
+    },
+    {
+      "cityName": "Ourouba-Kouarou",
+      "lat": 9.0166667,
+      "lng": 2.5333333
+    },
+    {
+      "cityName": "Parakou",
+      "lat": 9.35,
+      "lng": 2.6166667
+    },
+    {
+      "cityName": "Pépékino",
+      "lat": 9.35,
+      "lng": 2.7
+    },
+    {
+      "cityName": "Pépépétérou",
+      "lat": 9.3,
+      "lng": 2.5833333
+    },
+    {
+      "cityName": "Pourari",
+      "lat": 9.2666667,
+      "lng": 2.3833333
+    },
+    {
+      "cityName": "Sabissé Konpararou",
+      "lat": 9.45,
+      "lng": 2.6333333
+    },
+    {
+      "cityName": "Sakana",
+      "lat": 9.05,
+      "lng": 2.5
+    },
+    {
+      "cityName": "Sakpanou",
+      "lat": 9.1666667,
+      "lng": 2.5166667
+    },
+    {
+      "cityName": "Sanro",
+      "lat": 9.35,
+      "lng": 2.5333333
+    },
+    {
+      "cityName": "Sanson",
+      "lat": 9.2666667,
+      "lng": 2.4333333
+    },
+    {
+      "cityName": "Sanworo",
+      "lat": 9.0833333,
+      "lng": 2.4833333
+    },
+    {
+      "cityName": "Sébou",
+      "lat": 9.3166667,
+      "lng": 2.4833333
+    },
+    {
+      "cityName": "Ségourounga",
+      "lat": 9,
+      "lng": 2.6333333
+    },
+    {
+      "cityName": "Ségourou",
+      "lat": 9,
+      "lng": 2.6
+    },
+    {
+      "cityName": "Ségoutou",
+      "lat": 9.05,
+      "lng": 2.75
+    },
+    {
+      "cityName": "Sénakouasso",
+      "lat": 9.1333333,
+      "lng": 2.5833333
+    },
+    {
+      "cityName": "Sénouorou",
+      "lat": 9.35,
+      "lng": 2.6666667
+    },
+    {
+      "cityName": "Sénou",
+      "lat": 9.2166667,
+      "lng": 2.5166667
+    },
+    {
+      "cityName": "Sidé",
+      "lat": 9.0166667,
+      "lng": 2.6
+    },
+    {
+      "cityName": "Siourou",
+      "lat": 9.2166667,
+      "lng": 2.35
+    },
+    {
+      "cityName": "Sokouno",
+      "lat": 9.3666667,
+      "lng": 2.6666667
+    },
+    {
+      "cityName": "Sonoumo",
+      "lat": 9.4333333,
+      "lng": 2.5666667
+    },
+    {
+      "cityName": "Soumou",
+      "lat": 9.1,
+      "lng": 2.4833333
+    },
+    {
+      "cityName": "Sourou",
+      "lat": 9.3666667,
+      "lng": 2.5333333
+    },
+    {
+      "cityName": "Suinrou",
+      "lat": 9.3166667,
+      "lng": 2.5166667
+    },
+    {
+      "cityName": "Tabayorourou",
+      "lat": 9.3,
+      "lng": 2.5333333
+    },
+    {
+      "cityName": "Tammboukirou",
+      "lat": 9.1,
+      "lng": 2.5333333
+    },
+    {
+      "cityName": "Tankaro",
+      "lat": 9.3833333,
+      "lng": 2.5
+    },
+    {
+      "cityName": "Tarbakou",
+      "lat": 9.0166667,
+      "lng": 2.55
+    },
+    {
+      "cityName": "Tekpara",
+      "lat": 9,
+      "lng": 2.5833333
+    },
+    {
+      "cityName": "Tibaki",
+      "lat": 9.1333333,
+      "lng": 2.6833333
+    },
+    {
+      "cityName": "Tinékonparou",
+      "lat": 9.3333333,
+      "lng": 2.7166667
+    },
+    {
+      "cityName": "Tokorou",
+      "lat": 9.05,
+      "lng": 2.4333333
+    },
+    {
+      "cityName": "Tora",
+      "lat": 9.3666667,
+      "lng": 2.5833333
+    },
+    {
+      "cityName": "Tourokorou",
+      "lat": 9.1833333,
+      "lng": 2.6
+    },
+    {
+      "cityName": "Wassamo",
+      "lat": 9.2833333,
+      "lng": 2.4166667
+    },
+    {
+      "cityName": "Wévaga",
+      "lat": 9.35,
+      "lng": 2.7666667
+    },
+    {
+      "cityName": "Wondou",
+      "lat": 9.2333333,
+      "lng": 2.5833333
+    },
+    {
+      "cityName": "Wongoulou",
+      "lat": 9.3,
+      "lng": 2.4333333
+    },
+    {
+      "cityName": "Woré",
+      "lat": 9.4,
+      "lng": 2.6333333
+    },
+    {
+      "cityName": "Wotourou",
+      "lat": 9.2,
+      "lng": 2.5333333
+    },
+    {
+      "cityName": "Yakassirou",
+      "lat": 9.3333333,
+      "lng": 2.5
+    },
+    {
+      "cityName": "Yakpabé",
+      "lat": 9.0833333,
+      "lng": 2.5833333
+    },
+    {
+      "cityName": "Yégounobou",
+      "lat": 9.25,
+      "lng": 2.5
+    },
+    {
+      "cityName": "Yérémarou",
+      "lat": 9.2,
+      "lng": 2.7833333
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "name": "Solola",
+  "cities": [
+    {
+      "cityName": "Agua Escondida",
+      "lat": 14.6666667,
+      "lng": -91.1166667
+    },
+    {
+      "cityName": "Argueta",
+      "lat": 14.8166667,
+      "lng": -91.2333333
+    },
+    {
+      "cityName": "Atitlán",
+      "lat": 14.6333333,
+      "lng": -91.2333333
+    },
+    {
+      "cityName": "Balamabaj",
+      "lat": 14.8166667,
+      "lng": -91.3166667
+    },
+    {
+      "cityName": "Caliaj",
+      "lat": 14.75,
+      "lng": -91.1
+    },
+    {
+      "cityName": "Cerro de Oro",
+      "lat": 14.6666667,
+      "lng": -91.1666667
+    },
+    {
+      "cityName": "Chicajay",
+      "lat": 14.65,
+      "lng": -91.3
+    },
+    {
+      "cityName": "Chichimuch",
+      "lat": 14.7833333,
+      "lng": -91.25
+    },
+    {
+      "cityName": "Chirijalimá",
+      "lat": 14.6333333,
+      "lng": -91.4666667
+    },
+    {
+      "cityName": "Chirijay",
+      "lat": 14.7,
+      "lng": -91.1166667
+    },
+    {
+      "cityName": "Chirijmasá",
+      "lat": 14.65,
+      "lng": -91.4
+    },
+    {
+      "cityName": "Chirijox",
+      "lat": 14.8166667,
+      "lng": -91.3333333
+    },
+    {
+      "cityName": "Chitulul",
+      "lat": 14.65,
+      "lng": -91.1
+    },
+    {
+      "cityName": "Choaquec",
+      "lat": 14.7333333,
+      "lng": -91.1
+    },
+    {
+      "cityName": "Chuaxic",
+      "lat": 14.7833333,
+      "lng": -91.2
+    },
+    {
+      "cityName": "Chuchexic",
+      "lat": 14.8,
+      "lng": -91.2666667
+    },
+    {
+      "cityName": "Chuchiyá",
+      "lat": 14.7333333,
+      "lng": -91.1333333
+    },
+    {
+      "cityName": "Chuichimuch",
+      "lat": 14.7666667,
+      "lng": -91.2333333
+    },
+    {
+      "cityName": "Chuijom",
+      "lat": 14.75,
+      "lng": -91.2333333
+    },
+    {
+      "cityName": "Chuiquel",
+      "lat": 14.7833333,
+      "lng": -91.2166667
+    },
+    {
+      "cityName": "Chuiquistel",
+      "lat": 14.6833333,
+      "lng": -91.1
+    },
+    {
+      "cityName": "Chuisacabaj",
+      "lat": 14.7666667,
+      "lng": -91.4
+    },
+    {
+      "cityName": "Chuisajcap",
+      "lat": 14.7833333,
+      "lng": -91.3
+    },
+    {
+      "cityName": "Chuisaquesán",
+      "lat": 14.7333333,
+      "lng": -91.4333333
+    },
+    {
+      "cityName": "Chuisibel",
+      "lat": 14.7666667,
+      "lng": -91.3666667
+    },
+    {
+      "cityName": "Chuti Estancia",
+      "lat": 14.7666667,
+      "lng": -91.1
+    },
+    {
+      "cityName": "Concepción",
+      "lat": 14.7833333,
+      "lng": -91.15
+    },
+    {
+      "cityName": "Corral",
+      "lat": 14.75,
+      "lng": -91.4166667
+    },
+    {
+      "cityName": "El Rancho",
+      "lat": 14.85,
+      "lng": -91.15
+    },
+    {
+      "cityName": "El Tablón",
+      "lat": 14.7833333,
+      "lng": -91.1833333
+    },
+    {
+      "cityName": "Godínez",
+      "lat": 14.7,
+      "lng": -91.1
+    },
+    {
+      "cityName": "Guineales",
+      "lat": 14.6666667,
+      "lng": -91.3833333
+    },
+    {
+      "cityName": "Guonabaj",
+      "lat": 14.6833333,
+      "lng": -91.3833333
+    },
+    {
+      "cityName": "Jaibalito",
+      "lat": 14.7333333,
+      "lng": -91.2166667
+    },
+    {
+      "cityName": "Jucanyá",
+      "lat": 14.7333333,
+      "lng": -91.15
+    },
+    {
+      "cityName": "La Ceiba",
+      "lat": 14.6,
+      "lng": -91.45
+    },
+    {
+      "cityName": "Las Canoas",
+      "lat": 14.7166667,
+      "lng": -91.1
+    },
+    {
+      "cityName": "Los Robles",
+      "lat": 14.7,
+      "lng": -91.0833333
+    },
+    {
+      "cityName": "María Linda",
+      "lat": 14.7666667,
+      "lng": -91.2166667
+    },
+    {
+      "cityName": "Monterrico",
+      "lat": 14.7166667,
+      "lng": -91.3333333
+    },
+    {
+      "cityName": "Nahualá",
+      "lat": 14.85,
+      "lng": -91.3166667
+    },
+    {
+      "cityName": "Ochol",
+      "lat": 14.65,
+      "lng": -91.4333333
+    },
+    {
+      "cityName": "Pabinalá",
+      "lat": 14.8,
+      "lng": -91.4
+    },
+    {
+      "cityName": "Pacacay",
+      "lat": 14.8,
+      "lng": -91.2333333
+    },
+    {
+      "cityName": "Pacamaché",
+      "lat": 14.6333333,
+      "lng": -91.4333333
+    },
+    {
+      "cityName": "Pachicoj",
+      "lat": 14.7666667,
+      "lng": -91.1333333
+    },
+    {
+      "cityName": "Pachitulul",
+      "lat": 14.65,
+      "lng": -91.15
+    },
+    {
+      "cityName": "Paculam",
+      "lat": 14.65,
+      "lng": -91.3833333
+    },
+    {
+      "cityName": "Pajaj",
+      "lat": 14.7833333,
+      "lng": -91.2833333
+    },
+    {
+      "cityName": "Pajocá",
+      "lat": 14.65,
+      "lng": -91.45
+    },
+    {
+      "cityName": "Palacal",
+      "lat": 14.6333333,
+      "lng": -91.45
+    },
+    {
+      "cityName": "Palá",
+      "lat": 14.7166667,
+      "lng": -91.3666667
+    },
+    {
+      "cityName": "Paleinabá",
+      "lat": 14.7,
+      "lng": -91.4
+    },
+    {
+      "cityName": "Palestina",
+      "lat": 14.6833333,
+      "lng": -91.3166667
+    },
+    {
+      "cityName": "Pamebasal",
+      "lat": 14.7666667,
+      "lng": -91.3
+    },
+    {
+      "cityName": "Pamuch",
+      "lat": 14.75,
+      "lng": -91.1333333
+    },
+    {
+      "cityName": "Panabaj",
+      "lat": 14.6166667,
+      "lng": -91.2333333
+    },
+    {
+      "cityName": "Panalachaj",
+      "lat": 14.7166667,
+      "lng": -91.0833333
+    },
+    {
+      "cityName": "Panaranjo",
+      "lat": 14.65,
+      "lng": -91.1166667
+    },
+    {
+      "cityName": "Panguiney",
+      "lat": 14.6833333,
+      "lng": -91.3666667
+    },
+    {
+      "cityName": "Panimaquib",
+      "lat": 14.6,
+      "lng": -91.15
+    },
+    {
+      "cityName": "Panimatzalam",
+      "lat": 14.75,
+      "lng": -91.1166667
+    },
+    {
+      "cityName": "Panyevar",
+      "lat": 14.6666667,
+      "lng": -91.3166667
+    },
+    {
+      "cityName": "Paquib",
+      "lat": 14.7,
+      "lng": -91.3166667
+    },
+    {
+      "cityName": "Paquim",
+      "lat": 14.7333333,
+      "lng": -91.1166667
+    },
+    {
+      "cityName": "Parraxquim",
+      "lat": 14.8166667,
+      "lng": -91.3833333
+    },
+    {
+      "cityName": "Pasajquim",
+      "lat": 14.65,
+      "lng": -91.3333333
+    },
+    {
+      "cityName": "Patzité",
+      "lat": 14.7,
+      "lng": -91.3666667
+    },
+    {
+      "cityName": "Patzunzún",
+      "lat": 14.8,
+      "lng": -91.1166667
+    },
+    {
+      "cityName": "Paximbal",
+      "lat": 14.8,
+      "lng": -91.3333333
+    },
+    {
+      "cityName": "Paxocom",
+      "lat": 14.8,
+      "lng": -91.2166667
+    },
+    {
+      "cityName": "Payatzá",
+      "lat": 14.7166667,
+      "lng": -91.3166667
+    },
+    {
+      "cityName": "Pixabaj",
+      "lat": 14.8666667,
+      "lng": -91.1833333
+    },
+    {
+      "cityName": "Potrero",
+      "lat": 14.7666667,
+      "lng": -91.15
+    },
+    {
+      "cityName": "Pujujilito",
+      "lat": 14.8166667,
+      "lng": -91.1333333
+    },
+    {
+      "cityName": "Racantacaj",
+      "lat": 14.85,
+      "lng": -91.3333333
+    },
+    {
+      "cityName": "Sacalá",
+      "lat": 14.75,
+      "lng": -91.25
+    },
+    {
+      "cityName": "Sajquim",
+      "lat": 14.6833333,
+      "lng": -91.4333333
+    },
+    {
+      "cityName": "San Gabriel",
+      "lat": 14.6333333,
+      "lng": -91.1166667
+    },
+    {
+      "cityName": "San Jorge La Laguna",
+      "lat": 14.75,
+      "lng": -91.1666667
+    },
+    {
+      "cityName": "San Juan La Laguna",
+      "lat": 14.7,
+      "lng": -91.2833333
+    },
+    {
+      "cityName": "San Lucas",
+      "lat": 14.6333333,
+      "lng": -91.1333333
+    },
+    {
+      "cityName": "San Marcos La Laguna",
+      "lat": 14.7166667,
+      "lng": -91.2666667
+    },
+    {
+      "cityName": "San Pedro La Gaguna",
+      "lat": 14.6833333,
+      "lng": -91.2666667
+    },
+    {
+      "cityName": "Santa Catalina",
+      "lat": 14.7166667,
+      "lng": -91.1333333
+    },
+    {
+      "cityName": "Santa Catarina Ixtahuacán",
+      "lat": 14.8,
+      "lng": -91.3666667
+    },
+    {
+      "cityName": "Santa Clara La Laguna",
+      "lat": 14.7166667,
+      "lng": -91.3
+    },
+    {
+      "cityName": "Santa Cruz La Laguna",
+      "lat": 14.75,
+      "lng": -91.2166667
+    },
+    {
+      "cityName": "Santa Lucía",
+      "lat": 14.7666667,
+      "lng": -91.2666667
+    },
+    {
+      "cityName": "Sololá",
+      "lat": 14.7666667,
+      "lng": -91.1833333
+    },
+    {
+      "cityName": "Tzalamabaj",
+      "lat": 14.5833333,
+      "lng": -91.15
+    },
+    {
+      "cityName": "Tzanjuyub",
+      "lat": 14.7666667,
+      "lng": -91.4166667
+    },
+    {
+      "cityName": "Tzucubal",
+      "lat": 14.6166667,
+      "lng": -91.45
+    },
+    {
+      "cityName": "Tzumumá",
+      "lat": 14.7333333,
+      "lng": -91.25
+    },
+    {
+      "cityName": "Ventana Abaj",
+      "lat": 14.8166667,
+      "lng": -91.25
+    },
+    {
+      "cityName": "Xajaxac",
+      "lat": 14.8333333,
+      "lng": -91.1666667
+    },
+    {
+      "cityName": "Xaquijyá",
+      "lat": 14.8166667,
+      "lng": -91.1833333
+    },
+    {
+      "cityName": "Xecalibal",
+      "lat": 14.7833333,
+      "lng": -91.3833333
+    },
+    {
+      "cityName": "Xecaquixcán",
+      "lat": 14.8166667,
+      "lng": -91.3666667
+    },
+    {
+      "cityName": "Xejabí",
+      "lat": 14.7833333,
+      "lng": -91.0833333
+    },
+    {
+      "cityName": "Xejuyub",
+      "lat": 14.6666667,
+      "lng": -91.4333333
+    },
+    {
+      "cityName": "Xepatuj",
+      "lat": 14.8666667,
+      "lng": -91.3166667
+    },
+    {
+      "cityName": "Xepec",
+      "lat": 14.7166667,
+      "lng": -91.1166667
+    },
+    {
+      "cityName": "Xetinamit",
+      "lat": 14.7833333,
+      "lng": -91.3666667
+    },
+    {
+      "cityName": "Xexac",
+      "lat": 14.65,
+      "lng": -91.4166667
+    }
+  ]
+}

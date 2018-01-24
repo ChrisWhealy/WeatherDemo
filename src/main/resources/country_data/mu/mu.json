@@ -1,0 +1,67 @@
+{
+  "name": "Mauritius",
+  "iso2": "mu",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Black River",
+      "id": 0
+    },
+    {
+      "name": "Flacq",
+      "id": 1
+    },
+    {
+      "name": "Grand Port",
+      "id": 2
+    },
+    {
+      "name": "Moka",
+      "id": 3
+    },
+    {
+      "name": "Pamplemousses",
+      "id": 4
+    },
+    {
+      "name": "Plaines Wilhems",
+      "id": 5
+    },
+    {
+      "name": "Port Louis",
+      "id": 6
+    },
+    {
+      "name": "Riviere du Rempart",
+      "id": 7
+    },
+    {
+      "name": "Rodrigues",
+      "id": 8
+    },
+    {
+      "name": "Savanne",
+      "id": 9
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 10
+    }
+  ],
+  "geoRectangle": {
+    "West": 56.5127105713,
+    "East": 63.5001831055,
+    "North": -10.3192539215,
+    "South": -20.5257205963
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 4,
+    "Flg": 2,
+    "Name": "Port Louis",
+    "GeoPt": [
+      -20.09,
+      57.29
+    ]
+  }
+}

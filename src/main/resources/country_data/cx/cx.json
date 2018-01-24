@@ -1,0 +1,48 @@
+{
+  "name": "Christmas Island",
+  "iso2": "cx",
+  "cities": [
+    {
+      "cityName": "Drumsite",
+      "lat": -10.4333333,
+      "lng": 105.6833333
+    },
+    {
+      "cityName": "Flying Fish Cove",
+      "lat": -10.4166667,
+      "lng": 105.7166667
+    },
+    {
+      "cityName": "Settlement",
+      "lat": -10.4166667,
+      "lng": 105.6666667
+    },
+    {
+      "cityName": "South Point",
+      "lat": -10.5666667,
+      "lng": 105.65
+    },
+    {
+      "cityName": "Waterfall",
+      "lat": -10.45,
+      "lng": 105.6666667
+    }
+  ],
+  "regionList": null,
+  "geoRectangle": {
+    "West": 105.5389328,
+    "East": 105.719596863,
+    "North": -10.4157762527,
+    "South": -10.5757246017
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 7,
+    "Flg": 2,
+    "Name": "The Settlement",
+    "GeoPt": [
+      -10.25,
+      105.43
+    ]
+  }
+}

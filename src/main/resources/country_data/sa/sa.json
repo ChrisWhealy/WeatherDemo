@@ -1,0 +1,71 @@
+{
+  "name": "Saudi Arabia",
+  "iso2": "sa",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Al Bahah",
+      "id": 0
+    },
+    {
+      "name": "Al Hudud ash Shamaliyah",
+      "id": 1
+    },
+    {
+      "name": "Al Jawf",
+      "id": 2
+    },
+    {
+      "name": "Al Madinah",
+      "id": 3
+    },
+    {
+      "name": "Al Qasim",
+      "id": 4
+    },
+    {
+      "name": "Ar Riyad",
+      "id": 5
+    },
+    {
+      "name": "Ash Sharqiyah",
+      "id": 6
+    },
+    {
+      "name": "Ha'il",
+      "id": 7
+    },
+    {
+      "name": "Jizan",
+      "id": 8
+    },
+    {
+      "name": "Makkah",
+      "id": 9
+    },
+    {
+      "name": "Tabuk",
+      "id": 10
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 11
+    }
+  ],
+  "geoRectangle": {
+    "West": 34.4956855774,
+    "East": 55.6665878296,
+    "North": 32.1583404541,
+    "South": 15.6142482758
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 3,
+    "Flg": 2,
+    "Name": "Riyadh",
+    "GeoPt": [
+      24.38,
+      46.43
+    ]
+  }
+}

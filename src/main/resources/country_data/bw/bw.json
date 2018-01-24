@@ -1,0 +1,63 @@
+{
+  "name": "Botswana",
+  "iso2": "bw",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Central",
+      "id": 0
+    },
+    {
+      "name": "Ghanzi",
+      "id": 1
+    },
+    {
+      "name": "Kgalagadi",
+      "id": 2
+    },
+    {
+      "name": "Kgatleng",
+      "id": 3
+    },
+    {
+      "name": "Kweneng",
+      "id": 4
+    },
+    {
+      "name": "North-East",
+      "id": 5
+    },
+    {
+      "name": "North-West",
+      "id": 6
+    },
+    {
+      "name": "South-East",
+      "id": 7
+    },
+    {
+      "name": "Southern",
+      "id": 8
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 9
+    }
+  ],
+  "geoRectangle": {
+    "West": 19.9995326996,
+    "East": 29.3607845306,
+    "North": -17.7808094025,
+    "South": -26.9072494507
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Gaborone",
+    "GeoPt": [
+      -24.45,
+      25.55
+    ]
+  }
+}

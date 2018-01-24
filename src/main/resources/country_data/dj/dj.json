@@ -1,0 +1,51 @@
+{
+  "name": "Djibouti",
+  "iso2": "dj",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Ali Sabieh",
+      "id": 0
+    },
+    {
+      "name": "Arta",
+      "id": 1
+    },
+    {
+      "name": "Dikhil",
+      "id": 2
+    },
+    {
+      "name": "Obock",
+      "id": 3
+    },
+    {
+      "name": "Tadjoura",
+      "id": 4
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 5
+    },
+    {
+      "name": "Unnamed region 02",
+      "id": 6
+    }
+  ],
+  "geoRectangle": {
+    "West": 41.7734680176,
+    "East": 43.4169769287,
+    "North": 12.7068347931,
+    "South": 10.9099159241
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 3,
+    "Flg": 2,
+    "Name": "Djibouti",
+    "GeoPt": [
+      11.35,
+      43.09
+    ]
+  }
+}

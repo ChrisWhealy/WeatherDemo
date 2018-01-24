@@ -1,0 +1,51 @@
+{
+  "name": "Bangladesh",
+  "iso2": "bd",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Barisal",
+      "id": 0
+    },
+    {
+      "name": "Chittagong",
+      "id": 1
+    },
+    {
+      "name": "Dhaka",
+      "id": 2
+    },
+    {
+      "name": "Khulna",
+      "id": 3
+    },
+    {
+      "name": "Rajshahi",
+      "id": 4
+    },
+    {
+      "name": "Sylhet",
+      "id": 5
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 6
+    }
+  ],
+  "geoRectangle": {
+    "West": 88.0283279419,
+    "East": 92.6736831665,
+    "North": 26.6319484711,
+    "South": 20.7433319092
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 6,
+    "Flg": 2,
+    "Name": "Dhaka",
+    "GeoPt": [
+      23.43,
+      90.24
+    ]
+  }
+}

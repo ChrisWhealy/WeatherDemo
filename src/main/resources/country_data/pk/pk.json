@@ -1,0 +1,55 @@
+{
+  "name": "Pakistan",
+  "iso2": "pk",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Azad Kashmir",
+      "id": 0
+    },
+    {
+      "name": "Balochistan",
+      "id": 1
+    },
+    {
+      "name": "Federally Administered Tribal Areas",
+      "id": 2
+    },
+    {
+      "name": "Islamabad",
+      "id": 3
+    },
+    {
+      "name": "North-West Frontier",
+      "id": 4
+    },
+    {
+      "name": "Northern Areas",
+      "id": 5
+    },
+    {
+      "name": "Punjab",
+      "id": 6
+    },
+    {
+      "name": "Sindh",
+      "id": 7
+    }
+  ],
+  "geoRectangle": {
+    "West": 60.8786087036,
+    "East": 77.840927124,
+    "North": 37.0970039368,
+    "South": 23.7867183685
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 5,
+    "Flg": 2,
+    "Name": "Islamabad",
+    "GeoPt": [
+      33.42,
+      73.1
+    ]
+  }
+}

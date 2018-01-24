@@ -1,0 +1,750 @@
+{
+  "name": "District of Columbia",
+  "cities": [
+    {
+      "cityName": "Adams Morgan",
+      "lat": 38.9213889,
+      "lng": -77.0425
+    },
+    {
+      "cityName": "American University Park",
+      "lat": 38.9513889,
+      "lng": -77.0902778
+    },
+    {
+      "cityName": "Anacostia",
+      "lat": 38.8663889,
+      "lng": -76.9841667
+    },
+    {
+      "cityName": "Barnaby Terrace",
+      "lat": 38.8333333,
+      "lng": -76.9894444
+    },
+    {
+      "cityName": "Barnaby Woods",
+      "lat": 38.9747222,
+      "lng": -77.06
+    },
+    {
+      "cityName": "Barry Farms",
+      "lat": 38.8563889,
+      "lng": -76.9916667
+    },
+    {
+      "cityName": "Bellevue",
+      "lat": 38.8266667,
+      "lng": -77.02
+    },
+    {
+      "cityName": "Benning",
+      "lat": 38.895,
+      "lng": -76.9491667
+    },
+    {
+      "cityName": "Benning Heights",
+      "lat": 38.8816667,
+      "lng": -76.9363889
+    },
+    {
+      "cityName": "Bloomingdale",
+      "lat": 38.9166667,
+      "lng": -77.0116667
+    },
+    {
+      "cityName": "Brentwood Village",
+      "lat": 38.9208333,
+      "lng": -76.9847222
+    },
+    {
+      "cityName": "Brightwood",
+      "lat": 38.9611111,
+      "lng": -77.0277778
+    },
+    {
+      "cityName": "Brightwood Park",
+      "lat": 38.9569444,
+      "lng": -77.0252778
+    },
+    {
+      "cityName": "Brookland",
+      "lat": 38.9327778,
+      "lng": -76.9844444
+    },
+    {
+      "cityName": "Buena Vista",
+      "lat": 38.8569444,
+      "lng": -76.9797222
+    },
+    {
+      "cityName": "Burleith",
+      "lat": 38.9152778,
+      "lng": -77.0727778
+    },
+    {
+      "cityName": "Buzzard Point",
+      "lat": 38.8722222,
+      "lng": -77.0111111
+    },
+    {
+      "cityName": "Capitol Hill",
+      "lat": 38.8888889,
+      "lng": -77.0005556
+    },
+    {
+      "cityName": "Capitol View",
+      "lat": 38.8894444,
+      "lng": -76.9316667
+    },
+    {
+      "cityName": "Cathedral Heights",
+      "lat": 38.9255556,
+      "lng": -77.0777778
+    },
+    {
+      "cityName": "Central Northeast",
+      "lat": 38.8958333,
+      "lng": -76.9416667
+    },
+    {
+      "cityName": "Chevy Chase",
+      "lat": 38.9638889,
+      "lng": -77.0680556
+    },
+    {
+      "cityName": "Chevy Chase Heights",
+      "lat": 38.9594444,
+      "lng": -77.0777778
+    },
+    {
+      "cityName": "Chillum Station",
+      "lat": 38.9555556,
+      "lng": -77.0044444
+    },
+    {
+      "cityName": "Chinatown",
+      "lat": 38.9008333,
+      "lng": -77.0230556
+    },
+    {
+      "cityName": "Cleveland Park",
+      "lat": 38.9361111,
+      "lng": -77.0658333
+    },
+    {
+      "cityName": "Cloisters",
+      "lat": 38.9111111,
+      "lng": -77.0666667
+    },
+    {
+      "cityName": "Colonial Village",
+      "lat": 38.9925,
+      "lng": -77.0402778
+    },
+    {
+      "cityName": "Colony Hill",
+      "lat": 38.9130556,
+      "lng": -77.0875
+    },
+    {
+      "cityName": "Columbia Heights",
+      "lat": 38.9255556,
+      "lng": -77.0297222
+    },
+    {
+      "cityName": "Congress Heights",
+      "lat": 38.8427778,
+      "lng": -77.0005556
+    },
+    {
+      "cityName": "Congress Park",
+      "lat": 38.8411111,
+      "lng": -76.9911111
+    },
+    {
+      "cityName": "Cookes Park",
+      "lat": 38.9113889,
+      "lng": -77.0605556
+    },
+    {
+      "cityName": "Crestwood",
+      "lat": 38.9416667,
+      "lng": -77.0408333
+    },
+    {
+      "cityName": "Deanwood",
+      "lat": 38.8983333,
+      "lng": -76.9297222
+    },
+    {
+      "cityName": "Douglass Dwellings",
+      "lat": 38.8483333,
+      "lng": -76.9780556
+    },
+    {
+      "cityName": "Dupont Circle",
+      "lat": 38.9083333,
+      "lng": -77.0444444
+    },
+    {
+      "cityName": "Dupont Park",
+      "lat": 38.8713889,
+      "lng": -76.9505556
+    },
+    {
+      "cityName": "East Central",
+      "lat": 38.9,
+      "lng": -77.0125
+    },
+    {
+      "cityName": "East End",
+      "lat": 38.8958333,
+      "lng": -77.0111111
+    },
+    {
+      "cityName": "Eastland Gardens",
+      "lat": 38.9083333,
+      "lng": -76.9430556
+    },
+    {
+      "cityName": "Eckington",
+      "lat": 38.9125,
+      "lng": -77.0094444
+    },
+    {
+      "cityName": "Edgewood",
+      "lat": 38.9225,
+      "lng": -77.0008333
+    },
+    {
+      "cityName": "Edgewood Terrace",
+      "lat": 38.9233333,
+      "lng": -76.9930556
+    },
+    {
+      "cityName": "Embassy Park",
+      "lat": 38.9355556,
+      "lng": -77.0833333
+    },
+    {
+      "cityName": "Fairfax Village",
+      "lat": 38.8619444,
+      "lng": -76.9513889
+    },
+    {
+      "cityName": "Fairlawn",
+      "lat": 38.8708333,
+      "lng": -76.9791667
+    },
+    {
+      "cityName": "Farragut Square",
+      "lat": 38.9027778,
+      "lng": -77.0444444
+    },
+    {
+      "cityName": "Foggy Bottom",
+      "lat": 38.9013889,
+      "lng": -77.0625
+    },
+    {
+      "cityName": "Forest Hills",
+      "lat": 38.9508333,
+      "lng": -77.0583333
+    },
+    {
+      "cityName": "Fort Davis",
+      "lat": 38.8666667,
+      "lng": -76.9463889
+    },
+    {
+      "cityName": "Fort Dupont",
+      "lat": 38.8725,
+      "lng": -76.9388889
+    },
+    {
+      "cityName": "Fort Lincoln New Town",
+      "lat": 38.9222222,
+      "lng": -76.9566667
+    },
+    {
+      "cityName": "Foxhall",
+      "lat": 38.9222222,
+      "lng": -77.0944444
+    },
+    {
+      "cityName": "Foxhall Crescent",
+      "lat": 38.9230556,
+      "lng": -77.0925
+    },
+    {
+      "cityName": "Foxhall Terrace",
+      "lat": 38.9138889,
+      "lng": -77.0736111
+    },
+    {
+      "cityName": "Foxhall Village",
+      "lat": 38.9116667,
+      "lng": -77.0847222
+    },
+    {
+      "cityName": "Franklin McPherson Square",
+      "lat": 38.9013889,
+      "lng": -77.0333333
+    },
+    {
+      "cityName": "Friendship Heights",
+      "lat": 38.9569444,
+      "lng": -77.0791667
+    },
+    {
+      "cityName": "Garfield Heights",
+      "lat": 38.8555556,
+      "lng": -76.9697222
+    },
+    {
+      "cityName": "Gateway",
+      "lat": 38.9208333,
+      "lng": -76.9638889
+    },
+    {
+      "cityName": "Georgetown",
+      "lat": 38.9047222,
+      "lng": -77.0627778
+    },
+    {
+      "cityName": "Giesboro",
+      "lat": 38.8444444,
+      "lng": -77.0166667
+    },
+    {
+      "cityName": "Glover Park",
+      "lat": 38.9208333,
+      "lng": -77.0775
+    },
+    {
+      "cityName": "Good Hope",
+      "lat": 38.8625,
+      "lng": -76.9641667
+    },
+    {
+      "cityName": "Greenway",
+      "lat": 38.8875,
+      "lng": -76.955
+    },
+    {
+      "cityName": "Hampshire Knolls",
+      "lat": 38.9611111,
+      "lng": -77.0041667
+    },
+    {
+      "cityName": "Hawthorne",
+      "lat": 38.9802778,
+      "lng": -77.055
+    },
+    {
+      "cityName": "Hillcrest",
+      "lat": 38.8619444,
+      "lng": -76.9583333
+    },
+    {
+      "cityName": "Indian Rock Terrace",
+      "lat": 38.9088889,
+      "lng": -77.0875
+    },
+    {
+      "cityName": "Isherwood",
+      "lat": 38.8944444,
+      "lng": -76.9791667
+    },
+    {
+      "cityName": "Ivy City",
+      "lat": 38.9111111,
+      "lng": -76.985
+    },
+    {
+      "cityName": "Judiciary Square",
+      "lat": 38.8986111,
+      "lng": -77.0166667
+    },
+    {
+      "cityName": "Kalorama Heights",
+      "lat": 38.9166667,
+      "lng": -77.0527778
+    },
+    {
+      "cityName": "Kalorama Triangle",
+      "lat": 38.9166667,
+      "lng": -77.0416667
+    },
+    {
+      "cityName": "Kenilworth",
+      "lat": 38.9058333,
+      "lng": -76.9405556
+    },
+    {
+      "cityName": "Kent",
+      "lat": 38.9336111,
+      "lng": -77.1038889
+    },
+    {
+      "cityName": "Kingman Park",
+      "lat": 38.9,
+      "lng": -76.975
+    },
+    {
+      "cityName": "Knox Hill Dwellings",
+      "lat": 38.8533333,
+      "lng": -76.9672222
+    },
+    {
+      "cityName": "Lamond Riggs",
+      "lat": 38.9663889,
+      "lng": -77.0077778
+    },
+    {
+      "cityName": "Langdon",
+      "lat": 38.9230556,
+      "lng": -76.9741667
+    },
+    {
+      "cityName": "Lanier Heights",
+      "lat": 38.9263889,
+      "lng": -77.0402778
+    },
+    {
+      "cityName": "LeDroit Park",
+      "lat": 38.9158333,
+      "lng": -77.0161111
+    },
+    {
+      "cityName": "Lincoln Heights",
+      "lat": 38.8944444,
+      "lng": -76.9291667
+    },
+    {
+      "cityName": "Lincoln Park",
+      "lat": 38.8911111,
+      "lng": -76.9819444
+    },
+    {
+      "cityName": "Little Indian Rock Terrace",
+      "lat": 38.9077778,
+      "lng": -77.0847222
+    },
+    {
+      "cityName": "Logan Circle",
+      "lat": 38.9125,
+      "lng": -77.0319444
+    },
+    {
+      "cityName": "Manor Park",
+      "lat": 38.9638889,
+      "lng": -77.0161111
+    },
+    {
+      "cityName": "Marshall Heights",
+      "lat": 38.8861111,
+      "lng": -76.9283333
+    },
+    {
+      "cityName": "Massachusetts Avenue Heights",
+      "lat": 38.9263889,
+      "lng": -77.0652778
+    },
+    {
+      "cityName": "Mayfair-Parkside",
+      "lat": 38.9013889,
+      "lng": -76.95
+    },
+    {
+      "cityName": "McLean Gardens",
+      "lat": 38.9372222,
+      "lng": -77.0755556
+    },
+    {
+      "cityName": "Metropolis View",
+      "lat": 38.9277778,
+      "lng": -77.0005556
+    },
+    {
+      "cityName": "Michigan Park",
+      "lat": 38.9486111,
+      "lng": -76.9861111
+    },
+    {
+      "cityName": "Mount Pleasant",
+      "lat": 38.9305556,
+      "lng": -77.0411111
+    },
+    {
+      "cityName": "Mount Vernon Square",
+      "lat": 38.9047222,
+      "lng": -77.0230556
+    },
+    {
+      "cityName": "Naylor Gardens",
+      "lat": 38.8566667,
+      "lng": -76.9669444
+    },
+    {
+      "cityName": "North Cleveland Park",
+      "lat": 38.95,
+      "lng": -77.0708333
+    },
+    {
+      "cityName": "North Gate",
+      "lat": 38.9872222,
+      "lng": -77.0355556
+    },
+    {
+      "cityName": "North Michigan Park",
+      "lat": 38.9430556,
+      "lng": -76.9777778
+    },
+    {
+      "cityName": "Northeast Boundary",
+      "lat": 38.8925,
+      "lng": -76.9166667
+    },
+    {
+      "cityName": "Northwest Rectangle",
+      "lat": 38.8944444,
+      "lng": -77.0452778
+    },
+    {
+      "cityName": "Park Place",
+      "lat": 38.9305556,
+      "lng": -77.0055556
+    },
+    {
+      "cityName": "Park View",
+      "lat": 38.9319444,
+      "lng": -77.0238889
+    },
+    {
+      "cityName": "Penn Branch",
+      "lat": 38.8736111,
+      "lng": -76.9575
+    },
+    {
+      "cityName": "Pennsylvania Avenue Hights",
+      "lat": 38.8680556,
+      "lng": -76.9583333
+    },
+    {
+      "cityName": "Petworth",
+      "lat": 38.9458333,
+      "lng": -77.0252778
+    },
+    {
+      "cityName": "Pinehurst Circle",
+      "lat": 38.9708333,
+      "lng": -77.0805556
+    },
+    {
+      "cityName": "Potomac Heights",
+      "lat": 38.9275,
+      "lng": -77.1080556
+    },
+    {
+      "cityName": "Randle Highlands",
+      "lat": 38.8702778,
+      "lng": -76.9666667
+    },
+    {
+      "cityName": "Reno",
+      "lat": 38.9527778,
+      "lng": -77.0786111
+    },
+    {
+      "cityName": "Riggs Park",
+      "lat": 38.9541667,
+      "lng": -76.9944444
+    },
+    {
+      "cityName": "River Terrace",
+      "lat": 38.8919444,
+      "lng": -76.9577778
+    },
+    {
+      "cityName": "Rock Creek Gardens",
+      "lat": 38.9886111,
+      "lng": -77.0458333
+    },
+    {
+      "cityName": "Rosedale",
+      "lat": 38.8972222,
+      "lng": -76.9791667
+    },
+    {
+      "cityName": "Scott Circle",
+      "lat": 38.9091667,
+      "lng": -77.0361111
+    },
+    {
+      "cityName": "Senate Heights",
+      "lat": 38.9152778,
+      "lng": -77.0897222
+    },
+    {
+      "cityName": "Shaw",
+      "lat": 38.9119444,
+      "lng": -77.0216667
+    },
+    {
+      "cityName": "Shepherd Park",
+      "lat": 38.9847222,
+      "lng": -77.0333333
+    },
+    {
+      "cityName": "Sheridan-Kalorama",
+      "lat": 38.9144444,
+      "lng": -77.05
+    },
+    {
+      "cityName": "Shipley Terrace",
+      "lat": 38.8472222,
+      "lng": -76.9694444
+    },
+    {
+      "cityName": "Southeast",
+      "lat": 38.8805556,
+      "lng": -76.9902778
+    },
+    {
+      "cityName": "Southwest",
+      "lat": 38.8811111,
+      "lng": -77.0166667
+    },
+    {
+      "cityName": "Spring Valley",
+      "lat": 38.9394444,
+      "lng": -77.0991667
+    },
+    {
+      "cityName": "Stanton Park",
+      "lat": 38.9013889,
+      "lng": -77.0002778
+    },
+    {
+      "cityName": "Sutton Place",
+      "lat": 38.9313889,
+      "lng": -77.0819444
+    },
+    {
+      "cityName": "Tenleytown",
+      "lat": 38.9494444,
+      "lng": -77.0861111
+    },
+    {
+      "cityName": "Terra Cotta",
+      "lat": 38.9536111,
+      "lng": -76.9986111
+    },
+    {
+      "cityName": "The Cloisters",
+      "lat": 38.9277778,
+      "lng": -77.0055556
+    },
+    {
+      "cityName": "The Palisades",
+      "lat": 38.925,
+      "lng": -77.1016667
+    },
+    {
+      "cityName": "Thomas Circle",
+      "lat": 38.9061111,
+      "lng": -77.0291667
+    },
+    {
+      "cityName": "Trinidad",
+      "lat": 38.9055556,
+      "lng": -76.9847222
+    },
+    {
+      "cityName": "Truxton Circle",
+      "lat": 38.9097222,
+      "lng": -77.0152778
+    },
+    {
+      "cityName": "Twining",
+      "lat": 38.8716667,
+      "lng": -76.9661111
+    },
+    {
+      "cityName": "University Heights",
+      "lat": 38.9397222,
+      "lng": -76.9938889
+    },
+    {
+      "cityName": "Varnum",
+      "lat": 38.9430556,
+      "lng": -77.0055556
+    },
+    {
+      "cityName": "Washington",
+      "lat": 38.895,
+      "lng": -77.0366667
+    },
+    {
+      "cityName": "Washington City",
+      "lat": 38.9,
+      "lng": -77.0166667
+    },
+    {
+      "cityName": "Washington Highlands",
+      "lat": 38.8319444,
+      "lng": -76.995
+    },
+    {
+      "cityName": "Wesley Heights",
+      "lat": 38.9311111,
+      "lng": -77.0883333
+    },
+    {
+      "cityName": "West End",
+      "lat": 38.9069444,
+      "lng": -77.05
+    },
+    {
+      "cityName": "West Over View",
+      "lat": 38.8680556,
+      "lng": -76.9638889
+    },
+    {
+      "cityName": "Westchester",
+      "lat": 38.9258333,
+      "lng": -77.08
+    },
+    {
+      "cityName": "Westminster",
+      "lat": 38.9147222,
+      "lng": -77.0216667
+    },
+    {
+      "cityName": "Westmoreland Terrace",
+      "lat": 38.9472222,
+      "lng": -77.1
+    },
+    {
+      "cityName": "Westover Place",
+      "lat": 38.9363889,
+      "lng": -77.0861111
+    },
+    {
+      "cityName": "Woodland",
+      "lat": 38.8616667,
+      "lng": -76.9708333
+    },
+    {
+      "cityName": "Woodley Park",
+      "lat": 38.9286111,
+      "lng": -77.0561111
+    },
+    {
+      "cityName": "Woodridge",
+      "lat": 38.9311111,
+      "lng": -76.9713889
+    }
+  ]
+}

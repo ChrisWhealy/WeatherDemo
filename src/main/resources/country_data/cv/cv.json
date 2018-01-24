@@ -1,0 +1,31 @@
+{
+  "name": "Cape Verde",
+  "iso2": "cv",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Sao Domingos",
+      "id": 0
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 1
+    }
+  ],
+  "geoRectangle": {
+    "West": -25.3587493896,
+    "East": -22.6694393158,
+    "North": 17.1971817017,
+    "South": 14.8080205917
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -1,
+    "Flg": 2,
+    "Name": "Praia",
+    "GeoPt": [
+      14.55,
+      -23.31
+    ]
+  }
+}

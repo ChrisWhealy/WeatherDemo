@@ -1,0 +1,975 @@
+{
+  "name": "Western Area",
+  "cities": [
+    {
+      "cityName": "Aberdeen",
+      "lat": 8.4925,
+      "lng": -13.2844444
+    },
+    {
+      "cityName": "Adonkia",
+      "lat": 8.4166667,
+      "lng": -13.2686111
+    },
+    {
+      "cityName": "Allen Town",
+      "lat": 8.4136111,
+      "lng": -13.1602778
+    },
+    {
+      "cityName": "Angola",
+      "lat": 8.4119444,
+      "lng": -13.265
+    },
+    {
+      "cityName": "Bagbamma",
+      "lat": 8.3322222,
+      "lng": -13.0180556
+    },
+    {
+      "cityName": "Bammbatuk",
+      "lat": 8.3455556,
+      "lng": -13.2333333
+    },
+    {
+      "cityName": "Banga Ground",
+      "lat": 8.2575,
+      "lng": -13.0186111
+    },
+    {
+      "cityName": "Bangawilli",
+      "lat": 8.2833333,
+      "lng": -12.9666667
+    },
+    {
+      "cityName": "Baoma",
+      "lat": 8.4272222,
+      "lng": -13.2644444
+    },
+    {
+      "cityName": "Baponto",
+      "lat": 8.2816667,
+      "lng": -13.0669444
+    },
+    {
+      "cityName": "Barmouth",
+      "lat": 8.2333333,
+      "lng": -12.8166667
+    },
+    {
+      "cityName": "Bassa",
+      "lat": 8.4388889,
+      "lng": -13.1844444
+    },
+    {
+      "cityName": "Bassu Town",
+      "lat": 8.325,
+      "lng": -13.0661111
+    },
+    {
+      "cityName": "Batama",
+      "lat": 8.3166667,
+      "lng": -12.9666667
+    },
+    {
+      "cityName": "Batbai",
+      "lat": 8.2944444,
+      "lng": -13.0483333
+    },
+    {
+      "cityName": "Bathurst",
+      "lat": 8.4305556,
+      "lng": -13.1983333
+    },
+    {
+      "cityName": "Battam Town",
+      "lat": 8.2525,
+      "lng": -13.0486111
+    },
+    {
+      "cityName": "Bawbaw",
+      "lat": 8.3427778,
+      "lng": -13.2197222
+    },
+    {
+      "cityName": "Baw-o-bu",
+      "lat": 8.3333333,
+      "lng": -12.9833333
+    },
+    {
+      "cityName": "Benguema",
+      "lat": 8.3213889,
+      "lng": -13.0727778
+    },
+    {
+      "cityName": "Binni",
+      "lat": 8.305,
+      "lng": -13.0580556
+    },
+    {
+      "cityName": "Boikandu",
+      "lat": 8.3013889,
+      "lng": -13.0330556
+    },
+    {
+      "cityName": "Bokari Town",
+      "lat": 8.2527778,
+      "lng": -13.0791667
+    },
+    {
+      "cityName": "Boma",
+      "lat": 8.2519444,
+      "lng": -13.0758333
+    },
+    {
+      "cityName": "Borwaila",
+      "lat": 8.2833333,
+      "lng": -12.95
+    },
+    {
+      "cityName": "Brama",
+      "lat": 8.3666667,
+      "lng": -12.9666667
+    },
+    {
+      "cityName": "Bubu Town",
+      "lat": 8.3019444,
+      "lng": -13.0269444
+    },
+    {
+      "cityName": "Bure Town",
+      "lat": 8.2011111,
+      "lng": -13.1513889
+    },
+    {
+      "cityName": "Burie Town",
+      "lat": 8.3177778,
+      "lng": -13.0580556
+    },
+    {
+      "cityName": "Buvehun",
+      "lat": 8.2833333,
+      "lng": -12.9333333
+    },
+    {
+      "cityName": "Bwango Town",
+      "lat": 8.25,
+      "lng": -13.05
+    },
+    {
+      "cityName": "Calaba Town",
+      "lat": 8.4380556,
+      "lng": -13.1630556
+    },
+    {
+      "cityName": "Campbell Town",
+      "lat": 8.3066667,
+      "lng": -13.0502778
+    },
+    {
+      "cityName": "Charlotte",
+      "lat": 8.4241667,
+      "lng": -13.1916667
+    },
+    {
+      "cityName": "Cline Town",
+      "lat": 8.2627778,
+      "lng": -13.0808333
+    },
+    {
+      "cityName": "Coldbath Town",
+      "lat": 8.4333333,
+      "lng": -13.1666667
+    },
+    {
+      "cityName": "Cole Town",
+      "lat": 8.2722222,
+      "lng": -13.0797222
+    },
+    {
+      "cityName": "Congo",
+      "lat": 8.3547222,
+      "lng": -13.1086111
+    },
+    {
+      "cityName": "Depea Water",
+      "lat": 8.3580556,
+      "lng": -13.0819444
+    },
+    {
+      "cityName": "Devil Hole",
+      "lat": 8.37,
+      "lng": -13.0933333
+    },
+    {
+      "cityName": "Domingo Farm",
+      "lat": 8.3783333,
+      "lng": -13.2413889
+    },
+    {
+      "cityName": "Dublin",
+      "lat": 8.1333333,
+      "lng": -13.2002778
+    },
+    {
+      "cityName": "Fabaina",
+      "lat": 8.3,
+      "lng": -12.9333333
+    },
+    {
+      "cityName": "Fakai",
+      "lat": 8.3627778,
+      "lng": -13.0222222
+    },
+    {
+      "cityName": "Fakina",
+      "lat": 8.2838889,
+      "lng": -13.0719444
+    },
+    {
+      "cityName": "Fisher Lane",
+      "lat": 8.4833333,
+      "lng": -13.2
+    },
+    {
+      "cityName": "Fodi Town",
+      "lat": 8.1833333,
+      "lng": -13.1333333
+    },
+    {
+      "cityName": "Fo-gbo",
+      "lat": 8.2666667,
+      "lng": -12.9833333
+    },
+    {
+      "cityName": "Foiya",
+      "lat": 8.3,
+      "lng": -12.9666667
+    },
+    {
+      "cityName": "Fonima",
+      "lat": 8.4305556,
+      "lng": -13.2683333
+    },
+    {
+      "cityName": "Four Miles",
+      "lat": 8.3386111,
+      "lng": -13.0047222
+    },
+    {
+      "cityName": "Freetown",
+      "lat": 8.49,
+      "lng": -13.2341667
+    },
+    {
+      "cityName": "Funkia",
+      "lat": 8.4319444,
+      "lng": -13.2897222
+    },
+    {
+      "cityName": "Gafton",
+      "lat": 8.3936111,
+      "lng": -13.1536111
+    },
+    {
+      "cityName": "Garahun",
+      "lat": 8.3333333,
+      "lng": -12.9333333
+    },
+    {
+      "cityName": "Gendima",
+      "lat": 8.3063889,
+      "lng": -13.0608333
+    },
+    {
+      "cityName": "Gloucester",
+      "lat": 8.4522222,
+      "lng": -13.2152778
+    },
+    {
+      "cityName": "Hake Town",
+      "lat": 8.2936111,
+      "lng": -13.0530556
+    },
+    {
+      "cityName": "Hamilton",
+      "lat": 8.3819444,
+      "lng": -13.2597222
+    },
+    {
+      "cityName": "Hastings",
+      "lat": 8.3797222,
+      "lng": -13.1386111
+    },
+    {
+      "cityName": "Hill Station",
+      "lat": 8.4583333,
+      "lng": -13.2552778
+    },
+    {
+      "cityName": "Irua",
+      "lat": 8.2902778,
+      "lng": -13.0494444
+    },
+    {
+      "cityName": "Jibima",
+      "lat": 8.3052778,
+      "lng": -13.0686111
+    },
+    {
+      "cityName": "Joe Fakai",
+      "lat": 8.3202778,
+      "lng": -13.0319444
+    },
+    {
+      "cityName": "Joe Town",
+      "lat": 8.2894444,
+      "lng": -13.03
+    },
+    {
+      "cityName": "John Obey",
+      "lat": 8.2333333,
+      "lng": -13.1666667
+    },
+    {
+      "cityName": "Johntop",
+      "lat": 8.3980556,
+      "lng": -13.0877778
+    },
+    {
+      "cityName": "Jui",
+      "lat": 8.4133333,
+      "lng": -13.1361111
+    },
+    {
+      "cityName": "Juite Town",
+      "lat": 8.3908333,
+      "lng": -13.0830556
+    },
+    {
+      "cityName": "Jummu Town",
+      "lat": 8.2513889,
+      "lng": -13.0836111
+    },
+    {
+      "cityName": "Jungalau",
+      "lat": 8.3033333,
+      "lng": -13.0597222
+    },
+    {
+      "cityName": "Kakanda Town",
+      "lat": 8.3205556,
+      "lng": -13.0619444
+    },
+    {
+      "cityName": "Kali Town",
+      "lat": 8.35,
+      "lng": -12.9833333
+    },
+    {
+      "cityName": "Kani",
+      "lat": 8.2780556,
+      "lng": -13.0627778
+    },
+    {
+      "cityName": "Katu Town",
+      "lat": 8.33,
+      "lng": -13.0030556
+    },
+    {
+      "cityName": "Kebbie Town",
+      "lat": 8.2666667,
+      "lng": -13.0833333
+    },
+    {
+      "cityName": "Kent",
+      "lat": 8.1658333,
+      "lng": -13.1666667
+    },
+    {
+      "cityName": "Kerry Town",
+      "lat": 8.2569444,
+      "lng": -13.0861111
+    },
+    {
+      "cityName": "Kissi Town",
+      "lat": 8.2002778,
+      "lng": -13.1169444
+    },
+    {
+      "cityName": "Kissy",
+      "lat": 8.4686111,
+      "lng": -13.1930556
+    },
+    {
+      "cityName": "Koba",
+      "lat": 8.2905556,
+      "lng": -13.0930556
+    },
+    {
+      "cityName": "Koker Town",
+      "lat": 8.3055556,
+      "lng": -13.0391667
+    },
+    {
+      "cityName": "Kola Tree",
+      "lat": 8.3544444,
+      "lng": -13.0011111
+    },
+    {
+      "cityName": "Kondibu",
+      "lat": 8.35,
+      "lng": -12.95
+    },
+    {
+      "cityName": "Konno Town",
+      "lat": 8.3666667,
+      "lng": -12.95
+    },
+    {
+      "cityName": "Kono Town",
+      "lat": 8.3333333,
+      "lng": -13.0166667
+    },
+    {
+      "cityName": "Konte",
+      "lat": 8.2922222,
+      "lng": -13.0072222
+    },
+    {
+      "cityName": "Kortright",
+      "lat": 8.4747222,
+      "lng": -13.2102778
+    },
+    {
+      "cityName": "Kossoh Town",
+      "lat": 8.3313889,
+      "lng": -13.0702778
+    },
+    {
+      "cityName": "Kosso Town",
+      "lat": 8.2808333,
+      "lng": -13.0794444
+    },
+    {
+      "cityName": "Kottopema",
+      "lat": 8.2683333,
+      "lng": -13.0577778
+    },
+    {
+      "cityName": "Kwama",
+      "lat": 8.3666667,
+      "lng": -12.9833333
+    },
+    {
+      "cityName": "Lakka",
+      "lat": 8.4,
+      "lng": -13.2680556
+    },
+    {
+      "cityName": "Leicester",
+      "lat": 8.4611111,
+      "lng": -13.2191667
+    },
+    {
+      "cityName": "Lokko Town",
+      "lat": 8.25,
+      "lng": -13.0833333
+    },
+    {
+      "cityName": "Loko Fakai",
+      "lat": 8.3197222,
+      "lng": -13.1102778
+    },
+    {
+      "cityName": "Lower Allen Town",
+      "lat": 8.4158333,
+      "lng": -13.1519444
+    },
+    {
+      "cityName": "Lumley",
+      "lat": 8.4538889,
+      "lng": -13.2825
+    },
+    {
+      "cityName": "Lumpa",
+      "lat": 8.3280556,
+      "lng": -13.0613889
+    },
+    {
+      "cityName": "Luseni",
+      "lat": 8.3122222,
+      "lng": -13.0213889
+    },
+    {
+      "cityName": "Ma-bala",
+      "lat": 8.35,
+      "lng": -12.9666667
+    },
+    {
+      "cityName": "Ma-bampo",
+      "lat": 8.2763889,
+      "lng": -13.0275
+    },
+    {
+      "cityName": "Ma-bangba",
+      "lat": 8.3,
+      "lng": -12.95
+    },
+    {
+      "cityName": "Mabiri",
+      "lat": 8.3027778,
+      "lng": -13.0225
+    },
+    {
+      "cityName": "Macdonald Wharf",
+      "lat": 8.275,
+      "lng": -13.0686111
+    },
+    {
+      "cityName": "Mafonike",
+      "lat": 8.2961111,
+      "lng": -13.0275
+    },
+    {
+      "cityName": "Ma-gbafti",
+      "lat": 8.3152778,
+      "lng": -13.0041667
+    },
+    {
+      "cityName": "Makabi",
+      "lat": 8.3841667,
+      "lng": -13.0025
+    },
+    {
+      "cityName": "Ma-kimba",
+      "lat": 8.2616667,
+      "lng": -13.0044444
+    },
+    {
+      "cityName": "Ma-koi Lunga",
+      "lat": 8.2897222,
+      "lng": -13.0044444
+    },
+    {
+      "cityName": "Ma-komba",
+      "lat": 8.3,
+      "lng": -12.9833333
+    },
+    {
+      "cityName": "Ma-kombi",
+      "lat": 8.255,
+      "lng": -13.0277778
+    },
+    {
+      "cityName": "Ma-konkwe",
+      "lat": 8.3158333,
+      "lng": -13.0233333
+    },
+    {
+      "cityName": "Ma-konte",
+      "lat": 8.2863889,
+      "lng": -13.0138889
+    },
+    {
+      "cityName": "Ma-lumbe",
+      "lat": 8.3091667,
+      "lng": -13.0419444
+    },
+    {
+      "cityName": "Mamah",
+      "lat": 8.2002778,
+      "lng": -13.1336111
+    },
+    {
+      "cityName": "Ma-mange",
+      "lat": 8.2983333,
+      "lng": -13.0108333
+    },
+    {
+      "cityName": "Ma-mari",
+      "lat": 8.3333333,
+      "lng": -12.95
+    },
+    {
+      "cityName": "Mama Town",
+      "lat": 8.2569444,
+      "lng": -13.0811111
+    },
+    {
+      "cityName": "Ma-nalo",
+      "lat": 8.2833333,
+      "lng": -13
+    },
+    {
+      "cityName": "Mano",
+      "lat": 8.3166667,
+      "lng": -13.05
+    },
+    {
+      "cityName": "Ma-paira",
+      "lat": 8.3333333,
+      "lng": -12.9666667
+    },
+    {
+      "cityName": "Mary Wharf",
+      "lat": 8.2697222,
+      "lng": -13.0755556
+    },
+    {
+      "cityName": "Ma-samana",
+      "lat": 8.3644444,
+      "lng": -13.0155556
+    },
+    {
+      "cityName": "Masantigi",
+      "lat": 8.3622222,
+      "lng": -13.0466667
+    },
+    {
+      "cityName": "Ma-selo",
+      "lat": 8.3166667,
+      "lng": -12.9333333
+    },
+    {
+      "cityName": "Ma-shewore",
+      "lat": 8.2794444,
+      "lng": -13.0091667
+    },
+    {
+      "cityName": "Masine",
+      "lat": 8.295,
+      "lng": -13.0102778
+    },
+    {
+      "cityName": "Ma-suri",
+      "lat": 8.2938889,
+      "lng": -13.0086111
+    },
+    {
+      "cityName": "Masuri",
+      "lat": 8.3052778,
+      "lng": -13.0169444
+    },
+    {
+      "cityName": "Ma-Tinde",
+      "lat": 8.2933333,
+      "lng": -13.06
+    },
+    {
+      "cityName": "Matombo",
+      "lat": 8.3833333,
+      "lng": -13.0069444
+    },
+    {
+      "cityName": "Mayenkineh",
+      "lat": 8.4266667,
+      "lng": -13.1722222
+    },
+    {
+      "cityName": "Miami",
+      "lat": 8.3666667,
+      "lng": -13.0333333
+    },
+    {
+      "cityName": "Middle Town",
+      "lat": 8.2963889,
+      "lng": -13.0794444
+    },
+    {
+      "cityName": "Mirimboe",
+      "lat": 8.4491667,
+      "lng": -13.2547222
+    },
+    {
+      "cityName": "Mo-bokari",
+      "lat": 8.35,
+      "lng": -13.0333333
+    },
+    {
+      "cityName": "Modukkor",
+      "lat": 8.2772222,
+      "lng": -13.0302778
+    },
+    {
+      "cityName": "Mokabi",
+      "lat": 8.3183333,
+      "lng": -13.0077778
+    },
+    {
+      "cityName": "Mo-konkodu",
+      "lat": 8.2402778,
+      "lng": -13.07
+    },
+    {
+      "cityName": "Mo-morlai",
+      "lat": 8.25,
+      "lng": -13.0333333
+    },
+    {
+      "cityName": "Mongonbuh",
+      "lat": 8.3261111,
+      "lng": -13.1083333
+    },
+    {
+      "cityName": "Mortema",
+      "lat": 8.4155556,
+      "lng": -13.1855556
+    },
+    {
+      "cityName": "Mount Aureol",
+      "lat": 8.4827778,
+      "lng": -13.22
+    },
+    {
+      "cityName": "Moyah",
+      "lat": 8.3672222,
+      "lng": -13.0466667
+    },
+    {
+      "cityName": "Murray Town",
+      "lat": 8.4936111,
+      "lng": -13.2652778
+    },
+    {
+      "cityName": "New England",
+      "lat": 8.4666667,
+      "lng": -13.2333333
+    },
+    {
+      "cityName": "New Fakai",
+      "lat": 8.2716667,
+      "lng": -13.0719444
+    },
+    {
+      "cityName": "Number Two",
+      "lat": 8.3366667,
+      "lng": -13.2058333
+    },
+    {
+      "cityName": "Ogue Farm",
+      "lat": 8.4033333,
+      "lng": -13.2630556
+    },
+    {
+      "cityName": "Old Wharf Wellington",
+      "lat": 8.445,
+      "lng": -13.1580556
+    },
+    {
+      "cityName": "Pa Lokko",
+      "lat": 8.3658333,
+      "lng": -13.0580556
+    },
+    {
+      "cityName": "Pamuronko",
+      "lat": 8.4288889,
+      "lng": -13.1530556
+    },
+    {
+      "cityName": "Paw paw",
+      "lat": 8.3433333,
+      "lng": -13.1036111
+    },
+    {
+      "cityName": "Pendembu",
+      "lat": 8.4394444,
+      "lng": -13.2761111
+    },
+    {
+      "cityName": "Piri Town",
+      "lat": 8.3583333,
+      "lng": -13.0088889
+    },
+    {
+      "cityName": "Plain Town",
+      "lat": 8.3511111,
+      "lng": -13.0208333
+    },
+    {
+      "cityName": "Pulongwe",
+      "lat": 8.2752778,
+      "lng": -13.0444444
+    },
+    {
+      "cityName": "Regent",
+      "lat": 8.4358333,
+      "lng": -13.2186111
+    },
+    {
+      "cityName": "Ricketts",
+      "lat": 8.1,
+      "lng": -13.2330556
+    },
+    {
+      "cityName": "Robis",
+      "lat": 8.3752778,
+      "lng": -13.0080556
+    },
+    {
+      "cityName": "Ro-bungba",
+      "lat": 8.4027778,
+      "lng": -13.1122222
+    },
+    {
+      "cityName": "Rocky",
+      "lat": 8.2661111,
+      "lng": -13.0780556
+    },
+    {
+      "cityName": "Ro-gberri",
+      "lat": 8.3166667,
+      "lng": -13
+    },
+    {
+      "cityName": "Rokell",
+      "lat": 8.3816667,
+      "lng": -13.1052778
+    },
+    {
+      "cityName": "Rokupa",
+      "lat": 8.4594444,
+      "lng": -13.1741667
+    },
+    {
+      "cityName": "Ro-poti",
+      "lat": 8.4691667,
+      "lng": -13.1755556
+    },
+    {
+      "cityName": "Samahun",
+      "lat": 8.3136111,
+      "lng": -13.1091667
+    },
+    {
+      "cityName": "Samuel Town",
+      "lat": 8.3077778,
+      "lng": -13.0761111
+    },
+    {
+      "cityName": "Sanda",
+      "lat": 8.3938889,
+      "lng": -13.0108333
+    },
+    {
+      "cityName": "Sangbalima",
+      "lat": 8.5641667,
+      "lng": -13.0630556
+    },
+    {
+      "cityName": "Sherbro Town",
+      "lat": 8.3241667,
+      "lng": -13.0122222
+    },
+    {
+      "cityName": "Songo",
+      "lat": 8.3666667,
+      "lng": -12.9333333
+    },
+    {
+      "cityName": "Stones Town",
+      "lat": 8.3005556,
+      "lng": -13.0791667
+    },
+    {
+      "cityName": "Sukuma Town",
+      "lat": 8.2897222,
+      "lng": -13.075
+    },
+    {
+      "cityName": "Sulpon",
+      "lat": 8.3744444,
+      "lng": -13.2372222
+    },
+    {
+      "cityName": "Sussex",
+      "lat": 8.3466667,
+      "lng": -13.23
+    },
+    {
+      "cityName": "Susu Town",
+      "lat": 8.3744444,
+      "lng": -13.0836111
+    },
+    {
+      "cityName": "Tasoku",
+      "lat": 8.5538889,
+      "lng": -13.0636111
+    },
+    {
+      "cityName": "Tasso",
+      "lat": 8.5644444,
+      "lng": -13.0852778
+    },
+    {
+      "cityName": "Timmani Town",
+      "lat": 8.2530556,
+      "lng": -13.0752778
+    },
+    {
+      "cityName": "Tissana",
+      "lat": 8.2333333,
+      "lng": -13.1
+    },
+    {
+      "cityName": "Toke",
+      "lat": 8.3077778,
+      "lng": -13.1922222
+    },
+    {
+      "cityName": "Toppogehun",
+      "lat": 8.2775,
+      "lng": -13.0480556
+    },
+    {
+      "cityName": "Tuicotte",
+      "lat": 8.35,
+      "lng": -12.9333333
+    },
+    {
+      "cityName": "Tumba",
+      "lat": 8.2166667,
+      "lng": -13.1
+    },
+    {
+      "cityName": "Waterloo",
+      "lat": 8.3383333,
+      "lng": -13.0719444
+    },
+    {
+      "cityName": "Wellington Bassah",
+      "lat": 8.4525,
+      "lng": -13.1955556
+    },
+    {
+      "cityName": "Wellington",
+      "lat": 8.4486111,
+      "lng": -13.1694444
+    },
+    {
+      "cityName": "Wilberforce",
+      "lat": 8.4733333,
+      "lng": -13.2638889
+    },
+    {
+      "cityName": "Yamba Town",
+      "lat": 8.3180556,
+      "lng": -13.0269444
+    },
+    {
+      "cityName": "Yams Farm",
+      "lat": 8.3927778,
+      "lng": -13.1108333
+    },
+    {
+      "cityName": "Yandahu",
+      "lat": 8.3375,
+      "lng": -13.0152778
+    },
+    {
+      "cityName": "York",
+      "lat": 8.2855556,
+      "lng": -13.18
+    }
+  ]
+}

@@ -1,0 +1,783 @@
+{
+  "name": "Faroe Islands",
+  "iso2": "fo",
+  "cities": [
+    {
+      "cityName": "Aaerne",
+      "lat": 62.25,
+      "lng": -6.5666667
+    },
+    {
+      "cityName": "Æðuvík",
+      "lat": 62.0666667,
+      "lng": -6.6833333
+    },
+    {
+      "cityName": "Á Heyggi",
+      "lat": 62.1,
+      "lng": -6.9333333
+    },
+    {
+      "cityName": "Akraberg",
+      "lat": 61.4,
+      "lng": -6.6666667
+    },
+    {
+      "cityName": "Akrar",
+      "lat": 61.45,
+      "lng": -6.75
+    },
+    {
+      "cityName": "Ande Fiord",
+      "lat": 62.2833333,
+      "lng": -6.8333333
+    },
+    {
+      "cityName": "Arge",
+      "lat": 61.9833333,
+      "lng": -6.75
+    },
+    {
+      "cityName": "Árnafjørður",
+      "lat": 62.25,
+      "lng": -6.5166667
+    },
+    {
+      "cityName": "Á Steig",
+      "lat": 62.15,
+      "lng": -7.1333333
+    },
+    {
+      "cityName": "Biskopstø",
+      "lat": 62.2333333,
+      "lng": -6.5666667
+    },
+    {
+      "cityName": "Blankskáli",
+      "lat": 62.2333333,
+      "lng": -6.7
+    },
+    {
+      "cityName": "Bö",
+      "lat": 62.0833333,
+      "lng": -7.35
+    },
+    {
+      "cityName": "Dal",
+      "lat": 61.7833333,
+      "lng": -6.6666667
+    },
+    {
+      "cityName": "Deble",
+      "lat": 62.2833333,
+      "lng": -6.5166667
+    },
+    {
+      "cityName": "Djúpidalur",
+      "lat": 61.8,
+      "lng": -6.75
+    },
+    {
+      "cityName": "Eide",
+      "lat": 62.3,
+      "lng": -7.0833333
+    },
+    {
+      "cityName": "Eldevig",
+      "lat": 62.2833333,
+      "lng": -6.9
+    },
+    {
+      "cityName": "Famien",
+      "lat": 61.5166667,
+      "lng": -6.8666667
+    },
+    {
+      "cityName": "Fodlendi",
+      "lat": 62.3666667,
+      "lng": -6.5333333
+    },
+    {
+      "cityName": "Foså",
+      "lat": 62.3,
+      "lng": -6.5333333
+    },
+    {
+      "cityName": "Froðba",
+      "lat": 61.55,
+      "lng": -6.7666667
+    },
+    {
+      "cityName": "Fuglafjørður",
+      "lat": 62.25,
+      "lng": -6.8
+    },
+    {
+      "cityName": "Fundingbund",
+      "lat": 62.2333333,
+      "lng": -6.9166667
+    },
+    {
+      "cityName": "Funding",
+      "lat": 62.2833333,
+      "lng": -6.95
+    },
+    {
+      "cityName": "Gaasedal",
+      "lat": 62.1166667,
+      "lng": -7.4333333
+    },
+    {
+      "cityName": "Garður",
+      "lat": 62.2,
+      "lng": -6.7
+    },
+    {
+      "cityName": "Gerðar",
+      "lat": 62.1,
+      "lng": -6.7666667
+    },
+    {
+      "cityName": "Giov",
+      "lat": 62.3166667,
+      "lng": -6.9333333
+    },
+    {
+      "cityName": "Gjaanöre Hoalfst",
+      "lat": 62.2333333,
+      "lng": -7.0333333
+    },
+    {
+      "cityName": "Gjógvin",
+      "lat": 62.1333333,
+      "lng": -7.0166667
+    },
+    {
+      "cityName": "Glibre",
+      "lat": 62.1333333,
+      "lng": -6.7166667
+    },
+    {
+      "cityName": "Gøta",
+      "lat": 62.2,
+      "lng": -6.7333333
+    },
+    {
+      "cityName": "Göteejde",
+      "lat": 62.1833333,
+      "lng": -6.7666667
+    },
+    {
+      "cityName": "Götegjov",
+      "lat": 62.1833333,
+      "lng": -6.7333333
+    },
+    {
+      "cityName": "Grógv",
+      "lat": 62.15,
+      "lng": -6.7666667
+    },
+    {
+      "cityName": "Haldarsvík",
+      "lat": 62.2833333,
+      "lng": -7.0833333
+    },
+    {
+      "cityName": "Hamar",
+      "lat": 61.6,
+      "lng": -6.95
+    },
+    {
+      "cityName": "Hamrabyrgi",
+      "lat": 61.4333333,
+      "lng": -6.7166667
+    },
+    {
+      "cityName": "Hamrar",
+      "lat": 62.1166667,
+      "lng": -6.9
+    },
+    {
+      "cityName": "Haraldssund",
+      "lat": 62.2666667,
+      "lng": -6.6
+    },
+    {
+      "cityName": "Hattarvík",
+      "lat": 62.3333333,
+      "lng": -6.25
+    },
+    {
+      "cityName": "Havn",
+      "lat": 62.0166667,
+      "lng": -6.7666667
+    },
+    {
+      "cityName": "Heiðarnar",
+      "lat": 62.1166667,
+      "lng": -6.7166667
+    },
+    {
+      "cityName": "Heller",
+      "lat": 62.2666667,
+      "lng": -6.8333333
+    },
+    {
+      "cityName": "Hestö Bygd",
+      "lat": 61.95,
+      "lng": -6.8666667
+    },
+    {
+      "cityName": "Heyggjur",
+      "lat": 62.1,
+      "lng": -6.75
+    },
+    {
+      "cityName": "Höjvig",
+      "lat": 62.0333333,
+      "lng": -6.75
+    },
+    {
+      "cityName": "Hólar",
+      "lat": 61.6,
+      "lng": -6.9333333
+    },
+    {
+      "cityName": "Hörg",
+      "lat": 61.4166667,
+      "lng": -6.7166667
+    },
+    {
+      "cityName": "Hósvík",
+      "lat": 62.15,
+      "lng": -6.9333333
+    },
+    {
+      "cityName": "Hove",
+      "lat": 61.5166667,
+      "lng": -6.7333333
+    },
+    {
+      "cityName": "Húsar",
+      "lat": 62.2666667,
+      "lng": -6.6833333
+    },
+    {
+      "cityName": "Húsavík",
+      "lat": 61.8,
+      "lng": -6.6666667
+    },
+    {
+      "cityName": "Huse",
+      "lat": 62.05,
+      "lng": -7.1666667
+    },
+    {
+      "cityName": "Hvalvík",
+      "lat": 62.1833333,
+      "lng": -7.0166667
+    },
+    {
+      "cityName": "Hvannasund",
+      "lat": 62.3,
+      "lng": -6.5
+    },
+    {
+      "cityName": "Hvidenæs",
+      "lat": 61.55,
+      "lng": -6.8166667
+    },
+    {
+      "cityName": "Hvítanes",
+      "lat": 62.05,
+      "lng": -6.7666667
+    },
+    {
+      "cityName": "Iansagerði",
+      "lat": 62.0333333,
+      "lng": -7.1833333
+    },
+    {
+      "cityName": "Í Botni",
+      "lat": 61.4833333,
+      "lng": -6.7833333
+    },
+    {
+      "cityName": "Í Fámara",
+      "lat": 61.4666667,
+      "lng": -6.8666667
+    },
+    {
+      "cityName": "Innan Glyvur",
+      "lat": 62.1333333,
+      "lng": -6.75
+    },
+    {
+      "cityName": "Kælnæs",
+      "lat": 62.1166667,
+      "lng": -6.8666667
+    },
+    {
+      "cityName": "Kalbak",
+      "lat": 62.05,
+      "lng": -6.8166667
+    },
+    {
+      "cityName": "Kirkebö",
+      "lat": 61.95,
+      "lng": -6.7833333
+    },
+    {
+      "cityName": "Kirke",
+      "lat": 62.3166667,
+      "lng": -6.3
+    },
+    {
+      "cityName": "Kirker",
+      "lat": 62.05,
+      "lng": -7.1833333
+    },
+    {
+      "cityName": "Klakksvík",
+      "lat": 62.2333333,
+      "lng": -6.6
+    },
+    {
+      "cityName": "Kolbanargjógv",
+      "lat": 62.1,
+      "lng": -6.7833333
+    },
+    {
+      "cityName": "Kolte",
+      "lat": 61.9833333,
+      "lng": -6.95
+    },
+    {
+      "cityName": "Kraair",
+      "lat": 61.4666667,
+      "lng": -6.8166667
+    },
+    {
+      "cityName": "Krodsled",
+      "lat": 61.4666667,
+      "lng": -6.8
+    },
+    {
+      "cityName": "Kunö Bygd",
+      "lat": 62.2833333,
+      "lng": -6.6666667
+    },
+    {
+      "cityName": "Kvivig",
+      "lat": 62.1166667,
+      "lng": -7.0666667
+    },
+    {
+      "cityName": "Lambi",
+      "lat": 62.1333333,
+      "lng": -6.6833333
+    },
+    {
+      "cityName": "Langasandur",
+      "lat": 62.1666667,
+      "lng": -6.7833333
+    },
+    {
+      "cityName": "Leinum",
+      "lat": 62.1166667,
+      "lng": -7.0333333
+    },
+    {
+      "cityName": "Leirvík",
+      "lat": 62.2166667,
+      "lng": -6.6833333
+    },
+    {
+      "cityName": "Líðin",
+      "lat": 61.55,
+      "lng": -6.8333333
+    },
+    {
+      "cityName": "Ljósá",
+      "lat": 62.2666667,
+      "lng": -7.05
+    },
+    {
+      "cityName": "Lobra",
+      "lat": 61.4333333,
+      "lng": -6.7666667
+    },
+    {
+      "cityName": "Mikladalur",
+      "lat": 62.3333333,
+      "lng": -6.75
+    },
+    {
+      "cityName": "Morskernæs",
+      "lat": 62.1333333,
+      "lng": -6.8333333
+    },
+    {
+      "cityName": "Mule",
+      "lat": 62.35,
+      "lng": -6.5666667
+    },
+    {
+      "cityName": "Myggenæs Bygd",
+      "lat": 62.1,
+      "lng": -7.6333333
+    },
+    {
+      "cityName": "Næs",
+      "lat": 61.4666667,
+      "lng": -6.75
+    },
+    {
+      "cityName": "Næsset",
+      "lat": 62.15,
+      "lng": -7.15
+    },
+    {
+      "cityName": "Nes",
+      "lat": 62.0833333,
+      "lng": -6.7166667
+    },
+    {
+      "cityName": "Nesvík",
+      "lat": 62.2166667,
+      "lng": -7.0166667
+    },
+    {
+      "cityName": "Nolsö Bygd",
+      "lat": 62.0166667,
+      "lng": -6.6666667
+    },
+    {
+      "cityName": "Norddeble",
+      "lat": 62.3,
+      "lng": -6.5166667
+    },
+    {
+      "cityName": "Nordöre",
+      "lat": 62.2166667,
+      "lng": -6.5333333
+    },
+    {
+      "cityName": "Norðradalur",
+      "lat": 62.0333333,
+      "lng": -6.9166667
+    },
+    {
+      "cityName": "Nordskaale",
+      "lat": 62.2166667,
+      "lng": -7
+    },
+    {
+      "cityName": "Nordtofte",
+      "lat": 62.2666667,
+      "lng": -6.5
+    },
+    {
+      "cityName": "Oman fyri Kirkju",
+      "lat": 61.5333333,
+      "lng": -6.8833333
+    },
+    {
+      "cityName": "Øravík",
+      "lat": 61.5333333,
+      "lng": -6.8
+    },
+    {
+      "cityName": "Öreenge",
+      "lat": 62.1,
+      "lng": -6.95
+    },
+    {
+      "cityName": "Öre",
+      "lat": 62.1833333,
+      "lng": -6.9666667
+    },
+    {
+      "cityName": "Oyrarbakki",
+      "lat": 62.2,
+      "lng": -6.9833333
+    },
+    {
+      "cityName": "Oyrargjógv",
+      "lat": 62.1166667,
+      "lng": -7.1666667
+    },
+    {
+      "cityName": "Porkere",
+      "lat": 61.4833333,
+      "lng": -6.7333333
+    },
+    {
+      "cityName": "Ridevig",
+      "lat": 62.1,
+      "lng": -6.6666667
+    },
+    {
+      "cityName": "Sadevaag",
+      "lat": 62.05,
+      "lng": -7.1333333
+    },
+    {
+      "cityName": "Saken",
+      "lat": 62.25,
+      "lng": -7.1666667
+    },
+    {
+      "cityName": "Saltens",
+      "lat": 62.1,
+      "lng": -6.7333333
+    },
+    {
+      "cityName": "Sandagerði",
+      "lat": 62,
+      "lng": -6.7666667
+    },
+    {
+      "cityName": "Sand",
+      "lat": 61.8333333,
+      "lng": -6.8
+    },
+    {
+      "cityName": "Sandvig",
+      "lat": 61.6333333,
+      "lng": -6.9166667
+    },
+    {
+      "cityName": "Seblende",
+      "lat": 62.1166667,
+      "lng": -6.75
+    },
+    {
+      "cityName": "Selatrað",
+      "lat": 62.15,
+      "lng": -6.85
+    },
+    {
+      "cityName": "Signabøur",
+      "lat": 62.1,
+      "lng": -6.9
+    },
+    {
+      "cityName": "Sjóvartoftir",
+      "lat": 61.4666667,
+      "lng": -6.7333333
+    },
+    {
+      "cityName": "Skaalebotn",
+      "lat": 62.2,
+      "lng": -6.85
+    },
+    {
+      "cityName": "Skaalevig",
+      "lat": 61.8333333,
+      "lng": -6.65
+    },
+    {
+      "cityName": "Skæling",
+      "lat": 62.1,
+      "lng": -7
+    },
+    {
+      "cityName": "Skálatoftir",
+      "lat": 62.3166667,
+      "lng": -6.6
+    },
+    {
+      "cityName": "Skard",
+      "lat": 62.3166667,
+      "lng": -6.6333333
+    },
+    {
+      "cityName": "Skarvanes",
+      "lat": 61.8,
+      "lng": -6.7333333
+    },
+    {
+      "cityName": "Skibenæs",
+      "lat": 62.1666667,
+      "lng": -6.75
+    },
+    {
+      "cityName": "Skopen",
+      "lat": 61.9,
+      "lng": -6.8666667
+    },
+    {
+      "cityName": "Skúli",
+      "lat": 61.85,
+      "lng": -6.8333333
+    },
+    {
+      "cityName": "Skuö Bygd",
+      "lat": 61.7666667,
+      "lng": -6.8
+    },
+    {
+      "cityName": "Slættanes",
+      "lat": 62.15,
+      "lng": -7.2333333
+    },
+    {
+      "cityName": "Soervaag",
+      "lat": 62.0666667,
+      "lng": -7.3
+    },
+    {
+      "cityName": "Søldarfjørður",
+      "lat": 62.15,
+      "lng": -6.7333333
+    },
+    {
+      "cityName": "Søltuvík",
+      "lat": 61.8333333,
+      "lng": -6.8833333
+    },
+    {
+      "cityName": "Strand",
+      "lat": 62.2666667,
+      "lng": -6.5833333
+    },
+    {
+      "cityName": "Streymnes",
+      "lat": 62.2,
+      "lng": -7.0166667
+    },
+    {
+      "cityName": "Sumba",
+      "lat": 61.4,
+      "lng": -6.7
+    },
+    {
+      "cityName": "Sund",
+      "lat": 62.05,
+      "lng": -6.8333333
+    },
+    {
+      "cityName": "Svinaaer",
+      "lat": 62.2333333,
+      "lng": -7.0166667
+    },
+    {
+      "cityName": "Svinö Bygd",
+      "lat": 62.2833333,
+      "lng": -6.3333333
+    },
+    {
+      "cityName": "Syðradalur",
+      "lat": 62.0166667,
+      "lng": -6.9
+    },
+    {
+      "cityName": "Teigar",
+      "lat": 61.5166667,
+      "lng": -6.8833333
+    },
+    {
+      "cityName": "Tiörnevig",
+      "lat": 62.2833333,
+      "lng": -7.1333333
+    },
+    {
+      "cityName": "Todnæs",
+      "lat": 62.1166667,
+      "lng": -6.8833333
+    },
+    {
+      "cityName": "Toftanes",
+      "lat": 62.2166667,
+      "lng": -6.7
+    },
+    {
+      "cityName": "Torkildshøj",
+      "lat": 62.0833333,
+      "lng": -6.7333333
+    },
+    {
+      "cityName": "Traðir",
+      "lat": 61.85,
+      "lng": -6.8
+    },
+    {
+      "cityName": "Trangisvaag Bygd",
+      "lat": 61.5666667,
+      "lng": -6.8333333
+    },
+    {
+      "cityName": "Troldenæs",
+      "lat": 62.3666667,
+      "lng": -6.7833333
+    },
+    {
+      "cityName": "Tværaa",
+      "lat": 61.55,
+      "lng": -6.8
+    },
+    {
+      "cityName": "Uppsalir",
+      "lat": 62.2166667,
+      "lng": -6.5666667
+    },
+    {
+      "cityName": "Uti á Fløtum",
+      "lat": 62.0333333,
+      "lng": -6.95
+    },
+    {
+      "cityName": "Vágsheygur",
+      "lat": 62.2,
+      "lng": -6.5666667
+    },
+    {
+      "cityName": "Vålen",
+      "lat": 62.1333333,
+      "lng": -7.1333333
+    },
+    {
+      "cityName": "Vandsøre",
+      "lat": 62.0666667,
+      "lng": -7.2333333
+    },
+    {
+      "cityName": "Velbastaður",
+      "lat": 61.9833333,
+      "lng": -6.8333333
+    },
+    {
+      "cityName": "Vestmanhavn",
+      "lat": 62.15,
+      "lng": -7.1666667
+    },
+    {
+      "cityName": "Vigum",
+      "lat": 62.1333333,
+      "lng": -7.3666667
+    },
+    {
+      "cityName": "Ytri Skáli",
+      "lat": 62.15,
+      "lng": -6.75
+    }
+  ],
+  "regionList": null,
+  "geoRectangle": {
+    "West": -7.45800065994,
+    "East": -6.39958238602,
+    "North": 62.4007530212,
+    "South": 61.3949356079
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 0,
+    "Flg": 2,
+    "Name": "Torshavn",
+    "GeoPt": [
+      62.01,
+      -6.46
+    ]
+  }
+}

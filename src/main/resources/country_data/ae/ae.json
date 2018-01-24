@@ -1,0 +1,51 @@
+{
+  "name": "United Arab Emirates",
+  "iso2": "ae",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Abu Dhabi",
+      "id": 0
+    },
+    {
+      "name": "Ajman",
+      "id": 1
+    },
+    {
+      "name": "Dubai",
+      "id": 2
+    },
+    {
+      "name": "Fujairah",
+      "id": 3
+    },
+    {
+      "name": "Ras Al Khaimah",
+      "id": 4
+    },
+    {
+      "name": "Sharjah",
+      "id": 5
+    },
+    {
+      "name": "Umm Al Quwain",
+      "id": 6
+    }
+  ],
+  "geoRectangle": {
+    "West": 51.5833244324,
+    "East": 56.3816642761,
+    "North": 26.0841617584,
+    "South": 22.6333274841
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 4,
+    "Flg": 2,
+    "Name": "Abu Dhabi",
+    "GeoPt": [
+      24.28,
+      54.22
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Gibraltar",
+  "iso2": "gi",
+  "cities": [
+    {
+      "cityName": "Caleta",
+      "lat": 36.1333333,
+      "lng": -5.3333333
+    },
+    {
+      "cityName": "Gibilterra",
+      "lat": 36.1333333,
+      "lng": -5.35
+    },
+    {
+      "cityName": "Rosia",
+      "lat": 36.1166667,
+      "lng": -5.35
+    }
+  ],
+  "regionList": null,
+  "geoRectangle": {
+    "West": -5.35725069046,
+    "East": -5.33963823318,
+    "North": 36.1598091125,
+    "South": 36.1124076843
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Gibraltar",
+    "GeoPt": [
+      36.08,
+      -5.21
+    ]
+  }
+}

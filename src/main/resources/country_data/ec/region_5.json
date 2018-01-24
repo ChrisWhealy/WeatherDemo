@@ -1,0 +1,925 @@
+{
+  "name": "Cotopaxi",
+  "cities": [
+    {
+      "cityName": "Aguamasa",
+      "lat": -1.0833333,
+      "lng": -78.7166667
+    },
+    {
+      "cityName": "Alaques",
+      "lat": -0.8666667,
+      "lng": -78.6
+    },
+    {
+      "cityName": "Alpamala de Toro",
+      "lat": -1.05,
+      "lng": -78.6666667
+    },
+    {
+      "cityName": "Angamarca",
+      "lat": -1.1166667,
+      "lng": -78.9333333
+    },
+    {
+      "cityName": "Angamarcalle",
+      "lat": -1,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Antonio José Holguín",
+      "lat": -1.1166667,
+      "lng": -78.5833333
+    },
+    {
+      "cityName": "Apagua",
+      "lat": -0.9666667,
+      "lng": -78.9333333
+    },
+    {
+      "cityName": "Atahualpa",
+      "lat": -0.95,
+      "lng": -78.6
+    },
+    {
+      "cityName": "Atápulo",
+      "lat": -0.8666667,
+      "lng": -78.75
+    },
+    {
+      "cityName": "Atocha",
+      "lat": -1.0666667,
+      "lng": -78.7166667
+    },
+    {
+      "cityName": "Avelina",
+      "lat": -0.8,
+      "lng": -78.6333333
+    },
+    {
+      "cityName": "Barrancas",
+      "lat": -0.8,
+      "lng": -78.5333333
+    },
+    {
+      "cityName": "Belisario Quevedo",
+      "lat": -0.9666667,
+      "lng": -78.5666667
+    },
+    {
+      "cityName": "Bellavista",
+      "lat": -0.8833333,
+      "lng": -78.6
+    },
+    {
+      "cityName": "Bella Vista",
+      "lat": -1.05,
+      "lng": -78.55
+    },
+    {
+      "cityName": "Boliche",
+      "lat": -0.7166667,
+      "lng": -78.6
+    },
+    {
+      "cityName": "Buenaventura",
+      "lat": -0.7833333,
+      "lng": -78.7166667
+    },
+    {
+      "cityName": "Cacaoal",
+      "lat": -1.0166667,
+      "lng": -79.2
+    },
+    {
+      "cityName": "Cachipamba",
+      "lat": -0.85,
+      "lng": -78.6666667
+    },
+    {
+      "cityName": "Callo Mancheno",
+      "lat": -0.75,
+      "lng": -78.6
+    },
+    {
+      "cityName": "Canchagua",
+      "lat": -0.8,
+      "lng": -78.6833333
+    },
+    {
+      "cityName": "Capilla S. Bartolo",
+      "lat": -0.9833333,
+      "lng": -78.5833333
+    },
+    {
+      "cityName": "Carazón",
+      "lat": -1.1333333,
+      "lng": -79.0666667
+    },
+    {
+      "cityName": "Carrillo",
+      "lat": -1.0833333,
+      "lng": -78.6666667
+    },
+    {
+      "cityName": "Chalua",
+      "lat": -0.8166667,
+      "lng": -78.7333333
+    },
+    {
+      "cityName": "Chanchaló",
+      "lat": -1.0333333,
+      "lng": -78.5166667
+    },
+    {
+      "cityName": "Chantilín",
+      "lat": -0.85,
+      "lng": -78.65
+    },
+    {
+      "cityName": "Chasqui",
+      "lat": -0.7,
+      "lng": -78.5833333
+    },
+    {
+      "cityName": "Chaupi",
+      "lat": -0.95,
+      "lng": -78.75
+    },
+    {
+      "cityName": "Chillo",
+      "lat": -0.85,
+      "lng": -78.5666667
+    },
+    {
+      "cityName": "Chini",
+      "lat": -1.1166667,
+      "lng": -78.95
+    },
+    {
+      "cityName": "Chiñolo",
+      "lat": -0.7666667,
+      "lng": -78.9
+    },
+    {
+      "cityName": "Chirinche de Maldonado",
+      "lat": -1.0833333,
+      "lng": -78.65
+    },
+    {
+      "cityName": "Chisulchi",
+      "lat": -0.7166667,
+      "lng": -78.8
+    },
+    {
+      "cityName": "Chizaló",
+      "lat": -0.7,
+      "lng": -78.8166667
+    },
+    {
+      "cityName": "Chucchilán",
+      "lat": -0.8,
+      "lng": -78.9166667
+    },
+    {
+      "cityName": "Churuloma",
+      "lat": -1,
+      "lng": -78.55
+    },
+    {
+      "cityName": "Ciénega",
+      "lat": -0.7666667,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Cilinhua Chico",
+      "lat": -0.9333333,
+      "lng": -78.5333333
+    },
+    {
+      "cityName": "Colaiza",
+      "lat": -0.9166667,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Colaya",
+      "lat": -0.85,
+      "lng": -78.6
+    },
+    {
+      "cityName": "Collas",
+      "lat": -0.9166667,
+      "lng": -78.7166667
+    },
+    {
+      "cityName": "Collas Russo",
+      "lat": -0.9333333,
+      "lng": -78.7
+    },
+    {
+      "cityName": "Compañía Chica",
+      "lat": -1.1,
+      "lng": -78.6833333
+    },
+    {
+      "cityName": "Comunidad de Salamala",
+      "lat": -0.85,
+      "lng": -78.7166667
+    },
+    {
+      "cityName": "Cuchitingue",
+      "lat": -0.85,
+      "lng": -78.5333333
+    },
+    {
+      "cityName": "Cumbijín",
+      "lat": -1.05,
+      "lng": -78.5
+    },
+    {
+      "cityName": "Cunchibamba de Chiriboga",
+      "lat": -1.0833333,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Cusiguango",
+      "lat": -0.8,
+      "lng": -78.5833333
+    },
+    {
+      "cityName": "Cusubamba",
+      "lat": -1.0666667,
+      "lng": -78.7
+    },
+    {
+      "cityName": "Cusubambito",
+      "lat": -1.1,
+      "lng": -78.6666667
+    },
+    {
+      "cityName": "Cutuní Grande",
+      "lat": -0.9833333,
+      "lng": -78.7333333
+    },
+    {
+      "cityName": "El Belén",
+      "lat": -1.0833333,
+      "lng": -78.7
+    },
+    {
+      "cityName": "El Pongo",
+      "lat": -0.7,
+      "lng": -78.8
+    },
+    {
+      "cityName": "El Recreo",
+      "lat": -1.05,
+      "lng": -78.6
+    },
+    {
+      "cityName": "El Rosario",
+      "lat": -0.7333333,
+      "lng": -78.65
+    },
+    {
+      "cityName": "El Tejar",
+      "lat": -0.9,
+      "lng": -78.7
+    },
+    {
+      "cityName": "Estela",
+      "lat": -0.75,
+      "lng": -78.8833333
+    },
+    {
+      "cityName": "Flores",
+      "lat": -0.9333333,
+      "lng": -78.6
+    },
+    {
+      "cityName": "Galpón Chiquito",
+      "lat": -1.0666667,
+      "lng": -78.5
+    },
+    {
+      "cityName": "Galpón",
+      "lat": -1.05,
+      "lng": -78.4833333
+    },
+    {
+      "cityName": "Guadual Grande",
+      "lat": -0.65,
+      "lng": -79.0833333
+    },
+    {
+      "cityName": "Guaitacama",
+      "lat": -0.8166667,
+      "lng": -78.6333333
+    },
+    {
+      "cityName": "Guaitacamito",
+      "lat": -0.8333333,
+      "lng": -78.6333333
+    },
+    {
+      "cityName": "Guanaje",
+      "lat": -0.8666667,
+      "lng": -78.8333333
+    },
+    {
+      "cityName": "Guanilín de Hidalgo",
+      "lat": -1,
+      "lng": -78.5833333
+    },
+    {
+      "cityName": "Guanilín de Jácome",
+      "lat": -0.9833333,
+      "lng": -78.5666667
+    },
+    {
+      "cityName": "Guanilín",
+      "lat": -0.9666667,
+      "lng": -78.5833333
+    },
+    {
+      "cityName": "Guantugloma",
+      "lat": -1.0333333,
+      "lng": -78.65
+    },
+    {
+      "cityName": "Guasaganda",
+      "lat": -0.8,
+      "lng": -79.1666667
+    },
+    {
+      "cityName": "Guayama",
+      "lat": -0.8333333,
+      "lng": -78.9
+    },
+    {
+      "cityName": "Güingopana",
+      "lat": -0.75,
+      "lng": -78.7666667
+    },
+    {
+      "cityName": "Guintza",
+      "lat": -0.7666667,
+      "lng": -78.7333333
+    },
+    {
+      "cityName": "Hacienda Chambapamgo",
+      "lat": -1.05,
+      "lng": -78.5166667
+    },
+    {
+      "cityName": "Hacienda Chaupi",
+      "lat": -0.8333333,
+      "lng": -78.8833333
+    },
+    {
+      "cityName": "Hacienda Cusubamba",
+      "lat": -1.0666667,
+      "lng": -78.6666667
+    },
+    {
+      "cityName": "Hacienda de Rivas",
+      "lat": -0.7166667,
+      "lng": -78.6333333
+    },
+    {
+      "cityName": "Hacienda Guaitacama",
+      "lat": -0.8333333,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Hacienda Ilitío de Maldonado",
+      "lat": -0.7,
+      "lng": -78.5333333
+    },
+    {
+      "cityName": "Hacienda Ilitío de Plaza",
+      "lat": -0.7333333,
+      "lng": -78.5333333
+    },
+    {
+      "cityName": "Hacienda Illuchi",
+      "lat": -0.9833333,
+      "lng": -78.6
+    },
+    {
+      "cityName": "Hacienda Inchapo",
+      "lat": -0.9333333,
+      "lng": -78.65
+    },
+    {
+      "cityName": "Hacienda Isinche de Otañez",
+      "lat": -0.9833333,
+      "lng": -78.6666667
+    },
+    {
+      "cityName": "Hacienda Isinche de Peñaherrera",
+      "lat": -0.9833333,
+      "lng": -78.65
+    },
+    {
+      "cityName": "Hacienda Isinche de Tovar",
+      "lat": -0.9666667,
+      "lng": -78.65
+    },
+    {
+      "cityName": "Hacienda Isinche",
+      "lat": -0.9833333,
+      "lng": -78.7166667
+    },
+    {
+      "cityName": "Hacienda Izurieta",
+      "lat": -1.0166667,
+      "lng": -78.6333333
+    },
+    {
+      "cityName": "Hacienda Jachahuango",
+      "lat": -1.0333333,
+      "lng": -78.6333333
+    },
+    {
+      "cityName": "Hacienda Josehuango",
+      "lat": -0.8333333,
+      "lng": -78.6
+    },
+    {
+      "cityName": "Hacienda Juigua",
+      "lat": -1.0333333,
+      "lng": -78.7
+    },
+    {
+      "cityName": "Hacienda La Calera",
+      "lat": -0.8833333,
+      "lng": -78.6333333
+    },
+    {
+      "cityName": "Hacienda La Calerita",
+      "lat": -0.9,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Hacienda La Compañía",
+      "lat": -0.8333333,
+      "lng": -78.7166667
+    },
+    {
+      "cityName": "Hacienda Laigua de Estupiñán",
+      "lat": -0.8833333,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Hacienda Laigua del Colegio",
+      "lat": -0.8666667,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Hacienda Laigua de Maldonado",
+      "lat": -0.85,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Hacienda La Merced",
+      "lat": -0.9833333,
+      "lng": -78.7
+    },
+    {
+      "cityName": "Hacienda La Playa",
+      "lat": -1.0666667,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Hacienda La Rioja",
+      "lat": -0.8666667,
+      "lng": -78.6666667
+    },
+    {
+      "cityName": "Hacienda Las Mercedes",
+      "lat": -0.7833333,
+      "lng": -78.5666667
+    },
+    {
+      "cityName": "Hacienda Laurita",
+      "lat": -0.75,
+      "lng": -78.6333333
+    },
+    {
+      "cityName": "Hacienda La Victoria",
+      "lat": -0.7833333,
+      "lng": -78.6
+    },
+    {
+      "cityName": "Hacienda Limachig",
+      "lat": -0.7666667,
+      "lng": -78.6
+    },
+    {
+      "cityName": "Hacienda Luzún Chico",
+      "lat": -0.75,
+      "lng": -78.65
+    },
+    {
+      "cityName": "Hacienda Macas Chiquito",
+      "lat": -0.8666667,
+      "lng": -78.7
+    },
+    {
+      "cityName": "Hacienda Macas de Cruz",
+      "lat": -0.8833333,
+      "lng": -78.7166667
+    },
+    {
+      "cityName": "Hacienda Macas de Pazmiño",
+      "lat": -0.9,
+      "lng": -78.7166667
+    },
+    {
+      "cityName": "Hacienda Monjas",
+      "lat": -0.75,
+      "lng": -78.6833333
+    },
+    {
+      "cityName": "Hacienda Mulaló",
+      "lat": -0.7833333,
+      "lng": -78.5833333
+    },
+    {
+      "cityName": "Hacienda Mulinlibi",
+      "lat": -0.9166667,
+      "lng": -78.6833333
+    },
+    {
+      "cityName": "Hacienda Naranjo",
+      "lat": -1.0833333,
+      "lng": -78.6833333
+    },
+    {
+      "cityName": "Hacienda Nintanga Alto",
+      "lat": -0.85,
+      "lng": -78.6333333
+    },
+    {
+      "cityName": "Hacienda Noelanda",
+      "lat": -0.9166667,
+      "lng": -78.5
+    },
+    {
+      "cityName": "Hacienda Palama",
+      "lat": -1.0333333,
+      "lng": -78.5333333
+    },
+    {
+      "cityName": "Hacienda Pichil",
+      "lat": -0.9333333,
+      "lng": -78.6333333
+    },
+    {
+      "cityName": "Hacienda Poalopos",
+      "lat": -0.95,
+      "lng": -78.55
+    },
+    {
+      "cityName": "Hacienda Provincia",
+      "lat": -0.7666667,
+      "lng": -78.8666667
+    },
+    {
+      "cityName": "Hacienda Pusuchisí",
+      "lat": -0.9,
+      "lng": -78.55
+    },
+    {
+      "cityName": "Hacienda Putzalahua",
+      "lat": -0.95,
+      "lng": -78.5666667
+    },
+    {
+      "cityName": "Hacienda Quillusillín",
+      "lat": -0.7666667,
+      "lng": -78.7833333
+    },
+    {
+      "cityName": "Hacienda Razuyacu",
+      "lat": -0.75,
+      "lng": -78.7
+    },
+    {
+      "cityName": "Hacienda Río Blanco",
+      "lat": -0.7333333,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Hacienda Rumipamba de la Universidad",
+      "lat": -1.0166667,
+      "lng": -78.5833333
+    },
+    {
+      "cityName": "Hacienda Rumipamba del Colegio",
+      "lat": -0.9,
+      "lng": -78.6333333
+    },
+    {
+      "cityName": "Hacienda Rumipamba",
+      "lat": -0.7666667,
+      "lng": -78.5833333
+    },
+    {
+      "cityName": "Hacienda Rumipungu",
+      "lat": -0.9333333,
+      "lng": -78.55
+    },
+    {
+      "cityName": "Hacienda Salachi Chico",
+      "lat": -1.0333333,
+      "lng": -78.6
+    },
+    {
+      "cityName": "Hacienda Salamala",
+      "lat": -0.8333333,
+      "lng": -78.7333333
+    },
+    {
+      "cityName": "Hacienda Salgado",
+      "lat": -1.5666667,
+      "lng": -78.75
+    },
+    {
+      "cityName": "Hacienda San Agustín de Callo",
+      "lat": -0.7333333,
+      "lng": -78.5833333
+    },
+    {
+      "cityName": "Hacienda Sandoval",
+      "lat": -0.7666667,
+      "lng": -78.65
+    },
+    {
+      "cityName": "Hacienda San Elías",
+      "lat": -0.7666667,
+      "lng": -78.55
+    },
+    {
+      "cityName": "Hacienda San Felipe",
+      "lat": -0.95,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Hacienda San Gabriel",
+      "lat": -0.7166667,
+      "lng": -78.9333333
+    },
+    {
+      "cityName": "Hacienda San Ignacio",
+      "lat": -1.1,
+      "lng": -78.6333333
+    },
+    {
+      "cityName": "Hacienda San Isidro de Tusapo",
+      "lat": -1.0166667,
+      "lng": -78.5666667
+    },
+    {
+      "cityName": "Hacienda San Isidro",
+      "lat": -1.0166667,
+      "lng": -78.7
+    },
+    {
+      "cityName": "Hacienda San Joaquín",
+      "lat": -0.6833333,
+      "lng": -78.5833333
+    },
+    {
+      "cityName": "Hacienda San José",
+      "lat": -0.7166667,
+      "lng": -78.8833333
+    },
+    {
+      "cityName": "Hacienda San Juan",
+      "lat": -0.8166667,
+      "lng": -78.6
+    },
+    {
+      "cityName": "Hacienda San León",
+      "lat": -1.0833333,
+      "lng": -78.6333333
+    },
+    {
+      "cityName": "Hacienda San Luis",
+      "lat": -0.7,
+      "lng": -78.6
+    },
+    {
+      "cityName": "Hacienda Santa Ana",
+      "lat": -0.6833333,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Hacienda Santo Domingo",
+      "lat": -0.9166667,
+      "lng": -78.5333333
+    },
+    {
+      "cityName": "Hacienda Saraloma",
+      "lat": -0.95,
+      "lng": -78.65
+    },
+    {
+      "cityName": "Hacienda Sirimbe",
+      "lat": -1.05,
+      "lng": -78.7166667
+    },
+    {
+      "cityName": "Hacienda Tapialpamba",
+      "lat": -0.7833333,
+      "lng": -78.6666667
+    },
+    {
+      "cityName": "Hacienda Tigua",
+      "lat": -0.9333333,
+      "lng": -78.85
+    },
+    {
+      "cityName": "Hacienda Tilipulito",
+      "lat": -0.8833333,
+      "lng": -78.6666667
+    },
+    {
+      "cityName": "Hacienda Tilipulo",
+      "lat": -0.9,
+      "lng": -78.6666667
+    },
+    {
+      "cityName": "Hacienda Tingo",
+      "lat": -0.9333333,
+      "lng": -78.7166667
+    },
+    {
+      "cityName": "Hacienda Tondoa",
+      "lat": -0.7333333,
+      "lng": -78.8666667
+    },
+    {
+      "cityName": "Hacienda Vera Cruz",
+      "lat": -0.7666667,
+      "lng": -78.6333333
+    },
+    {
+      "cityName": "Hacienda Yacupamba",
+      "lat": -1.05,
+      "lng": -78.65
+    },
+    {
+      "cityName": "Hacienda Yanaurcu Chiquito",
+      "lat": -0.7833333,
+      "lng": -78.7666667
+    },
+    {
+      "cityName": "Hacienda Yanaurquito",
+      "lat": -0.7833333,
+      "lng": -78.75
+    },
+    {
+      "cityName": "Hacienda Yuncusí",
+      "lat": -0.7,
+      "lng": -78.85
+    },
+    {
+      "cityName": "Hacienda Zumbagua",
+      "lat": -0.9666667,
+      "lng": -78.9
+    },
+    {
+      "cityName": "Holguín",
+      "lat": -1.0833333,
+      "lng": -78.6
+    },
+    {
+      "cityName": "La Maná",
+      "lat": -0.9333333,
+      "lng": -79.2166667
+    },
+    {
+      "cityName": "Latacunga",
+      "lat": -0.9333333,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Macuchi",
+      "lat": -0.9833333,
+      "lng": -79.0666667
+    },
+    {
+      "cityName": "Moraspungo",
+      "lat": -1.1833333,
+      "lng": -79.2
+    },
+    {
+      "cityName": "Mulliquindil",
+      "lat": -1.0333333,
+      "lng": -78.55
+    },
+    {
+      "cityName": "Naranjal",
+      "lat": -0.9166667,
+      "lng": -79.3166667
+    },
+    {
+      "cityName": "Olguín",
+      "lat": -1.05,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Pajili",
+      "lat": -0.95,
+      "lng": -78.6833333
+    },
+    {
+      "cityName": "Pansaleo",
+      "lat": -1.0666667,
+      "lng": -78.6
+    },
+    {
+      "cityName": "Pilaló",
+      "lat": -0.9333333,
+      "lng": -78.9833333
+    },
+    {
+      "cityName": "Pillig",
+      "lat": -0.8333333,
+      "lng": -78.5833333
+    },
+    {
+      "cityName": "Pinilopata",
+      "lat": -1.15,
+      "lng": -79.0166667
+    },
+    {
+      "cityName": "Pucayacu",
+      "lat": -0.7,
+      "lng": -79.1166667
+    },
+    {
+      "cityName": "Ramón Campaña",
+      "lat": -1.1166667,
+      "lng": -79.0833333
+    },
+    {
+      "cityName": "Salache",
+      "lat": -0.9833333,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Salcedo",
+      "lat": -1.0333333,
+      "lng": -78.5666667
+    },
+    {
+      "cityName": "San Agustín",
+      "lat": -0.9833333,
+      "lng": -78.6333333
+    },
+    {
+      "cityName": "San Buenaventura",
+      "lat": -0.9,
+      "lng": -78.6
+    },
+    {
+      "cityName": "San Francisco de las Pampas",
+      "lat": -0.4333333,
+      "lng": -78.9666667
+    },
+    {
+      "cityName": "Santa Rosa",
+      "lat": -0.6833333,
+      "lng": -78.8166667
+    },
+    {
+      "cityName": "Saquisilí",
+      "lat": -0.8333333,
+      "lng": -78.6666667
+    },
+    {
+      "cityName": "Sigchoscalle",
+      "lat": -1.0166667,
+      "lng": -78.6166667
+    },
+    {
+      "cityName": "Sigchos",
+      "lat": -0.7,
+      "lng": -78.8833333
+    },
+    {
+      "cityName": "Tagualó",
+      "lat": -0.9166667,
+      "lng": -79.1
+    },
+    {
+      "cityName": "Tanicuchí",
+      "lat": -0.7833333,
+      "lng": -78.6333333
+    }
+  ]
+}

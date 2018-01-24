@@ -1,0 +1,655 @@
+{
+  "name": "Quindio",
+  "cities": [
+    {
+      "cityName": "Albania",
+      "lat": 4.4666667,
+      "lng": -75.7166667
+    },
+    {
+      "cityName": "Alsacia",
+      "lat": 4.6833333,
+      "lng": -75.6666667
+    },
+    {
+      "cityName": "Alto del Oso",
+      "lat": 4.3833333,
+      "lng": -75.65
+    },
+    {
+      "cityName": "Alto del Río",
+      "lat": 4.5397222,
+      "lng": -75.6502778
+    },
+    {
+      "cityName": "Armenia",
+      "lat": 4.5338889,
+      "lng": -75.6811111
+    },
+    {
+      "cityName": "Arrayanal",
+      "lat": 4.6602778,
+      "lng": -75.5966667
+    },
+    {
+      "cityName": "Balsora",
+      "lat": 4.2213889,
+      "lng": -75.6880556
+    },
+    {
+      "cityName": "Barcelona Baja",
+      "lat": 4.6063889,
+      "lng": -75.6905556
+    },
+    {
+      "cityName": "Barcelona",
+      "lat": 4.1363889,
+      "lng": -75.7869444
+    },
+    {
+      "cityName": "Barragán",
+      "lat": 4.3333333,
+      "lng": -75.7666667
+    },
+    {
+      "cityName": "Boquía",
+      "lat": 4.6455556,
+      "lng": -75.5841667
+    },
+    {
+      "cityName": "Buenavista",
+      "lat": 4.3622222,
+      "lng": -75.7394444
+    },
+    {
+      "cityName": "Buenos Aires",
+      "lat": 4.1494444,
+      "lng": -75.7063889
+    },
+    {
+      "cityName": "Bulgaria",
+      "lat": 4.2219444,
+      "lng": -75.7202778
+    },
+    {
+      "cityName": "Calarcá",
+      "lat": 4.5325,
+      "lng": -75.6436111
+    },
+    {
+      "cityName": "California",
+      "lat": 4.2230556,
+      "lng": -75.8225
+    },
+    {
+      "cityName": "Canaán",
+      "lat": 4.6169444,
+      "lng": -75.5838889
+    },
+    {
+      "cityName": "Cañaveral",
+      "lat": 4.3,
+      "lng": -75.7666667
+    },
+    {
+      "cityName": "Chapinero",
+      "lat": 4.6891667,
+      "lng": -75.7183333
+    },
+    {
+      "cityName": "Circacia",
+      "lat": 4.6188889,
+      "lng": -75.6358333
+    },
+    {
+      "cityName": "Córdoba",
+      "lat": 4.3905556,
+      "lng": -75.6888889
+    },
+    {
+      "cityName": "Cristales",
+      "lat": 4.15,
+      "lng": -75.8027778
+    },
+    {
+      "cityName": "Cruces",
+      "lat": 4.69,
+      "lng": -75.6080556
+    },
+    {
+      "cityName": "Cumaral",
+      "lat": 4.1166667,
+      "lng": -75.7166667
+    },
+    {
+      "cityName": "Eden",
+      "lat": 4.4666667,
+      "lng": -75.7666667
+    },
+    {
+      "cityName": "El Agrado",
+      "lat": 4.1827778,
+      "lng": -75.7088889
+    },
+    {
+      "cityName": "El Alambrado",
+      "lat": 4.4166667,
+      "lng": -75.8
+    },
+    {
+      "cityName": "El Arbolito",
+      "lat": 4.1855556,
+      "lng": -75.7483333
+    },
+    {
+      "cityName": "El Bosque",
+      "lat": 4.1191667,
+      "lng": -75.8038889
+    },
+    {
+      "cityName": "El Caimo",
+      "lat": 4.4833333,
+      "lng": -75.7
+    },
+    {
+      "cityName": "El Cairo",
+      "lat": 4.2108333,
+      "lng": -75.8072222
+    },
+    {
+      "cityName": "El Castillo",
+      "lat": 4.5583333,
+      "lng": -75.7758333
+    },
+    {
+      "cityName": "El Cuzco",
+      "lat": 4.5433333,
+      "lng": -75.8158333
+    },
+    {
+      "cityName": "El Jazmín",
+      "lat": 4.6411111,
+      "lng": -75.8041667
+    },
+    {
+      "cityName": "El Laurel",
+      "lat": 4.5827778,
+      "lng": -75.8011111
+    },
+    {
+      "cityName": "El Manzano",
+      "lat": 4.2022222,
+      "lng": -75.79
+    },
+    {
+      "cityName": "El Mesón",
+      "lat": 4.535,
+      "lng": -75.7411111
+    },
+    {
+      "cityName": "El Morelia",
+      "lat": 4.2091667,
+      "lng": -75.8091667
+    },
+    {
+      "cityName": "El Naranjal",
+      "lat": 4.5675,
+      "lng": -75.6605556
+    },
+    {
+      "cityName": "El Paraíso",
+      "lat": 4.6286111,
+      "lng": -75.7208333
+    },
+    {
+      "cityName": "El Pensil",
+      "lat": 4.2186111,
+      "lng": -75.7430556
+    },
+    {
+      "cityName": "El Porvenir",
+      "lat": 4.2208333,
+      "lng": -75.7877778
+    },
+    {
+      "cityName": "El Recreo",
+      "lat": 4.1722222,
+      "lng": -75.8305556
+    },
+    {
+      "cityName": "El Roble",
+      "lat": 4.6766667,
+      "lng": -75.6002778
+    },
+    {
+      "cityName": "El Vergel",
+      "lat": 4.1952778,
+      "lng": -75.7863889
+    },
+    {
+      "cityName": "Esmeralda",
+      "lat": 4.1580556,
+      "lng": -75.8088889
+    },
+    {
+      "cityName": "Filandia",
+      "lat": 4.6747222,
+      "lng": -75.6583333
+    },
+    {
+      "cityName": "Galilea",
+      "lat": 4.1402778,
+      "lng": -75.7975
+    },
+    {
+      "cityName": "Génova",
+      "lat": 4.3166667,
+      "lng": -75.7666667
+    },
+    {
+      "cityName": "Guayaquil",
+      "lat": 4.4,
+      "lng": -75.6666667
+    },
+    {
+      "cityName": "José María Rivera",
+      "lat": 4.1594444,
+      "lng": -75.8363889
+    },
+    {
+      "cityName": "La Angostura",
+      "lat": 4.2061111,
+      "lng": -75.1744444
+    },
+    {
+      "cityName": "La Cabaña",
+      "lat": 4.1961111,
+      "lng": -75.7975
+    },
+    {
+      "cityName": "La Cristalina",
+      "lat": 4.575,
+      "lng": -75.6480556
+    },
+    {
+      "cityName": "La Esmeralda",
+      "lat": 4.1925,
+      "lng": -75.8080556
+    },
+    {
+      "cityName": "La Esperanza",
+      "lat": 4.1741667,
+      "lng": -75.8116667
+    },
+    {
+      "cityName": "La Floresta",
+      "lat": 4.1372222,
+      "lng": -75.8038889
+    },
+    {
+      "cityName": "La Frontera",
+      "lat": 4.2038889,
+      "lng": -75.8177778
+    },
+    {
+      "cityName": "Laguna",
+      "lat": 4.1802778,
+      "lng": -75.7147222
+    },
+    {
+      "cityName": "Lagunilla",
+      "lat": 4.4333333,
+      "lng": -75.7833333
+    },
+    {
+      "cityName": "La India",
+      "lat": 4.7069444,
+      "lng": -75.7072222
+    },
+    {
+      "cityName": "La Judea",
+      "lat": 4.1536111,
+      "lng": -75.7161111
+    },
+    {
+      "cityName": "La Julia",
+      "lat": 4.5575,
+      "lng": -75.7291667
+    },
+    {
+      "cityName": "La María",
+      "lat": 4.5316667,
+      "lng": -75.6611111
+    },
+    {
+      "cityName": "La Marina",
+      "lat": 4.1677778,
+      "lng": -75.8302778
+    },
+    {
+      "cityName": "La Mesa Baja",
+      "lat": 4.6430556,
+      "lng": -75.7419444
+    },
+    {
+      "cityName": "La Meseta",
+      "lat": 4.1252778,
+      "lng": -75.81
+    },
+    {
+      "cityName": "La Nubia",
+      "lat": 4.5947222,
+      "lng": -75.6177778
+    },
+    {
+      "cityName": "La Nueva",
+      "lat": 4.2316667,
+      "lng": -75.7677778
+    },
+    {
+      "cityName": "La Palmera",
+      "lat": 4.3333333,
+      "lng": -75.6166667
+    },
+    {
+      "cityName": "La Palmilla",
+      "lat": 4.7388889,
+      "lng": -75.7861111
+    },
+    {
+      "cityName": "La Paloma",
+      "lat": 4.3666667,
+      "lng": -75.7
+    },
+    {
+      "cityName": "La Playa",
+      "lat": 4.185,
+      "lng": -75.8233333
+    },
+    {
+      "cityName": "La Pola",
+      "lat": 4.5719444,
+      "lng": -75.6825
+    },
+    {
+      "cityName": "La Pradera",
+      "lat": 4.5502778,
+      "lng": -75.6283333
+    },
+    {
+      "cityName": "La Primavera",
+      "lat": 4.2033333,
+      "lng": -75.7680556
+    },
+    {
+      "cityName": "La Profunda",
+      "lat": 4.1811111,
+      "lng": -75.8072222
+    },
+    {
+      "cityName": "La Rivera",
+      "lat": 4.1161111,
+      "lng": -75.8116667
+    },
+    {
+      "cityName": "La Romania",
+      "lat": 4.1422222,
+      "lng": -75.8394444
+    },
+    {
+      "cityName": "Las Camelias",
+      "lat": 4.2244444,
+      "lng": -75.7833333
+    },
+    {
+      "cityName": "La Secreta",
+      "lat": 4.1644444,
+      "lng": -75.8005556
+    },
+    {
+      "cityName": "La Siria",
+      "lat": 4.4,
+      "lng": -75.6
+    },
+    {
+      "cityName": "Las Margaritas",
+      "lat": 4.1752778,
+      "lng": -75.7933333
+    },
+    {
+      "cityName": "Las Mercedes",
+      "lat": 4.1822222,
+      "lng": -75.7813889
+    },
+    {
+      "cityName": "Las Mirlas",
+      "lat": 4.2266667,
+      "lng": -75.7022222
+    },
+    {
+      "cityName": "La Suiza",
+      "lat": 4.5177778,
+      "lng": -75.7847222
+    },
+    {
+      "cityName": "La Tebaida",
+      "lat": 4.4552778,
+      "lng": -75.7905556
+    },
+    {
+      "cityName": "La Tribuna",
+      "lat": 4.1811111,
+      "lng": -75.7216667
+    },
+    {
+      "cityName": "La Venado",
+      "lat": 4.2666667,
+      "lng": -75.75
+    },
+    {
+      "cityName": "La Vicoca",
+      "lat": 4.1669444,
+      "lng": -75.8027778
+    },
+    {
+      "cityName": "La Virginia",
+      "lat": 4.5,
+      "lng": -75.65
+    },
+    {
+      "cityName": "Leona",
+      "lat": 4.75,
+      "lng": -75.45
+    },
+    {
+      "cityName": "Los Alamos",
+      "lat": 4.225,
+      "lng": -75.7919444
+    },
+    {
+      "cityName": "Los Andes",
+      "lat": 4.6819444,
+      "lng": -75.5588889
+    },
+    {
+      "cityName": "Los Juanes",
+      "lat": 4.35,
+      "lng": -75.7333333
+    },
+    {
+      "cityName": "Luna Park",
+      "lat": 4.6077778,
+      "lng": -75.6336111
+    },
+    {
+      "cityName": "Magaña",
+      "lat": 4.6,
+      "lng": -75.5
+    },
+    {
+      "cityName": "Marco Fidel Suárez",
+      "lat": 4.2038889,
+      "lng": -75.8061111
+    },
+    {
+      "cityName": "Montenegro",
+      "lat": 4.5663889,
+      "lng": -75.7511111
+    },
+    {
+      "cityName": "Once Casas",
+      "lat": 4.5122222,
+      "lng": -75.8083333
+    },
+    {
+      "cityName": "Pavas",
+      "lat": 4.6513889,
+      "lng": -75.7097222
+    },
+    {
+      "cityName": "Pedregales Alto",
+      "lat": 4.1805556,
+      "lng": -75.7363889
+    },
+    {
+      "cityName": "Pedregales Río",
+      "lat": 4.2013889,
+      "lng": -75.7458333
+    },
+    {
+      "cityName": "Piamonte",
+      "lat": 4.5811111,
+      "lng": -75.6897222
+    },
+    {
+      "cityName": "Pijao",
+      "lat": 4.3380556,
+      "lng": -75.7075
+    },
+    {
+      "cityName": "Pueblorico",
+      "lat": 4.5816667,
+      "lng": -75.7533333
+    },
+    {
+      "cityName": "Puerto Alejandría",
+      "lat": 4.6222222,
+      "lng": -75.8527778
+    },
+    {
+      "cityName": "Puerto Espejo",
+      "lat": 4.5172222,
+      "lng": -75.7061111
+    },
+    {
+      "cityName": "Puerto Rico",
+      "lat": 4.505,
+      "lng": -75.6475
+    },
+    {
+      "cityName": "Puerto Samaría",
+      "lat": 4.5513889,
+      "lng": -75.8738889
+    },
+    {
+      "cityName": "Quebrada Membrillal",
+      "lat": 4.6277778,
+      "lng": -75.6672222
+    },
+    {
+      "cityName": "Quebradanegra",
+      "lat": 4.4333333,
+      "lng": -75.6666667
+    },
+    {
+      "cityName": "Quimbaya",
+      "lat": 4.6230556,
+      "lng": -75.7627778
+    },
+    {
+      "cityName": "Río Arriba",
+      "lat": 4.6333333,
+      "lng": -75.5166667
+    },
+    {
+      "cityName": "Río Gris Alto",
+      "lat": 4.1730556,
+      "lng": -75.7752778
+    },
+    {
+      "cityName": "Ríoverde",
+      "lat": 4.4,
+      "lng": -75.7333333
+    },
+    {
+      "cityName": "Romerales",
+      "lat": 4.6333333,
+      "lng": -75.5
+    },
+    {
+      "cityName": "Salento",
+      "lat": 4.6375,
+      "lng": -75.5702778
+    },
+    {
+      "cityName": "San Antonio",
+      "lat": 4.2077778,
+      "lng": -75.7594444
+    },
+    {
+      "cityName": "San Bernardo",
+      "lat": 4.7166667,
+      "lng": -75.5833333
+    },
+    {
+      "cityName": "San Juan Alto",
+      "lat": 4.1738889,
+      "lng": -75.8019444
+    },
+    {
+      "cityName": "San Juan Bajo",
+      "lat": 4.1891667,
+      "lng": -75.8058333
+    },
+    {
+      "cityName": "Santa Rita",
+      "lat": 4.5541667,
+      "lng": -75.7180556
+    },
+    {
+      "cityName": "Siberia",
+      "lat": 4.4,
+      "lng": -75.7666667
+    },
+    {
+      "cityName": "Sinaí",
+      "lat": 4.135,
+      "lng": -75.7927778
+    },
+    {
+      "cityName": "Termal",
+      "lat": 4.75,
+      "lng": -75.55
+    },
+    {
+      "cityName": "Totarco",
+      "lat": 4.1863889,
+      "lng": -75.7219444
+    },
+    {
+      "cityName": "Tunidad",
+      "lat": 4.2144444,
+      "lng": -75.8236111
+    },
+    {
+      "cityName": "Vasconia",
+      "lat": 4.2011111,
+      "lng": -75.6936111
+    },
+    {
+      "cityName": "Villarazo",
+      "lat": 4.5672222,
+      "lng": -75.7036111
+    }
+  ]
+}

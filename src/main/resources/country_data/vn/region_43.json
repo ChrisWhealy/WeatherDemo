@@ -1,0 +1,835 @@
+{
+  "name": "Soc Trang",
+  "cities": [
+    {
+      "cityName": "An Co",
+      "lat": 9.5069444,
+      "lng": 106.0686111
+    },
+    {
+      "cityName": "An Hòa",
+      "lat": 9.5136111,
+      "lng": 106.0138889
+    },
+    {
+      "cityName": "An Phú",
+      "lat": 9.6594444,
+      "lng": 106.1338889
+    },
+    {
+      "cityName": "An Thanh",
+      "lat": 9.8177778,
+      "lng": 106.0111111
+    },
+    {
+      "cityName": "An Thanh Nhì",
+      "lat": 9.5527778,
+      "lng": 106.2533333
+    },
+    {
+      "cityName": "Ap Au Tho",
+      "lat": 9.3616667,
+      "lng": 106.1352778
+    },
+    {
+      "cityName": "Ap Ba Trum",
+      "lat": 9.4425,
+      "lng": 105.9761111
+    },
+    {
+      "cityName": "Ap Bung Thom",
+      "lat": 9.5744444,
+      "lng": 106.1088889
+    },
+    {
+      "cityName": "Ap Bung Tung",
+      "lat": 9.4038889,
+      "lng": 106.0138889
+    },
+    {
+      "cityName": "Ap Cai Cuu",
+      "lat": 9.4502778,
+      "lng": 105.7322222
+    },
+    {
+      "cityName": "Ap Cau Ba",
+      "lat": 9.5244444,
+      "lng": 105.7961111
+    },
+    {
+      "cityName": "Ap Chau Thanh",
+      "lat": 9.4769444,
+      "lng": 106.16
+    },
+    {
+      "cityName": "Ap Chi",
+      "lat": 9.3775,
+      "lng": 106.0433333
+    },
+    {
+      "cityName": "Ap Cong Dien",
+      "lat": 9.4069444,
+      "lng": 105.7380556
+    },
+    {
+      "cityName": "Ap Dai Bai",
+      "lat": 9.3391667,
+      "lng": 106.0661111
+    },
+    {
+      "cityName": "Ap Dau Giong",
+      "lat": 9.4836111,
+      "lng": 106.1494444
+    },
+    {
+      "cityName": "Ap Day Ba",
+      "lat": 9.4794444,
+      "lng": 105.8836111
+    },
+    {
+      "cityName": "Ap Dien Hoi",
+      "lat": 9.5602778,
+      "lng": 105.6686111
+    },
+    {
+      "cityName": "Ap Giai Lang",
+      "lat": 9.4388889,
+      "lng": 106.065
+    },
+    {
+      "cityName": "Ap Giong Co",
+      "lat": 9.5244444,
+      "lng": 105.9666667
+    },
+    {
+      "cityName": "Ap Hac Hop",
+      "lat": 9.4555556,
+      "lng": 106.155
+    },
+    {
+      "cityName": "Ap Hoa Lac",
+      "lat": 9.8463889,
+      "lng": 105.9080556
+    },
+    {
+      "cityName": "Ap Hoa Loi",
+      "lat": 9.8622222,
+      "lng": 105.9022222
+    },
+    {
+      "cityName": "Ap Hoa Phu",
+      "lat": 9.8791667,
+      "lng": 105.9011111
+    },
+    {
+      "cityName": "Ap Huong Lac",
+      "lat": 9.6483333,
+      "lng": 105.7461111
+    },
+    {
+      "cityName": "Ap Huu Thanh",
+      "lat": 9.7052778,
+      "lng": 106.0577778
+    },
+    {
+      "cityName": "Ap Kha Chui",
+      "lat": 9.4955556,
+      "lng": 105.8452778
+    },
+    {
+      "cityName": "Ap Kinh Xang",
+      "lat": 9.4136111,
+      "lng": 105.6947222
+    },
+    {
+      "cityName": "Ap Len Buoi",
+      "lat": 9.3552778,
+      "lng": 106.0522222
+    },
+    {
+      "cityName": "Ap Long Qui",
+      "lat": 9.625,
+      "lng": 105.7055556
+    },
+    {
+      "cityName": "Ap My Hoa",
+      "lat": 9.6027778,
+      "lng": 105.8105556
+    },
+    {
+      "cityName": "Ap My Loi",
+      "lat": 9.6338889,
+      "lng": 105.7361111
+    },
+    {
+      "cityName": "Ap My Qui",
+      "lat": 9.7866667,
+      "lng": 105.7297222
+    },
+    {
+      "cityName": "Ap My Thanh",
+      "lat": 9.8069444,
+      "lng": 106.0133333
+    },
+    {
+      "cityName": "Ap My Thuan",
+      "lat": 9.6313889,
+      "lng": 105.8125
+    },
+    {
+      "cityName": "Ap Nga Bac",
+      "lat": 9.5033333,
+      "lng": 105.8180556
+    },
+    {
+      "cityName": "Ap Ngan Ro",
+      "lat": 9.545,
+      "lng": 106.1733333
+    },
+    {
+      "cityName": "Ap Ngon",
+      "lat": 9.4605556,
+      "lng": 105.8047222
+    },
+    {
+      "cityName": "Ap Nha Dong",
+      "lat": 9.9591667,
+      "lng": 105.9916667
+    },
+    {
+      "cityName": "Ap Nha Tho",
+      "lat": 9.5422222,
+      "lng": 105.7408333
+    },
+    {
+      "cityName": "Ap Nha Viec",
+      "lat": 9.4947222,
+      "lng": 106.1763889
+    },
+    {
+      "cityName": "Ap Nuoc Man",
+      "lat": 9.5772222,
+      "lng": 106.1388889
+    },
+    {
+      "cityName": "Ap Nuoc Man Ngoai",
+      "lat": 9.5941667,
+      "lng": 106.1391667
+    },
+    {
+      "cityName": "Ap Pho Duoi",
+      "lat": 9.4638889,
+      "lng": 106.1597222
+    },
+    {
+      "cityName": "Ap Phu Duc",
+      "lat": 9.5572222,
+      "lng": 106.0977778
+    },
+    {
+      "cityName": "Ap Phu Giao",
+      "lat": 9.4416667,
+      "lng": 105.7708333
+    },
+    {
+      "cityName": "Ap Phu Hoa",
+      "lat": 9.6930556,
+      "lng": 106.0755556
+    },
+    {
+      "cityName": "Ap Phu Le",
+      "lat": 9.9136111,
+      "lng": 105.865
+    },
+    {
+      "cityName": "Ap Phuoc Lai",
+      "lat": 9.6597222,
+      "lng": 105.9533333
+    },
+    {
+      "cityName": "Ap Phuoc Loi",
+      "lat": 9.5833333,
+      "lng": 105.7238889
+    },
+    {
+      "cityName": "Ap Phuoc Thuan",
+      "lat": 9.9086111,
+      "lng": 105.8019444
+    },
+    {
+      "cityName": "Ap Phuoc Truong",
+      "lat": 9.5813889,
+      "lng": 105.6944444
+    },
+    {
+      "cityName": "Ap Phu Thanh",
+      "lat": 9.89,
+      "lng": 105.8675
+    },
+    {
+      "cityName": "Ap Phu Tri",
+      "lat": 9.9358333,
+      "lng": 105.8536111
+    },
+    {
+      "cityName": "Ap Rat",
+      "lat": 9.3819444,
+      "lng": 106.0233333
+    },
+    {
+      "cityName": "Ap Sai Gon",
+      "lat": 9.4780556,
+      "lng": 106.1
+    },
+    {
+      "cityName": "Ap Sam Pha",
+      "lat": 9.395,
+      "lng": 106.1469444
+    },
+    {
+      "cityName": "Ap Ta Bam",
+      "lat": 9.5236111,
+      "lng": 105.9363889
+    },
+    {
+      "cityName": "Ap Ta Diep",
+      "lat": 9.4986111,
+      "lng": 105.7255556
+    },
+    {
+      "cityName": "Ap Tam Lon",
+      "lat": 9.4630556,
+      "lng": 105.9516667
+    },
+    {
+      "cityName": "Ap Tam Soc",
+      "lat": 9.5672222,
+      "lng": 105.8297222
+    },
+    {
+      "cityName": "Ap Ta Muc",
+      "lat": 9.4794444,
+      "lng": 105.7672222
+    },
+    {
+      "cityName": "Ap Ta Mum",
+      "lat": 9.5497222,
+      "lng": 106.1325
+    },
+    {
+      "cityName": "Ap Tam Vu",
+      "lat": 9.9922222,
+      "lng": 105.9936111
+    },
+    {
+      "cityName": "Ap Tan Phu",
+      "lat": 9.6616667,
+      "lng": 105.8075
+    },
+    {
+      "cityName": "Ap Tan Phuoc",
+      "lat": 9.4327778,
+      "lng": 105.8272222
+    },
+    {
+      "cityName": "Ap Ta Ten",
+      "lat": 9.4616667,
+      "lng": 105.7347222
+    },
+    {
+      "cityName": "Ap Thanh An",
+      "lat": 9.4533333,
+      "lng": 106.0297222
+    },
+    {
+      "cityName": "Ap Thanh My",
+      "lat": 9.6052778,
+      "lng": 106.0527778
+    },
+    {
+      "cityName": "Ap Thanh Ninh",
+      "lat": 9.4816667,
+      "lng": 105.9808333
+    },
+    {
+      "cityName": "Ap Thanh Qui",
+      "lat": 9.4691667,
+      "lng": 106.0352778
+    },
+    {
+      "cityName": "Ap Thoi Hiep",
+      "lat": 9.4911111,
+      "lng": 106.0344444
+    },
+    {
+      "cityName": "Ap Thong Luu",
+      "lat": 9.3513889,
+      "lng": 105.7280556
+    },
+    {
+      "cityName": "Ap Tich Khanh",
+      "lat": 9.9361111,
+      "lng": 105.9636111
+    },
+    {
+      "cityName": "Ap Tich Phuoc",
+      "lat": 9.9261111,
+      "lng": 105.9813889
+    },
+    {
+      "cityName": "Ap Tong Cang",
+      "lat": 9.4547222,
+      "lng": 106.0902778
+    },
+    {
+      "cityName": "Ap Tong Khau",
+      "lat": 9.4522222,
+      "lng": 106.0427778
+    },
+    {
+      "cityName": "Ap Tra Bang",
+      "lat": 9.3758333,
+      "lng": 105.7175
+    },
+    {
+      "cityName": "Ap Tra Chinh",
+      "lat": 9.4541667,
+      "lng": 105.8113889
+    },
+    {
+      "cityName": "Ap Tra Hat",
+      "lat": 9.365,
+      "lng": 105.6844444
+    },
+    {
+      "cityName": "Ap Tra Ong",
+      "lat": 9.4747222,
+      "lng": 106.0719444
+    },
+    {
+      "cityName": "Ap Trinh Loi",
+      "lat": 9.8241667,
+      "lng": 105.9041667
+    },
+    {
+      "cityName": "Ap Vinh Thanh",
+      "lat": 9.3713889,
+      "lng": 106.1111111
+    },
+    {
+      "cityName": "Ap Vom Xang",
+      "lat": 9.4394444,
+      "lng": 105.7302778
+    },
+    {
+      "cityName": "Ap Xa Don",
+      "lat": 9.3855556,
+      "lng": 105.9697222
+    },
+    {
+      "cityName": "Ap Xeo Mui",
+      "lat": 9.4191667,
+      "lng": 105.7972222
+    },
+    {
+      "cityName": "Ap Xom Giua",
+      "lat": 9.6358333,
+      "lng": 105.8663889
+    },
+    {
+      "cityName": "Au Tho",
+      "lat": 9.3452778,
+      "lng": 106.0986111
+    },
+    {
+      "cityName": "Ay Cot",
+      "lat": 9.5502778,
+      "lng": 106.0352778
+    },
+    {
+      "cityName": "Bac Chet",
+      "lat": 9.6886111,
+      "lng": 106.0372222
+    },
+    {
+      "cityName": "Bai Sau",
+      "lat": 9.5583333,
+      "lng": 105.9913889
+    },
+    {
+      "cityName": "Bà Keo",
+      "lat": 9.5955556,
+      "lng": 106.2275
+    },
+    {
+      "cityName": "Bang Lang",
+      "lat": 9.4272222,
+      "lng": 106.1769444
+    },
+    {
+      "cityName": "Bàng Long",
+      "lat": 9.6086111,
+      "lng": 106.1322222
+    },
+    {
+      "cityName": "Ba Yen",
+      "lat": 9.3494444,
+      "lng": 105.7861111
+    },
+    {
+      "cityName": "Bêk Binh Tôn",
+      "lat": 9.5472222,
+      "lng": 105.8630556
+    },
+    {
+      "cityName": "Ben Pha",
+      "lat": 9.4244444,
+      "lng": 105.9755556
+    },
+    {
+      "cityName": "Bia",
+      "lat": 9.6975,
+      "lng": 106.1297222
+    },
+    {
+      "cityName": "Bo Te",
+      "lat": 9.5891667,
+      "lng": 106.0808333
+    },
+    {
+      "cityName": "Bung Coc",
+      "lat": 9.5544444,
+      "lng": 106.1761111
+    },
+    {
+      "cityName": "Bung Pha Long",
+      "lat": 9.6330556,
+      "lng": 106.0880556
+    },
+    {
+      "cityName": "Cai Trau",
+      "lat": 9.5294444,
+      "lng": 105.6883333
+    },
+    {
+      "cityName": "Calang A",
+      "lat": 9.3283333,
+      "lng": 106.0277778
+    },
+    {
+      "cityName": "Cây Ngâu",
+      "lat": 9.3644444,
+      "lng": 105.8213889
+    },
+    {
+      "cityName": "Chec",
+      "lat": 9.495,
+      "lng": 106.1102778
+    },
+    {
+      "cityName": "Chong Prêk",
+      "lat": 9.5308333,
+      "lng": 106.0708333
+    },
+    {
+      "cityName": "Chung Ðôn",
+      "lat": 9.6258333,
+      "lng": 105.9941667
+    },
+    {
+      "cityName": "Con Son City",
+      "lat": 8.6833333,
+      "lng": 106.6166667
+    },
+    {
+      "cityName": "Dai An",
+      "lat": 9.6213889,
+      "lng": 106.1619444
+    },
+    {
+      "cityName": "Dai Ngai",
+      "lat": 9.7241667,
+      "lng": 106.0811111
+    },
+    {
+      "cityName": "Dai Tam",
+      "lat": 9.56,
+      "lng": 105.9344444
+    },
+    {
+      "cityName": "Ðay Rang",
+      "lat": 9.35,
+      "lng": 106.0494444
+    },
+    {
+      "cityName": "Dình",
+      "lat": 9.5913889,
+      "lng": 106.0433333
+    },
+    {
+      "cityName": "Don Tra Nho",
+      "lat": 9.3730556,
+      "lng": 105.9380556
+    },
+    {
+      "cityName": "Giong Dai Bai",
+      "lat": 9.3405556,
+      "lng": 106.1113889
+    },
+    {
+      "cityName": "Giong Ong Tho",
+      "lat": 9.3511111,
+      "lng": 106.125
+    },
+    {
+      "cityName": "Giong Ong Tuong",
+      "lat": 9.3763889,
+      "lng": 106.1363889
+    },
+    {
+      "cityName": "Giong Vam Sat",
+      "lat": 9.3563889,
+      "lng": 106.0661111
+    },
+    {
+      "cityName": "Ha Bo",
+      "lat": 9.5411111,
+      "lng": 106.0233333
+    },
+    {
+      "cityName": "Huong Tinh",
+      "lat": 9.5766667,
+      "lng": 106.0472222
+    },
+    {
+      "cityName": "Khanh Hong",
+      "lat": 9.6033333,
+      "lng": 105.98
+    },
+    {
+      "cityName": "Lac Hoa",
+      "lat": 9.3597222,
+      "lng": 106.1027778
+    },
+    {
+      "cityName": "Lai Hoa",
+      "lat": 9.3766667,
+      "lng": 106.1252778
+    },
+    {
+      "cityName": "Lich Hoi Thuong",
+      "lat": 9.4775,
+      "lng": 106.1702778
+    },
+    {
+      "cityName": "Long Hung",
+      "lat": 9.6369444,
+      "lng": 105.7641667
+    },
+    {
+      "cityName": "Long Moi",
+      "lat": 9.655,
+      "lng": 106.0369444
+    },
+    {
+      "cityName": "Luoi",
+      "lat": 9.5397222,
+      "lng": 106.1661111
+    },
+    {
+      "cityName": "My Huong",
+      "lat": 9.6236111,
+      "lng": 105.8230556
+    },
+    {
+      "cityName": "My Phuoc",
+      "lat": 9.575,
+      "lng": 105.7802778
+    },
+    {
+      "cityName": "My Thanh",
+      "lat": 9.4097222,
+      "lng": 106.1677778
+    },
+    {
+      "cityName": "My Thuan",
+      "lat": 9.5888889,
+      "lng": 105.8002778
+    },
+    {
+      "cityName": "My Xuyen",
+      "lat": 9.5505556,
+      "lng": 105.9883333
+    },
+    {
+      "cityName": "Ngoài Vàm",
+      "lat": 9.5513889,
+      "lng": 106.1875
+    },
+    {
+      "cityName": "Nham Lang",
+      "lat": 9.6136111,
+      "lng": 105.9883333
+    },
+    {
+      "cityName": "Nha Tho",
+      "lat": 9.5622222,
+      "lng": 106.2113889
+    },
+    {
+      "cityName": "Phu An",
+      "lat": 9.7291667,
+      "lng": 106.0163889
+    },
+    {
+      "cityName": "Rach Doi",
+      "lat": 9.7266667,
+      "lng": 106.1033333
+    },
+    {
+      "cityName": "Rach Lon",
+      "lat": 9.6227778,
+      "lng": 106.1980556
+    },
+    {
+      "cityName": "Song Chát",
+      "lat": 9.6397222,
+      "lng": 106.0227778
+    },
+    {
+      "cityName": "Sung Ðinh Ngoài",
+      "lat": 9.5852778,
+      "lng": 106.0247222
+    },
+    {
+      "cityName": "Tam Sóc",
+      "lat": 9.5575,
+      "lng": 105.8272222
+    },
+    {
+      "cityName": "Tan Hung",
+      "lat": 9.6213889,
+      "lng": 106.0763889
+    },
+    {
+      "cityName": "Thanh Kiet",
+      "lat": 9.5080556,
+      "lng": 105.7844444
+    },
+    {
+      "cityName": "Thanh Phu",
+      "lat": 9.5041667,
+      "lng": 105.8580556
+    },
+    {
+      "cityName": "Thanh Quoi",
+      "lat": 9.6386111,
+      "lng": 106.0677778
+    },
+    {
+      "cityName": "Thanh Thoi An",
+      "lat": 9.4547222,
+      "lng": 105.9747222
+    },
+    {
+      "cityName": "Thuan Hoa",
+      "lat": 9.6366667,
+      "lng": 105.8183333
+    },
+    {
+      "cityName": "Thuan Hung",
+      "lat": 9.5644444,
+      "lng": 105.8538889
+    },
+    {
+      "cityName": "Trà Ôn",
+      "lat": 9.9608333,
+      "lng": 105.9275
+    },
+    {
+      "cityName": "Tra Teo",
+      "lat": 9.4236111,
+      "lng": 106.1105556
+    },
+    {
+      "cityName": "Tre",
+      "lat": 9.715,
+      "lng": 106.1255556
+    },
+    {
+      "cityName": "Trùng Bình",
+      "lat": 9.4480556,
+      "lng": 106.1611111
+    },
+    {
+      "cityName": "Truong An",
+      "lat": 9.6547222,
+      "lng": 106.0238889
+    },
+    {
+      "cityName": "Tuan Tuc",
+      "lat": 9.5369444,
+      "lng": 105.8061111
+    },
+    {
+      "cityName": "Tu Diem",
+      "lat": 9.5463889,
+      "lng": 106.1530556
+    },
+    {
+      "cityName": "Vam Leo",
+      "lat": 9.3597222,
+      "lng": 105.8586111
+    },
+    {
+      "cityName": "Xã Thông",
+      "lat": 9.6636111,
+      "lng": 106.0694444
+    },
+    {
+      "cityName": "Xóm Bu Chum",
+      "lat": 9.5113889,
+      "lng": 105.9363889
+    },
+    {
+      "cityName": "Xom Bung Trop",
+      "lat": 9.625,
+      "lng": 105.9013889
+    },
+    {
+      "cityName": "Xom Dong Be",
+      "lat": 9.3369444,
+      "lng": 105.7788889
+    },
+    {
+      "cityName": "Xom Lon",
+      "lat": 9.6136111,
+      "lng": 105.8625
+    },
+    {
+      "cityName": "Xóm Nam Cang",
+      "lat": 9.3469444,
+      "lng": 105.8255556
+    },
+    {
+      "cityName": "Xóm Ngã Ba An Ninh",
+      "lat": 9.6488889,
+      "lng": 105.9469444
+    },
+    {
+      "cityName": "Xom Rach Rung",
+      "lat": 9.4591667,
+      "lng": 105.8852778
+    },
+    {
+      "cityName": "Xom Ray",
+      "lat": 9.4163889,
+      "lng": 105.9833333
+    },
+    {
+      "cityName": "Xom Tray Mam",
+      "lat": 9.4930556,
+      "lng": 105.9788889
+    }
+  ]
+}

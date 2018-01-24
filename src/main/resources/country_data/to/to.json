@@ -1,0 +1,35 @@
+{
+  "name": "Tonga",
+  "iso2": "to",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Ha",
+      "id": 0
+    },
+    {
+      "name": "Tongatapu",
+      "id": 1
+    },
+    {
+      "name": "Vava",
+      "id": 2
+    }
+  ],
+  "geoRectangle": {
+    "West": -175.682281494,
+    "East": -173.907562256,
+    "North": -15.5629863739,
+    "South": -21.4550590515
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 13,
+    "Flg": 2,
+    "Name": "Nuku'alofa",
+    "GeoPt": [
+      -21.08,
+      -175.12
+    ]
+  }
+}

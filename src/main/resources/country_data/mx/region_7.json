@@ -1,0 +1,2935 @@
+{
+  "name": "Colima",
+  "cities": [
+    {
+      "cityName": "Acatitán",
+      "lat": 19.133333,
+      "lng": -103.7
+    },
+    {
+      "cityName": "Adolfo Ruíz Cortinez",
+      "lat": 18.938889,
+      "lng": -103.940278
+    },
+    {
+      "cityName": "Agosto",
+      "lat": 19.394444,
+      "lng": -103.730556
+    },
+    {
+      "cityName": "Agua Blanca",
+      "lat": 19.05,
+      "lng": -104.05
+    },
+    {
+      "cityName": "Agua Caliente",
+      "lat": 19.201389,
+      "lng": -103.626389
+    },
+    {
+      "cityName": "Agua Cercada",
+      "lat": 19.122222,
+      "lng": -103.683333
+    },
+    {
+      "cityName": "Agua de la Virgen",
+      "lat": 18.936111,
+      "lng": -103.626389
+    },
+    {
+      "cityName": "Agua del Venado",
+      "lat": 19.218056,
+      "lng": -104.208333
+    },
+    {
+      "cityName": "Agua de Rana",
+      "lat": 19.283333,
+      "lng": -103.547222
+    },
+    {
+      "cityName": "Agua Fría",
+      "lat": 19.3,
+      "lng": -104.05
+    },
+    {
+      "cityName": "Agua Salada",
+      "lat": 19.1,
+      "lng": -103.8
+    },
+    {
+      "cityName": "Agua Zarca",
+      "lat": 19.216667,
+      "lng": -103.916667
+    },
+    {
+      "cityName": "Albarrada",
+      "lat": 19.233333,
+      "lng": -103.744444
+    },
+    {
+      "cityName": "Alcaraces",
+      "lat": 19.35,
+      "lng": -103.583333
+    },
+    {
+      "cityName": "Alcomún",
+      "lat": 19.1,
+      "lng": -103.816667
+    },
+    {
+      "cityName": "Almácigos",
+      "lat": 19.133333,
+      "lng": -104.1
+    },
+    {
+      "cityName": "Alpuyeque",
+      "lat": 18.940278,
+      "lng": -103.691667
+    },
+    {
+      "cityName": "Alpuyequito",
+      "lat": 19.181944,
+      "lng": -103.722222
+    },
+    {
+      "cityName": "Altamira",
+      "lat": 19.141667,
+      "lng": -104.341667
+    },
+    {
+      "cityName": "Alzada",
+      "lat": 19.25,
+      "lng": -103.516667
+    },
+    {
+      "cityName": "Amela",
+      "lat": 18.802778,
+      "lng": -103.783333
+    },
+    {
+      "cityName": "Amelia",
+      "lat": 18.772222,
+      "lng": -103.7375
+    },
+    {
+      "cityName": "Amoles",
+      "lat": 19.1,
+      "lng": -103.766667
+    },
+    {
+      "cityName": "Ángeles de los Infiernos",
+      "lat": 18.941667,
+      "lng": -103.769444
+    },
+    {
+      "cityName": "Aquiles Serdán",
+      "lat": 19.006944,
+      "lng": -103.758333
+    },
+    {
+      "cityName": "Armería",
+      "lat": 18.915278,
+      "lng": -103.969444
+    },
+    {
+      "cityName": "Armonia",
+      "lat": 19.25,
+      "lng": -103.733333
+    },
+    {
+      "cityName": "Arroyo Seco",
+      "lat": 19.075,
+      "lng": -104.1625
+    },
+    {
+      "cityName": "Arroyo Verde",
+      "lat": 19.145833,
+      "lng": -103.694444
+    },
+    {
+      "cityName": "Astillero de Abajo",
+      "lat": 19.181944,
+      "lng": -103.579167
+    },
+    {
+      "cityName": "Audiencia",
+      "lat": 19.108333,
+      "lng": -104.35
+    },
+    {
+      "cityName": "Augusto Gómez Villanueva",
+      "lat": 19.019444,
+      "lng": -104.008333
+    },
+    {
+      "cityName": "Bajío de la Leona",
+      "lat": 19.216667,
+      "lng": -103.566667
+    },
+    {
+      "cityName": "Balcón",
+      "lat": 19.25,
+      "lng": -103.766667
+    },
+    {
+      "cityName": "Banco de Jicotán",
+      "lat": 19.083333,
+      "lng": -103.925
+    },
+    {
+      "cityName": "Barranca Seca",
+      "lat": 19.0625,
+      "lng": -103.525
+    },
+    {
+      "cityName": "Bella Unión",
+      "lat": 18.799444,
+      "lng": -103.833333
+    },
+    {
+      "cityName": "Boca de Apiza",
+      "lat": 18.690278,
+      "lng": -103.740278
+    },
+    {
+      "cityName": "Boca de Pascuales",
+      "lat": 18.8625,
+      "lng": -103.965278
+    },
+    {
+      "cityName": "Buenavista",
+      "lat": 19.25,
+      "lng": -103.616667
+    },
+    {
+      "cityName": "Buenos Aires",
+      "lat": 19.225,
+      "lng": -103.790278
+    },
+    {
+      "cityName": "Cabeza de Toro",
+      "lat": 18.811111,
+      "lng": -103.718056
+    },
+    {
+      "cityName": "Cajitlán",
+      "lat": 18.966667,
+      "lng": -103.883333
+    },
+    {
+      "cityName": "Calabozo",
+      "lat": 19.416667,
+      "lng": -103.683333
+    },
+    {
+      "cityName": "Caleras",
+      "lat": 19,
+      "lng": -103.883333
+    },
+    {
+      "cityName": "Caliguana",
+      "lat": 19,
+      "lng": -104.25
+    },
+    {
+      "cityName": "Callejones",
+      "lat": 18.833333,
+      "lng": -103.7
+    },
+    {
+      "cityName": "Camichín",
+      "lat": 19.266667,
+      "lng": -104.166667
+    },
+    {
+      "cityName": "Camichines",
+      "lat": 19.241667,
+      "lng": -103.640278
+    },
+    {
+      "cityName": "Camotlán",
+      "lat": 19.216667,
+      "lng": -104.233333
+    },
+    {
+      "cityName": "Campo Cinco",
+      "lat": 19.329167,
+      "lng": -103.841667
+    },
+    {
+      "cityName": "Campo Dos",
+      "lat": 19.416667,
+      "lng": -103.866667
+    },
+    {
+      "cityName": "Campos",
+      "lat": 19.016667,
+      "lng": -104.316667
+    },
+    {
+      "cityName": "Campo Tres",
+      "lat": 19.386111,
+      "lng": -103.858333
+    },
+    {
+      "cityName": "Campo Uno",
+      "lat": 19.433333,
+      "lng": -103.9
+    },
+    {
+      "cityName": "Canoas",
+      "lat": 19.25,
+      "lng": -104.15
+    },
+    {
+      "cityName": "Canoa Verde",
+      "lat": 18.95,
+      "lng": -104.116667
+    },
+    {
+      "cityName": "Canoítas",
+      "lat": 19.030556,
+      "lng": -103.683333
+    },
+    {
+      "cityName": "Cantera",
+      "lat": 19.141667,
+      "lng": -104.422222
+    },
+    {
+      "cityName": "Capacha",
+      "lat": 19.3,
+      "lng": -103.666667
+    },
+    {
+      "cityName": "Cardona",
+      "lat": 19.2,
+      "lng": -103.633333
+    },
+    {
+      "cityName": "Casa Blanca",
+      "lat": 18.965278,
+      "lng": -103.875
+    },
+    {
+      "cityName": "Caután",
+      "lat": 19.066667,
+      "lng": -103.683333
+    },
+    {
+      "cityName": "Cayetano",
+      "lat": 19.266667,
+      "lng": -103.683333
+    },
+    {
+      "cityName": "Cedros",
+      "lat": 19.283333,
+      "lng": -104.233333
+    },
+    {
+      "cityName": "Cerro Colorado",
+      "lat": 19.3375,
+      "lng": -103.554167
+    },
+    {
+      "cityName": "Cerro de Aguilar",
+      "lat": 18.825,
+      "lng": -103.844444
+    },
+    {
+      "cityName": "Cerro de Ortega",
+      "lat": 18.75,
+      "lng": -103.766667
+    },
+    {
+      "cityName": "Cerro Prieto",
+      "lat": 19.416667,
+      "lng": -104.1
+    },
+    {
+      "cityName": "Cerro San Miguel",
+      "lat": 18.995833,
+      "lng": -103.8
+    },
+    {
+      "cityName": "Chacalcahuitl",
+      "lat": 19.138889,
+      "lng": -103.647222
+    },
+    {
+      "cityName": "Chamila",
+      "lat": 18.966667,
+      "lng": -103.666667
+    },
+    {
+      "cityName": "Chanchopa",
+      "lat": 18.866667,
+      "lng": -103.736111
+    },
+    {
+      "cityName": "Chandiablo",
+      "lat": 19.2,
+      "lng": -104.333333
+    },
+    {
+      "cityName": "Chanilama",
+      "lat": 18.791667,
+      "lng": -103.851389
+    },
+    {
+      "cityName": "Chanquehahuil",
+      "lat": 19.45,
+      "lng": -104.1
+    },
+    {
+      "cityName": "Chavarín",
+      "lat": 19.2,
+      "lng": -104.55
+    },
+    {
+      "cityName": "Chiapa",
+      "lat": 19.316667,
+      "lng": -103.633333
+    },
+    {
+      "cityName": "Chiquihuistlan",
+      "lat": 18.75,
+      "lng": -103.716667
+    },
+    {
+      "cityName": "Chivato",
+      "lat": 19.316667,
+      "lng": -103.683333
+    },
+    {
+      "cityName": "Chupadero",
+      "lat": 18.766667,
+      "lng": -103.816667
+    },
+    {
+      "cityName": "Cinacamitlán",
+      "lat": 19.016667,
+      "lng": -103.733333
+    },
+    {
+      "cityName": "Ciruelito de la Marina",
+      "lat": 19.25,
+      "lng": -104.216667
+    },
+    {
+      "cityName": "Coalatilla",
+      "lat": 19.016667,
+      "lng": -104
+    },
+    {
+      "cityName": "Coatán",
+      "lat": 18.983333,
+      "lng": -103.95
+    },
+    {
+      "cityName": "Codornis",
+      "lat": 19.333333,
+      "lng": -103.7
+    },
+    {
+      "cityName": "Cofradía",
+      "lat": 19.433333,
+      "lng": -103.55
+    },
+    {
+      "cityName": "Cofradía de Hidalgo",
+      "lat": 18.9,
+      "lng": -103.791667
+    },
+    {
+      "cityName": "Cofradía de Juárez",
+      "lat": 18.929167,
+      "lng": -103.9
+    },
+    {
+      "cityName": "Cofradía de Juluapan",
+      "lat": 19.316667,
+      "lng": -103.933333
+    },
+    {
+      "cityName": "Cofradía de Morelos",
+      "lat": 18.869444,
+      "lng": -103.8375
+    },
+    {
+      "cityName": "Cofradía de Suchitán",
+      "lat": 19.4,
+      "lng": -103.7
+    },
+    {
+      "cityName": "Colima",
+      "lat": 19.233333,
+      "lng": -103.716667
+    },
+    {
+      "cityName": "Colombo",
+      "lat": 19.0625,
+      "lng": -104.258333
+    },
+    {
+      "cityName": "Colomitos de Chapula",
+      "lat": 19.141667,
+      "lng": -103.532778
+    },
+    {
+      "cityName": "Colomos",
+      "lat": 19.4,
+      "lng": -103.8
+    },
+    {
+      "cityName": "Comala",
+      "lat": 19.316667,
+      "lng": -103.75
+    },
+    {
+      "cityName": "Compuertas",
+      "lat": 19.183333,
+      "lng": -104.383333
+    },
+    {
+      "cityName": "Convento",
+      "lat": 19.331944,
+      "lng": -104.068056
+    },
+    {
+      "cityName": "Copales",
+      "lat": 19.05,
+      "lng": -103.533333
+    },
+    {
+      "cityName": "Coquimatlán",
+      "lat": 19.2,
+      "lng": -103.8
+    },
+    {
+      "cityName": "Corralejo",
+      "lat": 18.836111,
+      "lng": -103.873611
+    },
+    {
+      "cityName": "Corrales",
+      "lat": 19.341667,
+      "lng": -103.718056
+    },
+    {
+      "cityName": "Corralillos",
+      "lat": 23.183333,
+      "lng": -102.983333
+    },
+    {
+      "cityName": "Corralitos",
+      "lat": 19.166667,
+      "lng": -103.533333
+    },
+    {
+      "cityName": "Corral Redondo",
+      "lat": 19.195833,
+      "lng": -103.795833
+    },
+    {
+      "cityName": "Coyonque",
+      "lat": 19.380556,
+      "lng": -103.666667
+    },
+    {
+      "cityName": "Crucero el Naranjo",
+      "lat": 19.15,
+      "lng": -103.483333
+    },
+    {
+      "cityName": "Cruz de Piedra",
+      "lat": 19.205556,
+      "lng": -103.916667
+    },
+    {
+      "cityName": "Cuastecomatán",
+      "lat": 19.116667,
+      "lng": -103.9
+    },
+    {
+      "cityName": "Cuauhtémoc",
+      "lat": 19.333333,
+      "lng": -103.6
+    },
+    {
+      "cityName": "Cuyutlancillo",
+      "lat": 18.925,
+      "lng": -104.030556
+    },
+    {
+      "cityName": "Cuyutlán",
+      "lat": 18.916667,
+      "lng": -104.066667
+    },
+    {
+      "cityName": "De Abajo",
+      "lat": 19.166667,
+      "lng": -104.583333
+    },
+    {
+      "cityName": "Doble R",
+      "lat": 18.888889,
+      "lng": -103.85
+    },
+    {
+      "cityName": "Don Ángel",
+      "lat": 19.145833,
+      "lng": -104.381944
+    },
+    {
+      "cityName": "Don Tomás",
+      "lat": 19.183333,
+      "lng": -104.35
+    },
+    {
+      "cityName": "El Agostadero",
+      "lat": 19.126389,
+      "lng": -103.654167
+    },
+    {
+      "cityName": "El Aguacate",
+      "lat": 19.075,
+      "lng": -103.645833
+    },
+    {
+      "cityName": "El Aguacatillo",
+      "lat": 19.1,
+      "lng": -104.190278
+    },
+    {
+      "cityName": "El Agua de los Puercos",
+      "lat": 19.132778,
+      "lng": -103.6375
+    },
+    {
+      "cityName": "El Águila",
+      "lat": 19.108333,
+      "lng": -104.205556
+    },
+    {
+      "cityName": "El Aguinaldo",
+      "lat": 19.302778,
+      "lng": -103.6625
+    },
+    {
+      "cityName": "El Ahijadero",
+      "lat": 18.763889,
+      "lng": -103.820833
+    },
+    {
+      "cityName": "El Algodonal",
+      "lat": 19.133333,
+      "lng": -103.8875
+    },
+    {
+      "cityName": "El Almeal",
+      "lat": 18.883333,
+      "lng": -103.945833
+    },
+    {
+      "cityName": "El Alpuyeque",
+      "lat": 19.2,
+      "lng": -103.719444
+    },
+    {
+      "cityName": "El Amarradero",
+      "lat": 19.054167,
+      "lng": -103.640278
+    },
+    {
+      "cityName": "El Antojo",
+      "lat": 18.829167,
+      "lng": -103.851389
+    },
+    {
+      "cityName": "El Arrayanal",
+      "lat": 19.266667,
+      "lng": -104.1
+    },
+    {
+      "cityName": "El Aserradero",
+      "lat": 18.929167,
+      "lng": -103.608333
+    },
+    {
+      "cityName": "El Astillero de Arriba",
+      "lat": 19.1875,
+      "lng": -103.555556
+    },
+    {
+      "cityName": "El Bajío",
+      "lat": 18.966667,
+      "lng": -103.866667
+    },
+    {
+      "cityName": "El Banco",
+      "lat": 19.095833,
+      "lng": -103.902778
+    },
+    {
+      "cityName": "El Barrio",
+      "lat": 19.158333,
+      "lng": -103.783333
+    },
+    {
+      "cityName": "El Bordo",
+      "lat": 19.208333,
+      "lng": -103.532778
+    },
+    {
+      "cityName": "El Bosque",
+      "lat": 19.120833,
+      "lng": -104.2
+    },
+    {
+      "cityName": "El Cacao",
+      "lat": 19.266667,
+      "lng": -104.15
+    },
+    {
+      "cityName": "El Café",
+      "lat": 19,
+      "lng": -103.983333
+    },
+    {
+      "cityName": "El Calavero",
+      "lat": 19.165278,
+      "lng": -103.534722
+    },
+    {
+      "cityName": "El Camichín",
+      "lat": 18.958333,
+      "lng": -103.595833
+    },
+    {
+      "cityName": "El Caminero",
+      "lat": 18.963889,
+      "lng": -104.05
+    },
+    {
+      "cityName": "El Campo",
+      "lat": 19.191667,
+      "lng": -104.254167
+    },
+    {
+      "cityName": "El Capire",
+      "lat": 18.906944,
+      "lng": -103.6625
+    },
+    {
+      "cityName": "El Carmen",
+      "lat": 18.783333,
+      "lng": -103.825
+    },
+    {
+      "cityName": "El Carrizalillo",
+      "lat": 18.75,
+      "lng": -103.783333
+    },
+    {
+      "cityName": "El Carrizalito",
+      "lat": 19.351389,
+      "lng": -103.686111
+    },
+    {
+      "cityName": "El Casahuate",
+      "lat": 18.968056,
+      "lng": -103.891667
+    },
+    {
+      "cityName": "El Cascalote",
+      "lat": 19.208333,
+      "lng": -103.769444
+    },
+    {
+      "cityName": "El Centinela Uno",
+      "lat": 19.173611,
+      "lng": -104.586111
+    },
+    {
+      "cityName": "El Cerano",
+      "lat": 19.116667,
+      "lng": -103.879167
+    },
+    {
+      "cityName": "El Cerrito",
+      "lat": 19.25,
+      "lng": -104.45
+    },
+    {
+      "cityName": "El Chacahuistle",
+      "lat": 18.983333,
+      "lng": -104.2
+    },
+    {
+      "cityName": "El Chalán",
+      "lat": 19.126389,
+      "lng": -103.545833
+    },
+    {
+      "cityName": "El Chanal",
+      "lat": 19.283333,
+      "lng": -103.709722
+    },
+    {
+      "cityName": "El Charco",
+      "lat": 19.233333,
+      "lng": -104.483333
+    },
+    {
+      "cityName": "El Chical",
+      "lat": 18.990278,
+      "lng": -103.955556
+    },
+    {
+      "cityName": "El Chino",
+      "lat": 19.116667,
+      "lng": -103.943056
+    },
+    {
+      "cityName": "El Chococo",
+      "lat": 18.75,
+      "lng": -103.754167
+    },
+    {
+      "cityName": "El Ciruelo",
+      "lat": 18.966667,
+      "lng": -104.166667
+    },
+    {
+      "cityName": "El Cobano",
+      "lat": 19.3,
+      "lng": -103.633333
+    },
+    {
+      "cityName": "El Colomo",
+      "lat": 19.05,
+      "lng": -104.25
+    },
+    {
+      "cityName": "El Corte",
+      "lat": 19.245833,
+      "lng": -104.366667
+    },
+    {
+      "cityName": "El Cortijo",
+      "lat": 18.780556,
+      "lng": -103.801389
+    },
+    {
+      "cityName": "El Curindal",
+      "lat": 19.072222,
+      "lng": -103.625
+    },
+    {
+      "cityName": "El Delirio",
+      "lat": 18.895833,
+      "lng": -103.858333
+    },
+    {
+      "cityName": "El Destierro",
+      "lat": 18.798611,
+      "lng": -103.831944
+    },
+    {
+      "cityName": "El Diecinueve",
+      "lat": 18.8125,
+      "lng": -103.791667
+    },
+    {
+      "cityName": "El Diezmo",
+      "lat": 19.25,
+      "lng": -103.683333
+    },
+    {
+      "cityName": "El Dorado",
+      "lat": 18.816667,
+      "lng": -103.802778
+    },
+    {
+      "cityName": "El Encino",
+      "lat": 19.141667,
+      "lng": -104.119444
+    },
+    {
+      "cityName": "El Fresno",
+      "lat": 19.3,
+      "lng": -104.066667
+    },
+    {
+      "cityName": "El Galaje",
+      "lat": 18.858333,
+      "lng": -103.636111
+    },
+    {
+      "cityName": "El Gallo",
+      "lat": 19.158333,
+      "lng": -104.313889
+    },
+    {
+      "cityName": "El Guamúchil",
+      "lat": 18.8,
+      "lng": -103.636111
+    },
+    {
+      "cityName": "El Guayabo",
+      "lat": 19.054167,
+      "lng": -103.649444
+    },
+    {
+      "cityName": "El Higueral",
+      "lat": 18.898611,
+      "lng": -103.925
+    },
+    {
+      "cityName": "El Huilanche",
+      "lat": 18.908333,
+      "lng": -103.6
+    },
+    {
+      "cityName": "El Huizalacate",
+      "lat": 19.1625,
+      "lng": -103.786111
+    },
+    {
+      "cityName": "El Huizcolote",
+      "lat": 19.266667,
+      "lng": -104.283333
+    },
+    {
+      "cityName": "El Jacalón",
+      "lat": 18.848611,
+      "lng": -103.8875
+    },
+    {
+      "cityName": "El Jaral",
+      "lat": 18.830556,
+      "lng": -103.813889
+    },
+    {
+      "cityName": "El Jarano",
+      "lat": 18.875,
+      "lng": -103.875
+    },
+    {
+      "cityName": "El Jardín",
+      "lat": 19.1625,
+      "lng": -103.577778
+    },
+    {
+      "cityName": "El Jarocho",
+      "lat": 18.836111,
+      "lng": -103.895833
+    },
+    {
+      "cityName": "El Jazmín",
+      "lat": 18.866111,
+      "lng": -103.888889
+    },
+    {
+      "cityName": "El Limoncito",
+      "lat": 19.191667,
+      "lng": -104.430556
+    },
+    {
+      "cityName": "El Limón",
+      "lat": 19.025,
+      "lng": -103.626389
+    },
+    {
+      "cityName": "El Llano",
+      "lat": 18.933333,
+      "lng": -103.919444
+    },
+    {
+      "cityName": "El Mamey",
+      "lat": 19.366667,
+      "lng": -104.066667
+    },
+    {
+      "cityName": "El Manchón",
+      "lat": 19.033333,
+      "lng": -103.638889
+    },
+    {
+      "cityName": "El Mangal",
+      "lat": 18.9825,
+      "lng": -103.931944
+    },
+    {
+      "cityName": "El Mezquite",
+      "lat": 19.193056,
+      "lng": -103.747222
+    },
+    {
+      "cityName": "El Molcajete",
+      "lat": 18.891667,
+      "lng": -103.9
+    },
+    {
+      "cityName": "El Morralito",
+      "lat": 19.145833,
+      "lng": -104.343056
+    },
+    {
+      "cityName": "El Naranjal",
+      "lat": 18.719444,
+      "lng": -103.716667
+    },
+    {
+      "cityName": "El Naranjito",
+      "lat": 19.015278,
+      "lng": -103.688889
+    },
+    {
+      "cityName": "El Naranjo",
+      "lat": 19.116667,
+      "lng": -104.4
+    },
+    {
+      "cityName": "El Nidito",
+      "lat": 18.933333,
+      "lng": -104.030556
+    },
+    {
+      "cityName": "El Nogal",
+      "lat": 19.316667,
+      "lng": -104.066667
+    },
+    {
+      "cityName": "El Nuevo",
+      "lat": 18.766667,
+      "lng": -103.8
+    },
+    {
+      "cityName": "El Palmar",
+      "lat": 18.884722,
+      "lng": -103.931944
+    },
+    {
+      "cityName": "El Palo Verde",
+      "lat": 18.9,
+      "lng": -104.05
+    },
+    {
+      "cityName": "El Pamalazo",
+      "lat": 19.347222,
+      "lng": -103.583333
+    },
+    {
+      "cityName": "El Para",
+      "lat": 19.113889,
+      "lng": -104.145833
+    },
+    {
+      "cityName": "El Paraíso",
+      "lat": 18.875,
+      "lng": -103.990278
+    },
+    {
+      "cityName": "El Parejo de la Central",
+      "lat": 19.172222,
+      "lng": -104.433333
+    },
+    {
+      "cityName": "El Parián",
+      "lat": 19.3,
+      "lng": -103.6
+    },
+    {
+      "cityName": "El Parotal",
+      "lat": 19.206944,
+      "lng": -104.419444
+    },
+    {
+      "cityName": "El Pedregal",
+      "lat": 19.266667,
+      "lng": -103.816667
+    },
+    {
+      "cityName": "El Petatero",
+      "lat": 19.15,
+      "lng": -104.35
+    },
+    {
+      "cityName": "El Piloncillo",
+      "lat": 19.229167,
+      "lng": -104.373611
+    },
+    {
+      "cityName": "El Plan del Zapote",
+      "lat": 18.886111,
+      "lng": -103.693056
+    },
+    {
+      "cityName": "El Plan",
+      "lat": 19.130556,
+      "lng": -103.626389
+    },
+    {
+      "cityName": "El Platanal",
+      "lat": 18.813889,
+      "lng": -103.858333
+    },
+    {
+      "cityName": "El Platanar",
+      "lat": 18.891667,
+      "lng": -103.934722
+    },
+    {
+      "cityName": "El Platanarillo",
+      "lat": 19.416667,
+      "lng": -103.95
+    },
+    {
+      "cityName": "El Plátano",
+      "lat": 19.1625,
+      "lng": -104.302778
+    },
+    {
+      "cityName": "El Poblado",
+      "lat": 19.230556,
+      "lng": -103.833333
+    },
+    {
+      "cityName": "El Pochote",
+      "lat": 19.183333,
+      "lng": -104.365278
+    },
+    {
+      "cityName": "El Pochoto",
+      "lat": 19.3,
+      "lng": -103.866667
+    },
+    {
+      "cityName": "El Pochotón",
+      "lat": 19.233333,
+      "lng": -103.9
+    },
+    {
+      "cityName": "El Puertecito",
+      "lat": 19.033333,
+      "lng": -103.916667
+    },
+    {
+      "cityName": "El Pujadero",
+      "lat": 18.840278,
+      "lng": -103.625
+    },
+    {
+      "cityName": "El Quemado",
+      "lat": 19.047222,
+      "lng": -104.158333
+    },
+    {
+      "cityName": "El Ranchito",
+      "lat": 19.047222,
+      "lng": -103.875
+    },
+    {
+      "cityName": "El Real",
+      "lat": 18.833333,
+      "lng": -103.916667
+    },
+    {
+      "cityName": "El Recuerdo",
+      "lat": 18.85,
+      "lng": -103.891667
+    },
+    {
+      "cityName": "El Refugio",
+      "lat": 18.779167,
+      "lng": -103.7125
+    },
+    {
+      "cityName": "El Regimiento",
+      "lat": 18.913889,
+      "lng": -103.841667
+    },
+    {
+      "cityName": "El Remate",
+      "lat": 19.416667,
+      "lng": -103.8
+    },
+    {
+      "cityName": "El Remudadero",
+      "lat": 19.4,
+      "lng": -103.733333
+    },
+    {
+      "cityName": "El Reparo",
+      "lat": 19.306944,
+      "lng": -104.163889
+    },
+    {
+      "cityName": "El Rincón",
+      "lat": 19.166667,
+      "lng": -103.8
+    },
+    {
+      "cityName": "El Rosario",
+      "lat": 19.083333,
+      "lng": -103.866667
+    },
+    {
+      "cityName": "El Salado",
+      "lat": 19.191667,
+      "lng": -103.691667
+    },
+    {
+      "cityName": "El Santo Niño",
+      "lat": 19.197222,
+      "lng": -103.516111
+    },
+    {
+      "cityName": "El Sarano",
+      "lat": 19.166667,
+      "lng": -103.85
+    },
+    {
+      "cityName": "El Saucito",
+      "lat": 18.866667,
+      "lng": -103.8
+    },
+    {
+      "cityName": "El Sauz",
+      "lat": 19.443056,
+      "lng": -103.988889
+    },
+    {
+      "cityName": "El Tamarindo",
+      "lat": 18.736111,
+      "lng": -103.719444
+    },
+    {
+      "cityName": "El Tambo",
+      "lat": 19.065278,
+      "lng": -104.145833
+    },
+    {
+      "cityName": "El Tecuanillo",
+      "lat": 18.8125,
+      "lng": -103.891667
+    },
+    {
+      "cityName": "El Tepeguaje Gordo",
+      "lat": 19.072222,
+      "lng": -103.680556
+    },
+    {
+      "cityName": "El Terrero",
+      "lat": 19.443056,
+      "lng": -103.95
+    },
+    {
+      "cityName": "El Toro",
+      "lat": 19.1625,
+      "lng": -104.416667
+    },
+    {
+      "cityName": "El Torreón",
+      "lat": 19.238889,
+      "lng": -103.765278
+    },
+    {
+      "cityName": "El Trapiche",
+      "lat": 19.283333,
+      "lng": -103.65
+    },
+    {
+      "cityName": "El Treinta y Tres",
+      "lat": 18.963333,
+      "lng": -104.047222
+    },
+    {
+      "cityName": "El Túnel",
+      "lat": 19.041667,
+      "lng": -103.8625
+    },
+    {
+      "cityName": "El Túnez",
+      "lat": 19.045833,
+      "lng": -103.880556
+    },
+    {
+      "cityName": "El Ventarrón",
+      "lat": 19.1875,
+      "lng": -104.572222
+    },
+    {
+      "cityName": "El Vergel",
+      "lat": 18.875,
+      "lng": -103.931944
+    },
+    {
+      "cityName": "El Vidrio",
+      "lat": 19.183333,
+      "lng": -104.2625
+    },
+    {
+      "cityName": "El Volantín",
+      "lat": 19.133333,
+      "lng": -104.329167
+    },
+    {
+      "cityName": "El Yaqui",
+      "lat": 19.241667,
+      "lng": -103.761111
+    },
+    {
+      "cityName": "El Zacate",
+      "lat": 19,
+      "lng": -104.116667
+    },
+    {
+      "cityName": "Emiliaro Zapata",
+      "lat": 19.166667,
+      "lng": -104.516667
+    },
+    {
+      "cityName": "Escaltitán",
+      "lat": 19.023611,
+      "lng": -103.920833
+    },
+    {
+      "cityName": "Escribano",
+      "lat": 19.216667,
+      "lng": -103.733333
+    },
+    {
+      "cityName": "Estancia",
+      "lat": 19.233333,
+      "lng": -103.666667
+    },
+    {
+      "cityName": "Estapilla",
+      "lat": 18.983333,
+      "lng": -103.516667
+    },
+    {
+      "cityName": "Estrecho",
+      "lat": 19.133333,
+      "lng": -104.516667
+    },
+    {
+      "cityName": "Felipe",
+      "lat": 19.133333,
+      "lng": -104.377778
+    },
+    {
+      "cityName": "Fernández",
+      "lat": 19.291667,
+      "lng": -103.538889
+    },
+    {
+      "cityName": "Francisco Villa",
+      "lat": 19.108333,
+      "lng": -104.256944
+    },
+    {
+      "cityName": "Galeana",
+      "lat": 18.772222,
+      "lng": -103.708333
+    },
+    {
+      "cityName": "Galindo",
+      "lat": 19.116667,
+      "lng": -103.733333
+    },
+    {
+      "cityName": "Gonzáles",
+      "lat": 18.879167,
+      "lng": -103.970833
+    },
+    {
+      "cityName": "Granadillo",
+      "lat": 19.082778,
+      "lng": -103.538889
+    },
+    {
+      "cityName": "Guadalupe",
+      "lat": 18.963889,
+      "lng": -104.055556
+    },
+    {
+      "cityName": "Guaracha",
+      "lat": 19.066667,
+      "lng": -103.866667
+    },
+    {
+      "cityName": "Guasango",
+      "lat": 18.816667,
+      "lng": -103.9
+    },
+    {
+      "cityName": "Guásimas",
+      "lat": 19.1,
+      "lng": -103.716667
+    },
+    {
+      "cityName": "Guayabilla",
+      "lat": 19.15,
+      "lng": -104.533333
+    },
+    {
+      "cityName": "Guaycura",
+      "lat": 19.169444,
+      "lng": -103.547222
+    },
+    {
+      "cityName": "Guerrero",
+      "lat": 19.283333,
+      "lng": -103.783333
+    },
+    {
+      "cityName": "Hacienda Vieja",
+      "lat": 19.272222,
+      "lng": -103.659722
+    },
+    {
+      "cityName": "Higueras",
+      "lat": 19.166667,
+      "lng": -103.65
+    },
+    {
+      "cityName": "Higuerita",
+      "lat": 18.983333,
+      "lng": -103.933333
+    },
+    {
+      "cityName": "Horcones",
+      "lat": 19.433333,
+      "lng": -103.616667
+    },
+    {
+      "cityName": "Huerta",
+      "lat": 19.25,
+      "lng": -103.583333
+    },
+    {
+      "cityName": "Huicomo",
+      "lat": 19.025,
+      "lng": -103.566667
+    },
+    {
+      "cityName": "Huiscolotila",
+      "lat": 19.219444,
+      "lng": -104.376389
+    },
+    {
+      "cityName": "Ibáñez",
+      "lat": 18.883333,
+      "lng": -103.875
+    },
+    {
+      "cityName": "Ignacio Allende",
+      "lat": 19.204167,
+      "lng": -103.584722
+    },
+    {
+      "cityName": "Ilusión",
+      "lat": 19.038889,
+      "lng": -103.902778
+    },
+    {
+      "cityName": "Ixtlahuacán",
+      "lat": 19,
+      "lng": -103.75
+    },
+    {
+      "cityName": "Jaguey",
+      "lat": 19.233333,
+      "lng": -104.547222
+    },
+    {
+      "cityName": "Jala",
+      "lat": 19.116667,
+      "lng": -103.833333
+    },
+    {
+      "cityName": "Jalipa",
+      "lat": 19.116667,
+      "lng": -104.266667
+    },
+    {
+      "cityName": "Jayamita",
+      "lat": 19.15,
+      "lng": -103.816667
+    },
+    {
+      "cityName": "Jicotán",
+      "lat": 19.1,
+      "lng": -103.9
+    },
+    {
+      "cityName": "Jicotán Viejo",
+      "lat": 19.066667,
+      "lng": -104.016667
+    },
+    {
+      "cityName": "Jilcotiupa",
+      "lat": 19.05,
+      "lng": -103.75
+    },
+    {
+      "cityName": "Joyitas",
+      "lat": 19.338889,
+      "lng": -103.679167
+    },
+    {
+      "cityName": "Juana Acatlán",
+      "lat": 19.333333,
+      "lng": -103.9
+    },
+    {
+      "cityName": "Juan Pedro",
+      "lat": 18.845833,
+      "lng": -103.8
+    },
+    {
+      "cityName": "Juárez",
+      "lat": 19.166667,
+      "lng": -103.916667
+    },
+    {
+      "cityName": "Juluapan",
+      "lat": 19.3,
+      "lng": -103.833333
+    },
+    {
+      "cityName": "Kizalapa",
+      "lat": 19.190278,
+      "lng": -103.845833
+    },
+    {
+      "cityName": "La Atlántida",
+      "lat": 18.916667,
+      "lng": -103.858333
+    },
+    {
+      "cityName": "La Atravesada",
+      "lat": 19.1,
+      "lng": -104.016667
+    },
+    {
+      "cityName": "La Atrevida",
+      "lat": 19.25,
+      "lng": -103.7
+    },
+    {
+      "cityName": "La Audiencia",
+      "lat": 19.1,
+      "lng": -104.333333
+    },
+    {
+      "cityName": "La Báscula",
+      "lat": 18.941667,
+      "lng": -103.933333
+    },
+    {
+      "cityName": "La Becerrera",
+      "lat": 19.45,
+      "lng": -103.7
+    },
+    {
+      "cityName": "La Brújula",
+      "lat": 19.108333,
+      "lng": -103.541667
+    },
+    {
+      "cityName": "La Caja",
+      "lat": 19.366667,
+      "lng": -103.816667
+    },
+    {
+      "cityName": "La Calera",
+      "lat": 19.038889,
+      "lng": -104.129167
+    },
+    {
+      "cityName": "La Cañada",
+      "lat": 19.3,
+      "lng": -103.766667
+    },
+    {
+      "cityName": "La Candelaria",
+      "lat": 18.830556,
+      "lng": -103.791667
+    },
+    {
+      "cityName": "La Cañita",
+      "lat": 19.2375,
+      "lng": -103.813889
+    },
+    {
+      "cityName": "La Canoa",
+      "lat": 19.229167,
+      "lng": -104.466667
+    },
+    {
+      "cityName": "La Canoíta",
+      "lat": 19.113889,
+      "lng": -104.181944
+    },
+    {
+      "cityName": "La Cebolla",
+      "lat": 19.181944,
+      "lng": -104.086111
+    },
+    {
+      "cityName": "La Central",
+      "lat": 19.133333,
+      "lng": -104.433333
+    },
+    {
+      "cityName": "La Ciénega",
+      "lat": 19.179167,
+      "lng": -104.519444
+    },
+    {
+      "cityName": "La Cinta",
+      "lat": 18.8,
+      "lng": -103.708333
+    },
+    {
+      "cityName": "La Compuerta",
+      "lat": 19,
+      "lng": -103.891667
+    },
+    {
+      "cityName": "La Cruz",
+      "lat": 18.85,
+      "lng": -103.930556
+    },
+    {
+      "cityName": "La Cuarta",
+      "lat": 18.916667,
+      "lng": -103.85
+    },
+    {
+      "cityName": "La Escondida",
+      "lat": 19.104167,
+      "lng": -103.680556
+    },
+    {
+      "cityName": "La Fortaleza",
+      "lat": 18.930556,
+      "lng": -103.858333
+    },
+    {
+      "cityName": "La Fundición",
+      "lat": 19.133333,
+      "lng": -103.983333
+    },
+    {
+      "cityName": "La Galera",
+      "lat": 18.916667,
+      "lng": -103.9375
+    },
+    {
+      "cityName": "La Garrapata",
+      "lat": 18.891667,
+      "lng": -103.566667
+    },
+    {
+      "cityName": "La Gloria",
+      "lat": 18.870833,
+      "lng": -103.931944
+    },
+    {
+      "cityName": "La Guadalupe",
+      "lat": 19.116667,
+      "lng": -103.566667
+    },
+    {
+      "cityName": "Lagunitas",
+      "lat": 19.425,
+      "lng": -103.883333
+    },
+    {
+      "cityName": "La Hacienda",
+      "lat": 18.722222,
+      "lng": -103.725
+    },
+    {
+      "cityName": "La Herradura",
+      "lat": 18.951389,
+      "lng": -103.883333
+    },
+    {
+      "cityName": "La Huiguerita",
+      "lat": 19.05,
+      "lng": -103.629167
+    },
+    {
+      "cityName": "La Huisachera",
+      "lat": 19.2125,
+      "lng": -104.363889
+    },
+    {
+      "cityName": "La Huiscocotila",
+      "lat": 19.216667,
+      "lng": -104.366667
+    },
+    {
+      "cityName": "La Joya",
+      "lat": 19.416667,
+      "lng": -103.666667
+    },
+    {
+      "cityName": "La Ladrillera",
+      "lat": 19.0625,
+      "lng": -104.2125
+    },
+    {
+      "cityName": "La Lima",
+      "lat": 19.216667,
+      "lng": -104.333333
+    },
+    {
+      "cityName": "La Limonera",
+      "lat": 19.308333,
+      "lng": -103.816667
+    },
+    {
+      "cityName": "La Lomita",
+      "lat": 19.115278,
+      "lng": -103.768056
+    },
+    {
+      "cityName": "La Luz",
+      "lat": 26.033333,
+      "lng": -101.483333
+    },
+    {
+      "cityName": "La Majada",
+      "lat": 19.197222,
+      "lng": -103.773611
+    },
+    {
+      "cityName": "La Manzanilla",
+      "lat": 18.8,
+      "lng": -103.85
+    },
+    {
+      "cityName": "La Máquina",
+      "lat": 18.85,
+      "lng": -103.905556
+    },
+    {
+      "cityName": "La Media Luna",
+      "lat": 19.208333,
+      "lng": -103.558333
+    },
+    {
+      "cityName": "La Merced",
+      "lat": 18.841667,
+      "lng": -103.919444
+    },
+    {
+      "cityName": "La Mesa",
+      "lat": 19.35,
+      "lng": -103.766667
+    },
+    {
+      "cityName": "La Mina",
+      "lat": 19.034722,
+      "lng": -104.041667
+    },
+    {
+      "cityName": "La Mojotera",
+      "lat": 19.291667,
+      "lng": -103.725
+    },
+    {
+      "cityName": "La Montrica",
+      "lat": 19.347222,
+      "lng": -103.690278
+    },
+    {
+      "cityName": "La Noria",
+      "lat": 18.95,
+      "lng": -103.718056
+    },
+    {
+      "cityName": "La Palma",
+      "lat": 19.006944,
+      "lng": -103.566667
+    },
+    {
+      "cityName": "La Parota",
+      "lat": 19.040278,
+      "lng": -104.080556
+    },
+    {
+      "cityName": "La Parotita",
+      "lat": 18.802778,
+      "lng": -103.797222
+    },
+    {
+      "cityName": "La Pedregosa",
+      "lat": 19.0875,
+      "lng": -103.6
+    },
+    {
+      "cityName": "La Peñita",
+      "lat": 19.25,
+      "lng": -104.483333
+    },
+    {
+      "cityName": "La Piedra Ancha",
+      "lat": 19.0875,
+      "lng": -103.680556
+    },
+    {
+      "cityName": "La Piedra",
+      "lat": 19.316667,
+      "lng": -104.2
+    },
+    {
+      "cityName": "La Plaza Vieja",
+      "lat": 18.816667,
+      "lng": -103.633333
+    },
+    {
+      "cityName": "La Presa",
+      "lat": 19.013889,
+      "lng": -103.688889
+    },
+    {
+      "cityName": "La Primavera",
+      "lat": 18.852778,
+      "lng": -103.829167
+    },
+    {
+      "cityName": "La Puerta del Petalero",
+      "lat": 19.155556,
+      "lng": -104.341667
+    },
+    {
+      "cityName": "La Quesería",
+      "lat": 19.366667,
+      "lng": -103.583333
+    },
+    {
+      "cityName": "La Resolana",
+      "lat": 18.8625,
+      "lng": -103.890278
+    },
+    {
+      "cityName": "La Rosa",
+      "lat": 19.183333,
+      "lng": -104.1
+    },
+    {
+      "cityName": "La Salada",
+      "lat": 19.05,
+      "lng": -103.783333
+    },
+    {
+      "cityName": "Las Ánimas",
+      "lat": 18.958333,
+      "lng": -103.9
+    },
+    {
+      "cityName": "Las Camelias",
+      "lat": 18.834722,
+      "lng": -103.845833
+    },
+    {
+      "cityName": "Las Canoas",
+      "lat": 19.283333,
+      "lng": -104.1
+    },
+    {
+      "cityName": "Las Canoítas",
+      "lat": 19.127778,
+      "lng": -104.179167
+    },
+    {
+      "cityName": "Las Colmenas",
+      "lat": 18.940278,
+      "lng": -103.884722
+    },
+    {
+      "cityName": "Las Conchas",
+      "lat": 18.883333,
+      "lng": -103.633333
+    },
+    {
+      "cityName": "Las Golondrinas",
+      "lat": 19.133333,
+      "lng": -103.75
+    },
+    {
+      "cityName": "Las Guásimas",
+      "lat": 19.091667,
+      "lng": -104.0625
+    },
+    {
+      "cityName": "Las Hadas",
+      "lat": 19.102778,
+      "lng": -104.348611
+    },
+    {
+      "cityName": "Las Higueras de Santa Rosa",
+      "lat": 18.9125,
+      "lng": -103.663889
+    },
+    {
+      "cityName": "Las Humedades",
+      "lat": 18.866667,
+      "lng": -103.95
+    },
+    {
+      "cityName": "La Sidra",
+      "lat": 19.251389,
+      "lng": -103.986111
+    },
+    {
+      "cityName": "Las Juntas",
+      "lat": 19.083333,
+      "lng": -104.141667
+    },
+    {
+      "cityName": "Las Lajas",
+      "lat": 19.069444,
+      "lng": -104.083333
+    },
+    {
+      "cityName": "Las Lomas",
+      "lat": 19.198611,
+      "lng": -103.758333
+    },
+    {
+      "cityName": "Las Lomitas",
+      "lat": 18.770833,
+      "lng": -103.781944
+    },
+    {
+      "cityName": "Las Maravillas",
+      "lat": 18.927778,
+      "lng": -104.0125
+    },
+    {
+      "cityName": "Las Mercedes",
+      "lat": 19.206944,
+      "lng": -103.741667
+    },
+    {
+      "cityName": "Las Nuevas Juntas",
+      "lat": 19.05,
+      "lng": -104.216667
+    },
+    {
+      "cityName": "La Soledad",
+      "lat": 18.783333,
+      "lng": -103.668056
+    },
+    {
+      "cityName": "La Sota",
+      "lat": 18.766667,
+      "lng": -103.7
+    },
+    {
+      "cityName": "Las Palmas",
+      "lat": 19.2,
+      "lng": -103.727778
+    },
+    {
+      "cityName": "Las Parotas",
+      "lat": 19.216667,
+      "lng": -103.766667
+    },
+    {
+      "cityName": "Las Peñitas",
+      "lat": 19.108333,
+      "lng": -103.758333
+    },
+    {
+      "cityName": "Las Pesadas",
+      "lat": 19.383333,
+      "lng": -104.066667
+    },
+    {
+      "cityName": "Las Piedras de Amolar",
+      "lat": 19.066667,
+      "lng": -104.083333
+    },
+    {
+      "cityName": "Las Pilas",
+      "lat": 18.938889,
+      "lng": -103.783333
+    },
+    {
+      "cityName": "Las Pilastras",
+      "lat": 19.229167,
+      "lng": -103.823611
+    },
+    {
+      "cityName": "Las Tinajas",
+      "lat": 19.05,
+      "lng": -103.566667
+    },
+    {
+      "cityName": "Las Trancas",
+      "lat": 19.066667,
+      "lng": -103.716667
+    },
+    {
+      "cityName": "Las Tres Palmas",
+      "lat": 18.952778,
+      "lng": -103.852778
+    },
+    {
+      "cityName": "Las Truchas",
+      "lat": 18.972222,
+      "lng": -103.620833
+    },
+    {
+      "cityName": "Las Tunas",
+      "lat": 18.908333,
+      "lng": -103.552778
+    },
+    {
+      "cityName": "Las Vueltas",
+      "lat": 19.2,
+      "lng": -104.245833
+    },
+    {
+      "cityName": "La Tabaquera",
+      "lat": 19.029167,
+      "lng": -103.656944
+    },
+    {
+      "cityName": "La Tecomaca",
+      "lat": 19.175,
+      "lng": -103.5625
+    },
+    {
+      "cityName": "La Tecomata",
+      "lat": 19.175,
+      "lng": -103.586111
+    },
+    {
+      "cityName": "La Tepamera",
+      "lat": 18.991667,
+      "lng": -103.641667
+    },
+    {
+      "cityName": "La Terecua",
+      "lat": 18.847222,
+      "lng": -103.833333
+    },
+    {
+      "cityName": "La Tijera",
+      "lat": 18.844444,
+      "lng": -103.838889
+    },
+    {
+      "cityName": "La Tropicana",
+      "lat": 18.95,
+      "lng": -104.033333
+    },
+    {
+      "cityName": "La Tunina",
+      "lat": 18.929167,
+      "lng": -103.65
+    },
+    {
+      "cityName": "La Vainilla",
+      "lat": 18.983333,
+      "lng": -103.845833
+    },
+    {
+      "cityName": "La Verónica",
+      "lat": 18.858333,
+      "lng": -103.868056
+    },
+    {
+      "cityName": "La Viga",
+      "lat": 19.070833,
+      "lng": -104.2125
+    },
+    {
+      "cityName": "La Zapotera",
+      "lat": 18.716667,
+      "lng": -103.716667
+    },
+    {
+      "cityName": "Limones",
+      "lat": 19.233333,
+      "lng": -103.766667
+    },
+    {
+      "cityName": "Llano Grande",
+      "lat": 19.133333,
+      "lng": -104.5
+    },
+    {
+      "cityName": "Lo de Rincón",
+      "lat": 19.033333,
+      "lng": -103.7
+    },
+    {
+      "cityName": "Lo de Vega",
+      "lat": 18.783333,
+      "lng": -103.833333
+    },
+    {
+      "cityName": "Lo de Villa",
+      "lat": 19.233333,
+      "lng": -103.8
+    },
+    {
+      "cityName": "Loma Alta",
+      "lat": 19.383333,
+      "lng": -103.616667
+    },
+    {
+      "cityName": "Los Ácida",
+      "lat": 19.175,
+      "lng": -104.506944
+    },
+    {
+      "cityName": "Los Álvarez",
+      "lat": 18.858333,
+      "lng": -103.823611
+    },
+    {
+      "cityName": "Los Amoles",
+      "lat": 18.933333,
+      "lng": -103.7
+    },
+    {
+      "cityName": "Los Brasiles",
+      "lat": 19.073611,
+      "lng": -103.583333
+    },
+    {
+      "cityName": "Los Charcos",
+      "lat": 19.076389,
+      "lng": -103.590278
+    },
+    {
+      "cityName": "Los Chinos",
+      "lat": 19.033333,
+      "lng": -103.866667
+    },
+    {
+      "cityName": "Los Cocales",
+      "lat": 19.083333,
+      "lng": -104.3
+    },
+    {
+      "cityName": "Los Colomos",
+      "lat": 19.4,
+      "lng": -103.75
+    },
+    {
+      "cityName": "Los Cuates",
+      "lat": 19.183333,
+      "lng": -103.713889
+    },
+    {
+      "cityName": "Los Desmontes",
+      "lat": 18.833333,
+      "lng": -103.905556
+    },
+    {
+      "cityName": "Los Llantos",
+      "lat": 19.329167,
+      "lng": -103.745833
+    },
+    {
+      "cityName": "Los Manolos",
+      "lat": 18.879167,
+      "lng": -103.925
+    },
+    {
+      "cityName": "Los Mezcales",
+      "lat": 18.733333,
+      "lng": -103.716667
+    },
+    {
+      "cityName": "Los Ortíces",
+      "lat": 19.1,
+      "lng": -103.733333
+    },
+    {
+      "cityName": "Los Parajes",
+      "lat": 19.233333,
+      "lng": -104.4
+    },
+    {
+      "cityName": "Los Pascuales",
+      "lat": 18.85,
+      "lng": -103.95
+    },
+    {
+      "cityName": "Los Picachos",
+      "lat": 19.311111,
+      "lng": -103.841667
+    },
+    {
+      "cityName": "Los Reyes",
+      "lat": 18.966667,
+      "lng": -104.05
+    },
+    {
+      "cityName": "Los Robles",
+      "lat": 19.316667,
+      "lng": -104.216667
+    },
+    {
+      "cityName": "Los Sauces",
+      "lat": 19.433333,
+      "lng": -103.983333
+    },
+    {
+      "cityName": "Los Tepames",
+      "lat": 19.1,
+      "lng": -103.616667
+    },
+    {
+      "cityName": "Los Vishis",
+      "lat": 19.179167,
+      "lng": -104.5125
+    },
+    {
+      "cityName": "Lucita",
+      "lat": 18.776389,
+      "lng": -103.813889
+    },
+    {
+      "cityName": "Majagua",
+      "lat": 19.108333,
+      "lng": -104.448611
+    },
+    {
+      "cityName": "Manuel Avila Camacho",
+      "lat": 19.283333,
+      "lng": -104.25
+    },
+    {
+      "cityName": "Manzanillo",
+      "lat": 19.05,
+      "lng": -104.333333
+    },
+    {
+      "cityName": "Maritza",
+      "lat": 18.830556,
+      "lng": -103.858333
+    },
+    {
+      "cityName": "Mata de Chile",
+      "lat": 19.270833,
+      "lng": -104.258333
+    },
+    {
+      "cityName": "Mendoza",
+      "lat": 18.908333,
+      "lng": -103.966667
+    },
+    {
+      "cityName": "Milán",
+      "lat": 19.35,
+      "lng": -104.083333
+    },
+    {
+      "cityName": "Mina Peña",
+      "lat": 19.275,
+      "lng": -103.758333
+    },
+    {
+      "cityName": "Miramar",
+      "lat": 19.116667,
+      "lng": -104.383333
+    },
+    {
+      "cityName": "Montecristo",
+      "lat": 18.829167,
+      "lng": -103.895833
+    },
+    {
+      "cityName": "Montillán",
+      "lat": 19.416667,
+      "lng": -103.616667
+    },
+    {
+      "cityName": "Montitlán",
+      "lat": 19.4,
+      "lng": -103.616667
+    },
+    {
+      "cityName": "Moreno",
+      "lat": 18.897222,
+      "lng": -103.915278
+    },
+    {
+      "cityName": "Nahualapal",
+      "lat": 19.188889,
+      "lng": -103.894444
+    },
+    {
+      "cityName": "Nogueras",
+      "lat": 19.3,
+      "lng": -103.733333
+    },
+    {
+      "cityName": "Noria",
+      "lat": 18.983333,
+      "lng": -103.766667
+    },
+    {
+      "cityName": "Nuevo México",
+      "lat": 18.863889,
+      "lng": -103.916667
+    },
+    {
+      "cityName": "Ocotillo",
+      "lat": 19.333333,
+      "lng": -103.65
+    },
+    {
+      "cityName": "Ojo de Agua Caliente",
+      "lat": 19.216667,
+      "lng": -103.633333
+    },
+    {
+      "cityName": "Ojo de Agua de Juluapan",
+      "lat": 19.316667,
+      "lng": -103.883333
+    },
+    {
+      "cityName": "Ojo de Agua de la Palma",
+      "lat": 19.201389,
+      "lng": -104.058333
+    },
+    {
+      "cityName": "Ojo de Agua",
+      "lat": 18.975,
+      "lng": -103.590278
+    },
+    {
+      "cityName": "Otero",
+      "lat": 18.741667,
+      "lng": -103.75
+    },
+    {
+      "cityName": "Palenque",
+      "lat": 18.8125,
+      "lng": -103.841667
+    },
+    {
+      "cityName": "Palma de Caballeros",
+      "lat": 18.966667,
+      "lng": -103.983333
+    },
+    {
+      "cityName": "Palmillas",
+      "lat": 19.354167,
+      "lng": -103.552778
+    },
+    {
+      "cityName": "Palmira",
+      "lat": 18.9,
+      "lng": -103.990278
+    },
+    {
+      "cityName": "Papaloapán",
+      "lat": 18.804167,
+      "lng": -103.816111
+    },
+    {
+      "cityName": "Papelillo",
+      "lat": 19.176389,
+      "lng": -103.668056
+    },
+    {
+      "cityName": "Paredes Grandes",
+      "lat": 19.370833,
+      "lng": -103.734722
+    },
+    {
+      "cityName": "Parota Herrada",
+      "lat": 19.366667,
+      "lng": -103.933333
+    },
+    {
+      "cityName": "Parotas de Mejía",
+      "lat": 19.079167,
+      "lng": -103.554167
+    },
+    {
+      "cityName": "Parotas",
+      "lat": 19.266667,
+      "lng": -104.3
+    },
+    {
+      "cityName": "Pascuales",
+      "lat": 18.8625,
+      "lng": -103.95
+    },
+    {
+      "cityName": "Paso Ancho",
+      "lat": 19.075,
+      "lng": -104.166667
+    },
+    {
+      "cityName": "Paso del Río",
+      "lat": 18.95,
+      "lng": -103.933333
+    },
+    {
+      "cityName": "Paso del Zarco",
+      "lat": 19.172222,
+      "lng": -103.597222
+    },
+    {
+      "cityName": "Pastores",
+      "lat": 19.315278,
+      "lng": -103.706944
+    },
+    {
+      "cityName": "Paticajo",
+      "lat": 19.3,
+      "lng": -104.133333
+    },
+    {
+      "cityName": "Patty",
+      "lat": 18.991667,
+      "lng": -104.066667
+    },
+    {
+      "cityName": "Pedro Núñez",
+      "lat": 19.1625,
+      "lng": -104.425
+    },
+    {
+      "cityName": "Peña Blanca",
+      "lat": 19.127778,
+      "lng": -104.484722
+    },
+    {
+      "cityName": "Peñitas",
+      "lat": 19.329167,
+      "lng": -103.813889
+    },
+    {
+      "cityName": "Picila",
+      "lat": 19.166667,
+      "lng": -103.683333
+    },
+    {
+      "cityName": "Piedra Redonda",
+      "lat": 19.181944,
+      "lng": -104.125
+    },
+    {
+      "cityName": "Pineda",
+      "lat": 18.897222,
+      "lng": -103.869444
+    },
+    {
+      "cityName": "Placetas",
+      "lat": 19.029167,
+      "lng": -103.905556
+    },
+    {
+      "cityName": "Plan de la Paracuatera",
+      "lat": 18.916667,
+      "lng": -103.625
+    },
+    {
+      "cityName": "Platanitos",
+      "lat": 19.083333,
+      "lng": -103.666667
+    },
+    {
+      "cityName": "Portezuelo",
+      "lat": 19.211111,
+      "lng": -104.240278
+    },
+    {
+      "cityName": "Potrero Grande",
+      "lat": 19.333333,
+      "lng": -104.083333
+    },
+    {
+      "cityName": "Pueblo Nuevo",
+      "lat": 19.316667,
+      "lng": -103.916667
+    },
+    {
+      "cityName": "Puerta de Anzar",
+      "lat": 19.116667,
+      "lng": -103.533333
+    },
+    {
+      "cityName": "Puerta de Caleras",
+      "lat": 18.980556,
+      "lng": -103.8625
+    },
+    {
+      "cityName": "Puerta Grande",
+      "lat": 19.433333,
+      "lng": -103.666667
+    },
+    {
+      "cityName": "Puerta Negra",
+      "lat": 18.979167,
+      "lng": -103.988889
+    },
+    {
+      "cityName": "Puerta Quemada",
+      "lat": 19.216667,
+      "lng": -103.75
+    },
+    {
+      "cityName": "Puertas Cuatas",
+      "lat": 18.883333,
+      "lng": -103.818056
+    },
+    {
+      "cityName": "Puerto del Fresno",
+      "lat": 19.365278,
+      "lng": -103.979167
+    },
+    {
+      "cityName": "Puerto las Perdices",
+      "lat": 18.916667,
+      "lng": -103.586111
+    },
+    {
+      "cityName": "Punta de Agua de Camotlán",
+      "lat": 19.15,
+      "lng": -104.266667
+    },
+    {
+      "cityName": "Quiroz",
+      "lat": 19.216667,
+      "lng": -103.736111
+    },
+    {
+      "cityName": "Ramamay",
+      "lat": 18.729167,
+      "lng": -103.736111
+    },
+    {
+      "cityName": "Ranchito",
+      "lat": 19.233333,
+      "lng": -103.833333
+    },
+    {
+      "cityName": "Ranchitos",
+      "lat": 19.402778,
+      "lng": -103.966667
+    },
+    {
+      "cityName": "Rancho Blanco",
+      "lat": 18.933333,
+      "lng": -104.083333
+    },
+    {
+      "cityName": "Rancho de Aguirre",
+      "lat": 19.395833,
+      "lng": -103.675
+    },
+    {
+      "cityName": "Rancho Grande",
+      "lat": 18.927778,
+      "lng": -103.866667
+    },
+    {
+      "cityName": "Rancho La Cuarentena",
+      "lat": 19.120833,
+      "lng": -104.388889
+    },
+    {
+      "cityName": "Rancho Nuevo",
+      "lat": 18.938889,
+      "lng": -103.869444
+    },
+    {
+      "cityName": "Rancho Solo",
+      "lat": 18.983333,
+      "lng": -103.716667
+    },
+    {
+      "cityName": "Rancho Verde",
+      "lat": 18.805556,
+      "lng": -103.866667
+    },
+    {
+      "cityName": "Rastrojito",
+      "lat": 19.425,
+      "lng": -103.986111
+    },
+    {
+      "cityName": "Rincón del Diablo",
+      "lat": 18.915278,
+      "lng": -103.766667
+    },
+    {
+      "cityName": "Rincón de López",
+      "lat": 19.05,
+      "lng": -103.916667
+    },
+    {
+      "cityName": "Rio Marabasco",
+      "lat": 19.216667,
+      "lng": -104.516667
+    },
+    {
+      "cityName": "Roblera",
+      "lat": 19.008333,
+      "lng": -104.038889
+    },
+    {
+      "cityName": "Rositas",
+      "lat": 18.836111,
+      "lng": -103.816667
+    },
+    {
+      "cityName": "Salitrillo",
+      "lat": 19.083333,
+      "lng": -103.533333
+    },
+    {
+      "cityName": "Salsipuedes",
+      "lat": 19.416667,
+      "lng": -103.783333
+    },
+    {
+      "cityName": "Sampalmar",
+      "lat": 19.35,
+      "lng": -103.983333
+    },
+    {
+      "cityName": "Samtiago",
+      "lat": 19.116667,
+      "lng": -104.35
+    },
+    {
+      "cityName": "San Ángel",
+      "lat": 18.983333,
+      "lng": -103.833333
+    },
+    {
+      "cityName": "San Antonio",
+      "lat": 18.788889,
+      "lng": -103.816667
+    },
+    {
+      "cityName": "San Buenaventura",
+      "lat": 19,
+      "lng": -104.15
+    },
+    {
+      "cityName": "San Carlos",
+      "lat": 18.963889,
+      "lng": -103.836111
+    },
+    {
+      "cityName": "San Emigdio",
+      "lat": 19.183333,
+      "lng": -103.583333
+    },
+    {
+      "cityName": "San Felipe",
+      "lat": 18.9625,
+      "lng": -104.045833
+    },
+    {
+      "cityName": "San Fernando",
+      "lat": 19.175,
+      "lng": -104.566667
+    },
+    {
+      "cityName": "San Francisco",
+      "lat": 18.825,
+      "lng": -103.805556
+    },
+    {
+      "cityName": "San Gabriel",
+      "lat": 18.915278,
+      "lng": -103.730556
+    },
+    {
+      "cityName": "San Joaquin",
+      "lat": 19.266667,
+      "lng": -103.633333
+    },
+    {
+      "cityName": "San José de Camotlán",
+      "lat": 19.25,
+      "lng": -104.233333
+    },
+    {
+      "cityName": "San José",
+      "lat": 18.870833,
+      "lng": -103.888889
+    },
+    {
+      "cityName": "San Juan Cuatro Vientos",
+      "lat": 19.184722,
+      "lng": -104.530556
+    },
+    {
+      "cityName": "San Juan",
+      "lat": 18.861111,
+      "lng": -103.847222
+    },
+    {
+      "cityName": "San Marcos",
+      "lat": 18.925,
+      "lng": -103.688889
+    },
+    {
+      "cityName": "San Martín",
+      "lat": 18.779167,
+      "lng": -103.781944
+    },
+    {
+      "cityName": "San Miguel Ojo de Agua",
+      "lat": 18.823611,
+      "lng": -103.701389
+    },
+    {
+      "cityName": "San Miguel",
+      "lat": 18.8125,
+      "lng": -103.813889
+    },
+    {
+      "cityName": "San Rafael",
+      "lat": 18.775,
+      "lng": -103.8375
+    },
+    {
+      "cityName": "Santa Anita",
+      "lat": 18.855556,
+      "lng": -103.930556
+    },
+    {
+      "cityName": "Santa Fé",
+      "lat": 19.183333,
+      "lng": -103.591667
+    },
+    {
+      "cityName": "Santa Inés",
+      "lat": 18.918056,
+      "lng": -103.670833
+    },
+    {
+      "cityName": "Santa Lucía",
+      "lat": 18.729167,
+      "lng": -103.730556
+    },
+    {
+      "cityName": "Santa Magdalena",
+      "lat": 18.886111,
+      "lng": -103.8625
+    },
+    {
+      "cityName": "Santa Martha",
+      "lat": 19.198611,
+      "lng": -103.786111
+    },
+    {
+      "cityName": "Santander",
+      "lat": 18.933333,
+      "lng": -104
+    },
+    {
+      "cityName": "Santa Rita de la Barranca",
+      "lat": 19.080556,
+      "lng": -104.227778
+    },
+    {
+      "cityName": "Santa Rita",
+      "lat": 19,
+      "lng": -104.083333
+    },
+    {
+      "cityName": "Santa Rosa",
+      "lat": 18.9,
+      "lng": -103.933333
+    },
+    {
+      "cityName": "Selene",
+      "lat": 19.208333,
+      "lng": -103.752778
+    },
+    {
+      "cityName": "Sierra Madre",
+      "lat": 19.116667,
+      "lng": -104.393056
+    },
+    {
+      "cityName": "Suchitlán",
+      "lat": 19.366667,
+      "lng": -103.716667
+    },
+    {
+      "cityName": "Tamala",
+      "lat": 19.066667,
+      "lng": -103.75
+    },
+    {
+      "cityName": "Tapeixtles",
+      "lat": 19.066667,
+      "lng": -104.283333
+    },
+    {
+      "cityName": "Tecolapa",
+      "lat": 19.016667,
+      "lng": -103.816667
+    },
+    {
+      "cityName": "Tecomán",
+      "lat": 18.913889,
+      "lng": -103.905556
+    },
+    {
+      "cityName": "Tecualanal",
+      "lat": 18.969444,
+      "lng": -103.713889
+    },
+    {
+      "cityName": "Tecuanillo",
+      "lat": 18.816667,
+      "lng": -103.883333
+    },
+    {
+      "cityName": "Tecuán",
+      "lat": 18.8,
+      "lng": -103.866667
+    },
+    {
+      "cityName": "Tene",
+      "lat": 19.336111,
+      "lng": -103.5
+    },
+    {
+      "cityName": "Tenexcamilpa",
+      "lat": 19.4,
+      "lng": -103.483333
+    },
+    {
+      "cityName": "Teotolmoloya",
+      "lat": 19.233333,
+      "lng": -104.25
+    },
+    {
+      "cityName": "Tepames",
+      "lat": 19.083333,
+      "lng": -103.616667
+    },
+    {
+      "cityName": "Tepeguajes",
+      "lat": 19.233333,
+      "lng": -104.183333
+    },
+    {
+      "cityName": "Tepostitlán",
+      "lat": 18.866667,
+      "lng": -103.65
+    },
+    {
+      "cityName": "Ticuisitán",
+      "lat": 19.166667,
+      "lng": -103.633333
+    },
+    {
+      "cityName": "Tinajas",
+      "lat": 19.045833,
+      "lng": -103.583333
+    },
+    {
+      "cityName": "Trapichillos",
+      "lat": 19.15,
+      "lng": -103.516667
+    },
+    {
+      "cityName": "Turla",
+      "lat": 19.029167,
+      "lng": -103.788889
+    },
+    {
+      "cityName": "Valenzuela",
+      "lat": 18.95,
+      "lng": -103.866667
+    },
+    {
+      "cityName": "Vallardo",
+      "lat": 18.947222,
+      "lng": -103.916667
+    },
+    {
+      "cityName": "Vallejo",
+      "lat": 19.116667,
+      "lng": -103.95
+    },
+    {
+      "cityName": "Valle Nuevo",
+      "lat": 18.781944,
+      "lng": -103.822222
+    },
+    {
+      "cityName": "Veintiseis de Julio",
+      "lat": 18.9375,
+      "lng": -103.588889
+    },
+    {
+      "cityName": "Veladero de Camotlán",
+      "lat": 19.179167,
+      "lng": -104.175
+    },
+    {
+      "cityName": "Veladeros de los Otates",
+      "lat": 19.25,
+      "lng": -104.333333
+    },
+    {
+      "cityName": "Venustiano Carranza",
+      "lat": 19,
+      "lng": -104.1
+    },
+    {
+      "cityName": "Villa Florida",
+      "lat": 19.025,
+      "lng": -104.323611
+    },
+    {
+      "cityName": "Volcancillos",
+      "lat": 19.006944,
+      "lng": -103.608333
+    },
+    {
+      "cityName": "Yautepec",
+      "lat": 18.831944,
+      "lng": -103.866667
+    },
+    {
+      "cityName": "Zacualpan",
+      "lat": 19.383333,
+      "lng": -103.833333
+    },
+    {
+      "cityName": "Zanja Prieta",
+      "lat": 18.763889,
+      "lng": -103.766667
+    },
+    {
+      "cityName": "Zapote",
+      "lat": 18.95,
+      "lng": -103.7
+    }
+  ]
+}

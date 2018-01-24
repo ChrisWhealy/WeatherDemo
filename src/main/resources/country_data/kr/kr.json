@@ -1,0 +1,87 @@
+{
+  "name": "Korea [South]",
+  "iso2": "kr",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Ch'ungch'ong-bukto",
+      "id": 0
+    },
+    {
+      "name": "Ch'ungch'ong-namdo",
+      "id": 1
+    },
+    {
+      "name": "Cheju-do",
+      "id": 2
+    },
+    {
+      "name": "Cholla-bukto",
+      "id": 3
+    },
+    {
+      "name": "Cholla-namdo",
+      "id": 4
+    },
+    {
+      "name": "Inch'on-jikhalsi",
+      "id": 5
+    },
+    {
+      "name": "Kangwon-do",
+      "id": 6
+    },
+    {
+      "name": "Kwangju-jikhalsi",
+      "id": 7
+    },
+    {
+      "name": "Kyonggi-do",
+      "id": 8
+    },
+    {
+      "name": "Kyongsang-bukto",
+      "id": 9
+    },
+    {
+      "name": "Kyongsang-namdo",
+      "id": 10
+    },
+    {
+      "name": "Pusan-jikhalsi",
+      "id": 11
+    },
+    {
+      "name": "Seoul-t'ukpyolsi",
+      "id": 12
+    },
+    {
+      "name": "Taegu-jikhalsi",
+      "id": 13
+    },
+    {
+      "name": "Taejon-jikhalsi",
+      "id": 14
+    },
+    {
+      "name": "Ulsan-gwangyoksi",
+      "id": 15
+    }
+  ],
+  "geoRectangle": {
+    "West": 125.88710022,
+    "East": 129.584686279,
+    "North": 38.6124534607,
+    "South": 33.1909408569
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 9,
+    "Flg": 2,
+    "Name": "Seoul",
+    "GeoPt": [
+      37.33,
+      126.59
+    ]
+  }
+}

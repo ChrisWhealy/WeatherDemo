@@ -1,0 +1,127 @@
+{
+  "name": "Venezuela",
+  "iso2": "ve",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Amazonas",
+      "id": 0
+    },
+    {
+      "name": "Anzoategui",
+      "id": 1
+    },
+    {
+      "name": "Apure",
+      "id": 2
+    },
+    {
+      "name": "Aragua",
+      "id": 3
+    },
+    {
+      "name": "Barinas",
+      "id": 4
+    },
+    {
+      "name": "Bolivar",
+      "id": 5
+    },
+    {
+      "name": "Carabobo",
+      "id": 6
+    },
+    {
+      "name": "Cojedes",
+      "id": 7
+    },
+    {
+      "name": "Delta Amacuro",
+      "id": 8
+    },
+    {
+      "name": "Dependencias Federales",
+      "id": 9
+    },
+    {
+      "name": "Distrito Federal",
+      "id": 10
+    },
+    {
+      "name": "Falcon",
+      "id": 11
+    },
+    {
+      "name": "Guarico",
+      "id": 12
+    },
+    {
+      "name": "Lara",
+      "id": 13
+    },
+    {
+      "name": "Merida",
+      "id": 14
+    },
+    {
+      "name": "Miranda",
+      "id": 15
+    },
+    {
+      "name": "Monagas",
+      "id": 16
+    },
+    {
+      "name": "Nueva Esparta",
+      "id": 17
+    },
+    {
+      "name": "Portuguesa",
+      "id": 18
+    },
+    {
+      "name": "Sucre",
+      "id": 19
+    },
+    {
+      "name": "Tachira",
+      "id": 20
+    },
+    {
+      "name": "Trujillo",
+      "id": 21
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 22
+    },
+    {
+      "name": "Vargas",
+      "id": 23
+    },
+    {
+      "name": "Yaracuy",
+      "id": 24
+    },
+    {
+      "name": "Zulia",
+      "id": 25
+    }
+  ],
+  "geoRectangle": {
+    "West": -73.3540878296,
+    "East": -59.8037757874,
+    "North": 12.2019042969,
+    "South": 0.626310884953
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -4.5,
+    "Flg": 2,
+    "Name": "Caracas",
+    "GeoPt": [
+      10.3,
+      -66.56
+    ]
+  }
+}

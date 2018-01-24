@@ -1,0 +1,625 @@
+{
+  "name": "Hefa",
+  "cities": [
+    {
+      "cityName": "Ahutzasamuel",
+      "lat": 32.7833333,
+      "lng": 34.9833333
+    },
+    {
+      "cityName": "Ain Ayala",
+      "lat": 32.6333333,
+      "lng": 34.9333333
+    },
+    {
+      "cityName": "Ain Ghazil",
+      "lat": 32.6208333,
+      "lng": 34.9775
+    },
+    {
+      "cityName": "Ain Hod",
+      "lat": 32.7,
+      "lng": 34.9833333
+    },
+    {
+      "cityName": "Akkada",
+      "lat": 32.5419444,
+      "lng": 35.1705556
+    },
+    {
+      "cityName": "Al Fureidis",
+      "lat": 32.6,
+      "lng": 34.95
+    },
+    {
+      "cityName": "Al Kababir",
+      "lat": 32.8,
+      "lng": 34.9666667
+    },
+    {
+      "cityName": "Allona",
+      "lat": 32.5286111,
+      "lng": 34.9933333
+    },
+    {
+      "cityName": "Allonei-Yitzhak",
+      "lat": 32.5102778,
+      "lng": 35.0038889
+    },
+    {
+      "cityName": "Al Marah",
+      "lat": 32.5180556,
+      "lng": 35.0044444
+    },
+    {
+      "cityName": "Al Mazar",
+      "lat": 32.6833333,
+      "lng": 34.9666667
+    },
+    {
+      "cityName": "Alro'i",
+      "lat": 32.7091667,
+      "lng": 35.1047222
+    },
+    {
+      "cityName": "`Ara",
+      "lat": 32.4886111,
+      "lng": 35.1136111
+    },
+    {
+      "cityName": "`Ar`ara",
+      "lat": 32.4936111,
+      "lng": 35.0972222
+    },
+    {
+      "cityName": "Asafiyah",
+      "lat": 32.7172222,
+      "lng": 35.0627778
+    },
+    {
+      "cityName": "As Sarafand",
+      "lat": 32.65,
+      "lng": 34.9333333
+    },
+    {
+      "cityName": "`Athlit",
+      "lat": 32.6833333,
+      "lng": 34.9333333
+    },
+    {
+      "cityName": "At Tira",
+      "lat": 32.7616667,
+      "lng": 34.9719444
+    },
+    {
+      "cityName": "Avot",
+      "lat": 32.4833333,
+      "lng": 34.9666667
+    },
+    {
+      "cityName": "Baka-el-Garbiya",
+      "lat": 32.4133333,
+      "lng": 35.045
+    },
+    {
+      "cityName": "Balad Ash-Shaykh",
+      "lat": 32.7747222,
+      "lng": 35.0316667
+    },
+    {
+      "cityName": "Barkai",
+      "lat": 32.4730556,
+      "lng": 35.0313889
+    },
+    {
+      "cityName": "Barta`a",
+      "lat": 32.4708333,
+      "lng": 35.09
+    },
+    {
+      "cityName": "Basmat Tab`un",
+      "lat": 32.7344444,
+      "lng": 35.1458333
+    },
+    {
+      "cityName": "Bat Gallim",
+      "lat": 32.8333333,
+      "lng": 34.9833333
+    },
+    {
+      "cityName": "Bath Shelomo",
+      "lat": 32.5966667,
+      "lng": 35.0019444
+    },
+    {
+      "cityName": "Beit Hananya",
+      "lat": 32.5333333,
+      "lng": 34.9166667
+    },
+    {
+      "cityName": "Beit Oren",
+      "lat": 32.7305556,
+      "lng": 35.0055556
+    },
+    {
+      "cityName": "Beit-Tsevi",
+      "lat": 32.7188889,
+      "lng": 34.9669444
+    },
+    {
+      "cityName": "Beten",
+      "lat": 32.7616667,
+      "lng": 35.1008333
+    },
+    {
+      "cityName": "Binyamina",
+      "lat": 32.5208333,
+      "lng": 34.9458333
+    },
+    {
+      "cityName": "Caesarea",
+      "lat": 32.4833333,
+      "lng": 34.8833333
+    },
+    {
+      "cityName": "Caiffa",
+      "lat": 32.8155556,
+      "lng": 34.9891667
+    },
+    {
+      "cityName": "Carmel",
+      "lat": 32.8,
+      "lng": 34.9833333
+    },
+    {
+      "cityName": "Daliyah",
+      "lat": 32.6936111,
+      "lng": 35.0408333
+    },
+    {
+      "cityName": "Damon",
+      "lat": 32.4,
+      "lng": 35
+    },
+    {
+      "cityName": "Dor",
+      "lat": 32.6088889,
+      "lng": 34.9205556
+    },
+    {
+      "cityName": "`Ein Hakarmel",
+      "lat": 32.6666667,
+      "lng": 34.95
+    },
+    {
+      "cityName": "`Ein Ibrahim",
+      "lat": 32.5361111,
+      "lng": 35.1494444
+    },
+    {
+      "cityName": "`Ein `Iron",
+      "lat": 32.4833333,
+      "lng": 35.0080556
+    },
+    {
+      "cityName": "`Ein Shemer",
+      "lat": 32.4605556,
+      "lng": 35.0058333
+    },
+    {
+      "cityName": "El Fahm",
+      "lat": 32.5158333,
+      "lng": 35.1525
+    },
+    {
+      "cityName": "El Khudeira",
+      "lat": 32.4352778,
+      "lng": 34.9175
+    },
+    {
+      "cityName": "El Murtafi`a",
+      "lat": 32.5461111,
+      "lng": 35.1769444
+    },
+    {
+      "cityName": "El Musheirifa el Fauqa",
+      "lat": 32.55,
+      "lng": 35.15
+    },
+    {
+      "cityName": "El Wardiye",
+      "lat": 32.8,
+      "lng": 35
+    },
+    {
+      "cityName": "Esh Sheikh Bureik",
+      "lat": 32.6666667,
+      "lng": 34.9333333
+    },
+    {
+      "cityName": "Gan Hashomron",
+      "lat": 32.4666667,
+      "lng": 35
+    },
+    {
+      "cityName": "Gan Shemu'el",
+      "lat": 32.45,
+      "lng": 34.95
+    },
+    {
+      "cityName": "Gat Carmel",
+      "lat": 32.3983333,
+      "lng": 35.0397222
+    },
+    {
+      "cityName": "Geva` Carmel",
+      "lat": 32.65,
+      "lng": 34.95
+    },
+    {
+      "cityName": "Giv`at Haviva",
+      "lat": 32.4575,
+      "lng": 35.0205556
+    },
+    {
+      "cityName": "Giv`at Nili",
+      "lat": 32.5488889,
+      "lng": 35.035
+    },
+    {
+      "cityName": "Giv`at Olga",
+      "lat": 32.45,
+      "lng": 34.8833333
+    },
+    {
+      "cityName": "Giv`ot Zaid",
+      "lat": 32.6991667,
+      "lng": 35.1069444
+    },
+    {
+      "cityName": "HaHoterim",
+      "lat": 32.75,
+      "lng": 34.95
+    },
+    {
+      "cityName": "Hatsofim Alef",
+      "lat": 32.5558333,
+      "lng": 34.9141667
+    },
+    {
+      "cityName": "Hefsi-bah",
+      "lat": 32.4666667,
+      "lng": 34.9
+    },
+    {
+      "cityName": "Hirbet Mayser",
+      "lat": 32.4447222,
+      "lng": 35.0419444
+    },
+    {
+      "cityName": "Husha",
+      "lat": 32.7952778,
+      "lng": 35.1147222
+    },
+    {
+      "cityName": "Ijzim",
+      "lat": 32.65,
+      "lng": 34.9833333
+    },
+    {
+      "cityName": "`Ir Ganim",
+      "lat": 32.805,
+      "lng": 35.0733333
+    },
+    {
+      "cityName": "Kafr Qara`",
+      "lat": 32.5016667,
+      "lng": 35.0769444
+    },
+    {
+      "cityName": "Kannir",
+      "lat": 32.525,
+      "lng": 35.0322222
+    },
+    {
+      "cityName": "Kefar `Atah",
+      "lat": 32.8005556,
+      "lng": 35.1063889
+    },
+    {
+      "cityName": "Kefar-Beyaliq",
+      "lat": 32.8166667,
+      "lng": 35.0872222
+    },
+    {
+      "cityName": "Kefar Brandeis",
+      "lat": 32.4166667,
+      "lng": 34.9166667
+    },
+    {
+      "cityName": "Kefar Gallim",
+      "lat": 32.7666667,
+      "lng": 34.95
+    },
+    {
+      "cityName": "Kefar Glickson",
+      "lat": 32.5063889,
+      "lng": 35.0052778
+    },
+    {
+      "cityName": "Kefar HaMaccabi",
+      "lat": 32.7911111,
+      "lng": 35.1163889
+    },
+    {
+      "cityName": "Kefar HaNo`ar HaDati",
+      "lat": 32.7430556,
+      "lng": 35.0961111
+    },
+    {
+      "cityName": "Kefar Hasidim",
+      "lat": 32.7527778,
+      "lng": 35.0955556
+    },
+    {
+      "cityName": "Kefar Pines",
+      "lat": 32.4813889,
+      "lng": 35.0016667
+    },
+    {
+      "cityName": "Kefar Shamir",
+      "lat": 32.8,
+      "lng": 34.95
+    },
+    {
+      "cityName": "Khirbet Kusiya",
+      "lat": 32.4230556,
+      "lng": 35.0036111
+    },
+    {
+      "cityName": "Kiriat Hayim",
+      "lat": 32.8319444,
+      "lng": 35.0561111
+    },
+    {
+      "cityName": "Kiryat-Amal",
+      "lat": 32.7066667,
+      "lng": 35.1302778
+    },
+    {
+      "cityName": "Kiryat Hatechion",
+      "lat": 32.7833333,
+      "lng": 35.0166667
+    },
+    {
+      "cityName": "Kiryat Tivon",
+      "lat": 32.7238889,
+      "lng": 35.1272222
+    },
+    {
+      "cityName": "Kurdani",
+      "lat": 32.8527778,
+      "lng": 35.0961111
+    },
+    {
+      "cityName": "Lahavot Havivah",
+      "lat": 32.3966667,
+      "lng": 35.0105556
+    },
+    {
+      "cityName": "Ma`anit",
+      "lat": 32.4575,
+      "lng": 35.03
+    },
+    {
+      "cityName": "Ma`apilim",
+      "lat": 32.6783333,
+      "lng": 34.9319444
+    },
+    {
+      "cityName": "Ma`ayan",
+      "lat": 32.5666667,
+      "lng": 34.9333333
+    },
+    {
+      "cityName": "Magal",
+      "lat": 32.3838889,
+      "lng": 35.0358333
+    },
+    {
+      "cityName": "Mahane En Shemer",
+      "lat": 32.45,
+      "lng": 35.0166667
+    },
+    {
+      "cityName": "Makura",
+      "lat": 32.6333333,
+      "lng": 35
+    },
+    {
+      "cityName": "Mashrafiyyah",
+      "lat": 32.5533333,
+      "lng": 35.1544444
+    },
+    {
+      "cityName": "Me `Ammi",
+      "lat": 32.5,
+      "lng": 35.15
+    },
+    {
+      "cityName": "Megadim",
+      "lat": 32.7166667,
+      "lng": 34.95
+    },
+    {
+      "cityName": "Meir Shefeyah",
+      "lat": 32.5833333,
+      "lng": 34.95
+    },
+    {
+      "cityName": "Mezer",
+      "lat": 32.4413889,
+      "lng": 35.0480556
+    },
+    {
+      "cityName": "Mishmarot",
+      "lat": 32.4833333,
+      "lng": 34.9833333
+    },
+    {
+      "cityName": "Musmus",
+      "lat": 32.5397222,
+      "lng": 35.1563889
+    },
+    {
+      "cityName": "Nahasholim",
+      "lat": 32.6166667,
+      "lng": 34.9166667
+    },
+    {
+      "cityName": "Nesher",
+      "lat": 32.765,
+      "lng": 35.05
+    },
+    {
+      "cityName": "Neve Haiyim",
+      "lat": 32.45,
+      "lng": 34.9
+    },
+    {
+      "cityName": "Neve Shaanan",
+      "lat": 32.7852778,
+      "lng": 35.0138889
+    },
+    {
+      "cityName": "Nir-'Esyon",
+      "lat": 32.6969444,
+      "lng": 34.9922222
+    },
+    {
+      "cityName": "Oranim",
+      "lat": 32.7091667,
+      "lng": 35.1052778
+    },
+    {
+      "cityName": "Or `Aqiba",
+      "lat": 32.5072222,
+      "lng": 34.9175
+    },
+    {
+      "cityName": "Pardes Hanah",
+      "lat": 32.4711111,
+      "lng": 34.9675
+    },
+    {
+      "cityName": "Qasr Sharayi'",
+      "lat": 32.5,
+      "lng": 35.1333333
+    },
+    {
+      "cityName": "Qiryat Benyamin",
+      "lat": 32.7997222,
+      "lng": 35.0836111
+    },
+    {
+      "cityName": "Qiryat-Beyaliq",
+      "lat": 32.8275,
+      "lng": 35.0858333
+    },
+    {
+      "cityName": "Qiryat Motskin",
+      "lat": 32.8363889,
+      "lng": 35.0752778
+    },
+    {
+      "cityName": "Qiryat Remez",
+      "lat": 32.7816667,
+      "lng": 35.0166667
+    },
+    {
+      "cityName": "Qiryat Shemu'el",
+      "lat": 32.8380556,
+      "lng": 35.0644444
+    },
+    {
+      "cityName": "Qiryat Yam",
+      "lat": 32.8508333,
+      "lng": 35.0702778
+    },
+    {
+      "cityName": "Ramat Yahanan",
+      "lat": 32.7925,
+      "lng": 35.1213889
+    },
+    {
+      "cityName": "Rekhasim",
+      "lat": 32.75,
+      "lng": 35.1
+    },
+    {
+      "cityName": "Salim",
+      "lat": 32.5405556,
+      "lng": 35.2013889
+    },
+    {
+      "cityName": "Sha`ar `Amaqim",
+      "lat": 32.7222222,
+      "lng": 35.1102778
+    },
+    {
+      "cityName": "Sha`ar Ha`aliyah",
+      "lat": 32.8166667,
+      "lng": 34.9666667
+    },
+    {
+      "cityName": "Shekhunat Bet Eli`ezer",
+      "lat": 32.4166667,
+      "lng": 34.95
+    },
+    {
+      "cityName": "Talme El`azar",
+      "lat": 32.45,
+      "lng": 34.9666667
+    },
+    {
+      "cityName": "Tserufa",
+      "lat": 32.6419444,
+      "lng": 34.9397222
+    },
+    {
+      "cityName": "Umm al-Qutuf",
+      "lat": 32.4680556,
+      "lng": 35.0588889
+    },
+    {
+      "cityName": "Ya`arot Hacarmel",
+      "lat": 32.7255556,
+      "lng": 35.0138889
+    },
+    {
+      "cityName": "Yagur",
+      "lat": 32.7375,
+      "lng": 35.0744444
+    },
+    {
+      "cityName": "Yajur",
+      "lat": 32.75,
+      "lng": 35.05
+    },
+    {
+      "cityName": "Zalafa el Gharbiya",
+      "lat": 32.55,
+      "lng": 35.1833333
+    },
+    {
+      "cityName": "Zalafah",
+      "lat": 32.5488889,
+      "lng": 35.1880556
+    },
+    {
+      "cityName": "Zamarin",
+      "lat": 32.5705556,
+      "lng": 34.9519444
+    }
+  ]
+}

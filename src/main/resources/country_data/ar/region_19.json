@@ -1,0 +1,545 @@
+{
+  "name": "Santa Cruz",
+  "cities": [
+    {
+      "cityName": "28 de Noviembre",
+      "lat": -51.65,
+      "lng": -72.3
+    },
+    {
+      "cityName": "Aguada Grande",
+      "lat": -47.3333333,
+      "lng": -67.4833333
+    },
+    {
+      "cityName": "Aike",
+      "lat": -51.65,
+      "lng": -69.5833333
+    },
+    {
+      "cityName": "Antonio de Biedma",
+      "lat": -47.4833333,
+      "lng": -66.5
+    },
+    {
+      "cityName": "Bahía Laura",
+      "lat": -48.4,
+      "lng": -66.4833333
+    },
+    {
+      "cityName": "Bahía Oso Marino",
+      "lat": -47.9333333,
+      "lng": -65.8
+    },
+    {
+      "cityName": "Bajo Caracoles",
+      "lat": -47.45,
+      "lng": -70.9333333
+    },
+    {
+      "cityName": "Bajo Picaso",
+      "lat": -49.05,
+      "lng": -68.3833333
+    },
+    {
+      "cityName": "Cabo Blanco",
+      "lat": -47.2,
+      "lng": -65.75
+    },
+    {
+      "cityName": "Calafate",
+      "lat": -50.3333333,
+      "lng": -72.3
+    },
+    {
+      "cityName": "Caleta Olivia",
+      "lat": -46.4333333,
+      "lng": -67.5333333
+    },
+    {
+      "cityName": "Cañadón 11 de Septiembre",
+      "lat": -48.6833333,
+      "lng": -67.4
+    },
+    {
+      "cityName": "Cañadón de las Vacas",
+      "lat": -50.55,
+      "lng": -69.25
+    },
+    {
+      "cityName": "Cañadón León",
+      "lat": -48.7666667,
+      "lng": -70.25
+    },
+    {
+      "cityName": "Cañadón Seco",
+      "lat": -46.55,
+      "lng": -67.5833333
+    },
+    {
+      "cityName": "Cancha Carrera",
+      "lat": -51.25,
+      "lng": -72.2333333
+    },
+    {
+      "cityName": "Capitán Eyroa",
+      "lat": -51.75,
+      "lng": -70.1
+    },
+    {
+      "cityName": "Casa de Piedra",
+      "lat": -49.9833333,
+      "lng": -68.9
+    },
+    {
+      "cityName": "Casa Riera",
+      "lat": -48.4,
+      "lng": -70.5333333
+    },
+    {
+      "cityName": "Cerro Blanco",
+      "lat": -47.4166667,
+      "lng": -66.7333333
+    },
+    {
+      "cityName": "Charles Fuhr",
+      "lat": -50.2833333,
+      "lng": -71.8833333
+    },
+    {
+      "cityName": "Coig",
+      "lat": -50.95,
+      "lng": -69.2
+    },
+    {
+      "cityName": "Colonia F.P. Moreno",
+      "lat": -50.45,
+      "lng": -72.6666667
+    },
+    {
+      "cityName": "Colonia Las Heras",
+      "lat": -46.55,
+      "lng": -68.95
+    },
+    {
+      "cityName": "Cóndor",
+      "lat": -52.1666667,
+      "lng": -69.05
+    },
+    {
+      "cityName": "Corpen Aike",
+      "lat": -49.5833333,
+      "lng": -69.5
+    },
+    {
+      "cityName": "Coy Aike",
+      "lat": -51.15,
+      "lng": -69.5
+    },
+    {
+      "cityName": "D.E. Ritchie",
+      "lat": -51.9833333,
+      "lng": -70.4
+    },
+    {
+      "cityName": "Deseado",
+      "lat": -47.75,
+      "lng": -65.9
+    },
+    {
+      "cityName": "El Cerrito",
+      "lat": -50.65,
+      "lng": -71.4
+    },
+    {
+      "cityName": "El Choique",
+      "lat": -49.3666667,
+      "lng": -69.7166667
+    },
+    {
+      "cityName": "El Ghio",
+      "lat": -47.3,
+      "lng": -71.4666667
+    },
+    {
+      "cityName": "El Pluma",
+      "lat": -46.4666667,
+      "lng": -70.05
+    },
+    {
+      "cityName": "El Portezuelo",
+      "lat": -46.05,
+      "lng": -71.6666667
+    },
+    {
+      "cityName": "El Salado",
+      "lat": -48.7166667,
+      "lng": -67.7833333
+    },
+    {
+      "cityName": "El Turbio",
+      "lat": -51.6833333,
+      "lng": -72.0833333
+    },
+    {
+      "cityName": "El Volcán",
+      "lat": -47.8833333,
+      "lng": -72.2
+    },
+    {
+      "cityName": "El Zurdo",
+      "lat": -51.9833333,
+      "lng": -71.2333333
+    },
+    {
+      "cityName": "Esperanza",
+      "lat": -51.0166667,
+      "lng": -70.8166667
+    },
+    {
+      "cityName": "Estancia Florida Negra",
+      "lat": -48.4166667,
+      "lng": -67.3833333
+    },
+    {
+      "cityName": "Estancia Gap",
+      "lat": -52.1666667,
+      "lng": -68.5666667
+    },
+    {
+      "cityName": "Estancia Guakenken Aike",
+      "lat": -51.4333333,
+      "lng": -69.8166667
+    },
+    {
+      "cityName": "Estancia H. Felton",
+      "lat": -51.5666667,
+      "lng": -69.2333333
+    },
+    {
+      "cityName": "Estancia La Aragonesa",
+      "lat": -48.0666667,
+      "lng": -69.7833333
+    },
+    {
+      "cityName": "Estancia La Bajada",
+      "lat": -48.8833333,
+      "lng": -69.7
+    },
+    {
+      "cityName": "Estancia La Ensenada",
+      "lat": -48.2833333,
+      "lng": -72.1666667
+    },
+    {
+      "cityName": "Estancia Laiaike",
+      "lat": -49.4,
+      "lng": -68.75
+    },
+    {
+      "cityName": "Estancia La Julia",
+      "lat": -50.2666667,
+      "lng": -71.7333333
+    },
+    {
+      "cityName": "Estancia Las Tres Hermanas",
+      "lat": -47.3166667,
+      "lng": -67.2333333
+    },
+    {
+      "cityName": "Estancia Llaneza",
+      "lat": -48.8833333,
+      "lng": -71.7833333
+    },
+    {
+      "cityName": "Estancia L. Lorenzo",
+      "lat": -49.05,
+      "lng": -67.5833333
+    },
+    {
+      "cityName": "Estancia María Elena",
+      "lat": -49.7666667,
+      "lng": -71.25
+    },
+    {
+      "cityName": "Estancia Mata Grande",
+      "lat": -48.8166667,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "Estancia Monte Aymond",
+      "lat": -52.1333333,
+      "lng": -69.5333333
+    },
+    {
+      "cityName": "Estancia Monte Dinero",
+      "lat": -52.3,
+      "lng": -68.55
+    },
+    {
+      "cityName": "Estancia Monte León",
+      "lat": -50.2333333,
+      "lng": -68.9166667
+    },
+    {
+      "cityName": "Estancia Punta del Lago",
+      "lat": -49.6166667,
+      "lng": -72.0666667
+    },
+    {
+      "cityName": "Estancia Santa Sofía",
+      "lat": -51.8,
+      "lng": -71
+    },
+    {
+      "cityName": "Estancia Tapi Aike",
+      "lat": -51.05,
+      "lng": -71.7666667
+    },
+    {
+      "cityName": "Feltón",
+      "lat": -48.9666667,
+      "lng": -71.4
+    },
+    {
+      "cityName": "Fitz Roy",
+      "lat": -47.0333333,
+      "lng": -67.25
+    },
+    {
+      "cityName": "Flecha Negra",
+      "lat": -47.8333333,
+      "lng": -69.6666667
+    },
+    {
+      "cityName": "Fuentes de Coyle",
+      "lat": -51.0333333,
+      "lng": -71.4833333
+    },
+    {
+      "cityName": "Gallegos",
+      "lat": -51.6333333,
+      "lng": -69.2166667
+    },
+    {
+      "cityName": "Gaypón",
+      "lat": -51.9666667,
+      "lng": -71.4666667
+    },
+    {
+      "cityName": "Gendarme Barreto",
+      "lat": -50.3,
+      "lng": -70.9166667
+    },
+    {
+      "cityName": "Gobernador Mayer",
+      "lat": -51.35,
+      "lng": -70.3
+    },
+    {
+      "cityName": "Gobernador Moyano",
+      "lat": -47.25,
+      "lng": -68.6
+    },
+    {
+      "cityName": "Hotel de Lemarchand",
+      "lat": -50.7666667,
+      "lng": -69.4166667
+    },
+    {
+      "cityName": "Ingeniero Palavecini",
+      "lat": -46.3,
+      "lng": -71.7333333
+    },
+    {
+      "cityName": "J. Albornoz",
+      "lat": -48.4333333,
+      "lng": -68.9666667
+    },
+    {
+      "cityName": "Jaramillo",
+      "lat": -47.1833333,
+      "lng": -67.15
+    },
+    {
+      "cityName": "Kaluel Kaike",
+      "lat": -46.7166667,
+      "lng": -68.2333333
+    },
+    {
+      "cityName": "Lago Buenos Aires",
+      "lat": -46.6,
+      "lng": -70.9333333
+    },
+    {
+      "cityName": "Lago Posadas",
+      "lat": -47.5333333,
+      "lng": -71.75
+    },
+    {
+      "cityName": "Lago San Martín",
+      "lat": -49.15,
+      "lng": -72.0666667
+    },
+    {
+      "cityName": "Lago Viedma",
+      "lat": -49.8,
+      "lng": -72.1166667
+    },
+    {
+      "cityName": "Laguna Grande",
+      "lat": -49.55,
+      "lng": -70.2333333
+    },
+    {
+      "cityName": "La Herrería",
+      "lat": -48.5666667,
+      "lng": -70.55
+    },
+    {
+      "cityName": "La Manchuria",
+      "lat": -48.0666667,
+      "lng": -69.9333333
+    },
+    {
+      "cityName": "La María",
+      "lat": -47.0166667,
+      "lng": -69.8833333
+    },
+    {
+      "cityName": "Las Horquetas",
+      "lat": -48.2333333,
+      "lng": -71.1833333
+    },
+    {
+      "cityName": "Los Antiguos",
+      "lat": -46.55,
+      "lng": -71.6166667
+    },
+    {
+      "cityName": "Los Monos",
+      "lat": -46.0166667,
+      "lng": -69.6
+    },
+    {
+      "cityName": "Mata Amarilla",
+      "lat": -49.6,
+      "lng": -71.2166667
+    },
+    {
+      "cityName": "Mazaredo",
+      "lat": -47.0833333,
+      "lng": -66.7
+    },
+    {
+      "cityName": "Paso del Águila",
+      "lat": -47.8166667,
+      "lng": -71.9833333
+    },
+    {
+      "cityName": "Paso Gobernador Gregores",
+      "lat": -47.8333333,
+      "lng": -66.5833333
+    },
+    {
+      "cityName": "Paso Gregores",
+      "lat": -47.8,
+      "lng": -66.5833333
+    },
+    {
+      "cityName": "Paso Río Bote",
+      "lat": -50.3,
+      "lng": -71.7166667
+    },
+    {
+      "cityName": "Paso Roballo",
+      "lat": -47.1333333,
+      "lng": -71.85
+    },
+    {
+      "cityName": "Pico Troncado",
+      "lat": -46.8,
+      "lng": -67.9666667
+    },
+    {
+      "cityName": "Piedra Clavada",
+      "lat": -46.6,
+      "lng": -68.5333333
+    },
+    {
+      "cityName": "Puerto Bandera",
+      "lat": -50.3,
+      "lng": -72.7833333
+    },
+    {
+      "cityName": "Puerto San Julián",
+      "lat": -49.3,
+      "lng": -67.7166667
+    },
+    {
+      "cityName": "Puerto Santa Cruz",
+      "lat": -50.0166667,
+      "lng": -68.5166667
+    },
+    {
+      "cityName": "Punta del Monte",
+      "lat": -51.6333333,
+      "lng": -71.3
+    },
+    {
+      "cityName": "Rincón Grande",
+      "lat": -50.2833333,
+      "lng": -70.15
+    },
+    {
+      "cityName": "Rincón",
+      "lat": -50.3,
+      "lng": -69.9166667
+    },
+    {
+      "cityName": "Río Chico",
+      "lat": -49.8,
+      "lng": -68.6166667
+    },
+    {
+      "cityName": "Río Turbio",
+      "lat": -51.5333333,
+      "lng": -72.3
+    },
+    {
+      "cityName": "Sindicato Dodero",
+      "lat": -46.0666667,
+      "lng": -67.6333333
+    },
+    {
+      "cityName": "Tamel Aiken",
+      "lat": -48.3166667,
+      "lng": -70.9666667
+    },
+    {
+      "cityName": "Tehuelches",
+      "lat": -46.9333333,
+      "lng": -67.45
+    },
+    {
+      "cityName": "Tellier",
+      "lat": -47.65,
+      "lng": -66.05
+    },
+    {
+      "cityName": "Tres Cerros",
+      "lat": -48.2166667,
+      "lng": -67.55
+    },
+    {
+      "cityName": "Tres Lagos",
+      "lat": -49.6166667,
+      "lng": -71.5
+    },
+    {
+      "cityName": "Tucu Tucu",
+      "lat": -48.4333333,
+      "lng": -71.85
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Chad",
+  "iso2": "td",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Batha",
+      "id": 0
+    },
+    {
+      "name": "Biltine",
+      "id": 1
+    },
+    {
+      "name": "Borkou-Ennedi-Tibesti",
+      "id": 2
+    },
+    {
+      "name": "Chari-Baguirmi",
+      "id": 3
+    },
+    {
+      "name": "Guera",
+      "id": 4
+    },
+    {
+      "name": "Kanem",
+      "id": 5
+    },
+    {
+      "name": "Lac",
+      "id": 6
+    },
+    {
+      "name": "Logone Occidental",
+      "id": 7
+    },
+    {
+      "name": "Logone Oriental",
+      "id": 8
+    },
+    {
+      "name": "Mayo-Kebbi",
+      "id": 9
+    },
+    {
+      "name": "Moyen-Chari",
+      "id": 10
+    },
+    {
+      "name": "Ouaddai",
+      "id": 11
+    },
+    {
+      "name": "Salamat",
+      "id": 12
+    },
+    {
+      "name": "Tandjile",
+      "id": 13
+    }
+  ],
+  "geoRectangle": {
+    "West": 13.4734735489,
+    "East": 24.002664566,
+    "North": 23.4503726959,
+    "South": 7.44106721878
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 1,
+    "Flg": 2,
+    "Name": "N'Djamena",
+    "GeoPt": [
+      12.06,
+      15.02
+    ]
+  }
+}

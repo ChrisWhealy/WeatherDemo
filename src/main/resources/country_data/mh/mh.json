@@ -1,0 +1,38 @@
+{
+  "name": "Marshall Islands",
+  "iso2": "mh",
+  "cities": [
+    {
+      "cityName": "Ine",
+      "lat": 6.9833333,
+      "lng": 171.7
+    },
+    {
+      "cityName": "Jabooru",
+      "lat": 5.9166667,
+      "lng": 169.65
+    },
+    {
+      "cityName": "Majuro",
+      "lat": 7.1,
+      "lng": 171.3833333
+    }
+  ],
+  "regionList": null,
+  "geoRectangle": {
+    "West": 165.524902344,
+    "East": 171.93182373,
+    "North": 14.6200017929,
+    "South": 5.58763837814
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 12,
+    "Flg": 2,
+    "Name": "Majuro",
+    "GeoPt": [
+      7.06,
+      171.23
+    ]
+  }
+}

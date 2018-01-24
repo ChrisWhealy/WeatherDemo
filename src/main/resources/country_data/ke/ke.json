@@ -1,0 +1,55 @@
+{
+  "name": "Kenya",
+  "iso2": "ke",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Central",
+      "id": 0
+    },
+    {
+      "name": "Coast",
+      "id": 1
+    },
+    {
+      "name": "Eastern",
+      "id": 2
+    },
+    {
+      "name": "Nairobi Area",
+      "id": 3
+    },
+    {
+      "name": "North-Eastern",
+      "id": 4
+    },
+    {
+      "name": "Nyanza",
+      "id": 5
+    },
+    {
+      "name": "Rift Valley",
+      "id": 6
+    },
+    {
+      "name": "Western",
+      "id": 7
+    }
+  ],
+  "geoRectangle": {
+    "West": 33.9088516235,
+    "East": 41.8990821838,
+    "North": 5.01993894577,
+    "South": -4.67804765701
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 3,
+    "Flg": 2,
+    "Name": "Nairobi",
+    "GeoPt": [
+      -1.17,
+      36.49
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Uzbekistan",
+  "iso2": "uz",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Andijon",
+      "id": 0
+    },
+    {
+      "name": "Bukhoro",
+      "id": 1
+    },
+    {
+      "name": "Farghona",
+      "id": 2
+    },
+    {
+      "name": "Jizzax",
+      "id": 3
+    },
+    {
+      "name": "Khorazm",
+      "id": 4
+    },
+    {
+      "name": "Namangan",
+      "id": 5
+    },
+    {
+      "name": "Nawoiy",
+      "id": 6
+    },
+    {
+      "name": "Qashqadaryo",
+      "id": 7
+    },
+    {
+      "name": "Qoraqalpoghiston",
+      "id": 8
+    },
+    {
+      "name": "Samarqand",
+      "id": 9
+    },
+    {
+      "name": "Surkhondaryo",
+      "id": 10
+    },
+    {
+      "name": "Toshkent",
+      "id": 11
+    },
+    {
+      "name": "Toshkent",
+      "id": 12
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 13
+    },
+    {
+      "name": "Unnamed region 02",
+      "id": 14
+    }
+  ],
+  "geoRectangle": {
+    "West": 55.9966316223,
+    "East": 73.1322860718,
+    "North": 45.5750083923,
+    "South": 37.1844367981
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 5,
+    "Flg": 2,
+    "Name": "Tashkent",
+    "GeoPt": [
+      41.2,
+      69.18
+    ]
+  }
+}

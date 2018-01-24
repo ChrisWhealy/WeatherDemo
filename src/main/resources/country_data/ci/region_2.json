@@ -1,0 +1,910 @@
+{
+  "name": "Bas-Sassandra",
+  "cities": [
+    {
+      "cityName": "Agnie",
+      "lat": 4.7,
+      "lng": -6.966667
+    },
+    {
+      "cityName": "Aoulo",
+      "lat": 4.55,
+      "lng": -7.033333
+    },
+    {
+      "cityName": "Baba",
+      "lat": 4.783333,
+      "lng": -6.75
+    },
+    {
+      "cityName": "Babéro",
+      "lat": 4.833333,
+      "lng": -6.933333
+    },
+    {
+      "cityName": "Babisco",
+      "lat": 4.8,
+      "lng": -6.916667
+    },
+    {
+      "cityName": "Bablo",
+      "lat": 4.633333,
+      "lng": -6.916667
+    },
+    {
+      "cityName": "Badéké",
+      "lat": 4.75,
+      "lng": -6.9
+    },
+    {
+      "cityName": "Bahi",
+      "lat": 4.766667,
+      "lng": -7
+    },
+    {
+      "cityName": "Bairo",
+      "lat": 4.583333,
+      "lng": -7.383333
+    },
+    {
+      "cityName": "Bako-Mer",
+      "lat": 4.666667,
+      "lng": -6.866667
+    },
+    {
+      "cityName": "Balmer",
+      "lat": 4.716667,
+      "lng": -6.65
+    },
+    {
+      "cityName": "Baoude",
+      "lat": 4.683333,
+      "lng": -6.95
+    },
+    {
+      "cityName": "Baoulo",
+      "lat": 4.4,
+      "lng": -7.383333
+    },
+    {
+      "cityName": "Bapé",
+      "lat": 4.705,
+      "lng": -7.554167
+    },
+    {
+      "cityName": "Bébé",
+      "lat": 4.616667,
+      "lng": -7.25
+    },
+    {
+      "cityName": "Béhouin",
+      "lat": 4.383333,
+      "lng": -7.416667
+    },
+    {
+      "cityName": "Béoué",
+      "lat": 4.55,
+      "lng": -7.366667
+    },
+    {
+      "cityName": "Bérébi",
+      "lat": 4.566667,
+      "lng": -7.016667
+    },
+    {
+      "cityName": "Béséré",
+      "lat": 4.583333,
+      "lng": -7.316667
+    },
+    {
+      "cityName": "Biaré",
+      "lat": 4.783333,
+      "lng": -6.85
+    },
+    {
+      "cityName": "Bigné",
+      "lat": 4.966667,
+      "lng": -6.666667
+    },
+    {
+      "cityName": "Blaou",
+      "lat": 4.9,
+      "lng": -6.516667
+    },
+    {
+      "cityName": "Bléoulo Ouyé",
+      "lat": 4.916667,
+      "lng": -6.633333
+    },
+    {
+      "cityName": "Bliéron",
+      "lat": 4.3625,
+      "lng": -7.524167
+    },
+    {
+      "cityName": "Boklé",
+      "lat": 4.788611,
+      "lng": -7.564167
+    },
+    {
+      "cityName": "Bollo",
+      "lat": 4.866667,
+      "lng": -6.95
+    },
+    {
+      "cityName": "Borou",
+      "lat": 5,
+      "lng": -6.766667
+    },
+    {
+      "cityName": "Boubré",
+      "lat": 4.366667,
+      "lng": -7.483333
+    },
+    {
+      "cityName": "Boumbia",
+      "lat": 4.483333,
+      "lng": -7.566667
+    },
+    {
+      "cityName": "Brédié",
+      "lat": 4.45,
+      "lng": -7.3
+    },
+    {
+      "cityName": "Brétou",
+      "lat": 4.913611,
+      "lng": -7.54
+    },
+    {
+      "cityName": "Bwépé",
+      "lat": 4.666667,
+      "lng": -6.9
+    },
+    {
+      "cityName": "Cablaké",
+      "lat": 4.416667,
+      "lng": -7.366667
+    },
+    {
+      "cityName": "Dahio",
+      "lat": 4.773611,
+      "lng": -7.532222
+    },
+    {
+      "cityName": "Dahoua",
+      "lat": 4.6,
+      "lng": -6.983333
+    },
+    {
+      "cityName": "Déblablé",
+      "lat": 4.633333,
+      "lng": -7.183333
+    },
+    {
+      "cityName": "Déhié",
+      "lat": 4.683333,
+      "lng": -7.333333
+    },
+    {
+      "cityName": "Déhouninké",
+      "lat": 4.75,
+      "lng": -7.383333
+    },
+    {
+      "cityName": "Denié",
+      "lat": 4.383333,
+      "lng": -7.4
+    },
+    {
+      "cityName": "Déwa",
+      "lat": 4.783333,
+      "lng": -7.466667
+    },
+    {
+      "cityName": "Digbé",
+      "lat": 4.716667,
+      "lng": -6.683333
+    },
+    {
+      "cityName": "Dimoulé",
+      "lat": 4.75,
+      "lng": -6.716667
+    },
+    {
+      "cityName": "Dinié",
+      "lat": 4.65,
+      "lng": -7.2
+    },
+    {
+      "cityName": "Dioulahé",
+      "lat": 4.95,
+      "lng": -6.783333
+    },
+    {
+      "cityName": "Djikla",
+      "lat": 4.816667,
+      "lng": -6.916667
+    },
+    {
+      "cityName": "Djoutou",
+      "lat": 4.414167,
+      "lng": -7.509722
+    },
+    {
+      "cityName": "Dodo",
+      "lat": 4.533333,
+      "lng": -7.05
+    },
+    {
+      "cityName": "Dogbalé",
+      "lat": 4.616667,
+      "lng": -6.966667
+    },
+    {
+      "cityName": "Donié",
+      "lat": 4.683333,
+      "lng": -7.45
+    },
+    {
+      "cityName": "Doso",
+      "lat": 4.683333,
+      "lng": -6.833333
+    },
+    {
+      "cityName": "Dotou",
+      "lat": 4.833333,
+      "lng": -6.916667
+    },
+    {
+      "cityName": "Doulakébo",
+      "lat": 4.816667,
+      "lng": -6.4
+    },
+    {
+      "cityName": "Douopo",
+      "lat": 4.433333,
+      "lng": -7.316667
+    },
+    {
+      "cityName": "Fété",
+      "lat": 4.900278,
+      "lng": -7.57
+    },
+    {
+      "cityName": "Gabo",
+      "lat": 4.85,
+      "lng": -6.666667
+    },
+    {
+      "cityName": "Gadio",
+      "lat": 4.688889,
+      "lng": -7.556389
+    },
+    {
+      "cityName": "Gagan",
+      "lat": 4.8,
+      "lng": -6.433333
+    },
+    {
+      "cityName": "Gai",
+      "lat": 4.683333,
+      "lng": -6.85
+    },
+    {
+      "cityName": "Galo",
+      "lat": 4.783333,
+      "lng": -6.933333
+    },
+    {
+      "cityName": "Gamané",
+      "lat": 4.666667,
+      "lng": -6.95
+    },
+    {
+      "cityName": "Georges Town",
+      "lat": 4.603333,
+      "lng": -7.546667
+    },
+    {
+      "cityName": "Gikla",
+      "lat": 4.833333,
+      "lng": -7.583333
+    },
+    {
+      "cityName": "Gimané",
+      "lat": 4.883333,
+      "lng": -7.583333
+    },
+    {
+      "cityName": "Girou",
+      "lat": 4.666667,
+      "lng": -7.333333
+    },
+    {
+      "cityName": "Gli",
+      "lat": 4.783333,
+      "lng": -7.283333
+    },
+    {
+      "cityName": "Gliké",
+      "lat": 4.516667,
+      "lng": -7.3
+    },
+    {
+      "cityName": "Gnagipo",
+      "lat": 4.483333,
+      "lng": -7.233333
+    },
+    {
+      "cityName": "Gnakapéro",
+      "lat": 4.366667,
+      "lng": -7.45
+    },
+    {
+      "cityName": "Gnato",
+      "lat": 4.433333,
+      "lng": -7.533333
+    },
+    {
+      "cityName": "Gnegbagbo",
+      "lat": 4.516667,
+      "lng": -7.166667
+    },
+    {
+      "cityName": "Gninaoloké",
+      "lat": 4.616667,
+      "lng": -7.4
+    },
+    {
+      "cityName": "Gniniourou",
+      "lat": 4.791111,
+      "lng": -7.538333
+    },
+    {
+      "cityName": "Goutouké",
+      "lat": 4.733333,
+      "lng": -7.35
+    },
+    {
+      "cityName": "Grabo",
+      "lat": 4.916667,
+      "lng": -7.5
+    },
+    {
+      "cityName": "Grand Djourou",
+      "lat": 4.733333,
+      "lng": -6.983333
+    },
+    {
+      "cityName": "Grand Tabou",
+      "lat": 4.45,
+      "lng": -7.316667
+    },
+    {
+      "cityName": "Graouro",
+      "lat": 4.383333,
+      "lng": -7.433333
+    },
+    {
+      "cityName": "Gri",
+      "lat": 4.85,
+      "lng": -7.3
+    },
+    {
+      "cityName": "Guéoyo",
+      "lat": 5.816667,
+      "lng": -6.6
+    },
+    {
+      "cityName": "Heké",
+      "lat": 4.716667,
+      "lng": -7.116667
+    },
+    {
+      "cityName": "Hinklo",
+      "lat": 4.7,
+      "lng": -7.05
+    },
+    {
+      "cityName": "Hiréboué",
+      "lat": 4.483333,
+      "lng": -7.25
+    },
+    {
+      "cityName": "Hobo",
+      "lat": 4.733333,
+      "lng": -6.9
+    },
+    {
+      "cityName": "Ibo",
+      "lat": 4.6,
+      "lng": -7.2
+    },
+    {
+      "cityName": "Iboké",
+      "lat": 4.633333,
+      "lng": -7.466667
+    },
+    {
+      "cityName": "Idié",
+      "lat": 4.4725,
+      "lng": -7.559167
+    },
+    {
+      "cityName": "Idio",
+      "lat": 4.616667,
+      "lng": -7.433333
+    },
+    {
+      "cityName": "Iraté",
+      "lat": 4.75,
+      "lng": -7.566667
+    },
+    {
+      "cityName": "Iratéké",
+      "lat": 4.7,
+      "lng": -7.25
+    },
+    {
+      "cityName": "Irépwé",
+      "lat": 4.583333,
+      "lng": -7.2
+    },
+    {
+      "cityName": "Irodioké",
+      "lat": 4.55,
+      "lng": -7.316667
+    },
+    {
+      "cityName": "Iroutou",
+      "lat": 4.677778,
+      "lng": -7.519444
+    },
+    {
+      "cityName": "Itéhi",
+      "lat": 4.516667,
+      "lng": -7.366667
+    },
+    {
+      "cityName": "Kablaké Ouappou",
+      "lat": 4.516667,
+      "lng": -7.2
+    },
+    {
+      "cityName": "Kako",
+      "lat": 4.783333,
+      "lng": -7.016667
+    },
+    {
+      "cityName": "Kanin",
+      "lat": 4.483333,
+      "lng": -7.3
+    },
+    {
+      "cityName": "Képoqué",
+      "lat": 4.55,
+      "lng": -7.333333
+    },
+    {
+      "cityName": "Kétoké",
+      "lat": 4.566667,
+      "lng": -7.383333
+    },
+    {
+      "cityName": "Klana",
+      "lat": 4.65,
+      "lng": -7.033333
+    },
+    {
+      "cityName": "Klo",
+      "lat": 4.716667,
+      "lng": -7.083333
+    },
+    {
+      "cityName": "Klotou",
+      "lat": 4.55,
+      "lng": -7.183333
+    },
+    {
+      "cityName": "Kopéragui",
+      "lat": 5.8,
+      "lng": -6.666667
+    },
+    {
+      "cityName": "Kratoué",
+      "lat": 4.65,
+      "lng": -7.366667
+    },
+    {
+      "cityName": "Krémoué",
+      "lat": 4.883333,
+      "lng": -6.716667
+    },
+    {
+      "cityName": "Krodio",
+      "lat": 4.733333,
+      "lng": -7.5
+    },
+    {
+      "cityName": "Little Poro",
+      "lat": 4.783333,
+      "lng": -6.633333
+    },
+    {
+      "cityName": "Madié",
+      "lat": 4.816667,
+      "lng": -6.416667
+    },
+    {
+      "cityName": "Malan",
+      "lat": 4.816667,
+      "lng": -7.05
+    },
+    {
+      "cityName": "Manéwé",
+      "lat": 4.65,
+      "lng": -7.4
+    },
+    {
+      "cityName": "Mapri",
+      "lat": 4.866667,
+      "lng": -6.55
+    },
+    {
+      "cityName": "Mayo",
+      "lat": 5.8,
+      "lng": -6.616667
+    },
+    {
+      "cityName": "Ménéké",
+      "lat": 4.516667,
+      "lng": -7.266667
+    },
+    {
+      "cityName": "Méné",
+      "lat": 4.7275,
+      "lng": -7.507778
+    },
+    {
+      "cityName": "Naba",
+      "lat": 4.583333,
+      "lng": -7.016667
+    },
+    {
+      "cityName": "Nane",
+      "lat": 4.65,
+      "lng": -7.05
+    },
+    {
+      "cityName": "Néhéno",
+      "lat": 4.533333,
+      "lng": -7.55
+    },
+    {
+      "cityName": "Néplou",
+      "lat": 4.833333,
+      "lng": -7.4
+    },
+    {
+      "cityName": "Nero-Brousse",
+      "lat": 4.8,
+      "lng": -6.933333
+    },
+    {
+      "cityName": "Néro-Mer",
+      "lat": 4.666667,
+      "lng": -6.916667
+    },
+    {
+      "cityName": "Niro",
+      "lat": 4.633333,
+      "lng": -7.45
+    },
+    {
+      "cityName": "Noé",
+      "lat": 4.635278,
+      "lng": -7.553056
+    },
+    {
+      "cityName": "Noubaki",
+      "lat": 4.9,
+      "lng": -7.466667
+    },
+    {
+      "cityName": "Nouhounié",
+      "lat": 4.55,
+      "lng": -7.216667
+    },
+    {
+      "cityName": "Nouin",
+      "lat": 4.95,
+      "lng": -7.533333
+    },
+    {
+      "cityName": "Olodio",
+      "lat": 4.716667,
+      "lng": -7.466667
+    },
+    {
+      "cityName": "Ouabulo",
+      "lat": 4.666667,
+      "lng": -7.083333
+    },
+    {
+      "cityName": "Ouadébo",
+      "lat": 4.5,
+      "lng": -7.383333
+    },
+    {
+      "cityName": "Ouégré",
+      "lat": 4.566667,
+      "lng": -7.316667
+    },
+    {
+      "cityName": "Oulidié",
+      "lat": 4.566667,
+      "lng": -7.183333
+    },
+    {
+      "cityName": "Ourouboué",
+      "lat": 4.633333,
+      "lng": -7.083333
+    },
+    {
+      "cityName": "Ouséto",
+      "lat": 4.821111,
+      "lng": -7.588333
+    },
+    {
+      "cityName": "Outouké",
+      "lat": 4.716667,
+      "lng": -7.55
+    },
+    {
+      "cityName": "Pa",
+      "lat": 4.783333,
+      "lng": -6.833333
+    },
+    {
+      "cityName": "Para",
+      "lat": 4.9,
+      "lng": -6.816667
+    },
+    {
+      "cityName": "Pata",
+      "lat": 4.466667,
+      "lng": -7.55
+    },
+    {
+      "cityName": "Péhiri",
+      "lat": 5.783333,
+      "lng": -6.616667
+    },
+    {
+      "cityName": "Pérou",
+      "lat": 4.8,
+      "lng": -6.85
+    },
+    {
+      "cityName": "Petit Boua",
+      "lat": 4.733333,
+      "lng": -7.033333
+    },
+    {
+      "cityName": "Petit Djourou",
+      "lat": 4.716667,
+      "lng": -6.983333
+    },
+    {
+      "cityName": "Petit Gabo",
+      "lat": 4.866667,
+      "lng": -6.666667
+    },
+    {
+      "cityName": "Petit-Pédro",
+      "lat": 4.766667,
+      "lng": -6.566667
+    },
+    {
+      "cityName": "Piéré",
+      "lat": 5,
+      "lng": -6.65
+    },
+    {
+      "cityName": "Pimé",
+      "lat": 4.416667,
+      "lng": -7.55
+    },
+    {
+      "cityName": "Pitiké",
+      "lat": 4.516667,
+      "lng": -7.183333
+    },
+    {
+      "cityName": "Poday",
+      "lat": 4.816667,
+      "lng": -7.55
+    },
+    {
+      "cityName": "Podio",
+      "lat": 4.883333,
+      "lng": -6.5
+    },
+    {
+      "cityName": "Pont-Yaka",
+      "lat": 4.466667,
+      "lng": -7.383333
+    },
+    {
+      "cityName": "Popogo",
+      "lat": 4.783333,
+      "lng": -6.516667
+    },
+    {
+      "cityName": "Pounié",
+      "lat": 4.533333,
+      "lng": -7.383333
+    },
+    {
+      "cityName": "Préoro",
+      "lat": 4.933333,
+      "lng": -6.75
+    },
+    {
+      "cityName": "Sahouy",
+      "lat": 4.883333,
+      "lng": -6.8
+    },
+    {
+      "cityName": "Sahwi",
+      "lat": 4.916667,
+      "lng": -6.75
+    },
+    {
+      "cityName": "San-Pédro",
+      "lat": 4.733333,
+      "lng": -6.616667
+    },
+    {
+      "cityName": "Satoué",
+      "lat": 4.538611,
+      "lng": -7.561389
+    },
+    {
+      "cityName": "Sekré",
+      "lat": 4.666667,
+      "lng": -6.883333
+    },
+    {
+      "cityName": "Sépétou",
+      "lat": 4.75,
+      "lng": -7.5
+    },
+    {
+      "cityName": "Sétoubé",
+      "lat": 4.748889,
+      "lng": -7.505556
+    },
+    {
+      "cityName": "Siahé",
+      "lat": 4.883333,
+      "lng": -7.483333
+    },
+    {
+      "cityName": "Siouolo",
+      "lat": 4.889444,
+      "lng": -7.574444
+    },
+    {
+      "cityName": "Soglogbé",
+      "lat": 4.55,
+      "lng": -7.2
+    },
+    {
+      "cityName": "Soklodougba",
+      "lat": 4.868333,
+      "lng": -7.575556
+    },
+    {
+      "cityName": "Soto Ouaté",
+      "lat": 4.915556,
+      "lng": -7.526944
+    },
+    {
+      "cityName": "Soubré",
+      "lat": 5.785556,
+      "lng": -6.608333
+    },
+    {
+      "cityName": "Tabéko",
+      "lat": 4.55,
+      "lng": -7.166667
+    },
+    {
+      "cityName": "Tabou",
+      "lat": 4.416667,
+      "lng": -7.35
+    },
+    {
+      "cityName": "Tadio",
+      "lat": 4.866667,
+      "lng": -7.483333
+    },
+    {
+      "cityName": "Taki",
+      "lat": 4.7,
+      "lng": -6.7
+    },
+    {
+      "cityName": "Tanouplou",
+      "lat": 4.718889,
+      "lng": -7.554167
+    },
+    {
+      "cityName": "Taté",
+      "lat": 4.780556,
+      "lng": -7.558889
+    },
+    {
+      "cityName": "Tatou",
+      "lat": 4.6,
+      "lng": -7.4
+    },
+    {
+      "cityName": "Tiboto",
+      "lat": 4.850833,
+      "lng": -7.588333
+    },
+    {
+      "cityName": "Tioulou",
+      "lat": 4.466667,
+      "lng": -7.25
+    },
+    {
+      "cityName": "Toboké",
+      "lat": 4.966667,
+      "lng": -6.783333
+    },
+    {
+      "cityName": "Toulaké",
+      "lat": 4.533333,
+      "lng": -7.216667
+    },
+    {
+      "cityName": "Toupa",
+      "lat": 4.664167,
+      "lng": -7.559167
+    },
+    {
+      "cityName": "Trahé",
+      "lat": 4.716667,
+      "lng": -7.166667
+    },
+    {
+      "cityName": "Wéséké",
+      "lat": 4.5,
+      "lng": -7.283333
+    },
+    {
+      "cityName": "Y'bo",
+      "lat": 4.733333,
+      "lng": -7.383333
+    },
+    {
+      "cityName": "Yédé",
+      "lat": 4.685278,
+      "lng": -7.514722
+    },
+    {
+      "cityName": "Yeouli",
+      "lat": 4.525,
+      "lng": -7.558889
+    },
+    {
+      "cityName": "Yogbopa",
+      "lat": 4.433333,
+      "lng": -7.35
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Brazil",
+  "iso2": "br",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Acre",
+      "id": 0
+    },
+    {
+      "name": "Alagoas",
+      "id": 1
+    },
+    {
+      "name": "Amapa",
+      "id": 2
+    },
+    {
+      "name": "Amazonas",
+      "id": 3
+    },
+    {
+      "name": "Bahia",
+      "id": 4
+    },
+    {
+      "name": "Ceara",
+      "id": 5
+    },
+    {
+      "name": "Distrito Federal",
+      "id": 6
+    },
+    {
+      "name": "Espirito Santo",
+      "id": 7
+    },
+    {
+      "name": "Goias",
+      "id": 8
+    },
+    {
+      "name": "Maranhao",
+      "id": 9
+    },
+    {
+      "name": "Mato Grosso",
+      "id": 10
+    },
+    {
+      "name": "Mato Grosso do Sul",
+      "id": 11
+    },
+    {
+      "name": "Minas Gerais",
+      "id": 12
+    },
+    {
+      "name": "Para",
+      "id": 13
+    },
+    {
+      "name": "Paraiba",
+      "id": 14
+    },
+    {
+      "name": "Parana",
+      "id": 15
+    },
+    {
+      "name": "Pernambuco",
+      "id": 16
+    },
+    {
+      "name": "Piaui",
+      "id": 17
+    },
+    {
+      "name": "Rio Grande do Norte",
+      "id": 18
+    },
+    {
+      "name": "Rio Grande do Sul",
+      "id": 19
+    },
+    {
+      "name": "Rio de Janeiro",
+      "id": 20
+    },
+    {
+      "name": "Rondonia",
+      "id": 21
+    },
+    {
+      "name": "Roraima",
+      "id": 22
+    },
+    {
+      "name": "Santa Catarina",
+      "id": 23
+    },
+    {
+      "name": "Sao Paulo",
+      "id": 24
+    },
+    {
+      "name": "Sergipe",
+      "id": 25
+    },
+    {
+      "name": "Tocantins",
+      "id": 26
+    }
+  ],
+  "geoRectangle": {
+    "West": -73.9855499268,
+    "East": -32.392993927,
+    "North": 5.26487779617,
+    "South": -33.7507133484
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": -3,
+    "Flg": 2,
+    "Name": "Brasilia",
+    "GeoPt": [
+      -15.47,
+      -47.55
+    ]
+  }
+}

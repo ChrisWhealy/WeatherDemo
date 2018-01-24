@@ -1,0 +1,279 @@
+{
+  "name": "Poland",
+  "iso2": "pl",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Dolnoslaskie",
+      "id": 0
+    },
+    {
+      "name": "Kujawsko-Pomorskie",
+      "id": 1
+    },
+    {
+      "name": "Lodzkie",
+      "id": 2
+    },
+    {
+      "name": "Lubelskie",
+      "id": 3
+    },
+    {
+      "name": "Lubuskie",
+      "id": 4
+    },
+    {
+      "name": "Malopolskie",
+      "id": 5
+    },
+    {
+      "name": "Mazowieckie",
+      "id": 6
+    },
+    {
+      "name": "Opolskie",
+      "id": 7
+    },
+    {
+      "name": "Podkarpackie",
+      "id": 8
+    },
+    {
+      "name": "Podlaskie",
+      "id": 9
+    },
+    {
+      "name": "Pomorskie",
+      "id": 10
+    },
+    {
+      "name": "Slaskie",
+      "id": 11
+    },
+    {
+      "name": "Swietokrzyskie",
+      "id": 12
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 13
+    },
+    {
+      "name": "Unnamed region 02",
+      "id": 14
+    },
+    {
+      "name": "Unnamed region 03",
+      "id": 15
+    },
+    {
+      "name": "Unnamed region 04",
+      "id": 16
+    },
+    {
+      "name": "Unnamed region 05",
+      "id": 17
+    },
+    {
+      "name": "Unnamed region 06",
+      "id": 18
+    },
+    {
+      "name": "Unnamed region 07",
+      "id": 19
+    },
+    {
+      "name": "Unnamed region 08",
+      "id": 20
+    },
+    {
+      "name": "Unnamed region 09",
+      "id": 21
+    },
+    {
+      "name": "Unnamed region 10",
+      "id": 22
+    },
+    {
+      "name": "Unnamed region 11",
+      "id": 23
+    },
+    {
+      "name": "Unnamed region 12",
+      "id": 24
+    },
+    {
+      "name": "Unnamed region 13",
+      "id": 25
+    },
+    {
+      "name": "Unnamed region 14",
+      "id": 26
+    },
+    {
+      "name": "Unnamed region 15",
+      "id": 27
+    },
+    {
+      "name": "Unnamed region 16",
+      "id": 28
+    },
+    {
+      "name": "Unnamed region 17",
+      "id": 29
+    },
+    {
+      "name": "Unnamed region 18",
+      "id": 30
+    },
+    {
+      "name": "Unnamed region 19",
+      "id": 31
+    },
+    {
+      "name": "Unnamed region 20",
+      "id": 32
+    },
+    {
+      "name": "Unnamed region 21",
+      "id": 33
+    },
+    {
+      "name": "Unnamed region 22",
+      "id": 34
+    },
+    {
+      "name": "Unnamed region 23",
+      "id": 35
+    },
+    {
+      "name": "Unnamed region 24",
+      "id": 36
+    },
+    {
+      "name": "Unnamed region 25",
+      "id": 37
+    },
+    {
+      "name": "Unnamed region 26",
+      "id": 38
+    },
+    {
+      "name": "Unnamed region 27",
+      "id": 39
+    },
+    {
+      "name": "Unnamed region 28",
+      "id": 40
+    },
+    {
+      "name": "Unnamed region 29",
+      "id": 41
+    },
+    {
+      "name": "Unnamed region 30",
+      "id": 42
+    },
+    {
+      "name": "Unnamed region 31",
+      "id": 43
+    },
+    {
+      "name": "Unnamed region 32",
+      "id": 44
+    },
+    {
+      "name": "Unnamed region 33",
+      "id": 45
+    },
+    {
+      "name": "Unnamed region 34",
+      "id": 46
+    },
+    {
+      "name": "Unnamed region 35",
+      "id": 47
+    },
+    {
+      "name": "Unnamed region 36",
+      "id": 48
+    },
+    {
+      "name": "Unnamed region 37",
+      "id": 49
+    },
+    {
+      "name": "Unnamed region 38",
+      "id": 50
+    },
+    {
+      "name": "Unnamed region 39",
+      "id": 51
+    },
+    {
+      "name": "Unnamed region 40",
+      "id": 52
+    },
+    {
+      "name": "Unnamed region 41",
+      "id": 53
+    },
+    {
+      "name": "Unnamed region 42",
+      "id": 54
+    },
+    {
+      "name": "Unnamed region 43",
+      "id": 55
+    },
+    {
+      "name": "Unnamed region 44",
+      "id": 56
+    },
+    {
+      "name": "Unnamed region 45",
+      "id": 57
+    },
+    {
+      "name": "Unnamed region 46",
+      "id": 58
+    },
+    {
+      "name": "Unnamed region 47",
+      "id": 59
+    },
+    {
+      "name": "Unnamed region 48",
+      "id": 60
+    },
+    {
+      "name": "Warminsko-Mazurskie",
+      "id": 61
+    },
+    {
+      "name": "Wielkopolskie",
+      "id": 62
+    },
+    {
+      "name": "Zachodniopomorskie",
+      "id": 63
+    }
+  ],
+  "geoRectangle": {
+    "West": 14.1229982376,
+    "East": 24.1507511139,
+    "North": 54.8391418457,
+    "South": 49.0063591003
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Warsaw",
+    "GeoPt": [
+      52.15,
+      21
+    ]
+  }
+}

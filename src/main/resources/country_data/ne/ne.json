@@ -1,0 +1,59 @@
+{
+  "name": "Niger",
+  "iso2": "ne",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Agadez",
+      "id": 0
+    },
+    {
+      "name": "Diffa",
+      "id": 1
+    },
+    {
+      "name": "Dosso",
+      "id": 2
+    },
+    {
+      "name": "Maradi",
+      "id": 3
+    },
+    {
+      "name": "Niamey",
+      "id": 4
+    },
+    {
+      "name": "Niamey",
+      "id": 5
+    },
+    {
+      "name": "Tahoua",
+      "id": 6
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 7
+    },
+    {
+      "name": "Zinder",
+      "id": 8
+    }
+  ],
+  "geoRectangle": {
+    "West": 0.166249975562,
+    "East": 15.9956445694,
+    "North": 23.5250282288,
+    "South": 11.6969738007
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Niamey",
+    "GeoPt": [
+      13.31,
+      2.07
+    ]
+  }
+}

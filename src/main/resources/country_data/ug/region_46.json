@@ -1,0 +1,605 @@
+{
+  "name": "Pallisa",
+  "cities": [
+    {
+      "cityName": "Achisa",
+      "lat": 1.3833333,
+      "lng": 33.7
+    },
+    {
+      "cityName": "Adari",
+      "lat": 1.25,
+      "lng": 33.7
+    },
+    {
+      "cityName": "Agaria",
+      "lat": 1.35,
+      "lng": 33.75
+    },
+    {
+      "cityName": "Agu",
+      "lat": 1.4666667,
+      "lng": 33.7
+    },
+    {
+      "cityName": "Agule",
+      "lat": 1.2594444,
+      "lng": 33.7116667
+    },
+    {
+      "cityName": "Akarukwe",
+      "lat": 1.4,
+      "lng": 33.7
+    },
+    {
+      "cityName": "Akisim",
+      "lat": 1.25,
+      "lng": 33.7333333
+    },
+    {
+      "cityName": "Aleles",
+      "lat": 1.3166667,
+      "lng": 33.7
+    },
+    {
+      "cityName": "Amenya",
+      "lat": 1.4,
+      "lng": 33.8333333
+    },
+    {
+      "cityName": "Apapa",
+      "lat": 1.2,
+      "lng": 33.6166667
+    },
+    {
+      "cityName": "Apopongi",
+      "lat": 1.2333333,
+      "lng": 33.65
+    },
+    {
+      "cityName": "Apot",
+      "lat": 1.3666667,
+      "lng": 33.6666667
+    },
+    {
+      "cityName": "Atoto",
+      "lat": 1.4,
+      "lng": 33.7833333
+    },
+    {
+      "cityName": "Bingo",
+      "lat": 0.9333333,
+      "lng": 33.8666667
+    },
+    {
+      "cityName": "Boliso",
+      "lat": 1.1333333,
+      "lng": 33.75
+    },
+    {
+      "cityName": "Bubuke",
+      "lat": 0.8833333,
+      "lng": 33.8
+    },
+    {
+      "cityName": "Budaba",
+      "lat": 0.9,
+      "lng": 33.8166667
+    },
+    {
+      "cityName": "Budaka",
+      "lat": 1.0038889,
+      "lng": 33.9255556
+    },
+    {
+      "cityName": "Bugiri",
+      "lat": 1.0833333,
+      "lng": 33.7166667
+    },
+    {
+      "cityName": "Bugosa",
+      "lat": 0.85,
+      "lng": 33.85
+    },
+    {
+      "cityName": "Bugwangi",
+      "lat": 0.9266667,
+      "lng": 33.9808333
+    },
+    {
+      "cityName": "Bukiralire",
+      "lat": 0.9,
+      "lng": 33.9666667
+    },
+    {
+      "cityName": "Bulangira",
+      "lat": 1.1166667,
+      "lng": 33.9
+    },
+    {
+      "cityName": "Busaba",
+      "lat": 0.8902778,
+      "lng": 33.8508333
+    },
+    {
+      "cityName": "Buseta",
+      "lat": 1.0833333,
+      "lng": 33.75
+    },
+    {
+      "cityName": "Butaleja",
+      "lat": 0.9119444,
+      "lng": 33.9511111
+    },
+    {
+      "cityName": "Butebo",
+      "lat": 1.1727778,
+      "lng": 33.8844444
+    },
+    {
+      "cityName": "Chelekura",
+      "lat": 1.3,
+      "lng": 33.6666667
+    },
+    {
+      "cityName": "Doko",
+      "lat": 0.9333333,
+      "lng": 34.05
+    },
+    {
+      "cityName": "Emerikit",
+      "lat": 0.8444444,
+      "lng": 34.1011111
+    },
+    {
+      "cityName": "Gogonyo",
+      "lat": 1.2338889,
+      "lng": 33.5961111
+    },
+    {
+      "cityName": "Iki Iki",
+      "lat": 1.0841667,
+      "lng": 34.0125
+    },
+    {
+      "cityName": "Irabi",
+      "lat": 0.9666667,
+      "lng": 33.95
+    },
+    {
+      "cityName": "Kabuna",
+      "lat": 1.0833333,
+      "lng": 33.9833333
+    },
+    {
+      "cityName": "Kabuyayi",
+      "lat": 1.1833333,
+      "lng": 33.95
+    },
+    {
+      "cityName": "Kabwangasi",
+      "lat": 1.1197222,
+      "lng": 34.1063889
+    },
+    {
+      "cityName": "Kachango",
+      "lat": 1.25,
+      "lng": 33.6
+    },
+    {
+      "cityName": "Kachonga",
+      "lat": 0.9638889,
+      "lng": 34.0452778
+    },
+    {
+      "cityName": "Kadama",
+      "lat": 1.0175,
+      "lng": 33.8625
+    },
+    {
+      "cityName": "Kadami",
+      "lat": 1.3383333,
+      "lng": 33.795
+    },
+    {
+      "cityName": "Kaderuna",
+      "lat": 1.1,
+      "lng": 33.95
+    },
+    {
+      "cityName": "Kadoki",
+      "lat": 1.4333333,
+      "lng": 33.7666667
+    },
+    {
+      "cityName": "Kadoto",
+      "lat": 1.2,
+      "lng": 33.7333333
+    },
+    {
+      "cityName": "Kagoli",
+      "lat": 1.1333333,
+      "lng": 33.7
+    },
+    {
+      "cityName": "Kagumu",
+      "lat": 1.1,
+      "lng": 33.8666667
+    },
+    {
+      "cityName": "Kagwese",
+      "lat": 1.15,
+      "lng": 33.7
+    },
+    {
+      "cityName": "Kaiti",
+      "lat": 1,
+      "lng": 34.0666667
+    },
+    {
+      "cityName": "Kakoro",
+      "lat": 1.1502778,
+      "lng": 34.0447222
+    },
+    {
+      "cityName": "Kakures",
+      "lat": 1.3,
+      "lng": 33.9166667
+    },
+    {
+      "cityName": "Kalekeru",
+      "lat": 1.1833333,
+      "lng": 34.0333333
+    },
+    {
+      "cityName": "Kameke",
+      "lat": 1.25,
+      "lng": 33.7666667
+    },
+    {
+      "cityName": "Kamonkoli",
+      "lat": 1.0705556,
+      "lng": 34.1027778
+    },
+    {
+      "cityName": "Kamuge",
+      "lat": 1.14,
+      "lng": 33.8141667
+    },
+    {
+      "cityName": "Kangalaba",
+      "lat": 0.9119444,
+      "lng": 34.0819444
+    },
+    {
+      "cityName": "Kanyum",
+      "lat": 1.25,
+      "lng": 33.8666667
+    },
+    {
+      "cityName": "Kapala",
+      "lat": 1.25,
+      "lng": 33.6166667
+    },
+    {
+      "cityName": "Kapyani",
+      "lat": 1.1,
+      "lng": 33.6666667
+    },
+    {
+      "cityName": "Karapata",
+      "lat": 1.4166667,
+      "lng": 33.85
+    },
+    {
+      "cityName": "Kasasira",
+      "lat": 1.1,
+      "lng": 33.7333333
+    },
+    {
+      "cityName": "Kasodo",
+      "lat": 1.15,
+      "lng": 33.6333333
+    },
+    {
+      "cityName": "Katenga",
+      "lat": 1.4666667,
+      "lng": 33.8333333
+    },
+    {
+      "cityName": "Katirio",
+      "lat": 1.05,
+      "lng": 33.75
+    },
+    {
+      "cityName": "Katuke",
+      "lat": 1.2,
+      "lng": 33.7
+    },
+    {
+      "cityName": "Kaukula",
+      "lat": 1.1833333,
+      "lng": 33.6833333
+    },
+    {
+      "cityName": "Kenkebu",
+      "lat": 1.05,
+      "lng": 33.9
+    },
+    {
+      "cityName": "Kibale",
+      "lat": 1.2166667,
+      "lng": 33.7833333
+    },
+    {
+      "cityName": "Kibuku",
+      "lat": 1.0433333,
+      "lng": 33.7975
+    },
+    {
+      "cityName": "Kidoko",
+      "lat": 0.8808333,
+      "lng": 34.1161111
+    },
+    {
+      "cityName": "Kirika",
+      "lat": 0.9833333,
+      "lng": 33.8333333
+    },
+    {
+      "cityName": "Kiriolo",
+      "lat": 1.0166667,
+      "lng": 33.75
+    },
+    {
+      "cityName": "Kobukongori",
+      "lat": 1.5,
+      "lng": 33.7333333
+    },
+    {
+      "cityName": "Kobuku",
+      "lat": 1.5,
+      "lng": 33.7666667
+    },
+    {
+      "cityName": "Kobwin",
+      "lat": 1.4,
+      "lng": 33.75
+    },
+    {
+      "cityName": "Komorok",
+      "lat": 1.2666667,
+      "lng": 33.8
+    },
+    {
+      "cityName": "Kopelo",
+      "lat": 1.45,
+      "lng": 33.75
+    },
+    {
+      "cityName": "Kosopotoit",
+      "lat": 1.3666667,
+      "lng": 33.8333333
+    },
+    {
+      "cityName": "Kosti",
+      "lat": 1.1,
+      "lng": 34.0666667
+    },
+    {
+      "cityName": "Ladoto",
+      "lat": 1.2833333,
+      "lng": 33.8666667
+    },
+    {
+      "cityName": "Lochi",
+      "lat": 1.2,
+      "lng": 33.65
+    },
+    {
+      "cityName": "Lumoto",
+      "lat": 1.1333333,
+      "lng": 33.7333333
+    },
+    {
+      "cityName": "Lwatama",
+      "lat": 1.0166667,
+      "lng": 33.7166667
+    },
+    {
+      "cityName": "Matakojo",
+      "lat": 1.2333333,
+      "lng": 33.7333333
+    },
+    {
+      "cityName": "Mawanga",
+      "lat": 0.9833333,
+      "lng": 34.0166667
+    },
+    {
+      "cityName": "Mazimasa",
+      "lat": 0.9605556,
+      "lng": 34.0455556
+    },
+    {
+      "cityName": "Mbula",
+      "lat": 0.8166667,
+      "lng": 34.1
+    },
+    {
+      "cityName": "Mkongoro",
+      "lat": 1.3016667,
+      "lng": 33.8872222
+    },
+    {
+      "cityName": "Motoi",
+      "lat": 1.3166667,
+      "lng": 33.7833333
+    },
+    {
+      "cityName": "Mukura",
+      "lat": 1.4333333,
+      "lng": 33.85
+    },
+    {
+      "cityName": "Mutumba",
+      "lat": 0.9833333,
+      "lng": 34.1166667
+    },
+    {
+      "cityName": "Nabiganda",
+      "lat": 0.9708333,
+      "lng": 34.0608333
+    },
+    {
+      "cityName": "Nabiswa",
+      "lat": 1.0166667,
+      "lng": 33.8333333
+    },
+    {
+      "cityName": "Naboa",
+      "lat": 1.0327778,
+      "lng": 34.0205556
+    },
+    {
+      "cityName": "Nabugalo",
+      "lat": 1.1333333,
+      "lng": 33.9833333
+    },
+    {
+      "cityName": "Nabuli",
+      "lat": 1.1166667,
+      "lng": 33.8166667
+    },
+    {
+      "cityName": "Nabweyo",
+      "lat": 1.0166667,
+      "lng": 33.9333333
+    },
+    {
+      "cityName": "Najeneti",
+      "lat": 1.15,
+      "lng": 33.6666667
+    },
+    {
+      "cityName": "Nakaloke",
+      "lat": 1.15,
+      "lng": 34.15
+    },
+    {
+      "cityName": "Nalubembe",
+      "lat": 1.05,
+      "lng": 33.8333333
+    },
+    {
+      "cityName": "Namasuka",
+      "lat": 0.8666667,
+      "lng": 34.0833333
+    },
+    {
+      "cityName": "Nankodo",
+      "lat": 1.1,
+      "lng": 33.7
+    },
+    {
+      "cityName": "Nanoko",
+      "lat": 1.05,
+      "lng": 33.7333333
+    },
+    {
+      "cityName": "Nansanga",
+      "lat": 0.9833333,
+      "lng": 33.9
+    },
+    {
+      "cityName": "Natoto",
+      "lat": 1.15,
+      "lng": 33.9666667
+    },
+    {
+      "cityName": "Nawire",
+      "lat": 0.8333333,
+      "lng": 34.05
+    },
+    {
+      "cityName": "Ngora",
+      "lat": 1.4313889,
+      "lng": 33.7772222
+    },
+    {
+      "cityName": "Nyakoi",
+      "lat": 1.3,
+      "lng": 33.8
+    },
+    {
+      "cityName": "Odwarat",
+      "lat": 1.4833333,
+      "lng": 33.7666667
+    },
+    {
+      "cityName": "Ogoma",
+      "lat": 1.4333333,
+      "lng": 33.8333333
+    },
+    {
+      "cityName": "Ogosai",
+      "lat": 1.3333333,
+      "lng": 33.8333333
+    },
+    {
+      "cityName": "Olaicho",
+      "lat": 1.3,
+      "lng": 33.8666667
+    },
+    {
+      "cityName": "Opwateta",
+      "lat": 1.25,
+      "lng": 33.85
+    },
+    {
+      "cityName": "Palissa",
+      "lat": 1.145,
+      "lng": 33.7094444
+    },
+    {
+      "cityName": "Petete",
+      "lat": 1.1491667,
+      "lng": 33.9316667
+    },
+    {
+      "cityName": "Sopsop",
+      "lat": 0.8333333,
+      "lng": 34.0666667
+    },
+    {
+      "cityName": "Suni",
+      "lat": 0.95,
+      "lng": 33.9
+    },
+    {
+      "cityName": "Supa",
+      "lat": 1.1666667,
+      "lng": 33.7333333
+    },
+    {
+      "cityName": "Tademeri",
+      "lat": 0.9902778,
+      "lng": 33.9697222
+    },
+    {
+      "cityName": "Terinyi",
+      "lat": 1,
+      "lng": 33.7666667
+    },
+    {
+      "cityName": "Tiling",
+      "lat": 1.4166667,
+      "lng": 33.7166667
+    },
+    {
+      "cityName": "Wangale",
+      "lat": 0.95,
+      "lng": 34.1
+    }
+  ]
+}

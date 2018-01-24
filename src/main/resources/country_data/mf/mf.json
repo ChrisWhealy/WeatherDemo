@@ -1,0 +1,38 @@
+{
+  "name": "Saint Martin",
+  "iso2": "mf",
+  "capital": {
+    "DLST": "null",
+    "TD": -4,
+    "Flg": 2,
+    "Name": "Marigot",
+    "GeoPt": [
+      18.04,
+      -63.05
+    ]
+  },
+  "geoRectangle": {
+    "West": -63.1527709961,
+    "East": -63.0129890442,
+    "North": 18.1303577423,
+    "South": 18.0522289276
+  },
+  "regionList": null,
+  "cities": [
+    {
+      "cityName": "Quartier D’Orleans Sud",
+      "lng": -63.033539,
+      "lat": 18.069111
+    },
+    {
+      "cityName": "Marigot",
+      "lng": -63.083328,
+      "lat": 18.066669
+    },
+    {
+      "cityName": "Saint-Martin",
+      "lng": -63.066669,
+      "lat": 18.066669
+    }
+  ]
+}

@@ -1,0 +1,5435 @@
+{
+  "name": "Helmand",
+  "cities": [
+    {
+      "cityName": "Aba",
+      "lat": 32.243611,
+      "lng": 64.685
+    },
+    {
+      "cityName": "Abbaakhayi-Nakhri-Saradzh",
+      "lat": 31.718611,
+      "lng": 64.600833
+    },
+    {
+      "cityName": "`Abbasha-ye Helmand",
+      "lat": 31.791667,
+      "lng": 64.566389
+    },
+    {
+      "cityName": "`Abdol",
+      "lat": 31.689167,
+      "lng": 64.303611
+    },
+    {
+      "cityName": "Abd ol Ali Khan Kalay",
+      "lat": 31.33,
+      "lng": 64.275833
+    },
+    {
+      "cityName": "`Abd ol `Alim Kalay",
+      "lat": 31.228611,
+      "lng": 64.205
+    },
+    {
+      "cityName": "`Abdol `Aziz Kalay",
+      "lat": 31.684167,
+      "lng": 64.361389
+    },
+    {
+      "cityName": "`Abd ol Habib Kalay",
+      "lat": 30.724167,
+      "lng": 64.097778
+    },
+    {
+      "cityName": "`Abdollahjan Kalay",
+      "lat": 31.1,
+      "lng": 64.166667
+    },
+    {
+      "cityName": "`Abdollah Kalay",
+      "lat": 31.3,
+      "lng": 64.25
+    },
+    {
+      "cityName": "`Abdollah Kur",
+      "lat": 31.850278,
+      "lng": 64.608333
+    },
+    {
+      "cityName": "`Abd or Rahman Kariz",
+      "lat": 32.177778,
+      "lng": 64.725833
+    },
+    {
+      "cityName": "`Abd or Rashid Kariz",
+      "lat": 31.8025,
+      "lng": 64.498333
+    },
+    {
+      "cityName": "`Abdul`alim Kalay",
+      "lat": 31.704722,
+      "lng": 64.285
+    },
+    {
+      "cityName": "`Abdullah Kalay",
+      "lat": 31.091111,
+      "lng": 64.194167
+    },
+    {
+      "cityName": "Abdullakalay",
+      "lat": 32.058056,
+      "lng": 64.822222
+    },
+    {
+      "cityName": "Abdul Masek",
+      "lat": 32.375278,
+      "lng": 64.998889
+    },
+    {
+      "cityName": "`Abdul Wahed Kalay",
+      "lat": 31.088889,
+      "lng": 64.201111
+    },
+    {
+      "cityName": "Abelan",
+      "lat": 31.553889,
+      "lng": 64.406944
+    },
+    {
+      "cityName": "Abi Jan",
+      "lat": 31.531944,
+      "lng": 64.356944
+    },
+    {
+      "cityName": "Abulhasan",
+      "lat": 32.022222,
+      "lng": 65.043889
+    },
+    {
+      "cityName": "Adina",
+      "lat": 32.391389,
+      "lng": 65.208889
+    },
+    {
+      "cityName": "Adinzai",
+      "lat": 31.863333,
+      "lng": 64.670833
+    },
+    {
+      "cityName": "Adzhrum",
+      "lat": 32.1925,
+      "lng": 64.054722
+    },
+    {
+      "cityName": "Aga-Akhmed",
+      "lat": 32.320278,
+      "lng": 65.009167
+    },
+    {
+      "cityName": "Aghlegh",
+      "lat": 31.9775,
+      "lng": 64.894444
+    },
+    {
+      "cityName": "Ahangaran",
+      "lat": 32.698333,
+      "lng": 64.947222
+    },
+    {
+      "cityName": "Ahmad Khwazi",
+      "lat": 32.296389,
+      "lng": 64.775833
+    },
+    {
+      "cityName": "Ahmad Za'i",
+      "lat": 32.057222,
+      "lng": 64.845278
+    },
+    {
+      "cityName": "Akadzhankalay",
+      "lat": 31.728056,
+      "lng": 64.348889
+    },
+    {
+      "cityName": "Akbarkhannava",
+      "lat": 32.731667,
+      "lng": 64.716944
+    },
+    {
+      "cityName": "Akhond Kheyl",
+      "lat": 32.367778,
+      "lng": 65.1175
+    },
+    {
+      "cityName": "Akhtak",
+      "lat": 32.951389,
+      "lng": 64.761389
+    },
+    {
+      "cityName": "Akram Kalay",
+      "lat": 31.2525,
+      "lng": 64.213333
+    },
+    {
+      "cityName": "Alakadari-Kadzhaki",
+      "lat": 32.323056,
+      "lng": 65.105278
+    },
+    {
+      "cityName": "`Alamo",
+      "lat": 30.521389,
+      "lng": 63.391667
+    },
+    {
+      "cityName": "`Alaqadari Dehe Su",
+      "lat": 30.434722,
+      "lng": 63.307222
+    },
+    {
+      "cityName": "Alasa",
+      "lat": 33.14,
+      "lng": 65.000833
+    },
+    {
+      "cityName": "Albelagh",
+      "lat": 32.3275,
+      "lng": 64.9475
+    },
+    {
+      "cityName": "Albulagh",
+      "lat": 32.336667,
+      "lng": 64.944444
+    },
+    {
+      "cityName": "`Aliabad",
+      "lat": 32.111667,
+      "lng": 64.561389
+    },
+    {
+      "cityName": "Aliabad",
+      "lat": 32.333889,
+      "lng": 64.983333
+    },
+    {
+      "cityName": "Alikhafa",
+      "lat": 32.514444,
+      "lng": 64.404167
+    },
+    {
+      "cityName": "`Alimardankhan Bagat",
+      "lat": 30.505278,
+      "lng": 63.825833
+    },
+    {
+      "cityName": "Alizai",
+      "lat": 32.423056,
+      "lng": 64.468333
+    },
+    {
+      "cityName": "`Aliza'i",
+      "lat": 32.645833,
+      "lng": 64.709167
+    },
+    {
+      "cityName": "Allah Ghuli",
+      "lat": 32.231111,
+      "lng": 64.323611
+    },
+    {
+      "cityName": "Allahnur Kalay",
+      "lat": 31.301111,
+      "lng": 64.252222
+    },
+    {
+      "cityName": "Alokowzi",
+      "lat": 31.703056,
+      "lng": 64.67
+    },
+    {
+      "cityName": "Al'tigi",
+      "lat": 32.576667,
+      "lng": 64.391111
+    },
+    {
+      "cityName": "Amannullakhan Kalay",
+      "lat": 30.741667,
+      "lng": 64.117222
+    },
+    {
+      "cityName": "Amanollah Kalay",
+      "lat": 31.7025,
+      "lng": 64.388056
+    },
+    {
+      "cityName": "Amanollah Kariz",
+      "lat": 31.983333,
+      "lng": 64.827778
+    },
+    {
+      "cityName": "Amanollah Kur",
+      "lat": 31.140833,
+      "lng": 64.171389
+    },
+    {
+      "cityName": "Amimkalay",
+      "lat": 31.706944,
+      "lng": 64.390833
+    },
+    {
+      "cityName": "Amir Mahbata",
+      "lat": 32.237778,
+      "lng": 63.727222
+    },
+    {
+      "cityName": "Amrut",
+      "lat": 32.858333,
+      "lng": 64.575556
+    },
+    {
+      "cityName": "Anarak",
+      "lat": 32.083056,
+      "lng": 64.613611
+    },
+    {
+      "cityName": "Anardzhoy",
+      "lat": 33.125,
+      "lng": 65.099722
+    },
+    {
+      "cityName": "Anay",
+      "lat": 33.111111,
+      "lng": 65.130833
+    },
+    {
+      "cityName": "Andzharak",
+      "lat": 32.141389,
+      "lng": 65.069722
+    },
+    {
+      "cityName": "Andzharan",
+      "lat": 32.382222,
+      "lng": 65.095
+    },
+    {
+      "cityName": "Andzhiri",
+      "lat": 32.525,
+      "lng": 64.340278
+    },
+    {
+      "cityName": "Andzhuman",
+      "lat": 33.011667,
+      "lng": 64.949167
+    },
+    {
+      "cityName": "Angurak",
+      "lat": 33.226111,
+      "lng": 65.1625
+    },
+    {
+      "cityName": "Anizo Kalay",
+      "lat": 31.758056,
+      "lng": 64.4925
+    },
+    {
+      "cityName": "Anjir Shali",
+      "lat": 32.1325,
+      "lng": 64.666944
+    },
+    {
+      "cityName": "Aqa Kalay",
+      "lat": 30.398889,
+      "lng": 63.278889
+    },
+    {
+      "cityName": "Arabkalay",
+      "lat": 31.719167,
+      "lng": 64.348889
+    },
+    {
+      "cityName": "Arnay",
+      "lat": 33.168889,
+      "lng": 65.092222
+    },
+    {
+      "cityName": "Asad",
+      "lat": 32.641111,
+      "lng": 64.9275
+    },
+    {
+      "cityName": "Ashrafi",
+      "lat": 32.175833,
+      "lng": 63.536667
+    },
+    {
+      "cityName": "Asmanian",
+      "lat": 33.088333,
+      "lng": 65.083611
+    },
+    {
+      "cityName": "Aspakay",
+      "lat": 32.840278,
+      "lng": 64.473889
+    },
+    {
+      "cityName": "Atal",
+      "lat": 32.410556,
+      "lng": 65.024167
+    },
+    {
+      "cityName": "Atana",
+      "lat": 33.123056,
+      "lng": 65.071389
+    },
+    {
+      "cityName": "Avgani",
+      "lat": 31.947222,
+      "lng": 64.884722
+    },
+    {
+      "cityName": "Avkhana",
+      "lat": 31.973056,
+      "lng": 64.957222
+    },
+    {
+      "cityName": "Aybak",
+      "lat": 32.729444,
+      "lng": 64.701111
+    },
+    {
+      "cityName": "`Aynak",
+      "lat": 31.510833,
+      "lng": 64.328889
+    },
+    {
+      "cityName": "Azan",
+      "lat": 32.268889,
+      "lng": 64.991389
+    },
+    {
+      "cityName": "Babadzhi",
+      "lat": 33.134444,
+      "lng": 65.059722
+    },
+    {
+      "cityName": "Babaji",
+      "lat": 31.667222,
+      "lng": 64.352222
+    },
+    {
+      "cityName": "Babazangi",
+      "lat": 33.111944,
+      "lng": 65.118056
+    },
+    {
+      "cityName": "Bacha-i-Rabia",
+      "lat": 32.1025,
+      "lng": 64.345
+    },
+    {
+      "cityName": "Badamak",
+      "lat": 32.960556,
+      "lng": 65.026389
+    },
+    {
+      "cityName": "Bagak",
+      "lat": 32.134167,
+      "lng": 64.437778
+    },
+    {
+      "cityName": "Bagarkhel",
+      "lat": 32.338056,
+      "lng": 65.066111
+    },
+    {
+      "cityName": "Bagatay",
+      "lat": 32.669444,
+      "lng": 64.657222
+    },
+    {
+      "cityName": "Bagdzhoy",
+      "lat": 33.085278,
+      "lng": 65.066944
+    },
+    {
+      "cityName": "Bagela",
+      "lat": 32.915833,
+      "lng": 64.946667
+    },
+    {
+      "cityName": "Bagh-e Mehrab",
+      "lat": 32.029167,
+      "lng": 65.078889
+    },
+    {
+      "cityName": "Bagh-e Rabat",
+      "lat": 31.249444,
+      "lng": 64.212222
+    },
+    {
+      "cityName": "Baghe Yosuf",
+      "lat": 32.685,
+      "lng": 65.2075
+    },
+    {
+      "cityName": "Baghran",
+      "lat": 33.008889,
+      "lng": 64.967222
+    },
+    {
+      "cityName": "Bahloi Kalay",
+      "lat": 31.717222,
+      "lng": 64.404722
+    },
+    {
+      "cityName": "Bahramcah",
+      "lat": 29.433333,
+      "lng": 64.05
+    },
+    {
+      "cityName": "Ba'iza'i",
+      "lat": 31.787778,
+      "lng": 64.521944
+    },
+    {
+      "cityName": "Bakhs Abad",
+      "lat": 32.1725,
+      "lng": 64.379167
+    },
+    {
+      "cityName": "Balocan",
+      "lat": 31.679722,
+      "lng": 64.234444
+    },
+    {
+      "cityName": "Baluchi",
+      "lat": 33.1125,
+      "lng": 65.040278
+    },
+    {
+      "cityName": "Balukchau",
+      "lat": 32.379167,
+      "lng": 65.208889
+    },
+    {
+      "cityName": "Baluzay",
+      "lat": 32.147222,
+      "lng": 64.939167
+    },
+    {
+      "cityName": "Bamerowzah",
+      "lat": 30.939444,
+      "lng": 64.144444
+    },
+    {
+      "cityName": "Banader",
+      "lat": 30.5425,
+      "lng": 63.963333
+    },
+    {
+      "cityName": "Band-e Kajaki",
+      "lat": 32.233333,
+      "lng": 65.083333
+    },
+    {
+      "cityName": "Bandi-Kadzhaki",
+      "lat": 32.3275,
+      "lng": 65.128333
+    },
+    {
+      "cityName": "Banekza'i",
+      "lat": 32.193889,
+      "lng": 64.97
+    },
+    {
+      "cityName": "Bano Kalay",
+      "lat": 31.928889,
+      "lng": 64.822222
+    },
+    {
+      "cityName": "Banoza'i",
+      "lat": 32.191389,
+      "lng": 64.979167
+    },
+    {
+      "cityName": "Bara",
+      "lat": 32.198889,
+      "lng": 63.586667
+    },
+    {
+      "cityName": "Bara-i-Janobi",
+      "lat": 32.183333,
+      "lng": 63.583333
+    },
+    {
+      "cityName": "Baranay",
+      "lat": 31.628611,
+      "lng": 64.546667
+    },
+    {
+      "cityName": "Barang",
+      "lat": 31.643333,
+      "lng": 64.736944
+    },
+    {
+      "cityName": "Barekza'i Kalay",
+      "lat": 31.854167,
+      "lng": 64.6425
+    },
+    {
+      "cityName": "Barekzi",
+      "lat": 32.178889,
+      "lng": 64.956667
+    },
+    {
+      "cityName": "Bargana",
+      "lat": 32.104167,
+      "lng": 64.643333
+    },
+    {
+      "cityName": "Barigav",
+      "lat": 32.565556,
+      "lng": 65.083333
+    },
+    {
+      "cityName": "Barikdzhu",
+      "lat": 32.341667,
+      "lng": 65.087778
+    },
+    {
+      "cityName": "Bar-Nau-Zadi-Garbi",
+      "lat": 32.487222,
+      "lng": 64.360278
+    },
+    {
+      "cityName": "Bar-Nau-Zadi-Sharki",
+      "lat": 32.488611,
+      "lng": 64.374722
+    },
+    {
+      "cityName": "Bars",
+      "lat": 33.116389,
+      "lng": 65.035278
+    },
+    {
+      "cityName": "Bars Khola",
+      "lat": 33.093056,
+      "lng": 65.0575
+    },
+    {
+      "cityName": "Bartaka",
+      "lat": 30.944167,
+      "lng": 64.125556
+    },
+    {
+      "cityName": "Basaran",
+      "lat": 31.655,
+      "lng": 64.330278
+    },
+    {
+      "cityName": "Bashleng",
+      "lat": 32.873889,
+      "lng": 64.888889
+    },
+    {
+      "cityName": "Batel",
+      "lat": 32.683611,
+      "lng": 65.0275
+    },
+    {
+      "cityName": "Baur",
+      "lat": 32.385556,
+      "lng": 65.1275
+    },
+    {
+      "cityName": "Baydak",
+      "lat": 31.814167,
+      "lng": 64.86
+    },
+    {
+      "cityName": "Baykhan Kalay",
+      "lat": 31.2625,
+      "lng": 64.244167
+    },
+    {
+      "cityName": "Baykhus",
+      "lat": 32.121667,
+      "lng": 65.079722
+    },
+    {
+      "cityName": "Baysufi",
+      "lat": 32.475556,
+      "lng": 64.351111
+    },
+    {
+      "cityName": "Bazgir",
+      "lat": 33.033611,
+      "lng": 64.978611
+    },
+    {
+      "cityName": "Bazi Deh",
+      "lat": 32.341111,
+      "lng": 64.256111
+    },
+    {
+      "cityName": "Bedak",
+      "lat": 32.151944,
+      "lng": 64.753889
+    },
+    {
+      "cityName": "Benafash",
+      "lat": 32.310278,
+      "lng": 64.956944
+    },
+    {
+      "cityName": "Benaws",
+      "lat": 32.862778,
+      "lng": 64.594167
+    },
+    {
+      "cityName": "Bensham",
+      "lat": 32.306111,
+      "lng": 64.938056
+    },
+    {
+      "cityName": "Berenjak",
+      "lat": 32.980556,
+      "lng": 65.018611
+    },
+    {
+      "cityName": "Biabanak",
+      "lat": 32.189722,
+      "lng": 64.186667
+    },
+    {
+      "cityName": "Bibanak",
+      "lat": 32.349722,
+      "lng": 65.068056
+    },
+    {
+      "cityName": "Bibijan Kala",
+      "lat": 30.463056,
+      "lng": 63.362222
+    },
+    {
+      "cityName": "Bibika",
+      "lat": 32.397778,
+      "lng": 65.205278
+    },
+    {
+      "cityName": "Bist",
+      "lat": 31.589167,
+      "lng": 64.363333
+    },
+    {
+      "cityName": "Bohari Qol",
+      "lat": 33.288056,
+      "lng": 65.239167
+    },
+    {
+      "cityName": "Bolan",
+      "lat": 31.595,
+      "lng": 64.337222
+    },
+    {
+      "cityName": "Borj",
+      "lat": 33.140556,
+      "lng": 65.019444
+    },
+    {
+      "cityName": "Bostanza'i",
+      "lat": 32.230556,
+      "lng": 65.002778
+    },
+    {
+      "cityName": "Budzhban",
+      "lat": 32.983056,
+      "lng": 65.026944
+    },
+    {
+      "cityName": "Bust",
+      "lat": 31.508889,
+      "lng": 64.363333
+    },
+    {
+      "cityName": "Butkhar",
+      "lat": 33.2775,
+      "lng": 65.231944
+    },
+    {
+      "cityName": "Caghalano Ghar",
+      "lat": 31.563611,
+      "lng": 64.428333
+    },
+    {
+      "cityName": "Caghali",
+      "lat": 32.255833,
+      "lng": 64.793889
+    },
+    {
+      "cityName": "Cahak",
+      "lat": 32.609444,
+      "lng": 64.273333
+    },
+    {
+      "cityName": "Cahanjir",
+      "lat": 31.678056,
+      "lng": 64.314444
+    },
+    {
+      "cityName": "Cahanjir Kalay",
+      "lat": 31.674167,
+      "lng": 64.307778
+    },
+    {
+      "cityName": "Caharbagh",
+      "lat": 31.690556,
+      "lng": 64.373056
+    },
+    {
+      "cityName": "Cahardar",
+      "lat": 32.35,
+      "lng": 65.175833
+    },
+    {
+      "cityName": "Cahar Sa`i",
+      "lat": 32.631111,
+      "lng": 64.777778
+    },
+    {
+      "cityName": "Cahe Daraz Karez",
+      "lat": 32.220833,
+      "lng": 64.353889
+    },
+    {
+      "cityName": "Cahgoli",
+      "lat": 32.193056,
+      "lng": 64.310278
+    },
+    {
+      "cityName": "Caka",
+      "lat": 32.119722,
+      "lng": 64.926389
+    },
+    {
+      "cityName": "Cakaw",
+      "lat": 32.085278,
+      "lng": 64.626389
+    },
+    {
+      "cityName": "Caktu",
+      "lat": 33.142222,
+      "lng": 65.051667
+    },
+    {
+      "cityName": "Caman",
+      "lat": 33.016111,
+      "lng": 64.965833
+    },
+    {
+      "cityName": "Cangolak",
+      "lat": 32.4175,
+      "lng": 64.488611
+    },
+    {
+      "cityName": "Cardeh",
+      "lat": 32.213333,
+      "lng": 64.998333
+    },
+    {
+      "cityName": "Carkhandaz",
+      "lat": 31.804167,
+      "lng": 64.551667
+    },
+    {
+      "cityName": "Carmestan",
+      "lat": 32.697222,
+      "lng": 64.571389
+    },
+    {
+      "cityName": "Casma",
+      "lat": 32.183611,
+      "lng": 64.374722
+    },
+    {
+      "cityName": "Casmagak",
+      "lat": 32.9775,
+      "lng": 65.026111
+    },
+    {
+      "cityName": "Caydar",
+      "lat": 32.183333,
+      "lng": 65.062222
+    },
+    {
+      "cityName": "Cehelgazi",
+      "lat": 33.281944,
+      "lng": 65.207778
+    },
+    {
+      "cityName": "Ceya",
+      "lat": 32.9775,
+      "lng": 65.128333
+    },
+    {
+      "cityName": "Chahartu",
+      "lat": 33.2075,
+      "lng": 65.145278
+    },
+    {
+      "cityName": "Chakaw",
+      "lat": 32.280278,
+      "lng": 64.810833
+    },
+    {
+      "cityName": "Chalav'yan",
+      "lat": 32.229167,
+      "lng": 64.814444
+    },
+    {
+      "cityName": "Chanagay",
+      "lat": 32.678333,
+      "lng": 64.682222
+    },
+    {
+      "cityName": "Chardeh",
+      "lat": 32.313333,
+      "lng": 64.7625
+    },
+    {
+      "cityName": "Charez",
+      "lat": 32.18,
+      "lng": 64.948333
+    },
+    {
+      "cityName": "Chashmeh-e-Dalkhak",
+      "lat": 32.016667,
+      "lng": 63.916667
+    },
+    {
+      "cityName": "China",
+      "lat": 31.968056,
+      "lng": 64.800833
+    },
+    {
+      "cityName": "Chinagi",
+      "lat": 32.237778,
+      "lng": 64.954444
+    },
+    {
+      "cityName": "Chinakza",
+      "lat": 32.188056,
+      "lng": 64.953333
+    },
+    {
+      "cityName": "Chogak",
+      "lat": 32.118889,
+      "lng": 65.055
+    },
+    {
+      "cityName": "Choghak",
+      "lat": 32.088056,
+      "lng": 64.850278
+    },
+    {
+      "cityName": "Chul'tan",
+      "lat": 32.407222,
+      "lng": 65.069444
+    },
+    {
+      "cityName": "Dabak",
+      "lat": 32.243611,
+      "lng": 64.676111
+    },
+    {
+      "cityName": "Dab",
+      "lat": 31.900278,
+      "lng": 64.818333
+    },
+    {
+      "cityName": "Dagian",
+      "lat": 31.812222,
+      "lng": 64.615278
+    },
+    {
+      "cityName": "Dag'yan",
+      "lat": 32.313333,
+      "lng": 64.779722
+    },
+    {
+      "cityName": "Dahana",
+      "lat": 32.356111,
+      "lng": 64.516389
+    },
+    {
+      "cityName": "Daktardzhay",
+      "lat": 31.722222,
+      "lng": 64.615
+    },
+    {
+      "cityName": "Dalakan",
+      "lat": 31.716667,
+      "lng": 64.586944
+    },
+    {
+      "cityName": "Dand",
+      "lat": 32.334167,
+      "lng": 64.758056
+    },
+    {
+      "cityName": "Dangarabad",
+      "lat": 32.193611,
+      "lng": 63.556667
+    },
+    {
+      "cityName": "Darakhel",
+      "lat": 32.320833,
+      "lng": 64.772778
+    },
+    {
+      "cityName": "Darautay",
+      "lat": 32.265833,
+      "lng": 64.828889
+    },
+    {
+      "cityName": "Darband",
+      "lat": 32.1225,
+      "lng": 64.056944
+    },
+    {
+      "cityName": "Darbandsar",
+      "lat": 31.74,
+      "lng": 64.680556
+    },
+    {
+      "cityName": "Darra",
+      "lat": 32.596944,
+      "lng": 64.361667
+    },
+    {
+      "cityName": "Darrahe Sah",
+      "lat": 32.789444,
+      "lng": 65.005556
+    },
+    {
+      "cityName": "Daruzi",
+      "lat": 32.315833,
+      "lng": 65.001667
+    },
+    {
+      "cityName": "Darvishan",
+      "lat": 30.983056,
+      "lng": 64.179722
+    },
+    {
+      "cityName": "Darwesan",
+      "lat": 31.133333,
+      "lng": 64.1925
+    },
+    {
+      "cityName": "Dashtak",
+      "lat": 33.282778,
+      "lng": 65.237778
+    },
+    {
+      "cityName": "Dasht",
+      "lat": 32.973333,
+      "lng": 65.0175
+    },
+    {
+      "cityName": "Dasht-e Farhad",
+      "lat": 32.568333,
+      "lng": 64.565278
+    },
+    {
+      "cityName": "Dastagir Khan Kalay",
+      "lat": 31.314722,
+      "lng": 64.248611
+    },
+    {
+      "cityName": "Daudzai",
+      "lat": 32.434444,
+      "lng": 64.48
+    },
+    {
+      "cityName": "Da'uzay",
+      "lat": 32.488889,
+      "lng": 64.43
+    },
+    {
+      "cityName": "Davarshuvundzhay",
+      "lat": 32.339444,
+      "lng": 64.948889
+    },
+    {
+      "cityName": "Davazdah Emam",
+      "lat": 33.154722,
+      "lng": 65.085833
+    },
+    {
+      "cityName": "Davuzay",
+      "lat": 32.262222,
+      "lng": 64.674167
+    },
+    {
+      "cityName": "Dawdan",
+      "lat": 32.343889,
+      "lng": 64.926667
+    },
+    {
+      "cityName": "De Engar Jangal",
+      "lat": 32.140278,
+      "lng": 64.904444
+    },
+    {
+      "cityName": "De Ghoragh Qarya",
+      "lat": 32.303889,
+      "lng": 64.555556
+    },
+    {
+      "cityName": "De Gurjat Karez",
+      "lat": 32.393056,
+      "lng": 64.813056
+    },
+    {
+      "cityName": "Deh Adam Khan",
+      "lat": 31.829444,
+      "lng": 64.5925
+    },
+    {
+      "cityName": "Dehak",
+      "lat": 32.514444,
+      "lng": 65.053611
+    },
+    {
+      "cityName": "De Hazarmishi Kariz",
+      "lat": 32.363333,
+      "lng": 64.833611
+    },
+    {
+      "cityName": "Deh Baba",
+      "lat": 32.372778,
+      "lng": 64.946389
+    },
+    {
+      "cityName": "Dehe Baluc",
+      "lat": 32.397222,
+      "lng": 64.493333
+    },
+    {
+      "cityName": "Deh-e Mastan",
+      "lat": 32.333611,
+      "lng": 64.77
+    },
+    {
+      "cityName": "Dehe Su",
+      "lat": 30.434444,
+      "lng": 63.318333
+    },
+    {
+      "cityName": "Deh Ghawcak",
+      "lat": 32.274167,
+      "lng": 64.796111
+    },
+    {
+      "cityName": "Deh Mastan",
+      "lat": 32.329167,
+      "lng": 64.775
+    },
+    {
+      "cityName": "Deh Mazang",
+      "lat": 31.810278,
+      "lng": 64.558889
+    },
+    {
+      "cityName": "Deh Musak",
+      "lat": 32.3225,
+      "lng": 64.993056
+    },
+    {
+      "cityName": "Deh Sufian",
+      "lat": 32.2825,
+      "lng": 64.791389
+    },
+    {
+      "cityName": "Deh Yak",
+      "lat": 32.740556,
+      "lng": 64.994722
+    },
+    {
+      "cityName": "Deh Zar",
+      "lat": 32.346944,
+      "lng": 64.735278
+    },
+    {
+      "cityName": "Deh Zohr-e Sofla",
+      "lat": 32.306111,
+      "lng": 64.741389
+    },
+    {
+      "cityName": "De Kanat-e Latif",
+      "lat": 32.103889,
+      "lng": 65.042222
+    },
+    {
+      "cityName": "De Karez Keli",
+      "lat": 32.155278,
+      "lng": 64.758333
+    },
+    {
+      "cityName": "De Khakesh Kariz",
+      "lat": 32.009722,
+      "lng": 64.835278
+    },
+    {
+      "cityName": "De Lowy Wayalah Kalay",
+      "lat": 30.596111,
+      "lng": 64.0075
+    },
+    {
+      "cityName": "De M'asum Karez",
+      "lat": 31.803333,
+      "lng": 64.86
+    },
+    {
+      "cityName": "De Musa Qal`eh",
+      "lat": 32.443333,
+      "lng": 64.745
+    },
+    {
+      "cityName": "De Sadi Khan Jomat",
+      "lat": 32.044722,
+      "lng": 64.837778
+    },
+    {
+      "cityName": "De Table Safian",
+      "lat": 31.718611,
+      "lng": 64.635
+    },
+    {
+      "cityName": "De Table Tak",
+      "lat": 31.697222,
+      "lng": 64.643333
+    },
+    {
+      "cityName": "De Toro Obo Kalay",
+      "lat": 32.111667,
+      "lng": 64.879167
+    },
+    {
+      "cityName": "Devalak",
+      "lat": 33.071667,
+      "lng": 64.985556
+    },
+    {
+      "cityName": "Devalan Kalay",
+      "lat": 31.078889,
+      "lng": 64.205
+    },
+    {
+      "cityName": "Devgan",
+      "lat": 31.621667,
+      "lng": 64.493056
+    },
+    {
+      "cityName": "De Yahya Karez",
+      "lat": 32.071389,
+      "lng": 64.914444
+    },
+    {
+      "cityName": "De Zherand Kalay",
+      "lat": 30.569167,
+      "lng": 63.532222
+    },
+    {
+      "cityName": "Din Mohammad Kalay",
+      "lat": 31.242222,
+      "lng": 64.219722
+    },
+    {
+      "cityName": "Dinmohammadkhan Kalay",
+      "lat": 31.135278,
+      "lng": 64.174722
+    },
+    {
+      "cityName": "Dipsang",
+      "lat": 33.112222,
+      "lng": 65.093056
+    },
+    {
+      "cityName": "Divanak",
+      "lat": 32.350833,
+      "lng": 64.506111
+    },
+    {
+      "cityName": "Do Ab",
+      "lat": 32.098056,
+      "lng": 64.825278
+    },
+    {
+      "cityName": "Dogaka",
+      "lat": 32.264167,
+      "lng": 64.783333
+    },
+    {
+      "cityName": "Dor Kheyl",
+      "lat": 30.926111,
+      "lng": 64.152778
+    },
+    {
+      "cityName": "Do Rudi",
+      "lat": 32.802222,
+      "lng": 64.551111
+    },
+    {
+      "cityName": "Do Sakh",
+      "lat": 32.191667,
+      "lng": 64.226944
+    },
+    {
+      "cityName": "Do Sang",
+      "lat": 32.495,
+      "lng": 64.329167
+    },
+    {
+      "cityName": "Dosang",
+      "lat": 33.049444,
+      "lng": 65.0025
+    },
+    {
+      "cityName": "Dostmohammadkhan Kalay",
+      "lat": 31.035278,
+      "lng": 64.182222
+    },
+    {
+      "cityName": "Dota'i",
+      "lat": 32.8575,
+      "lng": 64.561667
+    },
+    {
+      "cityName": "Dubay",
+      "lat": 32.100833,
+      "lng": 64.845278
+    },
+    {
+      "cityName": "Dudvan",
+      "lat": 32.547778,
+      "lng": 65.103611
+    },
+    {
+      "cityName": "Dughol",
+      "lat": 32.485,
+      "lng": 64.97
+    },
+    {
+      "cityName": "Durzay",
+      "lat": 30.666667,
+      "lng": 64.05
+    },
+    {
+      "cityName": "Duzake Pa'in",
+      "lat": 32.256667,
+      "lng": 64.229167
+    },
+    {
+      "cityName": "Duzdak-e Bala",
+      "lat": 32.26,
+      "lng": 64.206667
+    },
+    {
+      "cityName": "Duzno",
+      "lat": 32.26,
+      "lng": 63.8875
+    },
+    {
+      "cityName": "Dzhagatu",
+      "lat": 32.960833,
+      "lng": 64.865556
+    },
+    {
+      "cityName": "Dzhakhazi",
+      "lat": 32.321667,
+      "lng": 64.569167
+    },
+    {
+      "cityName": "Dzhalaluddin",
+      "lat": 32.359167,
+      "lng": 64.410556
+    },
+    {
+      "cityName": "Dzhamal'kalay",
+      "lat": 31.674167,
+      "lng": 64.371111
+    },
+    {
+      "cityName": "Dzhamal'karez",
+      "lat": 32.200833,
+      "lng": 64.378056
+    },
+    {
+      "cityName": "Dzhamal'kor",
+      "lat": 31.725278,
+      "lng": 64.449167
+    },
+    {
+      "cityName": "Dzhanabad",
+      "lat": 32.040278,
+      "lng": 65.048889
+    },
+    {
+      "cityName": "Dzhanmukhammedshakh",
+      "lat": 31.745,
+      "lng": 64.700278
+    },
+    {
+      "cityName": "Dzhanubi-Nurzai",
+      "lat": 31.798889,
+      "lng": 64.598889
+    },
+    {
+      "cityName": "Dzhanubi-Tutak",
+      "lat": 31.984722,
+      "lng": 64.942778
+    },
+    {
+      "cityName": "Dzharchi",
+      "lat": 32.407222,
+      "lng": 65.106389
+    },
+    {
+      "cityName": "Dzhar",
+      "lat": 33.215833,
+      "lng": 65.273889
+    },
+    {
+      "cityName": "Dzhari-Gar",
+      "lat": 32.742778,
+      "lng": 65.0225
+    },
+    {
+      "cityName": "Dzhari-Mukhammed",
+      "lat": 32.587222,
+      "lng": 64.958056
+    },
+    {
+      "cityName": "Dzhari-Shir'yak",
+      "lat": 32.631389,
+      "lng": 64.981111
+    },
+    {
+      "cityName": "Dzharnayl'kala",
+      "lat": 31.66,
+      "lng": 64.651111
+    },
+    {
+      "cityName": "Dzhar'ya",
+      "lat": 32.3825,
+      "lng": 65.134444
+    },
+    {
+      "cityName": "Dzhoman",
+      "lat": 31.654722,
+      "lng": 64.714167
+    },
+    {
+      "cityName": "Dzhosh'yalay",
+      "lat": 32.108889,
+      "lng": 64.892222
+    },
+    {
+      "cityName": "Dzhoybavari",
+      "lat": 32.305278,
+      "lng": 64.780278
+    },
+    {
+      "cityName": "Dzhoydaraz",
+      "lat": 32.464444,
+      "lng": 64.896667
+    },
+    {
+      "cityName": "Dzhoyi-Shakhi",
+      "lat": 31.637222,
+      "lng": 64.678333
+    },
+    {
+      "cityName": "Dzhuglandak",
+      "lat": 32.1275,
+      "lng": 64.901389
+    },
+    {
+      "cityName": "Dzhula",
+      "lat": 32.406944,
+      "lng": 65.143889
+    },
+    {
+      "cityName": "Dzhuzgoray",
+      "lat": 32.208611,
+      "lng": 64.718889
+    },
+    {
+      "cityName": "Emam Rabat",
+      "lat": 32.866667,
+      "lng": 64.699167
+    },
+    {
+      "cityName": "Esizukalay",
+      "lat": 31.6925,
+      "lng": 64.390833
+    },
+    {
+      "cityName": "Eslam Ghoara",
+      "lat": 32.798889,
+      "lng": 65.015278
+    },
+    {
+      "cityName": "`Eydizay",
+      "lat": 32.508056,
+      "lng": 64.448889
+    },
+    {
+      "cityName": "Fakian",
+      "lat": 31.521111,
+      "lng": 64.349722
+    },
+    {
+      "cityName": "Fakirburdzhi",
+      "lat": 31.736111,
+      "lng": 64.439167
+    },
+    {
+      "cityName": "Fakirnika",
+      "lat": 32.284167,
+      "lng": 64.661667
+    },
+    {
+      "cityName": "Fakirpayan-Kalay",
+      "lat": 31.766389,
+      "lng": 64.527222
+    },
+    {
+      "cityName": "Faolad",
+      "lat": 32.3275,
+      "lng": 63.998333
+    },
+    {
+      "cityName": "Faqiran",
+      "lat": 30.901667,
+      "lng": 64.137778
+    },
+    {
+      "cityName": "Fateh Jang",
+      "lat": 32.11,
+      "lng": 64.624444
+    },
+    {
+      "cityName": "Faydzojan Kor",
+      "lat": 31.326667,
+      "lng": 64.231667
+    },
+    {
+      "cityName": "Ferozay",
+      "lat": 32.137778,
+      "lng": 64.921944
+    },
+    {
+      "cityName": "Feydzmohammad Kl",
+      "lat": 31.313889,
+      "lng": 64.276944
+    },
+    {
+      "cityName": "Firuzeh",
+      "lat": 32.487778,
+      "lng": 64.407222
+    },
+    {
+      "cityName": "Gachzar",
+      "lat": 32.415278,
+      "lng": 65.024167
+    },
+    {
+      "cityName": "Gadayzay",
+      "lat": 32.73,
+      "lng": 64.6425
+    },
+    {
+      "cityName": "Gadzhari-Vali",
+      "lat": 31.797778,
+      "lng": 64.576667
+    },
+    {
+      "cityName": "Gambad",
+      "lat": 32.824444,
+      "lng": 64.545833
+    },
+    {
+      "cityName": "Gami-Chaudi",
+      "lat": 32.962778,
+      "lng": 65.014722
+    },
+    {
+      "cityName": "Gamizard",
+      "lat": 32.7275,
+      "lng": 64.728611
+    },
+    {
+      "cityName": "Gandacah",
+      "lat": 32.203889,
+      "lng": 64.333333
+    },
+    {
+      "cityName": "Gandamushk",
+      "lat": 32.115278,
+      "lng": 64.161944
+    },
+    {
+      "cityName": "Gandom Riz-e 'Olya",
+      "lat": 32.386111,
+      "lng": 65.048611
+    },
+    {
+      "cityName": "Gandom Riz-e Sofla",
+      "lat": 32.369722,
+      "lng": 65.060833
+    },
+    {
+      "cityName": "Garaj-e Mohammad Yosufkhan",
+      "lat": 31.813611,
+      "lng": 64.585833
+    },
+    {
+      "cityName": "Garbi-Mukhammedumar-Kalay",
+      "lat": 31.711944,
+      "lng": 64.385278
+    },
+    {
+      "cityName": "Gargaday",
+      "lat": 32.777222,
+      "lng": 64.68
+    },
+    {
+      "cityName": "Gargak",
+      "lat": 32.371944,
+      "lng": 64.930833
+    },
+    {
+      "cityName": "Gargarab",
+      "lat": 32.956111,
+      "lng": 64.899444
+    },
+    {
+      "cityName": "Garma-Dzhanubi",
+      "lat": 32.087222,
+      "lng": 64.665833
+    },
+    {
+      "cityName": "Garma Samali",
+      "lat": 32.103333,
+      "lng": 64.666389
+    },
+    {
+      "cityName": "Garma-Vasati",
+      "lat": 32.094722,
+      "lng": 64.663333
+    },
+    {
+      "cityName": "Garmsir",
+      "lat": 31.116667,
+      "lng": 64.2
+    },
+    {
+      "cityName": "Gartalakili",
+      "lat": 32.353611,
+      "lng": 64.759444
+    },
+    {
+      "cityName": "Gar'yan",
+      "lat": 33.191111,
+      "lng": 65.140556
+    },
+    {
+      "cityName": "Gavand",
+      "lat": 32.425833,
+      "lng": 65.063611
+    },
+    {
+      "cityName": "Gavband",
+      "lat": 31.726389,
+      "lng": 64.700278
+    },
+    {
+      "cityName": "Gavgaray",
+      "lat": 31.612778,
+      "lng": 64.516944
+    },
+    {
+      "cityName": "Gavkhana",
+      "lat": 32.081389,
+      "lng": 65.0775
+    },
+    {
+      "cityName": "Gaysaraka",
+      "lat": 32.292778,
+      "lng": 64.938056
+    },
+    {
+      "cityName": "Gazak",
+      "lat": 32.570833,
+      "lng": 64.917222
+    },
+    {
+      "cityName": "Gazi",
+      "lat": 33.250833,
+      "lng": 65.151111
+    },
+    {
+      "cityName": "Gelgay",
+      "lat": 32.881389,
+      "lng": 65.0325
+    },
+    {
+      "cityName": "Gereshk",
+      "lat": 31.818889,
+      "lng": 64.564722
+    },
+    {
+      "cityName": "Gham Bad",
+      "lat": 32.733333,
+      "lng": 64.533333
+    },
+    {
+      "cityName": "Ghola Husein",
+      "lat": 32.380278,
+      "lng": 64.943889
+    },
+    {
+      "cityName": "Gholam `Alikhan Kalay",
+      "lat": 31.2225,
+      "lng": 64.191944
+    },
+    {
+      "cityName": "Gholam Dastagir Kalay",
+      "lat": 31.755833,
+      "lng": 64.460556
+    },
+    {
+      "cityName": "Gholam Haydar Kor",
+      "lat": 31.064167,
+      "lng": 64.215833
+    },
+    {
+      "cityName": "Gholam Mohammad Kalay",
+      "lat": 31.669722,
+      "lng": 64.354167
+    },
+    {
+      "cityName": "Gholam Mohammad Kor",
+      "lat": 31.076389,
+      "lng": 64.176667
+    },
+    {
+      "cityName": "Gholam Nabi Kalay",
+      "lat": 30.734167,
+      "lng": 64.119167
+    },
+    {
+      "cityName": "Gholamrasul Kor",
+      "lat": 31.228333,
+      "lng": 64.197222
+    },
+    {
+      "cityName": "Gholba",
+      "lat": 32.336667,
+      "lng": 65.079167
+    },
+    {
+      "cityName": "Ghoryan",
+      "lat": 32.563611,
+      "lng": 64.4325
+    },
+    {
+      "cityName": "Ghowjakah",
+      "lat": 32.602778,
+      "lng": 65.079444
+    },
+    {
+      "cityName": "Ghrah-Madow",
+      "lat": 33.155,
+      "lng": 65.01
+    },
+    {
+      "cityName": "Ghulba",
+      "lat": 32.671667,
+      "lng": 64.695278
+    },
+    {
+      "cityName": "Ghulmes",
+      "lat": 32.618611,
+      "lng": 65.178889
+    },
+    {
+      "cityName": "Ghundey",
+      "lat": 31.773889,
+      "lng": 64.511667
+    },
+    {
+      "cityName": "Ghund Kalay",
+      "lat": 32.327222,
+      "lng": 64.756111
+    },
+    {
+      "cityName": "Ghurghori Baba",
+      "lat": 32.129722,
+      "lng": 64.896111
+    },
+    {
+      "cityName": "Ghwayah",
+      "lat": 33.061667,
+      "lng": 65.130278
+    },
+    {
+      "cityName": "Gimak",
+      "lat": 32.108889,
+      "lng": 64.618333
+    },
+    {
+      "cityName": "Giman",
+      "lat": 31.825556,
+      "lng": 64.638333
+    },
+    {
+      "cityName": "Golabad",
+      "lat": 32.116389,
+      "lng": 65.039444
+    },
+    {
+      "cityName": "Gol Banah",
+      "lat": 32.713333,
+      "lng": 64.633611
+    },
+    {
+      "cityName": "Golkhaneh",
+      "lat": 32.668889,
+      "lng": 64.946944
+    },
+    {
+      "cityName": "Gombad",
+      "lat": 32.780278,
+      "lng": 65.012222
+    },
+    {
+      "cityName": "Gonbad",
+      "lat": 31.801944,
+      "lng": 64.538611
+    },
+    {
+      "cityName": "Gonkuch",
+      "lat": 33.225278,
+      "lng": 65.197778
+    },
+    {
+      "cityName": "Gorazan",
+      "lat": 32.266389,
+      "lng": 63.920556
+    },
+    {
+      "cityName": "Gorupe Sas Kalay",
+      "lat": 31.6,
+      "lng": 64.253889
+    },
+    {
+      "cityName": "Gozar-e Sorkh",
+      "lat": 31.644167,
+      "lng": 64.413333
+    },
+    {
+      "cityName": "Gumbate",
+      "lat": 32.273611,
+      "lng": 64.835278
+    },
+    {
+      "cityName": "Gurdah-e `Olya",
+      "lat": 32.506944,
+      "lng": 64.178889
+    },
+    {
+      "cityName": "Gurdzhak",
+      "lat": 32.249167,
+      "lng": 64.711944
+    },
+    {
+      "cityName": "Habibollah Kalay",
+      "lat": 31.845833,
+      "lng": 64.626944
+    },
+    {
+      "cityName": "Haidarabad",
+      "lat": 31.898056,
+      "lng": 64.743333
+    },
+    {
+      "cityName": "Haidarbaji",
+      "lat": 32.364722,
+      "lng": 65.086111
+    },
+    {
+      "cityName": "Haji `Abdurrahim Tak",
+      "lat": 31.686667,
+      "lng": 64.615556
+    },
+    {
+      "cityName": "Haji Amin Kalay",
+      "lat": 31.125278,
+      "lng": 64.189167
+    },
+    {
+      "cityName": "Haji Bahadur",
+      "lat": 31.862222,
+      "lng": 64.698611
+    },
+    {
+      "cityName": "Haji Bakawuddin",
+      "lat": 31.48,
+      "lng": 64.141389
+    },
+    {
+      "cityName": "Haji Bora",
+      "lat": 32.316111,
+      "lng": 64.920556
+    },
+    {
+      "cityName": "Haji Faydzmohammadkhan Kalay",
+      "lat": 31.778611,
+      "lng": 64.513611
+    },
+    {
+      "cityName": "Hajijamal Kalay",
+      "lat": 31.7475,
+      "lng": 64.460278
+    },
+    {
+      "cityName": "Haji Khan Mohammad",
+      "lat": 32.664167,
+      "lng": 64.703333
+    },
+    {
+      "cityName": "Hajikhel",
+      "lat": 32.356111,
+      "lng": 65.027778
+    },
+    {
+      "cityName": "Haji Mir Afdzal Kalay",
+      "lat": 31.886667,
+      "lng": 64.813611
+    },
+    {
+      "cityName": "Hajimirkhan Kalay",
+      "lat": 31.685556,
+      "lng": 64.498611
+    },
+    {
+      "cityName": "Hajimirzakhan Kalay",
+      "lat": 31.737778,
+      "lng": 64.466667
+    },
+    {
+      "cityName": "Haji Mohammadjan Kalay",
+      "lat": 31.051111,
+      "lng": 64.185
+    },
+    {
+      "cityName": "Haji Ne`matullah Kalay",
+      "lat": 31.084722,
+      "lng": 64.165833
+    },
+    {
+      "cityName": "Hajirangin Kl",
+      "lat": 31.255278,
+      "lng": 64.232778
+    },
+    {
+      "cityName": "Haji Sarvar Khan Kalay",
+      "lat": 30.411389,
+      "lng": 63.310278
+    },
+    {
+      "cityName": "Haji Sayed Mohammad Kalay",
+      "lat": 31.896944,
+      "lng": 64.723056
+    },
+    {
+      "cityName": "Hajitori Kalay",
+      "lat": 31.236944,
+      "lng": 64.208611
+    },
+    {
+      "cityName": "Hajitorkhan Kalay",
+      "lat": 31.709722,
+      "lng": 64.564167
+    },
+    {
+      "cityName": "Halaku",
+      "lat": 32.079722,
+      "lng": 64.586667
+    },
+    {
+      "cityName": "Hasanabad",
+      "lat": 32.037778,
+      "lng": 65.067222
+    },
+    {
+      "cityName": "Hasan Gilan",
+      "lat": 32.090833,
+      "lng": 63.695
+    },
+    {
+      "cityName": "Hasan Khel",
+      "lat": 30.914722,
+      "lng": 64.151944
+    },
+    {
+      "cityName": "Hasemkhan Kalay",
+      "lat": 31.195,
+      "lng": 64.175278
+    },
+    {
+      "cityName": "Hatam Kalay",
+      "lat": 31.200833,
+      "lng": 64.182222
+    },
+    {
+      "cityName": "Hazaragan",
+      "lat": 31.806111,
+      "lng": 64.5575
+    },
+    {
+      "cityName": "Hazarboz",
+      "lat": 33.0825,
+      "lng": 65.010556
+    },
+    {
+      "cityName": "Hendu Kala",
+      "lat": 31.725278,
+      "lng": 64.578333
+    },
+    {
+      "cityName": "Herati",
+      "lat": 30.897222,
+      "lng": 64.13
+    },
+    {
+      "cityName": "Hesah-e Tank",
+      "lat": 31.823333,
+      "lng": 64.567778
+    },
+    {
+      "cityName": "Hokumat-e Nad-e `Ali",
+      "lat": 31.6425,
+      "lng": 64.241389
+    },
+    {
+      "cityName": "Hokumati Baghlan",
+      "lat": 33.075278,
+      "lng": 65.086389
+    },
+    {
+      "cityName": "Hokumat Khan",
+      "lat": 32.321111,
+      "lng": 64.967778
+    },
+    {
+      "cityName": "Hosayni Kala",
+      "lat": 31.664444,
+      "lng": 64.533889
+    },
+    {
+      "cityName": "Hosayni Tak",
+      "lat": 31.691111,
+      "lng": 64.568889
+    },
+    {
+      "cityName": "Ingarak",
+      "lat": 32.069722,
+      "lng": 64.657778
+    },
+    {
+      "cityName": "Jalatkhan Kor",
+      "lat": 31.878333,
+      "lng": 64.670278
+    },
+    {
+      "cityName": "Jamshed",
+      "lat": 32.306944,
+      "lng": 64.460278
+    },
+    {
+      "cityName": "Jelejel",
+      "lat": 29.466667,
+      "lng": 63.316667
+    },
+    {
+      "cityName": "Jui Sarkar",
+      "lat": 31.611389,
+      "lng": 64.47
+    },
+    {
+      "cityName": "Kaca",
+      "lat": 31.621944,
+      "lng": 64.6025
+    },
+    {
+      "cityName": "Kadalak",
+      "lat": 32.558611,
+      "lng": 64.246944
+    },
+    {
+      "cityName": "Kadamchakh",
+      "lat": 32.863056,
+      "lng": 64.582778
+    },
+    {
+      "cityName": "Kadirkalay",
+      "lat": 31.850278,
+      "lng": 64.683056
+    },
+    {
+      "cityName": "Kadzhaki",
+      "lat": 32.760278,
+      "lng": 64.548611
+    },
+    {
+      "cityName": "Kadzhaki-Sufla",
+      "lat": 32.282778,
+      "lng": 65.060278
+    },
+    {
+      "cityName": "Kadzhaki-Ulia",
+      "lat": 32.302778,
+      "lng": 65.089722
+    },
+    {
+      "cityName": "Kadzhgird",
+      "lat": 32.159722,
+      "lng": 64.963611
+    },
+    {
+      "cityName": "Kadzhi",
+      "lat": 32.350556,
+      "lng": 65.081389
+    },
+    {
+      "cityName": "Kadzhkar",
+      "lat": 32.799444,
+      "lng": 65.01
+    },
+    {
+      "cityName": "Kafar Koh",
+      "lat": 32.661389,
+      "lng": 64.942222
+    },
+    {
+      "cityName": "Kaj Bed",
+      "lat": 32.787222,
+      "lng": 64.928611
+    },
+    {
+      "cityName": "Kakakhel",
+      "lat": 32.355,
+      "lng": 65.078333
+    },
+    {
+      "cityName": "Kakaran",
+      "lat": 31.675278,
+      "lng": 64.234444
+    },
+    {
+      "cityName": "Kakar",
+      "lat": 31.893611,
+      "lng": 64.768333
+    },
+    {
+      "cityName": "Kalacha",
+      "lat": 32.838611,
+      "lng": 65.037222
+    },
+    {
+      "cityName": "Kalagaz",
+      "lat": 31.972778,
+      "lng": 64.781667
+    },
+    {
+      "cityName": "Kalanah",
+      "lat": 32.997778,
+      "lng": 64.9825
+    },
+    {
+      "cityName": "Kalandzhoy",
+      "lat": 33.178333,
+      "lng": 65.127778
+    },
+    {
+      "cityName": "Kalatae Baghnay",
+      "lat": 32.682778,
+      "lng": 64.985
+    },
+    {
+      "cityName": "Kalaval'",
+      "lat": 32.319722,
+      "lng": 64.758611
+    },
+    {
+      "cityName": "Kalayi-Badam",
+      "lat": 32.529722,
+      "lng": 64.455
+    },
+    {
+      "cityName": "Kalayi-Gaz",
+      "lat": 32.003611,
+      "lng": 64.783611
+    },
+    {
+      "cityName": "Kalayi-Gul'",
+      "lat": 32.337222,
+      "lng": 65.101389
+    },
+    {
+      "cityName": "Kalayi-Nau",
+      "lat": 32.218056,
+      "lng": 64.326389
+    },
+    {
+      "cityName": "Kalayi-Zer",
+      "lat": 32.145278,
+      "lng": 64.591944
+    },
+    {
+      "cityName": "Kalay Siah",
+      "lat": 32.471389,
+      "lng": 64.213611
+    },
+    {
+      "cityName": "Kald",
+      "lat": 32.411389,
+      "lng": 65.093889
+    },
+    {
+      "cityName": "Kaliza",
+      "lat": 32.364444,
+      "lng": 65.113889
+    },
+    {
+      "cityName": "Kamanaki",
+      "lat": 32.764167,
+      "lng": 65.081111
+    },
+    {
+      "cityName": "Kang",
+      "lat": 32.165556,
+      "lng": 64.959722
+    },
+    {
+      "cityName": "Kanzay",
+      "lat": 32.328056,
+      "lng": 65.076944
+    },
+    {
+      "cityName": "Karabag",
+      "lat": 33.263889,
+      "lng": 65.282778
+    },
+    {
+      "cityName": "Karabayi-Kar'yayi-Barang",
+      "lat": 32.2075,
+      "lng": 64.494167
+    },
+    {
+      "cityName": "Karakan",
+      "lat": 32.201111,
+      "lng": 64.125278
+    },
+    {
+      "cityName": "Karak",
+      "lat": 32.220556,
+      "lng": 64.215833
+    },
+    {
+      "cityName": "Karamza'i Kalay",
+      "lat": 30.829444,
+      "lng": 64.124722
+    },
+    {
+      "cityName": "Karezata",
+      "lat": 32.253333,
+      "lng": 64.684167
+    },
+    {
+      "cityName": "Karezay",
+      "lat": 32.033333,
+      "lng": 64.804167
+    },
+    {
+      "cityName": "Karezdei",
+      "lat": 32.373333,
+      "lng": 65.074722
+    },
+    {
+      "cityName": "Kareze Adamkhan",
+      "lat": 33.053333,
+      "lng": 65.090833
+    },
+    {
+      "cityName": "Kareze Afghan",
+      "lat": 32.39,
+      "lng": 64.486389
+    },
+    {
+      "cityName": "Kareze Bahadur",
+      "lat": 32.366389,
+      "lng": 64.878611
+    },
+    {
+      "cityName": "Kareze Bedake Khurd",
+      "lat": 32.825278,
+      "lng": 64.896111
+    },
+    {
+      "cityName": "Kareze Celcagh",
+      "lat": 32.348611,
+      "lng": 64.948889
+    },
+    {
+      "cityName": "Kareze Deh",
+      "lat": 32.345,
+      "lng": 64.808889
+    },
+    {
+      "cityName": "Kareze Gharib",
+      "lat": 32.392222,
+      "lng": 64.983889
+    },
+    {
+      "cityName": "Kareze Hosayn",
+      "lat": 33.1325,
+      "lng": 65.1325
+    },
+    {
+      "cityName": "Kareze `Isa Khan",
+      "lat": 32.161111,
+      "lng": 64.771389
+    },
+    {
+      "cityName": "Kareze Julji Abdurrahman",
+      "lat": 32.346389,
+      "lng": 64.879444
+    },
+    {
+      "cityName": "Kareze Julji",
+      "lat": 32.339167,
+      "lng": 64.868056
+    },
+    {
+      "cityName": "Kareze Khandeq",
+      "lat": 32.3475,
+      "lng": 64.991389
+    },
+    {
+      "cityName": "Kareze Kuka",
+      "lat": 32.043611,
+      "lng": 64.800833
+    },
+    {
+      "cityName": "Kareze Kundagha",
+      "lat": 32.367222,
+      "lng": 64.944722
+    },
+    {
+      "cityName": "Kareze Landay",
+      "lat": 32.373611,
+      "lng": 64.925
+    },
+    {
+      "cityName": "Kareze Mirzi",
+      "lat": 32.356389,
+      "lng": 64.938611
+    },
+    {
+      "cityName": "Kareze Mo`in Abad",
+      "lat": 32.357778,
+      "lng": 64.978056
+    },
+    {
+      "cityName": "Kareze Mughri",
+      "lat": 32.3625,
+      "lng": 64.997222
+    },
+    {
+      "cityName": "Kareze Nadamat",
+      "lat": 32.375556,
+      "lng": 64.818333
+    },
+    {
+      "cityName": "Kareze Naswaryan",
+      "lat": 32.376944,
+      "lng": 64.941111
+    },
+    {
+      "cityName": "Kareze Naw Gharbi",
+      "lat": 32.4125,
+      "lng": 65.117778
+    },
+    {
+      "cityName": "Kareze Naw",
+      "lat": 32.189722,
+      "lng": 63.775278
+    },
+    {
+      "cityName": "Kareze Naw Sarqi",
+      "lat": 32.400833,
+      "lng": 65.140833
+    },
+    {
+      "cityName": "Kareze Pir",
+      "lat": 32.338611,
+      "lng": 64.799167
+    },
+    {
+      "cityName": "Kareze Pirzay Caharbagh",
+      "lat": 32.351389,
+      "lng": 64.944722
+    },
+    {
+      "cityName": "Kareze Popalzay",
+      "lat": 32.359722,
+      "lng": 64.978889
+    },
+    {
+      "cityName": "Kareze Qambaryan",
+      "lat": 32.364167,
+      "lng": 64.980278
+    },
+    {
+      "cityName": "Kareze Safed",
+      "lat": 32.122222,
+      "lng": 64.442778
+    },
+    {
+      "cityName": "Kareze Sahr",
+      "lat": 32.358056,
+      "lng": 64.993333
+    },
+    {
+      "cityName": "Kareze Sang",
+      "lat": 32.143333,
+      "lng": 64.440833
+    },
+    {
+      "cityName": "Kareze Sarcasma",
+      "lat": 32.3975,
+      "lng": 64.980833
+    },
+    {
+      "cityName": "Kareze Saydi",
+      "lat": 31.557222,
+      "lng": 64.119167
+    },
+    {
+      "cityName": "Kareze Sayedane Janubi",
+      "lat": 32.353056,
+      "lng": 64.981944
+    },
+    {
+      "cityName": "Kareze Sayedane Samali",
+      "lat": 32.383889,
+      "lng": 64.976389
+    },
+    {
+      "cityName": "Kareze Surkh",
+      "lat": 32.368889,
+      "lng": 64.966944
+    },
+    {
+      "cityName": "Kareze Tajoy",
+      "lat": 32.341389,
+      "lng": 64.943889
+    },
+    {
+      "cityName": "Kareze Walang",
+      "lat": 32.354167,
+      "lng": 64.989444
+    },
+    {
+      "cityName": "Kareze Yedel",
+      "lat": 32.334444,
+      "lng": 64.938333
+    },
+    {
+      "cityName": "Kareze Zyarat",
+      "lat": 32.135833,
+      "lng": 64.156389
+    },
+    {
+      "cityName": "Karezga",
+      "lat": 32.383611,
+      "lng": 65.209444
+    },
+    {
+      "cityName": "Karez Gholam",
+      "lat": 32.198889,
+      "lng": 64.768611
+    },
+    {
+      "cityName": "Karezi-Khodzha-Paksar",
+      "lat": 32.334167,
+      "lng": 64.932778
+    },
+    {
+      "cityName": "Karezi-Nau",
+      "lat": 32.331111,
+      "lng": 64.872778
+    },
+    {
+      "cityName": "Karez-i-Safed",
+      "lat": 32.312778,
+      "lng": 63.973333
+    },
+    {
+      "cityName": "Karezi-Safed",
+      "lat": 32.385278,
+      "lng": 65.013333
+    },
+    {
+      "cityName": "Karez",
+      "lat": 31.547222,
+      "lng": 64.360833
+    },
+    {
+      "cityName": "Karezkeran",
+      "lat": 32.2975,
+      "lng": 64.825
+    },
+    {
+      "cityName": "Karezmusa",
+      "lat": 32.082778,
+      "lng": 64.593333
+    },
+    {
+      "cityName": "Karezsafed",
+      "lat": 32.058333,
+      "lng": 64.682778
+    },
+    {
+      "cityName": "Karghu",
+      "lat": 32.8925,
+      "lng": 64.931944
+    },
+    {
+      "cityName": "Karisakhib-Kalay",
+      "lat": 31.711111,
+      "lng": 64.274722
+    },
+    {
+      "cityName": "Kartakah",
+      "lat": 30.887778,
+      "lng": 64.089444
+    },
+    {
+      "cityName": "Karvangah",
+      "lat": 32.009444,
+      "lng": 64.052778
+    },
+    {
+      "cityName": "Kar'yakul'kak",
+      "lat": 32.4,
+      "lng": 64.005556
+    },
+    {
+      "cityName": "Kar'yayi-Barang",
+      "lat": 32.243611,
+      "lng": 64.495
+    },
+    {
+      "cityName": "Kar'yayi-Bedak",
+      "lat": 32.816667,
+      "lng": 64.871389
+    },
+    {
+      "cityName": "Kar'yayi-Chakharband",
+      "lat": 32.707222,
+      "lng": 64.603889
+    },
+    {
+      "cityName": "Kar'yayi-China",
+      "lat": 32.3425,
+      "lng": 64.774444
+    },
+    {
+      "cityName": "Kar'yayi-Chinar",
+      "lat": 32.704722,
+      "lng": 64.985278
+    },
+    {
+      "cityName": "Kar'yayi-Chivin",
+      "lat": 32.794167,
+      "lng": 64.57
+    },
+    {
+      "cityName": "Kar'yayi-Darband",
+      "lat": 32.446389,
+      "lng": 64.192222
+    },
+    {
+      "cityName": "Kar'yayi-Fulad",
+      "lat": 32.338056,
+      "lng": 64.021111
+    },
+    {
+      "cityName": "Kar'yayi-Galabed",
+      "lat": 32.349444,
+      "lng": 64.067222
+    },
+    {
+      "cityName": "Kar'yayi-Kachsardar",
+      "lat": 32.406111,
+      "lng": 64.758611
+    },
+    {
+      "cityName": "Kar'yayi-Kachsharbat",
+      "lat": 32.415556,
+      "lng": 64.757222
+    },
+    {
+      "cityName": "Kar'yayi-Kani-Bala",
+      "lat": 32.366389,
+      "lng": 64.241111
+    },
+    {
+      "cityName": "Kar'yayi-Kundzhak",
+      "lat": 32.355556,
+      "lng": 64.794722
+    },
+    {
+      "cityName": "Kar'yayi-Langar",
+      "lat": 32.183333,
+      "lng": 64.383889
+    },
+    {
+      "cityName": "Kar'yayi-Largar",
+      "lat": 32.318056,
+      "lng": 64.465
+    },
+    {
+      "cityName": "Kar'yayi-Malang",
+      "lat": 32.364444,
+      "lng": 64.512778
+    },
+    {
+      "cityName": "Kar'yayi-Malikshakh",
+      "lat": 32.671111,
+      "lng": 64.862222
+    },
+    {
+      "cityName": "Kar'yayi-Mandzha",
+      "lat": 32.201389,
+      "lng": 64.309722
+    },
+    {
+      "cityName": "Kar'yayi-Nau-Dekh",
+      "lat": 32.256111,
+      "lng": 64.291667
+    },
+    {
+      "cityName": "Kar'yayi-Razdani-Sufla",
+      "lat": 32.331944,
+      "lng": 64.4
+    },
+    {
+      "cityName": "Kar'yayi-Rubat",
+      "lat": 32.486389,
+      "lng": 64.165
+    },
+    {
+      "cityName": "Kar'yayi-Sarfulad",
+      "lat": 32.341944,
+      "lng": 64.054722
+    },
+    {
+      "cityName": "Kar'yayi-Sher'yak",
+      "lat": 32.670556,
+      "lng": 64.971667
+    },
+    {
+      "cityName": "Kar'yayi-Shurambaz",
+      "lat": 32.466944,
+      "lng": 64.248611
+    },
+    {
+      "cityName": "Kar'yayi-Tabut",
+      "lat": 32.3575,
+      "lng": 64.546111
+    },
+    {
+      "cityName": "Kar'yayi-Yakakhak",
+      "lat": 32.346389,
+      "lng": 64.774167
+    },
+    {
+      "cityName": "Kashkarakah",
+      "lat": 32.977222,
+      "lng": 64.910833
+    },
+    {
+      "cityName": "Kasimlur",
+      "lat": 32.399722,
+      "lng": 65.075556
+    },
+    {
+      "cityName": "Katmut'yan",
+      "lat": 31.886667,
+      "lng": 64.706111
+    },
+    {
+      "cityName": "Kaur",
+      "lat": 32.985,
+      "lng": 65.010833
+    },
+    {
+      "cityName": "Kelak",
+      "lat": 32.738889,
+      "lng": 65.14
+    },
+    {
+      "cityName": "Keni `Olya",
+      "lat": 32.354444,
+      "lng": 64.274167
+    },
+    {
+      "cityName": "Keni Sofla",
+      "lat": 32.363056,
+      "lng": 64.26
+    },
+    {
+      "cityName": "Kenjak-e `Olya",
+      "lat": 32.508889,
+      "lng": 64.483056
+    },
+    {
+      "cityName": "Kenjak-e Soflá",
+      "lat": 32.474444,
+      "lng": 64.483333
+    },
+    {
+      "cityName": "Keshmesh Khan",
+      "lat": 32.408611,
+      "lng": 65.139722
+    },
+    {
+      "cityName": "Keshvar",
+      "lat": 32.31,
+      "lng": 63.974722
+    },
+    {
+      "cityName": "Khairabad",
+      "lat": 30.575278,
+      "lng": 63.610833
+    },
+    {
+      "cityName": "Khak-e Jahannam",
+      "lat": 32.356111,
+      "lng": 65.115833
+    },
+    {
+      "cityName": "Khakrezval'",
+      "lat": 31.610278,
+      "lng": 64.786389
+    },
+    {
+      "cityName": "Khalamat",
+      "lat": 33.100833,
+      "lng": 65.096389
+    },
+    {
+      "cityName": "Khalavak",
+      "lat": 32.339167,
+      "lng": 65.089444
+    },
+    {
+      "cityName": "Khalifa-Anvar-Kor",
+      "lat": 31.6975,
+      "lng": 64.395278
+    },
+    {
+      "cityName": "Khalifa-Shirin-Kor",
+      "lat": 31.741389,
+      "lng": 64.444167
+    },
+    {
+      "cityName": "Khalifatadzh-Kalay",
+      "lat": 31.717222,
+      "lng": 64.418333
+    },
+    {
+      "cityName": "Khamand `Abdollah Kalay",
+      "lat": 31.308889,
+      "lng": 64.256111
+    },
+    {
+      "cityName": "Khandan",
+      "lat": 33.125,
+      "lng": 65.045833
+    },
+    {
+      "cityName": "Khaneshin",
+      "lat": 30.549444,
+      "lng": 63.789722
+    },
+    {
+      "cityName": "Khan Ghulbah",
+      "lat": 32.662778,
+      "lng": 64.703333
+    },
+    {
+      "cityName": "Khani Khel",
+      "lat": 32.508333,
+      "lng": 64.409722
+    },
+    {
+      "cityName": "Khanjak Mazar",
+      "lat": 32.615,
+      "lng": 64.923333
+    },
+    {
+      "cityName": "Khankhel",
+      "lat": 31.674444,
+      "lng": 64.348889
+    },
+    {
+      "cityName": "Khan Mohammad Kalay",
+      "lat": 31.246667,
+      "lng": 64.220278
+    },
+    {
+      "cityName": "Khara Kuh",
+      "lat": 31.066667,
+      "lng": 64.116667
+    },
+    {
+      "cityName": "Kharbed",
+      "lat": 33.310278,
+      "lng": 65.256111
+    },
+    {
+      "cityName": "Kharzar",
+      "lat": 33.100556,
+      "lng": 65.054444
+    },
+    {
+      "cityName": "Khashow Kalay",
+      "lat": 31.678333,
+      "lng": 64.630833
+    },
+    {
+      "cityName": "Khavay",
+      "lat": 32.5425,
+      "lng": 64.246667
+    },
+    {
+      "cityName": "Khayraday",
+      "lat": 32.198611,
+      "lng": 64.246389
+    },
+    {
+      "cityName": "Khayrmohammad Kalay",
+      "lat": 31.741111,
+      "lng": 64.47
+    },
+    {
+      "cityName": "Khazanadar Kala",
+      "lat": 31.732222,
+      "lng": 64.406944
+    },
+    {
+      "cityName": "Khedrak",
+      "lat": 33.202222,
+      "lng": 64.886389
+    },
+    {
+      "cityName": "Khenjakak",
+      "lat": 32.415833,
+      "lng": 65.126667
+    },
+    {
+      "cityName": "Khersab",
+      "lat": 33.314444,
+      "lng": 65.168889
+    },
+    {
+      "cityName": "Kherwaray",
+      "lat": 32.193889,
+      "lng": 64.731389
+    },
+    {
+      "cityName": "Khnd",
+      "lat": 32.984167,
+      "lng": 64.792222
+    },
+    {
+      "cityName": "Khoca'i",
+      "lat": 32.301944,
+      "lng": 64.979722
+    },
+    {
+      "cityName": "Khoda'i Nazar Khan Bagat",
+      "lat": 30.511667,
+      "lng": 63.791389
+    },
+    {
+      "cityName": "Khodaydad Sakh",
+      "lat": 31.751111,
+      "lng": 64.698611
+    },
+    {
+      "cityName": "Khoda-ye Rahm",
+      "lat": 31.715,
+      "lng": 64.411667
+    },
+    {
+      "cityName": "Khodayrahm Sakh",
+      "lat": 31.741667,
+      "lng": 64.690833
+    },
+    {
+      "cityName": "Khodzha-Akhmed",
+      "lat": 31.761389,
+      "lng": 64.469722
+    },
+    {
+      "cityName": "Khodzhaangal'",
+      "lat": 32.931667,
+      "lng": 64.8475
+    },
+    {
+      "cityName": "Khodzhaata-Baba",
+      "lat": 31.589722,
+      "lng": 64.327778
+    },
+    {
+      "cityName": "Khodzha-Aziz",
+      "lat": 32.371667,
+      "lng": 65.108611
+    },
+    {
+      "cityName": "Khodzha-Bakhauddin",
+      "lat": 33.116667,
+      "lng": 65.100278
+    },
+    {
+      "cityName": "Khodzhadad",
+      "lat": 32.219167,
+      "lng": 64.818333
+    },
+    {
+      "cityName": "Khodzhagarmab",
+      "lat": 32.668611,
+      "lng": 64.938611
+    },
+    {
+      "cityName": "Khodzhakaura",
+      "lat": 33.031944,
+      "lng": 64.916389
+    },
+    {
+      "cityName": "Khodzhalal'",
+      "lat": 32.437222,
+      "lng": 64.7375
+    },
+    {
+      "cityName": "Khodzha-Murad",
+      "lat": 31.876111,
+      "lng": 64.696389
+    },
+    {
+      "cityName": "Khog'yani-Mirmandav",
+      "lat": 31.871111,
+      "lng": 64.711667
+    },
+    {
+      "cityName": "Khola Abad",
+      "lat": 32.346111,
+      "lng": 65.0825
+    },
+    {
+      "cityName": "Khomari",
+      "lat": 31.996389,
+      "lng": 64.808889
+    },
+    {
+      "cityName": "Khorasan",
+      "lat": 32.219444,
+      "lng": 63.808889
+    },
+    {
+      "cityName": "Khoshk Abeh",
+      "lat": 31.651944,
+      "lng": 64.635556
+    },
+    {
+      "cityName": "Khoshkab",
+      "lat": 33.104722,
+      "lng": 65.106111
+    },
+    {
+      "cityName": "Khowshdel Kalay",
+      "lat": 31.677778,
+      "lng": 64.375
+    },
+    {
+      "cityName": "Khowshhal Kalay",
+      "lat": 31.6075,
+      "lng": 64.209444
+    },
+    {
+      "cityName": "Khrah Sangah",
+      "lat": 33.089444,
+      "lng": 65.204444
+    },
+    {
+      "cityName": "Khubian",
+      "lat": 33.139722,
+      "lng": 65.120556
+    },
+    {
+      "cityName": "Khugani",
+      "lat": 32.386111,
+      "lng": 65.210833
+    },
+    {
+      "cityName": "Khumak",
+      "lat": 32.322778,
+      "lng": 64.3325
+    },
+    {
+      "cityName": "Khum Bolagh",
+      "lat": 32.585278,
+      "lng": 65.096667
+    },
+    {
+      "cityName": "Khvajeh `Ali Bala",
+      "lat": 30.333333,
+      "lng": 63.233333
+    },
+    {
+      "cityName": "Khvajeh `Ali-e Bala",
+      "lat": 30.338056,
+      "lng": 63.230278
+    },
+    {
+      "cityName": "Khvajeh `Ali-e Pa'in",
+      "lat": 30.251111,
+      "lng": 63.063889
+    },
+    {
+      "cityName": "Khvajeh `Ali Sehyakah",
+      "lat": 30.292778,
+      "lng": 63.178056
+    },
+    {
+      "cityName": "Khvajeh Zangi Baba",
+      "lat": 32.087778,
+      "lng": 63.979722
+    },
+    {
+      "cityName": "Kinaatsurat",
+      "lat": 32.183056,
+      "lng": 65.028056
+    },
+    {
+      "cityName": "Kismabad",
+      "lat": 32.115556,
+      "lng": 64.621389
+    },
+    {
+      "cityName": "Kocak",
+      "lat": 32.328056,
+      "lng": 64.983333
+    },
+    {
+      "cityName": "Kochonay Khanjak",
+      "lat": 32.084722,
+      "lng": 64.682778
+    },
+    {
+      "cityName": "Kochonay Kubar",
+      "lat": 32.159722,
+      "lng": 64.825556
+    },
+    {
+      "cityName": "Kokacel",
+      "lat": 32.285833,
+      "lng": 64.99
+    },
+    {
+      "cityName": "Koraha-i-Arghandab",
+      "lat": 31.54,
+      "lng": 64.393333
+    },
+    {
+      "cityName": "Kor'yayi-Nabatat",
+      "lat": 31.623611,
+      "lng": 64.24
+    },
+    {
+      "cityName": "Koshtay",
+      "lat": 30.958056,
+      "lng": 64.168333
+    },
+    {
+      "cityName": "Kotay",
+      "lat": 32.370833,
+      "lng": 65.078889
+    },
+    {
+      "cityName": "Kotayzay",
+      "lat": 32.124167,
+      "lng": 64.913611
+    },
+    {
+      "cityName": "Kozi-Mukhammed-Akhundzada",
+      "lat": 31.718333,
+      "lng": 64.648611
+    },
+    {
+      "cityName": "Ksatta Ajrum",
+      "lat": 32.1575,
+      "lng": 64.039167
+    },
+    {
+      "cityName": "Ksatta Bajaghar",
+      "lat": 32.285556,
+      "lng": 64.97
+    },
+    {
+      "cityName": "Ksatta-bum",
+      "lat": 33.150833,
+      "lng": 65.033611
+    },
+    {
+      "cityName": "Ksatta Geryan",
+      "lat": 32.747778,
+      "lng": 65.058333
+    },
+    {
+      "cityName": "Ksatta Jeljay",
+      "lat": 32.316944,
+      "lng": 64.869722
+    },
+    {
+      "cityName": "Ksatta Malazay",
+      "lat": 32.138611,
+      "lng": 64.932778
+    },
+    {
+      "cityName": "Ksatta Qeblatu",
+      "lat": 32.952778,
+      "lng": 64.991111
+    },
+    {
+      "cityName": "Ksatta Talaregh",
+      "lat": 32.323889,
+      "lng": 64.963611
+    },
+    {
+      "cityName": "Ksatta Wezdan",
+      "lat": 32.854444,
+      "lng": 64.858889
+    },
+    {
+      "cityName": "Kuchkak",
+      "lat": 32.668056,
+      "lng": 65.190833
+    },
+    {
+      "cityName": "Kuchnay-Karez",
+      "lat": 32.110556,
+      "lng": 65.051944
+    },
+    {
+      "cityName": "Kuchnay Regay",
+      "lat": 32.216667,
+      "lng": 64.804444
+    },
+    {
+      "cityName": "Kuchnay Yaklang",
+      "lat": 31.666667,
+      "lng": 64.616389
+    },
+    {
+      "cityName": "Kul Ekhtiar",
+      "lat": 31.721667,
+      "lng": 64.41
+    },
+    {
+      "cityName": "Kundar",
+      "lat": 32.180556,
+      "lng": 64.375833
+    },
+    {
+      "cityName": "Kunder",
+      "lat": 32.261111,
+      "lng": 64.815278
+    },
+    {
+      "cityName": "Kundzhakkalay",
+      "lat": 32.826944,
+      "lng": 65.021944
+    },
+    {
+      "cityName": "Kundzhak",
+      "lat": 31.951111,
+      "lng": 64.783889
+    },
+    {
+      "cityName": "Kundzhin",
+      "lat": 32.764167,
+      "lng": 65.010833
+    },
+    {
+      "cityName": "Kurgay",
+      "lat": 32.304722,
+      "lng": 64.458889
+    },
+    {
+      "cityName": "Kushk",
+      "lat": 32.33,
+      "lng": 64.59
+    },
+    {
+      "cityName": "Kuti Sufla",
+      "lat": 32.384722,
+      "lng": 65.0675
+    },
+    {
+      "cityName": "Kuti-Ulia",
+      "lat": 32.390833,
+      "lng": 65.062778
+    },
+    {
+      "cityName": "Labe Joy",
+      "lat": 32.424722,
+      "lng": 65.135833
+    },
+    {
+      "cityName": "Lagari-Tamiran",
+      "lat": 31.574167,
+      "lng": 64.2025
+    },
+    {
+      "cityName": "Lakhsak Kalay",
+      "lat": 31.733889,
+      "lng": 64.365556
+    },
+    {
+      "cityName": "Lala Gol Kowr",
+      "lat": 31.731667,
+      "lng": 64.434444
+    },
+    {
+      "cityName": "Lalazi",
+      "lat": 32.175833,
+      "lng": 64.945278
+    },
+    {
+      "cityName": "La`l-e Mohammad Khan Kala",
+      "lat": 30.414444,
+      "lng": 63.336667
+    },
+    {
+      "cityName": "Lali Kalay",
+      "lat": 31.322778,
+      "lng": 64.283611
+    },
+    {
+      "cityName": "Landae",
+      "lat": 31.613889,
+      "lng": 64.739444
+    },
+    {
+      "cityName": "Landaykarez",
+      "lat": 32.136944,
+      "lng": 64.041667
+    },
+    {
+      "cityName": "Landay",
+      "lat": 30.528889,
+      "lng": 63.795278
+    },
+    {
+      "cityName": "Langare Sah",
+      "lat": 31.812222,
+      "lng": 64.570556
+    },
+    {
+      "cityName": "Langar",
+      "lat": 32.258611,
+      "lng": 63.857778
+    },
+    {
+      "cityName": "Lapatu",
+      "lat": 32.260833,
+      "lng": 64.402778
+    },
+    {
+      "cityName": "Lar-e Bala",
+      "lat": 32.131944,
+      "lng": 64.291944
+    },
+    {
+      "cityName": "Lar-e Pa'in",
+      "lat": 32.065833,
+      "lng": 64.293056
+    },
+    {
+      "cityName": "Larvanay",
+      "lat": 32.795556,
+      "lng": 65.088889
+    },
+    {
+      "cityName": "Lashkarakh",
+      "lat": 32.228611,
+      "lng": 64.694444
+    },
+    {
+      "cityName": "Lashkar Bazar",
+      "lat": 31.595833,
+      "lng": 64.416111
+    },
+    {
+      "cityName": "Lech",
+      "lat": 30.248333,
+      "lng": 63.038611
+    },
+    {
+      "cityName": "Ledzhay",
+      "lat": 33.144167,
+      "lng": 65.133056
+    },
+    {
+      "cityName": "Lejak",
+      "lat": 32.831389,
+      "lng": 64.904722
+    },
+    {
+      "cityName": "Levan'yan",
+      "lat": 32.805833,
+      "lng": 65.011389
+    },
+    {
+      "cityName": "Lolah Zangay",
+      "lat": 32.112778,
+      "lng": 64.518611
+    },
+    {
+      "cityName": "Loy Bagh",
+      "lat": 31.630556,
+      "lng": 64.259167
+    },
+    {
+      "cityName": "Loy-Khandzhak",
+      "lat": 32.131111,
+      "lng": 64.562222
+    },
+    {
+      "cityName": "Loy Khut",
+      "lat": 32.996667,
+      "lng": 64.781667
+    },
+    {
+      "cityName": "Loy Kobar",
+      "lat": 32.140278,
+      "lng": 64.826667
+    },
+    {
+      "cityName": "Lundak",
+      "lat": 32.279444,
+      "lng": 64.289722
+    },
+    {
+      "cityName": "Lundkarez",
+      "lat": 32.011111,
+      "lng": 64.765833
+    },
+    {
+      "cityName": "Luramir",
+      "lat": 32.073889,
+      "lng": 64.486667
+    },
+    {
+      "cityName": "L'varbadzhagar",
+      "lat": 32.2975,
+      "lng": 64.959444
+    },
+    {
+      "cityName": "L'varbum",
+      "lat": 33.152222,
+      "lng": 65.0225
+    },
+    {
+      "cityName": "L'vargir'yan",
+      "lat": 32.733611,
+      "lng": 65.079167
+    },
+    {
+      "cityName": "L'varkiblatu",
+      "lat": 32.933611,
+      "lng": 64.988333
+    },
+    {
+      "cityName": "L'varmalazi",
+      "lat": 32.1775,
+      "lng": 64.976111
+    },
+    {
+      "cityName": "L'varsaidan",
+      "lat": 31.819167,
+      "lng": 64.583611
+    },
+    {
+      "cityName": "L'vartalarig",
+      "lat": 32.328333,
+      "lng": 64.958611
+    },
+    {
+      "cityName": "L'vartangi",
+      "lat": 32.352222,
+      "lng": 64.345556
+    },
+    {
+      "cityName": "L'varvizdan",
+      "lat": 32.863611,
+      "lng": 64.882778
+    },
+    {
+      "cityName": "L'varzargin",
+      "lat": 32.937222,
+      "lng": 64.922222
+    },
+    {
+      "cityName": "Lwar Jeljay",
+      "lat": 32.335278,
+      "lng": 64.866111
+    },
+    {
+      "cityName": "Machikheyl'",
+      "lat": 32.340833,
+      "lng": 65.071389
+    },
+    {
+      "cityName": "Magaytu",
+      "lat": 32.908333,
+      "lng": 64.866389
+    },
+    {
+      "cityName": "Mahian",
+      "lat": 33.222222,
+      "lng": 65.212778
+    },
+    {
+      "cityName": "Maidani",
+      "lat": 32.224167,
+      "lng": 64.978611
+    },
+    {
+      "cityName": "Majid Kaka Kalay",
+      "lat": 31.337778,
+      "lng": 64.277222
+    },
+    {
+      "cityName": "Makah",
+      "lat": 32.740833,
+      "lng": 65.056667
+    },
+    {
+      "cityName": "Malah Khan",
+      "lat": 30.491389,
+      "lng": 63.385833
+    },
+    {
+      "cityName": "Malang",
+      "lat": 32.857778,
+      "lng": 64.8475
+    },
+    {
+      "cityName": "Malek Anwar Kalay",
+      "lat": 31.06,
+      "lng": 64.199444
+    },
+    {
+      "cityName": "Malek Saghasi Kalay",
+      "lat": 31.312222,
+      "lng": 64.2575
+    },
+    {
+      "cityName": "Mal Gir",
+      "lat": 31.733333,
+      "lng": 64.45
+    },
+    {
+      "cityName": "Mamakarez",
+      "lat": 32.224444,
+      "lng": 64.513333
+    },
+    {
+      "cityName": "Mandi Kaka Kalay",
+      "lat": 33.073056,
+      "lng": 65.040556
+    },
+    {
+      "cityName": "Mano",
+      "lat": 32.776667,
+      "lng": 65.162222
+    },
+    {
+      "cityName": "Maoizi",
+      "lat": 31.763889,
+      "lng": 64.4975
+    },
+    {
+      "cityName": "Mardzha",
+      "lat": 31.521111,
+      "lng": 64.118611
+    },
+    {
+      "cityName": "Marga",
+      "lat": 33.043611,
+      "lng": 65.1375
+    },
+    {
+      "cityName": "Marghozar",
+      "lat": 32.245833,
+      "lng": 63.758056
+    },
+    {
+      "cityName": "Marjan Kalay",
+      "lat": 31.318611,
+      "lng": 64.258333
+    },
+    {
+      "cityName": "Markhari-Ulia-Dzhanubi",
+      "lat": 32.355278,
+      "lng": 65.143611
+    },
+    {
+      "cityName": "Markhore Sufla",
+      "lat": 32.3675,
+      "lng": 65.125833
+    },
+    {
+      "cityName": "Mar Khvor-e `Olya",
+      "lat": 32.366667,
+      "lng": 65.133333
+    },
+    {
+      "cityName": "Ma`shuq Khan Kalay",
+      "lat": 31.306111,
+      "lng": 64.274444
+    },
+    {
+      "cityName": "Maslahat",
+      "lat": 32.504444,
+      "lng": 64.26
+    },
+    {
+      "cityName": "Mauladadkor",
+      "lat": 31.873056,
+      "lng": 64.668333
+    },
+    {
+      "cityName": "Mazak",
+      "lat": 32.104722,
+      "lng": 64.870556
+    },
+    {
+      "cityName": "Mazar-e `Olya",
+      "lat": 32.445278,
+      "lng": 65.129444
+    },
+    {
+      "cityName": "Mazar-e Sofla",
+      "lat": 32.437778,
+      "lng": 65.133889
+    },
+    {
+      "cityName": "Mazar",
+      "lat": 32.343889,
+      "lng": 65.166111
+    },
+    {
+      "cityName": "Mazdurak",
+      "lat": 32.3475,
+      "lng": 65.086944
+    },
+    {
+      "cityName": "Maziabad-Dzhanubi",
+      "lat": 32.138333,
+      "lng": 64.811667
+    },
+    {
+      "cityName": "Mazr Abad Samali",
+      "lat": 32.159722,
+      "lng": 64.810833
+    },
+    {
+      "cityName": "Meshmaskarez",
+      "lat": 32.245556,
+      "lng": 64.517778
+    },
+    {
+      "cityName": "Mian Akhtak",
+      "lat": 32.936667,
+      "lng": 64.747778
+    },
+    {
+      "cityName": "Mian-Dzhoy",
+      "lat": 32.495556,
+      "lng": 64.266111
+    },
+    {
+      "cityName": "Mian Raday",
+      "lat": 32.041111,
+      "lng": 64.824722
+    },
+    {
+      "cityName": "Mian-Roday",
+      "lat": 32.118333,
+      "lng": 64.88
+    },
+    {
+      "cityName": "Mirabad",
+      "lat": 30.566667,
+      "lng": 63.583333
+    },
+    {
+      "cityName": "Miral'zi",
+      "lat": 31.638611,
+      "lng": 64.547778
+    },
+    {
+      "cityName": "Mirkhanabad",
+      "lat": 32.736389,
+      "lng": 64.695
+    },
+    {
+      "cityName": "Mirmandab",
+      "lat": 31.874167,
+      "lng": 64.7325
+    },
+    {
+      "cityName": "Mirzayan",
+      "lat": 31.809444,
+      "lng": 64.580833
+    },
+    {
+      "cityName": "Mirzi",
+      "lat": 32.3725,
+      "lng": 65.122778
+    },
+    {
+      "cityName": "Mlianshirmin",
+      "lat": 33.033333,
+      "lng": 65.050278
+    },
+    {
+      "cityName": "Mohajerin",
+      "lat": 31.646111,
+      "lng": 64.465833
+    },
+    {
+      "cityName": "Mohamad Akbarkhan Kalay",
+      "lat": 30.724722,
+      "lng": 64.116667
+    },
+    {
+      "cityName": "Mohammadabad",
+      "lat": 32.038611,
+      "lng": 64.390556
+    },
+    {
+      "cityName": "Mohammad Afdzal Sakh",
+      "lat": 31.769722,
+      "lng": 64.700833
+    },
+    {
+      "cityName": "Mohammad `Alam Kalay",
+      "lat": 31.133889,
+      "lng": 64.215833
+    },
+    {
+      "cityName": "Mohammad Anvar Khan Kalay",
+      "lat": 30.690833,
+      "lng": 64.085
+    },
+    {
+      "cityName": "Mohammad Anvar Shakh",
+      "lat": 31.778333,
+      "lng": 64.700278
+    },
+    {
+      "cityName": "Mohammadkarim Kalay",
+      "lat": 31.819167,
+      "lng": 64.623333
+    },
+    {
+      "cityName": "Mohammad Karim Khan Kalay",
+      "lat": 31.082222,
+      "lng": 64.230278
+    },
+    {
+      "cityName": "Mohammad Khan Kalay",
+      "lat": 31.256667,
+      "lng": 64.230833
+    },
+    {
+      "cityName": "Mohammad Nur Kalay",
+      "lat": 31.724722,
+      "lng": 64.423333
+    },
+    {
+      "cityName": "Mohammad `Omar Kalay-e Sharqi",
+      "lat": 31.7375,
+      "lng": 64.458611
+    },
+    {
+      "cityName": "Mohammad `Osman Kalay",
+      "lat": 31.138056,
+      "lng": 64.206944
+    },
+    {
+      "cityName": "Mohammad Rahim Kalay",
+      "lat": 30.6925,
+      "lng": 64.102778
+    },
+    {
+      "cityName": "Mohammad Zaher Kalay",
+      "lat": 30.276111,
+      "lng": 63.106944
+    },
+    {
+      "cityName": "Mohammadza'i",
+      "lat": 31.821111,
+      "lng": 64.578333
+    },
+    {
+      "cityName": "Mokhattar Kala",
+      "lat": 31.625,
+      "lng": 64.505278
+    },
+    {
+      "cityName": "Molla `Abd or Rahim Kala",
+      "lat": 31.866944,
+      "lng": 64.661389
+    },
+    {
+      "cityName": "Molla Gol Mohammad Shakh",
+      "lat": 31.755833,
+      "lng": 64.687222
+    },
+    {
+      "cityName": "Molla Guri Nikah",
+      "lat": 32.484444,
+      "lng": 64.728889
+    },
+    {
+      "cityName": "Molla Jehad Gol Kalay",
+      "lat": 31.2775,
+      "lng": 64.232778
+    },
+    {
+      "cityName": "Molla Khodayrahm Kalay",
+      "lat": 31.3325,
+      "lng": 64.2875
+    },
+    {
+      "cityName": "Mollayano Kur",
+      "lat": 31.084167,
+      "lng": 64.178889
+    },
+    {
+      "cityName": "Molla Ya`qub Kala",
+      "lat": 31.680556,
+      "lng": 64.34
+    },
+    {
+      "cityName": "Morad `Ali",
+      "lat": 32.076667,
+      "lng": 64.600556
+    },
+    {
+      "cityName": "Morch",
+      "lat": 32.366389,
+      "lng": 65.192778
+    },
+    {
+      "cityName": "Mosulmani",
+      "lat": 32.191111,
+      "lng": 64.820556
+    },
+    {
+      "cityName": "Motekah",
+      "lat": 33.263889,
+      "lng": 65.216111
+    },
+    {
+      "cityName": "Musakala",
+      "lat": 32.350278,
+      "lng": 64.772778
+    },
+    {
+      "cityName": "Musaza'i",
+      "lat": 32.264167,
+      "lng": 64.840278
+    },
+    {
+      "cityName": "Mutah",
+      "lat": 32.529444,
+      "lng": 64.493333
+    },
+    {
+      "cityName": "Nader Kalay",
+      "lat": 31.218056,
+      "lng": 64.205
+    },
+    {
+      "cityName": "Naganak",
+      "lat": 33.250278,
+      "lng": 65.199722
+    },
+    {
+      "cityName": "Nahr-e Kariz",
+      "lat": 32.047778,
+      "lng": 65.011667
+    },
+    {
+      "cityName": "Nahre Saraj Payan Kala",
+      "lat": 31.692222,
+      "lng": 64.514722
+    },
+    {
+      "cityName": "Najibollah Khan Kalay",
+      "lat": 30.710278,
+      "lng": 64.108889
+    },
+    {
+      "cityName": "Nakhum Birah",
+      "lat": 32.154167,
+      "lng": 64.223889
+    },
+    {
+      "cityName": "Nakilabad-Kalay",
+      "lat": 31.696111,
+      "lng": 64.271389
+    },
+    {
+      "cityName": "Nalan",
+      "lat": 32.286389,
+      "lng": 64.981389
+    },
+    {
+      "cityName": "Nal",
+      "lat": 32.452222,
+      "lng": 64.235833
+    },
+    {
+      "cityName": "Nangazi",
+      "lat": 32.197778,
+      "lng": 64.976667
+    },
+    {
+      "cityName": "Naozad",
+      "lat": 32.402222,
+      "lng": 64.468889
+    },
+    {
+      "cityName": "Narau",
+      "lat": 32.729444,
+      "lng": 65.025278
+    },
+    {
+      "cityName": "Naser Kalay",
+      "lat": 31.764722,
+      "lng": 64.707778
+    },
+    {
+      "cityName": "Natay",
+      "lat": 33.228611,
+      "lng": 65.235
+    },
+    {
+      "cityName": "Naterah",
+      "lat": 30.378889,
+      "lng": 63.268611
+    },
+    {
+      "cityName": "Naudekh",
+      "lat": 31.672222,
+      "lng": 64.634722
+    },
+    {
+      "cityName": "Navabad",
+      "lat": 32.3925,
+      "lng": 65.108611
+    },
+    {
+      "cityName": "Navay-Karez",
+      "lat": 32.356111,
+      "lng": 65.0575
+    },
+    {
+      "cityName": "Naveh-ye Barkaza'i",
+      "lat": 31.383333,
+      "lng": 64.3
+    },
+    {
+      "cityName": "Navvabjan Kalay",
+      "lat": 31.291111,
+      "lng": 64.263056
+    },
+    {
+      "cityName": "Naw",
+      "lat": 32.42,
+      "lng": 65.052778
+    },
+    {
+      "cityName": "Nayak",
+      "lat": 32.173611,
+      "lng": 64.231389
+    },
+    {
+      "cityName": "Nayca-i-Sufla",
+      "lat": 32.421111,
+      "lng": 65.045833
+    },
+    {
+      "cityName": "Nayca-i-'Ulya",
+      "lat": 32.424167,
+      "lng": 65.049167
+    },
+    {
+      "cityName": "Nayca",
+      "lat": 32.407778,
+      "lng": 65.134167
+    },
+    {
+      "cityName": "Nekatu",
+      "lat": 32.906111,
+      "lng": 64.766111
+    },
+    {
+      "cityName": "Ne`matollah Khan Jay",
+      "lat": 31.826111,
+      "lng": 64.606944
+    },
+    {
+      "cityName": "Nikahzi",
+      "lat": 31.771389,
+      "lng": 64.474722
+    },
+    {
+      "cityName": "Nim Ser",
+      "lat": 32.144722,
+      "lng": 64.924722
+    },
+    {
+      "cityName": "Nokorzay",
+      "lat": 32.1325,
+      "lng": 64.927222
+    },
+    {
+      "cityName": "Obe",
+      "lat": 32.773333,
+      "lng": 65.151111
+    },
+    {
+      "cityName": "`Osman Ketsay",
+      "lat": 32.596667,
+      "lng": 64.759722
+    },
+    {
+      "cityName": "`Osman Qal`eh",
+      "lat": 32.594722,
+      "lng": 64.746667
+    },
+    {
+      "cityName": "Pada",
+      "lat": 31.865278,
+      "lng": 64.857778
+    },
+    {
+      "cityName": "Padlek",
+      "lat": 32.233333,
+      "lng": 64.769722
+    },
+    {
+      "cityName": "Pa'in Kala",
+      "lat": 32.259444,
+      "lng": 65.037222
+    },
+    {
+      "cityName": "Palalak",
+      "lat": 30.232222,
+      "lng": 62.913333
+    },
+    {
+      "cityName": "Panatu",
+      "lat": 32.251389,
+      "lng": 64.412222
+    },
+    {
+      "cityName": "Pandu",
+      "lat": 32.144444,
+      "lng": 64.628611
+    },
+    {
+      "cityName": "Pandzhav",
+      "lat": 31.684444,
+      "lng": 64.405556
+    },
+    {
+      "cityName": "Pandzhfamili",
+      "lat": 31.504167,
+      "lng": 64.126667
+    },
+    {
+      "cityName": "Pankela-Dzhanubi",
+      "lat": 32.0225,
+      "lng": 64.822222
+    },
+    {
+      "cityName": "Pan Kelah Shamali",
+      "lat": 32.04,
+      "lng": 64.829722
+    },
+    {
+      "cityName": "Parlarzar",
+      "lat": 33.220556,
+      "lng": 65.044167
+    },
+    {
+      "cityName": "Pasab",
+      "lat": 31.725,
+      "lng": 64.644722
+    },
+    {
+      "cityName": "Pasau",
+      "lat": 31.84,
+      "lng": 64.704722
+    },
+    {
+      "cityName": "Pastokhan Kalay",
+      "lat": 31.197778,
+      "lng": 64.176111
+    },
+    {
+      "cityName": "Payawak",
+      "lat": 32.283056,
+      "lng": 63.954444
+    },
+    {
+      "cityName": "Paydzhindzhay",
+      "lat": 33.048611,
+      "lng": 65.060278
+    },
+    {
+      "cityName": "Paygarakay",
+      "lat": 32.079444,
+      "lng": 64.864167
+    },
+    {
+      "cityName": "Pay-Gavkalay",
+      "lat": 32.831944,
+      "lng": 65.038056
+    },
+    {
+      "cityName": "Paygav",
+      "lat": 33.106667,
+      "lng": 65.082778
+    },
+    {
+      "cityName": "Paygel",
+      "lat": 30.463333,
+      "lng": 63.303056
+    },
+    {
+      "cityName": "Payk",
+      "lat": 32.978333,
+      "lng": 65.010278
+    },
+    {
+      "cityName": "Paysang",
+      "lat": 32.3025,
+      "lng": 65.071111
+    },
+    {
+      "cityName": "Pay Savarakah",
+      "lat": 33.035556,
+      "lng": 65.024722
+    },
+    {
+      "cityName": "Pay Selmin",
+      "lat": 33.045278,
+      "lng": 65.037222
+    },
+    {
+      "cityName": "Pay Zarghin",
+      "lat": 32.938889,
+      "lng": 64.899722
+    },
+    {
+      "cityName": "Pesay",
+      "lat": 32.6925,
+      "lng": 65.210556
+    },
+    {
+      "cityName": "Pirow Zay",
+      "lat": 32.512222,
+      "lng": 64.424722
+    },
+    {
+      "cityName": "Popal'zai",
+      "lat": 31.693056,
+      "lng": 64.652778
+    },
+    {
+      "cityName": "Porghui",
+      "lat": 32.397778,
+      "lng": 65.01
+    },
+    {
+      "cityName": "Potay",
+      "lat": 32.154722,
+      "lng": 64.950833
+    },
+    {
+      "cityName": "Purkavand",
+      "lat": 32.649444,
+      "lng": 64.93
+    },
+    {
+      "cityName": "Puzagi",
+      "lat": 32.178056,
+      "lng": 63.524444
+    },
+    {
+      "cityName": "Puzah",
+      "lat": 32.099167,
+      "lng": 64.840278
+    },
+    {
+      "cityName": "Puza-i- Rag",
+      "lat": 32.247222,
+      "lng": 63.856667
+    },
+    {
+      "cityName": "Puzasang",
+      "lat": 32.737778,
+      "lng": 65.045
+    },
+    {
+      "cityName": "Qal`agi",
+      "lat": 32.171389,
+      "lng": 63.524722
+    },
+    {
+      "cityName": "Qal`a-i-Murtadza",
+      "lat": 30.451667,
+      "lng": 63.330278
+    },
+    {
+      "cityName": "Qala-i-Nau",
+      "lat": 30.562222,
+      "lng": 63.720278
+    },
+    {
+      "cityName": "Qal`a-i- Nazargah",
+      "lat": 32.256389,
+      "lng": 63.832778
+    },
+    {
+      "cityName": "Qal`a-i- Tangi",
+      "lat": 32.301389,
+      "lng": 63.868611
+    },
+    {
+      "cityName": "Qalandarza'i",
+      "lat": 30.805,
+      "lng": 64.118333
+    },
+    {
+      "cityName": "Qarya-i-Gawharkhan",
+      "lat": 30.6225,
+      "lng": 64.036944
+    },
+    {
+      "cityName": "Qarya-i- Gestan",
+      "lat": 32.378333,
+      "lng": 63.988611
+    },
+    {
+      "cityName": "Qarya-i-Gurdah",
+      "lat": 32.5,
+      "lng": 64.181389
+    },
+    {
+      "cityName": "Qarya-i-Zarwaji",
+      "lat": 32.484722,
+      "lng": 64.207778
+    },
+    {
+      "cityName": "Qaryeh-ye Shahban",
+      "lat": 32.124167,
+      "lng": 64.799444
+    },
+    {
+      "cityName": "Qowryah",
+      "lat": 31.123889,
+      "lng": 64.198889
+    },
+    {
+      "cityName": "Rabat",
+      "lat": 32.449444,
+      "lng": 65.045833
+    },
+    {
+      "cityName": "Ramadzhoy",
+      "lat": 33.115833,
+      "lng": 65.053889
+    },
+    {
+      "cityName": "Rasak",
+      "lat": 32.734167,
+      "lng": 65.033611
+    },
+    {
+      "cityName": "Rashid Kalay",
+      "lat": 31.325,
+      "lng": 64.26
+    },
+    {
+      "cityName": "Rashti",
+      "lat": 33.109167,
+      "lng": 65.120556
+    },
+    {
+      "cityName": "Rava Khan Kala",
+      "lat": 30.560833,
+      "lng": 63.985278
+    },
+    {
+      "cityName": "Rayah",
+      "lat": 32.78,
+      "lng": 65.089444
+    },
+    {
+      "cityName": "Razdan-e `Olya",
+      "lat": 32.354722,
+      "lng": 64.382778
+    },
+    {
+      "cityName": "Razdan-e Sofla",
+      "lat": 32.343056,
+      "lng": 64.392222
+    },
+    {
+      "cityName": "Razvaliny Kadzhbed",
+      "lat": 32.786389,
+      "lng": 64.929167
+    },
+    {
+      "cityName": "Regay",
+      "lat": 32.120278,
+      "lng": 64.904722
+    },
+    {
+      "cityName": "Regi",
+      "lat": 31.652778,
+      "lng": 64.673889
+    },
+    {
+      "cityName": "Rig",
+      "lat": 30.55,
+      "lng": 63.816667
+    },
+    {
+      "cityName": "Risadzhi",
+      "lat": 32.354722,
+      "lng": 65.088333
+    },
+    {
+      "cityName": "Robatak",
+      "lat": 33.146389,
+      "lng": 65.145278
+    },
+    {
+      "cityName": "Rosan Abad",
+      "lat": 32.5375,
+      "lng": 64.913056
+    },
+    {
+      "cityName": "Rostam Khan Kalay",
+      "lat": 31.1475,
+      "lng": 64.167222
+    },
+    {
+      "cityName": "Saadatkala",
+      "lat": 32.049722,
+      "lng": 64.446667
+    },
+    {
+      "cityName": "Sa`adat",
+      "lat": 32.272222,
+      "lng": 64.973056
+    },
+    {
+      "cityName": "Sabani",
+      "lat": 31.616389,
+      "lng": 64.3925
+    },
+    {
+      "cityName": "Sabaz Khel",
+      "lat": 32.321667,
+      "lng": 65.07
+    },
+    {
+      "cityName": "Sabzikar",
+      "lat": 32.346111,
+      "lng": 65.024444
+    },
+    {
+      "cityName": "Sabzkul'",
+      "lat": 33.305833,
+      "lng": 65.206944
+    },
+    {
+      "cityName": "Sadika",
+      "lat": 32.361944,
+      "lng": 65.188889
+    },
+    {
+      "cityName": "Sadikhan Sakh",
+      "lat": 31.758611,
+      "lng": 64.6975
+    },
+    {
+      "cityName": "Sadmanay",
+      "lat": 33.144722,
+      "lng": 65.004167
+    },
+    {
+      "cityName": "Safed Khola",
+      "lat": 32.626667,
+      "lng": 65.027222
+    },
+    {
+      "cityName": "Safe Haywanat",
+      "lat": 31.635278,
+      "lng": 64.2425
+    },
+    {
+      "cityName": "Safian",
+      "lat": 31.783611,
+      "lng": 64.700278
+    },
+    {
+      "cityName": "Saghzay Karez",
+      "lat": 32.345278,
+      "lng": 64.982778
+    },
+    {
+      "cityName": "Sahebzadahkhel",
+      "lat": 31.618611,
+      "lng": 64.456111
+    },
+    {
+      "cityName": "Sahjoy",
+      "lat": 33.214444,
+      "lng": 65.180833
+    },
+    {
+      "cityName": "Sah Karez",
+      "lat": 32.358611,
+      "lng": 64.893611
+    },
+    {
+      "cityName": "Sah Malay",
+      "lat": 32.272222,
+      "lng": 65.019167
+    },
+    {
+      "cityName": "Sahmerza",
+      "lat": 32.191667,
+      "lng": 64.381944
+    },
+    {
+      "cityName": "Sahre Kuhna",
+      "lat": 31.835833,
+      "lng": 64.593056
+    },
+    {
+      "cityName": "Sahtut",
+      "lat": 33.065833,
+      "lng": 65.048611
+    },
+    {
+      "cityName": "Sahwalikhan Kalay",
+      "lat": 30.717778,
+      "lng": 64.106111
+    },
+    {
+      "cityName": "Sa`idane Sayd",
+      "lat": 31.8075,
+      "lng": 64.572222
+    },
+    {
+      "cityName": "Sa`idan",
+      "lat": 31.796389,
+      "lng": 64.545556
+    },
+    {
+      "cityName": "Saidan",
+      "lat": 31.825556,
+      "lng": 64.636667
+    },
+    {
+      "cityName": "Saidbad'yan",
+      "lat": 32.630833,
+      "lng": 64.936111
+    },
+    {
+      "cityName": "Sakandarabad",
+      "lat": 32.4175,
+      "lng": 65.065
+    },
+    {
+      "cityName": "Sakhe Karame Dewana",
+      "lat": 31.615278,
+      "lng": 64.360833
+    },
+    {
+      "cityName": "Sakhi Dost Mohammad Khan",
+      "lat": 30.25,
+      "lng": 62.966667
+    },
+    {
+      "cityName": "Sakhi Mohammad Kalay",
+      "lat": 30.354722,
+      "lng": 63.258611
+    },
+    {
+      "cityName": "Saleh Khan Kalay",
+      "lat": 31.2625,
+      "lng": 64.239722
+    },
+    {
+      "cityName": "Saligar",
+      "lat": 32.993056,
+      "lng": 64.933333
+    },
+    {
+      "cityName": "Salodzhankalay",
+      "lat": 31.748889,
+      "lng": 64.480833
+    },
+    {
+      "cityName": "Saltan Rabat",
+      "lat": 32.440278,
+      "lng": 65.108889
+    },
+    {
+      "cityName": "Samadkhankalay",
+      "lat": 31.84,
+      "lng": 64.615833
+    },
+    {
+      "cityName": "Samali Nurza'i",
+      "lat": 31.819444,
+      "lng": 64.597778
+    },
+    {
+      "cityName": "Samali",
+      "lat": 32.344444,
+      "lng": 65.081667
+    },
+    {
+      "cityName": "Samali Tutak",
+      "lat": 31.999722,
+      "lng": 64.934167
+    },
+    {
+      "cityName": "Samand Cay",
+      "lat": 32.133333,
+      "lng": 64.783333
+    },
+    {
+      "cityName": "Samazi",
+      "lat": 31.764167,
+      "lng": 64.475833
+    },
+    {
+      "cityName": "Samizi",
+      "lat": 31.645556,
+      "lng": 64.59
+    },
+    {
+      "cityName": "Sams Abad",
+      "lat": 32.548333,
+      "lng": 64.455278
+    },
+    {
+      "cityName": "Samsir",
+      "lat": 30.522222,
+      "lng": 63.453056
+    },
+    {
+      "cityName": "Sandalah",
+      "lat": 32.226111,
+      "lng": 64.816111
+    },
+    {
+      "cityName": "Sandzhar",
+      "lat": 33.102778,
+      "lng": 65.002222
+    },
+    {
+      "cityName": "Sangcal",
+      "lat": 31.841111,
+      "lng": 64.632222
+    },
+    {
+      "cityName": "Sanginak",
+      "lat": 32.744167,
+      "lng": 64.907222
+    },
+    {
+      "cityName": "Sangin Khan Kalay",
+      "lat": 31.079722,
+      "lng": 64.225
+    },
+    {
+      "cityName": "Sangin",
+      "lat": 32.073333,
+      "lng": 64.833889
+    },
+    {
+      "cityName": "Sangvana",
+      "lat": 32.7275,
+      "lng": 64.979722
+    },
+    {
+      "cityName": "Sapedh",
+      "lat": 32.393333,
+      "lng": 65.12
+    },
+    {
+      "cityName": "Sapokhta Keli",
+      "lat": 32.334444,
+      "lng": 64.998611
+    },
+    {
+      "cityName": "Saraga",
+      "lat": 32.235833,
+      "lng": 64.789167
+    },
+    {
+      "cityName": "Sarakhtak",
+      "lat": 32.9125,
+      "lng": 64.721389
+    },
+    {
+      "cityName": "Sarbande Samalan Kalay",
+      "lat": 31.735278,
+      "lng": 64.342778
+    },
+    {
+      "cityName": "Sarbesa",
+      "lat": 32.504722,
+      "lng": 64.736667
+    },
+    {
+      "cityName": "Sardar",
+      "lat": 31.8325,
+      "lng": 64.610833
+    },
+    {
+      "cityName": "Sardzhar",
+      "lat": 32.716111,
+      "lng": 65.036667
+    },
+    {
+      "cityName": "Sardzhindzhay",
+      "lat": 33.036389,
+      "lng": 65.076111
+    },
+    {
+      "cityName": "Sar-e Baz",
+      "lat": 32.749167,
+      "lng": 64.983333
+    },
+    {
+      "cityName": "Sargarakay",
+      "lat": 32.081944,
+      "lng": 64.867222
+    },
+    {
+      "cityName": "Sarghatah",
+      "lat": 32.816667,
+      "lng": 64.551389
+    },
+    {
+      "cityName": "Sarginak",
+      "lat": 32.348056,
+      "lng": 65.204167
+    },
+    {
+      "cityName": "Sarhang",
+      "lat": 32.587778,
+      "lng": 64.496667
+    },
+    {
+      "cityName": "Sar-i-Teznai",
+      "lat": 32.703611,
+      "lng": 64.677778
+    },
+    {
+      "cityName": "Sarpuza",
+      "lat": 32.200833,
+      "lng": 64.986389
+    },
+    {
+      "cityName": "Sar Savarakah",
+      "lat": 33.025556,
+      "lng": 65.034722
+    },
+    {
+      "cityName": "Sar Selmin",
+      "lat": 32.993889,
+      "lng": 65.055278
+    },
+    {
+      "cityName": "Sar Shalmin",
+      "lat": 33.004167,
+      "lng": 65.0625
+    },
+    {
+      "cityName": "Sartakh",
+      "lat": 31.976111,
+      "lng": 64.768333
+    },
+    {
+      "cityName": "Sartakht",
+      "lat": 31.793333,
+      "lng": 64.530556
+    },
+    {
+      "cityName": "Sarvardzhankalay",
+      "lat": 31.826944,
+      "lng": 64.567778
+    },
+    {
+      "cityName": "Sawaroz",
+      "lat": 32.397222,
+      "lng": 64.746667
+    },
+    {
+      "cityName": "Sayaghul",
+      "lat": 32.399722,
+      "lng": 65.110556
+    },
+    {
+      "cityName": "Saydan",
+      "lat": 33.110833,
+      "lng": 65.0975
+    },
+    {
+      "cityName": "Saydgulsah Agha",
+      "lat": 30.983333,
+      "lng": 64.1675
+    },
+    {
+      "cityName": "Sayed Abad",
+      "lat": 32.148611,
+      "lng": 64.433611
+    },
+    {
+      "cityName": "Sayed Aman Agha",
+      "lat": 31.342778,
+      "lng": 64.2725
+    },
+    {
+      "cityName": "Sayedan Kalay",
+      "lat": 31.319167,
+      "lng": 64.264444
+    },
+    {
+      "cityName": "Sayedano Kalay",
+      "lat": 31.298333,
+      "lng": 64.246667
+    },
+    {
+      "cityName": "Sayedan",
+      "lat": 30.897222,
+      "lng": 64.148611
+    },
+    {
+      "cityName": "Sayed Mohammad Kelay",
+      "lat": 32.256667,
+      "lng": 63.827778
+    },
+    {
+      "cityName": "Sayedmohammodkhan Kor",
+      "lat": 31.324167,
+      "lng": 64.243611
+    },
+    {
+      "cityName": "Sayed Sermohammad Kl",
+      "lat": 31.316944,
+      "lng": 64.261944
+    },
+    {
+      "cityName": "Sayfullah Kalay",
+      "lat": 31.260278,
+      "lng": 64.239167
+    },
+    {
+      "cityName": "Saykh Mohammadyan",
+      "lat": 32.183056,
+      "lng": 64.981944
+    },
+    {
+      "cityName": "Saykh Za`i",
+      "lat": 32.442222,
+      "lng": 64.473611
+    },
+    {
+      "cityName": "Sayl'bin",
+      "lat": 32.871389,
+      "lng": 65.123333
+    },
+    {
+      "cityName": "Seginak",
+      "lat": 32.905833,
+      "lng": 65.065278
+    },
+    {
+      "cityName": "Seh Ab",
+      "lat": 32.142778,
+      "lng": 64.7825
+    },
+    {
+      "cityName": "Sekandar Khan Kalay",
+      "lat": 31.286944,
+      "lng": 64.2625
+    },
+    {
+      "cityName": "Sekandar",
+      "lat": 32.0425,
+      "lng": 65.023611
+    },
+    {
+      "cityName": "Sekh `Ali",
+      "lat": 32.104444,
+      "lng": 64.581667
+    },
+    {
+      "cityName": "Seleman Kalay",
+      "lat": 30.495278,
+      "lng": 63.358056
+    },
+    {
+      "cityName": "Senderza'i",
+      "lat": 31.788333,
+      "lng": 64.538056
+    },
+    {
+      "cityName": "Sendwanah",
+      "lat": 32.623889,
+      "lng": 64.938611
+    },
+    {
+      "cityName": "Ser Ahmad",
+      "lat": 32.309167,
+      "lng": 65.010833
+    },
+    {
+      "cityName": "Seray",
+      "lat": 32.649444,
+      "lng": 65.143889
+    },
+    {
+      "cityName": "Serghel",
+      "lat": 32.551389,
+      "lng": 64.368889
+    },
+    {
+      "cityName": "Serjan Kalay",
+      "lat": 31.295278,
+      "lng": 64.26
+    },
+    {
+      "cityName": "Ser Mohammad Kala",
+      "lat": 30.258333,
+      "lng": 63.083611
+    },
+    {
+      "cityName": "Sermohammed Kalay",
+      "lat": 33.235833,
+      "lng": 65.049444
+    },
+    {
+      "cityName": "Ser Mulla",
+      "lat": 32.401667,
+      "lng": 65.031667
+    },
+    {
+      "cityName": "Seyidan",
+      "lat": 31.507222,
+      "lng": 64.321667
+    },
+    {
+      "cityName": "Shaykh Abad",
+      "lat": 32.2525,
+      "lng": 63.8125
+    },
+    {
+      "cityName": "Shinah",
+      "lat": 33.135833,
+      "lng": 65.120556
+    },
+    {
+      "cityName": "Shindarra",
+      "lat": 32.594167,
+      "lng": 64.926389
+    },
+    {
+      "cityName": "Shinkalay",
+      "lat": 31.641389,
+      "lng": 64.22
+    },
+    {
+      "cityName": "Shirgazay",
+      "lat": 32.232222,
+      "lng": 64.698333
+    },
+    {
+      "cityName": "Shirinbaz",
+      "lat": 32.473333,
+      "lng": 64.254167
+    },
+    {
+      "cityName": "Shirin Padah",
+      "lat": 33.045556,
+      "lng": 65.090278
+    },
+    {
+      "cityName": "Shir'yak",
+      "lat": 32.665,
+      "lng": 64.970833
+    },
+    {
+      "cityName": "Shokestah",
+      "lat": 33.261389,
+      "lng": 65.138889
+    },
+    {
+      "cityName": "Shonakay",
+      "lat": 32.049167,
+      "lng": 64.0375
+    },
+    {
+      "cityName": "Shorab",
+      "lat": 32.003333,
+      "lng": 64.920278
+    },
+    {
+      "cityName": "Shoragas",
+      "lat": 31.782778,
+      "lng": 64.509722
+    },
+    {
+      "cityName": "Shorak'yan",
+      "lat": 31.915833,
+      "lng": 64.736389
+    },
+    {
+      "cityName": "Shorawak",
+      "lat": 31.833333,
+      "lng": 64.35
+    },
+    {
+      "cityName": "Shovay",
+      "lat": 32.689444,
+      "lng": 64.9725
+    },
+    {
+      "cityName": "Siah Chaw",
+      "lat": 32.292222,
+      "lng": 64.846389
+    },
+    {
+      "cityName": "Siahchaw",
+      "lat": 33.135556,
+      "lng": 65.028333
+    },
+    {
+      "cityName": "Siah Dudi",
+      "lat": 32.701944,
+      "lng": 64.3675
+    },
+    {
+      "cityName": "Siah Kholah",
+      "lat": 32.663333,
+      "lng": 64.7275
+    },
+    {
+      "cityName": "Siahmanzar",
+      "lat": 32.127222,
+      "lng": 65.030278
+    },
+    {
+      "cityName": "Siah Sangak",
+      "lat": 32.855278,
+      "lng": 64.67
+    },
+    {
+      "cityName": "Sirak",
+      "lat": 32.376944,
+      "lng": 65.201389
+    },
+    {
+      "cityName": "Slemansahzi",
+      "lat": 31.670278,
+      "lng": 64.362222
+    },
+    {
+      "cityName": "Sokhta",
+      "lat": 33.131389,
+      "lng": 64.9225
+    },
+    {
+      "cityName": "Soltan Kalay",
+      "lat": 31.25,
+      "lng": 64.227222
+    },
+    {
+      "cityName": "Soltan Mohammad Kariz",
+      "lat": 32.194722,
+      "lng": 64.377778
+    },
+    {
+      "cityName": "Soltan Robat",
+      "lat": 32.161944,
+      "lng": 64.756389
+    },
+    {
+      "cityName": "Som",
+      "lat": 33.106389,
+      "lng": 64.861667
+    },
+    {
+      "cityName": "Sorkhabad",
+      "lat": 31.977222,
+      "lng": 64.866389
+    },
+    {
+      "cityName": "Sorkh Doz",
+      "lat": 31.266667,
+      "lng": 64.233333
+    },
+    {
+      "cityName": "Sorkh Kowtal",
+      "lat": 32.968889,
+      "lng": 64.975833
+    },
+    {
+      "cityName": "Sowrnay",
+      "lat": 32.760833,
+      "lng": 65.172778
+    },
+    {
+      "cityName": "Spigal'",
+      "lat": 32.119722,
+      "lng": 64.601667
+    },
+    {
+      "cityName": "Spinkay",
+      "lat": 32.138611,
+      "lng": 65.059444
+    },
+    {
+      "cityName": "Srevule",
+      "lat": 32.605556,
+      "lng": 64.724167
+    },
+    {
+      "cityName": "Sur Gol Khan Kalay",
+      "lat": 31.715833,
+      "lng": 64.373333
+    },
+    {
+      "cityName": "Surkian",
+      "lat": 32.248333,
+      "lng": 64.810556
+    },
+    {
+      "cityName": "Sur Sakh",
+      "lat": 31.72,
+      "lng": 64.671667
+    },
+    {
+      "cityName": "Taceray",
+      "lat": 32.985833,
+      "lng": 65.001111
+    },
+    {
+      "cityName": "Ta Chinah",
+      "lat": 33.131667,
+      "lng": 65.033611
+    },
+    {
+      "cityName": "Tadzhikan",
+      "lat": 31.823333,
+      "lng": 64.581111
+    },
+    {
+      "cityName": "Tadzhikkha",
+      "lat": 31.664444,
+      "lng": 64.436389
+    },
+    {
+      "cityName": "Tagavay",
+      "lat": 32.365,
+      "lng": 65.029722
+    },
+    {
+      "cityName": "Taghaz",
+      "lat": 30.544722,
+      "lng": 63.481111
+    },
+    {
+      "cityName": "Tah-e Sinah",
+      "lat": 33.279722,
+      "lng": 65.135556
+    },
+    {
+      "cityName": "Tajiri",
+      "lat": 30.515,
+      "lng": 63.429444
+    },
+    {
+      "cityName": "Takhtapul Keli",
+      "lat": 32.364444,
+      "lng": 64.783333
+    },
+    {
+      "cityName": "Takhtian",
+      "lat": 31.8075,
+      "lng": 64.564722
+    },
+    {
+      "cityName": "Takht Kholeh",
+      "lat": 33.152778,
+      "lng": 65.100556
+    },
+    {
+      "cityName": "Takht",
+      "lat": 33.170278,
+      "lng": 65.059444
+    },
+    {
+      "cityName": "Taktu",
+      "lat": 33.049722,
+      "lng": 65.097222
+    },
+    {
+      "cityName": "Taleak",
+      "lat": 32.416389,
+      "lng": 65.019722
+    },
+    {
+      "cityName": "Tale Cawmesi",
+      "lat": 31.881667,
+      "lng": 64.742222
+    },
+    {
+      "cityName": "Tal-e Gavmishi",
+      "lat": 31.879167,
+      "lng": 64.786389
+    },
+    {
+      "cityName": "Tal-e Zaher",
+      "lat": 31.706111,
+      "lng": 64.610556
+    },
+    {
+      "cityName": "Tal Kala",
+      "lat": 31.994722,
+      "lng": 63.988889
+    },
+    {
+      "cityName": "Tambah",
+      "lat": 31.933611,
+      "lng": 64.774444
+    },
+    {
+      "cityName": "Tangay",
+      "lat": 32.782778,
+      "lng": 65.129444
+    },
+    {
+      "cityName": "Tangi Sofla",
+      "lat": 32.336111,
+      "lng": 64.351667
+    },
+    {
+      "cityName": "Tarikak",
+      "lat": 32.226944,
+      "lng": 63.831389
+    },
+    {
+      "cityName": "Taulay",
+      "lat": 32.949167,
+      "lng": 65.023889
+    },
+    {
+      "cityName": "Tebbi",
+      "lat": 30.861111,
+      "lng": 64.120278
+    },
+    {
+      "cityName": "Til",
+      "lat": 32.813611,
+      "lng": 65.015833
+    },
+    {
+      "cityName": "Toghi Keli",
+      "lat": 32.378889,
+      "lng": 64.764444
+    },
+    {
+      "cityName": "Tora Sah Ghundey",
+      "lat": 31.887778,
+      "lng": 64.785
+    },
+    {
+      "cityName": "Torkak",
+      "lat": 32.380278,
+      "lng": 65.107778
+    },
+    {
+      "cityName": "Torkman Kalay",
+      "lat": 31.678611,
+      "lng": 64.476944
+    },
+    {
+      "cityName": "Torma",
+      "lat": 31.983889,
+      "lng": 64.804444
+    },
+    {
+      "cityName": "Tor",
+      "lat": 31.875556,
+      "lng": 64.688333
+    },
+    {
+      "cityName": "Tugay",
+      "lat": 32.093056,
+      "lng": 64.860278
+    },
+    {
+      "cityName": "Tut Sah",
+      "lat": 32.225556,
+      "lng": 63.826667
+    },
+    {
+      "cityName": "Ulghur",
+      "lat": 32.079167,
+      "lng": 64.6225
+    },
+    {
+      "cityName": "Urgoli",
+      "lat": 32.130278,
+      "lng": 64.388333
+    },
+    {
+      "cityName": "Urmuz",
+      "lat": 32.118611,
+      "lng": 64.605
+    },
+    {
+      "cityName": "Vachkarez",
+      "lat": 32.286389,
+      "lng": 64.817778
+    },
+    {
+      "cityName": "Vakhar",
+      "lat": 32.078889,
+      "lng": 64.615833
+    },
+    {
+      "cityName": "Vakil `Abdollahkhan Kalay",
+      "lat": 31.724722,
+      "lng": 64.546111
+    },
+    {
+      "cityName": "Vakil Kamal Kalay",
+      "lat": 31.050556,
+      "lng": 64.195833
+    },
+    {
+      "cityName": "Vakil Khan Mohammad",
+      "lat": 30.297778,
+      "lng": 63.1375
+    },
+    {
+      "cityName": "Vakil Mohammad `Omar Kalay",
+      "lat": 31.075,
+      "lng": 64.212778
+    },
+    {
+      "cityName": "Valakhor",
+      "lat": 32.683056,
+      "lng": 64.789167
+    },
+    {
+      "cityName": "Varlez",
+      "lat": 32.859444,
+      "lng": 64.589167
+    },
+    {
+      "cityName": "Vasakkili",
+      "lat": 32.361667,
+      "lng": 64.7575
+    },
+    {
+      "cityName": "Vashir",
+      "lat": 32.252222,
+      "lng": 63.853056
+    },
+    {
+      "cityName": "Vasht",
+      "lat": 32.075833,
+      "lng": 64.645
+    },
+    {
+      "cityName": "Vaska",
+      "lat": 32.428611,
+      "lng": 64.739167
+    },
+    {
+      "cityName": "Vazirian",
+      "lat": 31.671667,
+      "lng": 64.648889
+    },
+    {
+      "cityName": "Vazirkalay",
+      "lat": 31.708333,
+      "lng": 64.399444
+    },
+    {
+      "cityName": "Vichagul'ba",
+      "lat": 32.683611,
+      "lng": 64.685833
+    },
+    {
+      "cityName": "Vukarchi",
+      "lat": 32.589722,
+      "lng": 64.9125
+    },
+    {
+      "cityName": "Vule",
+      "lat": 33.181111,
+      "lng": 65.289167
+    },
+    {
+      "cityName": "Vul'gak",
+      "lat": 32.264167,
+      "lng": 64.341944
+    },
+    {
+      "cityName": "Vurgusol'",
+      "lat": 33.2625,
+      "lng": 65.240833
+    },
+    {
+      "cityName": "Vushtan",
+      "lat": 32.049167,
+      "lng": 65.001944
+    },
+    {
+      "cityName": "Wajah",
+      "lat": 30.549722,
+      "lng": 63.479722
+    },
+    {
+      "cityName": "Walimohammad Kalay",
+      "lat": 31.203889,
+      "lng": 64.18
+    },
+    {
+      "cityName": "Walimohammad Khonah",
+      "lat": 31.187222,
+      "lng": 64.18
+    },
+    {
+      "cityName": "Yakhcal",
+      "lat": 31.79,
+      "lng": 64.6825
+    },
+    {
+      "cityName": "Yaklang",
+      "lat": 31.673333,
+      "lng": 64.592222
+    },
+    {
+      "cityName": "Yak Leng",
+      "lat": 32.69,
+      "lng": 64.780278
+    },
+    {
+      "cityName": "Ya`qubzi",
+      "lat": 30.905278,
+      "lng": 64.133333
+    },
+    {
+      "cityName": "Yarbaba",
+      "lat": 32.406389,
+      "lng": 65.038056
+    },
+    {
+      "cityName": "Yar Mohammad Kalay",
+      "lat": 31.241667,
+      "lng": 64.216944
+    },
+    {
+      "cityName": "Yar Mohammad Khan",
+      "lat": 30.698056,
+      "lng": 64.101389
+    },
+    {
+      "cityName": "Yasinza'i Kalay",
+      "lat": 30.814444,
+      "lng": 64.129167
+    },
+    {
+      "cityName": "Yatimcay",
+      "lat": 32.294167,
+      "lng": 64.797778
+    },
+    {
+      "cityName": "Za`farani",
+      "lat": 32.067222,
+      "lng": 64.828889
+    },
+    {
+      "cityName": "Zagon Shoban",
+      "lat": 32.621944,
+      "lng": 65.113333
+    },
+    {
+      "cityName": "Zaher Kalay",
+      "lat": 31.315,
+      "lng": 64.265556
+    },
+    {
+      "cityName": "Zaman Khan Kalay",
+      "lat": 30.5575,
+      "lng": 63.796944
+    },
+    {
+      "cityName": "Zamboli",
+      "lat": 31.850833,
+      "lng": 64.708056
+    },
+    {
+      "cityName": "Zar`alay",
+      "lat": 32.1325,
+      "lng": 65.046111
+    },
+    {
+      "cityName": "Zardregay",
+      "lat": 32.06,
+      "lng": 64.93
+    },
+    {
+      "cityName": "Zarghun Kalay",
+      "lat": 31.665556,
+      "lng": 64.277778
+    },
+    {
+      "cityName": "Zarif Kalay",
+      "lat": 31.116667,
+      "lng": 64.183333
+    },
+    {
+      "cityName": "Zarvan",
+      "lat": 32.7525,
+      "lng": 64.996667
+    },
+    {
+      "cityName": "Zauradzhay",
+      "lat": 32.508889,
+      "lng": 64.209167
+    },
+    {
+      "cityName": "Zhimriani",
+      "lat": 31.683611,
+      "lng": 64.670556
+    },
+    {
+      "cityName": "Zhrande",
+      "lat": 32.345833,
+      "lng": 65.170833
+    },
+    {
+      "cityName": "Zirakkarez",
+      "lat": 32.086111,
+      "lng": 64.4325
+    },
+    {
+      "cityName": "Zirkhar",
+      "lat": 32.399167,
+      "lng": 65.201944
+    },
+    {
+      "cityName": "Zobair",
+      "lat": 32.301111,
+      "lng": 64.884167
+    },
+    {
+      "cityName": "Zobar",
+      "lat": 33.122222,
+      "lng": 64.813333
+    },
+    {
+      "cityName": "Zolekhar-e Sofla",
+      "lat": 32.229167,
+      "lng": 63.623889
+    },
+    {
+      "cityName": "Zolekhar-e `Ulya",
+      "lat": 32.244167,
+      "lng": 63.638611
+    },
+    {
+      "cityName": "Zolmabad",
+      "lat": 32.256111,
+      "lng": 64.771111
+    },
+    {
+      "cityName": "Zumbelay",
+      "lat": 31.824722,
+      "lng": 64.691111
+    },
+    {
+      "cityName": "Zurungay",
+      "lat": 32.818611,
+      "lng": 64.948889
+    }
+  ]
+}

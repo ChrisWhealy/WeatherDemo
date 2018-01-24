@@ -1,0 +1,505 @@
+{
+  "name": "Erongo",
+  "cities": [
+    {
+      "cityName": "Amasbank",
+      "lat": -21.1166667,
+      "lng": 15.0666667
+    },
+    {
+      "cityName": "Anichab",
+      "lat": -23.35,
+      "lng": 14.5166667
+    },
+    {
+      "cityName": "Arandis",
+      "lat": -22.4166667,
+      "lng": 14.9666667
+    },
+    {
+      "cityName": "Arixa Ams",
+      "lat": -21.1833333,
+      "lng": 14.7833333
+    },
+    {
+      "cityName": "Aubinhonis",
+      "lat": -21.4166667,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Bethal",
+      "lat": -22.5666667,
+      "lng": 15.8666667
+    },
+    {
+      "cityName": "Birkenfels",
+      "lat": -22.6333333,
+      "lng": 14.7333333
+    },
+    {
+      "cityName": "Cape Cross",
+      "lat": -21.7666667,
+      "lng": 13.9666667
+    },
+    {
+      "cityName": "Daweb",
+      "lat": -21,
+      "lng": 14.8833333
+    },
+    {
+      "cityName": "Douglas",
+      "lat": -22.6333333,
+      "lng": 14.6666667
+    },
+    {
+      "cityName": "Ebenhaezer",
+      "lat": -22.6333333,
+      "lng": 14.65
+    },
+    {
+      "cityName": "Edoseb",
+      "lat": -23.2666667,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Emeritus",
+      "lat": -23,
+      "lng": 15.7166667
+    },
+    {
+      "cityName": "Goanikontes",
+      "lat": -22.6666667,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Gobabeb",
+      "lat": -23.55,
+      "lng": 15.0333333
+    },
+    {
+      "cityName": "Grieserau",
+      "lat": -22.6333333,
+      "lng": 14.6166667
+    },
+    {
+      "cityName": "Groot Uis",
+      "lat": -21.2166667,
+      "lng": 14.85
+    },
+    {
+      "cityName": "Hadi-Aus",
+      "lat": -21.3833333,
+      "lng": 15.2833333
+    },
+    {
+      "cityName": "Haigamchab",
+      "lat": -22.7,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Hentiesbaai",
+      "lat": -22.1166667,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Hildenhaf",
+      "lat": -22.7,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Homeb",
+      "lat": -23.6333333,
+      "lng": 15.1833333
+    },
+    {
+      "cityName": "Kaltenhausen",
+      "lat": -22.5333333,
+      "lng": 15.8833333
+    },
+    {
+      "cityName": "Karibib",
+      "lat": -21.9333333,
+      "lng": 15.8333333
+    },
+    {
+      "cityName": "Khan Mine",
+      "lat": -22.55,
+      "lng": 15
+    },
+    {
+      "cityName": "Klein Klipneus",
+      "lat": -23.4,
+      "lng": 14.9166667
+    },
+    {
+      "cityName": "Kraaipoort",
+      "lat": -23.1166667,
+      "lng": 15.8166667
+    },
+    {
+      "cityName": "Kramersdorf",
+      "lat": -22.6666667,
+      "lng": 14.5166667
+    },
+    {
+      "cityName": "Kuisebmond",
+      "lat": -22.9363889,
+      "lng": 14.5263889
+    },
+    {
+      "cityName": "Kwaggaspan",
+      "lat": -20.7666667,
+      "lng": 15.2666667
+    },
+    {
+      "cityName": "Meersig",
+      "lat": -22.9833333,
+      "lng": 14.4833333
+    },
+    {
+      "cityName": "Mondesa",
+      "lat": -22.65,
+      "lng": 14.5333333
+    },
+    {
+      "cityName": "Nainais",
+      "lat": -21.45,
+      "lng": 15.0666667
+    },
+    {
+      "cityName": "Narraville",
+      "lat": -22.9516667,
+      "lng": 14.5372222
+    },
+    {
+      "cityName": "Natab",
+      "lat": -23.6,
+      "lng": 15.0833333
+    },
+    {
+      "cityName": "Nuhoab",
+      "lat": -23.3333333,
+      "lng": 14.85
+    },
+    {
+      "cityName": "Nuniab",
+      "lat": -21.35,
+      "lng": 15.0333333
+    },
+    {
+      "cityName": "Nu-Uis",
+      "lat": -21.2333333,
+      "lng": 15.4
+    },
+    {
+      "cityName": "Okajape",
+      "lat": -20.95,
+      "lng": 15.5333333
+    },
+    {
+      "cityName": "Okamaere",
+      "lat": -20.8333333,
+      "lng": 15.4666667
+    },
+    {
+      "cityName": "Okambe-Odombo",
+      "lat": -20.8,
+      "lng": 15.0333333
+    },
+    {
+      "cityName": "Okaperre",
+      "lat": -20.9666667,
+      "lng": 15.6666667
+    },
+    {
+      "cityName": "Okaserawe",
+      "lat": -20.55,
+      "lng": 15.45
+    },
+    {
+      "cityName": "Okatjiho",
+      "lat": -21.1833333,
+      "lng": 15.2333333
+    },
+    {
+      "cityName": "Okawarongo",
+      "lat": -20.95,
+      "lng": 15.5166667
+    },
+    {
+      "cityName": "Okomapuku",
+      "lat": -21.1,
+      "lng": 15.45
+    },
+    {
+      "cityName": "Okombaha",
+      "lat": -20.9833333,
+      "lng": 15.3333333
+    },
+    {
+      "cityName": "Okombahe",
+      "lat": -21.3666667,
+      "lng": 15.3833333
+    },
+    {
+      "cityName": "Okomize",
+      "lat": -21.0166667,
+      "lng": 15.3166667
+    },
+    {
+      "cityName": "Okondomba",
+      "lat": -20.95,
+      "lng": 15.1666667
+    },
+    {
+      "cityName": "Okongwe",
+      "lat": -20.6666667,
+      "lng": 15.3666667
+    },
+    {
+      "cityName": "Okotjandjoura",
+      "lat": -20.6,
+      "lng": 15.4833333
+    },
+    {
+      "cityName": "Okotjize",
+      "lat": -20.6666667,
+      "lng": 15.2833333
+    },
+    {
+      "cityName": "Okotjoto",
+      "lat": -20.9833333,
+      "lng": 15.1833333
+    },
+    {
+      "cityName": "Omangambo",
+      "lat": -20.9,
+      "lng": 15.15
+    },
+    {
+      "cityName": "Omaruru",
+      "lat": -21.4333333,
+      "lng": 15.9333333
+    },
+    {
+      "cityName": "Omatjete",
+      "lat": -21.05,
+      "lng": 15.5
+    },
+    {
+      "cityName": "Omauzongaka",
+      "lat": -20.8333333,
+      "lng": 15.2166667
+    },
+    {
+      "cityName": "Omitjira",
+      "lat": -21.0833333,
+      "lng": 15.3333333
+    },
+    {
+      "cityName": "Omizema",
+      "lat": -20.8,
+      "lng": 15.1666667
+    },
+    {
+      "cityName": "Omutiwanduka",
+      "lat": -20.8,
+      "lng": 15.4833333
+    },
+    {
+      "cityName": "Omutjenya",
+      "lat": -21.05,
+      "lng": 15.6333333
+    },
+    {
+      "cityName": "Ondundo",
+      "lat": -20.75,
+      "lng": 15.45
+    },
+    {
+      "cityName": "Ondundotjiuapa",
+      "lat": -20.7166667,
+      "lng": 15.45
+    },
+    {
+      "cityName": "Orumwe",
+      "lat": -21.0666667,
+      "lng": 15.15
+    },
+    {
+      "cityName": "Osonhaui",
+      "lat": -20.8166667,
+      "lng": 15.0166667
+    },
+    {
+      "cityName": "Oswater",
+      "lat": -23.6166667,
+      "lng": 15.1666667
+    },
+    {
+      "cityName": "Otjimbingue",
+      "lat": -22.35,
+      "lng": 16.1333333
+    },
+    {
+      "cityName": "Otjiperongo",
+      "lat": -20.8333333,
+      "lng": 15.5833333
+    },
+    {
+      "cityName": "Otjivero",
+      "lat": -20.8666667,
+      "lng": 15.35
+    },
+    {
+      "cityName": "Otjiwapeke",
+      "lat": -20.8333333,
+      "lng": 15.1833333
+    },
+    {
+      "cityName": "Otjohorongo",
+      "lat": -20.9,
+      "lng": 15.55
+    },
+    {
+      "cityName": "Otjongeama",
+      "lat": -21.1833333,
+      "lng": 15.3166667
+    },
+    {
+      "cityName": "Otjongundu",
+      "lat": -20.8,
+      "lng": 15.2166667
+    },
+    {
+      "cityName": "Otjotopero",
+      "lat": -20.75,
+      "lng": 15.5166667
+    },
+    {
+      "cityName": "Otjozondjou",
+      "lat": -20.9166667,
+      "lng": 15.4666667
+    },
+    {
+      "cityName": "Otupopero",
+      "lat": -20.8666667,
+      "lng": 15.45
+    },
+    {
+      "cityName": "Ovehotua",
+      "lat": -20.9833333,
+      "lng": 15.6333333
+    },
+    {
+      "cityName": "Ozondati",
+      "lat": -20.9666667,
+      "lng": 15.2666667
+    },
+    {
+      "cityName": "Ozongaka",
+      "lat": -20.15,
+      "lng": 15.5333333
+    },
+    {
+      "cityName": "Rand Rifles",
+      "lat": -22.8283333,
+      "lng": 14.5427778
+    },
+    {
+      "cityName": "Rooibank",
+      "lat": -23.1833333,
+      "lng": 14.65
+    },
+    {
+      "cityName": "Ruimte",
+      "lat": -23.0666667,
+      "lng": 15.7166667
+    },
+    {
+      "cityName": "Salem",
+      "lat": -22.6833333,
+      "lng": 15.4333333
+    },
+    {
+      "cityName": "Santa",
+      "lat": -22.65,
+      "lng": 14.6333333
+    },
+    {
+      "cityName": "Schlesien Noord",
+      "lat": -23.1833333,
+      "lng": 15.8
+    },
+    {
+      "cityName": "Soutrivier",
+      "lat": -23.5833333,
+      "lng": 15.0166667
+    },
+    {
+      "cityName": "Swakopmund",
+      "lat": -22.6833333,
+      "lng": 14.5333333
+    },
+    {
+      "cityName": "Three Sisters",
+      "lat": -22.65,
+      "lng": 14.6833333
+    },
+    {
+      "cityName": "Tsaobis",
+      "lat": -22.5166667,
+      "lng": 15.85
+    },
+    {
+      "cityName": "Uigaran",
+      "lat": -21.5166667,
+      "lng": 15.45
+    },
+    {
+      "cityName": "Uitkoms",
+      "lat": -22.6333333,
+      "lng": 14.6333333
+    },
+    {
+      "cityName": "Ururas",
+      "lat": -23.2333333,
+      "lng": 14.7333333
+    },
+    {
+      "cityName": "Usakos",
+      "lat": -22,
+      "lng": 15.6
+    },
+    {
+      "cityName": "Vineta",
+      "lat": -22.65,
+      "lng": 14.5166667
+    },
+    {
+      "cityName": "Walfisch-Bucht-Niederland",
+      "lat": -22.9575,
+      "lng": 14.5052778
+    },
+    {
+      "cityName": "Welverdien",
+      "lat": -21.2833333,
+      "lng": 15.3
+    },
+    {
+      "cityName": "Wilhelmstal",
+      "lat": -21.9,
+      "lng": 16.3166667
+    },
+    {
+      "cityName": "Wlotzkasbaken",
+      "lat": -22.4166667,
+      "lng": 14.45
+    },
+    {
+      "cityName": "Zebedeus",
+      "lat": -21.3166667,
+      "lng": 14.8
+    }
+  ]
+}

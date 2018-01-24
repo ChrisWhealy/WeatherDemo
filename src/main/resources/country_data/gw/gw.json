@@ -1,0 +1,59 @@
+{
+  "name": "Guinea-Bissau",
+  "iso2": "gw",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Bafata",
+      "id": 0
+    },
+    {
+      "name": "Biombo",
+      "id": 1
+    },
+    {
+      "name": "Bissau",
+      "id": 2
+    },
+    {
+      "name": "Bolama",
+      "id": 3
+    },
+    {
+      "name": "Cacheu",
+      "id": 4
+    },
+    {
+      "name": "Gabu",
+      "id": 5
+    },
+    {
+      "name": "Oio",
+      "id": 6
+    },
+    {
+      "name": "Quinara",
+      "id": 7
+    },
+    {
+      "name": "Tombali",
+      "id": 8
+    }
+  ],
+  "geoRectangle": {
+    "West": -16.7175369263,
+    "East": -13.6365203857,
+    "North": 12.6807909012,
+    "South": 10.9242639542
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 0,
+    "Flg": 2,
+    "Name": "Bissau",
+    "GeoPt": [
+      11.51,
+      -15.35
+    ]
+  }
+}

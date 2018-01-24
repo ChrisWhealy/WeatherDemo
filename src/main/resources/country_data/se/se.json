@@ -1,0 +1,107 @@
+{
+  "name": "Sweden",
+  "iso2": "se",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Blekinge Lan",
+      "id": 0
+    },
+    {
+      "name": "Dalarnas Lan",
+      "id": 1
+    },
+    {
+      "name": "Gavleborgs Lan",
+      "id": 2
+    },
+    {
+      "name": "Gotlands Lan",
+      "id": 3
+    },
+    {
+      "name": "Hallands Lan",
+      "id": 4
+    },
+    {
+      "name": "Jamtlands Lan",
+      "id": 5
+    },
+    {
+      "name": "Jonkopings Lan",
+      "id": 6
+    },
+    {
+      "name": "Kalmar Lan",
+      "id": 7
+    },
+    {
+      "name": "Kronobergs Lan",
+      "id": 8
+    },
+    {
+      "name": "Norrbottens Lan",
+      "id": 9
+    },
+    {
+      "name": "Orebro Lan",
+      "id": 10
+    },
+    {
+      "name": "Ostergotlands Lan",
+      "id": 11
+    },
+    {
+      "name": "Skane Lan",
+      "id": 12
+    },
+    {
+      "name": "Sodermanlands Lan",
+      "id": 13
+    },
+    {
+      "name": "Stockholms Lan",
+      "id": 14
+    },
+    {
+      "name": "Uppsala Lan",
+      "id": 15
+    },
+    {
+      "name": "Varmlands Lan",
+      "id": 16
+    },
+    {
+      "name": "Vasterbottens Lan",
+      "id": 17
+    },
+    {
+      "name": "Vasternorrlands Lan",
+      "id": 18
+    },
+    {
+      "name": "Vastmanlands Lan",
+      "id": 19
+    },
+    {
+      "name": "Vastra Gotaland",
+      "id": 20
+    }
+  ],
+  "geoRectangle": {
+    "West": 11.1186923981,
+    "East": 24.1608924866,
+    "North": 69.0625076294,
+    "South": 55.3371047974
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Stockholm",
+    "GeoPt": [
+      59.2,
+      18.03
+    ]
+  }
+}

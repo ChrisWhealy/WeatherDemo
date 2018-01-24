@@ -1,0 +1,111 @@
+{
+  "name": "France",
+  "iso2": "fr",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Alsace",
+      "id": 0
+    },
+    {
+      "name": "Aquitaine",
+      "id": 1
+    },
+    {
+      "name": "Auvergne",
+      "id": 2
+    },
+    {
+      "name": "Basse-Normandie",
+      "id": 3
+    },
+    {
+      "name": "Bourgogne",
+      "id": 4
+    },
+    {
+      "name": "Bretagne",
+      "id": 5
+    },
+    {
+      "name": "Centre",
+      "id": 6
+    },
+    {
+      "name": "Champagne-Ardenne",
+      "id": 7
+    },
+    {
+      "name": "Corse",
+      "id": 8
+    },
+    {
+      "name": "Franche-Comte",
+      "id": 9
+    },
+    {
+      "name": "Haute-Normandie",
+      "id": 10
+    },
+    {
+      "name": "Ile-de-France",
+      "id": 11
+    },
+    {
+      "name": "Languedoc-Roussillon",
+      "id": 12
+    },
+    {
+      "name": "Limousin",
+      "id": 13
+    },
+    {
+      "name": "Lorraine",
+      "id": 14
+    },
+    {
+      "name": "Midi-Pyrenees",
+      "id": 15
+    },
+    {
+      "name": "Nord-Pas-de-Calais",
+      "id": 16
+    },
+    {
+      "name": "Pays de la Loire",
+      "id": 17
+    },
+    {
+      "name": "Picardie",
+      "id": 18
+    },
+    {
+      "name": "Poitou-Charentes",
+      "id": 19
+    },
+    {
+      "name": "Provence-Alpes-Cote d'Azur",
+      "id": 20
+    },
+    {
+      "name": "Rhone-Alpes",
+      "id": 21
+    }
+  ],
+  "geoRectangle": {
+    "West": -5.14222288132,
+    "East": 9.56155776978,
+    "North": 51.0928115845,
+    "South": 41.3715744019
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Paris",
+    "GeoPt": [
+      48.52,
+      2.2
+    ]
+  }
+}

@@ -1,0 +1,825 @@
+{
+  "name": "Taymyr",
+  "cities": [
+    {
+      "cityName": "Abagalak",
+      "lat": 70.4166667,
+      "lng": 90.0166667
+    },
+    {
+      "cityName": "Agapa",
+      "lat": 71.45,
+      "lng": 89.25
+    },
+    {
+      "cityName": "Alykel",
+      "lat": 69.38,
+      "lng": 87.3830556
+    },
+    {
+      "cityName": "Ambar",
+      "lat": 68.35,
+      "lng": 90.5833333
+    },
+    {
+      "cityName": "Anabyrka",
+      "lat": 72.1666667,
+      "lng": 110.8
+    },
+    {
+      "cityName": "Avam",
+      "lat": 71.1558333,
+      "lng": 92.8038889
+    },
+    {
+      "cityName": "Balagan",
+      "lat": 70.5333333,
+      "lng": 95
+    },
+    {
+      "cityName": "Baykalovo",
+      "lat": 70.6919444,
+      "lng": 83.6236111
+    },
+    {
+      "cityName": "Baykalovskiy",
+      "lat": 71.65,
+      "lng": 99
+    },
+    {
+      "cityName": "Belenkiy",
+      "lat": 71.2166667,
+      "lng": 97.9833333
+    },
+    {
+      "cityName": "Belyy",
+      "lat": 69.7,
+      "lng": 83.8333333
+    },
+    {
+      "cityName": "Bichezhnyy",
+      "lat": 72.0833333,
+      "lng": 104.1333333
+    },
+    {
+      "cityName": "Boganida",
+      "lat": 69.3694444,
+      "lng": 86.8088889
+    },
+    {
+      "cityName": "Bolshaya Kheta",
+      "lat": 67.7333333,
+      "lng": 83.7666667
+    },
+    {
+      "cityName": "Boyarka",
+      "lat": 70.7666667,
+      "lng": 97.5
+    },
+    {
+      "cityName": "Chasovnya",
+      "lat": 69.3333333,
+      "lng": 88.6333333
+    },
+    {
+      "cityName": "Chatanga",
+      "lat": 71.9666667,
+      "lng": 102.5
+    },
+    {
+      "cityName": "Chernaya",
+      "lat": 70.5166667,
+      "lng": 88.9666667
+    },
+    {
+      "cityName": "Cherva",
+      "lat": 68.7666667,
+      "lng": 86.0666667
+    },
+    {
+      "cityName": "Deryabina",
+      "lat": 70.7,
+      "lng": 82.3333333
+    },
+    {
+      "cityName": "Dikson",
+      "lat": 73.5069444,
+      "lng": 80.5463889
+    },
+    {
+      "cityName": "Dolgany",
+      "lat": 70.6666667,
+      "lng": 92.8
+    },
+    {
+      "cityName": "Dorofeyevskaya",
+      "lat": 71.3966667,
+      "lng": 82.9908333
+    },
+    {
+      "cityName": "Dudinka",
+      "lat": 69.4058333,
+      "lng": 86.1777778
+    },
+    {
+      "cityName": "Faktoriya Innokentyevskaya",
+      "lat": 71.5686111,
+      "lng": 83.1461111
+    },
+    {
+      "cityName": "Faktoriya Kheta",
+      "lat": 71.55,
+      "lng": 99.7166667
+    },
+    {
+      "cityName": "Faktoriya Kresty",
+      "lat": 70.75,
+      "lng": 89.8666667
+    },
+    {
+      "cityName": "Faktoriya Malyshevka",
+      "lat": 69.8,
+      "lng": 84.8333333
+    },
+    {
+      "cityName": "Faktoriya Novaya",
+      "lat": 71.75,
+      "lng": 101.3
+    },
+    {
+      "cityName": "Faktoriya Pelyatka",
+      "lat": 70.0666667,
+      "lng": 82.2
+    },
+    {
+      "cityName": "Faktoriya Vorontsova",
+      "lat": 71.6983333,
+      "lng": 83.5641667
+    },
+    {
+      "cityName": "Galchikha",
+      "lat": 71.7166667,
+      "lng": 83.6
+    },
+    {
+      "cityName": "Geologicheskiy",
+      "lat": 69.4,
+      "lng": 84.3666667
+    },
+    {
+      "cityName": "Gorely",
+      "lat": 71.5333333,
+      "lng": 98.8
+    },
+    {
+      "cityName": "Guli-Tsentralnoye",
+      "lat": 71,
+      "lng": 100.6
+    },
+    {
+      "cityName": "Gusikha",
+      "lat": 73.65,
+      "lng": 107.5
+    },
+    {
+      "cityName": "Ignatyevskiy",
+      "lat": 71.7,
+      "lng": 101.55
+    },
+    {
+      "cityName": "Ikon",
+      "lat": 70.4166667,
+      "lng": 89.75
+    },
+    {
+      "cityName": "Ilya",
+      "lat": 73.5666667,
+      "lng": 110.0833333
+    },
+    {
+      "cityName": "Imeni Stakhanova",
+      "lat": 71.7333333,
+      "lng": 101.15
+    },
+    {
+      "cityName": "Isayevskiy",
+      "lat": 71.8,
+      "lng": 100
+    },
+    {
+      "cityName": "Izba Levinskiy Pesok",
+      "lat": 69.4730556,
+      "lng": 85.995
+    },
+    {
+      "cityName": "Izba Selyakino",
+      "lat": 69.7125,
+      "lng": 84.0916667
+    },
+    {
+      "cityName": "Izba Vershininskaya",
+      "lat": 69.1666667,
+      "lng": 86.1
+    },
+    {
+      "cityName": "Kamen",
+      "lat": 70.6666667,
+      "lng": 95
+    },
+    {
+      "cityName": "Karaui",
+      "lat": 70.0766667,
+      "lng": 83.1913889
+    },
+    {
+      "cityName": "Karepovskiy",
+      "lat": 71.4166667,
+      "lng": 83.4191667
+    },
+    {
+      "cityName": "Kargo",
+      "lat": 71.2,
+      "lng": 98
+    },
+    {
+      "cityName": "Katyrik",
+      "lat": 71.2666667,
+      "lng": 99.4
+    },
+    {
+      "cityName": "Kayak",
+      "lat": 71.5333333,
+      "lng": 103.2166667
+    },
+    {
+      "cityName": "Kayyerkan",
+      "lat": 69.3533333,
+      "lng": 87.7672222
+    },
+    {
+      "cityName": "Kazachiy",
+      "lat": 71.55,
+      "lng": 83.6333333
+    },
+    {
+      "cityName": "Kazachye",
+      "lat": 72.05,
+      "lng": 102.6666667
+    },
+    {
+      "cityName": "Kazantsevo",
+      "lat": 69.8405556,
+      "lng": 83.7786111
+    },
+    {
+      "cityName": "Ken",
+      "lat": 72.6166667,
+      "lng": 106.7666667
+    },
+    {
+      "cityName": "Khantayka",
+      "lat": 68.2666667,
+      "lng": 86.6333333
+    },
+    {
+      "cityName": "Khantayskoye Ozero",
+      "lat": 68.2175,
+      "lng": 89.9955556
+    },
+    {
+      "cityName": "Khokiley",
+      "lat": 69.9833333,
+      "lng": 81.9833333
+    },
+    {
+      "cityName": "Kochikha",
+      "lat": 70.5666667,
+      "lng": 95.5
+    },
+    {
+      "cityName": "Koloma",
+      "lat": 70.25,
+      "lng": 94.7166667
+    },
+    {
+      "cityName": "Kommunarka",
+      "lat": 69.5333333,
+      "lng": 86.8166667
+    },
+    {
+      "cityName": "Kononovskiy",
+      "lat": 71.7333333,
+      "lng": 100.8333333
+    },
+    {
+      "cityName": "Korbulpak",
+      "lat": 71.1666667,
+      "lng": 94.25
+    },
+    {
+      "cityName": "Korennov",
+      "lat": 73.55,
+      "lng": 107.1666667
+    },
+    {
+      "cityName": "Kosistyy",
+      "lat": 73.6833333,
+      "lng": 109.8
+    },
+    {
+      "cityName": "Kozhevnikovo",
+      "lat": 73.55,
+      "lng": 110.3
+    },
+    {
+      "cityName": "Krestovskiy Vtoroy",
+      "lat": 71.9166667,
+      "lng": 102.1666667
+    },
+    {
+      "cityName": "Kurya",
+      "lat": 70.25,
+      "lng": 88.55
+    },
+    {
+      "cityName": "Ladygin Yar",
+      "lat": 70.8738889,
+      "lng": 83.5277778
+    },
+    {
+      "cityName": "Lama",
+      "lat": 70.3833333,
+      "lng": 82.3833333
+    },
+    {
+      "cityName": "Layda",
+      "lat": 71.7108333,
+      "lng": 83.2305556
+    },
+    {
+      "cityName": "Leskino",
+      "lat": 72.3166667,
+      "lng": 79.5
+    },
+    {
+      "cityName": "Letovye",
+      "lat": 71.3333333,
+      "lng": 94.25
+    },
+    {
+      "cityName": "Lipatnikovo",
+      "lat": 68.3833333,
+      "lng": 86.2333333
+    },
+    {
+      "cityName": "Lomonosovo",
+      "lat": 75.6333333,
+      "lng": 91.5
+    },
+    {
+      "cityName": "Lukinskiy",
+      "lat": 72.5,
+      "lng": 104.45
+    },
+    {
+      "cityName": "Lukinskoye",
+      "lat": 70.4,
+      "lng": 82.6333333
+    },
+    {
+      "cityName": "Luzino",
+      "lat": 68.9166667,
+      "lng": 85.8333333
+    },
+    {
+      "cityName": "Makarova",
+      "lat": 73.7166667,
+      "lng": 85.1666667
+    },
+    {
+      "cityName": "Malaya Kheta",
+      "lat": 69.565,
+      "lng": 84.5494444
+    },
+    {
+      "cityName": "Marka",
+      "lat": 73.6166667,
+      "lng": 106.75
+    },
+    {
+      "cityName": "Medvezhiy",
+      "lat": 69.2766667,
+      "lng": 88.2030556
+    },
+    {
+      "cityName": "Medvezhiy Yar",
+      "lat": 70.5333333,
+      "lng": 91.1
+    },
+    {
+      "cityName": "Messoyakha",
+      "lat": 69.1780556,
+      "lng": 82.3413889
+    },
+    {
+      "cityName": "Mezenskiy",
+      "lat": 71.3,
+      "lng": 98.2666667
+    },
+    {
+      "cityName": "Mikhaylova",
+      "lat": 75.095,
+      "lng": 86.9825
+    },
+    {
+      "cityName": "Mironovskaya",
+      "lat": 71.9166667,
+      "lng": 82.5833333
+    },
+    {
+      "cityName": "Mironovskiy",
+      "lat": 71.0833333,
+      "lng": 95.25
+    },
+    {
+      "cityName": "Monouchi",
+      "lat": 71.5,
+      "lng": 80.6666667
+    },
+    {
+      "cityName": "Munguy",
+      "lat": 70.435,
+      "lng": 83.7730556
+    },
+    {
+      "cityName": "Mys Vkhodnoy",
+      "lat": 73.8333333,
+      "lng": 86.75
+    },
+    {
+      "cityName": "Nadezhda",
+      "lat": 69.3222222,
+      "lng": 87.9758333
+    },
+    {
+      "cityName": "Nakhon",
+      "lat": 71.85,
+      "lng": 101.95
+    },
+    {
+      "cityName": "Narzoy",
+      "lat": 71.7619444,
+      "lng": 82.7022222
+    },
+    {
+      "cityName": "Nasonovsk",
+      "lat": 70.8833333,
+      "lng": 83.1666667
+    },
+    {
+      "cityName": "Nikolsk",
+      "lat": 69.0222222,
+      "lng": 86.1152778
+    },
+    {
+      "cityName": "Nizhneye",
+      "lat": 72.4166667,
+      "lng": 104
+    },
+    {
+      "cityName": "Nordvik Ugolnaya",
+      "lat": 74.0333333,
+      "lng": 111.5333333
+    },
+    {
+      "cityName": "Nosok",
+      "lat": 70.1641667,
+      "lng": 82.3413889
+    },
+    {
+      "cityName": "Notoga",
+      "lat": 69.9666667,
+      "lng": 84.15
+    },
+    {
+      "cityName": "Novoletovye",
+      "lat": 72.3166667,
+      "lng": 103.2
+    },
+    {
+      "cityName": "Novoluzino",
+      "lat": 68.9166667,
+      "lng": 86
+    },
+    {
+      "cityName": "Novorybnoye",
+      "lat": 72.8333333,
+      "lng": 105.8333333
+    },
+    {
+      "cityName": "Novyy Dikson",
+      "lat": 73.5266667,
+      "lng": 80.285
+    },
+    {
+      "cityName": "Novyy Kayak",
+      "lat": 71.4833333,
+      "lng": 103.3
+    },
+    {
+      "cityName": "Novyy",
+      "lat": 72.9666667,
+      "lng": 107.3166667
+    },
+    {
+      "cityName": "Oboynaya",
+      "lat": 72.45,
+      "lng": 104.1666667
+    },
+    {
+      "cityName": "Oktyabrskaya",
+      "lat": 69.5333333,
+      "lng": 86.95
+    },
+    {
+      "cityName": "Oshmarino",
+      "lat": 71.7833333,
+      "lng": 82.8333333
+    },
+    {
+      "cityName": "Paiturma",
+      "lat": 71.1166667,
+      "lng": 96.0833333
+    },
+    {
+      "cityName": "Pervaya Rassokha",
+      "lat": 71.2,
+      "lng": 96.6
+    },
+    {
+      "cityName": "Podkhrebetnyy",
+      "lat": 71.4833333,
+      "lng": 98.5833333
+    },
+    {
+      "cityName": "Pokusagyr",
+      "lat": 73.6666667,
+      "lng": 105.9166667
+    },
+    {
+      "cityName": "Polikarpovskoye",
+      "lat": 70.4097222,
+      "lng": 82.6691667
+    },
+    {
+      "cityName": "Polkino",
+      "lat": 71.1666667,
+      "lng": 99.2166667
+    },
+    {
+      "cityName": "Popigay",
+      "lat": 71.9166667,
+      "lng": 110.7833333
+    },
+    {
+      "cityName": "Poselok Aeroporta",
+      "lat": 69.3272222,
+      "lng": 87.3366667
+    },
+    {
+      "cityName": "Potapovo",
+      "lat": 68.6836111,
+      "lng": 86.2727778
+    },
+    {
+      "cityName": "Priluka",
+      "lat": 68.6666667,
+      "lng": 85.9666667
+    },
+    {
+      "cityName": "Pronchishcheva",
+      "lat": 75.6666667,
+      "lng": 113.3333333
+    },
+    {
+      "cityName": "Protoka",
+      "lat": 68.4666667,
+      "lng": 86.4166667
+    },
+    {
+      "cityName": "Pshenichnyy Ruchey",
+      "lat": 69.4544444,
+      "lng": 86.1244444
+    },
+    {
+      "cityName": "Pura",
+      "lat": 73.15,
+      "lng": 86.6833333
+    },
+    {
+      "cityName": "Ragozinka",
+      "lat": 72.7,
+      "lng": 80.8333333
+    },
+    {
+      "cityName": "Rassomashye",
+      "lat": 71.7666667,
+      "lng": 99.75
+    },
+    {
+      "cityName": "Rybnaya",
+      "lat": 72.2666667,
+      "lng": 105.3
+    },
+    {
+      "cityName": "Rybnoye",
+      "lat": 72.7666667,
+      "lng": 104.8
+    },
+    {
+      "cityName": "Sagyr",
+      "lat": 72.4833333,
+      "lng": 103.3166667
+    },
+    {
+      "cityName": "Samoyedskaya Rechka",
+      "lat": 70.4833333,
+      "lng": 90.2666667
+    },
+    {
+      "cityName": "Sidorovka",
+      "lat": 70.7941667,
+      "lng": 83.5797222
+    },
+    {
+      "cityName": "Sitkova",
+      "lat": 69.1777778,
+      "lng": 85.9216667
+    },
+    {
+      "cityName": "Sokolova",
+      "lat": 71.95,
+      "lng": 100.7833333
+    },
+    {
+      "cityName": "Sopkarga",
+      "lat": 71.8858333,
+      "lng": 82.6897222
+    },
+    {
+      "cityName": "Sosnovaya",
+      "lat": 72.3666667,
+      "lng": 78.6333333
+    },
+    {
+      "cityName": "Stanok Vedenskiy",
+      "lat": 70.1,
+      "lng": 88.4
+    },
+    {
+      "cityName": "Stanovye Zaostrovka",
+      "lat": 70.5,
+      "lng": 88.8666667
+    },
+    {
+      "cityName": "Staroletovye",
+      "lat": 72.4,
+      "lng": 103.6166667
+    },
+    {
+      "cityName": "Syndasko",
+      "lat": 73.2666667,
+      "lng": 108.3
+    },
+    {
+      "cityName": "Tagenarskoye",
+      "lat": 70.8333333,
+      "lng": 93.4
+    },
+    {
+      "cityName": "Tareya",
+      "lat": 73.2575,
+      "lng": 90.4825
+    },
+    {
+      "cityName": "Taymyr",
+      "lat": 68.2166667,
+      "lng": 90
+    },
+    {
+      "cityName": "Tochino",
+      "lat": 69.7594444,
+      "lng": 85.0988889
+    },
+    {
+      "cityName": "Tolsty Nos",
+      "lat": 70.1166667,
+      "lng": 83.1833333
+    },
+    {
+      "cityName": "Troitsk",
+      "lat": 71.7741667,
+      "lng": 83.4725
+    },
+    {
+      "cityName": "Tsapka-Layda",
+      "lat": 70.4166667,
+      "lng": 94.9833333
+    },
+    {
+      "cityName": "Tukhart",
+      "lat": 69.3263889,
+      "lng": 84.3680556
+    },
+    {
+      "cityName": "Tundra",
+      "lat": 69.4091667,
+      "lng": 86.6675
+    },
+    {
+      "cityName": "Tungusy Pervyye",
+      "lat": 70.6,
+      "lng": 92.2333333
+    },
+    {
+      "cityName": "Tungusy",
+      "lat": 70.6833333,
+      "lng": 93.9666667
+    },
+    {
+      "cityName": "Ugolnyy",
+      "lat": 69.3,
+      "lng": 88.05
+    },
+    {
+      "cityName": "Ust-Boganida",
+      "lat": 70.9166667,
+      "lng": 95.2666667
+    },
+    {
+      "cityName": "Ust Eniseiski Port",
+      "lat": 69.6644444,
+      "lng": 84.4094444
+    },
+    {
+      "cityName": "Ust-Namakan",
+      "lat": 70.6166667,
+      "lng": 94.9833333
+    },
+    {
+      "cityName": "Valek",
+      "lat": 69.4066667,
+      "lng": 88.2941667
+    },
+    {
+      "cityName": "Volchya",
+      "lat": 71.8,
+      "lng": 83.4333333
+    },
+    {
+      "cityName": "Volochanka",
+      "lat": 70.9666667,
+      "lng": 94.5666667
+    },
+    {
+      "cityName": "Vologochan",
+      "lat": 69.3866667,
+      "lng": 87.1436111
+    },
+    {
+      "cityName": "Vostochnaya",
+      "lat": 75.5,
+      "lng": 92
+    },
+    {
+      "cityName": "Yakovlevka",
+      "lat": 71.0305556,
+      "lng": 83.3525
+    },
+    {
+      "cityName": "Yar-Pan-Ty-Ya",
+      "lat": 70.1666667,
+      "lng": 80.8333333
+    },
+    {
+      "cityName": "Yuyakha",
+      "lat": 69.1508333,
+      "lng": 83.8166667
+    },
+    {
+      "cityName": "Zhdanikha",
+      "lat": 72.1666667,
+      "lng": 102.75
+    },
+    {
+      "cityName": "Zimovye Zyryanka",
+      "lat": 72.3833333,
+      "lng": 81.4
+    },
+    {
+      "cityName": "Zvereva",
+      "lat": 71.6666667,
+      "lng": 83.1666667
+    }
+  ]
+}

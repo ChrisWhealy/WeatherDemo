@@ -1,0 +1,55 @@
+{
+  "name": "Bermuda",
+  "iso2": "bm",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Devonshire",
+      "id": 0
+    },
+    {
+      "name": "Hamilton",
+      "id": 1
+    },
+    {
+      "name": "Paget",
+      "id": 2
+    },
+    {
+      "name": "Saint George",
+      "id": 3
+    },
+    {
+      "name": "Saint George's",
+      "id": 4
+    },
+    {
+      "name": "Sandys",
+      "id": 5
+    },
+    {
+      "name": "Smiths",
+      "id": 6
+    },
+    {
+      "name": "Warwick",
+      "id": 7
+    }
+  ],
+  "geoRectangle": {
+    "West": -64.8960647583,
+    "East": -64.6519851685,
+    "North": 32.3790092468,
+    "South": 32.2466316223
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": -4,
+    "Flg": 2,
+    "Name": "Hamilton",
+    "GeoPt": [
+      32.17,
+      -64.47
+    ]
+  }
+}

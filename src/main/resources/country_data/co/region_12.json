@@ -1,0 +1,895 @@
+{
+  "name": "Guainia",
+  "cities": [
+    {
+      "cityName": "Almidón",
+      "lat": 3.8216667,
+      "lng": -67.9527778
+    },
+    {
+      "cityName": "Arabia",
+      "lat": 3.6383333,
+      "lng": -69.0458333
+    },
+    {
+      "cityName": "Arrecifal",
+      "lat": 3.6341667,
+      "lng": -69.0511111
+    },
+    {
+      "cityName": "Bakiro",
+      "lat": 2.7613889,
+      "lng": -69.2041667
+    },
+    {
+      "cityName": "Barrancomina",
+      "lat": 3.4841667,
+      "lng": -69.8108333
+    },
+    {
+      "cityName": "Barranco Murciélago",
+      "lat": 3.5736111,
+      "lng": -69.5858333
+    },
+    {
+      "cityName": "Barranco Picure",
+      "lat": 3.5680556,
+      "lng": -69.6411111
+    },
+    {
+      "cityName": "Barranco Tigre",
+      "lat": 3.6002778,
+      "lng": -68.2741667
+    },
+    {
+      "cityName": "Barranquilla",
+      "lat": 2.9752778,
+      "lng": -68.955
+    },
+    {
+      "cityName": "Bartolo",
+      "lat": 2.3666667,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "Bellavista",
+      "lat": 2.4622222,
+      "lng": -68.2361111
+    },
+    {
+      "cityName": "Berraquia",
+      "lat": 2.6161111,
+      "lng": -67.4791667
+    },
+    {
+      "cityName": "Betania",
+      "lat": 3.6452778,
+      "lng": -68.1191667
+    },
+    {
+      "cityName": "Boca Caño Mina",
+      "lat": 3.5080556,
+      "lng": -69.7977778
+    },
+    {
+      "cityName": "Bocachico",
+      "lat": 2.2261111,
+      "lng": -67.2275
+    },
+    {
+      "cityName": "Boca del Uva",
+      "lat": 3.6663889,
+      "lng": -69.5277778
+    },
+    {
+      "cityName": "Bocas de Casiquiare",
+      "lat": 1.9833333,
+      "lng": -67.1666667
+    },
+    {
+      "cityName": "Brujas",
+      "lat": 2.3172222,
+      "lng": -68.4347222
+    },
+    {
+      "cityName": "Buenavista",
+      "lat": 2.4166667,
+      "lng": -68.25
+    },
+    {
+      "cityName": "Cabeza de Pava",
+      "lat": 2.8,
+      "lng": -69.2166667
+    },
+    {
+      "cityName": "Cacagual",
+      "lat": 3.5141667,
+      "lng": -67.4152778
+    },
+    {
+      "cityName": "Camico",
+      "lat": 2.6666667,
+      "lng": -67.6833333
+    },
+    {
+      "cityName": "Campo Alegre",
+      "lat": 1.8441667,
+      "lng": -69.0063889
+    },
+    {
+      "cityName": "Cándido",
+      "lat": 2.1666667,
+      "lng": -67.6166667
+    },
+    {
+      "cityName": "Caño Colorado",
+      "lat": 2.2802778,
+      "lng": -68.3675
+    },
+    {
+      "cityName": "Caranacoa",
+      "lat": 2.4130556,
+      "lng": -68.9233333
+    },
+    {
+      "cityName": "Cardanacoa",
+      "lat": 3.7608333,
+      "lng": -67.9788889
+    },
+    {
+      "cityName": "Caribén",
+      "lat": 3.4602778,
+      "lng": -69.8511111
+    },
+    {
+      "cityName": "Carlos",
+      "lat": 2.2963889,
+      "lng": -68.415
+    },
+    {
+      "cityName": "Carpintero",
+      "lat": 3.0602778,
+      "lng": -70.2627778
+    },
+    {
+      "cityName": "Carrizal",
+      "lat": 3.9430556,
+      "lng": -68.135
+    },
+    {
+      "cityName": "Caserío Garza",
+      "lat": 3.4769444,
+      "lng": -67.4025
+    },
+    {
+      "cityName": "Caserío San José",
+      "lat": 3.2869444,
+      "lng": -67.3852778
+    },
+    {
+      "cityName": "Casuarita",
+      "lat": 2.9555556,
+      "lng": -68.7911111
+    },
+    {
+      "cityName": "Catanacumane",
+      "lat": 2.1022222,
+      "lng": -67.1497222
+    },
+    {
+      "cityName": "Cejal",
+      "lat": 2.7366667,
+      "lng": -67.9211111
+    },
+    {
+      "cityName": "Celestino",
+      "lat": 2.4833333,
+      "lng": -67.65
+    },
+    {
+      "cityName": "Chequene",
+      "lat": 1.8,
+      "lng": -67.0833333
+    },
+    {
+      "cityName": "Conuco de Cicuar Viejo",
+      "lat": 3.4166667,
+      "lng": -68.1666667
+    },
+    {
+      "cityName": "Conuco de Ciucar",
+      "lat": 3.2166667,
+      "lng": -68.4833333
+    },
+    {
+      "cityName": "Cordillera del Guaviare",
+      "lat": 3.5427778,
+      "lng": -69.6741667
+    },
+    {
+      "cityName": "Corona",
+      "lat": 3.35,
+      "lng": -67.3333333
+    },
+    {
+      "cityName": "Culebra",
+      "lat": 2.45,
+      "lng": -70.15
+    },
+    {
+      "cityName": "Cumaral",
+      "lat": 3.6458333,
+      "lng": -68.8502778
+    },
+    {
+      "cityName": "Cunuma",
+      "lat": 3.6686111,
+      "lng": -67.4586111
+    },
+    {
+      "cityName": "Dánaco",
+      "lat": 2.6016667,
+      "lng": -67.4686111
+    },
+    {
+      "cityName": "Duygia",
+      "lat": 2.9166667,
+      "lng": -69.4166667
+    },
+    {
+      "cityName": "El Cesar",
+      "lat": 3.4563889,
+      "lng": -69.8483333
+    },
+    {
+      "cityName": "El Coco",
+      "lat": 3.9008333,
+      "lng": -67.9044444
+    },
+    {
+      "cityName": "El Delirio",
+      "lat": 3.9377778,
+      "lng": -67.8625
+    },
+    {
+      "cityName": "El Deseo",
+      "lat": 3.9152778,
+      "lng": -68.3452778
+    },
+    {
+      "cityName": "El Médano",
+      "lat": 3.6597222,
+      "lng": -67.4580556
+    },
+    {
+      "cityName": "El Pato",
+      "lat": 3.1338889,
+      "lng": -67.7755556
+    },
+    {
+      "cityName": "El Perro",
+      "lat": 3.7463889,
+      "lng": -68.5055556
+    },
+    {
+      "cityName": "El Remanso",
+      "lat": 3.4758333,
+      "lng": -67.9572222
+    },
+    {
+      "cityName": "El Tesoro",
+      "lat": 4.0061111,
+      "lng": -67.7841667
+    },
+    {
+      "cityName": "El Tigre",
+      "lat": 2.4666667,
+      "lng": -68.25
+    },
+    {
+      "cityName": "El Ubio",
+      "lat": 3.6788889,
+      "lng": -69.3358333
+    },
+    {
+      "cityName": "El Venado",
+      "lat": 3.4430556,
+      "lng": -67.9841667
+    },
+    {
+      "cityName": "Enrique",
+      "lat": 2.45,
+      "lng": -67.6666667
+    },
+    {
+      "cityName": "Espina",
+      "lat": 3.2155556,
+      "lng": -68.2375
+    },
+    {
+      "cityName": "Espíritu Santo",
+      "lat": 3.9272222,
+      "lng": -68.3413889
+    },
+    {
+      "cityName": "Etipaní",
+      "lat": 2.1833333,
+      "lng": -69.2
+    },
+    {
+      "cityName": "Francisco",
+      "lat": 2.65,
+      "lng": -69.3833333
+    },
+    {
+      "cityName": "Fuerte San Felipe",
+      "lat": 1.9055556,
+      "lng": -67.0855556
+    },
+    {
+      "cityName": "Galilea",
+      "lat": 1.6322222,
+      "lng": -66.9633333
+    },
+    {
+      "cityName": "Garza",
+      "lat": 3.2102778,
+      "lng": -70.1241667
+    },
+    {
+      "cityName": "Guacamayo",
+      "lat": 2.3166667,
+      "lng": -70.15
+    },
+    {
+      "cityName": "Guachúpiro",
+      "lat": 2.6333333,
+      "lng": -67.7166667
+    },
+    {
+      "cityName": "Guadalupe",
+      "lat": 1.2433333,
+      "lng": -66.8686111
+    },
+    {
+      "cityName": "Guaguai",
+      "lat": 2.2333333,
+      "lng": -69.0666667
+    },
+    {
+      "cityName": "Guamal",
+      "lat": 3.9955556,
+      "lng": -67.8461111
+    },
+    {
+      "cityName": "Guarinuma",
+      "lat": 2.3075,
+      "lng": -69.1202778
+    },
+    {
+      "cityName": "Guasamana",
+      "lat": 2.65,
+      "lng": -67.7666667
+    },
+    {
+      "cityName": "Guavabita",
+      "lat": 4.0252778,
+      "lng": -67.9880556
+    },
+    {
+      "cityName": "Guaviare",
+      "lat": 3.9222222,
+      "lng": -67.8597222
+    },
+    {
+      "cityName": "Guayanache",
+      "lat": 2.3766667,
+      "lng": -67.9486111
+    },
+    {
+      "cityName": "Guayare",
+      "lat": 3.9525,
+      "lng": -67.8325
+    },
+    {
+      "cityName": "Hipólito",
+      "lat": 2.9833333,
+      "lng": -69.2833333
+    },
+    {
+      "cityName": "Huesito",
+      "lat": 3.4516667,
+      "lng": -67.9391667
+    },
+    {
+      "cityName": "Iguanare",
+      "lat": 3.9033333,
+      "lng": -67.7097222
+    },
+    {
+      "cityName": "Inírida",
+      "lat": 3.8652778,
+      "lng": -67.9238889
+    },
+    {
+      "cityName": "Isana",
+      "lat": 1.7166667,
+      "lng": -69.8666667
+    },
+    {
+      "cityName": "Isleta",
+      "lat": 2.5138889,
+      "lng": -67.3777778
+    },
+    {
+      "cityName": "Jacomi",
+      "lat": 2.4666667,
+      "lng": -67.9166667
+    },
+    {
+      "cityName": "José María",
+      "lat": 2.2333333,
+      "lng": -68.1
+    },
+    {
+      "cityName": "Juan Viejo",
+      "lat": 3.3833333,
+      "lng": -68.2833333
+    },
+    {
+      "cityName": "La Ceiba",
+      "lat": 3.6263889,
+      "lng": -67.8836111
+    },
+    {
+      "cityName": "La Frontera",
+      "lat": 3.2461111,
+      "lng": -70.1305556
+    },
+    {
+      "cityName": "La Sabana",
+      "lat": 2.3833333,
+      "lng": -68.5
+    },
+    {
+      "cityName": "Las Palmeras",
+      "lat": 3.6808333,
+      "lng": -68.1975
+    },
+    {
+      "cityName": "Loro",
+      "lat": 2.2166667,
+      "lng": -69.5
+    },
+    {
+      "cityName": "Macacuní",
+      "lat": 1.3272222,
+      "lng": -66.8911111
+    },
+    {
+      "cityName": "Macanal",
+      "lat": 2.7741667,
+      "lng": -67.9133333
+    },
+    {
+      "cityName": "Manacacías",
+      "lat": 2.4066667,
+      "lng": -68.5752778
+    },
+    {
+      "cityName": "Manaciare",
+      "lat": 3.5166667,
+      "lng": -69.6833333
+    },
+    {
+      "cityName": "Mapiripana",
+      "lat": 2.6327778,
+      "lng": -68.0680556
+    },
+    {
+      "cityName": "Mapirriare",
+      "lat": 2.9,
+      "lng": -70.3
+    },
+    {
+      "cityName": "Maracoa",
+      "lat": 3.1077778,
+      "lng": -68.3188889
+    },
+    {
+      "cityName": "Maragua",
+      "lat": 2.6108333,
+      "lng": -67.7869444
+    },
+    {
+      "cityName": "Mariano",
+      "lat": 2.4666667,
+      "lng": -70.0666667
+    },
+    {
+      "cityName": "Marinuma",
+      "lat": 2.2833333,
+      "lng": -69.3833333
+    },
+    {
+      "cityName": "Mateguana",
+      "lat": 3.2533333,
+      "lng": -70.1361111
+    },
+    {
+      "cityName": "Matías",
+      "lat": 2.35,
+      "lng": -68
+    },
+    {
+      "cityName": "Matraca",
+      "lat": 2.8772222,
+      "lng": -69.1083333
+    },
+    {
+      "cityName": "Mavicure",
+      "lat": 3.4711111,
+      "lng": -67.9666667
+    },
+    {
+      "cityName": "Mingao",
+      "lat": 3.5833333,
+      "lng": -67.4525
+    },
+    {
+      "cityName": "Mituas",
+      "lat": 3.8666667,
+      "lng": -68.8166667
+    },
+    {
+      "cityName": "Morroco",
+      "lat": 3.0061111,
+      "lng": -68.7486111
+    },
+    {
+      "cityName": "Mosquito",
+      "lat": 2.5,
+      "lng": -69.8833333
+    },
+    {
+      "cityName": "Mosquitos",
+      "lat": 2.5166667,
+      "lng": -70.1333333
+    },
+    {
+      "cityName": "Naipo",
+      "lat": 2.8666667,
+      "lng": -69.6333333
+    },
+    {
+      "cityName": "Naquen",
+      "lat": 2.3055556,
+      "lng": -68.2816667
+    },
+    {
+      "cityName": "Nariz",
+      "lat": 3.2825,
+      "lng": -68.1161111
+    },
+    {
+      "cityName": "Nazareth",
+      "lat": 2.3697222,
+      "lng": -67.6758333
+    },
+    {
+      "cityName": "Niñal",
+      "lat": 3.6166667,
+      "lng": -68.2088889
+    },
+    {
+      "cityName": "Pajuil",
+      "lat": 3.8772222,
+      "lng": -67.9305556
+    },
+    {
+      "cityName": "Palmita",
+      "lat": 3.4630556,
+      "lng": -69.8538889
+    },
+    {
+      "cityName": "Pareza",
+      "lat": 2.25,
+      "lng": -69.25
+    },
+    {
+      "cityName": "Paso del Diablo",
+      "lat": 2.3347222,
+      "lng": -67.2005556
+    },
+    {
+      "cityName": "Patuco",
+      "lat": 1.6833333,
+      "lng": -67.0166667
+    },
+    {
+      "cityName": "Pauchí",
+      "lat": 3.9,
+      "lng": -67.85
+    },
+    {
+      "cityName": "Pavía San Agapito",
+      "lat": 3.1,
+      "lng": -68.7833333
+    },
+    {
+      "cityName": "Piapoco",
+      "lat": 3.1666667,
+      "lng": -68.9666667
+    },
+    {
+      "cityName": "Pilones",
+      "lat": 2.3605556,
+      "lng": -68.5752778
+    },
+    {
+      "cityName": "Ponta Tucuna",
+      "lat": 0.7,
+      "lng": -69.5333333
+    },
+    {
+      "cityName": "Poyare",
+      "lat": 3.9463889,
+      "lng": -67.8141667
+    },
+    {
+      "cityName": "Pueblonuevo",
+      "lat": 3.4227778,
+      "lng": -69.8916667
+    },
+    {
+      "cityName": "Pueblo Viejo",
+      "lat": 3.5680556,
+      "lng": -67.4380556
+    },
+    {
+      "cityName": "Puerto Castaña",
+      "lat": 3.3833333,
+      "lng": -70.0333333
+    },
+    {
+      "cityName": "Puerto Colombia",
+      "lat": 2.7202778,
+      "lng": -67.5644444
+    },
+    {
+      "cityName": "Puerto Cumare",
+      "lat": 2.35,
+      "lng": -69.7666667
+    },
+    {
+      "cityName": "Puerto Nuevo",
+      "lat": 3.6008333,
+      "lng": -69.5758333
+    },
+    {
+      "cityName": "Puerto Payara",
+      "lat": 3.2886111,
+      "lng": -68.1413889
+    },
+    {
+      "cityName": "Puerto Ramos",
+      "lat": 3.5386111,
+      "lng": -69.7041667
+    },
+    {
+      "cityName": "Puerto Valencia",
+      "lat": 2.55,
+      "lng": -69.65
+    },
+    {
+      "cityName": "Puerto Zancudo",
+      "lat": 3.1872222,
+      "lng": -70.145
+    },
+    {
+      "cityName": "Punta de Yuca",
+      "lat": 3.2627778,
+      "lng": -68.1936111
+    },
+    {
+      "cityName": "Sabanita",
+      "lat": 3.0488889,
+      "lng": -68.3308333
+    },
+    {
+      "cityName": "Samuro",
+      "lat": 3.2358333,
+      "lng": -68.2019444
+    },
+    {
+      "cityName": "San Anselmo",
+      "lat": 3.35,
+      "lng": -68.3666667
+    },
+    {
+      "cityName": "San Antonio",
+      "lat": 2.3772222,
+      "lng": -67.6841667
+    },
+    {
+      "cityName": "San Emeterio",
+      "lat": 2.6,
+      "lng": -67.45
+    },
+    {
+      "cityName": "San José",
+      "lat": 1.7166667,
+      "lng": -67.0333333
+    },
+    {
+      "cityName": "San Juan Bautista",
+      "lat": 2.7333333,
+      "lng": -69.2
+    },
+    {
+      "cityName": "San Juan",
+      "lat": 3.9166667,
+      "lng": -68.2
+    },
+    {
+      "cityName": "San Lorenzo",
+      "lat": 3.3286111,
+      "lng": -68.1288889
+    },
+    {
+      "cityName": "San Pedro",
+      "lat": 2.6094444,
+      "lng": -68.1097222
+    },
+    {
+      "cityName": "San Rafael",
+      "lat": 1.4133333,
+      "lng": -66.9141667
+    },
+    {
+      "cityName": "Santa Ana",
+      "lat": 2.35,
+      "lng": -68.25
+    },
+    {
+      "cityName": "Santa Cruz",
+      "lat": 3.1341667,
+      "lng": -68.2525
+    },
+    {
+      "cityName": "Santa Fe",
+      "lat": 3.63,
+      "lng": -69.4841667
+    },
+    {
+      "cityName": "Santa Helena",
+      "lat": 2.2077778,
+      "lng": -67.2258333
+    },
+    {
+      "cityName": "Santa Martha",
+      "lat": 4.0119444,
+      "lng": -67.9725
+    },
+    {
+      "cityName": "Santa Rita",
+      "lat": 2.2766667,
+      "lng": -68.3591667
+    },
+    {
+      "cityName": "Santa Rosa",
+      "lat": 2.5108333,
+      "lng": -68.2044444
+    },
+    {
+      "cityName": "San Yanaro",
+      "lat": 2.7833333,
+      "lng": -69.7
+    },
+    {
+      "cityName": "Sapuará",
+      "lat": 3.6630556,
+      "lng": -69.3608333
+    },
+    {
+      "cityName": "Sardina",
+      "lat": 2.0333333,
+      "lng": -67.1166667
+    },
+    {
+      "cityName": "Sejal Punta Tigre",
+      "lat": 2.5605556,
+      "lng": -68.9511111
+    },
+    {
+      "cityName": "Sinforiano",
+      "lat": 2.5333333,
+      "lng": -67.5666667
+    },
+    {
+      "cityName": "Sitio Viejo",
+      "lat": 2.3833333,
+      "lng": -68.25
+    },
+    {
+      "cityName": "Tabaquén",
+      "lat": 2.6033333,
+      "lng": -68.0522222
+    },
+    {
+      "cityName": "Tebi",
+      "lat": 3.0166667,
+      "lng": -68.7
+    },
+    {
+      "cityName": "Tibilibi",
+      "lat": 1.8333333,
+      "lng": -67.0666667
+    },
+    {
+      "cityName": "Tierra Negra",
+      "lat": 3.4377778,
+      "lng": -68.5327778
+    },
+    {
+      "cityName": "Tigre",
+      "lat": 2.4775,
+      "lng": -68.2413889
+    },
+    {
+      "cityName": "Tiriquín",
+      "lat": 2.3333333,
+      "lng": -67.2
+    },
+    {
+      "cityName": "Tomo",
+      "lat": 2.6333333,
+      "lng": -67.5666667
+    },
+    {
+      "cityName": "Tonina",
+      "lat": 2.8258333,
+      "lng": -67.7577778
+    },
+    {
+      "cityName": "Tucutibapo",
+      "lat": 1.7666667,
+      "lng": -67.0833333
+    },
+    {
+      "cityName": "Urumbi",
+      "lat": 1.7166667,
+      "lng": -69.9
+    },
+    {
+      "cityName": "Venado",
+      "lat": 2.7880556,
+      "lng": -67.8625
+    },
+    {
+      "cityName": "Villa María",
+      "lat": 3.6722222,
+      "lng": -68.2402778
+    },
+    {
+      "cityName": "Wiña",
+      "lat": 2.9702778,
+      "lng": -68.8963889
+    },
+    {
+      "cityName": "Yavico",
+      "lat": 2.2833333,
+      "lng": -68.0833333
+    },
+    {
+      "cityName": "Yurí",
+      "lat": 3.6427778,
+      "lng": -68.1544444
+    },
+    {
+      "cityName": "Zancudos",
+      "lat": 2.7694444,
+      "lng": -69.3575
+    }
+  ]
+}

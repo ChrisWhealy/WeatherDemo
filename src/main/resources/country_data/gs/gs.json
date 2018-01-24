@@ -1,0 +1,43 @@
+{
+  "name": "S. Georgia and S. Sandwich Islands",
+  "iso2": "gs",
+  "cities": [
+    {
+      "cityName": "Grytviken",
+      "lat": -54.2766667,
+      "lng": -36.5116667
+    },
+    {
+      "cityName": "Stromness",
+      "lat": -54.1561111,
+      "lng": -36.7161111
+    },
+    {
+      "cityName": "Husvik",
+      "lat": -54.180550,
+      "lng": -36.710473
+    },
+    {
+      "cityName": "Leith",
+      "lat": -54.141130,
+      "lng":  -36.687469
+    }
+  ],
+  "regionList": null,
+  "geoRectangle": {
+    "West": -38.311240,
+    "East": -35.733195,
+    "North": -53.957121,
+    "South": -54.901909
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": -2,
+    "Flg": 2,
+    "Name": "Grytviken",
+    "GeoPt": [
+      -54.2815,
+      -36.508
+    ]
+  }
+}

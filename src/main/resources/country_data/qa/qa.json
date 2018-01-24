@@ -1,0 +1,47 @@
+{
+  "name": "Qatar",
+  "iso2": "qa",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Ad Dawhah",
+      "id": 0
+    },
+    {
+      "name": "Al Jumaliyah",
+      "id": 1
+    },
+    {
+      "name": "Al Khawr",
+      "id": 2
+    },
+    {
+      "name": "Al Wakrah Municipality",
+      "id": 3
+    },
+    {
+      "name": "Madinat ach Shamal",
+      "id": 4
+    },
+    {
+      "name": "Umm Salal",
+      "id": 5
+    }
+  ],
+  "geoRectangle": {
+    "West": 50.7572135925,
+    "East": 51.6366462708,
+    "North": 26.1547241211,
+    "South": 24.4829406738
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 3,
+    "Flg": 2,
+    "Name": "Doha",
+    "GeoPt": [
+      25.17,
+      51.32
+    ]
+  }
+}

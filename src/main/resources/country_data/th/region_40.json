@@ -1,0 +1,920 @@
+{
+  "name": "Phayao",
+  "cities": [
+    {
+      "cityName": "Amphoe Ban Meung",
+      "lat": 19.166667,
+      "lng": 100.283333
+    },
+    {
+      "cityName": "Amphoe Chiang Kham",
+      "lat": 19.433333,
+      "lng": 100.233333
+    },
+    {
+      "cityName": "Amphoe Chieng Kum",
+      "lat": 19.523889,
+      "lng": 100.299167
+    },
+    {
+      "cityName": "Amphoe Chun",
+      "lat": 19.3,
+      "lng": 100.166667
+    },
+    {
+      "cityName": "Amphoe Moeang Bha Yao",
+      "lat": 19.166667,
+      "lng": 99.916667
+    },
+    {
+      "cityName": "Ban Baeng",
+      "lat": 19.25,
+      "lng": 100.366667
+    },
+    {
+      "cityName": "Ban Bun Yun",
+      "lat": 19.522222,
+      "lng": 100.341111
+    },
+    {
+      "cityName": "Ban Chae Haeng",
+      "lat": 19.541111,
+      "lng": 100.300833
+    },
+    {
+      "cityName": "Ban Cham Bon",
+      "lat": 19.538333,
+      "lng": 100.248333
+    },
+    {
+      "cityName": "Ban Cham Thulua",
+      "lat": 19.116667,
+      "lng": 100.083333
+    },
+    {
+      "cityName": "Ban Cham Tong",
+      "lat": 19.566667,
+      "lng": 100.466667
+    },
+    {
+      "cityName": "Ban Chiang Ban",
+      "lat": 19.514167,
+      "lng": 100.286389
+    },
+    {
+      "cityName": "Ban Chieng Ban",
+      "lat": 19.518056,
+      "lng": 100.282222
+    },
+    {
+      "cityName": "Ban Cho Ko",
+      "lat": 19.513056,
+      "lng": 100.370556
+    },
+    {
+      "cityName": "Ban Cho Ko Mai",
+      "lat": 19.508056,
+      "lng": 100.372222
+    },
+    {
+      "cityName": "Ban Chua Klang",
+      "lat": 19.3,
+      "lng": 99.8
+    },
+    {
+      "cityName": "Ban Daen Muang",
+      "lat": 19.549167,
+      "lng": 100.296944
+    },
+    {
+      "cityName": "Ban Daun Lau",
+      "lat": 19.522778,
+      "lng": 100.347222
+    },
+    {
+      "cityName": "Ban Daun Mun",
+      "lat": 19.648889,
+      "lng": 100.278611
+    },
+    {
+      "cityName": "Ban Daun Soi",
+      "lat": 19.609722,
+      "lng": 100.307778
+    },
+    {
+      "cityName": "Ban Don Chai",
+      "lat": 19.216667,
+      "lng": 100.333333
+    },
+    {
+      "cityName": "Ban Dong",
+      "lat": 19.383333,
+      "lng": 99.85
+    },
+    {
+      "cityName": "Ban Dong Bun Nak",
+      "lat": 19.416667,
+      "lng": 99.833333
+    },
+    {
+      "cityName": "Ban Don Ngoen",
+      "lat": 19.166667,
+      "lng": 100.233333
+    },
+    {
+      "cityName": "Ban Don Si Chum",
+      "lat": 19.570278,
+      "lng": 100.299167
+    },
+    {
+      "cityName": "Ban Don Tan",
+      "lat": 19.166667,
+      "lng": 100.3
+    },
+    {
+      "cityName": "Ban Dua",
+      "lat": 19.1,
+      "lng": 100.266667
+    },
+    {
+      "cityName": "Ban Fai Kaeo",
+      "lat": 19.2,
+      "lng": 100.316667
+    },
+    {
+      "cityName": "Ban Fai Kwang",
+      "lat": 19.466667,
+      "lng": 100.333333
+    },
+    {
+      "cityName": "Ban Gaum Gea",
+      "lat": 19.583333,
+      "lng": 100.366667
+    },
+    {
+      "cityName": "Ban Gea",
+      "lat": 19.616389,
+      "lng": 100.326111
+    },
+    {
+      "cityName": "Ban Hae",
+      "lat": 19.4,
+      "lng": 100.4
+    },
+    {
+      "cityName": "Ban Hong Luek",
+      "lat": 19.565278,
+      "lng": 100.296944
+    },
+    {
+      "cityName": "Ban Hong Po Ta Kham",
+      "lat": 19.25,
+      "lng": 99.933333
+    },
+    {
+      "cityName": "Ban Hong San",
+      "lat": 19.551667,
+      "lng": 100.361389
+    },
+    {
+      "cityName": "Ban Huai Chalong",
+      "lat": 19.65,
+      "lng": 100.366667
+    },
+    {
+      "cityName": "Ban Huai Faek",
+      "lat": 19.533333,
+      "lng": 100.483333
+    },
+    {
+      "cityName": "Ban Huai Fai",
+      "lat": 19.633333,
+      "lng": 100.35
+    },
+    {
+      "cityName": "Ban Huai Fuang",
+      "lat": 19.25,
+      "lng": 100.516667
+    },
+    {
+      "cityName": "Ban Huai Hia",
+      "lat": 19.183333,
+      "lng": 100.566667
+    },
+    {
+      "cityName": "Ban Huai Khian",
+      "lat": 19.012778,
+      "lng": 99.9075
+    },
+    {
+      "cityName": "Ban Huai Khok Mu",
+      "lat": 19.216667,
+      "lng": 100.266667
+    },
+    {
+      "cityName": "Ban Huai Khrai",
+      "lat": 19.416667,
+      "lng": 100.183333
+    },
+    {
+      "cityName": "Ban Huai Khun",
+      "lat": 19.05,
+      "lng": 100.533333
+    },
+    {
+      "cityName": "Ban Huai Kwao",
+      "lat": 19.25,
+      "lng": 100.466667
+    },
+    {
+      "cityName": "Ban Huai Ngiu",
+      "lat": 19.45,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Ban Huai Pa Hin",
+      "lat": 19.416667,
+      "lng": 99.166667
+    },
+    {
+      "cityName": "Ban Huai Pa Sang",
+      "lat": 19.283333,
+      "lng": 100.05
+    },
+    {
+      "cityName": "Ban Huai Pum",
+      "lat": 19.536667,
+      "lng": 100.446667
+    },
+    {
+      "cityName": "Ban Huai Sa",
+      "lat": 19.483333,
+      "lng": 100.366667
+    },
+    {
+      "cityName": "Ban Huai Tom Nai",
+      "lat": 19.183333,
+      "lng": 99.8
+    },
+    {
+      "cityName": "Ban Huai Tong",
+      "lat": 19.116667,
+      "lng": 100.416667
+    },
+    {
+      "cityName": "Ban Huai Yang Kham",
+      "lat": 19.35,
+      "lng": 100.15
+    },
+    {
+      "cityName": "Ban Huak",
+      "lat": 19.616667,
+      "lng": 100.333333
+    },
+    {
+      "cityName": "Ban Hua Khua",
+      "lat": 19.45,
+      "lng": 100.1
+    },
+    {
+      "cityName": "Ban Kae Mai",
+      "lat": 19.603056,
+      "lng": 100.325
+    },
+    {
+      "cityName": "Ban Kasathi",
+      "lat": 19.366667,
+      "lng": 100
+    },
+    {
+      "cityName": "Ban Keam",
+      "lat": 19.528611,
+      "lng": 100.365278
+    },
+    {
+      "cityName": "Ban Khanaeng",
+      "lat": 19.433333,
+      "lng": 100.466667
+    },
+    {
+      "cityName": "Ban Khok Mu",
+      "lat": 19.35,
+      "lng": 99.75
+    },
+    {
+      "cityName": "Ban Khot Yao",
+      "lat": 19.610833,
+      "lng": 100.372222
+    },
+    {
+      "cityName": "Ban Khun Huai Hok",
+      "lat": 19.166667,
+      "lng": 100.55
+    },
+    {
+      "cityName": "Ban Khun Nam Lao",
+      "lat": 19.433333,
+      "lng": 100.533333
+    },
+    {
+      "cityName": "Ban Kiam Fin",
+      "lat": 19.25,
+      "lng": 100.566667
+    },
+    {
+      "cityName": "Ban Kiu Chomphu",
+      "lat": 19.466667,
+      "lng": 100.216667
+    },
+    {
+      "cityName": "Ban Kiu Kaeo",
+      "lat": 19.383333,
+      "lng": 100.083333
+    },
+    {
+      "cityName": "Ban Kluai Khrai",
+      "lat": 19.35,
+      "lng": 100
+    },
+    {
+      "cityName": "Ban Ko Luang",
+      "lat": 19.35,
+      "lng": 100.583333
+    },
+    {
+      "cityName": "Ban Kom",
+      "lat": 19.511389,
+      "lng": 100.317222
+    },
+    {
+      "cityName": "Ban Ko Noi",
+      "lat": 19.577778,
+      "lng": 100.348056
+    },
+    {
+      "cityName": "Ban Kot",
+      "lat": 19.333333,
+      "lng": 100.166667
+    },
+    {
+      "cityName": "Ban Kwan",
+      "lat": 19.517778,
+      "lng": 100.335278
+    },
+    {
+      "cityName": "Ban La",
+      "lat": 19.508333,
+      "lng": 100.312778
+    },
+    {
+      "cityName": "Ban Lai",
+      "lat": 19.576389,
+      "lng": 100.332222
+    },
+    {
+      "cityName": "Ban Lao Ri",
+      "lat": 19.366667,
+      "lng": 100.433333
+    },
+    {
+      "cityName": "Ban Lao Ta Sung",
+      "lat": 19.716667,
+      "lng": 100.433333
+    },
+    {
+      "cityName": "Ban Lian Thong",
+      "lat": 19.620278,
+      "lng": 100.351111
+    },
+    {
+      "cityName": "Ban Mae Chai Tai",
+      "lat": 19.25,
+      "lng": 99.75
+    },
+    {
+      "cityName": "Ban Mae Ing",
+      "lat": 19.166667,
+      "lng": 99.95
+    },
+    {
+      "cityName": "Ban Maeo Khao",
+      "lat": 19.541667,
+      "lng": 100.455556
+    },
+    {
+      "cityName": "Ban Maeo Long Hao",
+      "lat": 19.45,
+      "lng": 100.466667
+    },
+    {
+      "cityName": "Ban Mae Sai Luang",
+      "lat": 19.133333,
+      "lng": 99.85
+    },
+    {
+      "cityName": "Ban Mae Tam",
+      "lat": 19.433333,
+      "lng": 100.133333
+    },
+    {
+      "cityName": "Ban Mae Thai",
+      "lat": 19.266667,
+      "lng": 100.316667
+    },
+    {
+      "cityName": "Ban Mae Wang Chang",
+      "lat": 19.283333,
+      "lng": 100.233333
+    },
+    {
+      "cityName": "Ban Mai",
+      "lat": 19.283333,
+      "lng": 100.6
+    },
+    {
+      "cityName": "Ban Mai Charoen Suk",
+      "lat": 19.506389,
+      "lng": 100.372778
+    },
+    {
+      "cityName": "Ban Mai Phrai Son",
+      "lat": 19.524722,
+      "lng": 100.336667
+    },
+    {
+      "cityName": "Ban Mai Rom Yen",
+      "lat": 19.530833,
+      "lng": 100.370833
+    },
+    {
+      "cityName": "Ban Mang",
+      "lat": 19.520278,
+      "lng": 100.294722
+    },
+    {
+      "cityName": "Ban Muang Chum",
+      "lat": 19.624167,
+      "lng": 100.375833
+    },
+    {
+      "cityName": "Ban Muang Chum Tai",
+      "lat": 19.620833,
+      "lng": 100.368611
+    },
+    {
+      "cityName": "Ban Nam Hak",
+      "lat": 19.316667,
+      "lng": 100.366667
+    },
+    {
+      "cityName": "Ban Nam Khwae Noi",
+      "lat": 19.316667,
+      "lng": 100.616667
+    },
+    {
+      "cityName": "Ban Nam Puai",
+      "lat": 19.594722,
+      "lng": 100.295833
+    },
+    {
+      "cityName": "Ban Nam Puk",
+      "lat": 19.2,
+      "lng": 100.466667
+    },
+    {
+      "cityName": "Ban Nam Wao",
+      "lat": 19.116667,
+      "lng": 100.6
+    },
+    {
+      "cityName": "Ban Naung Keam",
+      "lat": 19.631944,
+      "lng": 100.3625
+    },
+    {
+      "cityName": "Ban Naung Lao",
+      "lat": 19.640278,
+      "lng": 100.366111
+    },
+    {
+      "cityName": "Ban Ngun",
+      "lat": 19.517778,
+      "lng": 100.298333
+    },
+    {
+      "cityName": "Ban Ngun Pi",
+      "lat": 18.966667,
+      "lng": 100.5
+    },
+    {
+      "cityName": "Ban Nong",
+      "lat": 19.520278,
+      "lng": 100.365
+    },
+    {
+      "cityName": "Ban Nong Bua",
+      "lat": 19.283333,
+      "lng": 100.383333
+    },
+    {
+      "cityName": "Ban Nong Luang",
+      "lat": 19.616667,
+      "lng": 100.466667
+    },
+    {
+      "cityName": "Ban Nong Pa Phae",
+      "lat": 19.508889,
+      "lng": 100.358889
+    },
+    {
+      "cityName": "Ban Pa Daet",
+      "lat": 19.514722,
+      "lng": 100.306389
+    },
+    {
+      "cityName": "Ban Pa Fang",
+      "lat": 19.283333,
+      "lng": 99.983333
+    },
+    {
+      "cityName": "Ban Pa Hom",
+      "lat": 19.617778,
+      "lng": 100.292778
+    },
+    {
+      "cityName": "Ban Pa Kham",
+      "lat": 19.433333,
+      "lng": 99.85
+    },
+    {
+      "cityName": "Ban Pa Kluai",
+      "lat": 19.55,
+      "lng": 100.45
+    },
+    {
+      "cityName": "Ban Pa Mai Si Luang",
+      "lat": 19.45,
+      "lng": 99.966667
+    },
+    {
+      "cityName": "Ban Pang Luang",
+      "lat": 19.617778,
+      "lng": 100.391944
+    },
+    {
+      "cityName": "Ban Pang Miang",
+      "lat": 19.466667,
+      "lng": 100.433333
+    },
+    {
+      "cityName": "Ban Pang Phak Hom",
+      "lat": 19.333333,
+      "lng": 100.333333
+    },
+    {
+      "cityName": "Ban Pang Pop Huai Pum",
+      "lat": 19.535278,
+      "lng": 100.418889
+    },
+    {
+      "cityName": "Ban Pang Tham",
+      "lat": 19.501944,
+      "lng": 100.456389
+    },
+    {
+      "cityName": "Ban Pang Wua",
+      "lat": 19.544444,
+      "lng": 100.280833
+    },
+    {
+      "cityName": "Ban Pang Wua Huai Phaek",
+      "lat": 19.533889,
+      "lng": 100.478611
+    },
+    {
+      "cityName": "Ban Pa Sak",
+      "lat": 19.560556,
+      "lng": 100.296944
+    },
+    {
+      "cityName": "Ban Pha Daeng",
+      "lat": 19.15,
+      "lng": 100.566667
+    },
+    {
+      "cityName": "Ban Phaet",
+      "lat": 18.883333,
+      "lng": 100.283333
+    },
+    {
+      "cityName": "Ban Pha Hao",
+      "lat": 19.466667,
+      "lng": 100.283333
+    },
+    {
+      "cityName": "Ban Pha Lat",
+      "lat": 19.35,
+      "lng": 100.316667
+    },
+    {
+      "cityName": "Ban Pha Ngua",
+      "lat": 19.066667,
+      "lng": 100.533333
+    },
+    {
+      "cityName": "Ban Pha Tang",
+      "lat": 19.116667,
+      "lng": 100.383333
+    },
+    {
+      "cityName": "Ban Phra Nang Din",
+      "lat": 19.5,
+      "lng": 100.35
+    },
+    {
+      "cityName": "Ban Phung",
+      "lat": 19.608333,
+      "lng": 100.335
+    },
+    {
+      "cityName": "Ban Pin",
+      "lat": 19.518056,
+      "lng": 100.344444
+    },
+    {
+      "cityName": "Ban Poat",
+      "lat": 19.504167,
+      "lng": 100.277778
+    },
+    {
+      "cityName": "Ban Pong",
+      "lat": 19.575556,
+      "lng": 100.321667
+    },
+    {
+      "cityName": "Ban Pong Ma-o",
+      "lat": 19.366667,
+      "lng": 100.533333
+    },
+    {
+      "cityName": "Ban Pracha Phakdi",
+      "lat": 19.554167,
+      "lng": 100.365556
+    },
+    {
+      "cityName": "Ban Pua",
+      "lat": 19.529167,
+      "lng": 100.325833
+    },
+    {
+      "cityName": "Ban Puai Piang",
+      "lat": 19.545,
+      "lng": 100.312778
+    },
+    {
+      "cityName": "Ban Pu",
+      "lat": 19.521389,
+      "lng": 100.330833
+    },
+    {
+      "cityName": "Ban Rai Na Dieo",
+      "lat": 18.986944,
+      "lng": 99.905
+    },
+    {
+      "cityName": "Ban Raung",
+      "lat": 19.518333,
+      "lng": 100.354444
+    },
+    {
+      "cityName": "Ban Rong Chua",
+      "lat": 19.2,
+      "lng": 99.983333
+    },
+    {
+      "cityName": "Ban Rong Ha",
+      "lat": 19.2,
+      "lng": 99.866667
+    },
+    {
+      "cityName": "Ban Rong Kat",
+      "lat": 19.116667,
+      "lng": 99.95
+    },
+    {
+      "cityName": "Ban Rong Khom",
+      "lat": 19.508889,
+      "lng": 100.340556
+    },
+    {
+      "cityName": "Ban Rong Maet",
+      "lat": 19.45,
+      "lng": 100.133333
+    },
+    {
+      "cityName": "Ban Sa",
+      "lat": 19.6,
+      "lng": 100.397222
+    },
+    {
+      "cityName": "Ban Sak Noi",
+      "lat": 19.516667,
+      "lng": 100.116667
+    },
+    {
+      "cityName": "Ban Sa La",
+      "lat": 19.183333,
+      "lng": 99.933333
+    },
+    {
+      "cityName": "Ban Salaeng",
+      "lat": 19.626944,
+      "lng": 100.295556
+    },
+    {
+      "cityName": "Ban San Chok Pok",
+      "lat": 19.15,
+      "lng": 99.933333
+    },
+    {
+      "cityName": "Ban San Khong",
+      "lat": 19.2,
+      "lng": 100.066667
+    },
+    {
+      "cityName": "Ban San Luang",
+      "lat": 19.416667,
+      "lng": 100.133333
+    },
+    {
+      "cityName": "Ban San Pa Hat",
+      "lat": 19.25,
+      "lng": 100.016667
+    },
+    {
+      "cityName": "Ban San Pa Sak",
+      "lat": 19.233333,
+      "lng": 99.966667
+    },
+    {
+      "cityName": "Ban San Pu Loei",
+      "lat": 19.516667,
+      "lng": 100.133333
+    },
+    {
+      "cityName": "Ban So",
+      "lat": 19.003056,
+      "lng": 99.895833
+    },
+    {
+      "cityName": "Ban Song Khwae",
+      "lat": 19.333333,
+      "lng": 100.616667
+    },
+    {
+      "cityName": "Ban Song Sop",
+      "lat": 18.883333,
+      "lng": 100.15
+    },
+    {
+      "cityName": "Ban Sop Bong",
+      "lat": 19.578333,
+      "lng": 100.298056
+    },
+    {
+      "cityName": "Ban Sop Khun",
+      "lat": 19.066667,
+      "lng": 100.516667
+    },
+    {
+      "cityName": "Ban Sop Sa",
+      "lat": 19.519722,
+      "lng": 100.371389
+    },
+    {
+      "cityName": "Ban Sop Waen",
+      "lat": 19.550833,
+      "lng": 100.282778
+    },
+    {
+      "cityName": "Ban Suan Ya Luang",
+      "lat": 19.233333,
+      "lng": 100.6
+    },
+    {
+      "cityName": "Ban Talat",
+      "lat": 19.525556,
+      "lng": 100.306944
+    },
+    {
+      "cityName": "Ban Tam Phra Lae",
+      "lat": 19.216667,
+      "lng": 99.833333
+    },
+    {
+      "cityName": "Ban Thang Nam",
+      "lat": 19.166667,
+      "lng": 100.066667
+    },
+    {
+      "cityName": "Ban That",
+      "lat": 19.3,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Ban Tha Ton Hat",
+      "lat": 19.35,
+      "lng": 99.766667
+    },
+    {
+      "cityName": "Ban That Phu Sang",
+      "lat": 19.645,
+      "lng": 100.367222
+    },
+    {
+      "cityName": "Ban Thin",
+      "lat": 19.598333,
+      "lng": 100.323333
+    },
+    {
+      "cityName": "Ban Thung",
+      "lat": 19.529722,
+      "lng": 100.308889
+    },
+    {
+      "cityName": "Ban Thung Gluai",
+      "lat": 19.589722,
+      "lng": 100.372222
+    },
+    {
+      "cityName": "Ban Thung Hong",
+      "lat": 19.133333,
+      "lng": 100
+    },
+    {
+      "cityName": "Ban Thung Mok",
+      "lat": 19.528889,
+      "lng": 100.285833
+    },
+    {
+      "cityName": "Ban Thung Ruang Thong",
+      "lat": 19.5675,
+      "lng": 100.366389
+    },
+    {
+      "cityName": "Ban Thung Tio",
+      "lat": 19.649167,
+      "lng": 100.353889
+    },
+    {
+      "cityName": "Ban Ton Haen",
+      "lat": 19.4,
+      "lng": 99.983333
+    },
+    {
+      "cityName": "Ban Wai Rong Khok",
+      "lat": 19.1,
+      "lng": 99.95
+    },
+    {
+      "cityName": "Ban Wang Khem",
+      "lat": 19.5275,
+      "lng": 100.316667
+    },
+    {
+      "cityName": "Ban Wang Khem Mai",
+      "lat": 19.538889,
+      "lng": 100.312778
+    },
+    {
+      "cityName": "Ban Wiang",
+      "lat": 19.505833,
+      "lng": 100.323889
+    },
+    {
+      "cityName": "Ban Yao Huai Luk",
+      "lat": 19.466667,
+      "lng": 100.5
+    },
+    {
+      "cityName": "Ban Yao Nong Ha",
+      "lat": 19.466667,
+      "lng": 100.55
+    },
+    {
+      "cityName": "Ban Yao Ta",
+      "lat": 19.433333,
+      "lng": 100.55
+    },
+    {
+      "cityName": "Ban Yao Tum Hong",
+      "lat": 19.466667,
+      "lng": 100.566667
+    },
+    {
+      "cityName": "King Amphoe Pa Daet",
+      "lat": 19.433333,
+      "lng": 99.95
+    }
+  ]
+}

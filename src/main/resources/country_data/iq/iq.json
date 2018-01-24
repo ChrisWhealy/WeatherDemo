@@ -1,0 +1,95 @@
+{
+  "name": "Iraq",
+  "iso2": "iq",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Al Anbar",
+      "id": 0
+    },
+    {
+      "name": "Al Basrah",
+      "id": 1
+    },
+    {
+      "name": "Al Muthanna",
+      "id": 2
+    },
+    {
+      "name": "Al Qadisiyah",
+      "id": 3
+    },
+    {
+      "name": "An Najaf",
+      "id": 4
+    },
+    {
+      "name": "Arbil",
+      "id": 5
+    },
+    {
+      "name": "As Sulaymaniyah",
+      "id": 6
+    },
+    {
+      "name": "At Ta'mim",
+      "id": 7
+    },
+    {
+      "name": "Babil",
+      "id": 8
+    },
+    {
+      "name": "Baghdad",
+      "id": 9
+    },
+    {
+      "name": "Dahuk",
+      "id": 10
+    },
+    {
+      "name": "Dhi Qar",
+      "id": 11
+    },
+    {
+      "name": "Diyala",
+      "id": 12
+    },
+    {
+      "name": "Karbala'",
+      "id": 13
+    },
+    {
+      "name": "Maysan",
+      "id": 14
+    },
+    {
+      "name": "Ninawa",
+      "id": 15
+    },
+    {
+      "name": "Salah ad Din",
+      "id": 16
+    },
+    {
+      "name": "Wasit",
+      "id": 17
+    }
+  ],
+  "geoRectangle": {
+    "West": 38.7958831787,
+    "East": 48.575920105,
+    "North": 37.378036499,
+    "South": 29.069442749
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 3,
+    "Flg": 2,
+    "Name": "Baghdad",
+    "GeoPt": [
+      33.2,
+      44.23
+    ]
+  }
+}

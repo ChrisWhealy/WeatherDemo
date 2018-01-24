@@ -1,0 +1,58 @@
+{
+  "name": "Timor-Leste",
+  "iso2": "tl",
+  "capital": {
+    "DLST": "null",
+    "TD": 9,
+    "Flg": 2,
+    "Name": "Dili",
+    "GeoPt": [
+      -8.35,
+      125.36
+    ]
+  },
+  "geoRectangle": {
+    "West": 124.046089172,
+    "East": 127.308601379,
+    "North": -8.13583278656,
+    "South": -9.46362781525
+  },
+  "regionList": null,
+  "cities": [
+    {
+      "cityName": "Naibaroc",
+      "lng": 126.376106,
+      "lat": -8.88194
+    },
+    {
+      "cityName": "Parlamento",
+      "lng": 126.38472,
+      "lat": -8.46
+    },
+    {
+      "cityName": "Distrito Díli",
+      "lng": 125.666672,
+      "lat": -8.55
+    },
+    {
+      "cityName": "Dili",
+      "lng": 125.573608,
+      "lat": -8.55861
+    },
+    {
+      "cityName": "Ainaro",
+      "lng": 125.508163,
+      "lat": -8.99241
+    },
+    {
+      "cityName": "Aileu",
+      "lng": 125.566391,
+      "lat": -8.72806
+    },
+    {
+      "cityName": "Lospalos",
+      "lng": 127.002502,
+      "lat": -8.51861
+    }
+  ]
+}

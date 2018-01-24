@@ -1,0 +1,630 @@
+{
+  "name": "Bedfordshire",
+  "cities": [
+    {
+      "cityName": "Ampthill",
+      "lat": 52.033333,
+      "lng": -0.483333
+    },
+    {
+      "cityName": "Arlesey",
+      "lat": 52,
+      "lng": -0.233333
+    },
+    {
+      "cityName": "Astley",
+      "lat": 51.483333,
+      "lng": -1.533333
+    },
+    {
+      "cityName": "Astwick",
+      "lat": 52.033333,
+      "lng": -0.216667
+    },
+    {
+      "cityName": "Astwood",
+      "lat": 52.1,
+      "lng": -0.6
+    },
+    {
+      "cityName": "Barton",
+      "lat": 51.95,
+      "lng": -0.416667
+    },
+    {
+      "cityName": "Battlesden",
+      "lat": 51.933333,
+      "lng": -0.583333
+    },
+    {
+      "cityName": "Bedford",
+      "lat": 52.133333,
+      "lng": -0.45
+    },
+    {
+      "cityName": "Biddenham",
+      "lat": 52.133333,
+      "lng": -0.5
+    },
+    {
+      "cityName": "Biggleswade",
+      "lat": 52.083333,
+      "lng": -0.266667
+    },
+    {
+      "cityName": "Billington",
+      "lat": 51.883333,
+      "lng": -0.633333
+    },
+    {
+      "cityName": "Blunham",
+      "lat": 52.133333,
+      "lng": -0.316667
+    },
+    {
+      "cityName": "Boxford",
+      "lat": 51.433333,
+      "lng": -1.383333
+    },
+    {
+      "cityName": "Bromham",
+      "lat": 52.15,
+      "lng": -0.516667
+    },
+    {
+      "cityName": "Caddington",
+      "lat": 51.85,
+      "lng": -0.45
+    },
+    {
+      "cityName": "Cardington",
+      "lat": 52.116667,
+      "lng": -0.4
+    },
+    {
+      "cityName": "Chiltern Green",
+      "lat": 51.85,
+      "lng": -0.35
+    },
+    {
+      "cityName": "Chudleigh",
+      "lat": 50.6,
+      "lng": -3.583333
+    },
+    {
+      "cityName": "Chudleigh Knighton",
+      "lat": 50.583333,
+      "lng": -3.616667
+    },
+    {
+      "cityName": "Clapham",
+      "lat": 52.15,
+      "lng": -0.483333
+    },
+    {
+      "cityName": "Clifton",
+      "lat": 52.033333,
+      "lng": -0.3
+    },
+    {
+      "cityName": "Clophill",
+      "lat": 52.016667,
+      "lng": -0.416667
+    },
+    {
+      "cityName": "Cople",
+      "lat": 52.116667,
+      "lng": -0.383333
+    },
+    {
+      "cityName": "Cranfield",
+      "lat": 52.066667,
+      "lng": -0.6
+    },
+    {
+      "cityName": "Dunstable",
+      "lat": 51.883333,
+      "lng": -0.516667
+    },
+    {
+      "cityName": "Eastbury",
+      "lat": 51.483333,
+      "lng": -1.5
+    },
+    {
+      "cityName": "East Garston",
+      "lat": 51.483333,
+      "lng": -1.483333
+    },
+    {
+      "cityName": "East Hyde",
+      "lat": 51.833333,
+      "lng": -0.35
+    },
+    {
+      "cityName": "East Shefford",
+      "lat": 51.45,
+      "lng": -1.433333
+    },
+    {
+      "cityName": "Eaton Bray",
+      "lat": 51.866667,
+      "lng": -0.583333
+    },
+    {
+      "cityName": "Edlesborough",
+      "lat": 51.85,
+      "lng": -0.583333
+    },
+    {
+      "cityName": "Edworth",
+      "lat": 52.05,
+      "lng": -0.2
+    },
+    {
+      "cityName": "Elstow",
+      "lat": 52.1,
+      "lng": -0.466667
+    },
+    {
+      "cityName": "Eversholt",
+      "lat": 51.983333,
+      "lng": -0.55
+    },
+    {
+      "cityName": "Flamstead",
+      "lat": 51.816667,
+      "lng": -0.433333
+    },
+    {
+      "cityName": "Flitton",
+      "lat": 52,
+      "lng": -0.45
+    },
+    {
+      "cityName": "Flitwick",
+      "lat": 52,
+      "lng": -0.483333
+    },
+    {
+      "cityName": "Gravenhurst",
+      "lat": 52,
+      "lng": -0.366667
+    },
+    {
+      "cityName": "Great Barford",
+      "lat": 52.15,
+      "lng": -0.35
+    },
+    {
+      "cityName": "Great Brickhill",
+      "lat": 51.95,
+      "lng": -0.683333
+    },
+    {
+      "cityName": "Great Offley",
+      "lat": 51.916667,
+      "lng": -0.333333
+    },
+    {
+      "cityName": "Great Shefford",
+      "lat": 51.466667,
+      "lng": -1.45
+    },
+    {
+      "cityName": "Great Wymondley",
+      "lat": 51.933333,
+      "lng": -0.216667
+    },
+    {
+      "cityName": "Harlington",
+      "lat": 51.95,
+      "lng": -0.483333
+    },
+    {
+      "cityName": "Hartshill",
+      "lat": 51.533333,
+      "lng": -1.516667
+    },
+    {
+      "cityName": "Haynes",
+      "lat": 52.05,
+      "lng": -0.416667
+    },
+    {
+      "cityName": "Heath and Reach",
+      "lat": 51.933333,
+      "lng": -0.65
+    },
+    {
+      "cityName": "Henlow",
+      "lat": 52.016667,
+      "lng": -0.283333
+    },
+    {
+      "cityName": "Hexton",
+      "lat": 51.95,
+      "lng": -0.383333
+    },
+    {
+      "cityName": "Hockliffe",
+      "lat": 51.916667,
+      "lng": -0.583333
+    },
+    {
+      "cityName": "Holwell",
+      "lat": 51.983333,
+      "lng": -0.3
+    },
+    {
+      "cityName": "Houghton Conquest",
+      "lat": 52.05,
+      "lng": -0.466667
+    },
+    {
+      "cityName": "Houghton Regis",
+      "lat": 51.9,
+      "lng": -0.516667
+    },
+    {
+      "cityName": "Humber",
+      "lat": 50.566667,
+      "lng": -3.55
+    },
+    {
+      "cityName": "Ickleford",
+      "lat": 51.966667,
+      "lng": -0.266667
+    },
+    {
+      "cityName": "Ideford",
+      "lat": 50.583333,
+      "lng": -3.566667
+    },
+    {
+      "cityName": "Ippollitts",
+      "lat": 51.916667,
+      "lng": -0.25
+    },
+    {
+      "cityName": "Kempston",
+      "lat": 52.1,
+      "lng": -0.483333
+    },
+    {
+      "cityName": "Kensworth",
+      "lat": 51.85,
+      "lng": -0.5
+    },
+    {
+      "cityName": "Kimpton",
+      "lat": 51.85,
+      "lng": -0.283333
+    },
+    {
+      "cityName": "Kingsbourne Green",
+      "lat": 51.833333,
+      "lng": -0.383333
+    },
+    {
+      "cityName": "Kings Walden",
+      "lat": 51.883333,
+      "lng": -0.316667
+    },
+    {
+      "cityName": "Lambourn",
+      "lat": 51.516667,
+      "lng": -1.533333
+    },
+    {
+      "cityName": "Langford",
+      "lat": 52.05,
+      "lng": -0.266667
+    },
+    {
+      "cityName": "Leagrave",
+      "lat": 51.9,
+      "lng": -0.45
+    },
+    {
+      "cityName": "Leighton Buzzard",
+      "lat": 51.916667,
+      "lng": -0.65
+    },
+    {
+      "cityName": "Letchworth",
+      "lat": 51.966667,
+      "lng": -0.216667
+    },
+    {
+      "cityName": "Lewsey",
+      "lat": 51.9,
+      "lng": -0.5
+    },
+    {
+      "cityName": "Lidlington",
+      "lat": 52.033333,
+      "lng": -0.55
+    },
+    {
+      "cityName": "Lilley",
+      "lat": 51.916667,
+      "lng": -0.366667
+    },
+    {
+      "cityName": "Linslade",
+      "lat": 51.916667,
+      "lng": -0.666667
+    },
+    {
+      "cityName": "Little Brickhill",
+      "lat": 51.966667,
+      "lng": -0.666667
+    },
+    {
+      "cityName": "Little Fawley",
+      "lat": 51.5,
+      "lng": -1.433333
+    },
+    {
+      "cityName": "Lower Shelton",
+      "lat": 52.066667,
+      "lng": -0.55
+    },
+    {
+      "cityName": "Luton",
+      "lat": 50.583333,
+      "lng": -3.55
+    },
+    {
+      "cityName": "Markyate",
+      "lat": 51.833333,
+      "lng": -0.45
+    },
+    {
+      "cityName": "Marston Moretaine",
+      "lat": 52.05,
+      "lng": -0.55
+    },
+    {
+      "cityName": "Maulden",
+      "lat": 52.016667,
+      "lng": -0.45
+    },
+    {
+      "cityName": "Mentmore",
+      "lat": 51.866667,
+      "lng": -0.683333
+    },
+    {
+      "cityName": "Meppershall",
+      "lat": 52,
+      "lng": -0.333333
+    },
+    {
+      "cityName": "Millbrook",
+      "lat": 52.033333,
+      "lng": -0.516667
+    },
+    {
+      "cityName": "Milton Bryant",
+      "lat": 51.95,
+      "lng": -0.583333
+    },
+    {
+      "cityName": "Newmill End",
+      "lat": 51.833333,
+      "lng": -0.366667
+    },
+    {
+      "cityName": "North Crawley",
+      "lat": 52.083333,
+      "lng": -0.65
+    },
+    {
+      "cityName": "Northill",
+      "lat": 52.1,
+      "lng": -0.316667
+    },
+    {
+      "cityName": "Norton",
+      "lat": 51.983333,
+      "lng": -0.216667
+    },
+    {
+      "cityName": "Old Warden",
+      "lat": 52.066667,
+      "lng": -0.333333
+    },
+    {
+      "cityName": "Pirton",
+      "lat": 51.95,
+      "lng": -0.316667
+    },
+    {
+      "cityName": "Potsgrove",
+      "lat": 51.95,
+      "lng": -0.616667
+    },
+    {
+      "cityName": "Pulloxhill",
+      "lat": 51.983333,
+      "lng": -0.45
+    },
+    {
+      "cityName": "Radwell",
+      "lat": 52,
+      "lng": -0.2
+    },
+    {
+      "cityName": "Saint Pauls Walden",
+      "lat": 51.883333,
+      "lng": -0.266667
+    },
+    {
+      "cityName": "Sandy",
+      "lat": 52.116667,
+      "lng": -0.283333
+    },
+    {
+      "cityName": "Shillington",
+      "lat": 51.983333,
+      "lng": -0.35
+    },
+    {
+      "cityName": "Silsoe",
+      "lat": 52,
+      "lng": -0.416667
+    },
+    {
+      "cityName": "Slapton",
+      "lat": 51.866667,
+      "lng": -0.633333
+    },
+    {
+      "cityName": "Soulbury",
+      "lat": 51.933333,
+      "lng": -0.716667
+    },
+    {
+      "cityName": "Southill",
+      "lat": 52.05,
+      "lng": -0.3
+    },
+    {
+      "cityName": "Stagsden",
+      "lat": 52.116667,
+      "lng": -0.55
+    },
+    {
+      "cityName": "Stanbridge",
+      "lat": 51.9,
+      "lng": -0.583333
+    },
+    {
+      "cityName": "Steppingley",
+      "lat": 52,
+      "lng": -0.516667
+    },
+    {
+      "cityName": "Stewkley",
+      "lat": 51.916667,
+      "lng": -0.75
+    },
+    {
+      "cityName": "Stoke Hammond",
+      "lat": 51.95,
+      "lng": -0.716667
+    },
+    {
+      "cityName": "Stondon",
+      "lat": 52,
+      "lng": -0.316667
+    },
+    {
+      "cityName": "Stopsley",
+      "lat": 51.883333,
+      "lng": -0.4
+    },
+    {
+      "cityName": "Stotfold",
+      "lat": 52,
+      "lng": -0.216667
+    },
+    {
+      "cityName": "Streatley",
+      "lat": 51.933333,
+      "lng": -0.433333
+    },
+    {
+      "cityName": "Studham",
+      "lat": 51.816667,
+      "lng": -0.516667
+    },
+    {
+      "cityName": "Sundon",
+      "lat": 51.916667,
+      "lng": -0.466667
+    },
+    {
+      "cityName": "Tebworth",
+      "lat": 51.916667,
+      "lng": -0.55
+    },
+    {
+      "cityName": "Tempsford",
+      "lat": 52.15,
+      "lng": -0.3
+    },
+    {
+      "cityName": "Toddington",
+      "lat": 51.933333,
+      "lng": -0.533333
+    },
+    {
+      "cityName": "Totternhoe",
+      "lat": 51.866667,
+      "lng": -0.55
+    },
+    {
+      "cityName": "Trusham",
+      "lat": 50.633333,
+      "lng": -3.616667
+    },
+    {
+      "cityName": "Upper Sundon",
+      "lat": 51.933333,
+      "lng": -0.466667
+    },
+    {
+      "cityName": "Welford",
+      "lat": 51.45,
+      "lng": -1.4
+    },
+    {
+      "cityName": "Westoning",
+      "lat": 51.966667,
+      "lng": -0.483333
+    },
+    {
+      "cityName": "Whipsnade",
+      "lat": 51.833333,
+      "lng": -0.533333
+    },
+    {
+      "cityName": "Whitwell",
+      "lat": 51.866667,
+      "lng": -0.266667
+    },
+    {
+      "cityName": "Wickham",
+      "lat": 51.433333,
+      "lng": -1.433333
+    },
+    {
+      "cityName": "Wilhamstead",
+      "lat": 52.066667,
+      "lng": -0.433333
+    },
+    {
+      "cityName": "Willington",
+      "lat": 52.133333,
+      "lng": -0.366667
+    },
+    {
+      "cityName": "Wingfield",
+      "lat": 51.929167,
+      "lng": -0.542222
+    },
+    {
+      "cityName": "Wing",
+      "lat": 51.883333,
+      "lng": -0.716667
+    },
+    {
+      "cityName": "Wootton",
+      "lat": 52.083333,
+      "lng": -0.516667
+    }
+  ]
+}

@@ -1,0 +1,860 @@
+{
+  "name": "Kindia",
+  "cities": [
+    {
+      "cityName": "Bagéya",
+      "lat": 10.25,
+      "lng": -12.9
+    },
+    {
+      "cityName": "Bakariya",
+      "lat": 10.0166667,
+      "lng": -12.7
+    },
+    {
+      "cityName": "Baki",
+      "lat": 10.1666667,
+      "lng": -13.1333333
+    },
+    {
+      "cityName": "Balandougou",
+      "lat": 10.5166667,
+      "lng": -12.55
+    },
+    {
+      "cityName": "Bamban",
+      "lat": 10.0833333,
+      "lng": -12.8666667
+    },
+    {
+      "cityName": "Bambaya",
+      "lat": 10.1833333,
+      "lng": -12.25
+    },
+    {
+      "cityName": "Bangouya",
+      "lat": 10.0666667,
+      "lng": -12.2833333
+    },
+    {
+      "cityName": "Baritongo",
+      "lat": 10.2666667,
+      "lng": -13.05
+    },
+    {
+      "cityName": "Baschia",
+      "lat": 9.5333333,
+      "lng": -13.0166667
+    },
+    {
+      "cityName": "Bayagué",
+      "lat": 10.1333333,
+      "lng": -12.45
+    },
+    {
+      "cityName": "Bayan Bayan",
+      "lat": 9.75,
+      "lng": -12.5666667
+    },
+    {
+      "cityName": "Bélima",
+      "lat": 9.9,
+      "lng": -12.6333333
+    },
+    {
+      "cityName": "Bendougou",
+      "lat": 9.9666667,
+      "lng": -12.7833333
+    },
+    {
+      "cityName": "Bériakoré",
+      "lat": 10.05,
+      "lng": -12.95
+    },
+    {
+      "cityName": "Bessé",
+      "lat": 10.1166667,
+      "lng": -12.1666667
+    },
+    {
+      "cityName": "Bobia",
+      "lat": 10.2666667,
+      "lng": -13.1
+    },
+    {
+      "cityName": "Bokariadi",
+      "lat": 9.9166667,
+      "lng": -12.2
+    },
+    {
+      "cityName": "Bolobo-Kaya",
+      "lat": 9.8836111,
+      "lng": -13.0394444
+    },
+    {
+      "cityName": "Bolonta",
+      "lat": 9.8702778,
+      "lng": -13.2055556
+    },
+    {
+      "cityName": "Borea",
+      "lat": 9.9666667,
+      "lng": -12.8166667
+    },
+    {
+      "cityName": "Boubouya",
+      "lat": 10.4,
+      "lng": -12.4666667
+    },
+    {
+      "cityName": "Bouramaya",
+      "lat": 9.6191667,
+      "lng": -13.0891667
+    },
+    {
+      "cityName": "Daboïa",
+      "lat": 9.9166667,
+      "lng": -12.95
+    },
+    {
+      "cityName": "Damacinéa",
+      "lat": 9.9,
+      "lng": -12.55
+    },
+    {
+      "cityName": "Damakania",
+      "lat": 10.0166667,
+      "lng": -12.9
+    },
+    {
+      "cityName": "Dankaran",
+      "lat": 9.7577778,
+      "lng": -13.1708333
+    },
+    {
+      "cityName": "Dantoumaya",
+      "lat": 9.9658333,
+      "lng": -13.0236111
+    },
+    {
+      "cityName": "Daranéné",
+      "lat": 10.1,
+      "lng": -12.2833333
+    },
+    {
+      "cityName": "Dar es Salam",
+      "lat": 9.9666667,
+      "lng": -12.3333333
+    },
+    {
+      "cityName": "Dembata",
+      "lat": 9.6922222,
+      "lng": -13.1361111
+    },
+    {
+      "cityName": "Dembaya",
+      "lat": 10.4333333,
+      "lng": -12.8666667
+    },
+    {
+      "cityName": "Denké",
+      "lat": 10.1333333,
+      "lng": -12.9333333
+    },
+    {
+      "cityName": "Dimia",
+      "lat": 10.0833333,
+      "lng": -13.0833333
+    },
+    {
+      "cityName": "Dipa",
+      "lat": 9.9847222,
+      "lng": -13.0466667
+    },
+    {
+      "cityName": "Dodo",
+      "lat": 10.2666667,
+      "lng": -12.85
+    },
+    {
+      "cityName": "Donia",
+      "lat": 9.9333333,
+      "lng": -12.3333333
+    },
+    {
+      "cityName": "Donsikira",
+      "lat": 10.2333333,
+      "lng": -12.8833333
+    },
+    {
+      "cityName": "Doubaya",
+      "lat": 10.5333333,
+      "lng": -12.5
+    },
+    {
+      "cityName": "Doundoukouro",
+      "lat": 9.6830556,
+      "lng": -13.1369444
+    },
+    {
+      "cityName": "Ermakono",
+      "lat": 10.3666667,
+      "lng": -12.5333333
+    },
+    {
+      "cityName": "Farénya",
+      "lat": 10.35,
+      "lng": -12.8666667
+    },
+    {
+      "cityName": "Farinta",
+      "lat": 10.1166667,
+      "lng": -12.5
+    },
+    {
+      "cityName": "Féma",
+      "lat": 9.9,
+      "lng": -12.4333333
+    },
+    {
+      "cityName": "Fenten",
+      "lat": 9.9027778,
+      "lng": -13.2061111
+    },
+    {
+      "cityName": "Firguiadi",
+      "lat": 9.7966667,
+      "lng": -13.1408333
+    },
+    {
+      "cityName": "Fofo",
+      "lat": 10.0166667,
+      "lng": -12.5166667
+    },
+    {
+      "cityName": "Fofossa",
+      "lat": 9.8955556,
+      "lng": -13.0352778
+    },
+    {
+      "cityName": "Foma",
+      "lat": 9.7919444,
+      "lng": -13.1963889
+    },
+    {
+      "cityName": "Fontabourou",
+      "lat": 10.4666667,
+      "lng": -12.8166667
+    },
+    {
+      "cityName": "Fossikhouré",
+      "lat": 9.7166667,
+      "lng": -13.15
+    },
+    {
+      "cityName": "Friguiagbé",
+      "lat": 9.95,
+      "lng": -12.9333333
+    },
+    {
+      "cityName": "Gambian",
+      "lat": 10.2166667,
+      "lng": -12.65
+    },
+    {
+      "cityName": "Gania",
+      "lat": 10.0666667,
+      "lng": -12.55
+    },
+    {
+      "cityName": "Gongonkhouré",
+      "lat": 9.8475,
+      "lng": -13.2186111
+    },
+    {
+      "cityName": "Gouyaya",
+      "lat": 10.4,
+      "lng": -12.5833333
+    },
+    {
+      "cityName": "Guiémembo",
+      "lat": 9.7894444,
+      "lng": -13.1658333
+    },
+    {
+      "cityName": "Kalé",
+      "lat": 9.9891667,
+      "lng": -13.0161111
+    },
+    {
+      "cityName": "Kali",
+      "lat": 9.9333333,
+      "lng": -12.7
+    },
+    {
+      "cityName": "Kamisaya",
+      "lat": 10.4166667,
+      "lng": -12.4666667
+    },
+    {
+      "cityName": "Kankékhouré",
+      "lat": 9.8097222,
+      "lng": -13.0338889
+    },
+    {
+      "cityName": "Kansa",
+      "lat": 10.3833333,
+      "lng": -13.1
+    },
+    {
+      "cityName": "Kansouya",
+      "lat": 10.45,
+      "lng": -12.9
+    },
+    {
+      "cityName": "Kanté",
+      "lat": 10.0166667,
+      "lng": -13.05
+    },
+    {
+      "cityName": "Kantoukhouré",
+      "lat": 9.9066667,
+      "lng": -13.0147222
+    },
+    {
+      "cityName": "Karimouya",
+      "lat": 10.0333333,
+      "lng": -12.2666667
+    },
+    {
+      "cityName": "Katia",
+      "lat": 10.4166667,
+      "lng": -12.9166667
+    },
+    {
+      "cityName": "Katibalaya",
+      "lat": 10.3166667,
+      "lng": -13.1
+    },
+    {
+      "cityName": "Kébé Friguia",
+      "lat": 10.25,
+      "lng": -12.95
+    },
+    {
+      "cityName": "Kénindé",
+      "lat": 10.4833333,
+      "lng": -12.6
+    },
+    {
+      "cityName": "Khonitoumanéya",
+      "lat": 9.7788889,
+      "lng": -13.0188889
+    },
+    {
+      "cityName": "Khoniya",
+      "lat": 10.2833333,
+      "lng": -13.1166667
+    },
+    {
+      "cityName": "Kindia",
+      "lat": 10.0666667,
+      "lng": -12.85
+    },
+    {
+      "cityName": "Kinfaïa",
+      "lat": 9.9666667,
+      "lng": -13.1
+    },
+    {
+      "cityName": "Kinfaya",
+      "lat": 10.4833333,
+      "lng": -12.9166667
+    },
+    {
+      "cityName": "Kirita",
+      "lat": 10.1166667,
+      "lng": -12.7833333
+    },
+    {
+      "cityName": "Koba",
+      "lat": 10.1,
+      "lng": -12.85
+    },
+    {
+      "cityName": "Kobéléa",
+      "lat": 10.4833333,
+      "lng": -12.7
+    },
+    {
+      "cityName": "Koléakori",
+      "lat": 10.0333333,
+      "lng": -12.8666667
+    },
+    {
+      "cityName": "Kolenté",
+      "lat": 10.1,
+      "lng": -12.6166667
+    },
+    {
+      "cityName": "Koliagbé",
+      "lat": 9.9333333,
+      "lng": -12.9833333
+    },
+    {
+      "cityName": "Kolibaya",
+      "lat": 9.8475,
+      "lng": -13.1797222
+    },
+    {
+      "cityName": "Kolofon",
+      "lat": 9.9719444,
+      "lng": -13.1988889
+    },
+    {
+      "cityName": "Komoya",
+      "lat": 10.0166667,
+      "lng": -12.85
+    },
+    {
+      "cityName": "Kondéta",
+      "lat": 10.2166667,
+      "lng": -13.0833333
+    },
+    {
+      "cityName": "Konia",
+      "lat": 10.4333333,
+      "lng": -12.85
+    },
+    {
+      "cityName": "Kora",
+      "lat": 9.9166667,
+      "lng": -12.5
+    },
+    {
+      "cityName": "Koriya",
+      "lat": 10.45,
+      "lng": -12.8
+    },
+    {
+      "cityName": "Kossadé",
+      "lat": 10.45,
+      "lng": -12.85
+    },
+    {
+      "cityName": "Koubou",
+      "lat": 10.4,
+      "lng": -12.9333333
+    },
+    {
+      "cityName": "Kouendégouba",
+      "lat": 9.7830556,
+      "lng": -13.0286111
+    },
+    {
+      "cityName": "Kouloukhouré",
+      "lat": 9.6413889,
+      "lng": -13.0983333
+    },
+    {
+      "cityName": "Koumba",
+      "lat": 9.9472222,
+      "lng": -13.0208333
+    },
+    {
+      "cityName": "Koumbaya",
+      "lat": 10.1666667,
+      "lng": -12.8833333
+    },
+    {
+      "cityName": "Koundabalaya",
+      "lat": 10.3333333,
+      "lng": -13.15
+    },
+    {
+      "cityName": "Koundaya",
+      "lat": 9.75,
+      "lng": -12.7
+    },
+    {
+      "cityName": "Koundéyagbé",
+      "lat": 10.45,
+      "lng": -12.7166667
+    },
+    {
+      "cityName": "Kounkidé",
+      "lat": 9.8833333,
+      "lng": -12.5166667
+    },
+    {
+      "cityName": "Kounsi",
+      "lat": 10.3666667,
+      "lng": -12.9166667
+    },
+    {
+      "cityName": "Kouyéya",
+      "lat": 10.0833333,
+      "lng": -12.6833333
+    },
+    {
+      "cityName": "Labon",
+      "lat": 9.9330556,
+      "lng": -13.1772222
+    },
+    {
+      "cityName": "Labota",
+      "lat": 9.8238889,
+      "lng": -13.1447222
+    },
+    {
+      "cityName": "La Linsan",
+      "lat": 10.2833333,
+      "lng": -12.4333333
+    },
+    {
+      "cityName": "Lalléra",
+      "lat": 9.95,
+      "lng": -12.8166667
+    },
+    {
+      "cityName": "Lamba",
+      "lat": 9.9166667,
+      "lng": -12.55
+    },
+    {
+      "cityName": "Lanéné",
+      "lat": 9.8338889,
+      "lng": -13.2286111
+    },
+    {
+      "cityName": "Lansanya",
+      "lat": 10.0833333,
+      "lng": -12.1833333
+    },
+    {
+      "cityName": "Léfouré",
+      "lat": 10.55,
+      "lng": -12.65
+    },
+    {
+      "cityName": "Libria",
+      "lat": 10.3666667,
+      "lng": -13.1666667
+    },
+    {
+      "cityName": "Madina-Oula",
+      "lat": 9.8833333,
+      "lng": -12.45
+    },
+    {
+      "cityName": "Makiti",
+      "lat": 9.7538889,
+      "lng": -13.0688889
+    },
+    {
+      "cityName": "Maléa",
+      "lat": 10.0666667,
+      "lng": -12.6
+    },
+    {
+      "cityName": "Mambia",
+      "lat": 9.7666667,
+      "lng": -12.7833333
+    },
+    {
+      "cityName": "Mambiya",
+      "lat": 9.8366667,
+      "lng": -13.1055556
+    },
+    {
+      "cityName": "Mamou",
+      "lat": 9.8666667,
+      "lng": -12.6333333
+    },
+    {
+      "cityName": "Massisse",
+      "lat": 9.8519444,
+      "lng": -13.0786111
+    },
+    {
+      "cityName": "Mélia",
+      "lat": 10.35,
+      "lng": -12.9166667
+    },
+    {
+      "cityName": "Méma",
+      "lat": 9.7963889,
+      "lng": -13.1052778
+    },
+    {
+      "cityName": "Moléya",
+      "lat": 10.3,
+      "lng": -12.95
+    },
+    {
+      "cityName": "Molokhouré",
+      "lat": 9.8161111,
+      "lng": -13.0788889
+    },
+    {
+      "cityName": "Molota",
+      "lat": 9.9333333,
+      "lng": -12.8333333
+    },
+    {
+      "cityName": "Montikri",
+      "lat": 9.8666667,
+      "lng": -12.5833333
+    },
+    {
+      "cityName": "Moria",
+      "lat": 10.0666667,
+      "lng": -12.6166667
+    },
+    {
+      "cityName": "Moriya",
+      "lat": 9.9333333,
+      "lng": -13.2166667
+    },
+    {
+      "cityName": "Naigaya",
+      "lat": 9.95,
+      "lng": -12.2833333
+    },
+    {
+      "cityName": "Nianaya",
+      "lat": 9.9,
+      "lng": -13.05
+    },
+    {
+      "cityName": "Oualia",
+      "lat": 10.1833333,
+      "lng": -12.6333333
+    },
+    {
+      "cityName": "Ouarakolan",
+      "lat": 10.4,
+      "lng": -13.0333333
+    },
+    {
+      "cityName": "Ouélia",
+      "lat": 10.05,
+      "lng": -12.4833333
+    },
+    {
+      "cityName": "Oulia",
+      "lat": 9.7833333,
+      "lng": -12.6833333
+    },
+    {
+      "cityName": "Ouossou",
+      "lat": 10.0333333,
+      "lng": -12.2166667
+    },
+    {
+      "cityName": "Saféré",
+      "lat": 10.05,
+      "lng": -12.3
+    },
+    {
+      "cityName": "Salia",
+      "lat": 9.7622222,
+      "lng": -13.2608333
+    },
+    {
+      "cityName": "Samaya",
+      "lat": 10.0833333,
+      "lng": -13.0166667
+    },
+    {
+      "cityName": "Sangaréya",
+      "lat": 10.2833333,
+      "lng": -12.5166667
+    },
+    {
+      "cityName": "Sangodia",
+      "lat": 10.3833333,
+      "lng": -12.6333333
+    },
+    {
+      "cityName": "Sangoya",
+      "lat": 10.45,
+      "lng": -12.4833333
+    },
+    {
+      "cityName": "Sansandhi",
+      "lat": 10.4666667,
+      "lng": -12.4833333
+    },
+    {
+      "cityName": "Sansandji",
+      "lat": 9.6,
+      "lng": -13.05
+    },
+    {
+      "cityName": "Saramkabaya",
+      "lat": 9.9922222,
+      "lng": -13.0363889
+    },
+    {
+      "cityName": "Sayintan",
+      "lat": 9.9166667,
+      "lng": -12.7833333
+    },
+    {
+      "cityName": "Senienta",
+      "lat": 9.8088889,
+      "lng": -13.1736111
+    },
+    {
+      "cityName": "Siéroumba",
+      "lat": 9.95,
+      "lng": -12.1833333
+    },
+    {
+      "cityName": "Simania",
+      "lat": 10.4833333,
+      "lng": -12.8833333
+    },
+    {
+      "cityName": "Simbareya",
+      "lat": 9.9333333,
+      "lng": -12.6
+    },
+    {
+      "cityName": "Simbaya",
+      "lat": 10.4,
+      "lng": -12.8166667
+    },
+    {
+      "cityName": "Siréïa",
+      "lat": 10.1166667,
+      "lng": -12.2666667
+    },
+    {
+      "cityName": "Sonkia",
+      "lat": 10.25,
+      "lng": -13.0666667
+    },
+    {
+      "cityName": "Sougéta",
+      "lat": 10.15,
+      "lng": -12.5333333
+    },
+    {
+      "cityName": "Soumboya",
+      "lat": 9.9166667,
+      "lng": -12.75
+    },
+    {
+      "cityName": "Sounkaria",
+      "lat": 10.25,
+      "lng": -12.7
+    },
+    {
+      "cityName": "Soutidé",
+      "lat": 9.8333333,
+      "lng": -12.5166667
+    },
+    {
+      "cityName": "Tabouna",
+      "lat": 10.0833333,
+      "lng": -12.8166667
+    },
+    {
+      "cityName": "Tafori",
+      "lat": 10.25,
+      "lng": -12.4833333
+    },
+    {
+      "cityName": "Tahiré",
+      "lat": 9.85,
+      "lng": -12.7833333
+    },
+    {
+      "cityName": "Tambikhouré",
+      "lat": 10.3666667,
+      "lng": -13.0666667
+    },
+    {
+      "cityName": "Tamia",
+      "lat": 10.0166667,
+      "lng": -12.8
+    },
+    {
+      "cityName": "Tanéné",
+      "lat": 10,
+      "lng": -12.6166667
+    },
+    {
+      "cityName": "Tinko",
+      "lat": 9.8,
+      "lng": -12.5166667
+    },
+    {
+      "cityName": "Toumanya",
+      "lat": 9.7819444,
+      "lng": -13.0558333
+    },
+    {
+      "cityName": "Vangueakhor",
+      "lat": 9.6166667,
+      "lng": -13.1833333
+    },
+    {
+      "cityName": "Wendiday",
+      "lat": 9.8005556,
+      "lng": -13.0711111
+    },
+    {
+      "cityName": "Wondikhouré",
+      "lat": 9.8675,
+      "lng": -13.0541667
+    },
+    {
+      "cityName": "Yagouia",
+      "lat": 10,
+      "lng": -12.1833333
+    },
+    {
+      "cityName": "Yalaga",
+      "lat": 10.05,
+      "lng": -13.2666667
+    },
+    {
+      "cityName": "Yaléya",
+      "lat": 9.7833333,
+      "lng": -12.5833333
+    },
+    {
+      "cityName": "Yali",
+      "lat": 10.05,
+      "lng": -12.3333333
+    },
+    {
+      "cityName": "Yanfou",
+      "lat": 10.1,
+      "lng": -12.8666667
+    },
+    {
+      "cityName": "Yaria",
+      "lat": 10.2833333,
+      "lng": -12.7333333
+    },
+    {
+      "cityName": "Yatéa Kori",
+      "lat": 10.05,
+      "lng": -13.0833333
+    },
+    {
+      "cityName": "Yembé",
+      "lat": 10.1333333,
+      "lng": -13.0166667
+    },
+    {
+      "cityName": "Yolaré",
+      "lat": 9.7666667,
+      "lng": -13.15
+    }
+  ]
+}

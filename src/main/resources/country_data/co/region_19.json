@@ -1,0 +1,420 @@
+{
+  "name": "Putumayo",
+  "cities": [
+    {
+      "cityName": "Agua Blanca",
+      "lat": -0.0333333,
+      "lng": -75.2
+    },
+    {
+      "cityName": "Alvernia",
+      "lat": 1.1833333,
+      "lng": -76.5166667
+    },
+    {
+      "cityName": "Bellavista",
+      "lat": 0.75,
+      "lng": -75.3833333
+    },
+    {
+      "cityName": "Boyacá",
+      "lat": -0.1666667,
+      "lng": -74.95
+    },
+    {
+      "cityName": "Cajón",
+      "lat": -0.3166667,
+      "lng": -74.7
+    },
+    {
+      "cityName": "Cananguchal",
+      "lat": 0.85,
+      "lng": -75.7833333
+    },
+    {
+      "cityName": "Canoa Duque",
+      "lat": -0.45,
+      "lng": -74.5166667
+    },
+    {
+      "cityName": "Cansacutia",
+      "lat": -0.0666667,
+      "lng": -75.1166667
+    },
+    {
+      "cityName": "Caucayá",
+      "lat": -0.1802778,
+      "lng": -74.7741667
+    },
+    {
+      "cityName": "Chicorero",
+      "lat": 0.3122222,
+      "lng": -74.995
+    },
+    {
+      "cityName": "Chiquinquirá",
+      "lat": 0.1,
+      "lng": -75.0666667
+    },
+    {
+      "cityName": "Colón",
+      "lat": 1.1936111,
+      "lng": -76.9769444
+    },
+    {
+      "cityName": "Comandante Playa",
+      "lat": 0.4333333,
+      "lng": -76.3166667
+    },
+    {
+      "cityName": "Concepción",
+      "lat": 0.0833333,
+      "lng": -75.6
+    },
+    {
+      "cityName": "Condagua",
+      "lat": 1.2666667,
+      "lng": -76.55
+    },
+    {
+      "cityName": "Cuhimbé",
+      "lat": 0.3833333,
+      "lng": -76.4
+    },
+    {
+      "cityName": "Delicias",
+      "lat": 0.2333333,
+      "lng": -74.9666667
+    },
+    {
+      "cityName": "El Azul",
+      "lat": 0.3438889,
+      "lng": -76.6122222
+    },
+    {
+      "cityName": "El Balsal",
+      "lat": 0.35,
+      "lng": -75.2666667
+    },
+    {
+      "cityName": "El Pepino",
+      "lat": 1.05,
+      "lng": -76.6333333
+    },
+    {
+      "cityName": "El Porvenir",
+      "lat": 0.2383333,
+      "lng": -74.9491667
+    },
+    {
+      "cityName": "El Refugio",
+      "lat": 1.0072222,
+      "lng": -75.935
+    },
+    {
+      "cityName": "El Salado",
+      "lat": 0.2108333,
+      "lng": -74.8036111
+    },
+    {
+      "cityName": "El Tigre",
+      "lat": 0.4991667,
+      "lng": -76.8944444
+    },
+    {
+      "cityName": "El Valle",
+      "lat": 1.1511111,
+      "lng": -77.0075
+    },
+    {
+      "cityName": "Hacha",
+      "lat": -0.0166667,
+      "lng": -75.5
+    },
+    {
+      "cityName": "Jordán de Güisia",
+      "lat": 0.4113889,
+      "lng": -76.9811111
+    },
+    {
+      "cityName": "Julio Arroyo",
+      "lat": -0.3833333,
+      "lng": -74.5666667
+    },
+    {
+      "cityName": "Junguillo",
+      "lat": 1.3666667,
+      "lng": -76.5333333
+    },
+    {
+      "cityName": "Junín",
+      "lat": -0.3333333,
+      "lng": -74.1333333
+    },
+    {
+      "cityName": "La Dorada",
+      "lat": 0.3394444,
+      "lng": -76.8830556
+    },
+    {
+      "cityName": "La Floresta",
+      "lat": 0.2383333,
+      "lng": -74.9572222
+    },
+    {
+      "cityName": "La Gloria",
+      "lat": 0.3833333,
+      "lng": -75
+    },
+    {
+      "cityName": "La Hormiga",
+      "lat": 0.2591667,
+      "lng": -76.8863889
+    },
+    {
+      "cityName": "La Miranda",
+      "lat": 0.4541667,
+      "lng": -76.5736111
+    },
+    {
+      "cityName": "La Reforma",
+      "lat": -0.0666667,
+      "lng": -75.4
+    },
+    {
+      "cityName": "Las Delicias",
+      "lat": -0.2,
+      "lng": -74.1666667
+    },
+    {
+      "cityName": "La Tagua",
+      "lat": -0.05,
+      "lng": -74.6666667
+    },
+    {
+      "cityName": "La Victoria",
+      "lat": -0.1666667,
+      "lng": -74.5333333
+    },
+    {
+      "cityName": "Mayoyoque",
+      "lat": 0.6833333,
+      "lng": -75.3
+    },
+    {
+      "cityName": "Merendú",
+      "lat": 0.35,
+      "lng": -75.0166667
+    },
+    {
+      "cityName": "Mocoa",
+      "lat": 1.1488889,
+      "lng": -76.6477778
+    },
+    {
+      "cityName": "Monclar",
+      "lat": -0.0333333,
+      "lng": -75.15
+    },
+    {
+      "cityName": "Nasayá",
+      "lat": -0.4030556,
+      "lng": -73.8463889
+    },
+    {
+      "cityName": "Numal",
+      "lat": 0.31,
+      "lng": -74.9894444
+    },
+    {
+      "cityName": "Orito",
+      "lat": 0.6966667,
+      "lng": -76.8747222
+    },
+    {
+      "cityName": "Ospina",
+      "lat": 0.1333333,
+      "lng": -75.8666667
+    },
+    {
+      "cityName": "Peña Colorada",
+      "lat": 0.6666667,
+      "lng": -76.55
+    },
+    {
+      "cityName": "Picudo",
+      "lat": 0.5,
+      "lng": -76.8166667
+    },
+    {
+      "cityName": "Piñuña Negra",
+      "lat": 0.3833333,
+      "lng": -76.05
+    },
+    {
+      "cityName": "Pinzón",
+      "lat": 1.0833333,
+      "lng": -77.6
+    },
+    {
+      "cityName": "Play Boy",
+      "lat": 0.22,
+      "lng": -74.8672222
+    },
+    {
+      "cityName": "Porvenir",
+      "lat": -0.5166667,
+      "lng": -74.4166667
+    },
+    {
+      "cityName": "Pueblo Viejo",
+      "lat": 1.1666667,
+      "lng": -76.65
+    },
+    {
+      "cityName": "Puerto Alegre",
+      "lat": 0.7363889,
+      "lng": -76.6980556
+    },
+    {
+      "cityName": "Puerto Asís",
+      "lat": 0.5158333,
+      "lng": -76.495
+    },
+    {
+      "cityName": "Puerto Caicedo",
+      "lat": 0.6838889,
+      "lng": -76.5858333
+    },
+    {
+      "cityName": "Puerto Colombia",
+      "lat": -0.5333333,
+      "lng": -74.4
+    },
+    {
+      "cityName": "Puerto Colón",
+      "lat": 0.2805556,
+      "lng": -76.9305556
+    },
+    {
+      "cityName": "Puerto Guzmán",
+      "lat": 0.9702778,
+      "lng": -76.5858333
+    },
+    {
+      "cityName": "Puerto Limón",
+      "lat": 1.05,
+      "lng": -76.5
+    },
+    {
+      "cityName": "Puerto Príncipe",
+      "lat": 0.4833333,
+      "lng": -75.15
+    },
+    {
+      "cityName": "Puerto Rey",
+      "lat": 0.45,
+      "lng": -75.2166667
+    },
+    {
+      "cityName": "Puerto Umbría",
+      "lat": 0.8602778,
+      "lng": -76.58
+    },
+    {
+      "cityName": "Quinero",
+      "lat": 0.8333333,
+      "lng": -75.5833333
+    },
+    {
+      "cityName": "Remolino",
+      "lat": -0.1,
+      "lng": -74.55
+    },
+    {
+      "cityName": "San Andrés",
+      "lat": 1.1166667,
+      "lng": -76.9833333
+    },
+    {
+      "cityName": "San Antonio del Guamués",
+      "lat": 0.5666667,
+      "lng": -76.8333333
+    },
+    {
+      "cityName": "San Antonio",
+      "lat": 0.4819444,
+      "lng": -76.8975
+    },
+    {
+      "cityName": "San Diego Viejo",
+      "lat": 0.6166667,
+      "lng": -76.5833333
+    },
+    {
+      "cityName": "San Francisco",
+      "lat": 1.1772222,
+      "lng": -76.8830556
+    },
+    {
+      "cityName": "San Marcelino",
+      "lat": 0.2702778,
+      "lng": -76.8291667
+    },
+    {
+      "cityName": "San Pedro",
+      "lat": 0.6338889,
+      "lng": -76.5816667
+    },
+    {
+      "cityName": "Santa Ana",
+      "lat": 0.5938889,
+      "lng": -76.5661111
+    },
+    {
+      "cityName": "Santa Bárbara",
+      "lat": -0.15,
+      "lng": -74.4
+    },
+    {
+      "cityName": "Santa Lucía",
+      "lat": 1.0833333,
+      "lng": -77.0166667
+    },
+    {
+      "cityName": "Santa Maria",
+      "lat": 0.4725,
+      "lng": -76.5563889
+    },
+    {
+      "cityName": "Sibundoy",
+      "lat": 1.1833333,
+      "lng": -76.9166667
+    },
+    {
+      "cityName": "Urcusique",
+      "lat": 1.0166667,
+      "lng": -76.6166667
+    },
+    {
+      "cityName": "Valle del Guamuez",
+      "lat": 0.4525,
+      "lng": -76.9191667
+    },
+    {
+      "cityName": "Villa Amazónica",
+      "lat": 1.0333333,
+      "lng": -76.6
+    },
+    {
+      "cityName": "Villagarzón",
+      "lat": 1.0375,
+      "lng": -76.6266667
+    },
+    {
+      "cityName": "Whiskey",
+      "lat": 0.8,
+      "lng": -76.5666667
+    }
+  ]
+}

@@ -1,0 +1,835 @@
+{
+  "name": "Kalimantan Selatan",
+  "cities": [
+    {
+      "cityName": "Alabio",
+      "lat": -2.466667,
+      "lng": 115.2
+    },
+    {
+      "cityName": "Amoentai",
+      "lat": -2.433333,
+      "lng": 115.25
+    },
+    {
+      "cityName": "Anawil",
+      "lat": -3.5,
+      "lng": 115.283333
+    },
+    {
+      "cityName": "Asam Asam",
+      "lat": -3.933333,
+      "lng": 115.083333
+    },
+    {
+      "cityName": "Awangbangkal",
+      "lat": -3.5,
+      "lng": 114.966667
+    },
+    {
+      "cityName": "Babirik",
+      "lat": -2.55,
+      "lng": 115.133333
+    },
+    {
+      "cityName": "Bakau",
+      "lat": -3.1,
+      "lng": 116.066667
+    },
+    {
+      "cityName": "Balimau",
+      "lat": -2.85,
+      "lng": 115.1
+    },
+    {
+      "cityName": "Bandgermasin",
+      "lat": -3.333333,
+      "lng": 114.583333
+    },
+    {
+      "cityName": "Bangkalaan",
+      "lat": -2.85,
+      "lng": 115.6
+    },
+    {
+      "cityName": "Bangkalanmelajoe",
+      "lat": -2.95,
+      "lng": 116.016667
+    },
+    {
+      "cityName": "Banjarbaru",
+      "lat": -3.416667,
+      "lng": 114.833333
+    },
+    {
+      "cityName": "Barabai",
+      "lat": -2.583333,
+      "lng": 115.383333
+    },
+    {
+      "cityName": "Batoeamparan",
+      "lat": -3.45,
+      "lng": 115.683333
+    },
+    {
+      "cityName": "Batoelitjin",
+      "lat": -3.45,
+      "lng": 116
+    },
+    {
+      "cityName": "Batoemandi",
+      "lat": -2.433333,
+      "lng": 115.416667
+    },
+    {
+      "cityName": "Batoengajawa",
+      "lat": -3.616667,
+      "lng": 115.833333
+    },
+    {
+      "cityName": "Batoeng",
+      "lat": -2.933333,
+      "lng": 115.4
+    },
+    {
+      "cityName": "Batoepangkat",
+      "lat": -3.35,
+      "lng": 115.9
+    },
+    {
+      "cityName": "Batoetiris",
+      "lat": -3.433333,
+      "lng": 115.016667
+    },
+    {
+      "cityName": "Batubai",
+      "lat": -3.75,
+      "lng": 116.033333
+    },
+    {
+      "cityName": "Bedjajau",
+      "lat": -2.7,
+      "lng": 115
+    },
+    {
+      "cityName": "Belimbing",
+      "lat": -3.15,
+      "lng": 115.316667
+    },
+    {
+      "cityName": "Benaking",
+      "lat": -2.966667,
+      "lng": 116.283333
+    },
+    {
+      "cityName": "Benoeaängin",
+      "lat": -3.083333,
+      "lng": 115.416667
+    },
+    {
+      "cityName": "Benoea-lawas",
+      "lat": -3.05,
+      "lng": 115.966667
+    },
+    {
+      "cityName": "Berangas",
+      "lat": -3.35,
+      "lng": 116.233333
+    },
+    {
+      "cityName": "Birajang",
+      "lat": -2.55,
+      "lng": 115.45
+    },
+    {
+      "cityName": "Boedjoer",
+      "lat": -3.083333,
+      "lng": 115.2
+    },
+    {
+      "cityName": "Boegis",
+      "lat": -3.316667,
+      "lng": 114.566667
+    },
+    {
+      "cityName": "Boemirata",
+      "lat": -3.333333,
+      "lng": 115.033333
+    },
+    {
+      "cityName": "Boenati",
+      "lat": -3.75,
+      "lng": 115.616667
+    },
+    {
+      "cityName": "Boentok",
+      "lat": -3.55,
+      "lng": 114.766667
+    },
+    {
+      "cityName": "Cantunghulu",
+      "lat": -3.016667,
+      "lng": 115.716667
+    },
+    {
+      "cityName": "Cempaka",
+      "lat": -3.5,
+      "lng": 114.85
+    },
+    {
+      "cityName": "Cintapuri",
+      "lat": -3.233333,
+      "lng": 114.983333
+    },
+    {
+      "cityName": "Damardatar",
+      "lat": -2.5,
+      "lng": 115.933333
+    },
+    {
+      "cityName": "Djilatan",
+      "lat": -3.933333,
+      "lng": 114.833333
+    },
+    {
+      "cityName": "Djoengoer",
+      "lat": -3.6,
+      "lng": 114.983333
+    },
+    {
+      "cityName": "Djorong",
+      "lat": -3.966667,
+      "lng": 114.933333
+    },
+    {
+      "cityName": "Gemoeroe",
+      "lat": -3.966667,
+      "lng": 116.066667
+    },
+    {
+      "cityName": "Goengengbatoe-besar",
+      "lat": -2.616667,
+      "lng": 116.3
+    },
+    {
+      "cityName": "Gunungkecil",
+      "lat": -3.616667,
+      "lng": 116.25
+    },
+    {
+      "cityName": "Hampang",
+      "lat": -2.916667,
+      "lng": 115.833333
+    },
+    {
+      "cityName": "Hantoengoen",
+      "lat": -3.15,
+      "lng": 115.166667
+    },
+    {
+      "cityName": "Haraan",
+      "lat": -2.783333,
+      "lng": 115.666667
+    },
+    {
+      "cityName": "Haroejan",
+      "lat": -2.716667,
+      "lng": 115.35
+    },
+    {
+      "cityName": "Iloeng",
+      "lat": -2.533333,
+      "lng": 115.4
+    },
+    {
+      "cityName": "Inan-inan",
+      "lat": -2.383333,
+      "lng": 115.5
+    },
+    {
+      "cityName": "Jilapat",
+      "lat": -3.266667,
+      "lng": 116.216667
+    },
+    {
+      "cityName": "Kajoeangin",
+      "lat": -3.216667,
+      "lng": 116.05
+    },
+    {
+      "cityName": "Kalaan",
+      "lat": -3.55,
+      "lng": 115.083333
+    },
+    {
+      "cityName": "Kaliau",
+      "lat": -2.633333,
+      "lng": 115.416667
+    },
+    {
+      "cityName": "Kampoeng-baroe 1",
+      "lat": -3.416667,
+      "lng": 116
+    },
+    {
+      "cityName": "Kampoeng-baroe 2",
+      "lat": -3.6,
+      "lng": 115.916667
+    },
+    {
+      "cityName": "Kandangan",
+      "lat": -2.783333,
+      "lng": 115.266667
+    },
+    {
+      "cityName": "Karamboe",
+      "lat": -3.85,
+      "lng": 116.066667
+    },
+    {
+      "cityName": "Karangintan",
+      "lat": -3.433333,
+      "lng": 114.916667
+    },
+    {
+      "cityName": "Kasarangan",
+      "lat": -2.633333,
+      "lng": 115.3
+    },
+    {
+      "cityName": "Kintap",
+      "lat": -3.85,
+      "lng": 115.216667
+    },
+    {
+      "cityName": "Kotabaroe",
+      "lat": -3.233333,
+      "lng": 116.216667
+    },
+    {
+      "cityName": "Lampake",
+      "lat": -3.583333,
+      "lng": 115.833333
+    },
+    {
+      "cityName": "Langadai",
+      "lat": -3.233333,
+      "lng": 116.133333
+    },
+    {
+      "cityName": "Lasoeng",
+      "lat": -3.483333,
+      "lng": 115.8
+    },
+    {
+      "cityName": "Limau",
+      "lat": -3.633333,
+      "lng": 116
+    },
+    {
+      "cityName": "Limboengan",
+      "lat": -2.95,
+      "lng": 115.866667
+    },
+    {
+      "cityName": "Liwiran",
+      "lat": -3.283333,
+      "lng": 115.033333
+    },
+    {
+      "cityName": "Lokbatoe",
+      "lat": -2.466667,
+      "lng": 115.5
+    },
+    {
+      "cityName": "Maihi",
+      "lat": -3.283333,
+      "lng": 115.283333
+    },
+    {
+      "cityName": "Manganajaja",
+      "lat": -2.6,
+      "lng": 115.8
+    },
+    {
+      "cityName": "Manggalo",
+      "lat": -2.666667,
+      "lng": 116.066667
+    },
+    {
+      "cityName": "Martapoera",
+      "lat": -3.416667,
+      "lng": 114.85
+    },
+    {
+      "cityName": "Mataraman",
+      "lat": -3.333333,
+      "lng": 114.933333
+    },
+    {
+      "cityName": "Mehakit",
+      "lat": -2.85,
+      "lng": 115.95
+    },
+    {
+      "cityName": "Moeara Halimau",
+      "lat": -3.1,
+      "lng": 115.383333
+    },
+    {
+      "cityName": "Moearapilalet",
+      "lat": -2.866667,
+      "lng": 115.416667
+    },
+    {
+      "cityName": "Moeara Seboehoer",
+      "lat": -4.083333,
+      "lng": 114.833333
+    },
+    {
+      "cityName": "Negara",
+      "lat": -2.616667,
+      "lng": 115.1
+    },
+    {
+      "cityName": "Oelin",
+      "lat": -3.433333,
+      "lng": 114.733333
+    },
+    {
+      "cityName": "Okaoka",
+      "lat": -3.916667,
+      "lng": 116.2
+    },
+    {
+      "cityName": "Paau",
+      "lat": -3.416667,
+      "lng": 115.283333
+    },
+    {
+      "cityName": "Pabahanan",
+      "lat": -3.766667,
+      "lng": 114.766667
+    },
+    {
+      "cityName": "Pacakan",
+      "lat": -3.45,
+      "lng": 115.75
+    },
+    {
+      "cityName": "Padangbatoeng",
+      "lat": -2.816667,
+      "lng": 115.283333
+    },
+    {
+      "cityName": "Padang-besar",
+      "lat": -2.733333,
+      "lng": 115.333333
+    },
+    {
+      "cityName": "Pagatan",
+      "lat": -3.6,
+      "lng": 115.933333
+    },
+    {
+      "cityName": "Pahiangan",
+      "lat": -3.483333,
+      "lng": 115.766667
+    },
+    {
+      "cityName": "Palawan",
+      "lat": -3.066667,
+      "lng": 116.1
+    },
+    {
+      "cityName": "Pambalacanan",
+      "lat": -3.15,
+      "lng": 116.2
+    },
+    {
+      "cityName": "Pamoelawan",
+      "lat": -3.366667,
+      "lng": 115.683333
+    },
+    {
+      "cityName": "Pandoelangan",
+      "lat": -2.45,
+      "lng": 115.216667
+    },
+    {
+      "cityName": "Pantaihambawang",
+      "lat": -2.666667,
+      "lng": 115.316667
+    },
+    {
+      "cityName": "Pantai",
+      "lat": -3.133333,
+      "lng": 116.133333
+    },
+    {
+      "cityName": "Pelaihari",
+      "lat": -3.8,
+      "lng": 114.75
+    },
+    {
+      "cityName": "Pematangdoerian",
+      "lat": -3.466667,
+      "lng": 115.95
+    },
+    {
+      "cityName": "Pembakoelan",
+      "lat": -2.533333,
+      "lng": 115.6
+    },
+    {
+      "cityName": "Pengaron",
+      "lat": -3.3,
+      "lng": 115.1
+    },
+    {
+      "cityName": "Poelaubiroeang",
+      "lat": -3.45,
+      "lng": 114.766667
+    },
+    {
+      "cityName": "Rangang",
+      "lat": -3.833333,
+      "lng": 114.7
+    },
+    {
+      "cityName": "Rantaubalai",
+      "lat": -3.416667,
+      "lng": 115.15
+    },
+    {
+      "cityName": "Rantaubetoeng",
+      "lat": -3.45,
+      "lng": 115.6
+    },
+    {
+      "cityName": "Rantauboeda",
+      "lat": -2.533333,
+      "lng": 116.083333
+    },
+    {
+      "cityName": "Rantaulajoeng",
+      "lat": -3.5,
+      "lng": 115.083333
+    },
+    {
+      "cityName": "Rantau",
+      "lat": -2.933333,
+      "lng": 115.15
+    },
+    {
+      "cityName": "Riampinang",
+      "lat": -3.683333,
+      "lng": 114.916667
+    },
+    {
+      "cityName": "Salamban",
+      "lat": -3.7,
+      "lng": 115.666667
+    },
+    {
+      "cityName": "Salinaoe",
+      "lat": -3.516667,
+      "lng": 116.05
+    },
+    {
+      "cityName": "Salino",
+      "lat": -3.483333,
+      "lng": 116.033333
+    },
+    {
+      "cityName": "Salumati",
+      "lat": -3.616667,
+      "lng": 115.883333
+    },
+    {
+      "cityName": "Sampanahan",
+      "lat": -2.633333,
+      "lng": 116.183333
+    },
+    {
+      "cityName": "Sansang",
+      "lat": -2.816667,
+      "lng": 116.166667
+    },
+    {
+      "cityName": "Sarungan",
+      "lat": -3.183333,
+      "lng": 116.016667
+    },
+    {
+      "cityName": "Satoei",
+      "lat": -3.783333,
+      "lng": 115.45
+    },
+    {
+      "cityName": "Sawarangan",
+      "lat": -4.05,
+      "lng": 114.916667
+    },
+    {
+      "cityName": "Sebamban",
+      "lat": -3.683333,
+      "lng": 115.683333
+    },
+    {
+      "cityName": "Sebanti",
+      "lat": -3.916667,
+      "lng": 116.05
+    },
+    {
+      "cityName": "Seboehoer",
+      "lat": -4.016667,
+      "lng": 114.8
+    },
+    {
+      "cityName": "Sedjaka",
+      "lat": -3.566667,
+      "lng": 116.2
+    },
+    {
+      "cityName": "Sekapoeng",
+      "lat": -3.633333,
+      "lng": 116.383333
+    },
+    {
+      "cityName": "Sekatung",
+      "lat": -3.75,
+      "lng": 116.05
+    },
+    {
+      "cityName": "Selasetilau",
+      "lat": -3.283333,
+      "lng": 115.783333
+    },
+    {
+      "cityName": "Semara",
+      "lat": -3.133333,
+      "lng": 116.066667
+    },
+    {
+      "cityName": "Sembalimbin",
+      "lat": -3.333333,
+      "lng": 116.15
+    },
+    {
+      "cityName": "Sembega",
+      "lat": -3.6,
+      "lng": 116.016667
+    },
+    {
+      "cityName": "Semisir",
+      "lat": -3.683333,
+      "lng": 116.016667
+    },
+    {
+      "cityName": "Senibung",
+      "lat": -3.366667,
+      "lng": 116.083333
+    },
+    {
+      "cityName": "Sepapah",
+      "lat": -2.716667,
+      "lng": 116.233333
+    },
+    {
+      "cityName": "Seratak-besar",
+      "lat": -3.4,
+      "lng": 116.233333
+    },
+    {
+      "cityName": "Setagin",
+      "lat": -3.3,
+      "lng": 116.166667
+    },
+    {
+      "cityName": "Setarap",
+      "lat": -3.783333,
+      "lng": 115.533333
+    },
+    {
+      "cityName": "Setimbangan Besar",
+      "lat": -3.833333,
+      "lng": 116.066667
+    },
+    {
+      "cityName": "Setimbangan Kecil",
+      "lat": -3.816667,
+      "lng": 116.066667
+    },
+    {
+      "cityName": "Sigam",
+      "lat": -3.216667,
+      "lng": 116.25
+    },
+    {
+      "cityName": "Simpur",
+      "lat": -2.816667,
+      "lng": 115.183333
+    },
+    {
+      "cityName": "Soengaianjar",
+      "lat": -2.916667,
+      "lng": 116.3
+    },
+    {
+      "cityName": "Soengaibali",
+      "lat": -3.416667,
+      "lng": 116.4
+    },
+    {
+      "cityName": "Soengai Boeloeh",
+      "lat": -2.566667,
+      "lng": 115.233333
+    },
+    {
+      "cityName": "Soengaidoea",
+      "lat": -3.3,
+      "lng": 116.016667
+    },
+    {
+      "cityName": "Soengaihantoe",
+      "lat": -3.3,
+      "lng": 115.483333
+    },
+    {
+      "cityName": "Soengaimoerai",
+      "lat": -3.333333,
+      "lng": 115.383333
+    },
+    {
+      "cityName": "Soengainamang",
+      "lat": -2.466667,
+      "lng": 115.116667
+    },
+    {
+      "cityName": "Soengaipasir",
+      "lat": -3.616667,
+      "lng": 116.016667
+    },
+    {
+      "cityName": "Soengaipinang",
+      "lat": -3.216667,
+      "lng": 115.25
+    },
+    {
+      "cityName": "Soengaipoetat",
+      "lat": -3.383333,
+      "lng": 114.833333
+    },
+    {
+      "cityName": "Soengai Raja",
+      "lat": -2.833333,
+      "lng": 115.233333
+    },
+    {
+      "cityName": "Soengaisaring",
+      "lat": -3.566667,
+      "lng": 115.916667
+    },
+    {
+      "cityName": "Soengkai",
+      "lat": -3.216667,
+      "lng": 115.05
+    },
+    {
+      "cityName": "Sungai Bali",
+      "lat": -3.416667,
+      "lng": 116.383333
+    },
+    {
+      "cityName": "Sungaidusun",
+      "lat": -3.5,
+      "lng": 116.033333
+    },
+    {
+      "cityName": "Sungaikecil",
+      "lat": -3.366667,
+      "lng": 116.008333
+    },
+    {
+      "cityName": "Sungaiperak",
+      "lat": -3.5,
+      "lng": 115.933333
+    },
+    {
+      "cityName": "Taboentoeland",
+      "lat": -3.316667,
+      "lng": 115.816667
+    },
+    {
+      "cityName": "Tagoerhampang",
+      "lat": -2.733333,
+      "lng": 115.9
+    },
+    {
+      "cityName": "Tambangoelang",
+      "lat": -3.683333,
+      "lng": 114.716667
+    },
+    {
+      "cityName": "Tampang",
+      "lat": -3.833333,
+      "lng": 114.783333
+    },
+    {
+      "cityName": "Tandjoengbatoe",
+      "lat": -3,
+      "lng": 116.216667
+    },
+    {
+      "cityName": "Tandjoengserdang",
+      "lat": -3.483333,
+      "lng": 116.05
+    },
+    {
+      "cityName": "Tandjoeng",
+      "lat": -3.733333,
+      "lng": 114.85
+    },
+    {
+      "cityName": "Tanjung Pentuan",
+      "lat": -3.566667,
+      "lng": 116.3
+    },
+    {
+      "cityName": "Tapanbalai",
+      "lat": -4,
+      "lng": 116.05
+    },
+    {
+      "cityName": "Tatakan",
+      "lat": -3.05,
+      "lng": 115.116667
+    },
+    {
+      "cityName": "Teloekkapalpetjah",
+      "lat": -3.866667,
+      "lng": 116.283333
+    },
+    {
+      "cityName": "Tepoes",
+      "lat": -2.466667,
+      "lng": 115.216667
+    },
+    {
+      "cityName": "Timboeroe",
+      "lat": -2.566667,
+      "lng": 115.95
+    },
+    {
+      "cityName": "Tiwingan",
+      "lat": -3.55,
+      "lng": 115.033333
+    },
+    {
+      "cityName": "Toengkaranasam",
+      "lat": -3.666667,
+      "lng": 116.3
+    }
+  ]
+}

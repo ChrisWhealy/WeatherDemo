@@ -1,0 +1,985 @@
+{
+  "name": "Ain Defla",
+  "cities": [
+    {
+      "cityName": "Abdallah Ben Mohammed",
+      "lat": 36.15,
+      "lng": 2.2
+    },
+    {
+      "cityName": "Abdallah Ou Amar",
+      "lat": 36.4666667,
+      "lng": 2.3
+    },
+    {
+      "cityName": "Adouia",
+      "lat": 36.4166667,
+      "lng": 1.75
+    },
+    {
+      "cityName": "Afedj",
+      "lat": 36.55,
+      "lng": 2.2
+    },
+    {
+      "cityName": "Affreville",
+      "lat": 36.2622222,
+      "lng": 2.2180556
+    },
+    {
+      "cityName": "Aïn Achache",
+      "lat": 36.3577778,
+      "lng": 1.7330556
+    },
+    {
+      "cityName": "'Aïn Defla",
+      "lat": 36.2680556,
+      "lng": 1.9675
+    },
+    {
+      "cityName": "'Aïn el Benian",
+      "lat": 36.3505556,
+      "lng": 2.3877778
+    },
+    {
+      "cityName": "'Ain el Mebnia",
+      "lat": 36.0263889,
+      "lng": 2.3886111
+    },
+    {
+      "cityName": "Aïne Sultan",
+      "lat": 36.2488889,
+      "lng": 2.2966667
+    },
+    {
+      "cityName": "'Aïn Lechiakh",
+      "lat": 36.1569444,
+      "lng": 2.4041667
+    },
+    {
+      "cityName": "'Aïn N'Sour",
+      "lat": 36.35,
+      "lng": 2.2666667
+    },
+    {
+      "cityName": "'Aïn Torki",
+      "lat": 36.3333333,
+      "lng": 2.3025
+    },
+    {
+      "cityName": "'Aïn Toutia",
+      "lat": 36.1166667,
+      "lng": 1.9
+    },
+    {
+      "cityName": "Al Abadia",
+      "lat": 36.2694444,
+      "lng": 1.6852778
+    },
+    {
+      "cityName": "Ali Ben Yahia",
+      "lat": 36.2319444,
+      "lng": 1.6513889
+    },
+    {
+      "cityName": "Amoura",
+      "lat": 36.1966667,
+      "lng": 2.5097222
+    },
+    {
+      "cityName": "Aoud Izzane",
+      "lat": 36.3513889,
+      "lng": 1.6675
+    },
+    {
+      "cityName": "Aouraï",
+      "lat": 36.3452778,
+      "lng": 1.6744444
+    },
+    {
+      "cityName": "Arib",
+      "lat": 36.2908333,
+      "lng": 2.0677778
+    },
+    {
+      "cityName": "Bahla",
+      "lat": 36.4086111,
+      "lng": 1.7486111
+    },
+    {
+      "cityName": "Balbal",
+      "lat": 36.2666667,
+      "lng": 1.9833333
+    },
+    {
+      "cityName": "Bazouka",
+      "lat": 36.2,
+      "lng": 2.1666667
+    },
+    {
+      "cityName": "Belahcene",
+      "lat": 36.4044444,
+      "lng": 1.7425
+    },
+    {
+      "cityName": "Bel Lezhar",
+      "lat": 36.5666667,
+      "lng": 2.1666667
+    },
+    {
+      "cityName": "Ben Amoun",
+      "lat": 36.1166667,
+      "lng": 2.1833333
+    },
+    {
+      "cityName": "Beni Berri",
+      "lat": 36.2644444,
+      "lng": 1.7305556
+    },
+    {
+      "cityName": "Beni Meklifet",
+      "lat": 36.3333333,
+      "lng": 1.9666667
+    },
+    {
+      "cityName": "Beni Merahba",
+      "lat": 36.3511111,
+      "lng": 1.7005556
+    },
+    {
+      "cityName": "Beni Rached",
+      "lat": 36.1166667,
+      "lng": 2.4833333
+    },
+    {
+      "cityName": "Beni Tokai",
+      "lat": 36.4,
+      "lng": 1.8
+    },
+    {
+      "cityName": "Ben Saâd",
+      "lat": 36.2802778,
+      "lng": 1.7413889
+    },
+    {
+      "cityName": "Bir Ouled Khelifa",
+      "lat": 36.1802778,
+      "lng": 2.2302778
+    },
+    {
+      "cityName": "Bokat-el-Aïoun",
+      "lat": 36.1152778,
+      "lng": 1.8627778
+    },
+    {
+      "cityName": "Bordj Emir Khaled",
+      "lat": 36.1213889,
+      "lng": 2.2044444
+    },
+    {
+      "cityName": "Bordj Malek",
+      "lat": 36.4666667,
+      "lng": 2.2166667
+    },
+    {
+      "cityName": "Borély-la-Sapie",
+      "lat": 36.2333333,
+      "lng": 2.5666667
+    },
+    {
+      "cityName": "Bou Alem",
+      "lat": 36.25,
+      "lng": 2.45
+    },
+    {
+      "cityName": "Bou Ali",
+      "lat": 36.1316667,
+      "lng": 1.51
+    },
+    {
+      "cityName": "Bou Arara",
+      "lat": 36.5,
+      "lng": 2.2833333
+    },
+    {
+      "cityName": "Bou Azria",
+      "lat": 36.1333333,
+      "lng": 1.9166667
+    },
+    {
+      "cityName": "Boubka",
+      "lat": 36.3727778,
+      "lng": 1.6255556
+    },
+    {
+      "cityName": "Bou Chikha",
+      "lat": 36.3838889,
+      "lng": 1.6266667
+    },
+    {
+      "cityName": "Bou Fatis",
+      "lat": 35.9833333,
+      "lng": 2.5
+    },
+    {
+      "cityName": "Bou Halloufa",
+      "lat": 36.1333333,
+      "lng": 2.1333333
+    },
+    {
+      "cityName": "Bou Khemlalou",
+      "lat": 35.95,
+      "lng": 2.45
+    },
+    {
+      "cityName": "Bou Kherrouba",
+      "lat": 36.4,
+      "lng": 2.4833333
+    },
+    {
+      "cityName": "Bou Medfaa",
+      "lat": 36.3694444,
+      "lng": 2.4755556
+    },
+    {
+      "cityName": "Bou Zahr",
+      "lat": 36.3666667,
+      "lng": 2.25
+    },
+    {
+      "cityName": "Bou Zefour",
+      "lat": 36.0775,
+      "lng": 1.6875
+    },
+    {
+      "cityName": "Changarnier",
+      "lat": 36.3,
+      "lng": 2.35
+    },
+    {
+      "cityName": "Cheïk Ben Yahia",
+      "lat": 36.2472222,
+      "lng": 1.7688889
+    },
+    {
+      "cityName": "Cheïkh el Moussoum",
+      "lat": 36.1333333,
+      "lng": 2.5333333
+    },
+    {
+      "cityName": "Cherche",
+      "lat": 36.605,
+      "lng": 2.1908333
+    },
+    {
+      "cityName": "Dar Zâtar",
+      "lat": 36.2833333,
+      "lng": 1.9166667
+    },
+    {
+      "cityName": "Derrag",
+      "lat": 35.9086111,
+      "lng": 2.3877778
+    },
+    {
+      "cityName": "Djeloul Ben Mohammed",
+      "lat": 36.1333333,
+      "lng": 2.2
+    },
+    {
+      "cityName": "Djema Sidi Dahmane",
+      "lat": 36.0833333,
+      "lng": 2.1666667
+    },
+    {
+      "cityName": "Djemdel",
+      "lat": 36.2186111,
+      "lng": 2.4108333
+    },
+    {
+      "cityName": "Douar Ben Merhba",
+      "lat": 36.3411111,
+      "lng": 1.7247222
+    },
+    {
+      "cityName": "Douar Haya",
+      "lat": 36.3236111,
+      "lng": 1.7338889
+    },
+    {
+      "cityName": "Douar Medani Ben Cherif",
+      "lat": 36.32,
+      "lng": 1.7402778
+    },
+    {
+      "cityName": "Dutertre",
+      "lat": 35.95,
+      "lng": 2.1166667
+    },
+    {
+      "cityName": "El Aouaïnia",
+      "lat": 36.0833333,
+      "lng": 2.4333333
+    },
+    {
+      "cityName": "El Ardja",
+      "lat": 36.2,
+      "lng": 2.1
+    },
+    {
+      "cityName": "El Attaf",
+      "lat": 36.2247222,
+      "lng": 1.6727778
+    },
+    {
+      "cityName": "El Azaïzia",
+      "lat": 36.1166667,
+      "lng": 2.1666667
+    },
+    {
+      "cityName": "El Djemaa",
+      "lat": 36.0711111,
+      "lng": 2.0119444
+    },
+    {
+      "cityName": "El Gourine",
+      "lat": 36.4938889,
+      "lng": 2.2430556
+    },
+    {
+      "cityName": "El Hadj Abdallah",
+      "lat": 36.0833333,
+      "lng": 2.5666667
+    },
+    {
+      "cityName": "El Hadj Amar",
+      "lat": 36.1166667,
+      "lng": 2.5
+    },
+    {
+      "cityName": "El Hadj Tahar",
+      "lat": 36.1,
+      "lng": 2.5833333
+    },
+    {
+      "cityName": "El Hamamda",
+      "lat": 36.3333333,
+      "lng": 1.7666667
+    },
+    {
+      "cityName": "El Hamdi",
+      "lat": 36,
+      "lng": 2.4333333
+    },
+    {
+      "cityName": "El Karimia",
+      "lat": 36.1127778,
+      "lng": 1.5505556
+    },
+    {
+      "cityName": "El Kechaïd",
+      "lat": 36.15,
+      "lng": 2.55
+    },
+    {
+      "cityName": "El Khmîs",
+      "lat": 36.3508333,
+      "lng": 1.6836111
+    },
+    {
+      "cityName": "El Klaoucha",
+      "lat": 36.3672222,
+      "lng": 1.635
+    },
+    {
+      "cityName": "El Kohabtia",
+      "lat": 36.1455556,
+      "lng": 2.0905556
+    },
+    {
+      "cityName": "El Ksar",
+      "lat": 36.3575,
+      "lng": 1.6530556
+    },
+    {
+      "cityName": "El Mahera",
+      "lat": 36.2833333,
+      "lng": 2.0833333
+    },
+    {
+      "cityName": "El Makbia",
+      "lat": 36.1166667,
+      "lng": 2.4333333
+    },
+    {
+      "cityName": "El Mokhaïria",
+      "lat": 36.0333333,
+      "lng": 2.3833333
+    },
+    {
+      "cityName": "El Orma",
+      "lat": 36.005,
+      "lng": 1.9577778
+    },
+    {
+      "cityName": "Eriyache",
+      "lat": 36.3616667,
+      "lng": 1.7327778
+    },
+    {
+      "cityName": "Es Slimane",
+      "lat": 36.2,
+      "lng": 2.1166667
+    },
+    {
+      "cityName": "Et Touaïbia",
+      "lat": 36.1,
+      "lng": 1.95
+    },
+    {
+      "cityName": "Feghaïha",
+      "lat": 36.25,
+      "lng": 2.0166667
+    },
+    {
+      "cityName": "Fers et Tiabine",
+      "lat": 36.0333333,
+      "lng": 1.8666667
+    },
+    {
+      "cityName": "Ghouali",
+      "lat": 36.2955556,
+      "lng": 1.6805556
+    },
+    {
+      "cityName": "Ghoul Ou Melzi",
+      "lat": 36.3730556,
+      "lng": 1.7108333
+    },
+    {
+      "cityName": "Gouassem",
+      "lat": 36.13,
+      "lng": 1.6797222
+    },
+    {
+      "cityName": "Hadj Amar",
+      "lat": 36.0833333,
+      "lng": 2.35
+    },
+    {
+      "cityName": "Hadjrai Izzaler",
+      "lat": 36.3527778,
+      "lng": 1.6780556
+    },
+    {
+      "cityName": "Hamameria",
+      "lat": 36.32,
+      "lng": 2.5869444
+    },
+    {
+      "cityName": "Hammam Righa",
+      "lat": 36.3797222,
+      "lng": 2.3988889
+    },
+    {
+      "cityName": "Hammoudaïne",
+      "lat": 36.45,
+      "lng": 2.3
+    },
+    {
+      "cityName": "Imoumnayan",
+      "lat": 36.375,
+      "lng": 1.6380556
+    },
+    {
+      "cityName": "Imsad",
+      "lat": 36.3666667,
+      "lng": 1.7666667
+    },
+    {
+      "cityName": "Kerba",
+      "lat": 36.3044444,
+      "lng": 1.8469444
+    },
+    {
+      "cityName": "Kerkouch",
+      "lat": 36.3627778,
+      "lng": 1.6508333
+    },
+    {
+      "cityName": "Kherbacha",
+      "lat": 36.0333333,
+      "lng": 2.4166667
+    },
+    {
+      "cityName": "Kouesmia",
+      "lat": 36.2,
+      "lng": 2.15
+    },
+    {
+      "cityName": "Kraounia",
+      "lat": 36.3222222,
+      "lng": 1.7477778
+    },
+    {
+      "cityName": "Labadnia",
+      "lat": 36.3322222,
+      "lng": 1.6930556
+    },
+    {
+      "cityName": "Lagaguena",
+      "lat": 36.0333333,
+      "lng": 2.35
+    },
+    {
+      "cityName": "Lahdadoua",
+      "lat": 36.36,
+      "lng": 1.6952778
+    },
+    {
+      "cityName": "Lari Addou",
+      "lat": 36.3666667,
+      "lng": 1.8666667
+    },
+    {
+      "cityName": "Lari Larhat",
+      "lat": 36.55,
+      "lng": 2.1833333
+    },
+    {
+      "cityName": "Lari Ou Melzi",
+      "lat": 36.5027778,
+      "lng": 2.0972222
+    },
+    {
+      "cityName": "Lavarande",
+      "lat": 36.2638889,
+      "lng": 2.1608333
+    },
+    {
+      "cityName": "Le Pont de l'Oued Djer",
+      "lat": 36.3666667,
+      "lng": 2.45
+    },
+    {
+      "cityName": "Le Puits",
+      "lat": 36.1833333,
+      "lng": 2.2333333
+    },
+    {
+      "cityName": "Les Rosiers",
+      "lat": 36.5833333,
+      "lng": 2.1666667
+    },
+    {
+      "cityName": "Levacher",
+      "lat": 36.3,
+      "lng": 2.1666667
+    },
+    {
+      "cityName": "Mahaïzia",
+      "lat": 36.3563889,
+      "lng": 2.5377778
+    },
+    {
+      "cityName": "Mahé",
+      "lat": 36.2341667,
+      "lng": 2.0597222
+    },
+    {
+      "cityName": "Marabcha",
+      "lat": 36.55,
+      "lng": 2.2333333
+    },
+    {
+      "cityName": "Marbot",
+      "lat": 35.9936111,
+      "lng": 2.1433333
+    },
+    {
+      "cityName": "Mardas",
+      "lat": 36.3625,
+      "lng": 1.645
+    },
+    {
+      "cityName": "Mechta Ablachta",
+      "lat": 36.3166667,
+      "lng": 2.5333333
+    },
+    {
+      "cityName": "Mechta Beni Amou",
+      "lat": 35.8413889,
+      "lng": 1.9302778
+    },
+    {
+      "cityName": "Mechta Bernia",
+      "lat": 35.8833333,
+      "lng": 1.95
+    },
+    {
+      "cityName": "Mechta Bessami Kechi",
+      "lat": 36.1166667,
+      "lng": 2.2833333
+    },
+    {
+      "cityName": "Mechta Nouasser",
+      "lat": 36.2422222,
+      "lng": 1.5991667
+    },
+    {
+      "cityName": "Mechta Sidi Messaoud",
+      "lat": 36.0833333,
+      "lng": 1.9833333
+    },
+    {
+      "cityName": "Mechtat el Djemal",
+      "lat": 35.85,
+      "lng": 1.85
+    },
+    {
+      "cityName": "Mediouna",
+      "lat": 36.25,
+      "lng": 1.85
+    },
+    {
+      "cityName": "Medjadjra",
+      "lat": 36.2947222,
+      "lng": 1.6941667
+    },
+    {
+      "cityName": "Merhazi",
+      "lat": 36.0333333,
+      "lng": 1.9666667
+    },
+    {
+      "cityName": "Merzoudj Ben Zouaoui",
+      "lat": 36.1166667,
+      "lng": 2.3166667
+    },
+    {
+      "cityName": "Mesbah",
+      "lat": 36.1833333,
+      "lng": 2.1333333
+    },
+    {
+      "cityName": "Milianah",
+      "lat": 36.31,
+      "lng": 2.1622222
+    },
+    {
+      "cityName": "Mohammed Ben el Mouloud",
+      "lat": 36.5333333,
+      "lng": 2.1166667
+    },
+    {
+      "cityName": "Mohammed Ben Kroula",
+      "lat": 36.3166667,
+      "lng": 2.0666667
+    },
+    {
+      "cityName": "Moualdia",
+      "lat": 36.0666667,
+      "lng": 2.3833333
+    },
+    {
+      "cityName": "Ndjaï'iya",
+      "lat": 36.2397222,
+      "lng": 1.7091667
+    },
+    {
+      "cityName": "Neurkache",
+      "lat": 36.5833333,
+      "lng": 2.2333333
+    },
+    {
+      "cityName": "Ouakli",
+      "lat": 36.4047222,
+      "lng": 1.7330556
+    },
+    {
+      "cityName": "Oudjida",
+      "lat": 36.3166667,
+      "lng": 2.25
+    },
+    {
+      "cityName": "Oued Fodda",
+      "lat": 36.1841667,
+      "lng": 1.5327778
+    },
+    {
+      "cityName": "Oukla",
+      "lat": 36.1166667,
+      "lng": 2.0166667
+    },
+    {
+      "cityName": "Oulad Ali",
+      "lat": 36.1333333,
+      "lng": 1.95
+    },
+    {
+      "cityName": "Oulad Alou",
+      "lat": 36.1666667,
+      "lng": 1.8833333
+    },
+    {
+      "cityName": "Oulad Ben Aouda",
+      "lat": 36.2333333,
+      "lng": 2.5
+    },
+    {
+      "cityName": "Oulad Ben Himouna",
+      "lat": 36.1666667,
+      "lng": 1.9333333
+    },
+    {
+      "cityName": "Oulad Ben Yahia",
+      "lat": 36.3,
+      "lng": 2.4166667
+    },
+    {
+      "cityName": "Oulad Bou Djemaa",
+      "lat": 36.0666667,
+      "lng": 1.8166667
+    },
+    {
+      "cityName": "Oulad Dziry",
+      "lat": 36.1833333,
+      "lng": 1.9666667
+    },
+    {
+      "cityName": "Oulad el Badji",
+      "lat": 36.45,
+      "lng": 2.3333333
+    },
+    {
+      "cityName": "Oulad el Hadj Basri",
+      "lat": 36.25,
+      "lng": 2.4333333
+    },
+    {
+      "cityName": "Oulad el Ouaïl",
+      "lat": 36.3333333,
+      "lng": 2.6166667
+    },
+    {
+      "cityName": "Oulad Hamouda",
+      "lat": 36.2166667,
+      "lng": 2.6
+    },
+    {
+      "cityName": "Oulad Melloûk",
+      "lat": 36.2,
+      "lng": 1.8333333
+    },
+    {
+      "cityName": "Oulad Rabah",
+      "lat": 36.3333333,
+      "lng": 2.5166667
+    },
+    {
+      "cityName": "Oulad Rahmane",
+      "lat": 36.3,
+      "lng": 2.5333333
+    },
+    {
+      "cityName": "Oulad Rouïna",
+      "lat": 36.2430556,
+      "lng": 1.8088889
+    },
+    {
+      "cityName": "Oulad Serhaïria",
+      "lat": 36.2166667,
+      "lng": 2.4833333
+    },
+    {
+      "cityName": "Oulad Zahâr",
+      "lat": 36.1833333,
+      "lng": 1.8666667
+    },
+    {
+      "cityName": "Ould Tahla",
+      "lat": 36.0166667,
+      "lng": 2.45
+    },
+    {
+      "cityName": "Ouled Banndou",
+      "lat": 36.0761111,
+      "lng": 1.6625
+    },
+    {
+      "cityName": "Ouled Belhadj",
+      "lat": 36.3486111,
+      "lng": 1.6569444
+    },
+    {
+      "cityName": "Ouled Ben Henda",
+      "lat": 36.3166667,
+      "lng": 1.6908333
+    },
+    {
+      "cityName": "Ouled Kaddour",
+      "lat": 36.2852778,
+      "lng": 1.6986111
+    },
+    {
+      "cityName": "Ouled Lehbib",
+      "lat": 36.3580556,
+      "lng": 1.6619444
+    },
+    {
+      "cityName": "Ouled Mekdarach",
+      "lat": 36.15,
+      "lng": 1.9333333
+    },
+    {
+      "cityName": "Ouled Saïdane",
+      "lat": 36.1166667,
+      "lng": 2.4
+    },
+    {
+      "cityName": "Ouled Yahia",
+      "lat": 36.2833333,
+      "lng": 1.75
+    },
+    {
+      "cityName": "Rardous",
+      "lat": 36.5166667,
+      "lng": 2.15
+    },
+    {
+      "cityName": "Reguedia",
+      "lat": 36.2166667,
+      "lng": 2.05
+    },
+    {
+      "cityName": "Requialet",
+      "lat": 36.1833333,
+      "lng": 2.1166667
+    },
+    {
+      "cityName": "Sâdok",
+      "lat": 36.2555556,
+      "lng": 1.9497222
+    },
+    {
+      "cityName": "Setatmia",
+      "lat": 36.2833333,
+      "lng": 2.6
+    },
+    {
+      "cityName": "Sgagra",
+      "lat": 36.2997222,
+      "lng": 1.7408333
+    },
+    {
+      "cityName": "Sidi bou Medjene",
+      "lat": 35.9958333,
+      "lng": 2.2452778
+    },
+    {
+      "cityName": "Sidi Bou Messabeh",
+      "lat": 36.3166667,
+      "lng": 2.2166667
+    },
+    {
+      "cityName": "Sidi Brahim",
+      "lat": 36.3444444,
+      "lng": 1.7330556
+    },
+    {
+      "cityName": "Skekra",
+      "lat": 36.2552778,
+      "lng": 1.7272222
+    },
+    {
+      "cityName": "Smara",
+      "lat": 36.2869444,
+      "lng": 1.7386111
+    },
+    {
+      "cityName": "Tabethacht",
+      "lat": 36.3472222,
+      "lng": 1.7197222
+    },
+    {
+      "cityName": "Tabia",
+      "lat": 36.3333333,
+      "lng": 2.4666667
+    },
+    {
+      "cityName": "Tacheta Zougagha",
+      "lat": 36.3511111,
+      "lng": 1.6441667
+    },
+    {
+      "cityName": "Taga",
+      "lat": 36.0166667,
+      "lng": 2.4333333
+    },
+    {
+      "cityName": "Tala Kroubiz",
+      "lat": 36.4333333,
+      "lng": 2.3166667
+    },
+    {
+      "cityName": "Tala Oursou",
+      "lat": 36.4666667,
+      "lng": 2.25
+    },
+    {
+      "cityName": "Tamda Intileta",
+      "lat": 36.3330556,
+      "lng": 1.7352778
+    },
+    {
+      "cityName": "Tamezlaït",
+      "lat": 36.4666667,
+      "lng": 2.0666667
+    },
+    {
+      "cityName": "Tamzrit",
+      "lat": 36.3269444,
+      "lng": 1.7461111
+    },
+    {
+      "cityName": "Tebssassine",
+      "lat": 36.3794444,
+      "lng": 1.7263889
+    },
+    {
+      "cityName": "Teniet el Haad",
+      "lat": 35.8711111,
+      "lng": 2.0280556
+    },
+    {
+      "cityName": "Tizi Ouchir",
+      "lat": 36.35,
+      "lng": 2.3333333
+    },
+    {
+      "cityName": "Touafria",
+      "lat": 36.2666667,
+      "lng": 2.3666667
+    },
+    {
+      "cityName": "Toumlaline",
+      "lat": 36.4666667,
+      "lng": 2.0833333
+    },
+    {
+      "cityName": "Village des Beni Rached",
+      "lat": 36.2766667,
+      "lng": 1.5313889
+    },
+    {
+      "cityName": "Village du Barrage",
+      "lat": 36.1666667,
+      "lng": 2.55
+    },
+    {
+      "cityName": "Zouaoua",
+      "lat": 36.35,
+      "lng": 2.55
+    }
+  ]
+}

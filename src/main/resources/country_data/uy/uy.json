@@ -1,0 +1,99 @@
+{
+  "name": "Uruguay",
+  "iso2": "uy",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Artigas",
+      "id": 0
+    },
+    {
+      "name": "Canelones",
+      "id": 1
+    },
+    {
+      "name": "Cerro Largo",
+      "id": 2
+    },
+    {
+      "name": "Colonia",
+      "id": 3
+    },
+    {
+      "name": "Durazno",
+      "id": 4
+    },
+    {
+      "name": "Flores",
+      "id": 5
+    },
+    {
+      "name": "Florida",
+      "id": 6
+    },
+    {
+      "name": "Lavalleja",
+      "id": 7
+    },
+    {
+      "name": "Maldonado",
+      "id": 8
+    },
+    {
+      "name": "Montevideo",
+      "id": 9
+    },
+    {
+      "name": "Paysandu",
+      "id": 10
+    },
+    {
+      "name": "Rio Negro",
+      "id": 11
+    },
+    {
+      "name": "Rivera",
+      "id": 12
+    },
+    {
+      "name": "Rocha",
+      "id": 13
+    },
+    {
+      "name": "Salto",
+      "id": 14
+    },
+    {
+      "name": "San Jose",
+      "id": 15
+    },
+    {
+      "name": "Soriano",
+      "id": 16
+    },
+    {
+      "name": "Tacuarembo",
+      "id": 17
+    },
+    {
+      "name": "Treinta y Tres",
+      "id": 18
+    }
+  ],
+  "geoRectangle": {
+    "West": -58.4427261353,
+    "East": -53.073928833,
+    "North": -30.0822219849,
+    "South": -34.9808235168
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": -3,
+    "Flg": 2,
+    "Name": "Montevideo",
+    "GeoPt": [
+      -34.53,
+      -56.11
+    ]
+  }
+}

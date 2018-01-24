@@ -1,0 +1,510 @@
+{
+  "name": "Madeira",
+  "cities": [
+    {
+      "cityName": "Achada de Cima",
+      "lat": 32.7166667,
+      "lng": -17.15
+    },
+    {
+      "cityName": "Achada de Gaula",
+      "lat": 32.6666667,
+      "lng": -16.8166667
+    },
+    {
+      "cityName": "Achada do Marquês",
+      "lat": 32.7833333,
+      "lng": -16.9
+    },
+    {
+      "cityName": "Achadas da Cruz",
+      "lat": 32.8333333,
+      "lng": -17.2166667
+    },
+    {
+      "cityName": "Achadinha",
+      "lat": 32.6666667,
+      "lng": -16.85
+    },
+    {
+      "cityName": "Água de Pena",
+      "lat": 32.7,
+      "lng": -16.7666667
+    },
+    {
+      "cityName": "Anjos",
+      "lat": 32.6833333,
+      "lng": -17.1166667
+    },
+    {
+      "cityName": "Arco da Calheta",
+      "lat": 32.7,
+      "lng": -17.15
+    },
+    {
+      "cityName": "Arco de São Jorge",
+      "lat": 32.8166667,
+      "lng": -16.95
+    },
+    {
+      "cityName": "Areias",
+      "lat": 33.0833333,
+      "lng": -16.35
+    },
+    {
+      "cityName": "Bemposta",
+      "lat": 32.6833333,
+      "lng": -16.7666667
+    },
+    {
+      "cityName": "Boa Morte",
+      "lat": 32.8166667,
+      "lng": -17.2333333
+    },
+    {
+      "cityName": "Boaventura",
+      "lat": 32.8166667,
+      "lng": -16.9666667
+    },
+    {
+      "cityName": "Cabo da Ribeira",
+      "lat": 32.8,
+      "lng": -16.9833333
+    },
+    {
+      "cityName": "Calheta",
+      "lat": 32.7166667,
+      "lng": -17.1833333
+    },
+    {
+      "cityName": "Camacha",
+      "lat": 33.0833333,
+      "lng": -16.3333333
+    },
+    {
+      "cityName": "Câmara de Lobos",
+      "lat": 32.6333333,
+      "lng": -16.9666667
+    },
+    {
+      "cityName": "Câmara do Bispo",
+      "lat": 32.65,
+      "lng": -17.0166667
+    },
+    {
+      "cityName": "Campanário",
+      "lat": 32.65,
+      "lng": -17.0333333
+    },
+    {
+      "cityName": "Campo de Baixo",
+      "lat": 33.05,
+      "lng": -16.35
+    },
+    {
+      "cityName": "Caniçal",
+      "lat": 32.7333333,
+      "lng": -16.7333333
+    },
+    {
+      "cityName": "Caniço",
+      "lat": 32.6333333,
+      "lng": -16.85
+    },
+    {
+      "cityName": "Carmanchão",
+      "lat": 32.7166667,
+      "lng": -16.7833333
+    },
+    {
+      "cityName": "Carreira",
+      "lat": 32.7333333,
+      "lng": -17.2166667
+    },
+    {
+      "cityName": "Carreiras",
+      "lat": 32.6833333,
+      "lng": -16.8666667
+    },
+    {
+      "cityName": "Corujeira de Dentro",
+      "lat": 32.6666667,
+      "lng": -16.9166667
+    },
+    {
+      "cityName": "Cova do Moirão",
+      "lat": 32.7166667,
+      "lng": -17.1333333
+    },
+    {
+      "cityName": "Crujeira de Dentro",
+      "lat": 32.8,
+      "lng": -17.2333333
+    },
+    {
+      "cityName": "Curral das Freiras",
+      "lat": 32.7166667,
+      "lng": -16.9666667
+    },
+    {
+      "cityName": "Eiras",
+      "lat": 32.6833333,
+      "lng": -16.7833333
+    },
+    {
+      "cityName": "Eiras Velhas",
+      "lat": 32.6833333,
+      "lng": -16.8333333
+    },
+    {
+      "cityName": "Enguias",
+      "lat": 33.0666667,
+      "lng": -16.3166667
+    },
+    {
+      "cityName": "Entre Águas",
+      "lat": 32.7333333,
+      "lng": -16.75
+    },
+    {
+      "cityName": "Estreitinho",
+      "lat": 32.6666667,
+      "lng": -16.9833333
+    },
+    {
+      "cityName": "Estreito da Calheta",
+      "lat": 32.7166667,
+      "lng": -17.2
+    },
+    {
+      "cityName": "Estrela",
+      "lat": 32.6833333,
+      "lng": -16.95
+    },
+    {
+      "cityName": "Faia da Ovelha",
+      "lat": 32.7666667,
+      "lng": -17.2333333
+    },
+    {
+      "cityName": "Faial",
+      "lat": 32.7833333,
+      "lng": -16.85
+    },
+    {
+      "cityName": "Fajã da Murta",
+      "lat": 32.75,
+      "lng": -16.8666667
+    },
+    {
+      "cityName": "Fajã do Mar",
+      "lat": 32.7666667,
+      "lng": -16.8166667
+    },
+    {
+      "cityName": "Fajã do Milho",
+      "lat": 32.75,
+      "lng": -16.8333333
+    },
+    {
+      "cityName": "Fajã do Penedo",
+      "lat": 32.7833333,
+      "lng": -16.9666667
+    },
+    {
+      "cityName": "Fajã do Pereira",
+      "lat": 32.7666667,
+      "lng": -17.25
+    },
+    {
+      "cityName": "Feiteiras",
+      "lat": 32.7333333,
+      "lng": -16.7666667
+    },
+    {
+      "cityName": "Funchal",
+      "lat": 32.6333333,
+      "lng": -16.9
+    },
+    {
+      "cityName": "Jardim Pelado",
+      "lat": 32.7333333,
+      "lng": -17.2
+    },
+    {
+      "cityName": "João Frino",
+      "lat": 32.7,
+      "lng": -16.8333333
+    },
+    {
+      "cityName": "Jogo da Bola",
+      "lat": 32.8166667,
+      "lng": -16.9
+    },
+    {
+      "cityName": "Junqueira",
+      "lat": 32.7333333,
+      "lng": -16.8333333
+    },
+    {
+      "cityName": "Lanceiros",
+      "lat": 32.85,
+      "lng": -17.1666667
+    },
+    {
+      "cityName": "Lapeiras",
+      "lat": 33.05,
+      "lng": -16.3666667
+    },
+    {
+      "cityName": "Lapinhas",
+      "lat": 32.7666667,
+      "lng": -16.9833333
+    },
+    {
+      "cityName": "Levadas",
+      "lat": 32.65,
+      "lng": -16.8166667
+    },
+    {
+      "cityName": "Livramento",
+      "lat": 32.6666667,
+      "lng": -17.1
+    },
+    {
+      "cityName": "Logar de Baixo",
+      "lat": 32.6666667,
+      "lng": -17.0833333
+    },
+    {
+      "cityName": "Lombada dos Marinheiros",
+      "lat": 32.7833333,
+      "lng": -17.2333333
+    },
+    {
+      "cityName": "Lombo da Velha",
+      "lat": 32.75,
+      "lng": -17.2
+    },
+    {
+      "cityName": "Lombo Galego",
+      "lat": 32.7666667,
+      "lng": -16.8833333
+    },
+    {
+      "cityName": "Madalena do Mar",
+      "lat": 32.6833333,
+      "lng": -17.1333333
+    },
+    {
+      "cityName": "Malhada",
+      "lat": 32.8166667,
+      "lng": -16.9833333
+    },
+    {
+      "cityName": "Malseira",
+      "lat": 32.75,
+      "lng": -17.2166667
+    },
+    {
+      "cityName": "Moruja",
+      "lat": 32.7,
+      "lng": -16.8166667
+    },
+    {
+      "cityName": "Nogueira",
+      "lat": 32.65,
+      "lng": -16.85
+    },
+    {
+      "cityName": "Nossa Senhora do Monte",
+      "lat": 32.6666667,
+      "lng": -16.9
+    },
+    {
+      "cityName": "Palheiro Ferreiro",
+      "lat": 32.65,
+      "lng": -16.8666667
+    },
+    {
+      "cityName": "Palmeira",
+      "lat": 32.65,
+      "lng": -16.9666667
+    },
+    {
+      "cityName": "Paul do Mar",
+      "lat": 32.75,
+      "lng": -17.2333333
+    },
+    {
+      "cityName": "Pedregal",
+      "lat": 32.8,
+      "lng": -17.25
+    },
+    {
+      "cityName": "Pinheiro Grande",
+      "lat": 32.6333333,
+      "lng": -16.8666667
+    },
+    {
+      "cityName": "Pinheiro",
+      "lat": 32.6833333,
+      "lng": -16.8
+    },
+    {
+      "cityName": "Ponta",
+      "lat": 33.0166667,
+      "lng": -16.3666667
+    },
+    {
+      "cityName": "Pôrta Santa",
+      "lat": 33.05,
+      "lng": -16.3333333
+    },
+    {
+      "cityName": "Portas Novas",
+      "lat": 33.0666667,
+      "lng": -16.3333333
+    },
+    {
+      "cityName": "Porto da Cruz",
+      "lat": 32.7666667,
+      "lng": -16.8333333
+    },
+    {
+      "cityName": "Quinta do Almeida",
+      "lat": 32.6833333,
+      "lng": -17.1
+    },
+    {
+      "cityName": "Reis Magos",
+      "lat": 32.6333333,
+      "lng": -16.8333333
+    },
+    {
+      "cityName": "Relógio do Poiso",
+      "lat": 32.7,
+      "lng": -17.1166667
+    },
+    {
+      "cityName": "Ribeira Brava",
+      "lat": 32.65,
+      "lng": -17.0666667
+    },
+    {
+      "cityName": "Ribeira da Janela",
+      "lat": 32.8333333,
+      "lng": -17.15
+    },
+    {
+      "cityName": "Ribeira do Raposo",
+      "lat": 32.7333333,
+      "lng": -17.1666667
+    },
+    {
+      "cityName": "Ribeira Funda",
+      "lat": 32.8166667,
+      "lng": -16.9333333
+    },
+    {
+      "cityName": "Ribeira Seca",
+      "lat": 32.7333333,
+      "lng": -16.7833333
+    },
+    {
+      "cityName": "Ribeirinha",
+      "lat": 32.6666667,
+      "lng": -16.8333333
+    },
+    {
+      "cityName": "Ribeiro Frio",
+      "lat": 32.7333333,
+      "lng": -16.8833333
+    },
+    {
+      "cityName": "Salão",
+      "lat": 32.85,
+      "lng": -17.2
+    },
+    {
+      "cityName": "Santa Luzia",
+      "lat": 32.65,
+      "lng": -16.9
+    },
+    {
+      "cityName": "Santa Maria Maior",
+      "lat": 32.6333333,
+      "lng": -16.8833333
+    },
+    {
+      "cityName": "Santana",
+      "lat": 32.8,
+      "lng": -16.8833333
+    },
+    {
+      "cityName": "Santo António",
+      "lat": 32.65,
+      "lng": -16.9333333
+    },
+    {
+      "cityName": "Santo da Serra",
+      "lat": 32.7166667,
+      "lng": -16.8166667
+    },
+    {
+      "cityName": "São João de Latrão",
+      "lat": 32.65,
+      "lng": -16.8833333
+    },
+    {
+      "cityName": "São Martinho",
+      "lat": 32.6333333,
+      "lng": -16.95
+    },
+    {
+      "cityName": "São Roque do Faial",
+      "lat": 32.7666667,
+      "lng": -16.85
+    },
+    {
+      "cityName": "São Vicente",
+      "lat": 32.8,
+      "lng": -17.05
+    },
+    {
+      "cityName": "Seixal",
+      "lat": 32.8166667,
+      "lng": -17.1166667
+    },
+    {
+      "cityName": "Senhora do Rosário",
+      "lat": 32.7666667,
+      "lng": -17.0333333
+    },
+    {
+      "cityName": "Serra de Água",
+      "lat": 32.7166667,
+      "lng": -17.0333333
+    },
+    {
+      "cityName": "Trapiche",
+      "lat": 32.6666667,
+      "lng": -16.95
+    },
+    {
+      "cityName": "Vale de Paraíso",
+      "lat": 32.6666667,
+      "lng": -16.8666667
+    },
+    {
+      "cityName": "Venda do Atalhinho",
+      "lat": 32.7333333,
+      "lng": -17.1833333
+    },
+    {
+      "cityName": "Zimbreiros",
+      "lat": 32.75,
+      "lng": -16.8166667
+    }
+  ]
+}

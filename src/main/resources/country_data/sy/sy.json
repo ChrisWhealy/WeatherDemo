@@ -1,0 +1,79 @@
+{
+  "name": "Syria",
+  "iso2": "sy",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Al Hasakah",
+      "id": 0
+    },
+    {
+      "name": "Al Ladhiqiyah",
+      "id": 1
+    },
+    {
+      "name": "Al Qunaytirah",
+      "id": 2
+    },
+    {
+      "name": "Ar Raqqah",
+      "id": 3
+    },
+    {
+      "name": "As Suwayda'",
+      "id": 4
+    },
+    {
+      "name": "Dar",
+      "id": 5
+    },
+    {
+      "name": "Dayr az Zawr",
+      "id": 6
+    },
+    {
+      "name": "Dimashq",
+      "id": 7
+    },
+    {
+      "name": "Halab",
+      "id": 8
+    },
+    {
+      "name": "Hamah",
+      "id": 9
+    },
+    {
+      "name": "Hims",
+      "id": 10
+    },
+    {
+      "name": "Idlib",
+      "id": 11
+    },
+    {
+      "name": "Rif Dimashq",
+      "id": 12
+    },
+    {
+      "name": "Tartus",
+      "id": 13
+    }
+  ],
+  "geoRectangle": {
+    "West": 35.7272148132,
+    "East": 42.3850364685,
+    "North": 37.3191452026,
+    "South": 32.3106575012
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Damascus",
+    "GeoPt": [
+      33.3,
+      36.18
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Norway",
+  "iso2": "no",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Akershus",
+      "id": 0
+    },
+    {
+      "name": "Aust-Agder",
+      "id": 1
+    },
+    {
+      "name": "Buskerud",
+      "id": 2
+    },
+    {
+      "name": "Finnmark",
+      "id": 3
+    },
+    {
+      "name": "Hedmark",
+      "id": 4
+    },
+    {
+      "name": "Hordaland",
+      "id": 5
+    },
+    {
+      "name": "More og Romsdal",
+      "id": 6
+    },
+    {
+      "name": "Nord-Trondelag",
+      "id": 7
+    },
+    {
+      "name": "Nordland",
+      "id": 8
+    },
+    {
+      "name": "Oppland",
+      "id": 9
+    },
+    {
+      "name": "Oslo",
+      "id": 10
+    },
+    {
+      "name": "Ostfold",
+      "id": 11
+    },
+    {
+      "name": "Rogaland",
+      "id": 12
+    },
+    {
+      "name": "Sogn og Fjordane",
+      "id": 13
+    },
+    {
+      "name": "Sor-Trondelag",
+      "id": 14
+    },
+    {
+      "name": "Telemark",
+      "id": 15
+    },
+    {
+      "name": "Troms",
+      "id": 16
+    },
+    {
+      "name": "Vest-Agder",
+      "id": 17
+    },
+    {
+      "name": "Vestfold",
+      "id": 18
+    }
+  ],
+  "geoRectangle": {
+    "West": 4.65016651154,
+    "East": 30.945558548,
+    "North": 71.188117981,
+    "South": 57.9779129028
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Oslo",
+    "GeoPt": [
+      59.55,
+      10.45
+    ]
+  }
+}

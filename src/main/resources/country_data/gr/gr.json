@@ -1,0 +1,231 @@
+{
+  "name": "Greece",
+  "iso2": "gr",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Aitolia kai Akarnania",
+      "id": 0
+    },
+    {
+      "name": "Akhaia",
+      "id": 1
+    },
+    {
+      "name": "Argolis",
+      "id": 2
+    },
+    {
+      "name": "Arkadhia",
+      "id": 3
+    },
+    {
+      "name": "Arta",
+      "id": 4
+    },
+    {
+      "name": "Attiki",
+      "id": 5
+    },
+    {
+      "name": "Dhodhekanisos",
+      "id": 6
+    },
+    {
+      "name": "Drama",
+      "id": 7
+    },
+    {
+      "name": "Evritania",
+      "id": 8
+    },
+    {
+      "name": "Evros",
+      "id": 9
+    },
+    {
+      "name": "Evvoia",
+      "id": 10
+    },
+    {
+      "name": "Florina",
+      "id": 11
+    },
+    {
+      "name": "Fokis",
+      "id": 12
+    },
+    {
+      "name": "Fthiotis",
+      "id": 13
+    },
+    {
+      "name": "Grevena",
+      "id": 14
+    },
+    {
+      "name": "Ilia",
+      "id": 15
+    },
+    {
+      "name": "Imathia",
+      "id": 16
+    },
+    {
+      "name": "Ioannina",
+      "id": 17
+    },
+    {
+      "name": "Iraklion",
+      "id": 18
+    },
+    {
+      "name": "Kardhitsa",
+      "id": 19
+    },
+    {
+      "name": "Kastoria",
+      "id": 20
+    },
+    {
+      "name": "Kavala",
+      "id": 21
+    },
+    {
+      "name": "Kefallinia",
+      "id": 22
+    },
+    {
+      "name": "Kerkira",
+      "id": 23
+    },
+    {
+      "name": "Khalkidhiki",
+      "id": 24
+    },
+    {
+      "name": "Khania",
+      "id": 25
+    },
+    {
+      "name": "Khios",
+      "id": 26
+    },
+    {
+      "name": "Kikladhes",
+      "id": 27
+    },
+    {
+      "name": "Kilkis",
+      "id": 28
+    },
+    {
+      "name": "Korinthia",
+      "id": 29
+    },
+    {
+      "name": "Kozani",
+      "id": 30
+    },
+    {
+      "name": "Lakonia",
+      "id": 31
+    },
+    {
+      "name": "Larisa",
+      "id": 32
+    },
+    {
+      "name": "Lasithi",
+      "id": 33
+    },
+    {
+      "name": "Lesvos",
+      "id": 34
+    },
+    {
+      "name": "Levkas",
+      "id": 35
+    },
+    {
+      "name": "Magnisia",
+      "id": 36
+    },
+    {
+      "name": "Messinia",
+      "id": 37
+    },
+    {
+      "name": "Pella",
+      "id": 38
+    },
+    {
+      "name": "Pieria",
+      "id": 39
+    },
+    {
+      "name": "Preveza",
+      "id": 40
+    },
+    {
+      "name": "Rethimni",
+      "id": 41
+    },
+    {
+      "name": "Rodhopi",
+      "id": 42
+    },
+    {
+      "name": "Samos",
+      "id": 43
+    },
+    {
+      "name": "Serrai",
+      "id": 44
+    },
+    {
+      "name": "Thesprotia",
+      "id": 45
+    },
+    {
+      "name": "Thessaloniki",
+      "id": 46
+    },
+    {
+      "name": "Trikala",
+      "id": 47
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 48
+    },
+    {
+      "name": "Voiotia",
+      "id": 49
+    },
+    {
+      "name": "Xanthi",
+      "id": 50
+    },
+    {
+      "name": "Zakinthos",
+      "id": 51
+    }
+  ],
+  "geoRectangle": {
+    "West": 19.3744430542,
+    "East": 28.2463912964,
+    "North": 41.7574234009,
+    "South": 34.8096351624
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Athens",
+    "GeoPt": [
+      37.59,
+      23.44
+    ]
+  }
+}

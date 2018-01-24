@@ -1,0 +1,2635 @@
+{
+  "name": "Zala",
+  "cities": [
+    {
+      "cityName": "Ádámhegy",
+      "lat": 46.4833333,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Adolfmajor",
+      "lat": 47.0166667,
+      "lng": 17.0833333
+    },
+    {
+      "cityName": "Alibánfa",
+      "lat": 46.8833333,
+      "lng": 16.9333333
+    },
+    {
+      "cityName": "Alice-major",
+      "lat": 46.75,
+      "lng": 16.9
+    },
+    {
+      "cityName": "Aligvárhegy",
+      "lat": 46.55,
+      "lng": 17.1
+    },
+    {
+      "cityName": "Aligvármajor",
+      "lat": 46.4833333,
+      "lng": 16.65
+    },
+    {
+      "cityName": "Alimántanya",
+      "lat": 47.1,
+      "lng": 21.6333333
+    },
+    {
+      "cityName": "Almásháza",
+      "lat": 46.85,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Alsóaranyod",
+      "lat": 46.95,
+      "lng": 17.0666667
+    },
+    {
+      "cityName": "Alsó-Baránd-major",
+      "lat": 46.6666667,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Alsóbebespuszta",
+      "lat": 46.7166667,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Alsócserpuszta",
+      "lat": 46.7,
+      "lng": 16.9833333
+    },
+    {
+      "cityName": "Alsócsönget",
+      "lat": 46.9,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Alsódabrony",
+      "lat": 46.9,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Alsoerdo",
+      "lat": 46.45,
+      "lng": 16.9833333
+    },
+    {
+      "cityName": "Alsófakos",
+      "lat": 46.6666667,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Alsóhegy",
+      "lat": 46.6666667,
+      "lng": 16.6833333
+    },
+    {
+      "cityName": "Alsóistvánd",
+      "lat": 46.6,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Alsókustány",
+      "lat": 46.8166667,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Alsómajor",
+      "lat": 46.8,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Alsómalom",
+      "lat": 46.7333333,
+      "lng": 17.2333333
+    },
+    {
+      "cityName": "Alsónemesapáti",
+      "lat": 46.8480556,
+      "lng": 16.935
+    },
+    {
+      "cityName": "Alsópáhok",
+      "lat": 46.7666667,
+      "lng": 17.1833333
+    },
+    {
+      "cityName": "Alsórajk",
+      "lat": 46.65,
+      "lng": 17
+    },
+    {
+      "cityName": "Alsósötétmajor",
+      "lat": 46.85,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Alsó Szénásvölgy",
+      "lat": 46.7166667,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Alsószenterzsébet",
+      "lat": 46.75,
+      "lng": 16.4833333
+    },
+    {
+      "cityName": "Alsótöllösmajor",
+      "lat": 46.6333333,
+      "lng": 16.9666667
+    },
+    {
+      "cityName": "Alsótöllöspuszta",
+      "lat": 46.6833333,
+      "lng": 17
+    },
+    {
+      "cityName": "Andorházamajor",
+      "lat": 46.7166667,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Andráshida",
+      "lat": 46.8666667,
+      "lng": 16.8
+    },
+    {
+      "cityName": "Angelamajor",
+      "lat": 46.95,
+      "lng": 16.9
+    },
+    {
+      "cityName": "Annamajor",
+      "lat": 46.4333333,
+      "lng": 16.7833333
+    },
+    {
+      "cityName": "Antalhegy",
+      "lat": 46.55,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Apáti Puszta",
+      "lat": 46.7666667,
+      "lng": 16.6166667
+    },
+    {
+      "cityName": "Apsamajor",
+      "lat": 46.9833333,
+      "lng": 17.15
+    },
+    {
+      "cityName": "Aranyhegy",
+      "lat": 46.6,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Árkosházapuszta",
+      "lat": 46.8333333,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Asszonyvár",
+      "lat": 46.3333333,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Asszúvölgyimajor",
+      "lat": 46.7,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Aszópuszta",
+      "lat": 46.5,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Avashegy",
+      "lat": 46.8,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Babosdöbréte",
+      "lat": 46.8166667,
+      "lng": 16.7833333
+    },
+    {
+      "cityName": "Badacsahegy",
+      "lat": 46.5333333,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Baglad",
+      "lat": 46.6833333,
+      "lng": 16.4833333
+    },
+    {
+      "cityName": "Baglászamajor",
+      "lat": 46.8833333,
+      "lng": 16.6833333
+    },
+    {
+      "cityName": "Bagod",
+      "lat": 46.8780556,
+      "lng": 16.7444444
+    },
+    {
+      "cityName": "Bagola",
+      "lat": 46.5141667,
+      "lng": 16.9716667
+    },
+    {
+      "cityName": "Bagotapuszta",
+      "lat": 46.5333333,
+      "lng": 17
+    },
+    {
+      "cityName": "Bakarend",
+      "lat": 46.5833333,
+      "lng": 16.5166667
+    },
+    {
+      "cityName": "Bak",
+      "lat": 46.7291667,
+      "lng": 16.8463889
+    },
+    {
+      "cityName": "Bakos-hegy",
+      "lat": 46.8833333,
+      "lng": 16.6333333
+    },
+    {
+      "cityName": "Baktüttös",
+      "lat": 46.7,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Balatongyörök",
+      "lat": 46.75,
+      "lng": 17.3666667
+    },
+    {
+      "cityName": "Balatonhídvég",
+      "lat": 46.6,
+      "lng": 17.1833333
+    },
+    {
+      "cityName": "Balatonhídvégpuszta",
+      "lat": 46.6333333,
+      "lng": 17.1833333
+    },
+    {
+      "cityName": "Bánfamajor",
+      "lat": 46.4333333,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Bánmajor",
+      "lat": 47.2166667,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Bánokszentgyörgy",
+      "lat": 46.5455556,
+      "lng": 16.7872222
+    },
+    {
+      "cityName": "Bánom",
+      "lat": 46.45,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Bányatelep",
+      "lat": 47.2333333,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Bányavölgy",
+      "lat": 46.55,
+      "lng": 17.1833333
+    },
+    {
+      "cityName": "Barabáshegy",
+      "lat": 46.9666667,
+      "lng": 17
+    },
+    {
+      "cityName": "Barabási Uj-tanya",
+      "lat": 46.95,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Barátokfapuszta",
+      "lat": 46.75,
+      "lng": 16.9333333
+    },
+    {
+      "cityName": "Barátsziget",
+      "lat": 46.8666667,
+      "lng": 17.0833333
+    },
+    {
+      "cityName": "Bárcaimajor",
+      "lat": 46.7,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Bárdos",
+      "lat": 47.2,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Bárhely",
+      "lat": 46.6216667,
+      "lng": 16.5391667
+    },
+    {
+      "cityName": "Barkócás",
+      "lat": 46.6333333,
+      "lng": 17.0666667
+    },
+    {
+      "cityName": "Barlahida",
+      "lat": 46.7158333,
+      "lng": 16.7025
+    },
+    {
+      "cityName": "Barnakpuszta",
+      "lat": 46.7166667,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Batyk",
+      "lat": 46.9833333,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Báza",
+      "lat": 46.5233333,
+      "lng": 16.7294444
+    },
+    {
+      "cityName": "Bazita",
+      "lat": 46.8,
+      "lng": 16.8
+    },
+    {
+      "cityName": "Béc",
+      "lat": 46.4333333,
+      "lng": 16.7333333
+    },
+    {
+      "cityName": "Becsalihegy",
+      "lat": 46.85,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Becsehely",
+      "lat": 46.4458333,
+      "lng": 16.7927778
+    },
+    {
+      "cityName": "Becsvölgye",
+      "lat": 46.7666667,
+      "lng": 16.7
+    },
+    {
+      "cityName": "Behiákpuszta",
+      "lat": 46.5333333,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Bekeháza",
+      "lat": 46.8833333,
+      "lng": 16.8
+    },
+    {
+      "cityName": "Bélamajor",
+      "lat": 46.7333333,
+      "lng": 16.9
+    },
+    {
+      "cityName": "Belezna",
+      "lat": 46.3277778,
+      "lng": 16.94
+    },
+    {
+      "cityName": "Belmajor",
+      "lat": 46.4333333,
+      "lng": 16.9
+    },
+    {
+      "cityName": "Belsoberek",
+      "lat": 46.6666667,
+      "lng": 17.0833333
+    },
+    {
+      "cityName": "Belsohegy",
+      "lat": 46.6333333,
+      "lng": 16.9333333
+    },
+    {
+      "cityName": "Belsomajor",
+      "lat": 46.6166667,
+      "lng": 16.5
+    },
+    {
+      "cityName": "Belsosard",
+      "lat": 46.65,
+      "lng": 16.4833333
+    },
+    {
+      "cityName": "Bezeréd",
+      "lat": 46.8666667,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Bezeredi Kulso-major",
+      "lat": 46.8833333,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Bezsentó",
+      "lat": 46.35,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Biklerföld",
+      "lat": 46.8833333,
+      "lng": 17.0666667
+    },
+    {
+      "cityName": "Bírószél",
+      "lat": 46.8666667,
+      "lng": 17.3
+    },
+    {
+      "cityName": "Bocfölde",
+      "lat": 46.7833333,
+      "lng": 16.8333333
+    },
+    {
+      "cityName": "Bocska",
+      "lat": 46.55,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Bocsota",
+      "lat": 46.7333333,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Böde",
+      "lat": 46.8375,
+      "lng": 16.7205556
+    },
+    {
+      "cityName": "Bödeháza",
+      "lat": 46.65,
+      "lng": 16.4166667
+    },
+    {
+      "cityName": "Bödemajor",
+      "lat": 46.8666667,
+      "lng": 17.2
+    },
+    {
+      "cityName": "Bodonkút",
+      "lat": 46.8833333,
+      "lng": 17.2333333
+    },
+    {
+      "cityName": "Bókaháza",
+      "lat": 46.7666667,
+      "lng": 17.1
+    },
+    {
+      "cityName": "Bölcsföldpuszta",
+      "lat": 46.8333333,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Bolypart",
+      "lat": 46.6166667,
+      "lng": 16.6833333
+    },
+    {
+      "cityName": "Boncodfölde",
+      "lat": 46.8666667,
+      "lng": 16.7333333
+    },
+    {
+      "cityName": "Borbélyrét",
+      "lat": 46.6666667,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Bördöcze",
+      "lat": 46.6,
+      "lng": 16.6166667
+    },
+    {
+      "cityName": "Börönd",
+      "lat": 46.9,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Borsfa",
+      "lat": 46.5166667,
+      "lng": 16.7833333
+    },
+    {
+      "cityName": "Borsósoldal",
+      "lat": 46.55,
+      "lng": 16.9333333
+    },
+    {
+      "cityName": "Börzönce",
+      "lat": 46.5833333,
+      "lng": 16.9
+    },
+    {
+      "cityName": "Boszorkányhányás",
+      "lat": 46.6166667,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Bozsok",
+      "lat": 46.8333333,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Bozsokihegy",
+      "lat": 46.85,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Bucsuszentlászló",
+      "lat": 46.7861111,
+      "lng": 16.9313889
+    },
+    {
+      "cityName": "Bucsuta",
+      "lat": 46.5666667,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Budafa",
+      "lat": 46.85,
+      "lng": 16.6333333
+    },
+    {
+      "cityName": "Budafapuszta",
+      "lat": 46.5166667,
+      "lng": 16.7
+    },
+    {
+      "cityName": "Budaihegy",
+      "lat": 46.7666667,
+      "lng": 16.7833333
+    },
+    {
+      "cityName": "Budnya",
+      "lat": 46.5833333,
+      "lng": 16.7833333
+    },
+    {
+      "cityName": "Budnyapuszta",
+      "lat": 46.6166667,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Bükkiház",
+      "lat": 46.55,
+      "lng": 16.7833333
+    },
+    {
+      "cityName": "Bükkpuszta",
+      "lat": 46.7166667,
+      "lng": 16.9666667
+    },
+    {
+      "cityName": "Búslak-major",
+      "lat": 46.5833333,
+      "lng": 17
+    },
+    {
+      "cityName": "Búslakmajor",
+      "lat": 46.8,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Cigánygödör",
+      "lat": 46.5333333,
+      "lng": 17.1
+    },
+    {
+      "cityName": "Cigányhegy",
+      "lat": 46.8333333,
+      "lng": 16.6666667
+    },
+    {
+      "cityName": "Cigányszer",
+      "lat": 46.5333333,
+      "lng": 16.9333333
+    },
+    {
+      "cityName": "Csádé-major",
+      "lat": 46.6333333,
+      "lng": 17
+    },
+    {
+      "cityName": "Csáford",
+      "lat": 46.95,
+      "lng": 17.0833333
+    },
+    {
+      "cityName": "Csalányos",
+      "lat": 46.35,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Csalit",
+      "lat": 46.9166667,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Csalitmajor",
+      "lat": 46.5333333,
+      "lng": 17.2
+    },
+    {
+      "cityName": "Csapómalom",
+      "lat": 46.3333333,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Csatár",
+      "lat": 46.7833333,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Csehi",
+      "lat": 46.5166667,
+      "lng": 16.6666667
+    },
+    {
+      "cityName": "Csentericfa",
+      "lat": 46.7833333,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Cserhátmajor",
+      "lat": 46.8833333,
+      "lng": 17.2166667
+    },
+    {
+      "cityName": "Cserlap",
+      "lat": 46.8833333,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Csernec",
+      "lat": 46.4833333,
+      "lng": 16.6166667
+    },
+    {
+      "cityName": "Cserszegtomaj",
+      "lat": 46.8,
+      "lng": 17.2166667
+    },
+    {
+      "cityName": "Csertalakos",
+      "lat": 46.65,
+      "lng": 16.7
+    },
+    {
+      "cityName": "Csesztreg",
+      "lat": 46.7136111,
+      "lng": 16.5202778
+    },
+    {
+      "cityName": "Csetény",
+      "lat": 46.75,
+      "lng": 17.35
+    },
+    {
+      "cityName": "Csikótilospuszta",
+      "lat": 46.5666667,
+      "lng": 17.1
+    },
+    {
+      "cityName": "Csillaghegy",
+      "lat": 46.8666667,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Csillagmajor",
+      "lat": 46.9833333,
+      "lng": 17.1833333
+    },
+    {
+      "cityName": "Csirkehegyalja",
+      "lat": 46.8166667,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Csóborpuszta",
+      "lat": 46.8166667,
+      "lng": 16.7
+    },
+    {
+      "cityName": "Csöde",
+      "lat": 46.8166667,
+      "lng": 16.5333333
+    },
+    {
+      "cityName": "Csokmai Hegy",
+      "lat": 46.5666667,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Csömödér",
+      "lat": 46.6083333,
+      "lng": 16.6441667
+    },
+    {
+      "cityName": "Csonkahegyhát",
+      "lat": 46.7983333,
+      "lng": 16.7241667
+    },
+    {
+      "cityName": "Csöntemajor",
+      "lat": 46.5333333,
+      "lng": 17.15
+    },
+    {
+      "cityName": "Csörnyeföld",
+      "lat": 46.5008333,
+      "lng": 16.6319444
+    },
+    {
+      "cityName": "Csurgópuszta",
+      "lat": 46.7166667,
+      "lng": 16.9
+    },
+    {
+      "cityName": "Dedesi-Kecskés",
+      "lat": 46.5833333,
+      "lng": 16.5
+    },
+    {
+      "cityName": "Déneslak",
+      "lat": 46.9333333,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Diászó",
+      "lat": 46.6333333,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Dobri",
+      "lat": 46.5166667,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Döbröce",
+      "lat": 46.9333333,
+      "lng": 17.2
+    },
+    {
+      "cityName": "Dobronhegy",
+      "lat": 46.8166667,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Dömefölde",
+      "lat": 46.5894444,
+      "lng": 16.6505556
+    },
+    {
+      "cityName": "Dózsahegy",
+      "lat": 46.85,
+      "lng": 16.65
+    },
+    {
+      "cityName": "Dusnok",
+      "lat": 46.5833333,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Ebergény",
+      "lat": 46.8333333,
+      "lng": 16.8
+    },
+    {
+      "cityName": "Égenföld",
+      "lat": 46.7166667,
+      "lng": 17.1666667
+    },
+    {
+      "cityName": "Egervár",
+      "lat": 46.9336111,
+      "lng": 16.8552778
+    },
+    {
+      "cityName": "Egervári Hegy",
+      "lat": 46.9333333,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Egyeduta",
+      "lat": 46.4166667,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Erdeifalu",
+      "lat": 46.8,
+      "lng": 16.65
+    },
+    {
+      "cityName": "Erdeimajor",
+      "lat": 46.6,
+      "lng": 17
+    },
+    {
+      "cityName": "Erdoslak",
+      "lat": 46.3666667,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Erzsébetpuszta",
+      "lat": 47.2166667,
+      "lng": 17.1
+    },
+    {
+      "cityName": "Eszteregnye",
+      "lat": 46.4666667,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Esztergály",
+      "lat": 46.7,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Fehérbackó",
+      "lat": 46.6166667,
+      "lng": 16.9666667
+    },
+    {
+      "cityName": "Fejérmajor",
+      "lat": 46.7333333,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Felsoaranyod",
+      "lat": 46.9666667,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Felsobarkocas",
+      "lat": 46.6166667,
+      "lng": 17.1
+    },
+    {
+      "cityName": "Felsobuberek",
+      "lat": 46.7166667,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Felsodabrony",
+      "lat": 46.9166667,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Felsofakos",
+      "lat": 46.6833333,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Felsoistvand",
+      "lat": 46.6,
+      "lng": 16.8333333
+    },
+    {
+      "cityName": "Felsomandpuszta",
+      "lat": 46.8,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Felsopahok",
+      "lat": 46.7833333,
+      "lng": 17.1666667
+    },
+    {
+      "cityName": "Felsoszemenye",
+      "lat": 46.4666667,
+      "lng": 16.6333333
+    },
+    {
+      "cityName": "Felsoszenterzsebet",
+      "lat": 46.75,
+      "lng": 16.45
+    },
+    {
+      "cityName": "Fenékpuszta",
+      "lat": 46.7166667,
+      "lng": 17.25
+    },
+    {
+      "cityName": "Fenyvesmajor",
+      "lat": 46.6166667,
+      "lng": 17.1833333
+    },
+    {
+      "cityName": "Fernekag",
+      "lat": 46.8333333,
+      "lng": 16.6
+    },
+    {
+      "cityName": "Fiatalosmajor",
+      "lat": 47,
+      "lng": 17.2166667
+    },
+    {
+      "cityName": "Firmanház",
+      "lat": 46.6833333,
+      "lng": 16.55
+    },
+    {
+      "cityName": "Fityeháza",
+      "lat": 46.3666667,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Förhénchegy",
+      "lat": 46.5166667,
+      "lng": 16.9666667
+    },
+    {
+      "cityName": "Forintosháza",
+      "lat": 46.85,
+      "lng": 17
+    },
+    {
+      "cityName": "Fülöpmajor",
+      "lat": 46.4833333,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Furjánpuszta",
+      "lat": 46.65,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Füzvölgy",
+      "lat": 46.5166667,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Gáborjánháza",
+      "lat": 46.6333333,
+      "lng": 16.4166667
+    },
+    {
+      "cityName": "Gálafejmajor",
+      "lat": 46.8,
+      "lng": 16.8333333
+    },
+    {
+      "cityName": "Galambok",
+      "lat": 46.5166667,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Gánihegy",
+      "lat": 46.6333333,
+      "lng": 16.8
+    },
+    {
+      "cityName": "Garabonc",
+      "lat": 46.5833333,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Gellénháza",
+      "lat": 46.7613889,
+      "lng": 16.7877778
+    },
+    {
+      "cityName": "Gelsesziget",
+      "lat": 46.5666667,
+      "lng": 17
+    },
+    {
+      "cityName": "Gesztenyésmajor",
+      "lat": 46.8833333,
+      "lng": 16.6666667
+    },
+    {
+      "cityName": "Gétye",
+      "lat": 46.7666667,
+      "lng": 17.0666667
+    },
+    {
+      "cityName": "Gévahegy",
+      "lat": 46.8166667,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Gizellamajor",
+      "lat": 46.6333333,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Golicamajor",
+      "lat": 46.6666667,
+      "lng": 16.4333333
+    },
+    {
+      "cityName": "Gombosszeg",
+      "lat": 46.75,
+      "lng": 16.7333333
+    },
+    {
+      "cityName": "Gondótahegy",
+      "lat": 46.8,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Gorbopuszta",
+      "lat": 46.6666667,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Gosfa",
+      "lat": 46.9666667,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Gosztola",
+      "lat": 46.5833333,
+      "lng": 16.5333333
+    },
+    {
+      "cityName": "Gradicska",
+      "lat": 46.45,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Gutorfölde",
+      "lat": 46.6413889,
+      "lng": 16.7383333
+    },
+    {
+      "cityName": "Gyenesdiás",
+      "lat": 46.7666667,
+      "lng": 17.2833333
+    },
+    {
+      "cityName": "Gyöpihegy",
+      "lat": 46.9166667,
+      "lng": 16.9
+    },
+    {
+      "cityName": "Gyorfiszeg",
+      "lat": 46.7333333,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Györkefa",
+      "lat": 46.8666667,
+      "lng": 16.65
+    },
+    {
+      "cityName": "Györökháza",
+      "lat": 46.75,
+      "lng": 16.6
+    },
+    {
+      "cityName": "Gyótamajor",
+      "lat": 46.4,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Gyülevész",
+      "lat": 46.8833333,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Gyülevészimajor",
+      "lat": 46.8666667,
+      "lng": 17.15
+    },
+    {
+      "cityName": "Gyurgyáncpuszta",
+      "lat": 46.3666667,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Gyurus",
+      "lat": 46.8833333,
+      "lng": 17
+    },
+    {
+      "cityName": "Hagyárosimajor",
+      "lat": 46.9,
+      "lng": 16.7
+    },
+    {
+      "cityName": "Hahót",
+      "lat": 46.6425,
+      "lng": 16.9236111
+    },
+    {
+      "cityName": "Hannamajor",
+      "lat": 46.7166667,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Harkályhegy",
+      "lat": 46.85,
+      "lng": 16.6666667
+    },
+    {
+      "cityName": "Hencse",
+      "lat": 46.6666667,
+      "lng": 16.7833333
+    },
+    {
+      "cityName": "Herbatfa",
+      "lat": 46.9666667,
+      "lng": 16.9666667
+    },
+    {
+      "cityName": "Hernyék",
+      "lat": 46.65,
+      "lng": 16.65
+    },
+    {
+      "cityName": "Hertelendy-major",
+      "lat": 46.8333333,
+      "lng": 17.1833333
+    },
+    {
+      "cityName": "Hidegkút",
+      "lat": 46.7333333,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Himföld",
+      "lat": 46.6666667,
+      "lng": 16.7
+    },
+    {
+      "cityName": "Homokkomárom",
+      "lat": 46.5,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Hosszúrét",
+      "lat": 46.5833333,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Hosszúvölgy",
+      "lat": 46.5166667,
+      "lng": 16.9333333
+    },
+    {
+      "cityName": "Hottó",
+      "lat": 46.85,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Huszonyahegy",
+      "lat": 46.9333333,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Iborfia",
+      "lat": 46.7333333,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Iklódi Malom",
+      "lat": 46.5833333,
+      "lng": 16.6
+    },
+    {
+      "cityName": "Ilonamajor",
+      "lat": 46.6166667,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Irsapuszta",
+      "lat": 46.8,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Istvánmajor",
+      "lat": 46.6333333,
+      "lng": 16.6666667
+    },
+    {
+      "cityName": "Jáhompuszta",
+      "lat": 46.7833333,
+      "lng": 16.6
+    },
+    {
+      "cityName": "Jankaháza",
+      "lat": 46.9166667,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Jánkahegy",
+      "lat": 46.8166667,
+      "lng": 16.8333333
+    },
+    {
+      "cityName": "Jankapuszta",
+      "lat": 46.35,
+      "lng": 16.9333333
+    },
+    {
+      "cityName": "Jánosmajor",
+      "lat": 46.3,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Jánospuszta",
+      "lat": 46.3666667,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Józsalakpuszta",
+      "lat": 46.5333333,
+      "lng": 16.6333333
+    },
+    {
+      "cityName": "Józsefhegy",
+      "lat": 46.4833333,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Józsefmajor",
+      "lat": 46.8,
+      "lng": 17.0666667
+    },
+    {
+      "cityName": "Kacorlak",
+      "lat": 46.5666667,
+      "lng": 16.9666667
+    },
+    {
+      "cityName": "Kakonyapuszta",
+      "lat": 46.3333333,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Kallósd",
+      "lat": 46.8666667,
+      "lng": 17.0666667
+    },
+    {
+      "cityName": "Kálmánmajor",
+      "lat": 46.8666667,
+      "lng": 16.6666667
+    },
+    {
+      "cityName": "Kálócfa",
+      "lat": 46.75,
+      "lng": 16.5666667
+    },
+    {
+      "cityName": "Kálócfapuszta",
+      "lat": 46.9166667,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Kámaháza",
+      "lat": 46.5666667,
+      "lng": 16.7333333
+    },
+    {
+      "cityName": "Kányavár",
+      "lat": 46.5666667,
+      "lng": 16.6833333
+    },
+    {
+      "cityName": "Kápolnapuszta",
+      "lat": 46.5833333,
+      "lng": 17.2
+    },
+    {
+      "cityName": "Karajpuszta",
+      "lat": 46.6166667,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Kaszaháza",
+      "lat": 46.85,
+      "lng": 16.8333333
+    },
+    {
+      "cityName": "Kaszálómajor",
+      "lat": 46.7333333,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Kávás",
+      "lat": 46.8666667,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Kehida",
+      "lat": 46.85,
+      "lng": 17.1
+    },
+    {
+      "cityName": "Kemendhegy",
+      "lat": 46.8833333,
+      "lng": 16.9666667
+    },
+    {
+      "cityName": "Kemendollár",
+      "lat": 46.9,
+      "lng": 16.9666667
+    },
+    {
+      "cityName": "Keménfa",
+      "lat": 46.8333333,
+      "lng": 16.6333333
+    },
+    {
+      "cityName": "Kerkabarabás",
+      "lat": 46.6833333,
+      "lng": 16.5666667
+    },
+    {
+      "cityName": "Kerkafalva",
+      "lat": 46.7666667,
+      "lng": 16.5
+    },
+    {
+      "cityName": "Kerkapéntekfalu",
+      "lat": 46.7666667,
+      "lng": 16.4833333
+    },
+    {
+      "cityName": "Kerkaszentkirály",
+      "lat": 46.5,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Kerka Szent Miklós",
+      "lat": 46.515,
+      "lng": 16.5577778
+    },
+    {
+      "cityName": "Kerkateskánd",
+      "lat": 46.5833333,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Kerkaújfalu",
+      "lat": 46.7333333,
+      "lng": 16.5166667
+    },
+    {
+      "cityName": "Kerulopuszta",
+      "lat": 46.5666667,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Kétbükkiköz",
+      "lat": 46.7833333,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Kigyós-major",
+      "lat": 47.05,
+      "lng": 17.4333333
+    },
+    {
+      "cityName": "Kis Bagolai Hegy",
+      "lat": 46.4333333,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Kisfakos",
+      "lat": 46.4333333,
+      "lng": 17.0666667
+    },
+    {
+      "cityName": "Kisgorbo",
+      "lat": 46.9333333,
+      "lng": 17.1666667
+    },
+    {
+      "cityName": "Kishegyhátitag",
+      "lat": 46.4666667,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Kishegy",
+      "lat": 46.5666667,
+      "lng": 16.6
+    },
+    {
+      "cityName": "Kiskanizsa",
+      "lat": 46.45,
+      "lng": 16.9666667
+    },
+    {
+      "cityName": "Kiskapornak",
+      "lat": 46.85,
+      "lng": 16.9833333
+    },
+    {
+      "cityName": "Kiskutas",
+      "lat": 46.9166667,
+      "lng": 16.8
+    },
+    {
+      "cityName": "Kiskútihegy",
+      "lat": 46.7833333,
+      "lng": 17.15
+    },
+    {
+      "cityName": "Kislakos",
+      "lat": 46.5386111,
+      "lng": 16.5944444
+    },
+    {
+      "cityName": "Kislakpuszta",
+      "lat": 46.55,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Kismezo-major",
+      "lat": 46.7333333,
+      "lng": 16.9333333
+    },
+    {
+      "cityName": "Kispuszta",
+      "lat": 46.6333333,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Kisrada",
+      "lat": 46.6,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Kisrécse",
+      "lat": 46.5,
+      "lng": 17.0666667
+    },
+    {
+      "cityName": "Kisszentgrót",
+      "lat": 46.9333333,
+      "lng": 17.0833333
+    },
+    {
+      "cityName": "Kissziget",
+      "lat": 46.6166667,
+      "lng": 16.6666667
+    },
+    {
+      "cityName": "Kistolmács",
+      "lat": 46.4833333,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Kisvásárhely",
+      "lat": 47,
+      "lng": 17.2
+    },
+    {
+      "cityName": "Kisvörcsök",
+      "lat": 46.5,
+      "lng": 16.6333333
+    },
+    {
+      "cityName": "Kohegy",
+      "lat": 46.7833333,
+      "lng": 16.9833333
+    },
+    {
+      "cityName": "Kökényesmindszent",
+      "lat": 46.8,
+      "lng": 16.7833333
+    },
+    {
+      "cityName": "Komárváros",
+      "lat": 46.5333333,
+      "lng": 17.1833333
+    },
+    {
+      "cityName": "Kövecses",
+      "lat": 46.8666667,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Kozmadombja",
+      "lat": 46.7666667,
+      "lng": 16.55
+    },
+    {
+      "cityName": "Krisztinamajor",
+      "lat": 46.7,
+      "lng": 16.7
+    },
+    {
+      "cityName": "Kulsosard",
+      "lat": 46.6333333,
+      "lng": 16.5
+    },
+    {
+      "cityName": "Kulsotanya",
+      "lat": 46.65,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Kurjamajor",
+      "lat": 46.5666667,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Kurtamajor",
+      "lat": 46.85,
+      "lng": 16.6833333
+    },
+    {
+      "cityName": "Kustánszeg",
+      "lat": 46.7838889,
+      "lng": 16.6875
+    },
+    {
+      "cityName": "Kútfeji Hegy",
+      "lat": 46.5666667,
+      "lng": 16.5666667
+    },
+    {
+      "cityName": "Lajosházimajor",
+      "lat": 46.7333333,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Lajosmajor",
+      "lat": 46.6166667,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Lászlómajor",
+      "lat": 46.9333333,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Látóhegy",
+      "lat": 46.4333333,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Lavaszi",
+      "lat": 46.55,
+      "lng": 16.5666667
+    },
+    {
+      "cityName": "Lazsnakpuszta",
+      "lat": 46.4833333,
+      "lng": 17
+    },
+    {
+      "cityName": "Lendvai-Kecskés",
+      "lat": 46.5833333,
+      "lng": 16.4833333
+    },
+    {
+      "cityName": "Lendvajakabfa",
+      "lat": 46.6833333,
+      "lng": 16.45
+    },
+    {
+      "cityName": "Lendvaújfalu",
+      "lat": 46.5166667,
+      "lng": 16.55
+    },
+    {
+      "cityName": "Lentihegy",
+      "lat": 46.6,
+      "lng": 16.55
+    },
+    {
+      "cityName": "Lentikápolnaimajor",
+      "lat": 46.65,
+      "lng": 16.5166667
+    },
+    {
+      "cityName": "Letenye",
+      "lat": 46.4286111,
+      "lng": 16.7305556
+    },
+    {
+      "cityName": "Lickóvadamos",
+      "lat": 46.75,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Ligetfalva",
+      "lat": 46.8333333,
+      "lng": 17.0666667
+    },
+    {
+      "cityName": "Lispe",
+      "lat": 46.5333333,
+      "lng": 16.7
+    },
+    {
+      "cityName": "Liszó",
+      "lat": 46.3666667,
+      "lng": 17
+    },
+    {
+      "cityName": "Lórántháza",
+      "lat": 46.6833333,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Magyarföld",
+      "lat": 46.7833333,
+      "lng": 16.4166667
+    },
+    {
+      "cityName": "Magyarszentmiklós",
+      "lat": 46.5344444,
+      "lng": 16.9383333
+    },
+    {
+      "cityName": "Maort Centrálé",
+      "lat": 46.5333333,
+      "lng": 16.6166667
+    },
+    {
+      "cityName": "Mariskapuszta",
+      "lat": 46.9166667,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Markierdo",
+      "lat": 46.5333333,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Márkus",
+      "lat": 46.9333333,
+      "lng": 16.6833333
+    },
+    {
+      "cityName": "Maróc",
+      "lat": 46.55,
+      "lng": 16.6666667
+    },
+    {
+      "cityName": "Márokföld",
+      "lat": 46.7166667,
+      "lng": 16.45
+    },
+    {
+      "cityName": "Martonfa Malom",
+      "lat": 46.8666667,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Mezeimalom",
+      "lat": 46.4333333,
+      "lng": 17
+    },
+    {
+      "cityName": "Mihompuszta",
+      "lat": 46.7333333,
+      "lng": 16.5333333
+    },
+    {
+      "cityName": "Miklósmajor",
+      "lat": 46.6333333,
+      "lng": 16.7833333
+    },
+    {
+      "cityName": "Miksamajor",
+      "lat": 46.7,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Milej",
+      "lat": 46.8,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Misefa",
+      "lat": 46.8,
+      "lng": 16.9833333
+    },
+    {
+      "cityName": "Molnári",
+      "lat": 46.3833333,
+      "lng": 16.8333333
+    },
+    {
+      "cityName": "Morgánypuszta",
+      "lat": 46.55,
+      "lng": 17
+    },
+    {
+      "cityName": "Mórichely",
+      "lat": 46.4,
+      "lng": 16.9833333
+    },
+    {
+      "cityName": "Murakeresztúr",
+      "lat": 46.3522222,
+      "lng": 16.8780556
+    },
+    {
+      "cityName": "Murarátka",
+      "lat": 46.4530556,
+      "lng": 16.685
+    },
+    {
+      "cityName": "Muraszemenye",
+      "lat": 46.4666667,
+      "lng": 16.6166667
+    },
+    {
+      "cityName": "Nagybagolai Hegy",
+      "lat": 46.4333333,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Nagyfakos",
+      "lat": 46.4333333,
+      "lng": 17.0833333
+    },
+    {
+      "cityName": "Nagyfaludpuszta",
+      "lat": 46.9,
+      "lng": 16.9
+    },
+    {
+      "cityName": "Nagygorbo",
+      "lat": 46.9333333,
+      "lng": 17.1833333
+    },
+    {
+      "cityName": "Nagyhegypuszta",
+      "lat": 46.8166667,
+      "lng": 16.6
+    },
+    {
+      "cityName": "Nagykapornak",
+      "lat": 46.8166667,
+      "lng": 17
+    },
+    {
+      "cityName": "Nagykutas",
+      "lat": 46.9236111,
+      "lng": 16.8077778
+    },
+    {
+      "cityName": "Nagypáli",
+      "lat": 46.9166667,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Nagyrada",
+      "lat": 46.6166667,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Nándormajor",
+      "lat": 46.9666667,
+      "lng": 16.9833333
+    },
+    {
+      "cityName": "Négyszegmajor",
+      "lat": 46.8,
+      "lng": 17.1833333
+    },
+    {
+      "cityName": "Nekeresdmajor",
+      "lat": 46.8666667,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Nemesapáti",
+      "lat": 46.8666667,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Nemesboldogasszonyfa",
+      "lat": 46.7666667,
+      "lng": 17.15
+    },
+    {
+      "cityName": "Nemesbükk",
+      "lat": 46.8166667,
+      "lng": 17.15
+    },
+    {
+      "cityName": "Nemesnép",
+      "lat": 46.7005556,
+      "lng": 16.4625
+    },
+    {
+      "cityName": "Nemespátró",
+      "lat": 46.3166667,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Nemesrádó",
+      "lat": 46.7833333,
+      "lng": 17
+    },
+    {
+      "cityName": "Nemesszentandrás",
+      "lat": 46.7666667,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Nemesszer",
+      "lat": 46.7666667,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Németfalu",
+      "lat": 46.8208333,
+      "lng": 16.6736111
+    },
+    {
+      "cityName": "Nova",
+      "lat": 46.6838889,
+      "lng": 16.6838889
+    },
+    {
+      "cityName": "Nyakasháza",
+      "lat": 46.65,
+      "lng": 16.45
+    },
+    {
+      "cityName": "Nyírlakosa",
+      "lat": 46.55,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Óhid",
+      "lat": 46.9666667,
+      "lng": 17.1833333
+    },
+    {
+      "cityName": "Olgamajor",
+      "lat": 46.7166667,
+      "lng": 16.6666667
+    },
+    {
+      "cityName": "Oltárc",
+      "lat": 46.5272222,
+      "lng": 16.8372222
+    },
+    {
+      "cityName": "Öreghegy",
+      "lat": 46.45,
+      "lng": 17.1
+    },
+    {
+      "cityName": "Ormándlak",
+      "lat": 46.75,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Ormánd",
+      "lat": 46.5,
+      "lng": 17.1833333
+    },
+    {
+      "cityName": "Oroklán",
+      "lat": 46.7,
+      "lng": 16.7833333
+    },
+    {
+      "cityName": "Örvényeshegy",
+      "lat": 46.8333333,
+      "lng": 17.0833333
+    },
+    {
+      "cityName": "Ozmánbük",
+      "lat": 46.9166667,
+      "lng": 16.6833333
+    },
+    {
+      "cityName": "Pacsai Malom",
+      "lat": 46.8333333,
+      "lng": 16.5666667
+    },
+    {
+      "cityName": "Padár",
+      "lat": 46.85,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Pakodhegy",
+      "lat": 46.95,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Palánkosmajor",
+      "lat": 46.95,
+      "lng": 17.2
+    },
+    {
+      "cityName": "Pálfiszeg",
+      "lat": 46.7833333,
+      "lng": 16.7333333
+    },
+    {
+      "cityName": "Palin",
+      "lat": 46.5,
+      "lng": 16.9833333
+    },
+    {
+      "cityName": "Papucshegy",
+      "lat": 46.8333333,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Paragvárpuszta",
+      "lat": 46.8166667,
+      "lng": 16.6666667
+    },
+    {
+      "cityName": "Parasza",
+      "lat": 46.7666667,
+      "lng": 16.6666667
+    },
+    {
+      "cityName": "Paraszatelep",
+      "lat": 46.7166667,
+      "lng": 16.5166667
+    },
+    {
+      "cityName": "Pataikürtös",
+      "lat": 46.6,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Pat",
+      "lat": 46.4333333,
+      "lng": 17.1833333
+    },
+    {
+      "cityName": "Pátrói Tanya",
+      "lat": 46.3333333,
+      "lng": 17
+    },
+    {
+      "cityName": "Petendpuszta",
+      "lat": 46.4666667,
+      "lng": 17.0833333
+    },
+    {
+      "cityName": "Petrikeresztúr",
+      "lat": 46.7333333,
+      "lng": 16.7333333
+    },
+    {
+      "cityName": "Petrivente",
+      "lat": 46.4333333,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Petróci-puszta",
+      "lat": 46.6,
+      "lng": 16.6333333
+    },
+    {
+      "cityName": "Pirosmajor",
+      "lat": 46.65,
+      "lng": 16.6666667
+    },
+    {
+      "cityName": "Pókaszepetk",
+      "lat": 46.9233333,
+      "lng": 16.9683333
+    },
+    {
+      "cityName": "Poloskefo",
+      "lat": 46.6,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Pórszombat",
+      "lat": 46.7263889,
+      "lng": 16.5780556
+    },
+    {
+      "cityName": "Pötréte",
+      "lat": 46.6833333,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Pusztaederics",
+      "lat": 46.65,
+      "lng": 16.8
+    },
+    {
+      "cityName": "Pusztaszentlászló",
+      "lat": 46.6369444,
+      "lng": 16.8441667
+    },
+    {
+      "cityName": "Pusztaszentpéter",
+      "lat": 46.7833333,
+      "lng": 16.5333333
+    },
+    {
+      "cityName": "Rádiházapuszta",
+      "lat": 46.65,
+      "lng": 16.7833333
+    },
+    {
+      "cityName": "Ragánpuszta",
+      "lat": 46.7833333,
+      "lng": 16.6833333
+    },
+    {
+      "cityName": "Ramocsa",
+      "lat": 46.7833333,
+      "lng": 16.45
+    },
+    {
+      "cityName": "Rám",
+      "lat": 46.8,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Rátka",
+      "lat": 46.8833333,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Rédics",
+      "lat": 46.6141667,
+      "lng": 16.4775
+    },
+    {
+      "cityName": "Resznek",
+      "lat": 46.6619444,
+      "lng": 16.4791667
+    },
+    {
+      "cityName": "Rezi",
+      "lat": 46.85,
+      "lng": 17.2166667
+    },
+    {
+      "cityName": "Ságpuszta",
+      "lat": 46.35,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Salomvár",
+      "lat": 46.8488889,
+      "lng": 16.6633333
+    },
+    {
+      "cityName": "Sánci Major",
+      "lat": 46.45,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Sándormajor",
+      "lat": 46.5,
+      "lng": 17.0833333
+    },
+    {
+      "cityName": "Sand",
+      "lat": 46.4166667,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Sárhida",
+      "lat": 46.75,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Semjénháza",
+      "lat": 46.4,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Sénye",
+      "lat": 46.9,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Söjtör",
+      "lat": 46.6672222,
+      "lng": 16.8583333
+    },
+    {
+      "cityName": "Sormás",
+      "lat": 46.45,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Sümegcsehi",
+      "lat": 46.95,
+      "lng": 17.2166667
+    },
+    {
+      "cityName": "Surd",
+      "lat": 46.3191667,
+      "lng": 16.9705556
+    },
+    {
+      "cityName": "Szabadhegy",
+      "lat": 46.4666667,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Szabóhegy",
+      "lat": 46.85,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Szaplányos",
+      "lat": 46.4166667,
+      "lng": 17
+    },
+    {
+      "cityName": "Szent Andrási Puszta",
+      "lat": 46.7,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Szentgyörgyvár",
+      "lat": 46.75,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Szentgyörgyvölgy",
+      "lat": 46.7244444,
+      "lng": 16.4155556
+    },
+    {
+      "cityName": "Szentkozmadombja",
+      "lat": 46.6833333,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Szentliszló",
+      "lat": 46.5755556,
+      "lng": 16.8238889
+    },
+    {
+      "cityName": "Szentmargitfalva",
+      "lat": 46.5,
+      "lng": 16.6666667
+    },
+    {
+      "cityName": "Szentmártonmajor",
+      "lat": 46.9,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Szentmihálypuszta",
+      "lat": 46.9,
+      "lng": 17.1
+    },
+    {
+      "cityName": "Szentpál",
+      "lat": 46.8833333,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Szenttamáspuszta",
+      "lat": 46.8166667,
+      "lng": 16.9333333
+    },
+    {
+      "cityName": "Szepetkpuszta",
+      "lat": 46.9166667,
+      "lng": 16.9666667
+    },
+    {
+      "cityName": "Szepetnek",
+      "lat": 46.4308333,
+      "lng": 16.905
+    },
+    {
+      "cityName": "Szijártóháza",
+      "lat": 46.6333333,
+      "lng": 16.45
+    },
+    {
+      "cityName": "Szollospuszta",
+      "lat": 46.7833333,
+      "lng": 17.0666667
+    },
+    {
+      "cityName": "Szurdapuszta",
+      "lat": 46.45,
+      "lng": 16.8333333
+    },
+    {
+      "cityName": "Terézmajor",
+      "lat": 46.7166667,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Tilaj",
+      "lat": 46.8,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Tilajújhegy",
+      "lat": 46.8333333,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Tófej",
+      "lat": 46.6702778,
+      "lng": 16.8055556
+    },
+    {
+      "cityName": "Tölösipuszta",
+      "lat": 46.5,
+      "lng": 17.1666667
+    },
+    {
+      "cityName": "Tóti Állami Gazdaság",
+      "lat": 47.0333333,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Tótszentmárton",
+      "lat": 46.4166667,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Tótszerdahely",
+      "lat": 46.4,
+      "lng": 16.8
+    },
+    {
+      "cityName": "Tótvármajor",
+      "lat": 46.9833333,
+      "lng": 17.2166667
+    },
+    {
+      "cityName": "Türje",
+      "lat": 46.9833333,
+      "lng": 17.1
+    },
+    {
+      "cityName": "Tüskeszentpéter",
+      "lat": 46.9666667,
+      "lng": 17.0666667
+    },
+    {
+      "cityName": "Tüskevárimajor",
+      "lat": 46.4833333,
+      "lng": 17.0666667
+    },
+    {
+      "cityName": "Tuskóspuszta",
+      "lat": 46.4666667,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Tüttös",
+      "lat": 46.7,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Újcsáford",
+      "lat": 46.9333333,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Újmajor",
+      "lat": 46.45,
+      "lng": 16.8
+    },
+    {
+      "cityName": "Újnéppuszta",
+      "lat": 46.5666667,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Ungjakabfalva-major",
+      "lat": 46.65,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Ungor-major",
+      "lat": 46.5166667,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Vakola",
+      "lat": 46.7,
+      "lng": 16.8
+    },
+    {
+      "cityName": "Valéria-major",
+      "lat": 46.5833333,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Válickapuszta",
+      "lat": 46.6333333,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Valkonya",
+      "lat": 46.5,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Vállusimajor",
+      "lat": 46.85,
+      "lng": 17.3166667
+    },
+    {
+      "cityName": "Vállus",
+      "lat": 46.85,
+      "lng": 17.3
+    },
+    {
+      "cityName": "Várfölde",
+      "lat": 46.5666667,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Vargaszeg",
+      "lat": 46.7666667,
+      "lng": 16.6833333
+    },
+    {
+      "cityName": "Várhelypuszta",
+      "lat": 46.6666667,
+      "lng": 16.9833333
+    },
+    {
+      "cityName": "Városhegy",
+      "lat": 46.8166667,
+      "lng": 16.9666667
+    },
+    {
+      "cityName": "Vasboldogasszony",
+      "lat": 46.95,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Vaspör",
+      "lat": 46.9161111,
+      "lng": 16.65
+    },
+    {
+      "cityName": "Velence",
+      "lat": 46.8833333,
+      "lng": 16.65
+    },
+    {
+      "cityName": "Vétyempuszta",
+      "lat": 46.5666667,
+      "lng": 16.65
+    },
+    {
+      "cityName": "Vincemajor",
+      "lat": 47,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Vindornyafok",
+      "lat": 46.85,
+      "lng": 17.1833333
+    },
+    {
+      "cityName": "Vindornyalak",
+      "lat": 46.8833333,
+      "lng": 17.2
+    },
+    {
+      "cityName": "Vindornyaszollos",
+      "lat": 46.9,
+      "lng": 17.1666667
+    },
+    {
+      "cityName": "Virághegy",
+      "lat": 46.4833333,
+      "lng": 17.1
+    },
+    {
+      "cityName": "Vöcköndi Major",
+      "lat": 46.8833333,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Völgy",
+      "lat": 46.8333333,
+      "lng": 16.7833333
+    },
+    {
+      "cityName": "Vonyarcvashegy",
+      "lat": 46.75,
+      "lng": 17.3166667
+    },
+    {
+      "cityName": "Vörcsökpuszta",
+      "lat": 46.5166667,
+      "lng": 16.6166667
+    },
+    {
+      "cityName": "Vorhota",
+      "lat": 46.85,
+      "lng": 16.8
+    },
+    {
+      "cityName": "Voroserdodulo",
+      "lat": 46.8833333,
+      "lng": 16.9
+    },
+    {
+      "cityName": "Vorosmezo",
+      "lat": 46.7333333,
+      "lng": 17.0833333
+    },
+    {
+      "cityName": "Vöröspataki Tanya",
+      "lat": 46.5833333,
+      "lng": 16.65
+    },
+    {
+      "cityName": "Vörösszeg",
+      "lat": 46.75,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Vörrü",
+      "lat": 46.75,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Zágorhida",
+      "lat": 46.6833333,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Zajdapuszta",
+      "lat": 46.65,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Zalabaksa",
+      "lat": 46.6997222,
+      "lng": 16.5522222
+    },
+    {
+      "cityName": "Zalabér",
+      "lat": 46.9666667,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Zalaboldogfa",
+      "lat": 46.9,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Zalacséb",
+      "lat": 46.8602778,
+      "lng": 16.6638889
+    },
+    {
+      "cityName": "Zalaegerszeg",
+      "lat": 46.84,
+      "lng": 16.8438889
+    },
+    {
+      "cityName": "Zalaháshágy",
+      "lat": 46.89,
+      "lng": 16.6327778
+    },
+    {
+      "cityName": "Zalaigrice",
+      "lat": 46.75,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Zalaistvánd",
+      "lat": 46.9166667,
+      "lng": 16.9833333
+    },
+    {
+      "cityName": "Zalakarosi Puszta",
+      "lat": 46.5666667,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Zalaköveskút",
+      "lat": 46.85,
+      "lng": 17.15
+    },
+    {
+      "cityName": "Zalalovoi Tanyak",
+      "lat": 46.85,
+      "lng": 16.6
+    },
+    {
+      "cityName": "Zalalovo",
+      "lat": 46.8483333,
+      "lng": 16.5936111
+    },
+    {
+      "cityName": "Zalaszabar",
+      "lat": 46.65,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Zalaszentbalázsi Tanyák",
+      "lat": 46.5833333,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Zalaszentbalázs",
+      "lat": 46.5877778,
+      "lng": 16.9186111
+    },
+    {
+      "cityName": "Zalaszentiván",
+      "lat": 46.8886111,
+      "lng": 16.8994444
+    },
+    {
+      "cityName": "Zalaszentjakab",
+      "lat": 46.4833333,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Zalaszentmárton",
+      "lat": 46.7,
+      "lng": 17.0666667
+    },
+    {
+      "cityName": "Zalaszentmihályfa",
+      "lat": 46.8333333,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Zalaszentmihály",
+      "lat": 46.725,
+      "lng": 16.9494444
+    },
+    {
+      "cityName": "Zalatárnok",
+      "lat": 46.7019444,
+      "lng": 16.7627778
+    },
+    {
+      "cityName": "Zalaújlak",
+      "lat": 46.55,
+      "lng": 17.0833333
+    },
+    {
+      "cityName": "Zalavár",
+      "lat": 46.6666667,
+      "lng": 17.1666667
+    },
+    {
+      "cityName": "Zalavég",
+      "lat": 47,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Zebecke",
+      "lat": 46.65,
+      "lng": 16.6833333
+    },
+    {
+      "cityName": "Zsigárdimajor",
+      "lat": 46.4833333,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Zsigmondháza",
+      "lat": 46.9833333,
+      "lng": 17.0833333
+    }
+  ]
+}

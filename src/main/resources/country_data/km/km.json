@@ -1,0 +1,35 @@
+{
+  "name": "Comoros",
+  "iso2": "km",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Anjouan",
+      "id": 0
+    },
+    {
+      "name": "Grande Comore",
+      "id": 1
+    },
+    {
+      "name": "Moheli",
+      "id": 2
+    }
+  ],
+  "geoRectangle": {
+    "West": 43.2157859802,
+    "East": 45.2882270813,
+    "North": -11.3623800278,
+    "South": -13.0178583908
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 3,
+    "Flg": 2,
+    "Name": "Moroni",
+    "GeoPt": [
+      -11.42,
+      43.14
+    ]
+  }
+}

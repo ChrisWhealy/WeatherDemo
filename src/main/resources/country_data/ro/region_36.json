@@ -1,0 +1,645 @@
+{
+  "name": "Teleorman",
+  "cities": [
+    {
+      "cityName": "Adamesti",
+      "lat": 44,
+      "lng": 25.266667
+    },
+    {
+      "cityName": "Albesti",
+      "lat": 44.066667,
+      "lng": 25.116667
+    },
+    {
+      "cityName": "Alexandria",
+      "lat": 43.983333,
+      "lng": 25.333333
+    },
+    {
+      "cityName": "Alexandru Lahovari",
+      "lat": 44.165833,
+      "lng": 25.561667
+    },
+    {
+      "cityName": "Aliman",
+      "lat": 43.916667,
+      "lng": 25.066667
+    },
+    {
+      "cityName": "Antonesti",
+      "lat": 44.116667,
+      "lng": 25.183333
+    },
+    {
+      "cityName": "Asan Aga",
+      "lat": 44.116667,
+      "lng": 25.633333
+    },
+    {
+      "cityName": "Atarnati",
+      "lat": 43.9,
+      "lng": 25.45
+    },
+    {
+      "cityName": "Babaita",
+      "lat": 44.166667,
+      "lng": 25.383333
+    },
+    {
+      "cityName": "Baciu",
+      "lat": 44.333333,
+      "lng": 25.433333
+    },
+    {
+      "cityName": "Baciul-Postei",
+      "lat": 44.316667,
+      "lng": 25.433333
+    },
+    {
+      "cityName": "Bâscoveni",
+      "lat": 44.25,
+      "lng": 25.35
+    },
+    {
+      "cityName": "Beiu",
+      "lat": 43.866667,
+      "lng": 25.45
+    },
+    {
+      "cityName": "Bivolita",
+      "lat": 44.133333,
+      "lng": 25.216667
+    },
+    {
+      "cityName": "Blejesti",
+      "lat": 44.3,
+      "lng": 25.466667
+    },
+    {
+      "cityName": "Bodinu-Sfântul Gheorghe",
+      "lat": 44.233333,
+      "lng": 25.366667
+    },
+    {
+      "cityName": "Bogdana",
+      "lat": 43.933333,
+      "lng": 25.083333
+    },
+    {
+      "cityName": "Botoroaga",
+      "lat": 44.148333,
+      "lng": 25.544722
+    },
+    {
+      "cityName": "Bran",
+      "lat": 44.033333,
+      "lng": 25.383333
+    },
+    {
+      "cityName": "Brânceni",
+      "lat": 43.883333,
+      "lng": 25.4
+    },
+    {
+      "cityName": "Briesti",
+      "lat": 44.133333,
+      "lng": 25.166667
+    },
+    {
+      "cityName": "Brosteanca",
+      "lat": 43.95,
+      "lng": 25.066667
+    },
+    {
+      "cityName": "Brosteni",
+      "lat": 44.216667,
+      "lng": 25.25
+    },
+    {
+      "cityName": "Budiasca",
+      "lat": 44.016667,
+      "lng": 25.383333
+    },
+    {
+      "cityName": "Buteasa",
+      "lat": 44.316667,
+      "lng": 25.366667
+    },
+    {
+      "cityName": "Buzescu",
+      "lat": 44.016667,
+      "lng": 25.233333
+    },
+    {
+      "cityName": "Calinesti",
+      "lat": 44.083333,
+      "lng": 25.233333
+    },
+    {
+      "cityName": "Calomfiresti",
+      "lat": 43.916667,
+      "lng": 25.35
+    },
+    {
+      "cityName": "Calugareni",
+      "lat": 44.15,
+      "lng": 25.483333
+    },
+    {
+      "cityName": "Calugarita",
+      "lat": 44.116667,
+      "lng": 25.4
+    },
+    {
+      "cityName": "Cârtocleasca",
+      "lat": 43.883333,
+      "lng": 25.45
+    },
+    {
+      "cityName": "Cârtojanca",
+      "lat": 44.266667,
+      "lng": 25.533333
+    },
+    {
+      "cityName": "Cerbaru",
+      "lat": 44.233333,
+      "lng": 25.2
+    },
+    {
+      "cityName": "Chitulesti",
+      "lat": 44.183333,
+      "lng": 25.383333
+    },
+    {
+      "cityName": "Ciuani",
+      "lat": 44.233333,
+      "lng": 25.65
+    },
+    {
+      "cityName": "Clanita",
+      "lat": 44.2,
+      "lng": 25.366667
+    },
+    {
+      "cityName": "Clanita de Jos",
+      "lat": 44.233333,
+      "lng": 25.35
+    },
+    {
+      "cityName": "Clonita",
+      "lat": 44.133333,
+      "lng": 25.316667
+    },
+    {
+      "cityName": "Cocosu",
+      "lat": 44.016667,
+      "lng": 25.416667
+    },
+    {
+      "cityName": "Comoara",
+      "lat": 44.113333,
+      "lng": 25.506111
+    },
+    {
+      "cityName": "Cosmesti",
+      "lat": 44.3,
+      "lng": 25.383333
+    },
+    {
+      "cityName": "Cosoaia",
+      "lat": 44.279444,
+      "lng": 25.623889
+    },
+    {
+      "cityName": "Crevenicu",
+      "lat": 44.240833,
+      "lng": 25.588611
+    },
+    {
+      "cityName": "Crevenicu Mare",
+      "lat": 44.233333,
+      "lng": 25.583333
+    },
+    {
+      "cityName": "Crevenicu Radulesti",
+      "lat": 44.245833,
+      "lng": 25.556111
+    },
+    {
+      "cityName": "Cuza Voda",
+      "lat": 44.266667,
+      "lng": 25.516667
+    },
+    {
+      "cityName": "Deparati",
+      "lat": 44.266667,
+      "lng": 25.216667
+    },
+    {
+      "cityName": "Dobrogostea",
+      "lat": 44.166667,
+      "lng": 25.3
+    },
+    {
+      "cityName": "Draganasti",
+      "lat": 44.101389,
+      "lng": 25.598056
+    },
+    {
+      "cityName": "Dulceanca",
+      "lat": 44.1,
+      "lng": 25.116667
+    },
+    {
+      "cityName": "Dulceni",
+      "lat": 43.983333,
+      "lng": 25.05
+    },
+    {
+      "cityName": "Flamanda",
+      "lat": 44.196111,
+      "lng": 25.509722
+    },
+    {
+      "cityName": "Fotachesti",
+      "lat": 44.283333,
+      "lng": 25.5
+    },
+    {
+      "cityName": "Furculesti",
+      "lat": 43.866667,
+      "lng": 25.15
+    },
+    {
+      "cityName": "Galateni",
+      "lat": 44.216667,
+      "lng": 25.35
+    },
+    {
+      "cityName": "Garagau",
+      "lat": 44.233333,
+      "lng": 25.183333
+    },
+    {
+      "cityName": "Gauriciu",
+      "lat": 43.816667,
+      "lng": 25.383333
+    },
+    {
+      "cityName": "Gavanesti",
+      "lat": 44,
+      "lng": 25.433333
+    },
+    {
+      "cityName": "Goala",
+      "lat": 44.083333,
+      "lng": 25.066667
+    },
+    {
+      "cityName": "Groseni",
+      "lat": 43.966667,
+      "lng": 25.45
+    },
+    {
+      "cityName": "Grosu",
+      "lat": 44,
+      "lng": 25.466667
+    },
+    {
+      "cityName": "Gureni",
+      "lat": 44.066667,
+      "lng": 25.4
+    },
+    {
+      "cityName": "Gurgueti",
+      "lat": 44.283333,
+      "lng": 25.4
+    },
+    {
+      "cityName": "Harlesti",
+      "lat": 44.283333,
+      "lng": 25.216667
+    },
+    {
+      "cityName": "Laceni",
+      "lat": 44.083333,
+      "lng": 25.333333
+    },
+    {
+      "cityName": "Lefestii",
+      "lat": 44.283333,
+      "lng": 25.283333
+    },
+    {
+      "cityName": "Licuriciu",
+      "lat": 44.1,
+      "lng": 25.183333
+    },
+    {
+      "cityName": "Linia Costei",
+      "lat": 44.283333,
+      "lng": 25.316667
+    },
+    {
+      "cityName": "Ludaneasa",
+      "lat": 44.0025,
+      "lng": 25.578889
+    },
+    {
+      "cityName": "Magura cu Liliac",
+      "lat": 44.133333,
+      "lng": 25.066667
+    },
+    {
+      "cityName": "Magura-Laceanca",
+      "lat": 44.033333,
+      "lng": 25.4
+    },
+    {
+      "cityName": "Margareta",
+      "lat": 43.916667,
+      "lng": 25.1
+    },
+    {
+      "cityName": "Marita",
+      "lat": 44.116667,
+      "lng": 25.216667
+    },
+    {
+      "cityName": "Marzanesti",
+      "lat": 43.933333,
+      "lng": 25.466667
+    },
+    {
+      "cityName": "Mavrodin",
+      "lat": 44.033333,
+      "lng": 25.25
+    },
+    {
+      "cityName": "Mereni-de-Jos",
+      "lat": 44.229444,
+      "lng": 25.64
+    },
+    {
+      "cityName": "Mereni-de-Sus",
+      "lat": 44.225556,
+      "lng": 25.6175
+    },
+    {
+      "cityName": "Merii-Goala",
+      "lat": 44.1,
+      "lng": 25.05
+    },
+    {
+      "cityName": "Mosteni",
+      "lat": 43.866667,
+      "lng": 25.133333
+    },
+    {
+      "cityName": "Nanov",
+      "lat": 44,
+      "lng": 25.3
+    },
+    {
+      "cityName": "Nencilesti",
+      "lat": 44.033333,
+      "lng": 25.183333
+    },
+    {
+      "cityName": "Netotii de Jos",
+      "lat": 44.233333,
+      "lng": 25.25
+    },
+    {
+      "cityName": "Olareasa",
+      "lat": 44.116667,
+      "lng": 25.333333
+    },
+    {
+      "cityName": "Olteni",
+      "lat": 44.183333,
+      "lng": 25.283333
+    },
+    {
+      "cityName": "Orbeasca de Jos",
+      "lat": 44.116667,
+      "lng": 25.316667
+    },
+    {
+      "cityName": "Orbeasca de Sus",
+      "lat": 44.15,
+      "lng": 25.316667
+    },
+    {
+      "cityName": "Osebiti-Blejesti",
+      "lat": 44.283333,
+      "lng": 25.433333
+    },
+    {
+      "cityName": "Parisesti",
+      "lat": 44.266667,
+      "lng": 25.583333
+    },
+    {
+      "cityName": "Pârlita",
+      "lat": 43.966667,
+      "lng": 25.066667
+    },
+    {
+      "cityName": "Parul-Rotund",
+      "lat": 44.05,
+      "lng": 25.166667
+    },
+    {
+      "cityName": "Peretul",
+      "lat": 44.05,
+      "lng": 25.083333
+    },
+    {
+      "cityName": "Perii-Brosteni",
+      "lat": 44.2,
+      "lng": 25.266667
+    },
+    {
+      "cityName": "Petra",
+      "lat": 43.816667,
+      "lng": 25.166667
+    },
+    {
+      "cityName": "Plosca",
+      "lat": 44.033333,
+      "lng": 25.133333
+    },
+    {
+      "cityName": "Poenarii-Schitu",
+      "lat": 43.983333,
+      "lng": 25.466667
+    },
+    {
+      "cityName": "Poroschia",
+      "lat": 43.933333,
+      "lng": 25.366667
+    },
+    {
+      "cityName": "Presani",
+      "lat": 44,
+      "lng": 25.416667
+    },
+    {
+      "cityName": "Prunari",
+      "lat": 44.122778,
+      "lng": 25.680556
+    },
+    {
+      "cityName": "Purani",
+      "lat": 43.983333,
+      "lng": 25.433333
+    },
+    {
+      "cityName": "Putintei",
+      "lat": 43.916667,
+      "lng": 25.466667
+    },
+    {
+      "cityName": "Radoesti Deal",
+      "lat": 44.15,
+      "lng": 25.133333
+    },
+    {
+      "cityName": "Radoesti-de-Jos",
+      "lat": 44.15,
+      "lng": 25.15
+    },
+    {
+      "cityName": "Rasmiresti",
+      "lat": 43.983333,
+      "lng": 25.55
+    },
+    {
+      "cityName": "Rateasca",
+      "lat": 44.183333,
+      "lng": 25.1
+    },
+    {
+      "cityName": "Rotaresti",
+      "lat": 44.233333,
+      "lng": 25.333333
+    },
+    {
+      "cityName": "Smârdioasa",
+      "lat": 43.85,
+      "lng": 25.433333
+    },
+    {
+      "cityName": "Soimul",
+      "lat": 43.833333,
+      "lng": 25.433333
+    },
+    {
+      "cityName": "Spanesti",
+      "lat": 44.266667,
+      "lng": 25.566667
+    },
+    {
+      "cityName": "Spatarei",
+      "lat": 43.883333,
+      "lng": 25.116667
+    },
+    {
+      "cityName": "Starita",
+      "lat": 43.866667,
+      "lng": 25.266667
+    },
+    {
+      "cityName": "Stefan Cel Mare",
+      "lat": 44.225833,
+      "lng": 25.665
+    },
+    {
+      "cityName": "Talpa Bâcoveni",
+      "lat": 44.266667,
+      "lng": 25.316667
+    },
+    {
+      "cityName": "Talpa-Ionesti",
+      "lat": 44.3,
+      "lng": 25.283333
+    },
+    {
+      "cityName": "Tamasesti",
+      "lat": 44.266667,
+      "lng": 25.55
+    },
+    {
+      "cityName": "Târnava de Jos",
+      "lat": 44.15,
+      "lng": 25.566667
+    },
+    {
+      "cityName": "Târnava",
+      "lat": 44.139444,
+      "lng": 25.568333
+    },
+    {
+      "cityName": "Teleormanu",
+      "lat": 43.966667,
+      "lng": 25.466667
+    },
+    {
+      "cityName": "Tiganesti",
+      "lat": 43.9,
+      "lng": 25.366667
+    },
+    {
+      "cityName": "Trestenciu-Tomulesti",
+      "lat": 43.966667,
+      "lng": 25.616667
+    },
+    {
+      "cityName": "Trivalea-Mosteni",
+      "lat": 44.266667,
+      "lng": 25.233333
+    },
+    {
+      "cityName": "Tunari",
+      "lat": 44.135278,
+      "lng": 25.585
+    },
+    {
+      "cityName": "Ulmeni",
+      "lat": 43.9,
+      "lng": 25.1
+    },
+    {
+      "cityName": "Vaceni",
+      "lat": 44.068056,
+      "lng": 25.534444
+    },
+    {
+      "cityName": "Valea Alba",
+      "lat": 44.1,
+      "lng": 25.6
+    },
+    {
+      "cityName": "Vârtoapele-de-Jos",
+      "lat": 44.183333,
+      "lng": 25.2
+    },
+    {
+      "cityName": "Vârtoapele-de-Sus",
+      "lat": 44.2,
+      "lng": 25.2
+    },
+    {
+      "cityName": "Vida Cîrtojani",
+      "lat": 44.278056,
+      "lng": 25.524444
+    },
+    {
+      "cityName": "Voevoda",
+      "lat": 43.85,
+      "lng": 25.133333
+    }
+  ]
+}

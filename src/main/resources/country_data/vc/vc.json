@@ -1,0 +1,47 @@
+{
+  "name": "Saint Vincent and the Grenadines",
+  "iso2": "vc",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Charlotte",
+      "id": 0
+    },
+    {
+      "name": "Grenadines",
+      "id": 1
+    },
+    {
+      "name": "Saint Andrew",
+      "id": 2
+    },
+    {
+      "name": "Saint David",
+      "id": 3
+    },
+    {
+      "name": "Saint George",
+      "id": 4
+    },
+    {
+      "name": "Saint Patrick",
+      "id": 5
+    }
+  ],
+  "geoRectangle": {
+    "West": -61.4592590332,
+    "East": -61.1138725281,
+    "North": 13.3778352737,
+    "South": 12.5810098648
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -4,
+    "Flg": 2,
+    "Name": "Kingstown",
+    "GeoPt": [
+      13.09,
+      -61.14
+    ]
+  }
+}

@@ -1,0 +1,625 @@
+{
+  "name": "Grevenmacher",
+  "cities": [
+    {
+      "cityName": "Ahn",
+      "lat": 49.6244444,
+      "lng": 6.4216667
+    },
+    {
+      "cityName": "Altlinster",
+      "lat": 49.7155556,
+      "lng": 6.2166667
+    },
+    {
+      "cityName": "Altrier",
+      "lat": 49.7441667,
+      "lng": 6.3283333
+    },
+    {
+      "cityName": "Altwies",
+      "lat": 49.5105556,
+      "lng": 6.2572222
+    },
+    {
+      "cityName": "Assel",
+      "lat": 49.5527778,
+      "lng": 6.3158333
+    },
+    {
+      "cityName": "Banzelt",
+      "lat": 49.6683333,
+      "lng": 6.3302778
+    },
+    {
+      "cityName": "Beaufort",
+      "lat": 49.8358333,
+      "lng": 6.2916667
+    },
+    {
+      "cityName": "Bech",
+      "lat": 49.7461111,
+      "lng": 6.3636111
+    },
+    {
+      "cityName": "Bech-Kleinmacher",
+      "lat": 49.5308333,
+      "lng": 6.355
+    },
+    {
+      "cityName": "Beidweiler",
+      "lat": 49.7233333,
+      "lng": 6.3025
+    },
+    {
+      "cityName": "Berbourg",
+      "lat": 49.7272222,
+      "lng": 6.3938889
+    },
+    {
+      "cityName": "Berdorf",
+      "lat": 49.8136111,
+      "lng": 6.3502778
+    },
+    {
+      "cityName": "Berens",
+      "lat": 49.8436111,
+      "lng": 6.2680556
+    },
+    {
+      "cityName": "Berg",
+      "lat": 49.6777778,
+      "lng": 6.3594444
+    },
+    {
+      "cityName": "Betzdorf",
+      "lat": 49.6833333,
+      "lng": 6.35
+    },
+    {
+      "cityName": "Beyren",
+      "lat": 49.6263889,
+      "lng": 6.3369444
+    },
+    {
+      "cityName": "Biwer",
+      "lat": 49.7027778,
+      "lng": 6.3747222
+    },
+    {
+      "cityName": "Blumenthal",
+      "lat": 49.7383333,
+      "lng": 6.2672222
+    },
+    {
+      "cityName": "Born",
+      "lat": 49.7541667,
+      "lng": 6.5138889
+    },
+    {
+      "cityName": "Boudeler",
+      "lat": 49.7177778,
+      "lng": 6.355
+    },
+    {
+      "cityName": "Bourglinster",
+      "lat": 49.6977778,
+      "lng": 6.2197222
+    },
+    {
+      "cityName": "Boursdorf",
+      "lat": 49.7580556,
+      "lng": 6.4786111
+    },
+    {
+      "cityName": "Bous",
+      "lat": 49.5538889,
+      "lng": 6.3291667
+    },
+    {
+      "cityName": "Breidweiler",
+      "lat": 49.7708333,
+      "lng": 6.3041667
+    },
+    {
+      "cityName": "Breinert",
+      "lat": 49.7066667,
+      "lng": 6.3405556
+    },
+    {
+      "cityName": "Brouch",
+      "lat": 49.7236111,
+      "lng": 6.3425
+    },
+    {
+      "cityName": "Buchholz",
+      "lat": 49.6583333,
+      "lng": 6.3647222
+    },
+    {
+      "cityName": "Burmerange",
+      "lat": 49.4852778,
+      "lng": 6.3230556
+    },
+    {
+      "cityName": "Canach",
+      "lat": 49.6069444,
+      "lng": 6.3258333
+    },
+    {
+      "cityName": "Chateau Dreiborn",
+      "lat": 49.6172222,
+      "lng": 6.3938889
+    },
+    {
+      "cityName": "Christnach",
+      "lat": 49.7811111,
+      "lng": 6.2736111
+    },
+    {
+      "cityName": "Colbet",
+      "lat": 49.7619444,
+      "lng": 6.3033333
+    },
+    {
+      "cityName": "Consdorf",
+      "lat": 49.7730556,
+      "lng": 6.3383333
+    },
+    {
+      "cityName": "Dalheim",
+      "lat": 49.5408333,
+      "lng": 6.2597222
+    },
+    {
+      "cityName": "Daundorf",
+      "lat": 49.5075,
+      "lng": 6.2875
+    },
+    {
+      "cityName": "Dickweiler",
+      "lat": 49.7775,
+      "lng": 6.4722222
+    },
+    {
+      "cityName": "Diligen",
+      "lat": 49.8536111,
+      "lng": 6.3191667
+    },
+    {
+      "cityName": "Echternach",
+      "lat": 49.8055556,
+      "lng": 6.4222222
+    },
+    {
+      "cityName": "Ehnen",
+      "lat": 49.5997222,
+      "lng": 6.3877778
+    },
+    {
+      "cityName": "Eisenborn",
+      "lat": 49.6866667,
+      "lng": 6.1852778
+    },
+    {
+      "cityName": "Ellange",
+      "lat": 49.52,
+      "lng": 6.2983333
+    },
+    {
+      "cityName": "Elvange",
+      "lat": 49.5052778,
+      "lng": 6.3163889
+    },
+    {
+      "cityName": "Emerange",
+      "lat": 49.4869444,
+      "lng": 6.2916667
+    },
+    {
+      "cityName": "Erpeldange",
+      "lat": 49.5444444,
+      "lng": 6.3275
+    },
+    {
+      "cityName": "Ersange",
+      "lat": 49.5744444,
+      "lng": 6.2755556
+    },
+    {
+      "cityName": "Eschweiler",
+      "lat": 49.7113889,
+      "lng": 6.3105556
+    },
+    {
+      "cityName": "Ferme Fronay",
+      "lat": 49.6666667,
+      "lng": 6.4166667
+    },
+    {
+      "cityName": "Ferme Kapenacker",
+      "lat": 49.6344444,
+      "lng": 6.3558333
+    },
+    {
+      "cityName": "Ferme Reckange",
+      "lat": 49.5333333,
+      "lng": 6.3166667
+    },
+    {
+      "cityName": "Filsdorf",
+      "lat": 49.5325,
+      "lng": 6.2483333
+    },
+    {
+      "cityName": "Flaxweiler",
+      "lat": 49.6616667,
+      "lng": 6.3436111
+    },
+    {
+      "cityName": "Geyershaff",
+      "lat": 49.7591667,
+      "lng": 6.3877778
+    },
+    {
+      "cityName": "Girsterklause",
+      "lat": 49.7672222,
+      "lng": 6.4988889
+    },
+    {
+      "cityName": "Girsterklaus",
+      "lat": 49.7777778,
+      "lng": 6.4994444
+    },
+    {
+      "cityName": "Givenich",
+      "lat": 49.7422222,
+      "lng": 6.48
+    },
+    {
+      "cityName": "Godbrange",
+      "lat": 49.7288889,
+      "lng": 6.2319444
+    },
+    {
+      "cityName": "Gonderange",
+      "lat": 49.6888889,
+      "lng": 6.2483333
+    },
+    {
+      "cityName": "Gostingen",
+      "lat": 49.6191667,
+      "lng": 6.3544444
+    },
+    {
+      "cityName": "Graulinster",
+      "lat": 49.7347222,
+      "lng": 6.2872222
+    },
+    {
+      "cityName": "Greiveldange",
+      "lat": 49.5838889,
+      "lng": 6.3591667
+    },
+    {
+      "cityName": "Grevenmacherberg",
+      "lat": 49.6733333,
+      "lng": 6.4008333
+    },
+    {
+      "cityName": "Grevenmacher",
+      "lat": 49.6747222,
+      "lng": 6.4419444
+    },
+    {
+      "cityName": "Grundhof",
+      "lat": 49.835,
+      "lng": 6.3313889
+    },
+    {
+      "cityName": "Hagelsdorf",
+      "lat": 49.6877778,
+      "lng": 6.3655556
+    },
+    {
+      "cityName": "Haller",
+      "lat": 49.8125,
+      "lng": 6.2825
+    },
+    {
+      "cityName": "Hemstal",
+      "lat": 49.7344444,
+      "lng": 6.3361111
+    },
+    {
+      "cityName": "Herborn",
+      "lat": 49.7416667,
+      "lng": 6.4277778
+    },
+    {
+      "cityName": "Hersberg",
+      "lat": 49.7502778,
+      "lng": 6.3286111
+    },
+    {
+      "cityName": "Hinkel",
+      "lat": 49.7763889,
+      "lng": 6.5152778
+    },
+    {
+      "cityName": "Imbringen",
+      "lat": 49.6975,
+      "lng": 6.1975
+    },
+    {
+      "cityName": "Jockelsmuhle",
+      "lat": 49.7166667,
+      "lng": 6.3666667
+    },
+    {
+      "cityName": "Junglinster",
+      "lat": 49.7072222,
+      "lng": 6.2530556
+    },
+    {
+      "cityName": "Kéisbierg",
+      "lat": 49.6747222,
+      "lng": 6.3205556
+    },
+    {
+      "cityName": "Kleinmacher",
+      "lat": 49.5325,
+      "lng": 6.3552778
+    },
+    {
+      "cityName": "Kobenbour",
+      "lat": 49.7502778,
+      "lng": 6.3061111
+    },
+    {
+      "cityName": "Lauterborn",
+      "lat": 49.79,
+      "lng": 6.3883333
+    },
+    {
+      "cityName": "Lellig",
+      "lat": 49.7161111,
+      "lng": 6.4363889
+    },
+    {
+      "cityName": "Lenningen",
+      "lat": 49.5986111,
+      "lng": 6.3680556
+    },
+    {
+      "cityName": "Machtum",
+      "lat": 49.6555556,
+      "lng": 6.4344444
+    },
+    {
+      "cityName": "Maison Hardtwos",
+      "lat": 49.7666667,
+      "lng": 6.45
+    },
+    {
+      "cityName": "Maison Hoffmann",
+      "lat": 49.7,
+      "lng": 6.2833333
+    },
+    {
+      "cityName": "Maisons Wolper",
+      "lat": 49.7577778,
+      "lng": 6.3533333
+    },
+    {
+      "cityName": "Manternach",
+      "lat": 49.7027778,
+      "lng": 6.4263889
+    },
+    {
+      "cityName": "Medingen",
+      "lat": 49.5727778,
+      "lng": 6.2486111
+    },
+    {
+      "cityName": "Mensdorf",
+      "lat": 49.6508333,
+      "lng": 6.3036111
+    },
+    {
+      "cityName": "Mertert",
+      "lat": 49.6961111,
+      "lng": 6.4813889
+    },
+    {
+      "cityName": "Moellerdall",
+      "lat": 49.7847222,
+      "lng": 6.3108333
+    },
+    {
+      "cityName": "Moersdorf",
+      "lat": 49.7383333,
+      "lng": 6.5
+    },
+    {
+      "cityName": "Mompach",
+      "lat": 49.7461111,
+      "lng": 6.465
+    },
+    {
+      "cityName": "Mondorf-les-Bains",
+      "lat": 49.505,
+      "lng": 6.2811111
+    },
+    {
+      "cityName": "Münschecker",
+      "lat": 49.6938889,
+      "lng": 6.4422222
+    },
+    {
+      "cityName": "Niederdonven",
+      "lat": 49.6313889,
+      "lng": 6.4036111
+    },
+    {
+      "cityName": "Oberdonven",
+      "lat": 49.6466667,
+      "lng": 6.4005556
+    },
+    {
+      "cityName": "Olingen",
+      "lat": 49.6761111,
+      "lng": 6.3155556
+    },
+    {
+      "cityName": "Osweiler",
+      "lat": 49.7788889,
+      "lng": 6.4413889
+    },
+    {
+      "cityName": "Remerschen",
+      "lat": 49.4886111,
+      "lng": 6.3516667
+    },
+    {
+      "cityName": "Remich",
+      "lat": 49.545,
+      "lng": 6.3669444
+    },
+    {
+      "cityName": "Rippig",
+      "lat": 49.7341667,
+      "lng": 6.3194444
+    },
+    {
+      "cityName": "Rodenbourg",
+      "lat": 49.6825,
+      "lng": 6.2891667
+    },
+    {
+      "cityName": "Rödt",
+      "lat": 49.5677778,
+      "lng": 6.285
+    },
+    {
+      "cityName": "Rollingen",
+      "lat": 49.5488889,
+      "lng": 6.3172222
+    },
+    {
+      "cityName": "Roodt",
+      "lat": 49.6625,
+      "lng": 6.3027778
+    },
+    {
+      "cityName": "Rosport",
+      "lat": 49.7977778,
+      "lng": 6.5041667
+    },
+    {
+      "cityName": "Scheidgen",
+      "lat": 49.775,
+      "lng": 6.3605556
+    },
+    {
+      "cityName": "Scheierhaff",
+      "lat": 49.59,
+      "lng": 6.3161111
+    },
+    {
+      "cityName": "Schengen",
+      "lat": 49.4716667,
+      "lng": 6.3658333
+    },
+    {
+      "cityName": "Schwachtgesmühle",
+      "lat": 49.7166667,
+      "lng": 6.2166667
+    },
+    {
+      "cityName": "Schwebsange",
+      "lat": 49.5116667,
+      "lng": 6.3569444
+    },
+    {
+      "cityName": "Stadtbredimus",
+      "lat": 49.5627778,
+      "lng": 6.3644444
+    },
+    {
+      "cityName": "Steinheim",
+      "lat": 49.8113889,
+      "lng": 6.4783333
+    },
+    {
+      "cityName": "Thillen",
+      "lat": 49.7,
+      "lng": 6.4333333
+    },
+    {
+      "cityName": "Trintange",
+      "lat": 49.5708333,
+      "lng": 6.2805556
+    },
+    {
+      "cityName": "Wakelterhof",
+      "lat": 49.8166667,
+      "lng": 6.3
+    },
+    {
+      "cityName": "Waldbillig",
+      "lat": 49.7888889,
+      "lng": 6.2866667
+    },
+    {
+      "cityName": "Waldbredimus",
+      "lat": 49.555,
+      "lng": 6.2875
+    },
+    {
+      "cityName": "Wasserbillig",
+      "lat": 49.71,
+      "lng": 6.5002778
+    },
+    {
+      "cityName": "Wecker",
+      "lat": 49.6913889,
+      "lng": 6.3883333
+    },
+    {
+      "cityName": "Weilerbach",
+      "lat": 49.8333333,
+      "lng": 6.3827778
+    },
+    {
+      "cityName": "Welfrange",
+      "lat": 49.5380556,
+      "lng": 6.2841667
+    },
+    {
+      "cityName": "Wellenstein",
+      "lat": 49.5238889,
+      "lng": 6.3422222
+    },
+    {
+      "cityName": "Wintrange",
+      "lat": 49.5013889,
+      "lng": 6.3527778
+    },
+    {
+      "cityName": "Wolfsmuhle lès Wasserbillig",
+      "lat": 49.7163889,
+      "lng": 6.49
+    },
+    {
+      "cityName": "Wormeldange",
+      "lat": 49.6083333,
+      "lng": 6.4058333
+    },
+    {
+      "cityName": "Zittig",
+      "lat": 49.7388889,
+      "lng": 6.345
+    }
+  ]
+}

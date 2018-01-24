@@ -1,0 +1,680 @@
+{
+  "name": "Neuquen",
+  "cities": [
+    {
+      "cityName": "Achicó",
+      "lat": -40.3333333,
+      "lng": -70.3333333
+    },
+    {
+      "cityName": "Aguada de Castro",
+      "lat": -37.7833333,
+      "lng": -69.9333333
+    },
+    {
+      "cityName": "Agua de Canale",
+      "lat": -38.2,
+      "lng": -69.4333333
+    },
+    {
+      "cityName": "Agua del Overo",
+      "lat": -39.3,
+      "lng": -70.1166667
+    },
+    {
+      "cityName": "Ahrenfeld",
+      "lat": -40.1166667,
+      "lng": -70.7333333
+    },
+    {
+      "cityName": "Almacén La Picaza",
+      "lat": -39.5833333,
+      "lng": -70.1333333
+    },
+    {
+      "cityName": "Aluminé",
+      "lat": -39.2166667,
+      "lng": -70.95
+    },
+    {
+      "cityName": "Andacollo",
+      "lat": -37.1833333,
+      "lng": -70.6833333
+    },
+    {
+      "cityName": "Añelo",
+      "lat": -38.35,
+      "lng": -68.7833333
+    },
+    {
+      "cityName": "Arroyito",
+      "lat": -39.0833333,
+      "lng": -68.5833333
+    },
+    {
+      "cityName": "Arroyo Blanco",
+      "lat": -37.2666667,
+      "lng": -70.2833333
+    },
+    {
+      "cityName": "Astra",
+      "lat": -38.8666667,
+      "lng": -69.0833333
+    },
+    {
+      "cityName": "Auca Mahuida",
+      "lat": -37.8833333,
+      "lng": -68.5166667
+    },
+    {
+      "cityName": "Bahada Colorada",
+      "lat": -39.85,
+      "lng": -69.7333333
+    },
+    {
+      "cityName": "Bajada del Agrio",
+      "lat": -38.3833333,
+      "lng": -70.0333333
+    },
+    {
+      "cityName": "Baños de Copahue",
+      "lat": -37.8,
+      "lng": -71.1166667
+    },
+    {
+      "cityName": "Barrancas",
+      "lat": -36.8166667,
+      "lng": -69.9166667
+    },
+    {
+      "cityName": "Bazan",
+      "lat": -40.1166667,
+      "lng": -71.2166667
+    },
+    {
+      "cityName": "Bella Vista",
+      "lat": -37.0333333,
+      "lng": -70.8166667
+    },
+    {
+      "cityName": "Bilo Mallin",
+      "lat": -37.45,
+      "lng": -70.7666667
+    },
+    {
+      "cityName": "Bote",
+      "lat": -37,
+      "lng": -70.7333333
+    },
+    {
+      "cityName": "Buena Esperanza",
+      "lat": -38.6166667,
+      "lng": -69.1833333
+    },
+    {
+      "cityName": "Buta Mallín",
+      "lat": -37.5666667,
+      "lng": -70.7333333
+    },
+    {
+      "cityName": "Buta Ranquil",
+      "lat": -37.05,
+      "lng": -69.8333333
+    },
+    {
+      "cityName": "Cajón de Almanza",
+      "lat": -38.1666667,
+      "lng": -70.5
+    },
+    {
+      "cityName": "Cajón del Manzano",
+      "lat": -38.3,
+      "lng": -70.5166667
+    },
+    {
+      "cityName": "Caleufú",
+      "lat": -40.5,
+      "lng": -71.1666667
+    },
+    {
+      "cityName": "Campana Mahuida",
+      "lat": -38.2,
+      "lng": -70.6
+    },
+    {
+      "cityName": "Campo Grande",
+      "lat": -39.9333333,
+      "lng": -71.3666667
+    },
+    {
+      "cityName": "Cancha Huinganco",
+      "lat": -37.0166667,
+      "lng": -70.3833333
+    },
+    {
+      "cityName": "Caprara",
+      "lat": -40.75,
+      "lng": -71.6833333
+    },
+    {
+      "cityName": "Catán Lil",
+      "lat": -39.75,
+      "lng": -70.6166667
+    },
+    {
+      "cityName": "Cayanta",
+      "lat": -37.15,
+      "lng": -70.7833333
+    },
+    {
+      "cityName": "Centenario",
+      "lat": -38.8,
+      "lng": -68.1333333
+    },
+    {
+      "cityName": "Cerro Negro",
+      "lat": -40.2333333,
+      "lng": -71.3833333
+    },
+    {
+      "cityName": "Chacaicó",
+      "lat": -39.3,
+      "lng": -70.3
+    },
+    {
+      "cityName": "Chacay Melehue",
+      "lat": -37.2333333,
+      "lng": -70.3666667
+    },
+    {
+      "cityName": "Challacó",
+      "lat": -38.9666667,
+      "lng": -68.9666667
+    },
+    {
+      "cityName": "Chochoy Mallín",
+      "lat": -37.3666667,
+      "lng": -70.8666667
+    },
+    {
+      "cityName": "Chos Malal",
+      "lat": -37.3833333,
+      "lng": -70.2666667
+    },
+    {
+      "cityName": "Churriaca",
+      "lat": -37.9,
+      "lng": -70.1333333
+    },
+    {
+      "cityName": "Codihué",
+      "lat": -38.4666667,
+      "lng": -70.4833333
+    },
+    {
+      "cityName": "Coihueco",
+      "lat": -38.0666667,
+      "lng": -70.1666667
+    },
+    {
+      "cityName": "Coillun-Co",
+      "lat": -39.9833333,
+      "lng": -71.1833333
+    },
+    {
+      "cityName": "Colipilli",
+      "lat": -37.7666667,
+      "lng": -70.4
+    },
+    {
+      "cityName": "Colonia Vista Alegre",
+      "lat": -38.75,
+      "lng": -68.1833333
+    },
+    {
+      "cityName": "Cortaderas",
+      "lat": -37.6666667,
+      "lng": -69.5833333
+    },
+    {
+      "cityName": "Covunco Centro",
+      "lat": -38.7333333,
+      "lng": -70.0166667
+    },
+    {
+      "cityName": "Covunco",
+      "lat": -38.5333333,
+      "lng": -70.25
+    },
+    {
+      "cityName": "Cutrai-Có",
+      "lat": -38.9333333,
+      "lng": -69.2333333
+    },
+    {
+      "cityName": "Cuyín Manzano",
+      "lat": -40.7666667,
+      "lng": -71.1833333
+    },
+    {
+      "cityName": "El Chinque",
+      "lat": -37.1833333,
+      "lng": -70.6666667
+    },
+    {
+      "cityName": "El Cholar",
+      "lat": -37.4166667,
+      "lng": -70.65
+    },
+    {
+      "cityName": "El Huecú",
+      "lat": -37.6166667,
+      "lng": -70.6
+    },
+    {
+      "cityName": "El Mangrullo",
+      "lat": -39.4,
+      "lng": -68.95
+    },
+    {
+      "cityName": "El Marucho",
+      "lat": -39.45,
+      "lng": -70.1833333
+    },
+    {
+      "cityName": "El Palomar",
+      "lat": -36.7,
+      "lng": -70.7666667
+    },
+    {
+      "cityName": "Espinazo del Zorro",
+      "lat": -39.2833333,
+      "lng": -70.6166667
+    },
+    {
+      "cityName": "Estancia La Negra",
+      "lat": -39.5333333,
+      "lng": -70.3333333
+    },
+    {
+      "cityName": "Estancia Los Helechos",
+      "lat": -39.7333333,
+      "lng": -71.3333333
+    },
+    {
+      "cityName": "Estancia Quemquemtreu",
+      "lat": -40.2333333,
+      "lng": -70.8166667
+    },
+    {
+      "cityName": "Estancia Rahue",
+      "lat": -39.35,
+      "lng": -70.9166667
+    },
+    {
+      "cityName": "Estancia Santo Tomás",
+      "lat": -39.8666667,
+      "lng": -70.0833333
+    },
+    {
+      "cityName": "Estancia S. Ingnacio",
+      "lat": -39.9,
+      "lng": -70.85
+    },
+    {
+      "cityName": "Estancia Yuncán",
+      "lat": -40.25,
+      "lng": -70.1666667
+    },
+    {
+      "cityName": "Filo-hua-hum",
+      "lat": -40.4833333,
+      "lng": -71.35
+    },
+    {
+      "cityName": "Fortín 1 De Mayo",
+      "lat": -39.4166667,
+      "lng": -70.6333333
+    },
+    {
+      "cityName": "Guanaco",
+      "lat": -37.2833333,
+      "lng": -70.75
+    },
+    {
+      "cityName": "Gutemberg",
+      "lat": -29.7333333,
+      "lng": -63.5166667
+    },
+    {
+      "cityName": "Hua Hum",
+      "lat": -40.1166667,
+      "lng": -71.6666667
+    },
+    {
+      "cityName": "Hualcupén",
+      "lat": -37.9666667,
+      "lng": -70.6
+    },
+    {
+      "cityName": "Huinganco",
+      "lat": -37.1166667,
+      "lng": -70.65
+    },
+    {
+      "cityName": "Huncal",
+      "lat": -37.9333333,
+      "lng": -70.3333333
+    },
+    {
+      "cityName": "Invernada Vieja",
+      "lat": -36.8333333,
+      "lng": -70.6833333
+    },
+    {
+      "cityName": "Junín de los Andes",
+      "lat": -39.9333333,
+      "lng": -71.0833333
+    },
+    {
+      "cityName": "La Buitrera",
+      "lat": -38.55,
+      "lng": -70.3333333
+    },
+    {
+      "cityName": "Lafontaine",
+      "lat": -37.8166667,
+      "lng": -70.95
+    },
+    {
+      "cityName": "La Lipela",
+      "lat": -40.8166667,
+      "lng": -71.1333333
+    },
+    {
+      "cityName": "La Salada",
+      "lat": -37.3166667,
+      "lng": -70.25
+    },
+    {
+      "cityName": "Las Coloradas",
+      "lat": -39.55,
+      "lng": -70.5833333
+    },
+    {
+      "cityName": "Las Lajas",
+      "lat": -38.5166667,
+      "lng": -70.3666667
+    },
+    {
+      "cityName": "Las Máquinas",
+      "lat": -37.2333333,
+      "lng": -70.35
+    },
+    {
+      "cityName": "Las Ovejas",
+      "lat": -37.0166667,
+      "lng": -70.75
+    },
+    {
+      "cityName": "Lileo",
+      "lat": -37.2,
+      "lng": -70.9666667
+    },
+    {
+      "cityName": "Lolog",
+      "lat": -40.0833333,
+      "lng": -71.3333333
+    },
+    {
+      "cityName": "Loma Farías",
+      "lat": -39.2,
+      "lng": -68.75
+    },
+    {
+      "cityName": "Loncopué",
+      "lat": -38.0666667,
+      "lng": -70.6166667
+    },
+    {
+      "cityName": "Los Miches",
+      "lat": -37.2333333,
+      "lng": -70.8666667
+    },
+    {
+      "cityName": "Los Molles",
+      "lat": -39.2,
+      "lng": -70.2666667
+    },
+    {
+      "cityName": "Malleo",
+      "lat": -39.8,
+      "lng": -70.9666667
+    },
+    {
+      "cityName": "Mallín de Toro",
+      "lat": -38.0333333,
+      "lng": -70.7666667
+    },
+    {
+      "cityName": "Milla Michico",
+      "lat": -37.2666667,
+      "lng": -70.6333333
+    },
+    {
+      "cityName": "Mulichincó",
+      "lat": -38.0666667,
+      "lng": -70.45
+    },
+    {
+      "cityName": "Nahuel Huapí",
+      "lat": -41.05,
+      "lng": -71.15
+    },
+    {
+      "cityName": "Nahueve",
+      "lat": -37.0666667,
+      "lng": -70.7833333
+    },
+    {
+      "cityName": "Naunauco",
+      "lat": -37.6166667,
+      "lng": -70.1833333
+    },
+    {
+      "cityName": "Nequen",
+      "lat": -38.95,
+      "lng": -68.0666667
+    },
+    {
+      "cityName": "Ñorquín",
+      "lat": -37.7,
+      "lng": -70.6333333
+    },
+    {
+      "cityName": "Paso de los Indios",
+      "lat": -38.5333333,
+      "lng": -69.4166667
+    },
+    {
+      "cityName": "Pichaihué",
+      "lat": -37.7333333,
+      "lng": -70.2333333
+    },
+    {
+      "cityName": "Picún Leufú",
+      "lat": -39.5166667,
+      "lng": -69.25
+    },
+    {
+      "cityName": "Piedra de Aguila",
+      "lat": -40.05,
+      "lng": -70.0833333
+    },
+    {
+      "cityName": "Pilolil",
+      "lat": -39.65,
+      "lng": -70.95
+    },
+    {
+      "cityName": "Pino Hachado",
+      "lat": -38.6666667,
+      "lng": -70.9
+    },
+    {
+      "cityName": "Plaza Huincul",
+      "lat": -38.9166667,
+      "lng": -69.15
+    },
+    {
+      "cityName": "Plottier",
+      "lat": -38.9666667,
+      "lng": -68.2333333
+    },
+    {
+      "cityName": "Puerta del Diablo",
+      "lat": -38.9666667,
+      "lng": -70.8166667
+    },
+    {
+      "cityName": "Puerto Huemul",
+      "lat": -41.0333333,
+      "lng": -71.4166667
+    },
+    {
+      "cityName": "Puerto Manzano",
+      "lat": -40.8,
+      "lng": -71.6166667
+    },
+    {
+      "cityName": "Quilachanquil",
+      "lat": -39.0666667,
+      "lng": -70.9333333
+    },
+    {
+      "cityName": "Quilaquina",
+      "lat": -40.1833333,
+      "lng": -71.45
+    },
+    {
+      "cityName": "Quili Malal",
+      "lat": -38.35,
+      "lng": -69.8166667
+    },
+    {
+      "cityName": "Rahuecó",
+      "lat": -37.4,
+      "lng": -70.4166667
+    },
+    {
+      "cityName": "Ramón M. Castro",
+      "lat": -38.85,
+      "lng": -69.75
+    },
+    {
+      "cityName": "Ranquilcó",
+      "lat": -37.5333333,
+      "lng": -70.8
+    },
+    {
+      "cityName": "Ranquilón",
+      "lat": -37.7666667,
+      "lng": -70.5166667
+    },
+    {
+      "cityName": "Rosario",
+      "lat": -37.1666667,
+      "lng": -70.6166667
+    },
+    {
+      "cityName": "Sainuco",
+      "lat": -38.9166667,
+      "lng": -70.7166667
+    },
+    {
+      "cityName": "Samico",
+      "lat": -40.1166667,
+      "lng": -70.4166667
+    },
+    {
+      "cityName": "San Martín de los Andes",
+      "lat": -40.1666667,
+      "lng": -71.35
+    },
+    {
+      "cityName": "Senillosa",
+      "lat": -39,
+      "lng": -68.4166667
+    },
+    {
+      "cityName": "Taquimilán",
+      "lat": -37.6,
+      "lng": -70.35
+    },
+    {
+      "cityName": "Traful",
+      "lat": -40.7,
+      "lng": -71.2166667
+    },
+    {
+      "cityName": "Tralalhué",
+      "lat": -37.6333333,
+      "lng": -70.35
+    },
+    {
+      "cityName": "Tratayén",
+      "lat": -38.4,
+      "lng": -68.6
+    },
+    {
+      "cityName": "Tres Chorros",
+      "lat": -37.5,
+      "lng": -70.3833333
+    },
+    {
+      "cityName": "Tricao Malal",
+      "lat": -37.05,
+      "lng": -70.3166667
+    },
+    {
+      "cityName": "Trompul",
+      "lat": -40.1333333,
+      "lng": -71.4166667
+    },
+    {
+      "cityName": "Varvarco",
+      "lat": -36.8,
+      "lng": -70.7
+    },
+    {
+      "cityName": "Villa El Chocón",
+      "lat": -39.2333333,
+      "lng": -68.75
+    },
+    {
+      "cityName": "Villa La Angostura",
+      "lat": -40.7833333,
+      "lng": -71.6666667
+    },
+    {
+      "cityName": "Villa Traful",
+      "lat": -40.6666667,
+      "lng": -71.4
+    },
+    {
+      "cityName": "Yumu Yumu",
+      "lat": -38.15,
+      "lng": -70.7166667
+    },
+    {
+      "cityName": "Zaina Yegua",
+      "lat": -40.1833333,
+      "lng": -70.2333333
+    },
+    {
+      "cityName": "Zapala",
+      "lat": -38.9,
+      "lng": -70.0666667
+    }
+  ]
+}

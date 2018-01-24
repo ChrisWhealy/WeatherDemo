@@ -1,0 +1,845 @@
+{
+  "name": "Serrai",
+  "cities": [
+    {
+      "cityName": "Adhelfikón",
+      "lat": 41.0166667,
+      "lng": 23.4666667
+    },
+    {
+      "cityName": "Aetovoúni",
+      "lat": 41.2833333,
+      "lng": 23.25
+    },
+    {
+      "cityName": "Agrianí",
+      "lat": 41.0833333,
+      "lng": 23.8333333
+    },
+    {
+      "cityName": "Agriólevka",
+      "lat": 41.25,
+      "lng": 23.2833333
+    },
+    {
+      "cityName": "Aïdhonokhórion",
+      "lat": 40.85,
+      "lng": 23.7333333
+    },
+    {
+      "cityName": "Akhinós",
+      "lat": 40.9166667,
+      "lng": 23.65
+    },
+    {
+      "cityName": "Akhladhokhórion",
+      "lat": 41.3166667,
+      "lng": 23.55
+    },
+    {
+      "cityName": "Akritokhóri",
+      "lat": 41.2666667,
+      "lng": 23.1833333
+    },
+    {
+      "cityName": "Alistráti",
+      "lat": 41.0666667,
+      "lng": 23.95
+    },
+    {
+      "cityName": "Amfípolis",
+      "lat": 40.8333333,
+      "lng": 23.85
+    },
+    {
+      "cityName": "Ammoudhiá",
+      "lat": 41.15,
+      "lng": 23.3333333
+    },
+    {
+      "cityName": "Anastasía",
+      "lat": 41.0666667,
+      "lng": 23.8166667
+    },
+    {
+      "cityName": "Anatolí",
+      "lat": 41.2583333,
+      "lng": 22.9266667
+    },
+    {
+      "cityName": "Anayénnisis",
+      "lat": 41.1166667,
+      "lng": 23.3333333
+    },
+    {
+      "cityName": "Angísta",
+      "lat": 40.9833333,
+      "lng": 23.9666667
+    },
+    {
+      "cityName": "Ángistron",
+      "lat": 41.3833333,
+      "lng": 23.45
+    },
+    {
+      "cityName": "Angítis",
+      "lat": 41.2166667,
+      "lng": 23.9
+    },
+    {
+      "cityName": "Áno Dhafnoúdhi",
+      "lat": 41.0833333,
+      "lng": 23.75
+    },
+    {
+      "cityName": "Áno Frástaina",
+      "lat": 41.2,
+      "lng": 23.5833333
+    },
+    {
+      "cityName": "Áno Kamíla",
+      "lat": 41.0666667,
+      "lng": 23.4333333
+    },
+    {
+      "cityName": "Áno Karajákoï",
+      "lat": 41.0666667,
+      "lng": 23.4
+    },
+    {
+      "cityName": "Áno Khionókhoron",
+      "lat": 41.1166667,
+      "lng": 23.65
+    },
+    {
+      "cityName": "Áno Khomóndhos",
+      "lat": 41.0833333,
+      "lng": 23.4666667
+    },
+    {
+      "cityName": "Áno Khristós",
+      "lat": 41.1166667,
+      "lng": 23.4666667
+    },
+    {
+      "cityName": "Áno Poróïa",
+      "lat": 41.2833333,
+      "lng": 23.0333333
+    },
+    {
+      "cityName": "Áno Psikhikó",
+      "lat": 41,
+      "lng": 23.6333333
+    },
+    {
+      "cityName": "Anthokhórion",
+      "lat": 41.1333333,
+      "lng": 23.9333333
+    },
+    {
+      "cityName": "Araklí",
+      "lat": 41.2166667,
+      "lng": 22.9
+    },
+    {
+      "cityName": "Asayiá Mahalé",
+      "lat": 41.3833333,
+      "lng": 23.3
+    },
+    {
+      "cityName": "Ayía Eléni",
+      "lat": 41,
+      "lng": 23.5666667
+    },
+    {
+      "cityName": "Ayía Paraskeví",
+      "lat": 40.95,
+      "lng": 23.4666667
+    },
+    {
+      "cityName": "Ayiokhórion",
+      "lat": 41.0833333,
+      "lng": 23.95
+    },
+    {
+      "cityName": "Áyion Pnévma",
+      "lat": 41.1,
+      "lng": 23.6833333
+    },
+    {
+      "cityName": "Áyios Dhimítrios",
+      "lat": 40.8833333,
+      "lng": 23.7
+    },
+    {
+      "cityName": "Áyios Ioánnis",
+      "lat": 41.1,
+      "lng": 23.5833333
+    },
+    {
+      "cityName": "Áyios Khristóforos",
+      "lat": 41.05,
+      "lng": 23.7666667
+    },
+    {
+      "cityName": "Baïraktár",
+      "lat": 40.9333333,
+      "lng": 23.5666667
+    },
+    {
+      "cityName": "Bambakia",
+      "lat": 41.0833333,
+      "lng": 23.35
+    },
+    {
+      "cityName": "Baraklí",
+      "lat": 41.1833333,
+      "lng": 23.3166667
+    },
+    {
+      "cityName": "Beïlík Mahalé",
+      "lat": 41,
+      "lng": 23.6
+    },
+    {
+      "cityName": "Beiraklí Juma",
+      "lat": 41.1666667,
+      "lng": 23.2666667
+    },
+    {
+      "cityName": "Bútkovon",
+      "lat": 41.2166667,
+      "lng": 23.0833333
+    },
+    {
+      "cityName": "Buyúk-Mahalé",
+      "lat": 41.25,
+      "lng": 23.2166667
+    },
+    {
+      "cityName": "Chepeljés",
+      "lat": 40.9833333,
+      "lng": 23.8666667
+    },
+    {
+      "cityName": "Cherkézkoï",
+      "lat": 40.8833333,
+      "lng": 23.7666667
+    },
+    {
+      "cityName": "Cherpísta",
+      "lat": 40.9166667,
+      "lng": 23.4833333
+    },
+    {
+      "cityName": "Chiflijík",
+      "lat": 41.25,
+      "lng": 23.3333333
+    },
+    {
+      "cityName": "Delí-Hasán",
+      "lat": 41.2166667,
+      "lng": 23.0333333
+    },
+    {
+      "cityName": "Deré Mahalá",
+      "lat": 40.8666667,
+      "lng": 23.6166667
+    },
+    {
+      "cityName": "Dháfni",
+      "lat": 40.85,
+      "lng": 23.65
+    },
+    {
+      "cityName": "Dhafnoúdhi",
+      "lat": 41.0666667,
+      "lng": 23.75
+    },
+    {
+      "cityName": "Dhimitrítsion",
+      "lat": 40.9833333,
+      "lng": 23.4166667
+    },
+    {
+      "cityName": "Dhómiros",
+      "lat": 40.95,
+      "lng": 23.9166667
+    },
+    {
+      "cityName": "Dhravískos",
+      "lat": 40.9166667,
+      "lng": 23.8666667
+    },
+    {
+      "cityName": "Dragotín",
+      "lat": 41.3666667,
+      "lng": 23.3666667
+    },
+    {
+      "cityName": "Drátsovon",
+      "lat": 41.0333333,
+      "lng": 23.9166667
+    },
+    {
+      "cityName": "Dutlí",
+      "lat": 41.15,
+      "lng": 23.5833333
+    },
+    {
+      "cityName": "Egrí Deré",
+      "lat": 41.1166667,
+      "lng": 23.9166667
+    },
+    {
+      "cityName": "Emmanouíl Pappás",
+      "lat": 41.0833333,
+      "lng": 23.7166667
+    },
+    {
+      "cityName": "Erníkoï",
+      "lat": 41.2,
+      "lng": 23.2833333
+    },
+    {
+      "cityName": "Evkarpía",
+      "lat": 40.8666667,
+      "lng": 23.7666667
+    },
+    {
+      "cityName": "Fitóki",
+      "lat": 40.95,
+      "lng": 23.5
+    },
+    {
+      "cityName": "Gázoros",
+      "lat": 41.0166667,
+      "lng": 23.7666667
+    },
+    {
+      "cityName": "Glabóftsa",
+      "lat": 41.2808333,
+      "lng": 22.9286111
+    },
+    {
+      "cityName": "Glikopiyí",
+      "lat": 41,
+      "lng": 23.7833333
+    },
+    {
+      "cityName": "Gónimon",
+      "lat": 41.2333333,
+      "lng": 23.25
+    },
+    {
+      "cityName": "Górnitsa",
+      "lat": 41.15,
+      "lng": 23.9
+    },
+    {
+      "cityName": "Graménja",
+      "lat": 41.2,
+      "lng": 23.9
+    },
+    {
+      "cityName": "Hají-Beïlík",
+      "lat": 41.2833333,
+      "lng": 23.2333333
+    },
+    {
+      "cityName": "Ívira",
+      "lat": 40.9,
+      "lng": 23.7
+    },
+    {
+      "cityName": "Kákara",
+      "lat": 41.0166667,
+      "lng": 23.65
+    },
+    {
+      "cityName": "Kalá Dhéndhra",
+      "lat": 41.1,
+      "lng": 23.4166667
+    },
+    {
+      "cityName": "Kamarotó",
+      "lat": 41.2,
+      "lng": 23.3666667
+    },
+    {
+      "cityName": "Kapnófiton",
+      "lat": 41.3,
+      "lng": 23.5
+    },
+    {
+      "cityName": "Karidhokhóri",
+      "lat": 41.3166667,
+      "lng": 23.5833333
+    },
+    {
+      "cityName": "Karlíkova",
+      "lat": 41.2,
+      "lng": 23.8166667
+    },
+    {
+      "cityName": "Karopó",
+      "lat": 41.2666667,
+      "lng": 23.3833333
+    },
+    {
+      "cityName": "Kastanokhórion",
+      "lat": 40.8166667,
+      "lng": 23.65
+    },
+    {
+      "cityName": "Kastanoússa",
+      "lat": 41.2736111,
+      "lng": 22.8925
+    },
+    {
+      "cityName": "Kastrí",
+      "lat": 40.8333333,
+      "lng": 23.7833333
+    },
+    {
+      "cityName": "Káto Ambélia",
+      "lat": 41.2166667,
+      "lng": 23.4
+    },
+    {
+      "cityName": "Káto Frástaina",
+      "lat": 41.2,
+      "lng": 23.6
+    },
+    {
+      "cityName": "Káto Kamíla",
+      "lat": 41.0166667,
+      "lng": 23.4833333
+    },
+    {
+      "cityName": "Káto Karajákoï",
+      "lat": 41.0166667,
+      "lng": 23.4
+    },
+    {
+      "cityName": "Káto Khomóndhos",
+      "lat": 41.0666667,
+      "lng": 23.45
+    },
+    {
+      "cityName": "Káto Metókhi",
+      "lat": 41.1166667,
+      "lng": 23.5166667
+    },
+    {
+      "cityName": "Káto Poróïa",
+      "lat": 41.2833333,
+      "lng": 23.0166667
+    },
+    {
+      "cityName": "Kaváki",
+      "lat": 40.8833333,
+      "lng": 23.6333333
+    },
+    {
+      "cityName": "Kavaklí",
+      "lat": 41.1,
+      "lng": 23.5
+    },
+    {
+      "cityName": "Kharitoméni",
+      "lat": 41.1666667,
+      "lng": 23.85
+    },
+    {
+      "cityName": "Khorteró",
+      "lat": 41.2166667,
+      "lng": 23.3666667
+    },
+    {
+      "cityName": "Khoúmkos",
+      "lat": 40.8666667,
+      "lng": 23.5833333
+    },
+    {
+      "cityName": "Khrisó",
+      "lat": 41.0666667,
+      "lng": 23.65
+    },
+    {
+      "cityName": "Kisiklík",
+      "lat": 41.0166667,
+      "lng": 23.6166667
+    },
+    {
+      "cityName": "Kochákion",
+      "lat": 40.95,
+      "lng": 23.8833333
+    },
+    {
+      "cityName": "Koímisis",
+      "lat": 41.2166667,
+      "lng": 23.3
+    },
+    {
+      "cityName": "Kokkinóyia",
+      "lat": 41.1833333,
+      "lng": 23.9333333
+    },
+    {
+      "cityName": "Konstandináton",
+      "lat": 41.0166667,
+      "lng": 23.55
+    },
+    {
+      "cityName": "Kopáchi",
+      "lat": 40.95,
+      "lng": 23.4
+    },
+    {
+      "cityName": "Kopekí",
+      "lat": 41.0166667,
+      "lng": 23.5166667
+    },
+    {
+      "cityName": "Koúla",
+      "lat": 41.15,
+      "lng": 23.4166667
+    },
+    {
+      "cityName": "Koumariá",
+      "lat": 41.0166667,
+      "lng": 23.4333333
+    },
+    {
+      "cityName": "Kouvoúklia",
+      "lat": 41,
+      "lng": 23.4833333
+    },
+    {
+      "cityName": "Krínos",
+      "lat": 41.05,
+      "lng": 23.55
+    },
+    {
+      "cityName": "Kriopiyí",
+      "lat": 41.0333333,
+      "lng": 23.9333333
+    },
+    {
+      "cityName": "Kuprí",
+      "lat": 41.1666667,
+      "lng": 23.3666667
+    },
+    {
+      "cityName": "Langádhion",
+      "lat": 40.8166667,
+      "lng": 23.5666667
+    },
+    {
+      "cityName": "Lántza",
+      "lat": 40.7833333,
+      "lng": 23.5333333
+    },
+    {
+      "cityName": "Levkokhórion",
+      "lat": 41.0666667,
+      "lng": 23.9333333
+    },
+    {
+      "cityName": "Ligariá",
+      "lat": 40.9833333,
+      "lng": 23.4333333
+    },
+    {
+      "cityName": "Lítza",
+      "lat": 40.9,
+      "lng": 23.55
+    },
+    {
+      "cityName": "Livadhiá",
+      "lat": 41.25,
+      "lng": 23.0833333
+    },
+    {
+      "cityName": "Loutrá Sidhirokástrou",
+      "lat": 41.2833333,
+      "lng": 23.3333333
+    },
+    {
+      "cityName": "Mahmutlí",
+      "lat": 41.25,
+      "lng": 23.45
+    },
+    {
+      "cityName": "Makrinítsa",
+      "lat": 41.2947222,
+      "lng": 22.9841667
+    },
+    {
+      "cityName": "Mandhílion",
+      "lat": 41.05,
+      "lng": 23.9166667
+    },
+    {
+      "cityName": "Mandhráki",
+      "lat": 41.2666667,
+      "lng": 23.1333333
+    },
+    {
+      "cityName": "Maroúdha",
+      "lat": 40.8,
+      "lng": 23.4666667
+    },
+    {
+      "cityName": "Mavrothálassa",
+      "lat": 40.9,
+      "lng": 23.75
+    },
+    {
+      "cityName": "Melenikítsion",
+      "lat": 41.15,
+      "lng": 23.45
+    },
+    {
+      "cityName": "Mertáti",
+      "lat": 41.2,
+      "lng": 23.55
+    },
+    {
+      "cityName": "Mesorrákhi",
+      "lat": 41,
+      "lng": 23.8666667
+    },
+    {
+      "cityName": "Mírkinos",
+      "lat": 40.9,
+      "lng": 23.8166667
+    },
+    {
+      "cityName": "Monóvrisi",
+      "lat": 41.0666667,
+      "lng": 23.6
+    },
+    {
+      "cityName": "Néa Iráklia",
+      "lat": 41.1833333,
+      "lng": 23.2666667
+    },
+    {
+      "cityName": "Néa Kerdhília",
+      "lat": 40.8,
+      "lng": 23.85
+    },
+    {
+      "cityName": "Néa Tirolóï",
+      "lat": 41.1166667,
+      "lng": 23.3833333
+    },
+    {
+      "cityName": "Néa Zíchni",
+      "lat": 41.0330556,
+      "lng": 23.8297222
+    },
+    {
+      "cityName": "Neokhórion",
+      "lat": 41.1833333,
+      "lng": 23.25
+    },
+    {
+      "cityName": "Néon Petrítsi",
+      "lat": 41.2833333,
+      "lng": 23.3
+    },
+    {
+      "cityName": "Néon Soúli",
+      "lat": 41.1,
+      "lng": 23.65
+    },
+    {
+      "cityName": "Nigríta",
+      "lat": 40.9052778,
+      "lng": 23.4994444
+    },
+    {
+      "cityName": "Nikóklia",
+      "lat": 40.9333333,
+      "lng": 23.4333333
+    },
+    {
+      "cityName": "Odhiyítria",
+      "lat": 41.2252778,
+      "lng": 23.0011111
+    },
+    {
+      "cityName": "Oinoúsa",
+      "lat": 41.1,
+      "lng": 23.6166667
+    },
+    {
+      "cityName": "Palaiá Zíkhni",
+      "lat": 41.0333333,
+      "lng": 23.8166667
+    },
+    {
+      "cityName": "Palaikómi",
+      "lat": 40.8666667,
+      "lng": 23.9
+    },
+    {
+      "cityName": "Paralímnion",
+      "lat": 40.9833333,
+      "lng": 23.6666667
+    },
+    {
+      "cityName": "Parapótamos",
+      "lat": 41.2347222,
+      "lng": 22.985
+    },
+    {
+      "cityName": "Patríkion",
+      "lat": 40.9,
+      "lng": 23.6166667
+    },
+    {
+      "cityName": "Pendápolis",
+      "lat": 41.05,
+      "lng": 23.6833333
+    },
+    {
+      "cityName": "Peponiá",
+      "lat": 40.9833333,
+      "lng": 23.5166667
+    },
+    {
+      "cityName": "Petelinós",
+      "lat": 40.9666667,
+      "lng": 23.7166667
+    },
+    {
+      "cityName": "Platanákia",
+      "lat": 41.2869444,
+      "lng": 22.9469444
+    },
+    {
+      "cityName": "Poúliovon",
+      "lat": 41.2666667,
+      "lng": 23.3666667
+    },
+    {
+      "cityName": "Prósnik",
+      "lat": 41.1333333,
+      "lng": 23.3833333
+    },
+    {
+      "cityName": "Provatás",
+      "lat": 41.0666667,
+      "lng": 23.3833333
+    },
+    {
+      "cityName": "Psomotópion",
+      "lat": 41.15,
+      "lng": 23.2833333
+    },
+    {
+      "cityName": "Rodhópolis",
+      "lat": 41.2577778,
+      "lng": 22.9983333
+    },
+    {
+      "cityName": "Sarakatsanaíikon",
+      "lat": 41.1666667,
+      "lng": 23.2833333
+    },
+    {
+      "cityName": "Saviákon",
+      "lat": 41.1833333,
+      "lng": 23.4
+    },
+    {
+      "cityName": "Seres",
+      "lat": 41.0855556,
+      "lng": 23.5497222
+    },
+    {
+      "cityName": "Sfelinós",
+      "lat": 41.0666667,
+      "lng": 23.8833333
+    },
+    {
+      "cityName": "Sideorastron",
+      "lat": 41.2347222,
+      "lng": 23.3866667
+    },
+    {
+      "cityName": "Sidhirokhórion",
+      "lat": 41.25,
+      "lng": 23.0166667
+    },
+    {
+      "cityName": "Sikéa",
+      "lat": 41.0833333,
+      "lng": 23.7333333
+    },
+    {
+      "cityName": "Simón",
+      "lat": 41.2,
+      "lng": 23.25
+    },
+    {
+      "cityName": "Sisamía",
+      "lat": 40.95,
+      "lng": 23.4166667
+    },
+    {
+      "cityName": "Sitokhórion",
+      "lat": 40.8833333,
+      "lng": 23.6166667
+    },
+    {
+      "cityName": "Skepastón",
+      "lat": 40.8166667,
+      "lng": 23.5166667
+    },
+    {
+      "cityName": "Skhistólithos",
+      "lat": 41.2666667,
+      "lng": 23.4
+    },
+    {
+      "cityName": "Skopiá",
+      "lat": 41.1,
+      "lng": 23.9
+    },
+    {
+      "cityName": "Starós",
+      "lat": 41.2166667,
+      "lng": 23.05
+    },
+    {
+      "cityName": "Theodhórion",
+      "lat": 41.2366667,
+      "lng": 22.9469444
+    },
+    {
+      "cityName": "Toúmba",
+      "lat": 41.0166667,
+      "lng": 23.7
+    },
+    {
+      "cityName": "Vitásta",
+      "lat": 41,
+      "lng": 23.9666667
+    },
+    {
+      "cityName": "Yeorgoulás",
+      "lat": 40.9166667,
+      "lng": 23.5666667
+    },
+    {
+      "cityName": "Zervokhórion",
+      "lat": 40.8833333,
+      "lng": 23.6
+    }
+  ]
+}

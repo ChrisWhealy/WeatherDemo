@@ -1,0 +1,35 @@
+{
+  "name": "Kuwait",
+  "iso2": "kw",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Al Jahra",
+      "id": 0
+    },
+    {
+      "name": "Al Kuwayt",
+      "id": 1
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 2
+    }
+  ],
+  "geoRectangle": {
+    "West": 46.5555496216,
+    "East": 48.4314804077,
+    "North": 30.0959472656,
+    "South": 28.5246086121
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 3,
+    "Flg": 2,
+    "Name": "Kuwait City",
+    "GeoPt": [
+      29.22,
+      47.58
+    ]
+  }
+}

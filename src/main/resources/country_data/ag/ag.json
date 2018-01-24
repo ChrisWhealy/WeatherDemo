@@ -1,0 +1,51 @@
+{
+  "name": "Antigua and Barbuda",
+  "iso2": "ag",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Barbuda",
+      "id": 0
+    },
+    {
+      "name": "Saint George",
+      "id": 1
+    },
+    {
+      "name": "Saint John",
+      "id": 2
+    },
+    {
+      "name": "Saint Mary",
+      "id": 3
+    },
+    {
+      "name": "Saint Paul",
+      "id": 4
+    },
+    {
+      "name": "Saint Peter",
+      "id": 5
+    },
+    {
+      "name": "Saint Philip",
+      "id": 6
+    }
+  ],
+  "geoRectangle": {
+    "West": -61.9064292908,
+    "East": -61.672416687,
+    "North": 17.7293891907,
+    "South": 16.9969768524
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -4,
+    "Flg": 2,
+    "Name": "Saint John's",
+    "GeoPt": [
+      17.07,
+      -61.51
+    ]
+  }
+}

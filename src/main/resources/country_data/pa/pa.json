@@ -1,0 +1,63 @@
+{
+  "name": "Panama",
+  "iso2": "pa",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Bocas del Toro",
+      "id": 0
+    },
+    {
+      "name": "Chiriqui",
+      "id": 1
+    },
+    {
+      "name": "Cocle",
+      "id": 2
+    },
+    {
+      "name": "Colon",
+      "id": 3
+    },
+    {
+      "name": "Darien",
+      "id": 4
+    },
+    {
+      "name": "Herrera",
+      "id": 5
+    },
+    {
+      "name": "Los Santos",
+      "id": 6
+    },
+    {
+      "name": "Panama",
+      "id": 7
+    },
+    {
+      "name": "San Blas",
+      "id": 8
+    },
+    {
+      "name": "Veraguas",
+      "id": 9
+    }
+  ],
+  "geoRectangle": {
+    "West": -83.0514526367,
+    "East": -77.1740951538,
+    "North": 9.63751506805,
+    "South": 7.19790506363
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -5,
+    "Flg": 2,
+    "Name": "Panama City",
+    "GeoPt": [
+      8.58,
+      -79.32
+    ]
+  }
+}

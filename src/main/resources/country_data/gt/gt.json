@@ -1,0 +1,111 @@
+{
+  "name": "Guatemala",
+  "iso2": "gt",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Alta Verapaz",
+      "id": 0
+    },
+    {
+      "name": "Baja Verapaz",
+      "id": 1
+    },
+    {
+      "name": "Chimaltenango",
+      "id": 2
+    },
+    {
+      "name": "Chiquimula",
+      "id": 3
+    },
+    {
+      "name": "El Progreso",
+      "id": 4
+    },
+    {
+      "name": "Escuintla",
+      "id": 5
+    },
+    {
+      "name": "Guatemala",
+      "id": 6
+    },
+    {
+      "name": "Huehuetenango",
+      "id": 7
+    },
+    {
+      "name": "Izabal",
+      "id": 8
+    },
+    {
+      "name": "Jalapa",
+      "id": 9
+    },
+    {
+      "name": "Jutiapa",
+      "id": 10
+    },
+    {
+      "name": "Peten",
+      "id": 11
+    },
+    {
+      "name": "Quetzaltenango",
+      "id": 12
+    },
+    {
+      "name": "Quiche",
+      "id": 13
+    },
+    {
+      "name": "Retalhuleu",
+      "id": 14
+    },
+    {
+      "name": "Sacatepequez",
+      "id": 15
+    },
+    {
+      "name": "San Marcos",
+      "id": 16
+    },
+    {
+      "name": "Santa Rosa",
+      "id": 17
+    },
+    {
+      "name": "Solola",
+      "id": 18
+    },
+    {
+      "name": "Suchitepequez",
+      "id": 19
+    },
+    {
+      "name": "Totonicapan",
+      "id": 20
+    },
+    {
+      "name": "Zacapa",
+      "id": 21
+    }
+  ],
+  "geoRectangle": {
+    "West": -92.2363052368,
+    "East": -88.2231903076,
+    "North": 17.8152236938,
+    "South": 13.7373008728
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": -6,
+    "Flg": 2,
+    "Name": "Guatemala City",
+    "GeoPt": [
+      14.37,
+      -90.31
+    ]
+  }
+}

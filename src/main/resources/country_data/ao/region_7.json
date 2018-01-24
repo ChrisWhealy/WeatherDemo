@@ -1,0 +1,815 @@
+{
+  "name": "Cunene",
+  "cities": [
+    {
+      "cityName": "Amecanda",
+      "lat": -17.1333333,
+      "lng": 17.3
+    },
+    {
+      "cityName": "Ametinhe",
+      "lat": -17.3333333,
+      "lng": 17.15
+    },
+    {
+      "cityName": "Amucotocapa",
+      "lat": -17.4,
+      "lng": 16.1166667
+    },
+    {
+      "cityName": "Amué",
+      "lat": -16.65,
+      "lng": 13.95
+    },
+    {
+      "cityName": "Anhanca",
+      "lat": -16.8,
+      "lng": 15.8833333
+    },
+    {
+      "cityName": "Anhongo",
+      "lat": -16.5333333,
+      "lng": 16.1833333
+    },
+    {
+      "cityName": "Balanganga",
+      "lat": -16.95,
+      "lng": 15.55
+    },
+    {
+      "cityName": "Bale",
+      "lat": -15.1666667,
+      "lng": 16.65
+    },
+    {
+      "cityName": "Bambaemo",
+      "lat": -17.15,
+      "lng": 13.9833333
+    },
+    {
+      "cityName": "Bambi",
+      "lat": -15.5,
+      "lng": 16.1
+    },
+    {
+      "cityName": "Bango",
+      "lat": -16.3833333,
+      "lng": 13.6166667
+    },
+    {
+      "cityName": "Bela-Bela",
+      "lat": -16.5833333,
+      "lng": 14.7666667
+    },
+    {
+      "cityName": "Boluré",
+      "lat": -16.4,
+      "lng": 14.55
+    },
+    {
+      "cityName": "Bomé",
+      "lat": -16.4,
+      "lng": 14.6666667
+    },
+    {
+      "cityName": "Butje",
+      "lat": -16.6833333,
+      "lng": 13.8
+    },
+    {
+      "cityName": "Cacango",
+      "lat": -17.3333333,
+      "lng": 14.05
+    },
+    {
+      "cityName": "Cachana",
+      "lat": -16.8666667,
+      "lng": 13.8
+    },
+    {
+      "cityName": "Cachueca",
+      "lat": -15.3333333,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Cacoto",
+      "lat": -16.25,
+      "lng": 13.55
+    },
+    {
+      "cityName": "Cacua",
+      "lat": -17.3,
+      "lng": 14.3
+    },
+    {
+      "cityName": "Cacuic",
+      "lat": -16.6833333,
+      "lng": 13.8833333
+    },
+    {
+      "cityName": "Cadueia",
+      "lat": -17.15,
+      "lng": 16.1
+    },
+    {
+      "cityName": "Caende",
+      "lat": -16.7833333,
+      "lng": 13.5166667
+    },
+    {
+      "cityName": "Cafima",
+      "lat": -16.65,
+      "lng": 16.45
+    },
+    {
+      "cityName": "Cafu",
+      "lat": -16.5,
+      "lng": 15.1833333
+    },
+    {
+      "cityName": "Cahama",
+      "lat": -16.2833333,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Cahuta",
+      "lat": -16.1666667,
+      "lng": 15.1666667
+    },
+    {
+      "cityName": "Cajambe",
+      "lat": -16.4666667,
+      "lng": 13.6
+    },
+    {
+      "cityName": "Calei",
+      "lat": -16.6833333,
+      "lng": 14.95
+    },
+    {
+      "cityName": "Calemba",
+      "lat": -16.0666667,
+      "lng": 15.7333333
+    },
+    {
+      "cityName": "Calovango",
+      "lat": -16.4666667,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Calueque",
+      "lat": -16.75,
+      "lng": 15.1166667
+    },
+    {
+      "cityName": "Camba",
+      "lat": -16.2666667,
+      "lng": 15.25
+    },
+    {
+      "cityName": "Canga",
+      "lat": -16.4333333,
+      "lng": 14.95
+    },
+    {
+      "cityName": "Cano",
+      "lat": -17.1333333,
+      "lng": 13.8833333
+    },
+    {
+      "cityName": "Capata",
+      "lat": -16.5166667,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Carambona",
+      "lat": -17.15,
+      "lng": 13.8
+    },
+    {
+      "cityName": "Carenge",
+      "lat": -17.3166667,
+      "lng": 14.1666667
+    },
+    {
+      "cityName": "Cassuelo",
+      "lat": -16.4833333,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Catala",
+      "lat": -16.3666667,
+      "lng": 14.4833333
+    },
+    {
+      "cityName": "Cataporinde",
+      "lat": -16.9333333,
+      "lng": 14.3666667
+    },
+    {
+      "cityName": "Catatorinde",
+      "lat": -16.6666667,
+      "lng": 14.2
+    },
+    {
+      "cityName": "Catequero",
+      "lat": -16.5666667,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Caungo",
+      "lat": -16.3833333,
+      "lng": 14.8833333
+    },
+    {
+      "cityName": "Cavale",
+      "lat": -16.6666667,
+      "lng": 14.35
+    },
+    {
+      "cityName": "Chabicua",
+      "lat": -16.9666667,
+      "lng": 13.9833333
+    },
+    {
+      "cityName": "Chamangala",
+      "lat": -16.6333333,
+      "lng": 16.1333333
+    },
+    {
+      "cityName": "Chango",
+      "lat": -16.65,
+      "lng": 14.8666667
+    },
+    {
+      "cityName": "Chetequera",
+      "lat": -17.1166667,
+      "lng": 14.9333333
+    },
+    {
+      "cityName": "Chibabo",
+      "lat": -16.65,
+      "lng": 14.8166667
+    },
+    {
+      "cityName": "Chiba",
+      "lat": -16.8166667,
+      "lng": 13.5333333
+    },
+    {
+      "cityName": "Chicotata",
+      "lat": -16.3666667,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Chicua",
+      "lat": -16.25,
+      "lng": 14.1666667
+    },
+    {
+      "cityName": "Chicusse",
+      "lat": -16.3666667,
+      "lng": 14.45
+    },
+    {
+      "cityName": "Chiede",
+      "lat": -17.1666667,
+      "lng": 16
+    },
+    {
+      "cityName": "Chiende",
+      "lat": -16.5333333,
+      "lng": 14.0833333
+    },
+    {
+      "cityName": "Chifinde",
+      "lat": -16.35,
+      "lng": 14.4
+    },
+    {
+      "cityName": "Chifito",
+      "lat": -16.5833333,
+      "lng": 16.3833333
+    },
+    {
+      "cityName": "Chilau",
+      "lat": -16.2833333,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Chimbua",
+      "lat": -16.55,
+      "lng": 15.1166667
+    },
+    {
+      "cityName": "Chingongo",
+      "lat": -16.75,
+      "lng": 14.9833333
+    },
+    {
+      "cityName": "Chioca",
+      "lat": -15.15,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Chioua",
+      "lat": -16.3833333,
+      "lng": 13.9666667
+    },
+    {
+      "cityName": "Chipa",
+      "lat": -16.9,
+      "lng": 14.3333333
+    },
+    {
+      "cityName": "Chipangua",
+      "lat": -16.1,
+      "lng": 15.05
+    },
+    {
+      "cityName": "Chipelongo",
+      "lat": -16.5,
+      "lng": 14.6333333
+    },
+    {
+      "cityName": "Chissito",
+      "lat": -16.25,
+      "lng": 14.1
+    },
+    {
+      "cityName": "Chitado",
+      "lat": -17.3166667,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Chivemba",
+      "lat": -16,
+      "lng": 15.7166667
+    },
+    {
+      "cityName": "Chunja",
+      "lat": -16.5333333,
+      "lng": 14.7166667
+    },
+    {
+      "cityName": "Cova do Leão",
+      "lat": -16.2166667,
+      "lng": 14.1666667
+    },
+    {
+      "cityName": "Cuamato",
+      "lat": -17.0833333,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Cuvelai",
+      "lat": -15.6666667,
+      "lng": 15.8
+    },
+    {
+      "cityName": "Damanquero",
+      "lat": -16.9166667,
+      "lng": 15.0333333
+    },
+    {
+      "cityName": "Damba",
+      "lat": -16.65,
+      "lng": 14.9666667
+    },
+    {
+      "cityName": "Dicque",
+      "lat": -16.35,
+      "lng": 14.3833333
+    },
+    {
+      "cityName": "Dimba",
+      "lat": -16.6,
+      "lng": 15
+    },
+    {
+      "cityName": "Djamba",
+      "lat": -16.8,
+      "lng": 14
+    },
+    {
+      "cityName": "Dombondola",
+      "lat": -17.3333333,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Dom Manuel",
+      "lat": -16.55,
+      "lng": 15.75
+    },
+    {
+      "cityName": "Dongoena",
+      "lat": -17.05,
+      "lng": 14.65
+    },
+    {
+      "cityName": "Duvango",
+      "lat": -16.55,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Ediva do Muandi",
+      "lat": -16.8666667,
+      "lng": 16.6333333
+    },
+    {
+      "cityName": "Ediva",
+      "lat": -16.3333333,
+      "lng": 14.25
+    },
+    {
+      "cityName": "Embundo",
+      "lat": -16.3833333,
+      "lng": 16.6333333
+    },
+    {
+      "cityName": "Etale do Mulavi",
+      "lat": -16.7,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Hengue",
+      "lat": -16.6,
+      "lng": 15.0333333
+    },
+    {
+      "cityName": "Huia",
+      "lat": -16.45,
+      "lng": 14.6166667
+    },
+    {
+      "cityName": "Humbe",
+      "lat": -16.6833333,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Incha",
+      "lat": -15.1833333,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Janga",
+      "lat": -16.45,
+      "lng": 14.7
+    },
+    {
+      "cityName": "Kali",
+      "lat": -16.05,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Lua",
+      "lat": -16.7,
+      "lng": 14.0833333
+    },
+    {
+      "cityName": "Luide",
+      "lat": -17.3166667,
+      "lng": 15.1666667
+    },
+    {
+      "cityName": "Lundo",
+      "lat": -16.65,
+      "lng": 13.9833333
+    },
+    {
+      "cityName": "Lupembe",
+      "lat": -16.6666667,
+      "lng": 14.8
+    },
+    {
+      "cityName": "Luvungo",
+      "lat": -17.1666667,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Maama",
+      "lat": -16.6,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Matemba",
+      "lat": -16.4,
+      "lng": 13.6333333
+    },
+    {
+      "cityName": "Mauleve",
+      "lat": -16.75,
+      "lng": 13.8
+    },
+    {
+      "cityName": "Melunda",
+      "lat": -17.2833333,
+      "lng": 16.4333333
+    },
+    {
+      "cityName": "Miumba",
+      "lat": -16.3,
+      "lng": 14.3333333
+    },
+    {
+      "cityName": "Môngua",
+      "lat": -16.7166667,
+      "lng": 15.3666667
+    },
+    {
+      "cityName": "Muande",
+      "lat": -17.1166667,
+      "lng": 13.7666667
+    },
+    {
+      "cityName": "Muculo",
+      "lat": -16.7833333,
+      "lng": 14.8166667
+    },
+    {
+      "cityName": "Muele",
+      "lat": -16.75,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Mufilo",
+      "lat": -16.8,
+      "lng": 14.9833333
+    },
+    {
+      "cityName": "Muhoto",
+      "lat": -17.25,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Muiavongo",
+      "lat": -16.4166667,
+      "lng": 14.95
+    },
+    {
+      "cityName": "Mujombe",
+      "lat": -16.4666667,
+      "lng": 14.7333333
+    },
+    {
+      "cityName": "Mulamba",
+      "lat": -17.0833333,
+      "lng": 14.65
+    },
+    {
+      "cityName": "Mulemba",
+      "lat": -17.0333333,
+      "lng": 16.3166667
+    },
+    {
+      "cityName": "Mune-Tchiua",
+      "lat": -16.4333333,
+      "lng": 14.6833333
+    },
+    {
+      "cityName": "Mupa",
+      "lat": -16.1666667,
+      "lng": 15.75
+    },
+    {
+      "cityName": "Mupembe",
+      "lat": -15.9,
+      "lng": 16.65
+    },
+    {
+      "cityName": "Mutaco",
+      "lat": -16.8166667,
+      "lng": 15.7166667
+    },
+    {
+      "cityName": "Mutangonga",
+      "lat": -16.35,
+      "lng": 13.9666667
+    },
+    {
+      "cityName": "Mutete",
+      "lat": -17.2833333,
+      "lng": 14.1666667
+    },
+    {
+      "cityName": "Mutucua",
+      "lat": -16.4833333,
+      "lng": 14.6333333
+    },
+    {
+      "cityName": "Nahone",
+      "lat": -16.5333333,
+      "lng": 16.3833333
+    },
+    {
+      "cityName": "Naloeque",
+      "lat": -17.1666667,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Namacunde",
+      "lat": -17.3,
+      "lng": 15.85
+    },
+    {
+      "cityName": "Nampala",
+      "lat": -16.1333333,
+      "lng": 15.2333333
+    },
+    {
+      "cityName": "Nanjavina",
+      "lat": -16.6,
+      "lng": 13.6666667
+    },
+    {
+      "cityName": "Naulila",
+      "lat": -17.2,
+      "lng": 14.6833333
+    },
+    {
+      "cityName": "Naumba",
+      "lat": -16.5,
+      "lng": 14.9333333
+    },
+    {
+      "cityName": "Nechila",
+      "lat": -17.2666667,
+      "lng": 16.6
+    },
+    {
+      "cityName": "Nehome",
+      "lat": -16.6333333,
+      "lng": 16.0333333
+    },
+    {
+      "cityName": "N'Giva",
+      "lat": -17.0666667,
+      "lng": 15.7333333
+    },
+    {
+      "cityName": "Nongue",
+      "lat": -16.5166667,
+      "lng": 14.2166667
+    },
+    {
+      "cityName": "Ochinjau",
+      "lat": -16.5,
+      "lng": 13.9333333
+    },
+    {
+      "cityName": "Olutchanja",
+      "lat": -17.2666667,
+      "lng": 14.6333333
+    },
+    {
+      "cityName": "Omatemba",
+      "lat": -17.3166667,
+      "lng": 15.7666667
+    },
+    {
+      "cityName": "Ompanda",
+      "lat": -17.1333333,
+      "lng": 15.7666667
+    },
+    {
+      "cityName": "Ompiacade",
+      "lat": -16.6833333,
+      "lng": 15.8666667
+    },
+    {
+      "cityName": "Ompupa",
+      "lat": -16.2666667,
+      "lng": 13.4833333
+    },
+    {
+      "cityName": "Oncócua",
+      "lat": -16.65,
+      "lng": 13.4333333
+    },
+    {
+      "cityName": "Ondamba",
+      "lat": -17.15,
+      "lng": 14
+    },
+    {
+      "cityName": "Ongato",
+      "lat": -17.4333333,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Ongono",
+      "lat": -16.6166667,
+      "lng": 14.05
+    },
+    {
+      "cityName": "Onturo",
+      "lat": -16.8666667,
+      "lng": 14
+    },
+    {
+      "cityName": "Otoqoero",
+      "lat": -16.9333333,
+      "lng": 15.55
+    },
+    {
+      "cityName": "Outundo",
+      "lat": -16.8166667,
+      "lng": 13.9833333
+    },
+    {
+      "cityName": "Palanca",
+      "lat": -16.6,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Pembe",
+      "lat": -16.85,
+      "lng": 14.8166667
+    },
+    {
+      "cityName": "Pocolo",
+      "lat": -16.3833333,
+      "lng": 15.2333333
+    },
+    {
+      "cityName": "Queulo",
+      "lat": -16.1166667,
+      "lng": 14.2666667
+    },
+    {
+      "cityName": "Ruacaná",
+      "lat": -17.4166667,
+      "lng": 14.2
+    },
+    {
+      "cityName": "Tacomongua",
+      "lat": -17.1833333,
+      "lng": 14.1166667
+    },
+    {
+      "cityName": "Tchaiombo",
+      "lat": -16.3666667,
+      "lng": 14.3833333
+    },
+    {
+      "cityName": "Tchica",
+      "lat": -16.3166667,
+      "lng": 14.95
+    },
+    {
+      "cityName": "Tchimjo",
+      "lat": -16.2166667,
+      "lng": 13.8333333
+    },
+    {
+      "cityName": "Tchipemba",
+      "lat": -16.55,
+      "lng": 13.7333333
+    },
+    {
+      "cityName": "Tchitocota",
+      "lat": -16.5166667,
+      "lng": 15.05
+    },
+    {
+      "cityName": "Tchiule",
+      "lat": -16.5333333,
+      "lng": 14.8666667
+    },
+    {
+      "cityName": "Tchivanda",
+      "lat": -16.4833333,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Tchivando",
+      "lat": -16.4666667,
+      "lng": 14.9166667
+    },
+    {
+      "cityName": "Toto",
+      "lat": -16.35,
+      "lng": 14.3333333
+    },
+    {
+      "cityName": "Tunda",
+      "lat": -16.7333333,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Uatchipala",
+      "lat": -17.1833333,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Ulundo",
+      "lat": -16.5833333,
+      "lng": 14.8166667
+    },
+    {
+      "cityName": "Uncuâncua",
+      "lat": -17.3,
+      "lng": 14.7666667
+    }
+  ]
+}

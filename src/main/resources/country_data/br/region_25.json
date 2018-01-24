@@ -1,0 +1,940 @@
+{
+  "name": "Sergipe",
+  "cities": [
+    {
+      "cityName": "Aldeia",
+      "lat": -10.783333,
+      "lng": -36.966667
+    },
+    {
+      "cityName": "Altos Verdes",
+      "lat": -10.416667,
+      "lng": -37.65
+    },
+    {
+      "cityName": "Ampáro",
+      "lat": -10.133333,
+      "lng": -36.916667
+    },
+    {
+      "cityName": "Anápolis",
+      "lat": -10.733333,
+      "lng": -37.816667
+    },
+    {
+      "cityName": "Angico",
+      "lat": -10.266667,
+      "lng": -37.55
+    },
+    {
+      "cityName": "Aquidabã",
+      "lat": -10.283333,
+      "lng": -37.033333
+    },
+    {
+      "cityName": "Aracaju",
+      "lat": -10.916667,
+      "lng": -37.066667
+    },
+    {
+      "cityName": "Araticum",
+      "lat": -9.816667,
+      "lng": -37.333333
+    },
+    {
+      "cityName": "Arauá",
+      "lat": -11.266667,
+      "lng": -37.616667
+    },
+    {
+      "cityName": "Areia Branca",
+      "lat": -10.766667,
+      "lng": -37.316667
+    },
+    {
+      "cityName": "Atalaia",
+      "lat": -11.416667,
+      "lng": -37.316667
+    },
+    {
+      "cityName": "Atalaia Nova",
+      "lat": -10.933333,
+      "lng": -37.033333
+    },
+    {
+      "cityName": "Atalaia Velha",
+      "lat": -10.966667,
+      "lng": -37.066667
+    },
+    {
+      "cityName": "Badajós",
+      "lat": -10.566667,
+      "lng": -36.816667
+    },
+    {
+      "cityName": "Badia",
+      "lat": -9.666667,
+      "lng": -37.75
+    },
+    {
+      "cityName": "Baixa da Areia",
+      "lat": -10.15,
+      "lng": -37.05
+    },
+    {
+      "cityName": "Baixada do Burgo",
+      "lat": -9.883333,
+      "lng": -37.55
+    },
+    {
+      "cityName": "Barra",
+      "lat": -11.15,
+      "lng": -37.166667
+    },
+    {
+      "cityName": "Barracas",
+      "lat": -10.416667,
+      "lng": -37.1
+    },
+    {
+      "cityName": "Barra dos Coqueiros",
+      "lat": -10.9,
+      "lng": -37.05
+    },
+    {
+      "cityName": "Barriguda",
+      "lat": -10.833333,
+      "lng": -38.133333
+    },
+    {
+      "cityName": "Bela Aurora",
+      "lat": -9.816667,
+      "lng": -37.5
+    },
+    {
+      "cityName": "Belém",
+      "lat": -9.8,
+      "lng": -37.333333
+    },
+    {
+      "cityName": "Belo Horizonte",
+      "lat": -9.783333,
+      "lng": -37.866667
+    },
+    {
+      "cityName": "Boa Vista",
+      "lat": -10.433333,
+      "lng": -37.133333
+    },
+    {
+      "cityName": "Bonfim",
+      "lat": -11.066667,
+      "lng": -37.85
+    },
+    {
+      "cityName": "Boquim",
+      "lat": -11.15,
+      "lng": -37.616667
+    },
+    {
+      "cityName": "Borda da Mata",
+      "lat": -10.566667,
+      "lng": -37.266667
+    },
+    {
+      "cityName": "Brejo Grande",
+      "lat": -10.433333,
+      "lng": -36.466667
+    },
+    {
+      "cityName": "Brito",
+      "lat": -10.6,
+      "lng": -36.783333
+    },
+    {
+      "cityName": "Cabaceira",
+      "lat": -9.933333,
+      "lng": -37.116667
+    },
+    {
+      "cityName": "Cabeça",
+      "lat": -10.5,
+      "lng": -36.416667
+    },
+    {
+      "cityName": "Cabrituba",
+      "lat": -9.65,
+      "lng": -37.933333
+    },
+    {
+      "cityName": "Caiçara",
+      "lat": -9.866667,
+      "lng": -37.266667
+    },
+    {
+      "cityName": "Cajueiro",
+      "lat": -10.366667,
+      "lng": -37.266667
+    },
+    {
+      "cityName": "Camboatá",
+      "lat": -10.683333,
+      "lng": -37.216667
+    },
+    {
+      "cityName": "Campo do Brito",
+      "lat": -10.75,
+      "lng": -37.5
+    },
+    {
+      "cityName": "Campo do Crioulo",
+      "lat": -10.966667,
+      "lng": -37.766667
+    },
+    {
+      "cityName": "Campo Grande",
+      "lat": -10.566667,
+      "lng": -37.2
+    },
+    {
+      "cityName": "Campo Pequeno",
+      "lat": -11.116667,
+      "lng": -37.916667
+    },
+    {
+      "cityName": "Campos",
+      "lat": -11.183333,
+      "lng": -38.016667
+    },
+    {
+      "cityName": "Campos Novas",
+      "lat": -9.6,
+      "lng": -38.033333
+    },
+    {
+      "cityName": "Cana Brava",
+      "lat": -10.416667,
+      "lng": -37.216667
+    },
+    {
+      "cityName": "Canabrava",
+      "lat": -9.583333,
+      "lng": -37.983333
+    },
+    {
+      "cityName": "Canhoba",
+      "lat": -10.133333,
+      "lng": -36.95
+    },
+    {
+      "cityName": "Canindé",
+      "lat": -9.65,
+      "lng": -37.8
+    },
+    {
+      "cityName": "Canto",
+      "lat": -9.8,
+      "lng": -37.416667
+    },
+    {
+      "cityName": "Capela",
+      "lat": -10.5,
+      "lng": -37.066667
+    },
+    {
+      "cityName": "Capitão",
+      "lat": -11.05,
+      "lng": -38.033333
+    },
+    {
+      "cityName": "Carira",
+      "lat": -10.35,
+      "lng": -37.7
+    },
+    {
+      "cityName": "Carmo",
+      "lat": -10.65,
+      "lng": -36.983333
+    },
+    {
+      "cityName": "Castro",
+      "lat": -11.416667,
+      "lng": -37.416667
+    },
+    {
+      "cityName": "Cavalo",
+      "lat": -9.983333,
+      "lng": -37.066667
+    },
+    {
+      "cityName": "Cedro",
+      "lat": -10.25,
+      "lng": -36.883333
+    },
+    {
+      "cityName": "Changondo",
+      "lat": -9.716667,
+      "lng": -37.633333
+    },
+    {
+      "cityName": "Clemente",
+      "lat": -9.983333,
+      "lng": -37.816667
+    },
+    {
+      "cityName": "Colégio",
+      "lat": -11.066667,
+      "lng": -37.266667
+    },
+    {
+      "cityName": "Contiguiba",
+      "lat": -10.866667,
+      "lng": -37.116667
+    },
+    {
+      "cityName": "Convento",
+      "lat": -11.466667,
+      "lng": -37.45
+    },
+    {
+      "cityName": "Cristianópolis",
+      "lat": -11.483333,
+      "lng": -37.766667
+    },
+    {
+      "cityName": "Cuiabá",
+      "lat": -9.7,
+      "lng": -37.816667
+    },
+    {
+      "cityName": "Cumbe",
+      "lat": -10.35,
+      "lng": -37.233333
+    },
+    {
+      "cityName": "Cupim",
+      "lat": -9.866667,
+      "lng": -37.616667
+    },
+    {
+      "cityName": "Curral das Pedras",
+      "lat": -9.966667,
+      "lng": -37.083333
+    },
+    {
+      "cityName": "Curral dos Bois",
+      "lat": -10.516667,
+      "lng": -36.916667
+    },
+    {
+      "cityName": "Curralinho",
+      "lat": -10.75,
+      "lng": -36.833333
+    },
+    {
+      "cityName": "Divina Pastôra",
+      "lat": -10.666667,
+      "lng": -37.15
+    },
+    {
+      "cityName": "Espírito Santo",
+      "lat": -11.533333,
+      "lng": -37.516667
+    },
+    {
+      "cityName": "Estância",
+      "lat": -11.266667,
+      "lng": -37.433333
+    },
+    {
+      "cityName": "Farias",
+      "lat": -9.866667,
+      "lng": -37.25
+    },
+    {
+      "cityName": "Fazendinha",
+      "lat": -10.4,
+      "lng": -36.616667
+    },
+    {
+      "cityName": "Flecheiras",
+      "lat": -10.716667,
+      "lng": -36.9
+    },
+    {
+      "cityName": "Floresta",
+      "lat": -9.766667,
+      "lng": -37.433333
+    },
+    {
+      "cityName": "Frei Paulo",
+      "lat": -10.55,
+      "lng": -37.533333
+    },
+    {
+      "cityName": "Gado Bravo",
+      "lat": -10.516667,
+      "lng": -37.283333
+    },
+    {
+      "cityName": "Gameleira",
+      "lat": -10.416667,
+      "lng": -37.683333
+    },
+    {
+      "cityName": "Gentileza",
+      "lat": -9.8,
+      "lng": -37.433333
+    },
+    {
+      "cityName": "Gerú",
+      "lat": -11.383333,
+      "lng": -37.85
+    },
+    {
+      "cityName": "Gracho Cardoso",
+      "lat": -10.233333,
+      "lng": -37.2
+    },
+    {
+      "cityName": "Igreja Nova",
+      "lat": -10.933333,
+      "lng": -38.066667
+    },
+    {
+      "cityName": "Ilha das Flores",
+      "lat": -10.45,
+      "lng": -36.55
+    },
+    {
+      "cityName": "Ilha do Ouro",
+      "lat": -9.9,
+      "lng": -37.25
+    },
+    {
+      "cityName": "Ilha Grande",
+      "lat": -11.066667,
+      "lng": -37.2
+    },
+    {
+      "cityName": "Ilha",
+      "lat": -11.233333,
+      "lng": -37.916667
+    },
+    {
+      "cityName": "Inajaroba",
+      "lat": -11.333333,
+      "lng": -37.5
+    },
+    {
+      "cityName": "Irapiranga",
+      "lat": -10.983333,
+      "lng": -37.3
+    },
+    {
+      "cityName": "Itabaiana",
+      "lat": -10.683333,
+      "lng": -37.433333
+    },
+    {
+      "cityName": "Itabaianinha",
+      "lat": -11.266667,
+      "lng": -37.783333
+    },
+    {
+      "cityName": "Itabi",
+      "lat": -10.133333,
+      "lng": -37.1
+    },
+    {
+      "cityName": "Jaboatão",
+      "lat": -10.333333,
+      "lng": -36.8
+    },
+    {
+      "cityName": "Japaratuba",
+      "lat": -10.583333,
+      "lng": -36.95
+    },
+    {
+      "cityName": "Jejuí",
+      "lat": -4.433333,
+      "lng": -45.283333
+    },
+    {
+      "cityName": "Jenipapo",
+      "lat": -10.466667,
+      "lng": -36.583333
+    },
+    {
+      "cityName": "Jibóia",
+      "lat": -9.966667,
+      "lng": -37.183333
+    },
+    {
+      "cityName": "José Pinto",
+      "lat": -10.566667,
+      "lng": -37.733333
+    },
+    {
+      "cityName": "Junco",
+      "lat": -10.933333,
+      "lng": -38.183333
+    },
+    {
+      "cityName": "Ladeira",
+      "lat": -10.433333,
+      "lng": -36.766667
+    },
+    {
+      "cityName": "Lagarto",
+      "lat": -10.9,
+      "lng": -37.683333
+    },
+    {
+      "cityName": "Lagoa Comprida",
+      "lat": -9.85,
+      "lng": -37.866667
+    },
+    {
+      "cityName": "Lagoa de Dentro",
+      "lat": -9.95,
+      "lng": -37.2
+    },
+    {
+      "cityName": "Lagoa do Carvão",
+      "lat": -10.6,
+      "lng": -37.283333
+    },
+    {
+      "cityName": "Lagoa do Mata",
+      "lat": -10.2,
+      "lng": -36.983333
+    },
+    {
+      "cityName": "Lagoa do Rancho",
+      "lat": -9.966667,
+      "lng": -37.433333
+    },
+    {
+      "cityName": "Lagoa Funda",
+      "lat": -10.016667,
+      "lng": -36.95
+    },
+    {
+      "cityName": "Lagoinha",
+      "lat": -9.916667,
+      "lng": -37.166667
+    },
+    {
+      "cityName": "Larangeiras",
+      "lat": -10.8,
+      "lng": -37.166667
+    },
+    {
+      "cityName": "Limpo dos Mocós",
+      "lat": -9.833333,
+      "lng": -37.65
+    },
+    {
+      "cityName": "Logradouro",
+      "lat": -10.266667,
+      "lng": -37.316667
+    },
+    {
+      "cityName": "Macambira",
+      "lat": -10.666667,
+      "lng": -37.533333
+    },
+    {
+      "cityName": "Malhada dos Bois",
+      "lat": -10.333333,
+      "lng": -36.933333
+    },
+    {
+      "cityName": "Malhador",
+      "lat": -10.65,
+      "lng": -37.3
+    },
+    {
+      "cityName": "Marimbondo",
+      "lat": -10.683333,
+      "lng": -36.916667
+    },
+    {
+      "cityName": "Mariom",
+      "lat": -10.75,
+      "lng": -37.083333
+    },
+    {
+      "cityName": "Marrecas",
+      "lat": -9.95,
+      "lng": -37.533333
+    },
+    {
+      "cityName": "Mateus",
+      "lat": -10.05,
+      "lng": -37.183333
+    },
+    {
+      "cityName": "Miranda",
+      "lat": -10.6,
+      "lng": -37.05
+    },
+    {
+      "cityName": "Mocambo",
+      "lat": -10.15,
+      "lng": -37.116667
+    },
+    {
+      "cityName": "Moita Bonita",
+      "lat": -10.583333,
+      "lng": -37.366667
+    },
+    {
+      "cityName": "Moita Redonda",
+      "lat": -10.266667,
+      "lng": -37.116667
+    },
+    {
+      "cityName": "Monte Alegre de Sergipe",
+      "lat": -10.033333,
+      "lng": -37.55
+    },
+    {
+      "cityName": "Mosqueiro",
+      "lat": -11.116667,
+      "lng": -37.15
+    },
+    {
+      "cityName": "Mulungu",
+      "lat": -10.2,
+      "lng": -37.066667
+    },
+    {
+      "cityName": "Muribeca",
+      "lat": -10.433333,
+      "lng": -36.983333
+    },
+    {
+      "cityName": "Murta",
+      "lat": -10.55,
+      "lng": -37
+    },
+    {
+      "cityName": "Neópolis",
+      "lat": -10.3,
+      "lng": -36.583333
+    },
+    {
+      "cityName": "Nossa Senhora da Glória",
+      "lat": -10.233333,
+      "lng": -37.416667
+    },
+    {
+      "cityName": "Nossa Senhora das Dores",
+      "lat": -10.483333,
+      "lng": -37.216667
+    },
+    {
+      "cityName": "Nossa Senhora de Lourdes",
+      "lat": -10.083333,
+      "lng": -37.05
+    },
+    {
+      "cityName": "Oiteiras",
+      "lat": -10.9,
+      "lng": -37.85
+    },
+    {
+      "cityName": "Olhos d'Agua",
+      "lat": -10.783333,
+      "lng": -37.683333
+    },
+    {
+      "cityName": "Pacatiba",
+      "lat": -10.433333,
+      "lng": -36.65
+    },
+    {
+      "cityName": "Palmares",
+      "lat": -10.916667,
+      "lng": -37.933333
+    },
+    {
+      "cityName": "Papemal",
+      "lat": -11.366667,
+      "lng": -37.65
+    },
+    {
+      "cityName": "Patos",
+      "lat": -9.75,
+      "lng": -37.483333
+    },
+    {
+      "cityName": "Peço Arara",
+      "lat": -10.783333,
+      "lng": -37.566667
+    },
+    {
+      "cityName": "Pe-de-Boi",
+      "lat": -11.1,
+      "lng": -38.066667
+    },
+    {
+      "cityName": "Pedra d'Agua",
+      "lat": -9.716667,
+      "lng": -37.85
+    },
+    {
+      "cityName": "Pedra Mole",
+      "lat": -10.616667,
+      "lng": -37.683333
+    },
+    {
+      "cityName": "Pedra Preta",
+      "lat": -9.616667,
+      "lng": -37.833333
+    },
+    {
+      "cityName": "Pedras",
+      "lat": -10.483333,
+      "lng": -37.116667
+    },
+    {
+      "cityName": "Pedreiras",
+      "lat": -11.05,
+      "lng": -37.183333
+    },
+    {
+      "cityName": "Pedrinhas",
+      "lat": -11.2,
+      "lng": -37.683333
+    },
+    {
+      "cityName": "Pelado",
+      "lat": -9.883333,
+      "lng": -37.933333
+    },
+    {
+      "cityName": "Picos",
+      "lat": -9.683333,
+      "lng": -37.9
+    },
+    {
+      "cityName": "Pilão",
+      "lat": -11.016667,
+      "lng": -38.1
+    },
+    {
+      "cityName": "Pintos",
+      "lat": -10.966667,
+      "lng": -37.2
+    },
+    {
+      "cityName": "Pirambu",
+      "lat": -10.733333,
+      "lng": -36.866667
+    },
+    {
+      "cityName": "Poço Redondo",
+      "lat": -9.816667,
+      "lng": -37.683333
+    },
+    {
+      "cityName": "Poço Verde",
+      "lat": -10.7,
+      "lng": -38.183333
+    },
+    {
+      "cityName": "Pôrto da Fôlha",
+      "lat": -9.916667,
+      "lng": -37.283333
+    },
+    {
+      "cityName": "Pôrto das Cabras",
+      "lat": -10.833333,
+      "lng": -36.95
+    },
+    {
+      "cityName": "Preguiça",
+      "lat": -10.883333,
+      "lng": -37.516667
+    },
+    {
+      "cityName": "Propriá",
+      "lat": -10.216667,
+      "lng": -36.85
+    },
+    {
+      "cityName": "Quiçamã",
+      "lat": -10.9,
+      "lng": -37.183333
+    },
+    {
+      "cityName": "Riachão do Dantas",
+      "lat": -11.066667,
+      "lng": -37.733333
+    },
+    {
+      "cityName": "Riacho das Antas",
+      "lat": -9.75,
+      "lng": -37.533333
+    },
+    {
+      "cityName": "Riacho Largo",
+      "lat": -9.85,
+      "lng": -37.683333
+    },
+    {
+      "cityName": "Riachuelo",
+      "lat": -10.733333,
+      "lng": -37.183333
+    },
+    {
+      "cityName": "Ribeira",
+      "lat": -10.866667,
+      "lng": -37.183333
+    },
+    {
+      "cityName": "Ribeirópolis",
+      "lat": -10.533333,
+      "lng": -37.433333
+    },
+    {
+      "cityName": "Rio das Vacas",
+      "lat": -11.016667,
+      "lng": -37.566667
+    },
+    {
+      "cityName": "Risada",
+      "lat": -9.883333,
+      "lng": -37.866667
+    },
+    {
+      "cityName": "Rosário do Catete",
+      "lat": -10.683333,
+      "lng": -37.033333
+    },
+    {
+      "cityName": "Saco Grande",
+      "lat": -9.75,
+      "lng": -37.45
+    },
+    {
+      "cityName": "Salgadinho",
+      "lat": -9.966667,
+      "lng": -37.783333
+    },
+    {
+      "cityName": "Salgado",
+      "lat": -11.033333,
+      "lng": -37.466667
+    },
+    {
+      "cityName": "Santa Cruz",
+      "lat": -10.25,
+      "lng": -36.75
+    },
+    {
+      "cityName": "Santa Maria",
+      "lat": -9.716667,
+      "lng": -37.716667
+    },
+    {
+      "cityName": "Santo Amaro das Brotas",
+      "lat": -10.783333,
+      "lng": -37.066667
+    },
+    {
+      "cityName": "São Christovão",
+      "lat": -11.016667,
+      "lng": -37.2
+    },
+    {
+      "cityName": "São Domingos",
+      "lat": -10.766667,
+      "lng": -38.9
+    },
+    {
+      "cityName": "São Francisco",
+      "lat": -10.35,
+      "lng": -36.866667
+    },
+    {
+      "cityName": "São José da Catinga",
+      "lat": -10.633333,
+      "lng": -36.933333
+    },
+    {
+      "cityName": "Sapé",
+      "lat": -10.966667,
+      "lng": -37.383333
+    },
+    {
+      "cityName": "Sapucaia",
+      "lat": -10.633333,
+      "lng": -36.883333
+    },
+    {
+      "cityName": "Sesta das Parelhas",
+      "lat": -9.7,
+      "lng": -37.716667
+    },
+    {
+      "cityName": "Siriri",
+      "lat": -10.583333,
+      "lng": -37.133333
+    },
+    {
+      "cityName": "Tabuado",
+      "lat": -10.3,
+      "lng": -37.366667
+    },
+    {
+      "cityName": "Tabuleiro",
+      "lat": -9.666667,
+      "lng": -37.8
+    },
+    {
+      "cityName": "Tanque da Pedra",
+      "lat": -9.95,
+      "lng": -37.15
+    },
+    {
+      "cityName": "Tanque Novo",
+      "lat": -11.116667,
+      "lng": -37.833333
+    },
+    {
+      "cityName": "Tatu",
+      "lat": -10.383333,
+      "lng": -36.733333
+    },
+    {
+      "cityName": "Terra Caída",
+      "lat": -11.433333,
+      "lng": -37.416667
+    },
+    {
+      "cityName": "Timbó",
+      "lat": -10.533333,
+      "lng": -36.7
+    },
+    {
+      "cityName": "Traíras",
+      "lat": -10.066667,
+      "lng": -36.95
+    },
+    {
+      "cityName": "Triunfo",
+      "lat": -10.7,
+      "lng": -37.116667
+    },
+    {
+      "cityName": "Volta",
+      "lat": -10.733333,
+      "lng": -37.416667
+    }
+  ]
+}

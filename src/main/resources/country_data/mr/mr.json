@@ -1,0 +1,75 @@
+{
+  "name": "Mauritania",
+  "iso2": "mr",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Adrar",
+      "id": 0
+    },
+    {
+      "name": "Assaba",
+      "id": 1
+    },
+    {
+      "name": "Brakna",
+      "id": 2
+    },
+    {
+      "name": "Dakhlet Nouadhibou",
+      "id": 3
+    },
+    {
+      "name": "Gorgol",
+      "id": 4
+    },
+    {
+      "name": "Guidimaka",
+      "id": 5
+    },
+    {
+      "name": "Hodh Ech Chargui",
+      "id": 6
+    },
+    {
+      "name": "Hodh El Gharbi",
+      "id": 7
+    },
+    {
+      "name": "Inchiri",
+      "id": 8
+    },
+    {
+      "name": "Tagant",
+      "id": 9
+    },
+    {
+      "name": "Tiris Zemmour",
+      "id": 10
+    },
+    {
+      "name": "Trarza",
+      "id": 11
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 12
+    }
+  ],
+  "geoRectangle": {
+    "West": -17.0665245056,
+    "East": -4.82767343521,
+    "North": 27.2980766296,
+    "South": 14.7155456543
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 0,
+    "Flg": 2,
+    "Name": "Nouakchott",
+    "GeoPt": [
+      18.07,
+      -16.02
+    ]
+  }
+}

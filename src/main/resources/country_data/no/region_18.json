@@ -1,0 +1,765 @@
+{
+  "name": "Vestfold",
+  "cities": [
+    {
+      "cityName": "Aabol",
+      "lat": 59.166667,
+      "lng": 10.216667
+    },
+    {
+      "cityName": "Aamli",
+      "lat": 58.983333,
+      "lng": 9.85
+    },
+    {
+      "cityName": "Aaros",
+      "lat": 59.016667,
+      "lng": 9.9
+    },
+    {
+      "cityName": "Aas",
+      "lat": 59.616667,
+      "lng": 10.2
+    },
+    {
+      "cityName": "Aaserum",
+      "lat": 59.166667,
+      "lng": 10.083333
+    },
+    {
+      "cityName": "Aasgaardstrand",
+      "lat": 59.348889,
+      "lng": 10.4675
+    },
+    {
+      "cityName": "Adal",
+      "lat": 59.366667,
+      "lng": 10.4
+    },
+    {
+      "cityName": "Ådne",
+      "lat": 59.571111,
+      "lng": 10.386667
+    },
+    {
+      "cityName": "Agnes",
+      "lat": 59.016667,
+      "lng": 10.033333
+    },
+    {
+      "cityName": "Apenes",
+      "lat": 59.433333,
+      "lng": 10.45
+    },
+    {
+      "cityName": "Årøysund",
+      "lat": 59.180556,
+      "lng": 10.455
+    },
+    {
+      "cityName": "Åsaberg",
+      "lat": 59.316667,
+      "lng": 10.45
+    },
+    {
+      "cityName": "Asjer",
+      "lat": 59.383333,
+      "lng": 10.2
+    },
+    {
+      "cityName": "Barkaaker",
+      "lat": 59.316667,
+      "lng": 10.383333
+    },
+    {
+      "cityName": "Barkost",
+      "lat": 59.483333,
+      "lng": 10.183333
+    },
+    {
+      "cityName": "Bergan",
+      "lat": 59.283333,
+      "lng": 9.9
+    },
+    {
+      "cityName": "Berg",
+      "lat": 59.3,
+      "lng": 10.133333
+    },
+    {
+      "cityName": "Berger",
+      "lat": 59.545,
+      "lng": 10.371389
+    },
+    {
+      "cityName": "Bø",
+      "lat": 59.366667,
+      "lng": 10.283333
+    },
+    {
+      "cityName": "Borge",
+      "lat": 59.266667,
+      "lng": 10.266667
+    },
+    {
+      "cityName": "Brunlanes",
+      "lat": 59.033333,
+      "lng": 9.966667
+    },
+    {
+      "cityName": "Bukta",
+      "lat": 59.1925,
+      "lng": 10.465
+    },
+    {
+      "cityName": "Eide",
+      "lat": 59.333333,
+      "lng": 9.9
+    },
+    {
+      "cityName": "Eidsfoss",
+      "lat": 59.6,
+      "lng": 10.033333
+    },
+    {
+      "cityName": "Eidstein",
+      "lat": 58.983333,
+      "lng": 9.9
+    },
+    {
+      "cityName": "Eik",
+      "lat": 59.616667,
+      "lng": 10.35
+    },
+    {
+      "cityName": "Eikenes",
+      "lat": 59.15,
+      "lng": 9.9
+    },
+    {
+      "cityName": "Engelstad",
+      "lat": 59.366667,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Falkenstein",
+      "lat": 59.439167,
+      "lng": 10.425833
+    },
+    {
+      "cityName": "Fen",
+      "lat": 59.183333,
+      "lng": 10.3
+    },
+    {
+      "cityName": "Fevang",
+      "lat": 59.2,
+      "lng": 10.233333
+    },
+    {
+      "cityName": "Flisaker",
+      "lat": 59.716667,
+      "lng": 9.833333
+    },
+    {
+      "cityName": "Foldvik",
+      "lat": 59,
+      "lng": 9.966667
+    },
+    {
+      "cityName": "Fon",
+      "lat": 59.416667,
+      "lng": 10.216667
+    },
+    {
+      "cityName": "Fossan",
+      "lat": 59.383333,
+      "lng": 10.266667
+    },
+    {
+      "cityName": "Framnes",
+      "lat": 59.116667,
+      "lng": 10.233333
+    },
+    {
+      "cityName": "Fredriksværn",
+      "lat": 59,
+      "lng": 10.033333
+    },
+    {
+      "cityName": "Freste",
+      "lat": 59.333333,
+      "lng": 10.333333
+    },
+    {
+      "cityName": "From",
+      "lat": 59.15,
+      "lng": 10.266667
+    },
+    {
+      "cityName": "Fyn",
+      "lat": 59.083333,
+      "lng": 10.45
+    },
+    {
+      "cityName": "Gaaserud",
+      "lat": 59.35,
+      "lng": 9.9
+    },
+    {
+      "cityName": "Galleberg",
+      "lat": 59.633333,
+      "lng": 10.216667
+    },
+    {
+      "cityName": "Gauterød",
+      "lat": 59.277222,
+      "lng": 10.480278
+    },
+    {
+      "cityName": "Gjennestad",
+      "lat": 59.233333,
+      "lng": 10.266667
+    },
+    {
+      "cityName": "Gjerstad",
+      "lat": 59.233333,
+      "lng": 10.066667
+    },
+    {
+      "cityName": "Gjone",
+      "lat": 59.183333,
+      "lng": 9.983333
+    },
+    {
+      "cityName": "Gogstad",
+      "lat": 59.133333,
+      "lng": 10.233333
+    },
+    {
+      "cityName": "Gran",
+      "lat": 59.35,
+      "lng": 10.15
+    },
+    {
+      "cityName": "Gryte",
+      "lat": 59.266667,
+      "lng": 10.25
+    },
+    {
+      "cityName": "Guldhaug",
+      "lat": 59.5,
+      "lng": 10.25
+    },
+    {
+      "cityName": "Haga",
+      "lat": 59.433333,
+      "lng": 10.316667
+    },
+    {
+      "cityName": "Hagenes",
+      "lat": 59.2,
+      "lng": 10.1
+    },
+    {
+      "cityName": "Halle",
+      "lat": 59.016667,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Helgeroa",
+      "lat": 59,
+      "lng": 9.85
+    },
+    {
+      "cityName": "Helgerød",
+      "lat": 59.066667,
+      "lng": 10.416667
+    },
+    {
+      "cityName": "Hem",
+      "lat": 59.35,
+      "lng": 10.383333
+    },
+    {
+      "cityName": "Heom",
+      "lat": 59.166667,
+      "lng": 9.966667
+    },
+    {
+      "cityName": "Hillestad",
+      "lat": 59.516667,
+      "lng": 10.183333
+    },
+    {
+      "cityName": "Høijord",
+      "lat": 59.366667,
+      "lng": 10.116667
+    },
+    {
+      "cityName": "Holmestranda",
+      "lat": 59,
+      "lng": 9.8
+    },
+    {
+      "cityName": "Holmestrand",
+      "lat": 59.488333,
+      "lng": 10.302778
+    },
+    {
+      "cityName": "Holm",
+      "lat": 59.183333,
+      "lng": 10.016667
+    },
+    {
+      "cityName": "Holtan",
+      "lat": 59.1,
+      "lng": 10.266667
+    },
+    {
+      "cityName": "Holt",
+      "lat": 59.3,
+      "lng": 10.2
+    },
+    {
+      "cityName": "Holtung",
+      "lat": 59.433333,
+      "lng": 10.2
+    },
+    {
+      "cityName": "Horten",
+      "lat": 59.413611,
+      "lng": 10.466944
+    },
+    {
+      "cityName": "Husøy",
+      "lat": 59.238056,
+      "lng": 10.463889
+    },
+    {
+      "cityName": "Hvaal",
+      "lat": 59.383333,
+      "lng": 9.966667
+    },
+    {
+      "cityName": "Hvarnes",
+      "lat": 59.266667,
+      "lng": 9.933333
+    },
+    {
+      "cityName": "Hynne",
+      "lat": 59.333333,
+      "lng": 10.05
+    },
+    {
+      "cityName": "Jaaberg",
+      "lat": 59.1,
+      "lng": 10.166667
+    },
+    {
+      "cityName": "Jare",
+      "lat": 59.333333,
+      "lng": 10.266667
+    },
+    {
+      "cityName": "Jarlsberg",
+      "lat": 59.283333,
+      "lng": 10.35
+    },
+    {
+      "cityName": "Kenner",
+      "lat": 59.716667,
+      "lng": 10.15
+    },
+    {
+      "cityName": "Kjeldås",
+      "lat": 59.65,
+      "lng": 10.233333
+    },
+    {
+      "cityName": "Kjerringvik",
+      "lat": 59.05,
+      "lng": 10.233333
+    },
+    {
+      "cityName": "Kjose",
+      "lat": 59.116667,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Klevar",
+      "lat": 59.65,
+      "lng": 10.2
+    },
+    {
+      "cityName": "Klopp",
+      "lat": 59.333333,
+      "lng": 10.283333
+    },
+    {
+      "cityName": "Knarberg",
+      "lat": 59.210556,
+      "lng": 10.451944
+    },
+    {
+      "cityName": "Konnerudkollen",
+      "lat": 59.733333,
+      "lng": 10.116667
+    },
+    {
+      "cityName": "Kraakemo",
+      "lat": 59.416667,
+      "lng": 9.966667
+    },
+    {
+      "cityName": "Lahelle",
+      "lat": 59.133333,
+      "lng": 10.283333
+    },
+    {
+      "cityName": "Langeby",
+      "lat": 59.066667,
+      "lng": 10.266667
+    },
+    {
+      "cityName": "Larvik",
+      "lat": 59.066667,
+      "lng": 10
+    },
+    {
+      "cityName": "Lauve",
+      "lat": 59.066667,
+      "lng": 10.15
+    },
+    {
+      "cityName": "Leina",
+      "lat": 59.530833,
+      "lng": 10.378889
+    },
+    {
+      "cityName": "Li",
+      "lat": 59.416667,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Linnum",
+      "lat": 59.016667,
+      "lng": 9.966667
+    },
+    {
+      "cityName": "Löken",
+      "lat": 59.233333,
+      "lng": 10.2
+    },
+    {
+      "cityName": "Lund",
+      "lat": 59.25,
+      "lng": 10.3
+    },
+    {
+      "cityName": "Lysebø",
+      "lat": 59.15,
+      "lng": 9.966667
+    },
+    {
+      "cityName": "Melsom",
+      "lat": 59.233333,
+      "lng": 10.35
+    },
+    {
+      "cityName": "Melsomvik",
+      "lat": 59.223889,
+      "lng": 10.344722
+    },
+    {
+      "cityName": "Mo",
+      "lat": 59.15,
+      "lng": 10.183333
+    },
+    {
+      "cityName": "Nalom",
+      "lat": 58.983333,
+      "lng": 9.983333
+    },
+    {
+      "cityName": "Nauen",
+      "lat": 59.316667,
+      "lng": 10.366667
+    },
+    {
+      "cityName": "Nau",
+      "lat": 59.333333,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Nesbrygga",
+      "lat": 59.222222,
+      "lng": 10.448889
+    },
+    {
+      "cityName": "Nes",
+      "lat": 59.2,
+      "lng": 10
+    },
+    {
+      "cityName": "Nevlungen",
+      "lat": 58.966667,
+      "lng": 9.866667
+    },
+    {
+      "cityName": "Nordal",
+      "lat": 59.235,
+      "lng": 10.453611
+    },
+    {
+      "cityName": "Nord Maagerö",
+      "lat": 59.15,
+      "lng": 10.433333
+    },
+    {
+      "cityName": "Nöttero",
+      "lat": 59.233333,
+      "lng": 10.4
+    },
+    {
+      "cityName": "Nykirke",
+      "lat": 59.421944,
+      "lng": 10.380833
+    },
+    {
+      "cityName": "Odberg",
+      "lat": 59.266667,
+      "lng": 9.916667
+    },
+    {
+      "cityName": "Orevika",
+      "lat": 59.554167,
+      "lng": 10.285833
+    },
+    {
+      "cityName": "Ormelet",
+      "lat": 59.1,
+      "lng": 10.416667
+    },
+    {
+      "cityName": "Østre Halsen",
+      "lat": 59.033333,
+      "lng": 10.066667
+    },
+    {
+      "cityName": "Oterbæk",
+      "lat": 59.183333,
+      "lng": 10.45
+    },
+    {
+      "cityName": "Otterstad",
+      "lat": 59.466667,
+      "lng": 10
+    },
+    {
+      "cityName": "Raastad",
+      "lat": 59.166667,
+      "lng": 10.266667
+    },
+    {
+      "cityName": "Råel",
+      "lat": 59.264167,
+      "lng": 10.444444
+    },
+    {
+      "cityName": "Rævo",
+      "lat": 59.45,
+      "lng": 10.183333
+    },
+    {
+      "cityName": "Rimstad",
+      "lat": 59.25,
+      "lng": 9.95
+    },
+    {
+      "cityName": "Ringshaug",
+      "lat": 59.2825,
+      "lng": 10.495556
+    },
+    {
+      "cityName": "Rødbøl",
+      "lat": 59.1,
+      "lng": 10.1
+    },
+    {
+      "cityName": "Rolvsøy",
+      "lat": 59.266667,
+      "lng": 11.016667
+    },
+    {
+      "cityName": "Røsholt",
+      "lat": 59.3,
+      "lng": 9.866667
+    },
+    {
+      "cityName": "Salthopls",
+      "lat": 59.333333,
+      "lng": 10.483333
+    },
+    {
+      "cityName": "Sande i Vestfold",
+      "lat": 59.6,
+      "lng": 10.2
+    },
+    {
+      "cityName": "Sand",
+      "lat": 59.553889,
+      "lng": 10.391111
+    },
+    {
+      "cityName": "Seier",
+      "lat": 59.1,
+      "lng": 10.083333
+    },
+    {
+      "cityName": "Selvik",
+      "lat": 59.568889,
+      "lng": 10.258333
+    },
+    {
+      "cityName": "Sem",
+      "lat": 59.283333,
+      "lng": 10.333333
+    },
+    {
+      "cityName": "Sjeland",
+      "lat": 59.266667,
+      "lng": 10.166667
+    },
+    {
+      "cityName": "Skjaervik",
+      "lat": 59.552778,
+      "lng": 10.236944
+    },
+    {
+      "cityName": "Skoger",
+      "lat": 59.666667,
+      "lng": 10.233333
+    },
+    {
+      "cityName": "Skog",
+      "lat": 59.6,
+      "lng": 10.15
+    },
+    {
+      "cityName": "Skoppum",
+      "lat": 59.383333,
+      "lng": 10.416667
+    },
+    {
+      "cityName": "Smokstad",
+      "lat": 59.366667,
+      "lng": 9.933333
+    },
+    {
+      "cityName": "Solberg",
+      "lat": 59.15,
+      "lng": 10.15
+    },
+    {
+      "cityName": "Stavern",
+      "lat": 58.966667,
+      "lng": 10.083333
+    },
+    {
+      "cityName": "Stokke",
+      "lat": 59.216667,
+      "lng": 10.283333
+    },
+    {
+      "cityName": "Stokksund",
+      "lat": 59,
+      "lng": 9.816667
+    },
+    {
+      "cityName": "Stua",
+      "lat": 59.55,
+      "lng": 10.066667
+    },
+    {
+      "cityName": "Sundby",
+      "lat": 59.2,
+      "lng": 9.966667
+    },
+    {
+      "cityName": "Svelvik",
+      "lat": 59.610833,
+      "lng": 10.405833
+    },
+    {
+      "cityName": "Syrstad",
+      "lat": 59.466667,
+      "lng": 10.333333
+    },
+    {
+      "cityName": "Tenvik",
+      "lat": 59.183333,
+      "lng": 10.366667
+    },
+    {
+      "cityName": "Tjøme",
+      "lat": 59.116667,
+      "lng": 10.4
+    },
+    {
+      "cityName": "Tokenes",
+      "lat": 59.172778,
+      "lng": 10.381944
+    },
+    {
+      "cityName": "Tønsberg",
+      "lat": 59.285833,
+      "lng": 10.418056
+    },
+    {
+      "cityName": "Tørkopp",
+      "lat": 59.245278,
+      "lng": 10.393056
+    },
+    {
+      "cityName": "Torp",
+      "lat": 59.179722,
+      "lng": 10.2425
+    },
+    {
+      "cityName": "Tvedalen",
+      "lat": 59.033333,
+      "lng": 9.866667
+    },
+    {
+      "cityName": "Ula",
+      "lat": 59.016667,
+      "lng": 10.2
+    },
+    {
+      "cityName": "Værvaagen",
+      "lat": 58.983333,
+      "lng": 9.833333
+    },
+    {
+      "cityName": "Varnes",
+      "lat": 59.205278,
+      "lng": 10.337222
+    },
+    {
+      "cityName": "Ve",
+      "lat": 59.566667,
+      "lng": 10.216667
+    },
+    {
+      "cityName": "Virrik",
+      "lat": 59.116667,
+      "lng": 10.216667
+    },
+    {
+      "cityName": "Vivestad",
+      "lat": 59.416667,
+      "lng": 10.133333
+    }
+  ]
+}

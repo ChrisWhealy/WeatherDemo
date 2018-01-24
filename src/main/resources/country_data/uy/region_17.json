@@ -1,0 +1,415 @@
+{
+  "name": "Tacuarembo",
+  "cities": [
+    {
+      "cityName": "Achar",
+      "lat": -32.4166667,
+      "lng": -56.1666667
+    },
+    {
+      "cityName": "Arriera",
+      "lat": -32.0333333,
+      "lng": -54.5666667
+    },
+    {
+      "cityName": "Bañado de Rocha",
+      "lat": -31.5333333,
+      "lng": -55.8333333
+    },
+    {
+      "cityName": "Batoví",
+      "lat": -31.9166667,
+      "lng": -55.9333333
+    },
+    {
+      "cityName": "Blanquillo",
+      "lat": -32.35,
+      "lng": -55.8333333
+    },
+    {
+      "cityName": "Cañas",
+      "lat": -31.3,
+      "lng": -56.0166667
+    },
+    {
+      "cityName": "Caraguatá",
+      "lat": -32.2333333,
+      "lng": -54.9833333
+    },
+    {
+      "cityName": "Cardoso",
+      "lat": -32.6333333,
+      "lng": -56.35
+    },
+    {
+      "cityName": "Cardozo Chico",
+      "lat": -32.4166667,
+      "lng": -56.3333333
+    },
+    {
+      "cityName": "Carpintería",
+      "lat": -31.8166667,
+      "lng": -55.2166667
+    },
+    {
+      "cityName": "Cerro Batoví",
+      "lat": -31.8833333,
+      "lng": -56
+    },
+    {
+      "cityName": "Cerro Chato",
+      "lat": -32.45,
+      "lng": -56.0333333
+    },
+    {
+      "cityName": "Cerro Pastoreo",
+      "lat": -31.7,
+      "lng": -56.1
+    },
+    {
+      "cityName": "Chamberlain",
+      "lat": -32.6166667,
+      "lng": -56.4833333
+    },
+    {
+      "cityName": "Clara",
+      "lat": -32.2333333,
+      "lng": -55.7333333
+    },
+    {
+      "cityName": "Coronilla",
+      "lat": -31.9166667,
+      "lng": -54.7333333
+    },
+    {
+      "cityName": "Cuaró",
+      "lat": -31.9,
+      "lng": -55.1333333
+    },
+    {
+      "cityName": "Cuchilla del Ombú",
+      "lat": -31.8,
+      "lng": -55.7
+    },
+    {
+      "cityName": "Cuchilla de Peralta",
+      "lat": -32.4333333,
+      "lng": -56.35
+    },
+    {
+      "cityName": "Curtina",
+      "lat": -32.15,
+      "lng": -56.1166667
+    },
+    {
+      "cityName": "Echeverry",
+      "lat": -31.6833333,
+      "lng": -55.95
+    },
+    {
+      "cityName": "Godoy",
+      "lat": -31.7666667,
+      "lng": -56.0166667
+    },
+    {
+      "cityName": "Goyo Martinez",
+      "lat": -31.9,
+      "lng": -55.8833333
+    },
+    {
+      "cityName": "Heriberto",
+      "lat": -31.8166667,
+      "lng": -55.5
+    },
+    {
+      "cityName": "La Chirca",
+      "lat": -32.05,
+      "lng": -54.6333333
+    },
+    {
+      "cityName": "La Hilera",
+      "lat": -32.0833333,
+      "lng": -55.65
+    },
+    {
+      "cityName": "La Humedad",
+      "lat": -32.05,
+      "lng": -54.8666667
+    },
+    {
+      "cityName": "Lambaré",
+      "lat": -31.5166667,
+      "lng": -55.9666667
+    },
+    {
+      "cityName": "La Morcona",
+      "lat": -32.1833333,
+      "lng": -56.0666667
+    },
+    {
+      "cityName": "Larrayos",
+      "lat": -32.1666667,
+      "lng": -55.0166667
+    },
+    {
+      "cityName": "Las Arenas",
+      "lat": -32.0166667,
+      "lng": -55.0666667
+    },
+    {
+      "cityName": "Las Chircas",
+      "lat": -32.3833333,
+      "lng": -55.0666667
+    },
+    {
+      "cityName": "Las Toscas",
+      "lat": -32.15,
+      "lng": -55.05
+    },
+    {
+      "cityName": "Laura",
+      "lat": -32.15,
+      "lng": -54.8833333
+    },
+    {
+      "cityName": "Laureles",
+      "lat": -31.3666667,
+      "lng": -55.85
+    },
+    {
+      "cityName": "Lavalleja",
+      "lat": -31.8166667,
+      "lng": -55.9666667
+    },
+    {
+      "cityName": "Los Coitinhos",
+      "lat": -31.8333333,
+      "lng": -55.9833333
+    },
+    {
+      "cityName": "Los Cuadrado",
+      "lat": -32.1666667,
+      "lng": -55.95
+    },
+    {
+      "cityName": "Los Feos",
+      "lat": -32.3,
+      "lng": -55.3333333
+    },
+    {
+      "cityName": "Los Furtado",
+      "lat": -32.2666667,
+      "lng": -55.9
+    },
+    {
+      "cityName": "Los Furtados",
+      "lat": -32.25,
+      "lng": -55.75
+    },
+    {
+      "cityName": "Los Garcia",
+      "lat": -32.15,
+      "lng": -54.95
+    },
+    {
+      "cityName": "Los Gomez",
+      "lat": -32.1833333,
+      "lng": -55.0333333
+    },
+    {
+      "cityName": "Los Grozos",
+      "lat": -31.85,
+      "lng": -56
+    },
+    {
+      "cityName": "Los Novillos",
+      "lat": -31.9833333,
+      "lng": -55.6833333
+    },
+    {
+      "cityName": "Los Rosanos",
+      "lat": -31.8,
+      "lng": -56.1333333
+    },
+    {
+      "cityName": "Los Silveyra",
+      "lat": -32.2666667,
+      "lng": -54.9166667
+    },
+    {
+      "cityName": "Los Vásquez",
+      "lat": -31.8833333,
+      "lng": -55.4333333
+    },
+    {
+      "cityName": "Martinote",
+      "lat": -31.8833333,
+      "lng": -55.9666667
+    },
+    {
+      "cityName": "Minuano",
+      "lat": -32.45,
+      "lng": -55.0333333
+    },
+    {
+      "cityName": "Montevideo Chico",
+      "lat": -32.2166667,
+      "lng": -55.6
+    },
+    {
+      "cityName": "Pablado Paso de Ceferino",
+      "lat": -31.5333333,
+      "lng": -56.05
+    },
+    {
+      "cityName": "Paso de las Carretas",
+      "lat": -31.5,
+      "lng": -56.0333333
+    },
+    {
+      "cityName": "Paso de Laureles",
+      "lat": -32.5,
+      "lng": -56.0333333
+    },
+    {
+      "cityName": "Paso del Cerro",
+      "lat": -31.5166667,
+      "lng": -55.7666667
+    },
+    {
+      "cityName": "Paso del Parque",
+      "lat": -31.9,
+      "lng": -54.7833333
+    },
+    {
+      "cityName": "Paso Hondo del Arroyo Malo",
+      "lat": -32.3333333,
+      "lng": -55.8833333
+    },
+    {
+      "cityName": "Pepe Núñez",
+      "lat": -31.45,
+      "lng": -56.3833333
+    },
+    {
+      "cityName": "Peralta",
+      "lat": -32.4833333,
+      "lng": -56.35
+    },
+    {
+      "cityName": "Poblado de los Morales",
+      "lat": -32.4,
+      "lng": -55.35
+    },
+    {
+      "cityName": "Poblado del Turupí",
+      "lat": -32.1833333,
+      "lng": -55.2833333
+    },
+    {
+      "cityName": "Poblado Laureles",
+      "lat": -31.3833333,
+      "lng": -55.8666667
+    },
+    {
+      "cityName": "Poblado Rincón de Giloca",
+      "lat": -31.8333333,
+      "lng": -55.7666667
+    },
+    {
+      "cityName": "Poblado Rincón de la Aldea",
+      "lat": -31.75,
+      "lng": -56.0666667
+    },
+    {
+      "cityName": "Poblado Rincón de la Bolsa",
+      "lat": -31.8166667,
+      "lng": -55.9166667
+    },
+    {
+      "cityName": "Poblado Rincón de los Muchadas",
+      "lat": -32.2166667,
+      "lng": -56.0166667
+    },
+    {
+      "cityName": "Poblado Río Negro",
+      "lat": -32.1,
+      "lng": -54.8666667
+    },
+    {
+      "cityName": "Poblado Rivera Chico",
+      "lat": -32.0333333,
+      "lng": -55.6666667
+    },
+    {
+      "cityName": "Poblado Rolón",
+      "lat": -32.3333333,
+      "lng": -55.9666667
+    },
+    {
+      "cityName": "Poblado San Benito",
+      "lat": -32.4666667,
+      "lng": -56.1666667
+    },
+    {
+      "cityName": "Poblado San Ramón",
+      "lat": -31.9666667,
+      "lng": -55.05
+    },
+    {
+      "cityName": "Poblado Sauce de Batoví",
+      "lat": -31.9166667,
+      "lng": -56.0166667
+    },
+    {
+      "cityName": "Poblado Sause de Tranqueras",
+      "lat": -31.8333333,
+      "lng": -55.9333333
+    },
+    {
+      "cityName": "Poblado Zambullón",
+      "lat": -32.0333333,
+      "lng": -55.7833333
+    },
+    {
+      "cityName": "Pueblo de Arriba",
+      "lat": -31.75,
+      "lng": -55.4666667
+    },
+    {
+      "cityName": "Pueblo de Barro",
+      "lat": -32.05,
+      "lng": -55.3833333
+    },
+    {
+      "cityName": "Quiebra Yugos",
+      "lat": -31.6666667,
+      "lng": -56.1666667
+    },
+    {
+      "cityName": "Rincón de Yaguarí",
+      "lat": -31.8166667,
+      "lng": -55.1833333
+    },
+    {
+      "cityName": "San Fructuoso",
+      "lat": -31.7333333,
+      "lng": -55.9833333
+    },
+    {
+      "cityName": "Tambores",
+      "lat": -31.7833333,
+      "lng": -56.25
+    },
+    {
+      "cityName": "Zapará",
+      "lat": -31.6833333,
+      "lng": -56.1333333
+    },
+    {
+      "cityName": "Zapucay",
+      "lat": -31.8,
+      "lng": -55.3333333
+    }
+  ]
+}

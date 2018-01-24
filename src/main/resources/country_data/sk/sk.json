@@ -1,0 +1,59 @@
+{
+  "name": "Slovakia",
+  "iso2": "sk",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Banska Bystrica",
+      "id": 0
+    },
+    {
+      "name": "Bratislava",
+      "id": 1
+    },
+    {
+      "name": "Kosice",
+      "id": 2
+    },
+    {
+      "name": "Nitra",
+      "id": 3
+    },
+    {
+      "name": "Presov",
+      "id": 4
+    },
+    {
+      "name": "Trencin",
+      "id": 5
+    },
+    {
+      "name": "Trnava",
+      "id": 6
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 7
+    },
+    {
+      "name": "Zilina",
+      "id": 8
+    }
+  ],
+  "geoRectangle": {
+    "West": 16.8477478027,
+    "East": 22.5704460144,
+    "North": 49.6031723022,
+    "South": 47.7281036377
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Bratislava",
+    "GeoPt": [
+      48.09,
+      17.07
+    ]
+  }
+}

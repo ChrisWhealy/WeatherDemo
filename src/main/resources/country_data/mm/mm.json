@@ -1,0 +1,91 @@
+{
+  "name": "Myanmar",
+  "iso2": "mm",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Chin State",
+      "id": 0
+    },
+    {
+      "name": "Irrawaddy",
+      "id": 1
+    },
+    {
+      "name": "Kachin State",
+      "id": 2
+    },
+    {
+      "name": "Karan State",
+      "id": 3
+    },
+    {
+      "name": "Kayah State",
+      "id": 4
+    },
+    {
+      "name": "Magwe",
+      "id": 5
+    },
+    {
+      "name": "Mandalay",
+      "id": 6
+    },
+    {
+      "name": "Mon State",
+      "id": 7
+    },
+    {
+      "name": "Pegu",
+      "id": 8
+    },
+    {
+      "name": "Rakhine State",
+      "id": 9
+    },
+    {
+      "name": "Sagaing",
+      "id": 10
+    },
+    {
+      "name": "Shan State",
+      "id": 11
+    },
+    {
+      "name": "Tenasserim",
+      "id": 12
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 13
+    },
+    {
+      "name": "Unnamed region 02",
+      "id": 14
+    },
+    {
+      "name": "Unnamed region 03",
+      "id": 15
+    },
+    {
+      "name": "Yangon",
+      "id": 16
+    }
+  ],
+  "geoRectangle": {
+    "West": 92.1892700195,
+    "East": 101.176795959,
+    "North": 28.5432510376,
+    "South": 9.78458118439
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 6.5,
+    "Flg": 2,
+    "Name": "Rangoon",
+    "GeoPt": [
+      16.48,
+      96.09
+    ]
+  }
+}

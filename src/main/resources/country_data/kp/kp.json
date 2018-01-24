@@ -1,0 +1,75 @@
+{
+  "name": "Korea [North]",
+  "iso2": "kp",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Chagang-do",
+      "id": 0
+    },
+    {
+      "name": "Hamgyong-bukto",
+      "id": 1
+    },
+    {
+      "name": "Hamgyong-namdo",
+      "id": 2
+    },
+    {
+      "name": "Hwanghae-bukto",
+      "id": 3
+    },
+    {
+      "name": "Hwanghae-namdo",
+      "id": 4
+    },
+    {
+      "name": "Kaesong-si",
+      "id": 5
+    },
+    {
+      "name": "Kangwon-do",
+      "id": 6
+    },
+    {
+      "name": "Najin Sonbong-si",
+      "id": 7
+    },
+    {
+      "name": "Namp'o-si",
+      "id": 8
+    },
+    {
+      "name": "P'yongan-bukto",
+      "id": 9
+    },
+    {
+      "name": "P'yongan-namdo",
+      "id": 10
+    },
+    {
+      "name": "P'yongyang-si",
+      "id": 11
+    },
+    {
+      "name": "Yanggang-do",
+      "id": 12
+    }
+  ],
+  "geoRectangle": {
+    "West": 124.315872192,
+    "East": 130.67489624,
+    "North": 43.006061554,
+    "South": 37.673324585
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 9,
+    "Flg": 2,
+    "Name": "Pyongyang",
+    "GeoPt": [
+      39.01,
+      125.45
+    ]
+  }
+}

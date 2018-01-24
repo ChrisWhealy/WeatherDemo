@@ -1,0 +1,575 @@
+{
+  "name": "Yap",
+  "cities": [
+    {
+      "cityName": "Adevue",
+      "lat": 9.5444444,
+      "lng": 138.105
+    },
+    {
+      "cityName": "Af",
+      "lat": 9.515,
+      "lng": 138.1591667
+    },
+    {
+      "cityName": "Airech",
+      "lat": 9.5808333,
+      "lng": 138.1291667
+    },
+    {
+      "cityName": "Aleru",
+      "lat": 9.5502778,
+      "lng": 138.1094444
+    },
+    {
+      "cityName": "Amin",
+      "lat": 9.6002778,
+      "lng": 138.1652778
+    },
+    {
+      "cityName": "Amun",
+      "lat": 9.5513889,
+      "lng": 138.1847222
+    },
+    {
+      "cityName": "Anoth",
+      "lat": 9.4430556,
+      "lng": 138.0675
+    },
+    {
+      "cityName": "Arinel",
+      "lat": 9.5205556,
+      "lng": 138.0861111
+    },
+    {
+      "cityName": "Baanimaut",
+      "lat": 9.5044444,
+      "lng": 138.1141667
+    },
+    {
+      "cityName": "Balabat",
+      "lat": 9.5030556,
+      "lng": 138.1283333
+    },
+    {
+      "cityName": "Balelach",
+      "lat": 9.5166667,
+      "lng": 138.1333333
+    },
+    {
+      "cityName": "Bechiel",
+      "lat": 9.6102778,
+      "lng": 138.1738889
+    },
+    {
+      "cityName": "Beenik",
+      "lat": 9.4991667,
+      "lng": 138.12
+    },
+    {
+      "cityName": "Biloechaang",
+      "lat": 9.55,
+      "lng": 138.1266667
+    },
+    {
+      "cityName": "Binaew",
+      "lat": 9.5297222,
+      "lng": 138.0922222
+    },
+    {
+      "cityName": "Bogul",
+      "lat": 9.5147222,
+      "lng": 138.1619444
+    },
+    {
+      "cityName": "Bruggemann",
+      "lat": 9.6,
+      "lng": 138.1666667
+    },
+    {
+      "cityName": "Bulwol",
+      "lat": 9.63,
+      "lng": 138.1527778
+    },
+    {
+      "cityName": "Canaun",
+      "lat": 9.6330556,
+      "lng": 138.1633333
+    },
+    {
+      "cityName": "Chiyuru",
+      "lat": 9.5886111,
+      "lng": 138.1844444
+    },
+    {
+      "cityName": "Colonia",
+      "lat": 9.5144444,
+      "lng": 138.1291667
+    },
+    {
+      "cityName": "Daabach",
+      "lat": 9.5383333,
+      "lng": 138.1497222
+    },
+    {
+      "cityName": "Dachangar",
+      "lat": 9.5144444,
+      "lng": 138.1122222
+    },
+    {
+      "cityName": "Dariikaan",
+      "lat": 9.4913889,
+      "lng": 138.7
+    },
+    {
+      "cityName": "Datjmur",
+      "lat": 9.525,
+      "lng": 138.1686111
+    },
+    {
+      "cityName": "Dechumur",
+      "lat": 9.5166667,
+      "lng": 138.1666667
+    },
+    {
+      "cityName": "Doqomchuuy",
+      "lat": 9.5166667,
+      "lng": 138.15
+    },
+    {
+      "cityName": "Dugor",
+      "lat": 9.5325,
+      "lng": 138.1236111
+    },
+    {
+      "cityName": "Dulkaan",
+      "lat": 9.4625,
+      "lng": 138.0755556
+    },
+    {
+      "cityName": "Faal",
+      "lat": 9.6216667,
+      "lng": 138.1661111
+    },
+    {
+      "cityName": "Fanalili",
+      "lat": 9.5030556,
+      "lng": 138.0988889
+    },
+    {
+      "cityName": "Fanbatear",
+      "lat": 9.5091667,
+      "lng": 138.1283333
+    },
+    {
+      "cityName": "Fara",
+      "lat": 9.4841667,
+      "lng": 138.0758333
+    },
+    {
+      "cityName": "Faregaaw",
+      "lat": 9.4833333,
+      "lng": 138.0666667
+    },
+    {
+      "cityName": "Feeduqör",
+      "lat": 9.5,
+      "lng": 138.0666667
+    },
+    {
+      "cityName": "Gachalaaw",
+      "lat": 9.4580556,
+      "lng": 138.0697222
+    },
+    {
+      "cityName": "Gachapar",
+      "lat": 9.5397222,
+      "lng": 138.1919444
+    },
+    {
+      "cityName": "Gael'",
+      "lat": 9.45,
+      "lng": 138.05
+    },
+    {
+      "cityName": "Gaeregei",
+      "lat": 9.5555556,
+      "lng": 138.135
+    },
+    {
+      "cityName": "Gilfith",
+      "lat": 9.5666667,
+      "lng": 138.1166667
+    },
+    {
+      "cityName": "Gitaem",
+      "lat": 9.5052778,
+      "lng": 138.1108333
+    },
+    {
+      "cityName": "Gorror",
+      "lat": 9.4461111,
+      "lng": 138.0736111
+    },
+    {
+      "cityName": "Guruung",
+      "lat": 9.55,
+      "lng": 138.1
+    },
+    {
+      "cityName": "Inuf",
+      "lat": 9.4908333,
+      "lng": 138.1022222
+    },
+    {
+      "cityName": "Jin",
+      "lat": 9.5805556,
+      "lng": 138.1233333
+    },
+    {
+      "cityName": "Kadaay",
+      "lat": 9.5333333,
+      "lng": 138.1
+    },
+    {
+      "cityName": "Kanif",
+      "lat": 9.5166667,
+      "lng": 138.0833333
+    },
+    {
+      "cityName": "Laay",
+      "lat": 9.4536111,
+      "lng": 138.0741667
+    },
+    {
+      "cityName": "Lamar",
+      "lat": 9.4813889,
+      "lng": 138.0836111
+    },
+    {
+      "cityName": "Leang",
+      "lat": 9.5338889,
+      "lng": 138.1919444
+    },
+    {
+      "cityName": "Lebinao",
+      "lat": 9.5275,
+      "lng": 138.1833333
+    },
+    {
+      "cityName": "Luech",
+      "lat": 9.4861111,
+      "lng": 138.0891667
+    },
+    {
+      "cityName": "Maabuuq",
+      "lat": 9.5222222,
+      "lng": 138.1166667
+    },
+    {
+      "cityName": "Maakiy",
+      "lat": 9.5569444,
+      "lng": 138.1725
+    },
+    {
+      "cityName": "Maaloon",
+      "lat": 9.5902778,
+      "lng": 138.1672222
+    },
+    {
+      "cityName": "Maap'",
+      "lat": 9.5944444,
+      "lng": 138.1694444
+    },
+    {
+      "cityName": "Maawech",
+      "lat": 9.5258333,
+      "lng": 138.1302778
+    },
+    {
+      "cityName": "Madadjagil",
+      "lat": 9.4425,
+      "lng": 138.0711111
+    },
+    {
+      "cityName": "Madalaay'",
+      "lat": 9.5366667,
+      "lng": 138.1788889
+    },
+    {
+      "cityName": "Madargil",
+      "lat": 9.47,
+      "lng": 138.0761111
+    },
+    {
+      "cityName": "Maerur",
+      "lat": 9.5202778,
+      "lng": 138.1491667
+    },
+    {
+      "cityName": "Makal",
+      "lat": 9.5347222,
+      "lng": 138.1294444
+    },
+    {
+      "cityName": "Mal'aay",
+      "lat": 9.4611111,
+      "lng": 138.065
+    },
+    {
+      "cityName": "Malaf",
+      "lat": 9.5944444,
+      "lng": 138.1622222
+    },
+    {
+      "cityName": "Malanaj",
+      "lat": 9.5619444,
+      "lng": 138.1325
+    },
+    {
+      "cityName": "Malowai",
+      "lat": 9.5905556,
+      "lng": 138.1741667
+    },
+    {
+      "cityName": "Marugrug",
+      "lat": 9.4472222,
+      "lng": 138.0638889
+    },
+    {
+      "cityName": "Maseesin",
+      "lat": 9.4630556,
+      "lng": 138.0641667
+    },
+    {
+      "cityName": "Meay",
+      "lat": 9.5566667,
+      "lng": 138.1919444
+    },
+    {
+      "cityName": "Mechol",
+      "lat": 9.6175,
+      "lng": 138.1572222
+    },
+    {
+      "cityName": "Micheew",
+      "lat": 9.5802778,
+      "lng": 138.1641667
+    },
+    {
+      "cityName": "Mineef",
+      "lat": 9.5380556,
+      "lng": 138.1072222
+    },
+    {
+      "cityName": "Mongal",
+      "lat": 9.6119444,
+      "lng": 138.1672222
+    },
+    {
+      "cityName": "Mulro'",
+      "lat": 9.5138889,
+      "lng": 138.1183333
+    },
+    {
+      "cityName": "Muyub",
+      "lat": 9.5552778,
+      "lng": 138.1894444
+    },
+    {
+      "cityName": "N'eef",
+      "lat": 9.4733333,
+      "lng": 138.0708333
+    },
+    {
+      "cityName": "Neel",
+      "lat": 9.4766667,
+      "lng": 138.0736111
+    },
+    {
+      "cityName": "Ngariy",
+      "lat": 9.45,
+      "lng": 138.0666667
+    },
+    {
+      "cityName": "Ngof",
+      "lat": 9.4752778,
+      "lng": 138.0769444
+    },
+    {
+      "cityName": "Ngolog",
+      "lat": 9.5061111,
+      "lng": 138.1191667
+    },
+    {
+      "cityName": "Nimaar",
+      "lat": 9.5172222,
+      "lng": 138.1247222
+    },
+    {
+      "cityName": "Nolak",
+      "lat": 9.5113889,
+      "lng": 138.1202778
+    },
+    {
+      "cityName": "Numdul",
+      "lat": 9.5877778,
+      "lng": 138.1758333
+    },
+    {
+      "cityName": "Numenun",
+      "lat": 9.5455556,
+      "lng": 138.1102778
+    },
+    {
+      "cityName": "Orila",
+      "lat": 9.5825,
+      "lng": 138.1555556
+    },
+    {
+      "cityName": "Palaaw",
+      "lat": 9.5666667,
+      "lng": 138.15
+    },
+    {
+      "cityName": "Riikeen",
+      "lat": 9.5602778,
+      "lng": 138.1969444
+    },
+    {
+      "cityName": "Rij",
+      "lat": 9.6286111,
+      "lng": 138.1655556
+    },
+    {
+      "cityName": "Rimiit",
+      "lat": 9.5827778,
+      "lng": 138.1702778
+    },
+    {
+      "cityName": "Rudnu",
+      "lat": 9.5844444,
+      "lng": 138.1341667
+    },
+    {
+      "cityName": "Ruechayam",
+      "lat": 9.5866667,
+      "lng": 138.1333333
+    },
+    {
+      "cityName": "Rumo",
+      "lat": 9.5430556,
+      "lng": 138.1325
+    },
+    {
+      "cityName": "Ru'",
+      "lat": 9.5427778,
+      "lng": 138.1769444
+    },
+    {
+      "cityName": "Saveth",
+      "lat": 9.4533333,
+      "lng": 138.0652778
+    },
+    {
+      "cityName": "Taafniith",
+      "lat": 9.4886111,
+      "lng": 138.0713889
+    },
+    {
+      "cityName": "Taalguw",
+      "lat": 9.5213889,
+      "lng": 138.1066667
+    },
+    {
+      "cityName": "Tabnifiy",
+      "lat": 9.4666667,
+      "lng": 138.0833333
+    },
+    {
+      "cityName": "Tafgif",
+      "lat": 9.5425,
+      "lng": 138.1216667
+    },
+    {
+      "cityName": "Tagaam",
+      "lat": 9.6269444,
+      "lng": 138.1566667
+    },
+    {
+      "cityName": "Tagagin",
+      "lat": 9.5,
+      "lng": 138.0875
+    },
+    {
+      "cityName": "Talangith",
+      "lat": 9.5886111,
+      "lng": 138.1619444
+    },
+    {
+      "cityName": "Tar' aw",
+      "lat": 9.4769444,
+      "lng": 138.0722222
+    },
+    {
+      "cityName": "Tawoowaay",
+      "lat": 9.4461111,
+      "lng": 138.0638889
+    },
+    {
+      "cityName": "Teab",
+      "lat": 9.52,
+      "lng": 138.1533333
+    },
+    {
+      "cityName": "T'eanfaar",
+      "lat": 9.5363889,
+      "lng": 138.1863889
+    },
+    {
+      "cityName": "Thol",
+      "lat": 9.5333333,
+      "lng": 138.1725
+    },
+    {
+      "cityName": "Toeruw",
+      "lat": 9.6077778,
+      "lng": 138.1825
+    },
+    {
+      "cityName": "Uanajan",
+      "lat": 9.5472222,
+      "lng": 138.1969444
+    },
+    {
+      "cityName": "Ucloj",
+      "lat": 9.5830556,
+      "lng": 138.1797222
+    },
+    {
+      "cityName": "Uenfra",
+      "lat": 9.6183333,
+      "lng": 138.1652778
+    },
+    {
+      "cityName": "Ugem",
+      "lat": 9.4508333,
+      "lng": 138.0691667
+    },
+    {
+      "cityName": "Ulu",
+      "lat": 9.5733333,
+      "lng": 138.1358333
+    },
+    {
+      "cityName": "Wachngal",
+      "lat": 9.595,
+      "lng": 138.1852778
+    },
+    {
+      "cityName": "Yabach",
+      "lat": 9.4963889,
+      "lng": 138.0741667
+    }
+  ]
+}

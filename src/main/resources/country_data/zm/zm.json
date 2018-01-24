@@ -1,0 +1,59 @@
+{
+  "name": "Zambia",
+  "iso2": "zm",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Central",
+      "id": 0
+    },
+    {
+      "name": "Copperbelt",
+      "id": 1
+    },
+    {
+      "name": "Eastern",
+      "id": 2
+    },
+    {
+      "name": "Luapula",
+      "id": 3
+    },
+    {
+      "name": "Lusaka",
+      "id": 4
+    },
+    {
+      "name": "North-Western",
+      "id": 5
+    },
+    {
+      "name": "Northern",
+      "id": 6
+    },
+    {
+      "name": "Southern",
+      "id": 7
+    },
+    {
+      "name": "Western",
+      "id": 8
+    }
+  ],
+  "geoRectangle": {
+    "West": 21.9993686676,
+    "East": 33.7057113647,
+    "North": -8.22435855865,
+    "South": -18.0794754028
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Lusaka",
+    "GeoPt": [
+      -15.25,
+      28.17
+    ]
+  }
+}

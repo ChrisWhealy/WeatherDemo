@@ -1,0 +1,51 @@
+{
+  "name": "Andorra",
+  "iso2": "ad",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Andorra la Vella",
+      "id": 0
+    },
+    {
+      "name": "Canillo",
+      "id": 1
+    },
+    {
+      "name": "Encamp",
+      "id": 2
+    },
+    {
+      "name": "Escaldes-Engordany",
+      "id": 3
+    },
+    {
+      "name": "La Massana",
+      "id": 4
+    },
+    {
+      "name": "Ordino",
+      "id": 5
+    },
+    {
+      "name": "Sant Julia de Loria",
+      "id": 6
+    }
+  ],
+  "geoRectangle": {
+    "West": 1.42211079597,
+    "East": 1.78038918972,
+    "North": 42.6586990356,
+    "South": 42.4350738525
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Andorra la Vella",
+    "GeoPt": [
+      42.3,
+      1.31
+    ]
+  }
+}

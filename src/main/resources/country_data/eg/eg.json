@@ -1,0 +1,127 @@
+{
+  "name": "Egypt",
+  "iso2": "eg",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Ad Daqahliyah",
+      "id": 0
+    },
+    {
+      "name": "Al Bahr al Ahmar",
+      "id": 1
+    },
+    {
+      "name": "Al Buhayrah",
+      "id": 2
+    },
+    {
+      "name": "Al Fayyum",
+      "id": 3
+    },
+    {
+      "name": "Al Gharbiyah",
+      "id": 4
+    },
+    {
+      "name": "Al Iskandariyah",
+      "id": 5
+    },
+    {
+      "name": "Al Isma'iliyah",
+      "id": 6
+    },
+    {
+      "name": "Al Jizah",
+      "id": 7
+    },
+    {
+      "name": "Al Minufiyah",
+      "id": 8
+    },
+    {
+      "name": "Al Minya",
+      "id": 9
+    },
+    {
+      "name": "Al Qahirah",
+      "id": 10
+    },
+    {
+      "name": "Al Qalyubiyah",
+      "id": 11
+    },
+    {
+      "name": "Al Wadi al Jadid",
+      "id": 12
+    },
+    {
+      "name": "As Suways",
+      "id": 13
+    },
+    {
+      "name": "Ash Sharqiyah",
+      "id": 14
+    },
+    {
+      "name": "Aswan",
+      "id": 15
+    },
+    {
+      "name": "Asyut",
+      "id": 16
+    },
+    {
+      "name": "Bani Suwayf",
+      "id": 17
+    },
+    {
+      "name": "Bur Sa'id",
+      "id": 18
+    },
+    {
+      "name": "Dumyat",
+      "id": 19
+    },
+    {
+      "name": "Janub Sina'",
+      "id": 20
+    },
+    {
+      "name": "Kafr ash Shaykh",
+      "id": 21
+    },
+    {
+      "name": "Matruh",
+      "id": 22
+    },
+    {
+      "name": "Qina",
+      "id": 23
+    },
+    {
+      "name": "Shamal Sina'",
+      "id": 24
+    },
+    {
+      "name": "Suhaj",
+      "id": 25
+    }
+  ],
+  "geoRectangle": {
+    "West": 24.6981086731,
+    "East": 35.7948684692,
+    "North": 31.6673374176,
+    "South": 21.7253856659
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Cairo",
+    "GeoPt": [
+      30.03,
+      31.15
+    ]
+  }
+}

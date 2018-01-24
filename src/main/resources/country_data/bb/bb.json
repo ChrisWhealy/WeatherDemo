@@ -1,0 +1,67 @@
+{
+  "name": "Barbados",
+  "iso2": "bb",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Christ Church",
+      "id": 0
+    },
+    {
+      "name": "Saint Andrew",
+      "id": 1
+    },
+    {
+      "name": "Saint George",
+      "id": 2
+    },
+    {
+      "name": "Saint James",
+      "id": 3
+    },
+    {
+      "name": "Saint John",
+      "id": 4
+    },
+    {
+      "name": "Saint Joseph",
+      "id": 5
+    },
+    {
+      "name": "Saint Lucy",
+      "id": 6
+    },
+    {
+      "name": "Saint Michael",
+      "id": 7
+    },
+    {
+      "name": "Saint Peter",
+      "id": 8
+    },
+    {
+      "name": "Saint Philip",
+      "id": 9
+    },
+    {
+      "name": "Saint Thomas",
+      "id": 10
+    }
+  ],
+  "geoRectangle": {
+    "West": -59.6489295959,
+    "East": -59.4203720093,
+    "North": 13.32725811,
+    "South": 13.0398426056
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -4,
+    "Flg": 2,
+    "Name": "Bridgetown",
+    "GeoPt": [
+      13.06,
+      -59.37
+    ]
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "name": "Perlis",
+  "cities": [
+    {
+      "cityName": "Abi",
+      "lat": 6.4833333,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Abi Lubok Gajah",
+      "lat": 6.5166667,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Abi Padang Melangit",
+      "lat": 6.5,
+      "lng": 100.2166667
+    },
+    {
+      "cityName": "Alor Lanchang",
+      "lat": 6.45,
+      "lng": 100.2333333
+    },
+    {
+      "cityName": "Alor Sena",
+      "lat": 6.5,
+      "lng": 100.2333333
+    },
+    {
+      "cityName": "Alor Tampang",
+      "lat": 6.5166667,
+      "lng": 100.2333333
+    },
+    {
+      "cityName": "Arau",
+      "lat": 6.4333333,
+      "lng": 100.2666667
+    },
+    {
+      "cityName": "Balek Bukit",
+      "lat": 6.4833333,
+      "lng": 100.2666667
+    },
+    {
+      "cityName": "Banir Tembus",
+      "lat": 6.3166667,
+      "lng": 100.1666667
+    },
+    {
+      "cityName": "Bunga Emas",
+      "lat": 6.3333333,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Hutan Buloh",
+      "lat": 6.4666667,
+      "lng": 100.25
+    },
+    {
+      "cityName": "Kaki Bukit",
+      "lat": 6.65,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Kampong Alor Kedis",
+      "lat": 6.4166667,
+      "lng": 100.2333333
+    },
+    {
+      "cityName": "Kampong Alor Terang",
+      "lat": 6.4166667,
+      "lng": 100.1666667
+    },
+    {
+      "cityName": "Kampong Baiek Guar",
+      "lat": 6.4833333,
+      "lng": 100.2833333
+    },
+    {
+      "cityName": "Kampong Baroh Temak",
+      "lat": 6.4333333,
+      "lng": 100.1833333
+    },
+    {
+      "cityName": "Kampong Behor",
+      "lat": 6.4166667,
+      "lng": 100.25
+    },
+    {
+      "cityName": "Kampong Behor Latiff",
+      "lat": 6.4,
+      "lng": 100.1833333
+    },
+    {
+      "cityName": "Kampong Beluka Halbah",
+      "lat": 6.4166667,
+      "lng": 100.2833333
+    },
+    {
+      "cityName": "Kampong Blanga Pudak",
+      "lat": 6.4333333,
+      "lng": 100.1666667
+    },
+    {
+      "cityName": "Kampong Blukar",
+      "lat": 6.5333333,
+      "lng": 100.2166667
+    },
+    {
+      "cityName": "Kampong Bongor Kudong",
+      "lat": 6.3333333,
+      "lng": 100.2166667
+    },
+    {
+      "cityName": "Kampong Genting Kabu",
+      "lat": 6.5333333,
+      "lng": 100.1666667
+    },
+    {
+      "cityName": "Kampong Gur Guring",
+      "lat": 6.4333333,
+      "lng": 100.2833333
+    },
+    {
+      "cityName": "Kampong Jelempah",
+      "lat": 6.4,
+      "lng": 100.2833333
+    },
+    {
+      "cityName": "Kampong Kellan",
+      "lat": 6.6666667,
+      "lng": 100.1833333
+    },
+    {
+      "cityName": "Kampong Kerisek",
+      "lat": 6.4666667,
+      "lng": 100.2666667
+    },
+    {
+      "cityName": "Kampong Kuala Perlis",
+      "lat": 6.4,
+      "lng": 100.1333333
+    },
+    {
+      "cityName": "Kampong Kuan Pelek",
+      "lat": 6.45,
+      "lng": 100.2666667
+    },
+    {
+      "cityName": "Kampong Kubang Badak",
+      "lat": 6.4,
+      "lng": 100.2666667
+    },
+    {
+      "cityName": "Kampong Kubang Beruang",
+      "lat": 6.4,
+      "lng": 100.3
+    },
+    {
+      "cityName": "Kampong Kubang Tiga",
+      "lat": 6.5666667,
+      "lng": 100.2833333
+    },
+    {
+      "cityName": "Kampong Langgar",
+      "lat": 6.4,
+      "lng": 100.1666667
+    },
+    {
+      "cityName": "Kampong Limau Manis",
+      "lat": 6.3,
+      "lng": 100.1666667
+    },
+    {
+      "cityName": "Kampong Mata Ayer",
+      "lat": 6.4833333,
+      "lng": 100.25
+    },
+    {
+      "cityName": "Kampong Padang Patani",
+      "lat": 6.4333333,
+      "lng": 100.2333333
+    },
+    {
+      "cityName": "Kampong Prok Buah",
+      "lat": 6.5333333,
+      "lng": 100.3666667
+    },
+    {
+      "cityName": "Kampong Ramera",
+      "lat": 6.5,
+      "lng": 100.3666667
+    },
+    {
+      "cityName": "Kampong Seriap",
+      "lat": 6.4166667,
+      "lng": 100.1833333
+    },
+    {
+      "cityName": "Kampong Tendut",
+      "lat": 6.4666667,
+      "lng": 100.2833333
+    },
+    {
+      "cityName": "Kampong Titi Tinggi Hilin",
+      "lat": 6.6333333,
+      "lng": 100.25
+    },
+    {
+      "cityName": "Kampong Tok Kaya Tua",
+      "lat": 6.3833333,
+      "lng": 100.1666667
+    },
+    {
+      "cityName": "Kampong Tunjang",
+      "lat": 6.5166667,
+      "lng": 100.25
+    },
+    {
+      "cityName": "Kampong Wai",
+      "lat": 6.4333333,
+      "lng": 100.15
+    },
+    {
+      "cityName": "Kampong Wang Mu",
+      "lat": 6.6,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Kampung Baharu",
+      "lat": 6.45,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Kampung Banat Bawah",
+      "lat": 6.4166667,
+      "lng": 100.2666667
+    },
+    {
+      "cityName": "Kampung Baroh",
+      "lat": 6.5,
+      "lng": 100.25
+    },
+    {
+      "cityName": "Kampung Batu Tiga",
+      "lat": 6.5166667,
+      "lng": 100.3166667
+    },
+    {
+      "cityName": "Kampung Behor Chichar",
+      "lat": 6.4666667,
+      "lng": 100.2333333
+    },
+    {
+      "cityName": "Kampung Behor Gandin",
+      "lat": 6.4166667,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Kampung Behor Inai",
+      "lat": 6.4833333,
+      "lng": 100.2166667
+    },
+    {
+      "cityName": "Kampung Behor Masjid",
+      "lat": 6.3833333,
+      "lng": 100.1833333
+    },
+    {
+      "cityName": "Kampung Behor Mempelam",
+      "lat": 6.4,
+      "lng": 100.25
+    },
+    {
+      "cityName": "Kampung Behor Pisang",
+      "lat": 6.4333333,
+      "lng": 100.25
+    },
+    {
+      "cityName": "Kampung Belukar Inum",
+      "lat": 6.55,
+      "lng": 100.2833333
+    },
+    {
+      "cityName": "Kampung Beseri",
+      "lat": 6.55,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Kampung Binjai",
+      "lat": 6.3833333,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Kampung Bintong",
+      "lat": 6.45,
+      "lng": 100.1833333
+    },
+    {
+      "cityName": "Kampung Bukit",
+      "lat": 6.4833333,
+      "lng": 100.3166667
+    },
+    {
+      "cityName": "Kampung Chuping Balek Bukit",
+      "lat": 6.5,
+      "lng": 100.2666667
+    },
+    {
+      "cityName": "Kampung Guar Ipoh",
+      "lat": 6.4166667,
+      "lng": 100.3
+    },
+    {
+      "cityName": "Kampung Guar Musang",
+      "lat": 6.5166667,
+      "lng": 100.2833333
+    },
+    {
+      "cityName": "Kampung Guar Paya",
+      "lat": 6.4333333,
+      "lng": 100.3
+    },
+    {
+      "cityName": "Kampung Guar Syed Alwi",
+      "lat": 6.4166667,
+      "lng": 100.2166667
+    },
+    {
+      "cityName": "Kampung Guar Ujang Batu",
+      "lat": 6.4,
+      "lng": 100.2166667
+    },
+    {
+      "cityName": "Kampung Hujong Bukit",
+      "lat": 6.4666667,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Kampung Jelutong",
+      "lat": 6.5,
+      "lng": 100.2833333
+    },
+    {
+      "cityName": "Kampung Kepala Batas Pauh",
+      "lat": 6.3,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Kampung Kerangi",
+      "lat": 6.45,
+      "lng": 100.2166667
+    },
+    {
+      "cityName": "Kampung Keriang Dan",
+      "lat": 6.45,
+      "lng": 100.25
+    },
+    {
+      "cityName": "Kampung Kok Kelang",
+      "lat": 6.4833333,
+      "lng": 100.3
+    },
+    {
+      "cityName": "Kampung Kok Mak",
+      "lat": 6.65,
+      "lng": 100.2833333
+    },
+    {
+      "cityName": "Kampung Kuala Tunggang",
+      "lat": 6.45,
+      "lng": 100.2833333
+    },
+    {
+      "cityName": "Kampung Kurong Batang",
+      "lat": 6.4833333,
+      "lng": 100.1833333
+    },
+    {
+      "cityName": "Kampung Masjid",
+      "lat": 6.4833333,
+      "lng": 100.2333333
+    },
+    {
+      "cityName": "Kampung Menkuang Layar",
+      "lat": 6.3666667,
+      "lng": 100.2166667
+    },
+    {
+      "cityName": "Kampung Nisam",
+      "lat": 6.4666667,
+      "lng": 100.1833333
+    },
+    {
+      "cityName": "Kampung Padang Behor",
+      "lat": 6.4333333,
+      "lng": 100.2166667
+    },
+    {
+      "cityName": "Kampung Padang Besar",
+      "lat": 6.3833333,
+      "lng": 100.15
+    },
+    {
+      "cityName": "Kampung Padang Laut",
+      "lat": 6.4666667,
+      "lng": 100.3
+    },
+    {
+      "cityName": "Kampung Padang Siding",
+      "lat": 6.45,
+      "lng": 100.3
+    },
+    {
+      "cityName": "Kampung Padang Tok Kuning",
+      "lat": 6.4166667,
+      "lng": 100.3166667
+    },
+    {
+      "cityName": "Kampung Panggas",
+      "lat": 6.5166667,
+      "lng": 100.2666667
+    },
+    {
+      "cityName": "Kampung Pauh",
+      "lat": 6.45,
+      "lng": 100.3333333
+    },
+    {
+      "cityName": "Kampung Paya Kelubi",
+      "lat": 6.5333333,
+      "lng": 100.25
+    },
+    {
+      "cityName": "Kampung Pelarit",
+      "lat": 6.6166667,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Kampung Pengapit",
+      "lat": 6.3666667,
+      "lng": 100.2333333
+    },
+    {
+      "cityName": "Kampung Permatang Pauh",
+      "lat": 6.3666667,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Kampung Pokok Sena",
+      "lat": 6.6333333,
+      "lng": 100.2833333
+    },
+    {
+      "cityName": "Kampung Pulau",
+      "lat": 6.35,
+      "lng": 100.15
+    },
+    {
+      "cityName": "Kampung Rambai",
+      "lat": 6.4666667,
+      "lng": 100.3166667
+    },
+    {
+      "cityName": "Kampung Sentang",
+      "lat": 6.4,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Kampung Sungai Baharu",
+      "lat": 6.3833333,
+      "lng": 100.2166667
+    },
+    {
+      "cityName": "Kampung Sungai Berembang",
+      "lat": 6.3666667,
+      "lng": 100.15
+    },
+    {
+      "cityName": "Kampung Tambun",
+      "lat": 6.3833333,
+      "lng": 100.2333333
+    },
+    {
+      "cityName": "Kampung Tasoh",
+      "lat": 6.5833333,
+      "lng": 100.2333333
+    },
+    {
+      "cityName": "Kampung Tebok",
+      "lat": 6.35,
+      "lng": 100.2166667
+    },
+    {
+      "cityName": "Kampung Telok",
+      "lat": 6.4,
+      "lng": 100.15
+    },
+    {
+      "cityName": "Kampung Titi Tampang",
+      "lat": 6.55,
+      "lng": 100.2666667
+    },
+    {
+      "cityName": "Kampung Titi Tinggi Ulu",
+      "lat": 6.6333333,
+      "lng": 100.2666667
+    },
+    {
+      "cityName": "Kampung Tok Pulau",
+      "lat": 6.3166667,
+      "lng": 100.2166667
+    },
+    {
+      "cityName": "Kampung Tok Wang Raja",
+      "lat": 6.4333333,
+      "lng": 100.1333333
+    },
+    {
+      "cityName": "Kampung Tunjang",
+      "lat": 6.5333333,
+      "lng": 100.2333333
+    },
+    {
+      "cityName": "Kampung Wong Mu",
+      "lat": 6.6166667,
+      "lng": 100.2166667
+    },
+    {
+      "cityName": "Kangar",
+      "lat": 6.4333333,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Nasi Sa Bungas",
+      "lat": 6.4166667,
+      "lng": 100.15
+    },
+    {
+      "cityName": "Padang Benta",
+      "lat": 6.35,
+      "lng": 100.1833333
+    },
+    {
+      "cityName": "Padang Besar",
+      "lat": 6.6666667,
+      "lng": 100.3166667
+    },
+    {
+      "cityName": "Padang Keria",
+      "lat": 6.2833333,
+      "lng": 100.1833333
+    },
+    {
+      "cityName": "Permatang Bongor",
+      "lat": 6.3166667,
+      "lng": 100.2
+    },
+    {
+      "cityName": "Pulau Ketam",
+      "lat": 6.4,
+      "lng": 100.1166667
+    },
+    {
+      "cityName": "Simpang Ampat",
+      "lat": 6.3333333,
+      "lng": 100.1833333
+    },
+    {
+      "cityName": "Sungai Baharu",
+      "lat": 6.3333333,
+      "lng": 100.1666667
+    }
+  ]
+}

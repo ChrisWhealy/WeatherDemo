@@ -1,0 +1,59 @@
+{
+  "name": "Haiti",
+  "iso2": "ht",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Artibonite",
+      "id": 0
+    },
+    {
+      "name": "Centre",
+      "id": 1
+    },
+    {
+      "name": "Nord",
+      "id": 2
+    },
+    {
+      "name": "Nord-Est",
+      "id": 3
+    },
+    {
+      "name": "Nord-Ouest",
+      "id": 4
+    },
+    {
+      "name": "Ouest",
+      "id": 5
+    },
+    {
+      "name": "Sud",
+      "id": 6
+    },
+    {
+      "name": "Sud-Est",
+      "id": 7
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 8
+    }
+  ],
+  "geoRectangle": {
+    "West": -74.4785919189,
+    "East": -71.6133499146,
+    "North": 20.0878219604,
+    "South": 18.0210285187
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": -5,
+    "Flg": 2,
+    "Name": "Port-au-Prince",
+    "GeoPt": [
+      18.32,
+      -72.2
+    ]
+  }
+}

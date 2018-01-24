@@ -1,0 +1,810 @@
+{
+  "name": "Clarendon",
+  "cities": [
+    {
+      "cityName": "Alexandria",
+      "lat": 18.0666667,
+      "lng": -77.2833333
+    },
+    {
+      "cityName": "Alley",
+      "lat": 17.8,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Alston",
+      "lat": 18.1833333,
+      "lng": -77.4333333
+    },
+    {
+      "cityName": "Alva",
+      "lat": 18.3,
+      "lng": -77.3166667
+    },
+    {
+      "cityName": "Arthurs Seat",
+      "lat": 18.1333333,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Ashlers",
+      "lat": 18.0666667,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Ashley Hall",
+      "lat": 17.85,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Bachams Cottage",
+      "lat": 17.8166667,
+      "lng": -77.3166667
+    },
+    {
+      "cityName": "Bailleston",
+      "lat": 18.1666667,
+      "lng": -77.4333333
+    },
+    {
+      "cityName": "Balcarres",
+      "lat": 18.1166667,
+      "lng": -77.4333333
+    },
+    {
+      "cityName": "Baldwins Cottage",
+      "lat": 17.7666667,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Banks",
+      "lat": 17.85,
+      "lng": -77.3166667
+    },
+    {
+      "cityName": "Beckford Kraal",
+      "lat": 18.0833333,
+      "lng": -77.3
+    },
+    {
+      "cityName": "Beckfords",
+      "lat": 17.9,
+      "lng": -77.2833333
+    },
+    {
+      "cityName": "Belle Plain",
+      "lat": 17.9666667,
+      "lng": -77.3166667
+    },
+    {
+      "cityName": "Belmont",
+      "lat": 18.0333333,
+      "lng": -77.35
+    },
+    {
+      "cityName": "Bog",
+      "lat": 17.8166667,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Bog Plain",
+      "lat": 17.8833333,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Boldness",
+      "lat": 18.0666667,
+      "lng": -77.35
+    },
+    {
+      "cityName": "Borobridge",
+      "lat": 18.2,
+      "lng": -77.4166667
+    },
+    {
+      "cityName": "Bowen Crawle",
+      "lat": 18.05,
+      "lng": -77.35
+    },
+    {
+      "cityName": "Bowens",
+      "lat": 17.9,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Brandon Hill",
+      "lat": 18.15,
+      "lng": -77.25
+    },
+    {
+      "cityName": "Brazalitta",
+      "lat": 17.8333333,
+      "lng": -77.1666667
+    },
+    {
+      "cityName": "Breadnut Bottom",
+      "lat": 17.95,
+      "lng": -77.1833333
+    },
+    {
+      "cityName": "British",
+      "lat": 18.1166667,
+      "lng": -77.2
+    },
+    {
+      "cityName": "Brixton Hill",
+      "lat": 18.0166667,
+      "lng": -77.3166667
+    },
+    {
+      "cityName": "Brokenbank",
+      "lat": 17.8166667,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Bryans",
+      "lat": 17.9666667,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Bryans Hill",
+      "lat": 18.1333333,
+      "lng": -77.3
+    },
+    {
+      "cityName": "Budley Park",
+      "lat": 17.8666667,
+      "lng": -77.3166667
+    },
+    {
+      "cityName": "Bullards",
+      "lat": 17.9333333,
+      "lng": -77.2833333
+    },
+    {
+      "cityName": "Bushy Park",
+      "lat": 17.9833333,
+      "lng": -77.25
+    },
+    {
+      "cityName": "Carlisle",
+      "lat": 17.7666667,
+      "lng": -77.2833333
+    },
+    {
+      "cityName": "Cartwheel",
+      "lat": 17.95,
+      "lng": -77.35
+    },
+    {
+      "cityName": "Chandlers Pen",
+      "lat": 17.9833333,
+      "lng": -77.2
+    },
+    {
+      "cityName": "Chapelton",
+      "lat": 18.0833333,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Chateau",
+      "lat": 17.9666667,
+      "lng": -77.2166667
+    },
+    {
+      "cityName": "Chesterfield",
+      "lat": 17.8,
+      "lng": -77.25
+    },
+    {
+      "cityName": "Claredon Park",
+      "lat": 17.9833333,
+      "lng": -77.3833333
+    },
+    {
+      "cityName": "Coates",
+      "lat": 17.95,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Cockpit",
+      "lat": 17.8833333,
+      "lng": -77.15
+    },
+    {
+      "cityName": "Colonels Ridge",
+      "lat": 18.1333333,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Comfort Village",
+      "lat": 17.95,
+      "lng": -77.3333333
+    },
+    {
+      "cityName": "Corner Shop",
+      "lat": 18.1833333,
+      "lng": -77.35
+    },
+    {
+      "cityName": "Corn Hill",
+      "lat": 18.1166667,
+      "lng": -77.3833333
+    },
+    {
+      "cityName": "Crooked River",
+      "lat": 18.1333333,
+      "lng": -77.3166667
+    },
+    {
+      "cityName": "Cross Pen",
+      "lat": 17.95,
+      "lng": -77.2
+    },
+    {
+      "cityName": "Curatoe Hill",
+      "lat": 17.95,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Danks",
+      "lat": 18.1,
+      "lng": -77.2833333
+    },
+    {
+      "cityName": "Dawkins Smokey Hole",
+      "lat": 18.0333333,
+      "lng": -77.3
+    },
+    {
+      "cityName": "Decoy",
+      "lat": 17.95,
+      "lng": -77.3666667
+    },
+    {
+      "cityName": "Dee Side",
+      "lat": 17.8833333,
+      "lng": -77.35
+    },
+    {
+      "cityName": "Denhigh Plain",
+      "lat": 17.9666667,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Diamond",
+      "lat": 18.0833333,
+      "lng": -77.2
+    },
+    {
+      "cityName": "Dry River",
+      "lat": 17.8833333,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Ebony Park",
+      "lat": 17.9166667,
+      "lng": -77.35
+    },
+    {
+      "cityName": "Effort",
+      "lat": 18.1333333,
+      "lng": -77.3833333
+    },
+    {
+      "cityName": "Endeavour",
+      "lat": 18.0833333,
+      "lng": -77.3833333
+    },
+    {
+      "cityName": "Exeter",
+      "lat": 17.8333333,
+      "lng": -77.3
+    },
+    {
+      "cityName": "Falkeners",
+      "lat": 17.95,
+      "lng": -77.2833333
+    },
+    {
+      "cityName": "Farenough",
+      "lat": 18.1833333,
+      "lng": -77.2166667
+    },
+    {
+      "cityName": "Folly",
+      "lat": 18.0166667,
+      "lng": -77.3666667
+    },
+    {
+      "cityName": "Fort George",
+      "lat": 18.2,
+      "lng": -77.2166667
+    },
+    {
+      "cityName": "Four Paths",
+      "lat": 17.9666667,
+      "lng": -77.3
+    },
+    {
+      "cityName": "Frankfield",
+      "lat": 18.15,
+      "lng": -77.3666667
+    },
+    {
+      "cityName": "Free People",
+      "lat": 17.9333333,
+      "lng": -77.2166667
+    },
+    {
+      "cityName": "Freetown",
+      "lat": 17.9,
+      "lng": -77.15
+    },
+    {
+      "cityName": "Friendship",
+      "lat": 18.1166667,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Glenroy",
+      "lat": 17.9666667,
+      "lng": -77.2833333
+    },
+    {
+      "cityName": "Good Endeavour",
+      "lat": 18.1,
+      "lng": -77.35
+    },
+    {
+      "cityName": "Gordons Store",
+      "lat": 17.9666667,
+      "lng": -77.1833333
+    },
+    {
+      "cityName": "Gowrie",
+      "lat": 17.8333333,
+      "lng": -77.2833333
+    },
+    {
+      "cityName": "Grantham",
+      "lat": 18.15,
+      "lng": -77.4
+    },
+    {
+      "cityName": "Greenock",
+      "lat": 18.2,
+      "lng": -77.3666667
+    },
+    {
+      "cityName": "Gunters Hill",
+      "lat": 17.8833333,
+      "lng": -77.3333333
+    },
+    {
+      "cityName": "Halse Hall",
+      "lat": 17.9166667,
+      "lng": -77.25
+    },
+    {
+      "cityName": "Harmony Hall",
+      "lat": 17.7666667,
+      "lng": -77.2166667
+    },
+    {
+      "cityName": "Harmony Hill",
+      "lat": 17.7833333,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Hatchfield",
+      "lat": 17.9833333,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Hayes",
+      "lat": 17.8666667,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Hazard",
+      "lat": 17.95,
+      "lng": -77.2166667
+    },
+    {
+      "cityName": "Healthfield",
+      "lat": 17.8166667,
+      "lng": -77.2833333
+    },
+    {
+      "cityName": "Heartherfield",
+      "lat": 18.0333333,
+      "lng": -77.3333333
+    },
+    {
+      "cityName": "Hillside",
+      "lat": 17.8333333,
+      "lng": -77.2166667
+    },
+    {
+      "cityName": "Holyland Corner",
+      "lat": 18.1,
+      "lng": -77.4
+    },
+    {
+      "cityName": "Hope",
+      "lat": 18.0166667,
+      "lng": -77.35
+    },
+    {
+      "cityName": "Hopewell",
+      "lat": 17.9333333,
+      "lng": -77.3
+    },
+    {
+      "cityName": "Hunts Pen",
+      "lat": 17.9166667,
+      "lng": -77.2166667
+    },
+    {
+      "cityName": "Industry",
+      "lat": 18.1333333,
+      "lng": -77.4
+    },
+    {
+      "cityName": "Inverness",
+      "lat": 17.9166667,
+      "lng": -77.1666667
+    },
+    {
+      "cityName": "Jacksons Bay",
+      "lat": 17.7333333,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Johns Hall",
+      "lat": 18.1666667,
+      "lng": -77.3666667
+    },
+    {
+      "cityName": "Kellets",
+      "lat": 18.15,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Kemps Hill",
+      "lat": 17.85,
+      "lng": -77.2833333
+    },
+    {
+      "cityName": "Knights",
+      "lat": 17.7833333,
+      "lng": -77.3
+    },
+    {
+      "cityName": "Kupuis",
+      "lat": 18.1166667,
+      "lng": -77.3
+    },
+    {
+      "cityName": "Lance Wood Valley",
+      "lat": 17.9333333,
+      "lng": -77.1833333
+    },
+    {
+      "cityName": "Lime Hall",
+      "lat": 18.0666667,
+      "lng": -77.2
+    },
+    {
+      "cityName": "Lionel Town",
+      "lat": 17.8,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Logie Green",
+      "lat": 18.15,
+      "lng": -77.4166667
+    },
+    {
+      "cityName": "Longville",
+      "lat": 18.0166667,
+      "lng": -77.2166667
+    },
+    {
+      "cityName": "Lowes Pen",
+      "lat": 17.9666667,
+      "lng": -77.3666667
+    },
+    {
+      "cityName": "Lucky Valley",
+      "lat": 18.1,
+      "lng": -77.2
+    },
+    {
+      "cityName": "Mahoe Garden",
+      "lat": 17.7333333,
+      "lng": -77.1333333
+    },
+    {
+      "cityName": "Maimsey Valley",
+      "lat": 18.05,
+      "lng": -77.2166667
+    },
+    {
+      "cityName": "Manningfield Pen",
+      "lat": 17.8833333,
+      "lng": -77.3
+    },
+    {
+      "cityName": "Mason River",
+      "lat": 18.1833333,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Mears",
+      "lat": 18.05,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Milk Pen",
+      "lat": 17.85,
+      "lng": -77.3666667
+    },
+    {
+      "cityName": "Minho",
+      "lat": 18.1333333,
+      "lng": -77.3333333
+    },
+    {
+      "cityName": "Mitchell Town",
+      "lat": 17.8,
+      "lng": -77.2
+    },
+    {
+      "cityName": "Moneymuck",
+      "lat": 17.75,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Moores",
+      "lat": 18.0166667,
+      "lng": -77.2
+    },
+    {
+      "cityName": "Moravia",
+      "lat": 18.1833333,
+      "lng": -77.4666667
+    },
+    {
+      "cityName": "Moreland",
+      "lat": 17.8166667,
+      "lng": -77.2166667
+    },
+    {
+      "cityName": "Morgans",
+      "lat": 18.1,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Mount Lebanus",
+      "lat": 18.05,
+      "lng": -77.3666667
+    },
+    {
+      "cityName": "Mount Nebo",
+      "lat": 18.0833333,
+      "lng": -77.35
+    },
+    {
+      "cityName": "Mount Pleasant",
+      "lat": 17.9333333,
+      "lng": -77.35
+    },
+    {
+      "cityName": "Mount Providence",
+      "lat": 18.05,
+      "lng": -77.2833333
+    },
+    {
+      "cityName": "Mount Zion",
+      "lat": 18.1166667,
+      "lng": -77.3166667
+    },
+    {
+      "cityName": "Norwich",
+      "lat": 18.35,
+      "lng": -77.4333333
+    },
+    {
+      "cityName": "Oakes",
+      "lat": 18.0833333,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Oakes Pen",
+      "lat": 17.95,
+      "lng": -77.1666667
+    },
+    {
+      "cityName": "Old Yarmouth",
+      "lat": 17.8833333,
+      "lng": -77.2833333
+    },
+    {
+      "cityName": "Paradise",
+      "lat": 18.1333333,
+      "lng": -77.2166667
+    },
+    {
+      "cityName": "Parnassus",
+      "lat": 17.9333333,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Peckham",
+      "lat": 18.15,
+      "lng": -77.3833333
+    },
+    {
+      "cityName": "Pennants",
+      "lat": 18.1,
+      "lng": -77.3
+    },
+    {
+      "cityName": "Perrine",
+      "lat": 17.8166667,
+      "lng": -77.25
+    },
+    {
+      "cityName": "Pusey Hall Pen",
+      "lat": 17.75,
+      "lng": -77.1666667
+    },
+    {
+      "cityName": "Pusey Hall",
+      "lat": 17.7833333,
+      "lng": -77.25
+    },
+    {
+      "cityName": "Raymonds",
+      "lat": 17.85,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Rectory",
+      "lat": 18.05,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Rest",
+      "lat": 17.8666667,
+      "lng": -77.35
+    },
+    {
+      "cityName": "Rest Store",
+      "lat": 17.8833333,
+      "lng": -77.3666667
+    },
+    {
+      "cityName": "Retirement",
+      "lat": 17.7666667,
+      "lng": -77.25
+    },
+    {
+      "cityName": "Retreat",
+      "lat": 18.05,
+      "lng": -77.2
+    },
+    {
+      "cityName": "Rhymesberry",
+      "lat": 17.9333333,
+      "lng": -77.3166667
+    },
+    {
+      "cityName": "Ritchies",
+      "lat": 18.1333333,
+      "lng": -77.4333333
+    },
+    {
+      "cityName": "Rock River",
+      "lat": 18.0833333,
+      "lng": -77.2166667
+    },
+    {
+      "cityName": "Rowington Park",
+      "lat": 17.9,
+      "lng": -77.3166667
+    },
+    {
+      "cityName": "Russell Pen",
+      "lat": 17.9666667,
+      "lng": -77.2
+    },
+    {
+      "cityName": "Saint Helena",
+      "lat": 18.1,
+      "lng": -77.4333333
+    },
+    {
+      "cityName": "Saint Jago Old Works",
+      "lat": 17.9666667,
+      "lng": -77.3833333
+    },
+    {
+      "cityName": "Sandy Bay",
+      "lat": 17.8166667,
+      "lng": -77.1833333
+    },
+    {
+      "cityName": "Scotts Pass",
+      "lat": 18,
+      "lng": -77.3833333
+    },
+    {
+      "cityName": "Smithville",
+      "lat": 18.1,
+      "lng": -77.3666667
+    },
+    {
+      "cityName": "Soursop Turn",
+      "lat": 18.0333333,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "Spaldings",
+      "lat": 18.15,
+      "lng": -77.45
+    },
+    {
+      "cityName": "Spanish Well",
+      "lat": 18.0166667,
+      "lng": -77.3833333
+    },
+    {
+      "cityName": "Springfield",
+      "lat": 17.85,
+      "lng": -77.3333333
+    },
+    {
+      "cityName": "Suttons Station",
+      "lat": 18.0666667,
+      "lng": -77.2333333
+    },
+    {
+      "cityName": "The Alves",
+      "lat": 18.1166667,
+      "lng": -77.1833333
+    },
+    {
+      "cityName": "Tom Kings",
+      "lat": 18.0666667,
+      "lng": -77.2166667
+    },
+    {
+      "cityName": "Treadlight",
+      "lat": 17.9833333,
+      "lng": -77.2666667
+    },
+    {
+      "cityName": "Tweedside",
+      "lat": 18.1833333,
+      "lng": -77.4166667
+    },
+    {
+      "cityName": "Wallen",
+      "lat": 17.9666667,
+      "lng": -77.25
+    },
+    {
+      "cityName": "Whitney",
+      "lat": 18.05,
+      "lng": -77.3833333
+    },
+    {
+      "cityName": "Woodside",
+      "lat": 17.9833333,
+      "lng": -77.2833333
+    }
+  ]
+}

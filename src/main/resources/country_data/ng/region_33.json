@@ -1,0 +1,3535 @@
+{
+  "name": "Sokoto",
+  "cities": [
+    {
+      "cityName": "Abdelo",
+      "lat": 13.4,
+      "lng": 5.2333333
+    },
+    {
+      "cityName": "Abdujaki",
+      "lat": 12.2333333,
+      "lng": 4.6666667
+    },
+    {
+      "cityName": "Achida",
+      "lat": 13.5166667,
+      "lng": 5.4
+    },
+    {
+      "cityName": "Adam",
+      "lat": 12.6666667,
+      "lng": 5.0333333
+    },
+    {
+      "cityName": "Adarawa",
+      "lat": 12.9666667,
+      "lng": 5.1833333
+    },
+    {
+      "cityName": "Adegalagaji",
+      "lat": 12.65,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Adegata",
+      "lat": 12.65,
+      "lng": 4.9833333
+    },
+    {
+      "cityName": "Aggur",
+      "lat": 12.55,
+      "lng": 4.9666667
+    },
+    {
+      "cityName": "Agoa",
+      "lat": 13.6333333,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Agulure",
+      "lat": 13.3166667,
+      "lng": 5.1666667
+    },
+    {
+      "cityName": "Agwada",
+      "lat": 12.0666667,
+      "lng": 4.5833333
+    },
+    {
+      "cityName": "Alfala",
+      "lat": 12.95,
+      "lng": 4.7833333
+    },
+    {
+      "cityName": "Alhassan",
+      "lat": 12.3666667,
+      "lng": 4.6166667
+    },
+    {
+      "cityName": "Alia",
+      "lat": 13.5333333,
+      "lng": 5
+    },
+    {
+      "cityName": "Alkaliji",
+      "lat": 12.8333333,
+      "lng": 4.9833333
+    },
+    {
+      "cityName": "Alkamu",
+      "lat": 13.15,
+      "lng": 5.3666667
+    },
+    {
+      "cityName": "Allakalawa",
+      "lat": 13.6333333,
+      "lng": 6.3166667
+    },
+    {
+      "cityName": "Alya Fulani",
+      "lat": 13.5333333,
+      "lng": 4.9833333
+    },
+    {
+      "cityName": "Amanawa",
+      "lat": 12.9166667,
+      "lng": 5.3
+    },
+    {
+      "cityName": "Amarawa",
+      "lat": 13.7166667,
+      "lng": 5.3
+    },
+    {
+      "cityName": "Amore Aduway",
+      "lat": 12.5666667,
+      "lng": 4.65
+    },
+    {
+      "cityName": "Anatudu",
+      "lat": 13.1166667,
+      "lng": 5.2333333
+    },
+    {
+      "cityName": "Anguwan Mallamai",
+      "lat": 11.9,
+      "lng": 7.1333333
+    },
+    {
+      "cityName": "Angwa Hure",
+      "lat": 13.4666667,
+      "lng": 4.1666667
+    },
+    {
+      "cityName": "Angwan Tudu",
+      "lat": 13.4833333,
+      "lng": 5.3
+    },
+    {
+      "cityName": "Araba",
+      "lat": 13.2166667,
+      "lng": 5.0333333
+    },
+    {
+      "cityName": "Arbakwai",
+      "lat": 13.3,
+      "lng": 4.1666667
+    },
+    {
+      "cityName": "Arerema",
+      "lat": 12.6,
+      "lng": 4.8166667
+    },
+    {
+      "cityName": "Asara",
+      "lat": 13.05,
+      "lng": 5.15
+    },
+    {
+      "cityName": "Asarara Kaura",
+      "lat": 12.1333333,
+      "lng": 4.7
+    },
+    {
+      "cityName": "Askedodo",
+      "lat": 12.5166667,
+      "lng": 5.0666667
+    },
+    {
+      "cityName": "Asola",
+      "lat": 11.9833333,
+      "lng": 7.0333333
+    },
+    {
+      "cityName": "Asura",
+      "lat": 13.4666667,
+      "lng": 5.2666667
+    },
+    {
+      "cityName": "Atalawa",
+      "lat": 13.3833333,
+      "lng": 6.3833333
+    },
+    {
+      "cityName": "Awulkin Takare",
+      "lat": 13.6166667,
+      "lng": 4.4166667
+    },
+    {
+      "cityName": "Awulkitina",
+      "lat": 13.6,
+      "lng": 4.3833333
+    },
+    {
+      "cityName": "Ayama",
+      "lat": 13.4166667,
+      "lng": 4.9333333
+    },
+    {
+      "cityName": "Azarara",
+      "lat": 12.65,
+      "lng": 5.4666667
+    },
+    {
+      "cityName": "Babagi Birni",
+      "lat": 12.7333333,
+      "lng": 5.4666667
+    },
+    {
+      "cityName": "Baba Maradu",
+      "lat": 12.3333333,
+      "lng": 4.7666667
+    },
+    {
+      "cityName": "Babulada",
+      "lat": 12.7,
+      "lng": 4.9
+    },
+    {
+      "cityName": "Bachaka",
+      "lat": 13.4,
+      "lng": 4.1833333
+    },
+    {
+      "cityName": "Badadi",
+      "lat": 12.5333333,
+      "lng": 4.8
+    },
+    {
+      "cityName": "Badaka",
+      "lat": 12.6,
+      "lng": 4.8833333
+    },
+    {
+      "cityName": "Badaria",
+      "lat": 12.4166667,
+      "lng": 5.0166667
+    },
+    {
+      "cityName": "Badau",
+      "lat": 12.7833333,
+      "lng": 5.15
+    },
+    {
+      "cityName": "Badawa",
+      "lat": 12.9833333,
+      "lng": 5.1333333
+    },
+    {
+      "cityName": "Badiya",
+      "lat": 12.6166667,
+      "lng": 5.1333333
+    },
+    {
+      "cityName": "Bado",
+      "lat": 11.9833333,
+      "lng": 7.05
+    },
+    {
+      "cityName": "Badon Baradi",
+      "lat": 12.9833333,
+      "lng": 5.2166667
+    },
+    {
+      "cityName": "Badon Gamba",
+      "lat": 12.9833333,
+      "lng": 5.2
+    },
+    {
+      "cityName": "Badusugu",
+      "lat": 12.7,
+      "lng": 4.85
+    },
+    {
+      "cityName": "Bagarawa",
+      "lat": 12.9,
+      "lng": 5.2333333
+    },
+    {
+      "cityName": "Bagare",
+      "lat": 12.5166667,
+      "lng": 4.6833333
+    },
+    {
+      "cityName": "Bageya",
+      "lat": 12.9,
+      "lng": 5.6166667
+    },
+    {
+      "cityName": "Bagida",
+      "lat": 12.2666667,
+      "lng": 4.7166667
+    },
+    {
+      "cityName": "Bakar Tsauna",
+      "lat": 13.65,
+      "lng": 4.4333333
+    },
+    {
+      "cityName": "Bakaya",
+      "lat": 12.2183333,
+      "lng": 4.5852778
+    },
+    {
+      "cityName": "Bakin Dutse",
+      "lat": 13.7666667,
+      "lng": 5.3333333
+    },
+    {
+      "cityName": "Bala",
+      "lat": 12.6333333,
+      "lng": 5.1833333
+    },
+    {
+      "cityName": "Bale",
+      "lat": 13.4680556,
+      "lng": 4.6808333
+    },
+    {
+      "cityName": "Balkore",
+      "lat": 13.3,
+      "lng": 5.2333333
+    },
+    {
+      "cityName": "Balla",
+      "lat": 13.3666667,
+      "lng": 5.5833333
+    },
+    {
+      "cityName": "Bamage Tudu",
+      "lat": 12.7333333,
+      "lng": 5.2666667
+    },
+    {
+      "cityName": "Bamge Tudu",
+      "lat": 12.8,
+      "lng": 5.25
+    },
+    {
+      "cityName": "Bamgi",
+      "lat": 13.3983333,
+      "lng": 4.6541667
+    },
+    {
+      "cityName": "Bancu",
+      "lat": 12.4833333,
+      "lng": 4.8666667
+    },
+    {
+      "cityName": "Bankanu",
+      "lat": 13.2333333,
+      "lng": 5.2666667
+    },
+    {
+      "cityName": "Barakia",
+      "lat": 13.19,
+      "lng": 6.1838889
+    },
+    {
+      "cityName": "Bararaji",
+      "lat": 13.35,
+      "lng": 5.0833333
+    },
+    {
+      "cityName": "Barguwa",
+      "lat": 12.55,
+      "lng": 4.85
+    },
+    {
+      "cityName": "Bari",
+      "lat": 13.4166667,
+      "lng": 5.6166667
+    },
+    {
+      "cityName": "Bariga",
+      "lat": 12.1666667,
+      "lng": 4.65
+    },
+    {
+      "cityName": "Barkeji",
+      "lat": 12.45,
+      "lng": 4.7666667
+    },
+    {
+      "cityName": "Barkini",
+      "lat": 12.5166667,
+      "lng": 4.9666667
+    },
+    {
+      "cityName": "Barsawa",
+      "lat": 12.8666667,
+      "lng": 5.0833333
+    },
+    {
+      "cityName": "Basansan",
+      "lat": 13.0833333,
+      "lng": 5.35
+    },
+    {
+      "cityName": "Bashiri",
+      "lat": 12.3166667,
+      "lng": 4.7
+    },
+    {
+      "cityName": "Basilan",
+      "lat": 12.8166667,
+      "lng": 5.3833333
+    },
+    {
+      "cityName": "Bauni",
+      "lat": 13.6,
+      "lng": 5.0666667
+    },
+    {
+      "cityName": "Baware",
+      "lat": 12.7166667,
+      "lng": 4.9666667
+    },
+    {
+      "cityName": "Bawgwel",
+      "lat": 13.7,
+      "lng": 5.0166667
+    },
+    {
+      "cityName": "Bayanka",
+      "lat": 13.6,
+      "lng": 5.3166667
+    },
+    {
+      "cityName": "Bedi",
+      "lat": 13.4,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Berdeberde",
+      "lat": 12.6666667,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Bergaja",
+      "lat": 13.1666667,
+      "lng": 6.4333333
+    },
+    {
+      "cityName": "Betare",
+      "lat": 12.9333333,
+      "lng": 4.8
+    },
+    {
+      "cityName": "Bierda",
+      "lat": 13.3333333,
+      "lng": 5.95
+    },
+    {
+      "cityName": "Bijeje",
+      "lat": 13.3333333,
+      "lng": 5.65
+    },
+    {
+      "cityName": "Binji",
+      "lat": 13.2166667,
+      "lng": 4.9166667
+    },
+    {
+      "cityName": "Binjin Muza",
+      "lat": 12.8,
+      "lng": 4.8333333
+    },
+    {
+      "cityName": "Biokutawa",
+      "lat": 12.95,
+      "lng": 5.3833333
+    },
+    {
+      "cityName": "Birnin Wari",
+      "lat": 13.1,
+      "lng": 4.7333333
+    },
+    {
+      "cityName": "Birzunga",
+      "lat": 13.4666667,
+      "lng": 5.8
+    },
+    {
+      "cityName": "Bobare",
+      "lat": 13.4333333,
+      "lng": 4.3333333
+    },
+    {
+      "cityName": "Boda",
+      "lat": 12.8,
+      "lng": 5.3666667
+    },
+    {
+      "cityName": "Bodinga",
+      "lat": 12.8761111,
+      "lng": 5.1719444
+    },
+    {
+      "cityName": "Bodo",
+      "lat": 12.0333333,
+      "lng": 7.0833333
+    },
+    {
+      "cityName": "Boka",
+      "lat": 12.5833333,
+      "lng": 5.3166667
+    },
+    {
+      "cityName": "Bolere",
+      "lat": 12.85,
+      "lng": 5.4166667
+    },
+    {
+      "cityName": "Bosaji",
+      "lat": 12.7166667,
+      "lng": 5.2
+    },
+    {
+      "cityName": "Boto",
+      "lat": 13.3916667,
+      "lng": 4.3041667
+    },
+    {
+      "cityName": "Boyekai",
+      "lat": 13.3666667,
+      "lng": 5.5666667
+    },
+    {
+      "cityName": "Boyi",
+      "lat": 13.0333333,
+      "lng": 5.6
+    },
+    {
+      "cityName": "Budade",
+      "lat": 12.7,
+      "lng": 5.3833333
+    },
+    {
+      "cityName": "Bude",
+      "lat": 12.5833333,
+      "lng": 4.7
+    },
+    {
+      "cityName": "Bugawa",
+      "lat": 13.6833333,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Bukoli",
+      "lat": 12.85,
+      "lng": 5.0333333
+    },
+    {
+      "cityName": "Bula",
+      "lat": 13.3,
+      "lng": 4.85
+    },
+    {
+      "cityName": "Bulanyaki",
+      "lat": 12.6166667,
+      "lng": 4.9333333
+    },
+    {
+      "cityName": "Bulbuli",
+      "lat": 12.7166667,
+      "lng": 4.9
+    },
+    {
+      "cityName": "Bunge",
+      "lat": 12.8666667,
+      "lng": 5.45
+    },
+    {
+      "cityName": "Bunkari",
+      "lat": 13.1166667,
+      "lng": 4.9
+    },
+    {
+      "cityName": "Busawa",
+      "lat": 12.55,
+      "lng": 4.9333333
+    },
+    {
+      "cityName": "Bussa Mangu",
+      "lat": 12.6833333,
+      "lng": 4.9833333
+    },
+    {
+      "cityName": "Bute",
+      "lat": 12.9333333,
+      "lng": 5.1833333
+    },
+    {
+      "cityName": "Buwadi",
+      "lat": 13.5166667,
+      "lng": 5.2166667
+    },
+    {
+      "cityName": "Buzaga",
+      "lat": 13.75,
+      "lng": 4.8666667
+    },
+    {
+      "cityName": "Bwoka Noma",
+      "lat": 12.5833333,
+      "lng": 5.3333333
+    },
+    {
+      "cityName": "Chacho",
+      "lat": 13.1666667,
+      "lng": 5.45
+    },
+    {
+      "cityName": "Chadawa",
+      "lat": 13.7666667,
+      "lng": 5.6
+    },
+    {
+      "cityName": "Chaiye",
+      "lat": 12.6833333,
+      "lng": 4.9
+    },
+    {
+      "cityName": "Chakai",
+      "lat": 12.4,
+      "lng": 5.0166667
+    },
+    {
+      "cityName": "Chancha",
+      "lat": 13.3666667,
+      "lng": 5.2833333
+    },
+    {
+      "cityName": "Cheche",
+      "lat": 13.3166667,
+      "lng": 4.9166667
+    },
+    {
+      "cityName": "Chihiri",
+      "lat": 12.3833333,
+      "lng": 4.6833333
+    },
+    {
+      "cityName": "Chilgori",
+      "lat": 12.8333333,
+      "lng": 5.0166667
+    },
+    {
+      "cityName": "Chimola",
+      "lat": 13.3,
+      "lng": 5.3666667
+    },
+    {
+      "cityName": "Chiriagi",
+      "lat": 12.7166667,
+      "lng": 4.8666667
+    },
+    {
+      "cityName": "Chiwa",
+      "lat": 12.6333333,
+      "lng": 4.8333333
+    },
+    {
+      "cityName": "Chofe",
+      "lat": 12.65,
+      "lng": 5.3166667
+    },
+    {
+      "cityName": "Chopal",
+      "lat": 12.3333333,
+      "lng": 4.75
+    },
+    {
+      "cityName": "Dabagi Lafia",
+      "lat": 12.75,
+      "lng": 5.45
+    },
+    {
+      "cityName": "Dabagin Gimsua",
+      "lat": 13.2666667,
+      "lng": 5.4666667
+    },
+    {
+      "cityName": "Dabalmawa",
+      "lat": 13.55,
+      "lng": 4.35
+    },
+    {
+      "cityName": "Dagawa",
+      "lat": 12.7333333,
+      "lng": 5.05
+    },
+    {
+      "cityName": "Daguwaga",
+      "lat": 12.8333333,
+      "lng": 4.8333333
+    },
+    {
+      "cityName": "Daje",
+      "lat": 13.3166667,
+      "lng": 5.5
+    },
+    {
+      "cityName": "Dakassa",
+      "lat": 13.5,
+      "lng": 4.2833333
+    },
+    {
+      "cityName": "Dakura",
+      "lat": 13.5666667,
+      "lng": 5.35
+    },
+    {
+      "cityName": "Dalijam",
+      "lat": 12.8666667,
+      "lng": 5.3333333
+    },
+    {
+      "cityName": "Damaka",
+      "lat": 11.9,
+      "lng": 7.1
+    },
+    {
+      "cityName": "Dambagi",
+      "lat": 13.45,
+      "lng": 4.2666667
+    },
+    {
+      "cityName": "Damboko",
+      "lat": 13.7333333,
+      "lng": 5.3666667
+    },
+    {
+      "cityName": "Dan Ajiwa",
+      "lat": 12.9333333,
+      "lng": 5.1666667
+    },
+    {
+      "cityName": "Dancadi",
+      "lat": 12.8,
+      "lng": 5.2166667
+    },
+    {
+      "cityName": "Dandaji",
+      "lat": 12.65,
+      "lng": 5.1166667
+    },
+    {
+      "cityName": "Dandi",
+      "lat": 12.7233333,
+      "lng": 5.12
+    },
+    {
+      "cityName": "Dangasu",
+      "lat": 12.2833333,
+      "lng": 4.6333333
+    },
+    {
+      "cityName": "Dange",
+      "lat": 12.8455556,
+      "lng": 5.3475
+    },
+    {
+      "cityName": "Dangeru",
+      "lat": 13.4166667,
+      "lng": 5.35
+    },
+    {
+      "cityName": "Dangkado",
+      "lat": 13.5,
+      "lng": 5.4833333
+    },
+    {
+      "cityName": "Dangkusot",
+      "lat": 13.5166667,
+      "lng": 4.7833333
+    },
+    {
+      "cityName": "Dan Gode",
+      "lat": 13.8,
+      "lng": 5.6
+    },
+    {
+      "cityName": "Dangwaru",
+      "lat": 13.3333333,
+      "lng": 5.55
+    },
+    {
+      "cityName": "Dankala",
+      "lat": 13.05,
+      "lng": 4.85
+    },
+    {
+      "cityName": "Dan Karmawa",
+      "lat": 13.45,
+      "lng": 6.3666667
+    },
+    {
+      "cityName": "Dan Kemu",
+      "lat": 13.2666667,
+      "lng": 5.3833333
+    },
+    {
+      "cityName": "Dankila",
+      "lat": 12.8666667,
+      "lng": 5.3
+    },
+    {
+      "cityName": "Dan Madi",
+      "lat": 12.1833333,
+      "lng": 4.6833333
+    },
+    {
+      "cityName": "Danmale",
+      "lat": 13.1,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Dan Malga",
+      "lat": 12.6,
+      "lng": 5.4833333
+    },
+    {
+      "cityName": "Dan Sabo",
+      "lat": 11.9666667,
+      "lng": 7.2166667
+    },
+    {
+      "cityName": "Dan Tudu",
+      "lat": 13.4833333,
+      "lng": 5.6833333
+    },
+    {
+      "cityName": "Dan Tudu Wusenia",
+      "lat": 13.65,
+      "lng": 4.8
+    },
+    {
+      "cityName": "Danwai",
+      "lat": 13.4333333,
+      "lng": 4.2833333
+    },
+    {
+      "cityName": "Daraye",
+      "lat": 13.1666667,
+      "lng": 5.0333333
+    },
+    {
+      "cityName": "Darbela",
+      "lat": 12.8,
+      "lng": 5.1666667
+    },
+    {
+      "cityName": "Daringaru",
+      "lat": 12.4666667,
+      "lng": 4.9
+    },
+    {
+      "cityName": "Darma Dodo",
+      "lat": 13.5333333,
+      "lng": 5.45
+    },
+    {
+      "cityName": "Darma Galadima",
+      "lat": 13.5,
+      "lng": 5.45
+    },
+    {
+      "cityName": "Darousa",
+      "lat": 13.5333333,
+      "lng": 4.3166667
+    },
+    {
+      "cityName": "Dawadayaru",
+      "lat": 12.7166667,
+      "lng": 5.4166667
+    },
+    {
+      "cityName": "Degel",
+      "lat": 12.8666667,
+      "lng": 5.05
+    },
+    {
+      "cityName": "Denderes",
+      "lat": 11.9166667,
+      "lng": 4.7833333
+    },
+    {
+      "cityName": "Diegi",
+      "lat": 13.55,
+      "lng": 4.6166667
+    },
+    {
+      "cityName": "Diggim",
+      "lat": 13.2666667,
+      "lng": 5.75
+    },
+    {
+      "cityName": "Diko Damba",
+      "lat": 13.55,
+      "lng": 5.25
+    },
+    {
+      "cityName": "Dilingo",
+      "lat": 13.6166667,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Dinawa",
+      "lat": 13.2333333,
+      "lng": 5.4166667
+    },
+    {
+      "cityName": "Dingyadi",
+      "lat": 12.9333333,
+      "lng": 5.1333333
+    },
+    {
+      "cityName": "Djima Djimi Gaya",
+      "lat": 13.75,
+      "lng": 4.75
+    },
+    {
+      "cityName": "Dodoru",
+      "lat": 12.4333333,
+      "lng": 4.6666667
+    },
+    {
+      "cityName": "Dogan Marke",
+      "lat": 12.25,
+      "lng": 4.7833333
+    },
+    {
+      "cityName": "Dogondaji",
+      "lat": 12.4666667,
+      "lng": 4.8
+    },
+    {
+      "cityName": "Domawa",
+      "lat": 12.35,
+      "lng": 4.7
+    },
+    {
+      "cityName": "Donu",
+      "lat": 12.7,
+      "lng": 4.9666667
+    },
+    {
+      "cityName": "Dorawa",
+      "lat": 12.6333333,
+      "lng": 5.1666667
+    },
+    {
+      "cityName": "Duba Jalo",
+      "lat": 13.5,
+      "lng": 5.95
+    },
+    {
+      "cityName": "Duban Sarkin Pawa",
+      "lat": 13.5,
+      "lng": 5.9333333
+    },
+    {
+      "cityName": "Dubare",
+      "lat": 13.4666667,
+      "lng": 4.3333333
+    },
+    {
+      "cityName": "Duchin Kura",
+      "lat": 13.1166667,
+      "lng": 4.7833333
+    },
+    {
+      "cityName": "Dukamaji",
+      "lat": 13.75,
+      "lng": 5.8166667
+    },
+    {
+      "cityName": "Duma",
+      "lat": 12.5833333,
+      "lng": 5.3666667
+    },
+    {
+      "cityName": "Dundaye",
+      "lat": 13.1263889,
+      "lng": 5.2441667
+    },
+    {
+      "cityName": "Durbal",
+      "lat": 13.0666667,
+      "lng": 5.35
+    },
+    {
+      "cityName": "Dutse Ande",
+      "lat": 12.95,
+      "lng": 5.4333333
+    },
+    {
+      "cityName": "Ebarike",
+      "lat": 12.4166667,
+      "lng": 4.9833333
+    },
+    {
+      "cityName": "Eideya",
+      "lat": 12.5333333,
+      "lng": 4.8333333
+    },
+    {
+      "cityName": "El Tagimba",
+      "lat": 13.7166667,
+      "lng": 4.6
+    },
+    {
+      "cityName": "Fadi",
+      "lat": 13.25,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Faga",
+      "lat": 12.3333333,
+      "lng": 4.6
+    },
+    {
+      "cityName": "Fajaldu",
+      "lat": 12.85,
+      "lng": 5.3833333
+    },
+    {
+      "cityName": "Faka",
+      "lat": 12.6833333,
+      "lng": 4.9166667
+    },
+    {
+      "cityName": "Fatara",
+      "lat": 13.0166667,
+      "lng": 5.0333333
+    },
+    {
+      "cityName": "Filasko",
+      "lat": 13.35,
+      "lng": 4.5833333
+    },
+    {
+      "cityName": "Filin Jirgi",
+      "lat": 13.0166667,
+      "lng": 5.2666667
+    },
+    {
+      "cityName": "Fole",
+      "lat": 13.7,
+      "lng": 5.5
+    },
+    {
+      "cityName": "Foro",
+      "lat": 12.7166667,
+      "lng": 5.15
+    },
+    {
+      "cityName": "Fragelu",
+      "lat": 13.1666667,
+      "lng": 6.1
+    },
+    {
+      "cityName": "Fulani",
+      "lat": 12.95,
+      "lng": 4.8166667
+    },
+    {
+      "cityName": "Furagirke",
+      "lat": 12.5666667,
+      "lng": 5.3833333
+    },
+    {
+      "cityName": "Gadabo",
+      "lat": 13.6833333,
+      "lng": 5.7833333
+    },
+    {
+      "cityName": "Gada",
+      "lat": 13.7666667,
+      "lng": 5.6666667
+    },
+    {
+      "cityName": "Gadaichi",
+      "lat": 12.1833333,
+      "lng": 4.7833333
+    },
+    {
+      "cityName": "Gadara Magaji",
+      "lat": 12.6333333,
+      "lng": 4.9666667
+    },
+    {
+      "cityName": "Gadon Mata",
+      "lat": 13.4,
+      "lng": 5.8166667
+    },
+    {
+      "cityName": "Gagawa",
+      "lat": 12.7,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Gaidau",
+      "lat": 13.65,
+      "lng": 5.3333333
+    },
+    {
+      "cityName": "Gajara",
+      "lat": 12.9666667,
+      "lng": 5.3666667
+    },
+    {
+      "cityName": "Galadi",
+      "lat": 12.9666667,
+      "lng": 4.8166667
+    },
+    {
+      "cityName": "Galadiman Gari",
+      "lat": 13.0333333,
+      "lng": 5.3
+    },
+    {
+      "cityName": "Gamamau",
+      "lat": 13,
+      "lng": 5.35
+    },
+    {
+      "cityName": "Gamaraje",
+      "lat": 13.2333333,
+      "lng": 6.0333333
+    },
+    {
+      "cityName": "Gambu",
+      "lat": 12.45,
+      "lng": 4.8666667
+    },
+    {
+      "cityName": "Gambuwa",
+      "lat": 12.6833333,
+      "lng": 4.8666667
+    },
+    {
+      "cityName": "Gandatobe",
+      "lat": 12.4833333,
+      "lng": 4.5666667
+    },
+    {
+      "cityName": "Gande",
+      "lat": 13.0811111,
+      "lng": 4.8366667
+    },
+    {
+      "cityName": "Gandi",
+      "lat": 12.9666667,
+      "lng": 5.75
+    },
+    {
+      "cityName": "Gandu Angile",
+      "lat": 13.1,
+      "lng": 5.2666667
+    },
+    {
+      "cityName": "Ganga",
+      "lat": 12.65,
+      "lng": 5.0333333
+    },
+    {
+      "cityName": "Gangel",
+      "lat": 13.2833333,
+      "lng": 4.9166667
+    },
+    {
+      "cityName": "Ganua",
+      "lat": 12.3,
+      "lng": 4.8333333
+    },
+    {
+      "cityName": "Ganza",
+      "lat": 13.4333333,
+      "lng": 5.8333333
+    },
+    {
+      "cityName": "Gaolinge",
+      "lat": 12.3333333,
+      "lng": 4.8666667
+    },
+    {
+      "cityName": "Garam",
+      "lat": 12.8,
+      "lng": 4.7666667
+    },
+    {
+      "cityName": "Garanga",
+      "lat": 12.8833333,
+      "lng": 5.05
+    },
+    {
+      "cityName": "Gari",
+      "lat": 12.8333333,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Garrei",
+      "lat": 13.5166667,
+      "lng": 4.8
+    },
+    {
+      "cityName": "Garuba Gaya",
+      "lat": 13.15,
+      "lng": 4.8333333
+    },
+    {
+      "cityName": "Garu",
+      "lat": 13.6166667,
+      "lng": 5.3666667
+    },
+    {
+      "cityName": "Gatawa",
+      "lat": 13.4333333,
+      "lng": 6.3833333
+    },
+    {
+      "cityName": "Gati",
+      "lat": 13.7833333,
+      "lng": 5.35
+    },
+    {
+      "cityName": "Gauro",
+      "lat": 13.4833333,
+      "lng": 5.8333333
+    },
+    {
+      "cityName": "Gawakuke",
+      "lat": 13.1166667,
+      "lng": 5.4166667
+    },
+    {
+      "cityName": "Gawasu",
+      "lat": 13.2666667,
+      "lng": 5.5833333
+    },
+    {
+      "cityName": "Geauri",
+      "lat": 11.9666667,
+      "lng": 7.1333333
+    },
+    {
+      "cityName": "Geben Dama",
+      "lat": 12.95,
+      "lng": 5.4
+    },
+    {
+      "cityName": "Gehere",
+      "lat": 12.9166667,
+      "lng": 5.4333333
+    },
+    {
+      "cityName": "Gela",
+      "lat": 12.75,
+      "lng": 4.85
+    },
+    {
+      "cityName": "Getere",
+      "lat": 13,
+      "lng": 5.0333333
+    },
+    {
+      "cityName": "Giba",
+      "lat": 13.2333333,
+      "lng": 4.8666667
+    },
+    {
+      "cityName": "Gidan Almustafa",
+      "lat": 13.6833333,
+      "lng": 5.6333333
+    },
+    {
+      "cityName": "Gidan Almuwa",
+      "lat": 13.5166667,
+      "lng": 5.3
+    },
+    {
+      "cityName": "Gidan Amamata",
+      "lat": 13.7666667,
+      "lng": 5.5333333
+    },
+    {
+      "cityName": "Gidan Ardo",
+      "lat": 12.6333333,
+      "lng": 5.1166667
+    },
+    {
+      "cityName": "Gidan Badua",
+      "lat": 13.05,
+      "lng": 5.1666667
+    },
+    {
+      "cityName": "Gidan Bango",
+      "lat": 13.1833333,
+      "lng": 5.35
+    },
+    {
+      "cityName": "Gidan Basamu",
+      "lat": 12.9333333,
+      "lng": 5.45
+    },
+    {
+      "cityName": "Gidan Baura",
+      "lat": 12.6333333,
+      "lng": 5.1
+    },
+    {
+      "cityName": "Gidan Bongo",
+      "lat": 13.65,
+      "lng": 5.4666667
+    },
+    {
+      "cityName": "Gidan-Bouzou",
+      "lat": 13.7666667,
+      "lng": 5.7666667
+    },
+    {
+      "cityName": "Gidan Budu",
+      "lat": 12.6666667,
+      "lng": 4.8166667
+    },
+    {
+      "cityName": "Gidan Dabo",
+      "lat": 13.65,
+      "lng": 5.6166667
+    },
+    {
+      "cityName": "Gidan Damau",
+      "lat": 13.8,
+      "lng": 5.35
+    },
+    {
+      "cityName": "Gidan Dan Giwa",
+      "lat": 12.5833333,
+      "lng": 5.3
+    },
+    {
+      "cityName": "Gidan Dedi",
+      "lat": 13.2666667,
+      "lng": 4.9666667
+    },
+    {
+      "cityName": "Gidan Doka",
+      "lat": 13.0833333,
+      "lng": 5.4
+    },
+    {
+      "cityName": "Gidan Doke",
+      "lat": 12.8666667,
+      "lng": 5.2666667
+    },
+    {
+      "cityName": "Gidan Dorowa",
+      "lat": 12.5333333,
+      "lng": 5.0666667
+    },
+    {
+      "cityName": "Gidan Fulani",
+      "lat": 12.5333333,
+      "lng": 4.8166667
+    },
+    {
+      "cityName": "Gidan Garkwa",
+      "lat": 12.6666667,
+      "lng": 5.4833333
+    },
+    {
+      "cityName": "Gidan Gawo",
+      "lat": 13.55,
+      "lng": 5.1833333
+    },
+    {
+      "cityName": "Gidan Gesa",
+      "lat": 13.5333333,
+      "lng": 5.1666667
+    },
+    {
+      "cityName": "Gidan",
+      "lat": 12.6,
+      "lng": 5.45
+    },
+    {
+      "cityName": "Gidan Gutiya",
+      "lat": 13.8,
+      "lng": 5.4333333
+    },
+    {
+      "cityName": "Gidan Hashimu",
+      "lat": 13.5333333,
+      "lng": 5.7166667
+    },
+    {
+      "cityName": "Gidan Jero",
+      "lat": 12.4166667,
+      "lng": 4.9333333
+    },
+    {
+      "cityName": "Gidan Karma",
+      "lat": 13.3166667,
+      "lng": 5.2166667
+    },
+    {
+      "cityName": "Gidan Kura",
+      "lat": 12.9333333,
+      "lng": 5.2666667
+    },
+    {
+      "cityName": "Gidan Kurau",
+      "lat": 13.3666667,
+      "lng": 6.2833333
+    },
+    {
+      "cityName": "Gidan Kwanni",
+      "lat": 13.7666667,
+      "lng": 5.4666667
+    },
+    {
+      "cityName": "Gidan Liman",
+      "lat": 13.1833333,
+      "lng": 4.8833333
+    },
+    {
+      "cityName": "Gidan-Madi",
+      "lat": 13.295,
+      "lng": 4.9775
+    },
+    {
+      "cityName": "Gidan Maifada",
+      "lat": 13.55,
+      "lng": 4.3333333
+    },
+    {
+      "cityName": "Gidan Makera",
+      "lat": 13.65,
+      "lng": 5.4833333
+    },
+    {
+      "cityName": "Gidan Malijatu",
+      "lat": 13.2,
+      "lng": 6.05
+    },
+    {
+      "cityName": "Gidan Mangoro",
+      "lat": 12.5333333,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Gidan Obandamo",
+      "lat": 12.9833333,
+      "lng": 5.3833333
+    },
+    {
+      "cityName": "Gidan Sarkin Dutse",
+      "lat": 12.7166667,
+      "lng": 5.1833333
+    },
+    {
+      "cityName": "Gidan Tanko",
+      "lat": 13.85,
+      "lng": 5.5833333
+    },
+    {
+      "cityName": "Gidan Tudu",
+      "lat": 12.6333333,
+      "lng": 5.1333333
+    },
+    {
+      "cityName": "Gidan Walu",
+      "lat": 12.5333333,
+      "lng": 5.4666667
+    },
+    {
+      "cityName": "Gidan Yodi",
+      "lat": 13.6,
+      "lng": 5.3
+    },
+    {
+      "cityName": "Gidima",
+      "lat": 13.2666667,
+      "lng": 5.0333333
+    },
+    {
+      "cityName": "Gigane",
+      "lat": 13.5,
+      "lng": 5.2333333
+    },
+    {
+      "cityName": "Gilbedi",
+      "lat": 13.65,
+      "lng": 5.7833333
+    },
+    {
+      "cityName": "Gimbama",
+      "lat": 13.3,
+      "lng": 6.0166667
+    },
+    {
+      "cityName": "Ginga",
+      "lat": 12.6833333,
+      "lng": 5.15
+    },
+    {
+      "cityName": "Gingu",
+      "lat": 13.5333333,
+      "lng": 4.85
+    },
+    {
+      "cityName": "Girawsi",
+      "lat": 13.0833333,
+      "lng": 5.2
+    },
+    {
+      "cityName": "Gita Gruge",
+      "lat": 12.35,
+      "lng": 4.5833333
+    },
+    {
+      "cityName": "Gita Noma",
+      "lat": 12.3333333,
+      "lng": 4.5666667
+    },
+    {
+      "cityName": "Giyawa",
+      "lat": 13.35,
+      "lng": 5.5166667
+    },
+    {
+      "cityName": "Gobare",
+      "lat": 12.45,
+      "lng": 4.5333333
+    },
+    {
+      "cityName": "Gobirawa",
+      "lat": 12.95,
+      "lng": 5.1666667
+    },
+    {
+      "cityName": "Goboro",
+      "lat": 13.5833333,
+      "lng": 5.1166667
+    },
+    {
+      "cityName": "Gofona",
+      "lat": 13.3833333,
+      "lng": 4.7833333
+    },
+    {
+      "cityName": "Gohono",
+      "lat": 13.5166667,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Gone",
+      "lat": 12.65,
+      "lng": 5.1333333
+    },
+    {
+      "cityName": "Gorgao",
+      "lat": 13.7,
+      "lng": 5.05
+    },
+    {
+      "cityName": "Goronyo",
+      "lat": 13.4530556,
+      "lng": 5.6763889
+    },
+    {
+      "cityName": "Goshe",
+      "lat": 12.7,
+      "lng": 4.8333333
+    },
+    {
+      "cityName": "Gozange",
+      "lat": 13.6333333,
+      "lng": 4.5333333
+    },
+    {
+      "cityName": "Gudambe",
+      "lat": 12.9166667,
+      "lng": 4.7666667
+    },
+    {
+      "cityName": "Gude",
+      "lat": 12.6833333,
+      "lng": 4.7
+    },
+    {
+      "cityName": "Gudumgudum",
+      "lat": 13.6,
+      "lng": 5.25
+    },
+    {
+      "cityName": "Gudurega",
+      "lat": 12.6666667,
+      "lng": 4.9333333
+    },
+    {
+      "cityName": "Gulmare",
+      "lat": 12.4,
+      "lng": 4.5666667
+    },
+    {
+      "cityName": "Guma",
+      "lat": 12.4666667,
+      "lng": 5.0333333
+    },
+    {
+      "cityName": "Gumbai",
+      "lat": 12.5333333,
+      "lng": 4.7333333
+    },
+    {
+      "cityName": "Gumbenawa",
+      "lat": 13.1333333,
+      "lng": 5.2333333
+    },
+    {
+      "cityName": "Gumbi",
+      "lat": 13.0166667,
+      "lng": 5.15
+    },
+    {
+      "cityName": "Gumbilike",
+      "lat": 13.3333333,
+      "lng": 4.1833333
+    },
+    {
+      "cityName": "Gumil",
+      "lat": 12.3666667,
+      "lng": 4.7833333
+    },
+    {
+      "cityName": "Gundinga",
+      "lat": 13.2666667,
+      "lng": 5.15
+    },
+    {
+      "cityName": "Gundumi",
+      "lat": 13.1333333,
+      "lng": 6.0166667
+    },
+    {
+      "cityName": "Gura Sulu Bawa",
+      "lat": 12.4,
+      "lng": 4.7166667
+    },
+    {
+      "cityName": "Gurdam",
+      "lat": 13.4833333,
+      "lng": 4.7833333
+    },
+    {
+      "cityName": "Gwada-Bawa",
+      "lat": 13.3597222,
+      "lng": 5.2422222
+    },
+    {
+      "cityName": "Gwadadi",
+      "lat": 13.05,
+      "lng": 5.5666667
+    },
+    {
+      "cityName": "Gwadi",
+      "lat": 13.5833333,
+      "lng": 4.3833333
+    },
+    {
+      "cityName": "Gwandi",
+      "lat": 12.0333333,
+      "lng": 4.75
+    },
+    {
+      "cityName": "Gwandu",
+      "lat": 12.5,
+      "lng": 4.65
+    },
+    {
+      "cityName": "Gwangfa",
+      "lat": 13.0833333,
+      "lng": 5.1666667
+    },
+    {
+      "cityName": "Gwarka Ido",
+      "lat": 12.65,
+      "lng": 5.05
+    },
+    {
+      "cityName": "Gwarko",
+      "lat": 12.8666667,
+      "lng": 5.1666667
+    },
+    {
+      "cityName": "Gwazange",
+      "lat": 13.4166667,
+      "lng": 4.25
+    },
+    {
+      "cityName": "Gwogel",
+      "lat": 12.9333333,
+      "lng": 4.85
+    },
+    {
+      "cityName": "Gwomgomo",
+      "lat": 13.5666667,
+      "lng": 4.8666667
+    },
+    {
+      "cityName": "Gyaya",
+      "lat": 13.55,
+      "lng": 5.9333333
+    },
+    {
+      "cityName": "Hamma Ali",
+      "lat": 13.1666667,
+      "lng": 5.3166667
+    },
+    {
+      "cityName": "Hammari",
+      "lat": 12.9166667,
+      "lng": 5.45
+    },
+    {
+      "cityName": "Hasamawa",
+      "lat": 13.7833333,
+      "lng": 5.4166667
+    },
+    {
+      "cityName": "Hausare",
+      "lat": 12.5333333,
+      "lng": 4.9
+    },
+    {
+      "cityName": "Hayin Alhaji",
+      "lat": 12.0666667,
+      "lng": 7.1
+    },
+    {
+      "cityName": "Horo Majakai",
+      "lat": 12.9666667,
+      "lng": 5.1666667
+    },
+    {
+      "cityName": "Hunkui",
+      "lat": 13.3833333,
+      "lng": 4.9166667
+    },
+    {
+      "cityName": "Hura",
+      "lat": 13.75,
+      "lng": 5.35
+    },
+    {
+      "cityName": "Iderawa",
+      "lat": 13.7833333,
+      "lng": 5.45
+    },
+    {
+      "cityName": "Ilela",
+      "lat": 12.8333333,
+      "lng": 5.1333333
+    },
+    {
+      "cityName": "Illela Aweh",
+      "lat": 12.2,
+      "lng": 4.9666667
+    },
+    {
+      "cityName": "Illela Dawagare",
+      "lat": 13.35,
+      "lng": 5.6166667
+    },
+    {
+      "cityName": "Illela",
+      "lat": 12.1833333,
+      "lng": 4.75
+    },
+    {
+      "cityName": "Illela Kunyu",
+      "lat": 12.5666667,
+      "lng": 4.7333333
+    },
+    {
+      "cityName": "Iloje",
+      "lat": 12.1166667,
+      "lng": 4.5833333
+    },
+    {
+      "cityName": "Iname",
+      "lat": 13.2,
+      "lng": 4.9666667
+    },
+    {
+      "cityName": "Isa",
+      "lat": 13.2016667,
+      "lng": 6.4122222
+    },
+    {
+      "cityName": "Jabba Gidan Madugu",
+      "lat": 13.5,
+      "lng": 5.15
+    },
+    {
+      "cityName": "Jabo",
+      "lat": 12.5002778,
+      "lng": 4.9786111
+    },
+    {
+      "cityName": "Jaima",
+      "lat": 13.7333333,
+      "lng": 5.1833333
+    },
+    {
+      "cityName": "Jaja Dogowa",
+      "lat": 12.3166667,
+      "lng": 4.8
+    },
+    {
+      "cityName": "Jaja Gorogawa",
+      "lat": 12.3166667,
+      "lng": 4.8166667
+    },
+    {
+      "cityName": "Jaredi",
+      "lat": 12.7666667,
+      "lng": 5.1166667
+    },
+    {
+      "cityName": "Jargaba",
+      "lat": 13.55,
+      "lng": 5.9
+    },
+    {
+      "cityName": "Jariagi",
+      "lat": 12.4833333,
+      "lng": 4.8
+    },
+    {
+      "cityName": "Jarige",
+      "lat": 12.3166667,
+      "lng": 4.7333333
+    },
+    {
+      "cityName": "Jema",
+      "lat": 13.4166667,
+      "lng": 4.1666667
+    },
+    {
+      "cityName": "Jigo",
+      "lat": 13.5,
+      "lng": 4.75
+    },
+    {
+      "cityName": "Jimojimi Sule",
+      "lat": 13.7166667,
+      "lng": 4.6833333
+    },
+    {
+      "cityName": "Jirgu",
+      "lat": 12.7833333,
+      "lng": 5.3
+    },
+    {
+      "cityName": "Jiriga",
+      "lat": 12.8833333,
+      "lng": 5.15
+    },
+    {
+      "cityName": "Jodo",
+      "lat": 13.2833333,
+      "lng": 5.65
+    },
+    {
+      "cityName": "Kadade",
+      "lat": 13.8666667,
+      "lng": 5.4833333
+    },
+    {
+      "cityName": "Kadasaka",
+      "lat": 13.6833333,
+      "lng": 5.5333333
+    },
+    {
+      "cityName": "Kaddi",
+      "lat": 13.6166667,
+      "lng": 5.7333333
+    },
+    {
+      "cityName": "Kaffi",
+      "lat": 13.1333333,
+      "lng": 6.3666667
+    },
+    {
+      "cityName": "Kafi",
+      "lat": 13.6833333,
+      "lng": 5.7333333
+    },
+    {
+      "cityName": "Kagara",
+      "lat": 12.4833333,
+      "lng": 4.9833333
+    },
+    {
+      "cityName": "Kagara Rina",
+      "lat": 13.3833333,
+      "lng": 5.6
+    },
+    {
+      "cityName": "Kaideji",
+      "lat": 13.6166667,
+      "lng": 5.0333333
+    },
+    {
+      "cityName": "Kaie",
+      "lat": 13.1666667,
+      "lng": 4.6666667
+    },
+    {
+      "cityName": "Kaikaimako",
+      "lat": 13.5833333,
+      "lng": 5.9833333
+    },
+    {
+      "cityName": "Kaikazakka",
+      "lat": 13.4166667,
+      "lng": 5.9666667
+    },
+    {
+      "cityName": "Kajiji",
+      "lat": 12.5333333,
+      "lng": 4.9333333
+    },
+    {
+      "cityName": "Kakosso",
+      "lat": 12.75,
+      "lng": 4.8166667
+    },
+    {
+      "cityName": "Kalaba",
+      "lat": 13.4166667,
+      "lng": 5.3333333
+    },
+    {
+      "cityName": "Kalage",
+      "lat": 13.65,
+      "lng": 6.3
+    },
+    {
+      "cityName": "Kalakawa",
+      "lat": 13.2166667,
+      "lng": 5.2333333
+    },
+    {
+      "cityName": "Kalambaina",
+      "lat": 13.05,
+      "lng": 5.2
+    },
+    {
+      "cityName": "Kalangu",
+      "lat": 12.6333333,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Kalanjene",
+      "lat": 13.2666667,
+      "lng": 5.0666667
+    },
+    {
+      "cityName": "Kalikaderu",
+      "lat": 13.2333333,
+      "lng": 6.1666667
+    },
+    {
+      "cityName": "Kalmalo",
+      "lat": 13.7166667,
+      "lng": 5.25
+    },
+    {
+      "cityName": "Kamagama",
+      "lat": 12.7333333,
+      "lng": 4.8666667
+    },
+    {
+      "cityName": "Kambala",
+      "lat": 13.6166667,
+      "lng": 4.8666667
+    },
+    {
+      "cityName": "Kambama",
+      "lat": 12.6166667,
+      "lng": 5.2333333
+    },
+    {
+      "cityName": "Kambaza Hausawa",
+      "lat": 12.45,
+      "lng": 4.5666667
+    },
+    {
+      "cityName": "Kamitau",
+      "lat": 13.3,
+      "lng": 5.8666667
+    },
+    {
+      "cityName": "Kangi Balaru",
+      "lat": 12.65,
+      "lng": 4.9666667
+    },
+    {
+      "cityName": "Kanta",
+      "lat": 13.7833333,
+      "lng": 5.4833333
+    },
+    {
+      "cityName": "Kardidaye",
+      "lat": 12.9833333,
+      "lng": 5.4166667
+    },
+    {
+      "cityName": "Kardula",
+      "lat": 13.5677778,
+      "lng": 4.3613889
+    },
+    {
+      "cityName": "Karimi Maradu",
+      "lat": 12.3166667,
+      "lng": 4.7833333
+    },
+    {
+      "cityName": "Karma",
+      "lat": 12.1833333,
+      "lng": 4.7333333
+    },
+    {
+      "cityName": "Karoga",
+      "lat": 12.5833333,
+      "lng": 4.9
+    },
+    {
+      "cityName": "Kassarawa",
+      "lat": 12.95,
+      "lng": 5.2333333
+    },
+    {
+      "cityName": "Kasura",
+      "lat": 13.5666667,
+      "lng": 4.4666667
+    },
+    {
+      "cityName": "Katala",
+      "lat": 13.3166667,
+      "lng": 5.1166667
+    },
+    {
+      "cityName": "Katsura",
+      "lat": 13.6,
+      "lng": 4.4666667
+    },
+    {
+      "cityName": "Katutu",
+      "lat": 13.55,
+      "lng": 4.85
+    },
+    {
+      "cityName": "Kaura Dole",
+      "lat": 12.3,
+      "lng": 4.6833333
+    },
+    {
+      "cityName": "Kaura",
+      "lat": 12.6166667,
+      "lng": 5.0166667
+    },
+    {
+      "cityName": "Kaura Kimba",
+      "lat": 13.05,
+      "lng": 5.1166667
+    },
+    {
+      "cityName": "Kaura Malun",
+      "lat": 12.5833333,
+      "lng": 5.2833333
+    },
+    {
+      "cityName": "Kaurari",
+      "lat": 12.35,
+      "lng": 4.6333333
+    },
+    {
+      "cityName": "Kaurawa",
+      "lat": 13.6666667,
+      "lng": 4.9333333
+    },
+    {
+      "cityName": "Kaura Wanke",
+      "lat": 12.6166667,
+      "lng": 5
+    },
+    {
+      "cityName": "Kawanawa",
+      "lat": 12.9833333,
+      "lng": 5.2666667
+    },
+    {
+      "cityName": "Kaya",
+      "lat": 12.2,
+      "lng": 4.6333333
+    },
+    {
+      "cityName": "Kazaura",
+      "lat": 13.2833333,
+      "lng": 4.2
+    },
+    {
+      "cityName": "Kebba",
+      "lat": 12.1255556,
+      "lng": 4.7355556
+    },
+    {
+      "cityName": "Kekoke",
+      "lat": 13.6,
+      "lng": 4.4333333
+    },
+    {
+      "cityName": "Keloji",
+      "lat": 12.65,
+      "lng": 5.3333333
+    },
+    {
+      "cityName": "Kibiare",
+      "lat": 12.8333333,
+      "lng": 4.9
+    },
+    {
+      "cityName": "Kilea",
+      "lat": 13.6833333,
+      "lng": 5.5666667
+    },
+    {
+      "cityName": "Kindiru",
+      "lat": 12.85,
+      "lng": 5.3166667
+    },
+    {
+      "cityName": "Kirare",
+      "lat": 13.4333333,
+      "lng": 5.65
+    },
+    {
+      "cityName": "Kiri",
+      "lat": 13.6166667,
+      "lng": 5.5833333
+    },
+    {
+      "cityName": "Kiriya",
+      "lat": 13.2666667,
+      "lng": 4.9
+    },
+    {
+      "cityName": "Kiso",
+      "lat": 13.4552778,
+      "lng": 4.3447222
+    },
+    {
+      "cityName": "Kojio",
+      "lat": 13.45,
+      "lng": 5.6166667
+    },
+    {
+      "cityName": "Kokotau",
+      "lat": 13.3666667,
+      "lng": 4.6166667
+    },
+    {
+      "cityName": "Kolo",
+      "lat": 13.4666667,
+      "lng": 5.0166667
+    },
+    {
+      "cityName": "Koya",
+      "lat": 12.65,
+      "lng": 4.9166667
+    },
+    {
+      "cityName": "Kporaye",
+      "lat": 12.4,
+      "lng": 4.7833333
+    },
+    {
+      "cityName": "Kuafuri",
+      "lat": 13.4833333,
+      "lng": 4.75
+    },
+    {
+      "cityName": "Kubodu",
+      "lat": 13.0333333,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Kuifa",
+      "lat": 12.2,
+      "lng": 4.9833333
+    },
+    {
+      "cityName": "Kulafasa",
+      "lat": 12.95,
+      "lng": 5.1166667
+    },
+    {
+      "cityName": "Kunyu",
+      "lat": 12.5666667,
+      "lng": 4.75
+    },
+    {
+      "cityName": "Kuradina",
+      "lat": 13.7333333,
+      "lng": 4.9166667
+    },
+    {
+      "cityName": "Kurafe",
+      "lat": 13.0666667,
+      "lng": 5.2833333
+    },
+    {
+      "cityName": "Kurawa",
+      "lat": 13.5225,
+      "lng": 6.365
+    },
+    {
+      "cityName": "Kurebu",
+      "lat": 12.75,
+      "lng": 4.8
+    },
+    {
+      "cityName": "Kuringa",
+      "lat": 12.8333333,
+      "lng": 4.9666667
+    },
+    {
+      "cityName": "Kursa",
+      "lat": 13.75,
+      "lng": 5.4166667
+    },
+    {
+      "cityName": "Kurukuru",
+      "lat": 13.55,
+      "lng": 6.0166667
+    },
+    {
+      "cityName": "Kurusawa",
+      "lat": 13.75,
+      "lng": 5.4
+    },
+    {
+      "cityName": "Kusabuni",
+      "lat": 13.4166667,
+      "lng": 6.1166667
+    },
+    {
+      "cityName": "Kuzau",
+      "lat": 11.95,
+      "lng": 7.0666667
+    },
+    {
+      "cityName": "Kwadawa",
+      "lat": 13.2666667,
+      "lng": 5.7833333
+    },
+    {
+      "cityName": "Kwakwara",
+      "lat": 13.6,
+      "lng": 5.2166667
+    },
+    {
+      "cityName": "Kwakwazo",
+      "lat": 13.4833333,
+      "lng": 5.65
+    },
+    {
+      "cityName": "Kwalkwato",
+      "lat": 12.4166667,
+      "lng": 4.8666667
+    },
+    {
+      "cityName": "Kwanawa",
+      "lat": 12.9166667,
+      "lng": 5.3833333
+    },
+    {
+      "cityName": "Kwandi",
+      "lat": 12.9333333,
+      "lng": 5.3333333
+    },
+    {
+      "cityName": "Kwarabayi",
+      "lat": 12.4166667,
+      "lng": 4.75
+    },
+    {
+      "cityName": "Kwararap",
+      "lat": 13.4666667,
+      "lng": 4.3166667
+    },
+    {
+      "cityName": "Kware",
+      "lat": 13.2180556,
+      "lng": 5.2672222
+    },
+    {
+      "cityName": "Kwasgara",
+      "lat": 12.4833333,
+      "lng": 4.7
+    },
+    {
+      "cityName": "Kwaydasa",
+      "lat": 12.85,
+      "lng": 5.0166667
+    },
+    {
+      "cityName": "Kwazari",
+      "lat": 12.5,
+      "lng": 4.8166667
+    },
+    {
+      "cityName": "Kwolajiya",
+      "lat": 13.4833333,
+      "lng": 4.8666667
+    },
+    {
+      "cityName": "Kyanga",
+      "lat": 13.5166667,
+      "lng": 5.1833333
+    },
+    {
+      "cityName": "Labani",
+      "lat": 12.9333333,
+      "lng": 4.8166667
+    },
+    {
+      "cityName": "Labas",
+      "lat": 12.6833333,
+      "lng": 4.9666667
+    },
+    {
+      "cityName": "Labsani",
+      "lat": 13.4166667,
+      "lng": 4.85
+    },
+    {
+      "cityName": "Lakoda Hill",
+      "lat": 13.8,
+      "lng": 5.3833333
+    },
+    {
+      "cityName": "Lalle",
+      "lat": 12.35,
+      "lng": 4.7666667
+    },
+    {
+      "cityName": "Lambara",
+      "lat": 12.6333333,
+      "lng": 5.0833333
+    },
+    {
+      "cityName": "Leguwa",
+      "lat": 13.4666667,
+      "lng": 5.4
+    },
+    {
+      "cityName": "Lelabawa",
+      "lat": 13.1166667,
+      "lng": 5.05
+    },
+    {
+      "cityName": "Likingo",
+      "lat": 12.3,
+      "lng": 4.75
+    },
+    {
+      "cityName": "Lofa",
+      "lat": 12.6,
+      "lng": 5.4333333
+    },
+    {
+      "cityName": "Lokobi Magaji",
+      "lat": 12.9833333,
+      "lng": 5.0666667
+    },
+    {
+      "cityName": "Lordubi",
+      "lat": 12.85,
+      "lng": 5
+    },
+    {
+      "cityName": "Lugere",
+      "lat": 12.7333333,
+      "lng": 5.2
+    },
+    {
+      "cityName": "Lugu",
+      "lat": 13.2166667,
+      "lng": 6.45
+    },
+    {
+      "cityName": "Lukachi",
+      "lat": 12.6833333,
+      "lng": 5.0666667
+    },
+    {
+      "cityName": "Mabera",
+      "lat": 12.75,
+      "lng": 5.1333333
+    },
+    {
+      "cityName": "Madachi",
+      "lat": 12.2166667,
+      "lng": 4.55
+    },
+    {
+      "cityName": "Madadi",
+      "lat": 12.3666667,
+      "lng": 4.5666667
+    },
+    {
+      "cityName": "Madara",
+      "lat": 12.3666667,
+      "lng": 4.8333333
+    },
+    {
+      "cityName": "Madukka",
+      "lat": 12.9,
+      "lng": 5.5
+    },
+    {
+      "cityName": "Magabci",
+      "lat": 12.7166667,
+      "lng": 5.0666667
+    },
+    {
+      "cityName": "Magagindoke",
+      "lat": 13.5666667,
+      "lng": 6.3166667
+    },
+    {
+      "cityName": "Maganawa",
+      "lat": 12.9833333,
+      "lng": 5.1666667
+    },
+    {
+      "cityName": "Magaria",
+      "lat": 13.7166667,
+      "lng": 5
+    },
+    {
+      "cityName": "Magira",
+      "lat": 13.3666667,
+      "lng": 6.4666667
+    },
+    {
+      "cityName": "Maikada",
+      "lat": 12.3333333,
+      "lng": 4.6666667
+    },
+    {
+      "cityName": "Maikujera",
+      "lat": 13.0833333,
+      "lng": 5.5333333
+    },
+    {
+      "cityName": "Maikulki",
+      "lat": 13.1666667,
+      "lng": 4.9333333
+    },
+    {
+      "cityName": "Maikurfana",
+      "lat": 12.0166667,
+      "lng": 4.6166667
+    },
+    {
+      "cityName": "Maiwa",
+      "lat": 13.6166667,
+      "lng": 6.4166667
+    },
+    {
+      "cityName": "Majia",
+      "lat": 12.9,
+      "lng": 5.4
+    },
+    {
+      "cityName": "Makadi",
+      "lat": 12.8166667,
+      "lng": 5.3
+    },
+    {
+      "cityName": "Makuwana",
+      "lat": 13.5833333,
+      "lng": 6.25
+    },
+    {
+      "cityName": "Makwa",
+      "lat": 13.3441667,
+      "lng": 4.2583333
+    },
+    {
+      "cityName": "Makwarua",
+      "lat": 13.3333333,
+      "lng": 6.3166667
+    },
+    {
+      "cityName": "Malana",
+      "lat": 12.6333333,
+      "lng": 5.4833333
+    },
+    {
+      "cityName": "Male",
+      "lat": 13.1,
+      "lng": 4.8166667
+    },
+    {
+      "cityName": "Malgam",
+      "lat": 13.6833333,
+      "lng": 5.0166667
+    },
+    {
+      "cityName": "Malga Tawa",
+      "lat": 13.6833333,
+      "lng": 5.1
+    },
+    {
+      "cityName": "Malissa",
+      "lat": 12.45,
+      "lng": 4.7166667
+    },
+    {
+      "cityName": "Mallamawa",
+      "lat": 13.3,
+      "lng": 6.4333333
+    },
+    {
+      "cityName": "Mallamji",
+      "lat": 12.3902778,
+      "lng": 5.4411111
+    },
+    {
+      "cityName": "Maman Suka",
+      "lat": 13.55,
+      "lng": 5.3
+    },
+    {
+      "cityName": "Mandera",
+      "lat": 12.5166667,
+      "lng": 4.9
+    },
+    {
+      "cityName": "Manja",
+      "lat": 13.7333333,
+      "lng": 5.1333333
+    },
+    {
+      "cityName": "Mankeri",
+      "lat": 13.0166667,
+      "lng": 5.0833333
+    },
+    {
+      "cityName": "Mansuka",
+      "lat": 13.5833333,
+      "lng": 5.3
+    },
+    {
+      "cityName": "Manu",
+      "lat": 13.6666667,
+      "lng": 4.9166667
+    },
+    {
+      "cityName": "Maore",
+      "lat": 13.45,
+      "lng": 4.15
+    },
+    {
+      "cityName": "Marafa Gungu",
+      "lat": 12.9833333,
+      "lng": 4.8166667
+    },
+    {
+      "cityName": "Maraken Bori",
+      "lat": 13.6588889,
+      "lng": 4.47
+    },
+    {
+      "cityName": "Maraya",
+      "lat": 12.85,
+      "lng": 5.0666667
+    },
+    {
+      "cityName": "Mareke",
+      "lat": 12.6,
+      "lng": 4.9833333
+    },
+    {
+      "cityName": "Margai",
+      "lat": 12.1666667,
+      "lng": 4.7666667
+    },
+    {
+      "cityName": "Marnona",
+      "lat": 13.2166667,
+      "lng": 5.5
+    },
+    {
+      "cityName": "Maruda",
+      "lat": 12.4833333,
+      "lng": 4.7666667
+    },
+    {
+      "cityName": "Masama",
+      "lat": 12.4666667,
+      "lng": 4.7
+    },
+    {
+      "cityName": "Mashaya",
+      "lat": 13.5666667,
+      "lng": 6.0833333
+    },
+    {
+      "cityName": "Masu",
+      "lat": 12.2833333,
+      "lng": 4.6666667
+    },
+    {
+      "cityName": "Matate",
+      "lat": 13.2,
+      "lng": 6.3
+    },
+    {
+      "cityName": "Matau",
+      "lat": 12.6833333,
+      "lng": 5.3666667
+    },
+    {
+      "cityName": "Mazania",
+      "lat": 13.2833333,
+      "lng": 5.9666667
+    },
+    {
+      "cityName": "Mazare",
+      "lat": 12.7166667,
+      "lng": 5.05
+    },
+    {
+      "cityName": "Mele",
+      "lat": 13.4166667,
+      "lng": 5.2166667
+    },
+    {
+      "cityName": "Mode",
+      "lat": 13.1,
+      "lng": 5.3333333
+    },
+    {
+      "cityName": "Modoma",
+      "lat": 12.5666667,
+      "lng": 5.4833333
+    },
+    {
+      "cityName": "Morake Bori",
+      "lat": 13.6666667,
+      "lng": 4.5666667
+    },
+    {
+      "cityName": "Mortuno",
+      "lat": 12.1666667,
+      "lng": 4.7
+    },
+    {
+      "cityName": "Mulawa",
+      "lat": 13.5833333,
+      "lng": 4.8333333
+    },
+    {
+      "cityName": "Mulkusau",
+      "lat": 13.35,
+      "lng": 6.2166667
+    },
+    {
+      "cityName": "Nabaguda",
+      "lat": 12.3833333,
+      "lng": 4.7666667
+    },
+    {
+      "cityName": "Nahuchi",
+      "lat": 12.6166667,
+      "lng": 4.8833333
+    },
+    {
+      "cityName": "Nasarawa",
+      "lat": 12.6,
+      "lng": 4.8
+    },
+    {
+      "cityName": "Natsini",
+      "lat": 12.15,
+      "lng": 4.7666667
+    },
+    {
+      "cityName": "Nukuru",
+      "lat": 13.6166667,
+      "lng": 4.9833333
+    },
+    {
+      "cityName": "Olaho",
+      "lat": 13.3833333,
+      "lng": 5.2
+    },
+    {
+      "cityName": "Olobawa",
+      "lat": 12.6333333,
+      "lng": 4.9
+    },
+    {
+      "cityName": "Pilia",
+      "lat": 12.4833333,
+      "lng": 4.9666667
+    },
+    {
+      "cityName": "Rabah",
+      "lat": 13.1166667,
+      "lng": 5.5166667
+    },
+    {
+      "cityName": "Rafin Buda",
+      "lat": 12.5833333,
+      "lng": 5.4666667
+    },
+    {
+      "cityName": "Rafin Duma",
+      "lat": 13.85,
+      "lng": 5.55
+    },
+    {
+      "cityName": "Rafin Kubu",
+      "lat": 13.5166667,
+      "lng": 4.65
+    },
+    {
+      "cityName": "Raka Birni",
+      "lat": 13.45,
+      "lng": 5.15
+    },
+    {
+      "cityName": "Rakuma",
+      "lat": 12.3333333,
+      "lng": 4.7
+    },
+    {
+      "cityName": "Rango",
+      "lat": 12.3666667,
+      "lng": 4.5333333
+    },
+    {
+      "cityName": "Rara",
+      "lat": 13.0166667,
+      "lng": 5.6
+    },
+    {
+      "cityName": "Riji",
+      "lat": 13.0833333,
+      "lng": 5.5
+    },
+    {
+      "cityName": "Rikaka",
+      "lat": 13.2166667,
+      "lng": 5.6666667
+    },
+    {
+      "cityName": "Rikeni",
+      "lat": 12.9833333,
+      "lng": 5.2833333
+    },
+    {
+      "cityName": "Rinai",
+      "lat": 12.5833333,
+      "lng": 5.25
+    },
+    {
+      "cityName": "Rogan Magaji",
+      "lat": 12.6833333,
+      "lng": 5.1333333
+    },
+    {
+      "cityName": "Roga",
+      "lat": 12.5333333,
+      "lng": 4.9166667
+    },
+    {
+      "cityName": "Romo",
+      "lat": 12.2333333,
+      "lng": 4.6
+    },
+    {
+      "cityName": "Romo Sarki",
+      "lat": 12.2166667,
+      "lng": 4.6
+    },
+    {
+      "cityName": "Ruawuri",
+      "lat": 13.7166667,
+      "lng": 4.9666667
+    },
+    {
+      "cityName": "Ruga Dutse",
+      "lat": 12.9666667,
+      "lng": 5.2666667
+    },
+    {
+      "cityName": "Ruga Kaya",
+      "lat": 12.6666667,
+      "lng": 4.9166667
+    },
+    {
+      "cityName": "Rugan Burla",
+      "lat": 12.5833333,
+      "lng": 4.9166667
+    },
+    {
+      "cityName": "Rugandawa",
+      "lat": 12.4666667,
+      "lng": 4.75
+    },
+    {
+      "cityName": "Rugan Kale",
+      "lat": 12.7333333,
+      "lng": 5.1333333
+    },
+    {
+      "cityName": "Rugar Jatau",
+      "lat": 12.9666667,
+      "lng": 5.1333333
+    },
+    {
+      "cityName": "Rugar Shaudu",
+      "lat": 12.4666667,
+      "lng": 4.8166667
+    },
+    {
+      "cityName": "Rugu Huru",
+      "lat": 13.5833333,
+      "lng": 5.2333333
+    },
+    {
+      "cityName": "Rujin Magaji",
+      "lat": 12.85,
+      "lng": 5.3
+    },
+    {
+      "cityName": "Rumbuki",
+      "lat": 12.4833333,
+      "lng": 4.7166667
+    },
+    {
+      "cityName": "Rumji Dan Tudu",
+      "lat": 13.7,
+      "lng": 5.2
+    },
+    {
+      "cityName": "Rumjin Dutse",
+      "lat": 13.6833333,
+      "lng": 5.2
+    },
+    {
+      "cityName": "Rundti",
+      "lat": 12.9333333,
+      "lng": 4.9
+    },
+    {
+      "cityName": "Sabawa",
+      "lat": 12.3333333,
+      "lng": 4.8333333
+    },
+    {
+      "cityName": "Sabiu",
+      "lat": 13.75,
+      "lng": 4.8833333
+    },
+    {
+      "cityName": "Sabla",
+      "lat": 12.75,
+      "lng": 4.7166667
+    },
+    {
+      "cityName": "Sabon Birni",
+      "lat": 12.4666667,
+      "lng": 4.7666667
+    },
+    {
+      "cityName": "Sabon Gida",
+      "lat": 13.6166667,
+      "lng": 5.6333333
+    },
+    {
+      "cityName": "Sadingo",
+      "lat": 12.9166667,
+      "lng": 5.4166667
+    },
+    {
+      "cityName": "Saida",
+      "lat": 12.6833333,
+      "lng": 4.85
+    },
+    {
+      "cityName": "Saikinta",
+      "lat": 13.3833333,
+      "lng": 4.1833333
+    },
+    {
+      "cityName": "Sainyinan Daji",
+      "lat": 12.6933333,
+      "lng": 4.8725
+    },
+    {
+      "cityName": "Sainyinna",
+      "lat": 13.45,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Sakanaw",
+      "lat": 12.5,
+      "lng": 4.9833333
+    },
+    {
+      "cityName": "Sakandu",
+      "lat": 12.8833333,
+      "lng": 5.4333333
+    },
+    {
+      "cityName": "Salame",
+      "lat": 13.3666667,
+      "lng": 5.4
+    },
+    {
+      "cityName": "Sala",
+      "lat": 12.5166667,
+      "lng": 4.8333333
+    },
+    {
+      "cityName": "Salawa",
+      "lat": 13.3833333,
+      "lng": 4.2
+    },
+    {
+      "cityName": "Salewa",
+      "lat": 13.4,
+      "lng": 5.1166667
+    },
+    {
+      "cityName": "Samalu",
+      "lat": 13.1,
+      "lng": 5.0166667
+    },
+    {
+      "cityName": "Sambo Dorni",
+      "lat": 12.9,
+      "lng": 5.3833333
+    },
+    {
+      "cityName": "Samma",
+      "lat": 12.4333333,
+      "lng": 4.85
+    },
+    {
+      "cityName": "Sangiwa",
+      "lat": 12.8333333,
+      "lng": 5.6666667
+    },
+    {
+      "cityName": "Sardauna",
+      "lat": 13.4166667,
+      "lng": 6.3833333
+    },
+    {
+      "cityName": "Sarma",
+      "lat": 13.65,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Sarma Tudu",
+      "lat": 13.6833333,
+      "lng": 5.1166667
+    },
+    {
+      "cityName": "Satuka",
+      "lat": 13.4666667,
+      "lng": 4.2333333
+    },
+    {
+      "cityName": "Sauna",
+      "lat": 13.5833333,
+      "lng": 5.2
+    },
+    {
+      "cityName": "Segera",
+      "lat": 13.8,
+      "lng": 5.4833333
+    },
+    {
+      "cityName": "Sesheda",
+      "lat": 12.5333333,
+      "lng": 4.6833333
+    },
+    {
+      "cityName": "Shagari",
+      "lat": 12.6333333,
+      "lng": 5
+    },
+    {
+      "cityName": "Shinaka",
+      "lat": 13.4666667,
+      "lng": 5.7333333
+    },
+    {
+      "cityName": "Shitalo",
+      "lat": 13.3333333,
+      "lng": 4.15
+    },
+    {
+      "cityName": "Shuni",
+      "lat": 12.95,
+      "lng": 5.2833333
+    },
+    {
+      "cityName": "Sifawa",
+      "lat": 12.8166667,
+      "lng": 5.1333333
+    },
+    {
+      "cityName": "Silame",
+      "lat": 13.0333333,
+      "lng": 4.85
+    },
+    {
+      "cityName": "Sitti",
+      "lat": 13.3333333,
+      "lng": 4.9666667
+    },
+    {
+      "cityName": "Sobon Birni",
+      "lat": 13.5744444,
+      "lng": 6.3388889
+    },
+    {
+      "cityName": "Socoto",
+      "lat": 13.0513889,
+      "lng": 5.2313889
+    },
+    {
+      "cityName": "Sokwoi",
+      "lat": 13.5666667,
+      "lng": 4.9333333
+    },
+    {
+      "cityName": "Sonani",
+      "lat": 13.7333333,
+      "lng": 5.3
+    },
+    {
+      "cityName": "Soni",
+      "lat": 13.7166667,
+      "lng": 5.0166667
+    },
+    {
+      "cityName": "Surami",
+      "lat": 13.1,
+      "lng": 4.8833333
+    },
+    {
+      "cityName": "Tabkin Kaiwa",
+      "lat": 12.7,
+      "lng": 5.4666667
+    },
+    {
+      "cityName": "Tafarka",
+      "lat": 12.7666667,
+      "lng": 4.8166667
+    },
+    {
+      "cityName": "Tagkaw",
+      "lat": 13.5166667,
+      "lng": 4.8333333
+    },
+    {
+      "cityName": "Tajimba",
+      "lat": 13.6,
+      "lng": 4.7833333
+    },
+    {
+      "cityName": "Takalmawa",
+      "lat": 12.65,
+      "lng": 5.0666667
+    },
+    {
+      "cityName": "Takatuku",
+      "lat": 12.8833333,
+      "lng": 5.1833333
+    },
+    {
+      "cityName": "Talabani",
+      "lat": 13.5166667,
+      "lng": 4.75
+    },
+    {
+      "cityName": "Talba",
+      "lat": 13.45,
+      "lng": 4.85
+    },
+    {
+      "cityName": "Taloka",
+      "lat": 13.45,
+      "lng": 5.6833333
+    },
+    {
+      "cityName": "Tambawal",
+      "lat": 12.4041667,
+      "lng": 4.6622222
+    },
+    {
+      "cityName": "Tambuje",
+      "lat": 13.5833333,
+      "lng": 5.4
+    },
+    {
+      "cityName": "Tangaza",
+      "lat": 13.3666667,
+      "lng": 4.9333333
+    },
+    {
+      "cityName": "Tangwale",
+      "lat": 13.1666667,
+      "lng": 5.25
+    },
+    {
+      "cityName": "Tapkin Fuss",
+      "lat": 13.5666667,
+      "lng": 4.5333333
+    },
+    {
+      "cityName": "Tapkin Taramna",
+      "lat": 13.7166667,
+      "lng": 5.1833333
+    },
+    {
+      "cityName": "Tara",
+      "lat": 13.4666667,
+      "lng": 6.3666667
+    },
+    {
+      "cityName": "Tilas",
+      "lat": 13.3166667,
+      "lng": 4.2166667
+    },
+    {
+      "cityName": "Toidi",
+      "lat": 13.2333333,
+      "lng": 4.95
+    },
+    {
+      "cityName": "Tokwacho",
+      "lat": 12.3333333,
+      "lng": 5.05
+    },
+    {
+      "cityName": "Toma",
+      "lat": 12.8333333,
+      "lng": 5.1666667
+    },
+    {
+      "cityName": "Toronkawa",
+      "lat": 12.75,
+      "lng": 4.8666667
+    },
+    {
+      "cityName": "Tozai",
+      "lat": 13.6833333,
+      "lng": 5.3666667
+    },
+    {
+      "cityName": "Tozei",
+      "lat": 13.2666667,
+      "lng": 6.4166667
+    },
+    {
+      "cityName": "Tozo",
+      "lat": 13.0166667,
+      "lng": 4.9166667
+    },
+    {
+      "cityName": "Tsamai",
+      "lat": 13.5638889,
+      "lng": 5.9430556
+    },
+    {
+      "cityName": "Tsama",
+      "lat": 12.5833333,
+      "lng": 5.4
+    },
+    {
+      "cityName": "Tsaro",
+      "lat": 13.65,
+      "lng": 5.9166667
+    },
+    {
+      "cityName": "Tsofa",
+      "lat": 12.65,
+      "lng": 5
+    },
+    {
+      "cityName": "Tsugune",
+      "lat": 13.5666667,
+      "lng": 5.9166667
+    },
+    {
+      "cityName": "Tudun Dawaki",
+      "lat": 13.4,
+      "lng": 5.2666667
+    },
+    {
+      "cityName": "Tudun Kulul",
+      "lat": 13.6833333,
+      "lng": 5.6166667
+    },
+    {
+      "cityName": "Tudun Samberu",
+      "lat": 12.5833333,
+      "lng": 5.2666667
+    },
+    {
+      "cityName": "Tudu",
+      "lat": 13.4666667,
+      "lng": 4.25
+    },
+    {
+      "cityName": "Tuga Nama",
+      "lat": 13.75,
+      "lng": 5.2833333
+    },
+    {
+      "cityName": "Tugan Bujoije",
+      "lat": 13.5166667,
+      "lng": 5.9666667
+    },
+    {
+      "cityName": "Tukando",
+      "lat": 13.6333333,
+      "lng": 4.9166667
+    },
+    {
+      "cityName": "Tukudawa",
+      "lat": 13.1666667,
+      "lng": 6.45
+    },
+    {
+      "cityName": "Tulluwa",
+      "lat": 12.5666667,
+      "lng": 5.4
+    },
+    {
+      "cityName": "Tulua Hausa",
+      "lat": 13.3,
+      "lng": 4.2833333
+    },
+    {
+      "cityName": "Tulua Takabawa",
+      "lat": 13.2833333,
+      "lng": 4.2833333
+    },
+    {
+      "cityName": "Tulua",
+      "lat": 12.3,
+      "lng": 4.7833333
+    },
+    {
+      "cityName": "Tulum Bere",
+      "lat": 13.35,
+      "lng": 4.15
+    },
+    {
+      "cityName": "Tulutu",
+      "lat": 13.45,
+      "lng": 5.8166667
+    },
+    {
+      "cityName": "Tumbulumkum",
+      "lat": 13.7,
+      "lng": 5.1666667
+    },
+    {
+      "cityName": "Tumuna",
+      "lat": 13.4333333,
+      "lng": 4.9833333
+    },
+    {
+      "cityName": "Tuna",
+      "lat": 13.1666667,
+      "lng": 4.8666667
+    },
+    {
+      "cityName": "Tunga Kwangi",
+      "lat": 13.4333333,
+      "lng": 5.2833333
+    },
+    {
+      "cityName": "Tungan Kuria",
+      "lat": 12.4666667,
+      "lng": 4.7333333
+    },
+    {
+      "cityName": "Tungan Rungunmawa",
+      "lat": 13.8,
+      "lng": 5.3333333
+    },
+    {
+      "cityName": "Tunkarra",
+      "lat": 13.5166667,
+      "lng": 5.2
+    },
+    {
+      "cityName": "Tunkurawa",
+      "lat": 13.2833333,
+      "lng": 4.9833333
+    },
+    {
+      "cityName": "Tunugara",
+      "lat": 13.7166667,
+      "lng": 4.8666667
+    },
+    {
+      "cityName": "Tupal",
+      "lat": 13.8333333,
+      "lng": 5.45
+    },
+    {
+      "cityName": "Turba",
+      "lat": 13.2833333,
+      "lng": 6.3833333
+    },
+    {
+      "cityName": "Tureta",
+      "lat": 12.5894444,
+      "lng": 5.5469444
+    },
+    {
+      "cityName": "Turetta",
+      "lat": 13.5833333,
+      "lng": 4.3666667
+    },
+    {
+      "cityName": "Tursa",
+      "lat": 13.2333333,
+      "lng": 5.6833333
+    },
+    {
+      "cityName": "Ubandoma",
+      "lat": 13.1166667,
+      "lng": 5.2666667
+    },
+    {
+      "cityName": "Udan Marki",
+      "lat": 13.3166667,
+      "lng": 4.5666667
+    },
+    {
+      "cityName": "Umara",
+      "lat": 12.95,
+      "lng": 5.1333333
+    },
+    {
+      "cityName": "Umbulula",
+      "lat": 13.6,
+      "lng": 5.4666667
+    },
+    {
+      "cityName": "Umbutu",
+      "lat": 12.15,
+      "lng": 4.6833333
+    },
+    {
+      "cityName": "Ungushi",
+      "lat": 12.0166667,
+      "lng": 4.6666667
+    },
+    {
+      "cityName": "Unguwa Lalle",
+      "lat": 13.5833333,
+      "lng": 6.1
+    },
+    {
+      "cityName": "Ungwan Alu",
+      "lat": 12.45,
+      "lng": 4.8333333
+    },
+    {
+      "cityName": "Ungwan Barebari",
+      "lat": 12.0166667,
+      "lng": 7.1
+    },
+    {
+      "cityName": "Ungwan Malamawa",
+      "lat": 12.55,
+      "lng": 4.9166667
+    },
+    {
+      "cityName": "Ungwan Waki",
+      "lat": 12.2166667,
+      "lng": 4.9833333
+    },
+    {
+      "cityName": "Wababi",
+      "lat": 12.8666667,
+      "lng": 5.4
+    },
+    {
+      "cityName": "Walka",
+      "lat": 12.9666667,
+      "lng": 5.45
+    },
+    {
+      "cityName": "Wamakka",
+      "lat": 13.0377778,
+      "lng": 5.0936111
+    },
+    {
+      "cityName": "Wamfere",
+      "lat": 12.6,
+      "lng": 5.2833333
+    },
+    {
+      "cityName": "Waria",
+      "lat": 13.65,
+      "lng": 4.9833333
+    },
+    {
+      "cityName": "Wauru",
+      "lat": 13.7666667,
+      "lng": 5.5
+    },
+    {
+      "cityName": "Wayage",
+      "lat": 13.5666667,
+      "lng": 4.85
+    },
+    {
+      "cityName": "Wumumu",
+      "lat": 12.7,
+      "lng": 5.3333333
+    },
+    {
+      "cityName": "Wurno",
+      "lat": 13.2841667,
+      "lng": 5.4275
+    },
+    {
+      "cityName": "Yabawa",
+      "lat": 12.7166667,
+      "lng": 5.3
+    },
+    {
+      "cityName": "Yabo",
+      "lat": 12.7216667,
+      "lng": 5.0155556
+    },
+    {
+      "cityName": "Yagawel",
+      "lat": 12.3666667,
+      "lng": 4.7166667
+    },
+    {
+      "cityName": "Yakkadaji",
+      "lat": 13.3333333,
+      "lng": 4.3
+    },
+    {
+      "cityName": "Yakka",
+      "lat": 13.3333333,
+      "lng": 4.3666667
+    },
+    {
+      "cityName": "Yamadela",
+      "lat": 12.35,
+      "lng": 4.7833333
+    },
+    {
+      "cityName": "Yamu",
+      "lat": 13.5,
+      "lng": 4.3666667
+    },
+    {
+      "cityName": "Yan Wari",
+      "lat": 12.0666667,
+      "lng": 7.0833333
+    },
+    {
+      "cityName": "Yegau",
+      "lat": 13.45,
+      "lng": 6.2166667
+    },
+    {
+      "cityName": "Yelwa",
+      "lat": 12.1,
+      "lng": 7.0833333
+    },
+    {
+      "cityName": "Yerimawa",
+      "lat": 13.5,
+      "lng": 5.9
+    },
+    {
+      "cityName": "Yole Birni",
+      "lat": 12.4166667,
+      "lng": 4.6
+    },
+    {
+      "cityName": "Yole Magorawa",
+      "lat": 12.4333333,
+      "lng": 4.6166667
+    },
+    {
+      "cityName": "Zamau",
+      "lat": 12.9833333,
+      "lng": 5.35
+    },
+    {
+      "cityName": "Zeggi",
+      "lat": 13.0666667,
+      "lng": 4.7
+    },
+    {
+      "cityName": "Zurmuku",
+      "lat": 13.5333333,
+      "lng": 5.1166667
+    }
+  ]
+}

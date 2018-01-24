@@ -1,0 +1,38 @@
+{
+  "name": "Saint Barthélemy",
+  "iso2": "bl",
+  "capital": {
+    "DLST": "null",
+    "TD": -4,
+    "Flg": 2,
+    "Name": "Gustavia",
+    "GeoPt": [
+      17.53,
+      -62.51
+    ]
+  },
+  "geoRectangle": {
+    "West": -62.8763618469,
+    "East": -62.7924041748,
+    "North": 17.9326896667,
+    "South": 17.883939743
+  },
+  "regionList": null,
+  "cities": [
+    {
+      "cityName": "Gustavia",
+      "lng": -62.849781,
+      "lat": 17.896179
+    },
+    {
+      "cityName": "Saint-Barthélemy",
+      "lng": -62.833328,
+      "lat": 17.9
+    },
+    {
+      "cityName": "Public",
+      "lng": -62.849998,
+      "lat": 17.9
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Germany",
+  "iso2": "de",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Baden-Wurttemberg",
+      "id": 0
+    },
+    {
+      "name": "Bayern",
+      "id": 1
+    },
+    {
+      "name": "Berlin",
+      "id": 2
+    },
+    {
+      "name": "Brandenburg",
+      "id": 3
+    },
+    {
+      "name": "Bremen",
+      "id": 4
+    },
+    {
+      "name": "Hamburg",
+      "id": 5
+    },
+    {
+      "name": "Hessen",
+      "id": 6
+    },
+    {
+      "name": "Mecklenburg-Vorpommern",
+      "id": 7
+    },
+    {
+      "name": "Niedersachsen",
+      "id": 8
+    },
+    {
+      "name": "Nordrhein-Westfalen",
+      "id": 9
+    },
+    {
+      "name": "Rheinland-Pfalz",
+      "id": 10
+    },
+    {
+      "name": "Saarland",
+      "id": 11
+    },
+    {
+      "name": "Sachsen",
+      "id": 12
+    },
+    {
+      "name": "Sachsen-Anhalt",
+      "id": 13
+    },
+    {
+      "name": "Schleswig-Holstein",
+      "id": 14
+    },
+    {
+      "name": "Thuringen",
+      "id": 15
+    }
+  ],
+  "geoRectangle": {
+    "West": 5.86563825607,
+    "East": 15.0398902893,
+    "North": 55.0556411743,
+    "South": 47.2757720947
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Berlin",
+    "GeoPt": [
+      52.31,
+      13.24
+    ]
+  }
+}

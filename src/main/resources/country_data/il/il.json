@@ -1,0 +1,47 @@
+{
+  "name": "Israel",
+  "iso2": "il",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "HaDarom",
+      "id": 0
+    },
+    {
+      "name": "HaMerkaz",
+      "id": 1
+    },
+    {
+      "name": "HaZafon",
+      "id": 2
+    },
+    {
+      "name": "Hefa",
+      "id": 3
+    },
+    {
+      "name": "Tel Aviv",
+      "id": 4
+    },
+    {
+      "name": "Yerushalayim",
+      "id": 5
+    }
+  ],
+  "geoRectangle": {
+    "West": 34.2304420471,
+    "East": 35.8768081665,
+    "North": 33.3401412964,
+    "South": 29.496635437
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Jerusalem",
+    "GeoPt": [
+      31.46,
+      35.14
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Somalia",
+  "iso2": "so",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Bakool",
+      "id": 0
+    },
+    {
+      "name": "Banaadir",
+      "id": 1
+    },
+    {
+      "name": "Bari",
+      "id": 2
+    },
+    {
+      "name": "Bay",
+      "id": 3
+    },
+    {
+      "name": "Galguduud",
+      "id": 4
+    },
+    {
+      "name": "Gedo",
+      "id": 5
+    },
+    {
+      "name": "Hiiraan",
+      "id": 6
+    },
+    {
+      "name": "Jubbada Dhexe",
+      "id": 7
+    },
+    {
+      "name": "Jubbada Hoose",
+      "id": 8
+    },
+    {
+      "name": "Mudug",
+      "id": 9
+    },
+    {
+      "name": "Nugaal",
+      "id": 10
+    },
+    {
+      "name": "Sanaag",
+      "id": 11
+    },
+    {
+      "name": "Shabeellaha Dhexe",
+      "id": 12
+    },
+    {
+      "name": "Shabeellaha Hoose",
+      "id": 13
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 14
+    },
+    {
+      "name": "Unnamed region 02",
+      "id": 15
+    },
+    {
+      "name": "Woqooyi Galbeed",
+      "id": 16
+    }
+  ],
+  "geoRectangle": {
+    "West": 40.9865875244,
+    "East": 51.4126434326,
+    "North": 11.9791669846,
+    "South": -1.67486822605
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 3,
+    "Flg": 2,
+    "Name": "Mogadishu",
+    "GeoPt": [
+      2.04,
+      45.22
+    ]
+  }
+}

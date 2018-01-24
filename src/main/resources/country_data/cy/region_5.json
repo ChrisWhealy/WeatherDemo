@@ -1,0 +1,735 @@
+{
+  "name": "Paphos",
+  "cities": [
+    {
+      "cityName": "Acheleia",
+      "lat": 34.7416667,
+      "lng": 32.4875
+    },
+    {
+      "cityName": "AgÄ±llar",
+      "lat": 34.7166667,
+      "lng": 32.5333333
+    },
+    {
+      "cityName": "Agia Marina",
+      "lat": 34.8291667,
+      "lng": 32.6166667
+    },
+    {
+      "cityName": "Agia Marinouda",
+      "lat": 34.7625,
+      "lng": 32.475
+    },
+    {
+      "cityName": "Agia Varvara",
+      "lat": 34.75,
+      "lng": 32.5125
+    },
+    {
+      "cityName": "Agios Dimitrianos",
+      "lat": 34.9083333,
+      "lng": 32.55
+    },
+    {
+      "cityName": "Agios Fotios",
+      "lat": 34.875,
+      "lng": 32.6125
+    },
+    {
+      "cityName": "Agios Georgios",
+      "lat": 34.7791667,
+      "lng": 32.65
+    },
+    {
+      "cityName": "Agios Ioannis",
+      "lat": 34.8708333,
+      "lng": 32.6916667
+    },
+    {
+      "cityName": "Agios Isidoros",
+      "lat": 35,
+      "lng": 32.475
+    },
+    {
+      "cityName": "Agios Nikolaos",
+      "lat": 34.8625,
+      "lng": 32.7375
+    },
+    {
+      "cityName": "Agyia",
+      "lat": 34.9833333,
+      "lng": 32.625
+    },
+    {
+      "cityName": "Akarsu",
+      "lat": 34.8875,
+      "lng": 32.4208333
+    },
+    {
+      "cityName": "AkkargÄ±",
+      "lat": 34.8375,
+      "lng": 32.5333333
+    },
+    {
+      "cityName": "Aksilou",
+      "lat": 34.8125,
+      "lng": 32.5541667
+    },
+    {
+      "cityName": "Aktepe",
+      "lat": 34.925,
+      "lng": 32.6166667
+    },
+    {
+      "cityName": "AltÄ±ncÄ±k",
+      "lat": 35.005,
+      "lng": 32.4372222
+    },
+    {
+      "cityName": "Amarget",
+      "lat": 34.825,
+      "lng": 32.5833333
+    },
+    {
+      "cityName": "Anadhiou",
+      "lat": 34.9458333,
+      "lng": 32.55
+    },
+    {
+      "cityName": "Anarida",
+      "lat": 34.7416667,
+      "lng": 32.5333333
+    },
+    {
+      "cityName": "Anavargo",
+      "lat": 34.7958333,
+      "lng": 32.45
+    },
+    {
+      "cityName": "Androhkou",
+      "lat": 34.9986111,
+      "lng": 32.3827778
+    },
+    {
+      "cityName": "Argaca",
+      "lat": 35.0644444,
+      "lng": 32.5
+    },
+    {
+      "cityName": "Arkhimandrita",
+      "lat": 34.75,
+      "lng": 32.6791667
+    },
+    {
+      "cityName": "Arminou",
+      "lat": 34.8625,
+      "lng": 32.7208333
+    },
+    {
+      "cityName": "Armou",
+      "lat": 34.8,
+      "lng": 32.4791667
+    },
+    {
+      "cityName": "Arodhes",
+      "lat": 34.9416667,
+      "lng": 32.4041667
+    },
+    {
+      "cityName": "AsagÄ± Akurdalya",
+      "lat": 34.9541667,
+      "lng": 32.45
+    },
+    {
+      "cityName": "AsagÄ± Arhimandrita",
+      "lat": 34.7375,
+      "lng": 32.6791667
+    },
+    {
+      "cityName": "AsagÄ±yayla",
+      "lat": 35.1155556,
+      "lng": 32.5169444
+    },
+    {
+      "cityName": "Aydogan",
+      "lat": 34.7875,
+      "lng": 32.6166667
+    },
+    {
+      "cityName": "Ayia Marina Khrysokhou",
+      "lat": 35.1125,
+      "lng": 32.5375
+    },
+    {
+      "cityName": "Baf",
+      "lat": 34.7666667,
+      "lng": 32.4166667
+    },
+    {
+      "cityName": "BagrÄ±kara",
+      "lat": 34.75,
+      "lng": 32.6333333
+    },
+    {
+      "cityName": "Bakacak",
+      "lat": 35.0491667,
+      "lng": 32.4880556
+    },
+    {
+      "cityName": "Besikte",
+      "lat": 34.9916667,
+      "lng": 32.525
+    },
+    {
+      "cityName": "Bozalan",
+      "lat": 34.9041667,
+      "lng": 32.5958333
+    },
+    {
+      "cityName": "Çada",
+      "lat": 34.8416667,
+      "lng": 32.475
+    },
+    {
+      "cityName": "CÄ±gÄ±r",
+      "lat": 34.8375,
+      "lng": 32.7375
+    },
+    {
+      "cityName": "CakÄ±rlar",
+      "lat": 34.9666667,
+      "lng": 32.425
+    },
+    {
+      "cityName": "Cedar Valley",
+      "lat": 34.9833333,
+      "lng": 32.6833333
+    },
+    {
+      "cityName": "Celocera",
+      "lat": 34.8,
+      "lng": 32.65
+    },
+    {
+      "cityName": "Ceyhan",
+      "lat": 34.8166667,
+      "lng": 32.7208333
+    },
+    {
+      "cityName": "Chlorakas",
+      "lat": 34.8041667,
+      "lng": 32.4083333
+    },
+    {
+      "cityName": "Choletria",
+      "lat": 34.775,
+      "lng": 32.5875
+    },
+    {
+      "cityName": "Choli",
+      "lat": 34.9791667,
+      "lng": 32.4458333
+    },
+    {
+      "cityName": "Choulou",
+      "lat": 34.8708333,
+      "lng": 32.5541667
+    },
+    {
+      "cityName": "Cili",
+      "lat": 34.8625,
+      "lng": 32.4583333
+    },
+    {
+      "cityName": "Cilinya",
+      "lat": 34.8833333,
+      "lng": 32.6333333
+    },
+    {
+      "cityName": "Cinusa",
+      "lat": 35.0319444,
+      "lng": 32.5113889
+    },
+    {
+      "cityName": "CiralÄ±",
+      "lat": 34.8083333,
+      "lng": 32.4166667
+    },
+    {
+      "cityName": "Cisonerga",
+      "lat": 34.825,
+      "lng": 32.4
+    },
+    {
+      "cityName": "Dagasan",
+      "lat": 34.8916667,
+      "lng": 32.6583333
+    },
+    {
+      "cityName": "Dalâ",
+      "lat": 34.8375,
+      "lng": 32.4333333
+    },
+    {
+      "cityName": "Dereboyu",
+      "lat": 34.9625,
+      "lng": 32.4833333
+    },
+    {
+      "cityName": "Dhora",
+      "lat": 34.7833333,
+      "lng": 32.7375
+    },
+    {
+      "cityName": "Dhrinia",
+      "lat": 34.9166667,
+      "lng": 32.5333333
+    },
+    {
+      "cityName": "Dhrousha",
+      "lat": 34.9625,
+      "lng": 32.4
+    },
+    {
+      "cityName": "Dhrymo",
+      "lat": 34.925,
+      "lng": 32.5166667
+    },
+    {
+      "cityName": "Dimi",
+      "lat": 34.7333333,
+      "lng": 32.5166667
+    },
+    {
+      "cityName": "Eledhiou",
+      "lat": 34.8208333,
+      "lng": 32.5708333
+    },
+    {
+      "cityName": "Emba",
+      "lat": 34.8083333,
+      "lng": 32.425
+    },
+    {
+      "cityName": "Episcopí",
+      "lat": 34.7958333,
+      "lng": 32.525
+    },
+    {
+      "cityName": "Faleia",
+      "lat": 34.8583333,
+      "lng": 32.5875
+    },
+    {
+      "cityName": "Fasli",
+      "lat": 34.9833333,
+      "lng": 32.3708333
+    },
+    {
+      "cityName": "Fidi",
+      "lat": 34.9291667,
+      "lng": 32.55
+    },
+    {
+      "cityName": "Filousa",
+      "lat": 34.8541667,
+      "lng": 32.7458333
+    },
+    {
+      "cityName": "Finikas",
+      "lat": 34.7541667,
+      "lng": 32.5666667
+    },
+    {
+      "cityName": "Gahiga",
+      "lat": 34.9166667,
+      "lng": 32.425
+    },
+    {
+      "cityName": "Galataria",
+      "lat": 34.8791667,
+      "lng": 32.6333333
+    },
+    {
+      "cityName": "Gallepya",
+      "lat": 34.8458333,
+      "lng": 32.5
+    },
+    {
+      "cityName": "Geroskipou",
+      "lat": 34.7666667,
+      "lng": 32.4666667
+    },
+    {
+      "cityName": "Gialia",
+      "lat": 35.0833333,
+      "lng": 32.5333333
+    },
+    {
+      "cityName": "Giolou",
+      "lat": 34.9166667,
+      "lng": 32.4666667
+    },
+    {
+      "cityName": "Girit Marot",
+      "lat": 34.9291667,
+      "lng": 32.5625
+    },
+    {
+      "cityName": "Girit Tera",
+      "lat": 34.95,
+      "lng": 32.4166667
+    },
+    {
+      "cityName": "Goudhi",
+      "lat": 34.9916667,
+      "lng": 32.4416667
+    },
+    {
+      "cityName": "Ickoy",
+      "lat": 34.8083333,
+      "lng": 32.4625
+    },
+    {
+      "cityName": "Ineia",
+      "lat": 34.9583333,
+      "lng": 32.3916667
+    },
+    {
+      "cityName": "Istatos",
+      "lat": 34.8916667,
+      "lng": 32.6083333
+    },
+    {
+      "cityName": "Istinco",
+      "lat": 34.9708333,
+      "lng": 32.5208333
+    },
+    {
+      "cityName": "Istrumbi",
+      "lat": 34.8833333,
+      "lng": 32.4833333
+    },
+    {
+      "cityName": "Kanavya",
+      "lat": 34.9166667,
+      "lng": 32.575
+    },
+    {
+      "cityName": "Karaagac",
+      "lat": 35.0272222,
+      "lng": 32.4786111
+    },
+    {
+      "cityName": "Karamoullides",
+      "lat": 35,
+      "lng": 32.4416667
+    },
+    {
+      "cityName": "KarsÄ±yaka",
+      "lat": 35.0291667,
+      "lng": 32.4166667
+    },
+    {
+      "cityName": "Kasaba",
+      "lat": 34.775,
+      "lng": 32.4333333
+    },
+    {
+      "cityName": "Káto Páfos",
+      "lat": 34.7583333,
+      "lng": 32.4083333
+    },
+    {
+      "cityName": "Kato Panaya",
+      "lat": 34.8375,
+      "lng": 32.5541667
+    },
+    {
+      "cityName": "Koloni",
+      "lat": 34.7541667,
+      "lng": 32.4666667
+    },
+    {
+      "cityName": "Konia",
+      "lat": 34.7833333,
+      "lng": 32.4583333
+    },
+    {
+      "cityName": "Köprü",
+      "lat": 34.7083333,
+      "lng": 32.575
+    },
+    {
+      "cityName": "Kourdaka",
+      "lat": 34.8583333,
+      "lng": 32.5416667
+    },
+    {
+      "cityName": "Küçüksu",
+      "lat": 34.8166667,
+      "lng": 32.525
+    },
+    {
+      "cityName": "Kusluca",
+      "lat": 34.9583333,
+      "lng": 32.5291667
+    },
+    {
+      "cityName": "Laççi",
+      "lat": 35.0380556,
+      "lng": 32.3936111
+    },
+    {
+      "cityName": "Lasa",
+      "lat": 34.925,
+      "lng": 32.5291667
+    },
+    {
+      "cityName": "Lelymbou",
+      "lat": 34.8583333,
+      "lng": 32.5166667
+    },
+    {
+      "cityName": "Lemona",
+      "lat": 34.8625,
+      "lng": 32.5583333
+    },
+    {
+      "cityName": "Liso",
+      "lat": 34.9958333,
+      "lng": 32.5125
+    },
+    {
+      "cityName": "Loukrounou",
+      "lat": 34.9541667,
+      "lng": 32.4625
+    },
+    {
+      "cityName": "Maa",
+      "lat": 34.8541667,
+      "lng": 32.3708333
+    },
+    {
+      "cityName": "Malatya",
+      "lat": 34.9875,
+      "lng": 32.5041667
+    },
+    {
+      "cityName": "Malounda",
+      "lat": 34.8625,
+      "lng": 32.6833333
+    },
+    {
+      "cityName": "Mamonia",
+      "lat": 34.7708333,
+      "lng": 32.6375
+    },
+    {
+      "cityName": "Mamoundali",
+      "lat": 34.9166667,
+      "lng": 32.6208333
+    },
+    {
+      "cityName": "Marathounda",
+      "lat": 34.7916667,
+      "lng": 32.4875
+    },
+    {
+      "cityName": "Marona",
+      "lat": 34.7708333,
+      "lng": 32.6666667
+    },
+    {
+      "cityName": "Mavioli",
+      "lat": 35.0541667,
+      "lng": 32.4558333
+    },
+    {
+      "cityName": "Mesana",
+      "lat": 34.85,
+      "lng": 32.7041667
+    },
+    {
+      "cityName": "Mesogi",
+      "lat": 34.8166667,
+      "lng": 32.4583333
+    },
+    {
+      "cityName": "Milia",
+      "lat": 34.9208333,
+      "lng": 32.5416667
+    },
+    {
+      "cityName": "Miligur",
+      "lat": 34.9666667,
+      "lng": 32.75
+    },
+    {
+      "cityName": "Miliou",
+      "lat": 34.9416667,
+      "lng": 32.4625
+    },
+    {
+      "cityName": "Mousere",
+      "lat": 34.775,
+      "lng": 32.7166667
+    },
+    {
+      "cityName": "Nata",
+      "lat": 34.7666667,
+      "lng": 32.5666667
+    },
+    {
+      "cityName": "Nea Dhimmata",
+      "lat": 35.1330556,
+      "lng": 32.5230556
+    },
+    {
+      "cityName": "Neohoryo",
+      "lat": 35.0252778,
+      "lng": 32.3647222
+    },
+    {
+      "cityName": "New Site of Kholetria",
+      "lat": 34.7625,
+      "lng": 32.6083333
+    },
+    {
+      "cityName": "Nikokla",
+      "lat": 34.7291667,
+      "lng": 32.575
+    },
+    {
+      "cityName": "Paliambela",
+      "lat": 35.1541667,
+      "lng": 32.5708333
+    },
+    {
+      "cityName": "Panayia",
+      "lat": 34.9208333,
+      "lng": 32.6333333
+    },
+    {
+      "cityName": "Pano Akourdaleia",
+      "lat": 34.9416667,
+      "lng": 32.4458333
+    },
+    {
+      "cityName": "Pano Arodes",
+      "lat": 34.9375,
+      "lng": 32.4083333
+    },
+    {
+      "cityName": "Pegeia",
+      "lat": 34.8833333,
+      "lng": 32.3833333
+    },
+    {
+      "cityName": "Pendalia",
+      "lat": 34.8583333,
+      "lng": 32.6166667
+    },
+    {
+      "cityName": "Peristerona",
+      "lat": 34.9916667,
+      "lng": 32.4916667
+    },
+    {
+      "cityName": "Philousa Khrysokhou",
+      "lat": 34.975,
+      "lng": 32.5
+    },
+    {
+      "cityName": "Polemi",
+      "lat": 34.8875,
+      "lng": 32.5
+    },
+    {
+      "cityName": "Poli",
+      "lat": 35.0366667,
+      "lng": 32.4263889
+    },
+    {
+      "cityName": "Pomo",
+      "lat": 35.1563889,
+      "lng": 32.5477778
+    },
+    {
+      "cityName": "Prætori",
+      "lat": 34.85,
+      "lng": 32.75
+    },
+    {
+      "cityName": "Prastion",
+      "lat": 34.7875,
+      "lng": 32.6958333
+    },
+    {
+      "cityName": "Psahi",
+      "lat": 34.9,
+      "lng": 32.5333333
+    },
+    {
+      "cityName": "Salamiou",
+      "lat": 34.8416667,
+      "lng": 32.6875
+    },
+    {
+      "cityName": "Simou",
+      "lat": 34.9333333,
+      "lng": 32.5
+    },
+    {
+      "cityName": "Skoulli",
+      "lat": 34.9833333,
+      "lng": 32.45
+    },
+    {
+      "cityName": "Souskiou",
+      "lat": 34.7333333,
+      "lng": 32.6
+    },
+    {
+      "cityName": "Stato-Ayfoti",
+      "lat": 34.8833333,
+      "lng": 32.625
+    },
+    {
+      "cityName": "Stavros Ruins",
+      "lat": 35.0166667,
+      "lng": 32.6333333
+    },
+    {
+      "cityName": "Steni",
+      "lat": 34.9958333,
+      "lng": 32.4708333
+    },
+    {
+      "cityName": "TatlÄ±ca",
+      "lat": 34.9833333,
+      "lng": 32.5333333
+    },
+    {
+      "cityName": "Teletra",
+      "lat": 34.9166667,
+      "lng": 32.4541667
+    },
+    {
+      "cityName": "Trachypedoula",
+      "lat": 34.8041667,
+      "lng": 32.6833333
+    },
+    {
+      "cityName": "Tremetusa",
+      "lat": 34.8166667,
+      "lng": 32.45
+    },
+    {
+      "cityName": "Tremythousa",
+      "lat": 34.975,
+      "lng": 32.4875
+    }
+  ]
+}

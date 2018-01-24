@@ -1,0 +1,930 @@
+{
+  "name": "Koprivnicko-Krizevacka",
+  "cities": [
+    {
+      "cityName": "Apatovac",
+      "lat": 46.1455556,
+      "lng": 16.5741667
+    },
+    {
+      "cityName": "Bakovcica",
+      "lat": 46.1194444,
+      "lng": 16.8608333
+    },
+    {
+      "cityName": "Batinska",
+      "lat": 46.0363889,
+      "lng": 17.1763889
+    },
+    {
+      "cityName": "Beketinec",
+      "lat": 46.015,
+      "lng": 16.4355556
+    },
+    {
+      "cityName": "Bolfan",
+      "lat": 46.2166667,
+      "lng": 16.6833333
+    },
+    {
+      "cityName": "Botinovec",
+      "lat": 46.2108333,
+      "lng": 16.7730556
+    },
+    {
+      "cityName": "Botovo",
+      "lat": 46.2219444,
+      "lng": 16.9166667
+    },
+    {
+      "cityName": "Bregi",
+      "lat": 46.1386111,
+      "lng": 16.9058333
+    },
+    {
+      "cityName": "Brezani",
+      "lat": 46.05,
+      "lng": 16.4333333
+    },
+    {
+      "cityName": "Brezje",
+      "lat": 46.05,
+      "lng": 16.3833333
+    },
+    {
+      "cityName": "Brezovljani",
+      "lat": 45.95,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Budancevica",
+      "lat": 45.9833333,
+      "lng": 17.15
+    },
+    {
+      "cityName": "Budrovac",
+      "lat": 45.9741667,
+      "lng": 17.0519444
+    },
+    {
+      "cityName": "Bukovie",
+      "lat": 45.9905556,
+      "lng": 16.5675
+    },
+    {
+      "cityName": "Buzadovac",
+      "lat": 45.95,
+      "lng": 16.5666667
+    },
+    {
+      "cityName": "Cabraji",
+      "lat": 46.0916667,
+      "lng": 16.5916667
+    },
+    {
+      "cityName": "Caprontza",
+      "lat": 46.1627778,
+      "lng": 16.8275
+    },
+    {
+      "cityName": "Carevdar",
+      "lat": 46.0730556,
+      "lng": 16.6413889
+    },
+    {
+      "cityName": "Cenkovec",
+      "lat": 46.2166667,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Cepelovac",
+      "lat": 46,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Cepidlak",
+      "lat": 45.9666667,
+      "lng": 16.6666667
+    },
+    {
+      "cityName": "Cirkvena",
+      "lat": 45.9316667,
+      "lng": 16.6608333
+    },
+    {
+      "cityName": "Crisium",
+      "lat": 46.0219444,
+      "lng": 16.5425
+    },
+    {
+      "cityName": "Cubinec",
+      "lat": 45.9833333,
+      "lng": 16.5666667
+    },
+    {
+      "cityName": "Cvetkovec",
+      "lat": 46.2061111,
+      "lng": 16.6955556
+    },
+    {
+      "cityName": "Cvrstec",
+      "lat": 46.0036111,
+      "lng": 16.7144444
+    },
+    {
+      "cityName": "Dedina",
+      "lat": 46.1119444,
+      "lng": 16.5041667
+    },
+    {
+      "cityName": "Ðelekovec",
+      "lat": 46.2486111,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Delovi",
+      "lat": 46.1108333,
+      "lng": 16.96
+    },
+    {
+      "cityName": "Dijankovec",
+      "lat": 46.0411111,
+      "lng": 16.4797222
+    },
+    {
+      "cityName": "Djurdjevac",
+      "lat": 46.0411111,
+      "lng": 17.0697222
+    },
+    {
+      "cityName": "Djurdjic",
+      "lat": 46.0025,
+      "lng": 16.5797222
+    },
+    {
+      "cityName": "Domaje",
+      "lat": 46.1333333,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Donja Bakovcica",
+      "lat": 46.1233333,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Donja Brckovcina",
+      "lat": 46.0166667,
+      "lng": 16.5166667
+    },
+    {
+      "cityName": "Donje Zdelice",
+      "lat": 46.0263889,
+      "lng": 16.9116667
+    },
+    {
+      "cityName": "Donji Klostar",
+      "lat": 46.0455556,
+      "lng": 16.6208333
+    },
+    {
+      "cityName": "Donji-Predavec",
+      "lat": 45.9333333,
+      "lng": 16.6
+    },
+    {
+      "cityName": "Draganci",
+      "lat": 46.0188889,
+      "lng": 17.1816667
+    },
+    {
+      "cityName": "Draganovac",
+      "lat": 46.1213889,
+      "lng": 16.8194444
+    },
+    {
+      "cityName": "Draskovic",
+      "lat": 46.0311111,
+      "lng": 16.3422222
+    },
+    {
+      "cityName": "Drenovica",
+      "lat": 46.0913889,
+      "lng": 17.1516667
+    },
+    {
+      "cityName": "Drnje",
+      "lat": 46.2069444,
+      "lng": 16.9169444
+    },
+    {
+      "cityName": "Dubovec",
+      "lat": 46.0155556,
+      "lng": 16.4533333
+    },
+    {
+      "cityName": "Duga Rijeka",
+      "lat": 46.1841667,
+      "lng": 16.59
+    },
+    {
+      "cityName": "Erdovec",
+      "lat": 46.0325,
+      "lng": 16.4797222
+    },
+    {
+      "cityName": "Ferdinandorf",
+      "lat": 46.05,
+      "lng": 17.2
+    },
+    {
+      "cityName": "Fodrovec",
+      "lat": 46.0602778,
+      "lng": 16.3797222
+    },
+    {
+      "cityName": "Glogovac",
+      "lat": 46.1155556,
+      "lng": 16.8744444
+    },
+    {
+      "cityName": "Glogovnica",
+      "lat": 46.1030556,
+      "lng": 16.5580556
+    },
+    {
+      "cityName": "Gola",
+      "lat": 46.1958333,
+      "lng": 17.0580556
+    },
+    {
+      "cityName": "Gorica",
+      "lat": 46.0525,
+      "lng": 16.4286111
+    },
+    {
+      "cityName": "Goricko",
+      "lat": 46.2,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Gornja Suma",
+      "lat": 46.1361111,
+      "lng": 17.0477778
+    },
+    {
+      "cityName": "Gornja Velika",
+      "lat": 46,
+      "lng": 16.4166667
+    },
+    {
+      "cityName": "Gornji Dubovec",
+      "lat": 46.0166667,
+      "lng": 16.45
+    },
+    {
+      "cityName": "Gotalovo",
+      "lat": 46.2208333,
+      "lng": 16.9830556
+    },
+    {
+      "cityName": "Grbasevac",
+      "lat": 46.2155556,
+      "lng": 16.745
+    },
+    {
+      "cityName": "Grdak",
+      "lat": 46.1283333,
+      "lng": 16.6969444
+    },
+    {
+      "cityName": "Gregurovec",
+      "lat": 46.0308333,
+      "lng": 16.4441667
+    },
+    {
+      "cityName": "Guscerovec",
+      "lat": 46.0547222,
+      "lng": 16.4791667
+    },
+    {
+      "cityName": "Hampovica",
+      "lat": 46.0133333,
+      "lng": 16.9508333
+    },
+    {
+      "cityName": "Helena",
+      "lat": 46.0855556,
+      "lng": 16.5272222
+    },
+    {
+      "cityName": "Heresin",
+      "lat": 46.1797222,
+      "lng": 16.8683333
+    },
+    {
+      "cityName": "Hlebine",
+      "lat": 46.1569444,
+      "lng": 16.9627778
+    },
+    {
+      "cityName": "Hrgovec",
+      "lat": 46.0908333,
+      "lng": 16.4697222
+    },
+    {
+      "cityName": "Imbrijovec",
+      "lat": 46.2547222,
+      "lng": 16.8255556
+    },
+    {
+      "cityName": "Ivanac Ludbreski",
+      "lat": 46.1697222,
+      "lng": 16.5927778
+    },
+    {
+      "cityName": "Ivanac Vojakovacki",
+      "lat": 46.0744444,
+      "lng": 16.5658333
+    },
+    {
+      "cityName": "Ivancec",
+      "lat": 46.1972222,
+      "lng": 16.6377778
+    },
+    {
+      "cityName": "Jabuceta",
+      "lat": 46.0138889,
+      "lng": 16.8991667
+    },
+    {
+      "cityName": "Jagnjedovac",
+      "lat": 46.1061111,
+      "lng": 16.8105556
+    },
+    {
+      "cityName": "Jasenik",
+      "lat": 45.9333333,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Jelacicevo",
+      "lat": 46.0680556,
+      "lng": 17.1583333
+    },
+    {
+      "cityName": "Kalinovac",
+      "lat": 46.0294444,
+      "lng": 17.1155556
+    },
+    {
+      "cityName": "Kalnik",
+      "lat": 46.1283333,
+      "lng": 16.4625
+    },
+    {
+      "cityName": "Kamesnica",
+      "lat": 46.1280556,
+      "lng": 16.4947222
+    },
+    {
+      "cityName": "Kapela",
+      "lat": 46.0305556,
+      "lng": 16.4288889
+    },
+    {
+      "cityName": "Karane",
+      "lat": 46.0155556,
+      "lng": 16.5130556
+    },
+    {
+      "cityName": "Karas",
+      "lat": 46.0947222,
+      "lng": 17.1891667
+    },
+    {
+      "cityName": "Kegljevac",
+      "lat": 45.9833333,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Klostar",
+      "lat": 45.9811111,
+      "lng": 17.1558333
+    },
+    {
+      "cityName": "Koledinec",
+      "lat": 46.2411111,
+      "lng": 16.7708333
+    },
+    {
+      "cityName": "Koprivnicka Reka",
+      "lat": 46.1238889,
+      "lng": 16.61
+    },
+    {
+      "cityName": "Kovacevac",
+      "lat": 45.9833333,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Kozarevac",
+      "lat": 45.9288889,
+      "lng": 17.1172222
+    },
+    {
+      "cityName": "Krizevacki Lemes",
+      "lat": 46.0166667,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Krizevacki Prikraj",
+      "lat": 46,
+      "lng": 16.55
+    },
+    {
+      "cityName": "Kunovec",
+      "lat": 46.2033333,
+      "lng": 16.7797222
+    },
+    {
+      "cityName": "Kutnjak",
+      "lat": 46.2719444,
+      "lng": 16.78
+    },
+    {
+      "cityName": "Kuzminec",
+      "lat": 46.2341667,
+      "lng": 16.7586111
+    },
+    {
+      "cityName": "Ladinec",
+      "lat": 45.95,
+      "lng": 16.6833333
+    },
+    {
+      "cityName": "Ladislav",
+      "lat": 46.0488889,
+      "lng": 16.7172222
+    },
+    {
+      "cityName": "Ledina",
+      "lat": 46,
+      "lng": 16.3833333
+    },
+    {
+      "cityName": "Legrad",
+      "lat": 46.2975,
+      "lng": 16.8566667
+    },
+    {
+      "cityName": "Lemes",
+      "lat": 46.0075,
+      "lng": 16.4733333
+    },
+    {
+      "cityName": "Lepavina",
+      "lat": 46.1005556,
+      "lng": 16.6761111
+    },
+    {
+      "cityName": "Lunjkovec",
+      "lat": 46.2461111,
+      "lng": 16.7258333
+    },
+    {
+      "cityName": "Majurec",
+      "lat": 46.0305556,
+      "lng": 16.5863889
+    },
+    {
+      "cityName": "Majur Farkasevacki",
+      "lat": 45.9166667,
+      "lng": 16.7
+    },
+    {
+      "cityName": "Mala Brajinska",
+      "lat": 46.0819444,
+      "lng": 16.7005556
+    },
+    {
+      "cityName": "Male Sesvete",
+      "lat": 46.0602778,
+      "lng": 16.6505556
+    },
+    {
+      "cityName": "Mali Otok",
+      "lat": 46.2775,
+      "lng": 16.8347222
+    },
+    {
+      "cityName": "Mali Poganac",
+      "lat": 46.1169444,
+      "lng": 16.6591667
+    },
+    {
+      "cityName": "Mali Potocec",
+      "lat": 46.0541667,
+      "lng": 16.5094444
+    },
+    {
+      "cityName": "Malo Trojstvo",
+      "lat": 45.9727778,
+      "lng": 16.9486111
+    },
+    {
+      "cityName": "Martinec",
+      "lat": 45.9977778,
+      "lng": 16.5180556
+    },
+    {
+      "cityName": "Meda",
+      "lat": 46.0563889,
+      "lng": 16.4633333
+    },
+    {
+      "cityName": "Medvedicka",
+      "lat": 46.1088889,
+      "lng": 17.0922222
+    },
+    {
+      "cityName": "Micetinac",
+      "lat": 46.0075,
+      "lng": 17.0186111
+    },
+    {
+      "cityName": "Miholecka Selnica",
+      "lat": 46.0705556,
+      "lng": 16.4252778
+    },
+    {
+      "cityName": "Miholecke Mokrice",
+      "lat": 46.055,
+      "lng": 16.3819444
+    },
+    {
+      "cityName": "Miholec",
+      "lat": 46.0533333,
+      "lng": 16.4416667
+    },
+    {
+      "cityName": "Miholjanec",
+      "lat": 46.0447222,
+      "lng": 16.9505556
+    },
+    {
+      "cityName": "Milicani",
+      "lat": 46.09,
+      "lng": 16.7252778
+    },
+    {
+      "cityName": "Mocilski Breg",
+      "lat": 46.1797222,
+      "lng": 16.7788889
+    },
+    {
+      "cityName": "Molve",
+      "lat": 46.1091667,
+      "lng": 17.0316667
+    },
+    {
+      "cityName": "Nemcevec",
+      "lat": 46.0838889,
+      "lng": 16.4027778
+    },
+    {
+      "cityName": "Novacka",
+      "lat": 46.1622222,
+      "lng": 17.0466667
+    },
+    {
+      "cityName": "Novi Bosnjani",
+      "lat": 46.0913889,
+      "lng": 16.6222222
+    },
+    {
+      "cityName": "Novi Grad",
+      "lat": 46.0780556,
+      "lng": 16.9538889
+    },
+    {
+      "cityName": "Obrez",
+      "lat": 46.125,
+      "lng": 16.4408333
+    },
+    {
+      "cityName": "Orehovec",
+      "lat": 46.0755556,
+      "lng": 16.4516667
+    },
+    {
+      "cityName": "Osijek",
+      "lat": 46.1333333,
+      "lng": 16.55
+    },
+    {
+      "cityName": "Paunovac",
+      "lat": 46.1055556,
+      "lng": 16.7605556
+    },
+    {
+      "cityName": "Pavlanci Durdevacki",
+      "lat": 46.0833333,
+      "lng": 17.1772222
+    },
+    {
+      "cityName": "Peteranac",
+      "lat": 46.1922222,
+      "lng": 16.8916667
+    },
+    {
+      "cityName": "Plavsinac",
+      "lat": 46.0930556,
+      "lng": 16.9155556
+    },
+    {
+      "cityName": "Pobrdani",
+      "lat": 46.0758333,
+      "lng": 16.615
+    },
+    {
+      "cityName": "Podgajec",
+      "lat": 46.0230556,
+      "lng": 16.4888889
+    },
+    {
+      "cityName": "Podravska Subotica",
+      "lat": 46.1833333,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Podravske Sesvete",
+      "lat": 46.005,
+      "lng": 17.2116667
+    },
+    {
+      "cityName": "Podrovec",
+      "lat": 46.0452778,
+      "lng": 16.405
+    },
+    {
+      "cityName": "Pokasin",
+      "lat": 45.9666667,
+      "lng": 16.5166667
+    },
+    {
+      "cityName": "Povelic",
+      "lat": 46.0175,
+      "lng": 16.7105556
+    },
+    {
+      "cityName": "Prascevac",
+      "lat": 45.9166667,
+      "lng": 16.65
+    },
+    {
+      "cityName": "Prkos",
+      "lat": 46.1666667,
+      "lng": 16.6666667
+    },
+    {
+      "cityName": "Prodavíz",
+      "lat": 46.0672222,
+      "lng": 16.99
+    },
+    {
+      "cityName": "Prugovac",
+      "lat": 45.9705556,
+      "lng": 17.12
+    },
+    {
+      "cityName": "Pustakovec",
+      "lat": 46.2333333,
+      "lng": 16.7983333
+    },
+    {
+      "cityName": "Radeljevo",
+      "lat": 46.1719444,
+      "lng": 16.6486111
+    },
+    {
+      "cityName": "Radoisce",
+      "lat": 46.0186111,
+      "lng": 16.3305556
+    },
+    {
+      "cityName": "Rakitnica",
+      "lat": 45.9933333,
+      "lng": 16.9147222
+    },
+    {
+      "cityName": "Rascani",
+      "lat": 46.0275,
+      "lng": 16.6486111
+    },
+    {
+      "cityName": "Rasinja",
+      "lat": 46.1838889,
+      "lng": 16.7066667
+    },
+    {
+      "cityName": "Reka",
+      "lat": 46.1302778,
+      "lng": 16.7669444
+    },
+    {
+      "cityName": "Repas",
+      "lat": 46.1452778,
+      "lng": 17.0744444
+    },
+    {
+      "cityName": "Ribnjacka",
+      "lat": 45.9022222,
+      "lng": 17.0877778
+    },
+    {
+      "cityName": "Ribnjak",
+      "lat": 46.1763889,
+      "lng": 16.6144444
+    },
+    {
+      "cityName": "Rijecki Voljavec",
+      "lat": 46.0666667,
+      "lng": 16.4333333
+    },
+    {
+      "cityName": "Rusevac",
+      "lat": 46.0263889,
+      "lng": 16.6788889
+    },
+    {
+      "cityName": "Semovci",
+      "lat": 46.0236111,
+      "lng": 16.9919444
+    },
+    {
+      "cityName": "Senjanska Luka",
+      "lat": 46.1125,
+      "lng": 17.1111111
+    },
+    {
+      "cityName": "Sigetec",
+      "lat": 46.1883333,
+      "lng": 16.9358333
+    },
+    {
+      "cityName": "Sirava-Katalena",
+      "lat": 45.9608333,
+      "lng": 17.0602778
+    },
+    {
+      "cityName": "Sokolovac",
+      "lat": 46.1108333,
+      "lng": 16.7063889
+    },
+    {
+      "cityName": "Spiranec",
+      "lat": 45.9833333,
+      "lng": 16.5166667
+    },
+    {
+      "cityName": "Srdinec",
+      "lat": 46.0769444,
+      "lng": 16.9163889
+    },
+    {
+      "cityName": "Srednji Dubovec",
+      "lat": 46.0166667,
+      "lng": 16.4666667
+    },
+    {
+      "cityName": "Srijem",
+      "lat": 46.0788889,
+      "lng": 16.7172222
+    },
+    {
+      "cityName": "Stari Bosnjani",
+      "lat": 46.0955556,
+      "lng": 16.6363889
+    },
+    {
+      "cityName": "Stari Grad",
+      "lat": 46.1366667,
+      "lng": 16.8052778
+    },
+    {
+      "cityName": "Sveta Ana",
+      "lat": 46.0036111,
+      "lng": 16.9986111
+    },
+    {
+      "cityName": "Sveti Ivan Zabno",
+      "lat": 45.9461111,
+      "lng": 16.6133333
+    },
+    {
+      "cityName": "Sveti Julian",
+      "lat": 45.9666667,
+      "lng": 16.6166667
+    },
+    {
+      "cityName": "Topolovac",
+      "lat": 46.0341667,
+      "lng": 16.7130556
+    },
+    {
+      "cityName": "Torcec",
+      "lat": 46.2233333,
+      "lng": 16.8847222
+    },
+    {
+      "cityName": "Trnovac",
+      "lat": 46.06,
+      "lng": 16.6975
+    },
+    {
+      "cityName": "Veceslavac",
+      "lat": 46.0436111,
+      "lng": 16.6947222
+    },
+    {
+      "cityName": "Velika Brajinska",
+      "lat": 46.0711111,
+      "lng": 16.6925
+    },
+    {
+      "cityName": "Velika Mucna",
+      "lat": 46.1213889,
+      "lng": 16.7480556
+    },
+    {
+      "cityName": "Velike Sesvete",
+      "lat": 46.0558333,
+      "lng": 16.6719444
+    },
+    {
+      "cityName": "Veliki Grabicani",
+      "lat": 46.15,
+      "lng": 16.65
+    },
+    {
+      "cityName": "Veliki Poganac",
+      "lat": 46.1480556,
+      "lng": 16.6172222
+    },
+    {
+      "cityName": "Veliki Potocec",
+      "lat": 46.0477778,
+      "lng": 16.5697222
+    },
+    {
+      "cityName": "Vinarec",
+      "lat": 46.1036111,
+      "lng": 16.4380556
+    },
+    {
+      "cityName": "Vlaistav",
+      "lat": 46.1086111,
+      "lng": 16.9080556
+    },
+    {
+      "cityName": "Vojakovac",
+      "lat": 46.0830556,
+      "lng": 16.5922222
+    },
+    {
+      "cityName": "Vrhovac Sokolovacki",
+      "lat": 46.1555556,
+      "lng": 16.6888889
+    },
+    {
+      "cityName": "Zablatje",
+      "lat": 46.2666667,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Zaistevec",
+      "lat": 46.0336111,
+      "lng": 16.3705556
+    },
+    {
+      "cityName": "Zavnica",
+      "lat": 45.9166667,
+      "lng": 16.6166667
+    },
+    {
+      "cityName": "Zdala",
+      "lat": 46.1730556,
+      "lng": 17.1444444
+    },
+    {
+      "cityName": "Zibrinovec",
+      "lat": 46.1027778,
+      "lng": 16.5147222
+    },
+    {
+      "cityName": "Zrinjscina",
+      "lat": 46.0083333,
+      "lng": 16.3425
+    }
+  ]
+}

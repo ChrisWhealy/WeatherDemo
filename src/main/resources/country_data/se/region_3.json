@@ -1,0 +1,645 @@
+{
+  "name": "Gotlands Lan",
+  "cities": [
+    {
+      "cityName": "Äjmunds",
+      "lat": 57.45,
+      "lng": 18.2666667
+    },
+    {
+      "cityName": "Ala",
+      "lat": 57.4166667,
+      "lng": 18.6333333
+    },
+    {
+      "cityName": "Alby",
+      "lat": 57.8166667,
+      "lng": 18.95
+    },
+    {
+      "cityName": "Ale",
+      "lat": 57.8166667,
+      "lng": 18.9833333
+    },
+    {
+      "cityName": "Alskog",
+      "lat": 57.3333333,
+      "lng": 18.6166667
+    },
+    {
+      "cityName": "Alva",
+      "lat": 57.2166667,
+      "lng": 18.35
+    },
+    {
+      "cityName": "Åminne",
+      "lat": 57.6166667,
+      "lng": 18.75
+    },
+    {
+      "cityName": "Ar",
+      "lat": 57.9166667,
+      "lng": 18.9333333
+    },
+    {
+      "cityName": "Ardre",
+      "lat": 57.3833333,
+      "lng": 18.6833333
+    },
+    {
+      "cityName": "Axelsro",
+      "lat": 57.6,
+      "lng": 18.2166667
+    },
+    {
+      "cityName": "Bäl",
+      "lat": 57.65,
+      "lng": 18.6333333
+    },
+    {
+      "cityName": "Barlingbo",
+      "lat": 57.5666667,
+      "lng": 18.45
+    },
+    {
+      "cityName": "Båticke",
+      "lat": 57.4666667,
+      "lng": 18.7
+    },
+    {
+      "cityName": "Blåhäll",
+      "lat": 57.5333333,
+      "lng": 18.1166667
+    },
+    {
+      "cityName": "Bläse",
+      "lat": 57.9,
+      "lng": 18.8333333
+    },
+    {
+      "cityName": "Botvide",
+      "lat": 57.4166667,
+      "lng": 18.2166667
+    },
+    {
+      "cityName": "Bringes",
+      "lat": 57.45,
+      "lng": 18.4666667
+    },
+    {
+      "cityName": "Bringsarve",
+      "lat": 57.3833333,
+      "lng": 18.7
+    },
+    {
+      "cityName": "Brissund",
+      "lat": 57.7166667,
+      "lng": 18.3666667
+    },
+    {
+      "cityName": "Broe",
+      "lat": 57.4833333,
+      "lng": 18.4833333
+    },
+    {
+      "cityName": "Bunge",
+      "lat": 57.85,
+      "lng": 19.0166667
+    },
+    {
+      "cityName": "Bungenäs",
+      "lat": 57.8333333,
+      "lng": 19.0833333
+    },
+    {
+      "cityName": "Burge",
+      "lat": 57,
+      "lng": 18.3333333
+    },
+    {
+      "cityName": "Burgsvik",
+      "lat": 57.05,
+      "lng": 18.2666667
+    },
+    {
+      "cityName": "Burs",
+      "lat": 57.25,
+      "lng": 18.5
+    },
+    {
+      "cityName": "Buttle",
+      "lat": 57.4,
+      "lng": 18.5166667
+    },
+    {
+      "cityName": "Buttlegårde",
+      "lat": 57.4,
+      "lng": 18.4833333
+    },
+    {
+      "cityName": "Djauvik",
+      "lat": 57.3,
+      "lng": 18.15
+    },
+    {
+      "cityName": "Djupkvior",
+      "lat": 57.6,
+      "lng": 18.2833333
+    },
+    {
+      "cityName": "Eke",
+      "lat": 57.1666667,
+      "lng": 18.3833333
+    },
+    {
+      "cityName": "Eksta",
+      "lat": 57.2833333,
+      "lng": 18.2
+    },
+    {
+      "cityName": "Endre",
+      "lat": 57.6,
+      "lng": 18.4666667
+    },
+    {
+      "cityName": "Eskelhem",
+      "lat": 57.4833333,
+      "lng": 18.2
+    },
+    {
+      "cityName": "Etelhem",
+      "lat": 57.3333333,
+      "lng": 18.5
+    },
+    {
+      "cityName": "Fårö",
+      "lat": 57.9166667,
+      "lng": 19.1333333
+    },
+    {
+      "cityName": "Fårösund",
+      "lat": 57.8666667,
+      "lng": 19.05
+    },
+    {
+      "cityName": "Fidenäs",
+      "lat": 57.1,
+      "lng": 18.3
+    },
+    {
+      "cityName": "Fleringe",
+      "lat": 57.8666667,
+      "lng": 18.8666667
+    },
+    {
+      "cityName": "Fole",
+      "lat": 57.65,
+      "lng": 18.55
+    },
+    {
+      "cityName": "Forse",
+      "lat": 57.4,
+      "lng": 18.3166667
+    },
+    {
+      "cityName": "Frigsarve",
+      "lat": 57.1,
+      "lng": 18.3666667
+    },
+    {
+      "cityName": "Fröjel",
+      "lat": 57.3333333,
+      "lng": 18.1833333
+    },
+    {
+      "cityName": "Gandarfve",
+      "lat": 57.8833333,
+      "lng": 18.7
+    },
+    {
+      "cityName": "Ganthem",
+      "lat": 57.5166667,
+      "lng": 18.5833333
+    },
+    {
+      "cityName": "Gervide",
+      "lat": 57.4833333,
+      "lng": 18.5333333
+    },
+    {
+      "cityName": "Gnisvärd",
+      "lat": 57.5,
+      "lng": 18.1
+    },
+    {
+      "cityName": "Gothem",
+      "lat": 57.5833333,
+      "lng": 18.7166667
+    },
+    {
+      "cityName": "Hablingbo",
+      "lat": 57.2,
+      "lng": 18.2666667
+    },
+    {
+      "cityName": "Hafdhem",
+      "lat": 57.15,
+      "lng": 18.3166667
+    },
+    {
+      "cityName": "Halls Fiskläge",
+      "lat": 57.9333333,
+      "lng": 18.7333333
+    },
+    {
+      "cityName": "Hammaren",
+      "lat": 57.4833333,
+      "lng": 18.45
+    },
+    {
+      "cityName": "Härte",
+      "lat": 57.2166667,
+      "lng": 18.5833333
+    },
+    {
+      "cityName": "Hejde",
+      "lat": 57.4166667,
+      "lng": 18.35
+    },
+    {
+      "cityName": "Hejnum",
+      "lat": 57.6833333,
+      "lng": 18.6166667
+    },
+    {
+      "cityName": "Hellvi",
+      "lat": 57.7666667,
+      "lng": 18.8833333
+    },
+    {
+      "cityName": "Hemse",
+      "lat": 57.2333333,
+      "lng": 18.3666667
+    },
+    {
+      "cityName": "Huse",
+      "lat": 57.1833333,
+      "lng": 18.4833333
+    },
+    {
+      "cityName": "Ire",
+      "lat": 57.8333333,
+      "lng": 18.6
+    },
+    {
+      "cityName": "Irevik",
+      "lat": 57.8333333,
+      "lng": 18.5833333
+    },
+    {
+      "cityName": "Jakobsberg",
+      "lat": 57.5833333,
+      "lng": 18.3666667
+    },
+    {
+      "cityName": "Kap",
+      "lat": 57.9166667,
+      "lng": 18.75
+    },
+    {
+      "cityName": "Kappelshamn",
+      "lat": 57.85,
+      "lng": 18.7833333
+    },
+    {
+      "cityName": "Katthammarsvik",
+      "lat": 57.4333333,
+      "lng": 18.8333333
+    },
+    {
+      "cityName": "Klintehamn",
+      "lat": 57.4,
+      "lng": 18.2
+    },
+    {
+      "cityName": "Kneippbyn",
+      "lat": 57.6166667,
+      "lng": 18.2333333
+    },
+    {
+      "cityName": "Kräklingbo",
+      "lat": 57.45,
+      "lng": 18.7
+    },
+    {
+      "cityName": "Kvännakershamn",
+      "lat": 57.2166667,
+      "lng": 18.15
+    },
+    {
+      "cityName": "Kyrkby",
+      "lat": 57.5166667,
+      "lng": 18.4333333
+    },
+    {
+      "cityName": "Länna",
+      "lat": 57.6333333,
+      "lng": 18.2833333
+    },
+    {
+      "cityName": "Lärbro",
+      "lat": 57.7833333,
+      "lng": 18.7833333
+    },
+    {
+      "cityName": "Lau",
+      "lat": 57.2833333,
+      "lng": 18.6166667
+    },
+    {
+      "cityName": "Lauter",
+      "lat": 57.95,
+      "lng": 19.1
+    },
+    {
+      "cityName": "Levede",
+      "lat": 57.2833333,
+      "lng": 18.2666667
+    },
+    {
+      "cityName": "Lickedarve",
+      "lat": 57.8666667,
+      "lng": 18.8833333
+    },
+    {
+      "cityName": "Lickershamn",
+      "lat": 57.8,
+      "lng": 18.5166667
+    },
+    {
+      "cityName": "Licksarve",
+      "lat": 57.5166667,
+      "lng": 18.1666667
+    },
+    {
+      "cityName": "Lillåkre",
+      "lat": 57.5666667,
+      "lng": 18.4666667
+    },
+    {
+      "cityName": "Lingsarve",
+      "lat": 57.1,
+      "lng": 18.2666667
+    },
+    {
+      "cityName": "Ljugarn",
+      "lat": 57.3166667,
+      "lng": 18.7
+    },
+    {
+      "cityName": "Lokrume",
+      "lat": 57.6833333,
+      "lng": 18.5333333
+    },
+    {
+      "cityName": "Lörge",
+      "lat": 57.75,
+      "lng": 18.95
+    },
+    {
+      "cityName": "Lukse",
+      "lat": 57.2,
+      "lng": 18.5166667
+    },
+    {
+      "cityName": "Lye",
+      "lat": 57.3,
+      "lng": 18.5
+    },
+    {
+      "cityName": "Magnuse",
+      "lat": 57.2833333,
+      "lng": 18.2833333
+    },
+    {
+      "cityName": "Marbodar",
+      "lat": 57.1333333,
+      "lng": 18.2166667
+    },
+    {
+      "cityName": "Martebo",
+      "lat": 57.75,
+      "lng": 18.4833333
+    },
+    {
+      "cityName": "Myrvälder",
+      "lat": 57.7166667,
+      "lng": 18.5833333
+    },
+    {
+      "cityName": "När",
+      "lat": 57.25,
+      "lng": 18.5833333
+    },
+    {
+      "cityName": "Närs",
+      "lat": 57.7166667,
+      "lng": 18.7833333
+    },
+    {
+      "cityName": "Norrkvie",
+      "lat": 57.1166667,
+      "lng": 18.3333333
+    },
+    {
+      "cityName": "Nygårds",
+      "lat": 57.35,
+      "lng": 18.5166667
+    },
+    {
+      "cityName": "Nyhamn",
+      "lat": 57.7666667,
+      "lng": 18.4
+    },
+    {
+      "cityName": "Ollajvs",
+      "lat": 57.3333333,
+      "lng": 18.65
+    },
+    {
+      "cityName": "Österby",
+      "lat": 57.7166667,
+      "lng": 18.8
+    },
+    {
+      "cityName": "Östra Vi",
+      "lat": 57.6333333,
+      "lng": 18.3166667
+    },
+    {
+      "cityName": "Pilhagen",
+      "lat": 57.6166667,
+      "lng": 18.2833333
+    },
+    {
+      "cityName": "Rangsarfve",
+      "lat": 57.1166667,
+      "lng": 18.25
+    },
+    {
+      "cityName": "Ringvida",
+      "lat": 57.9333333,
+      "lng": 19.2166667
+    },
+    {
+      "cityName": "Romakloster",
+      "lat": 57.5166667,
+      "lng": 18.45
+    },
+    {
+      "cityName": "Roma",
+      "lat": 57.5333333,
+      "lng": 18.4333333
+    },
+    {
+      "cityName": "Ronehamn",
+      "lat": 57.1666667,
+      "lng": 18.4833333
+    },
+    {
+      "cityName": "Sigdes",
+      "lat": 57.2333333,
+      "lng": 18.5166667
+    },
+    {
+      "cityName": "Silteby",
+      "lat": 57.2166667,
+      "lng": 18.2333333
+    },
+    {
+      "cityName": "Själsö",
+      "lat": 57.7,
+      "lng": 18.35
+    },
+    {
+      "cityName": "Skåls",
+      "lat": 57.1,
+      "lng": 18.25
+    },
+    {
+      "cityName": "Sproge",
+      "lat": 57.25,
+      "lng": 18.2
+    },
+    {
+      "cityName": "Stånga",
+      "lat": 57.2833333,
+      "lng": 18.4666667
+    },
+    {
+      "cityName": "Stenkyrka",
+      "lat": 57.7833333,
+      "lng": 18.5333333
+    },
+    {
+      "cityName": "Stora Vägume",
+      "lat": 57.75,
+      "lng": 18.8166667
+    },
+    {
+      "cityName": "Storungs",
+      "lat": 57.8333333,
+      "lng": 18.8
+    },
+    {
+      "cityName": "Tass",
+      "lat": 57.4,
+      "lng": 18.35
+    },
+    {
+      "cityName": "Tingstäde",
+      "lat": 57.7333333,
+      "lng": 18.5833333
+    },
+    {
+      "cityName": "Tomtbod",
+      "lat": 57.1833333,
+      "lng": 18.5333333
+    },
+    {
+      "cityName": "Tubode",
+      "lat": 57.0666667,
+      "lng": 18.35
+    },
+    {
+      "cityName": "Ungbåtels",
+      "lat": 57.2833333,
+      "lng": 18.5
+    },
+    {
+      "cityName": "Valbyte",
+      "lat": 57.4333333,
+      "lng": 18.1333333
+    },
+    {
+      "cityName": "Valleviken",
+      "lat": 57.7166667,
+      "lng": 18.95
+    },
+    {
+      "cityName": "Vallstena",
+      "lat": 57.6166667,
+      "lng": 18.6333333
+    },
+    {
+      "cityName": "Vall",
+      "lat": 57.5166667,
+      "lng": 18.35
+    },
+    {
+      "cityName": "Väskinde",
+      "lat": 57.6833333,
+      "lng": 18.4166667
+    },
+    {
+      "cityName": "Västerbjärs",
+      "lat": 57.5833333,
+      "lng": 18.7
+    },
+    {
+      "cityName": "Västergarn",
+      "lat": 57.45,
+      "lng": 18.15
+    },
+    {
+      "cityName": "Västös",
+      "lat": 57.9,
+      "lng": 18.75
+    },
+    {
+      "cityName": "Väte",
+      "lat": 57.45,
+      "lng": 18.3666667
+    },
+    {
+      "cityName": "Vibble",
+      "lat": 57.6,
+      "lng": 18.25
+    },
+    {
+      "cityName": "Viborgslatt",
+      "lat": 57.6166667,
+      "lng": 18.2666667
+    },
+    {
+      "cityName": "Visby",
+      "lat": 57.6333333,
+      "lng": 18.3
+    },
+    {
+      "cityName": "Ygne",
+      "lat": 57.5833333,
+      "lng": 18.1833333
+    }
+  ]
+}

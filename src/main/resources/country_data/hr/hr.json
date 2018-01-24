@@ -1,0 +1,107 @@
+{
+  "name": "Croatia [Hrvatska]",
+  "iso2": "hr",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Bjelovarsko-Bilogorska",
+      "id": 0
+    },
+    {
+      "name": "Brodsko-Posavska",
+      "id": 1
+    },
+    {
+      "name": "Dubrovacko-Neretvanska",
+      "id": 2
+    },
+    {
+      "name": "Grad Zagreb",
+      "id": 3
+    },
+    {
+      "name": "Istarska",
+      "id": 4
+    },
+    {
+      "name": "Karlovacka",
+      "id": 5
+    },
+    {
+      "name": "Koprivnicko-Krizevacka",
+      "id": 6
+    },
+    {
+      "name": "Krapinsko-Zagorska",
+      "id": 7
+    },
+    {
+      "name": "Licko-Senjska",
+      "id": 8
+    },
+    {
+      "name": "Medimurska",
+      "id": 9
+    },
+    {
+      "name": "Osjecko-Baranjska",
+      "id": 10
+    },
+    {
+      "name": "Pozesko-Slavonska",
+      "id": 11
+    },
+    {
+      "name": "Primorsko-Goranska",
+      "id": 12
+    },
+    {
+      "name": "Sibensko-Kninska",
+      "id": 13
+    },
+    {
+      "name": "Sisacko-Moslavacka",
+      "id": 14
+    },
+    {
+      "name": "Splitsko-Dalmatinska",
+      "id": 15
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 16
+    },
+    {
+      "name": "Varazdinska",
+      "id": 17
+    },
+    {
+      "name": "Viroviticko-Podravska",
+      "id": 18
+    },
+    {
+      "name": "Vukovarsko-Srijemska",
+      "id": 19
+    },
+    {
+      "name": "Zagrebacka",
+      "id": 20
+    }
+  ],
+  "geoRectangle": {
+    "West": 13.4932203293,
+    "East": 19.4273910522,
+    "North": 46.5387573242,
+    "South": 42.4358825684
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Zagreb",
+    "GeoPt": [
+      45.48,
+      16
+    ]
+  }
+}

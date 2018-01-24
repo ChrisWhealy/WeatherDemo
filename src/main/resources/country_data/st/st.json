@@ -1,0 +1,31 @@
+{
+  "name": "Sao Tome and Principe",
+  "iso2": "st",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Principe",
+      "id": 0
+    },
+    {
+      "name": "Sao Tome",
+      "id": 1
+    }
+  ],
+  "geoRectangle": {
+    "West": 6.47016906738,
+    "East": 7.46637487411,
+    "North": 1.70132315159,
+    "South": 0.0247659981251
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 0,
+    "Flg": 2,
+    "Name": "Sao Tome",
+    "GeoPt": [
+      0.12,
+      6.39
+    ]
+  }
+}

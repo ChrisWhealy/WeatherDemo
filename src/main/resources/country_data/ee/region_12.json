@@ -1,0 +1,895 @@
+{
+  "name": "Valgamaa",
+  "cities": [
+    {
+      "cityName": "Aakre",
+      "lat": 58.1013889,
+      "lng": 26.1944444
+    },
+    {
+      "cityName": "Ädu",
+      "lat": 58.0119444,
+      "lng": 26.2397222
+    },
+    {
+      "cityName": "Aitsra",
+      "lat": 57.9036111,
+      "lng": 25.9333333
+    },
+    {
+      "cityName": "Ala",
+      "lat": 57.9519444,
+      "lng": 26.03
+    },
+    {
+      "cityName": "Ala-Taagepera",
+      "lat": 58.0161111,
+      "lng": 25.69
+    },
+    {
+      "cityName": "Alliku",
+      "lat": 58.0866667,
+      "lng": 25.9075
+    },
+    {
+      "cityName": "Alt-Hummelshof",
+      "lat": 57.9036111,
+      "lng": 26.0583333
+    },
+    {
+      "cityName": "Apja",
+      "lat": 57.6766667,
+      "lng": 26.4205556
+    },
+    {
+      "cityName": "Arula",
+      "lat": 58.0366667,
+      "lng": 26.37
+    },
+    {
+      "cityName": "Astuvere",
+      "lat": 58.0997222,
+      "lng": 26.3041667
+    },
+    {
+      "cityName": "Asu",
+      "lat": 57.9338889,
+      "lng": 25.9058333
+    },
+    {
+      "cityName": "Atra",
+      "lat": 58.1230556,
+      "lng": 26.3047222
+    },
+    {
+      "cityName": "Bockenhof",
+      "lat": 58.0497222,
+      "lng": 26.2263889
+    },
+    {
+      "cityName": "Eru",
+      "lat": 57.9258333,
+      "lng": 26.1788889
+    },
+    {
+      "cityName": "Hansi",
+      "lat": 57.75,
+      "lng": 26.4666667
+    },
+    {
+      "cityName": "Hargla",
+      "lat": 57.6116667,
+      "lng": 26.4044444
+    },
+    {
+      "cityName": "Hellenurme",
+      "lat": 58.1361111,
+      "lng": 26.39
+    },
+    {
+      "cityName": "Helme",
+      "lat": 58.0119444,
+      "lng": 25.8972222
+    },
+    {
+      "cityName": "Helmut",
+      "lat": 58.0027778,
+      "lng": 25.935
+    },
+    {
+      "cityName": "Holdre",
+      "lat": 57.9447222,
+      "lng": 25.7447222
+    },
+    {
+      "cityName": "Iigaste",
+      "lat": 57.8302778,
+      "lng": 26.2519444
+    },
+    {
+      "cityName": "Ilmjärve",
+      "lat": 57.9566667,
+      "lng": 26.45
+    },
+    {
+      "cityName": "Iltsma",
+      "lat": 58.0347222,
+      "lng": 25.9355556
+    },
+    {
+      "cityName": "Jaanikese",
+      "lat": 57.8061111,
+      "lng": 26.0677778
+    },
+    {
+      "cityName": "Jeti",
+      "lat": 57.9216667,
+      "lng": 25.8808333
+    },
+    {
+      "cityName": "Jõgeveste Asundus",
+      "lat": 57.9858333,
+      "lng": 26.0375
+    },
+    {
+      "cityName": "Kaagjärve",
+      "lat": 57.7672222,
+      "lng": 26.1772222
+    },
+    {
+      "cityName": "Käärike",
+      "lat": 57.95,
+      "lng": 25.9666667
+    },
+    {
+      "cityName": "Käärikmäe",
+      "lat": 57.7577778,
+      "lng": 26.3469444
+    },
+    {
+      "cityName": "Kääriku",
+      "lat": 57.9994444,
+      "lng": 26.3911111
+    },
+    {
+      "cityName": "Kähri",
+      "lat": 58.0747222,
+      "lng": 26.2994444
+    },
+    {
+      "cityName": "Kähu",
+      "lat": 57.9941667,
+      "lng": 25.7241667
+    },
+    {
+      "cityName": "Kalliküla",
+      "lat": 57.6063889,
+      "lng": 26.4436111
+    },
+    {
+      "cityName": "Kalme",
+      "lat": 57.9794444,
+      "lng": 25.9722222
+    },
+    {
+      "cityName": "Karjatnurme",
+      "lat": 58.0038889,
+      "lng": 25.7791667
+    },
+    {
+      "cityName": "Karolen",
+      "lat": 57.7511111,
+      "lng": 26.3838889
+    },
+    {
+      "cityName": "Kassiratta",
+      "lat": 57.9661111,
+      "lng": 26.4202778
+    },
+    {
+      "cityName": "Kastolatsi",
+      "lat": 58.0891667,
+      "lng": 26.475
+    },
+    {
+      "cityName": "Kaubi",
+      "lat": 58.1008333,
+      "lng": 26.0144444
+    },
+    {
+      "cityName": "Keeni",
+      "lat": 57.9538889,
+      "lng": 26.2797222
+    },
+    {
+      "cityName": "Keskküla",
+      "lat": 58.0138889,
+      "lng": 25.9641667
+    },
+    {
+      "cityName": "Kibena",
+      "lat": 58.0408333,
+      "lng": 26.2411111
+    },
+    {
+      "cityName": "Killinge",
+      "lat": 57.9658333,
+      "lng": 26.1505556
+    },
+    {
+      "cityName": "Kirbu Asundus",
+      "lat": 57.7702778,
+      "lng": 26.3461111
+    },
+    {
+      "cityName": "Kiriku",
+      "lat": 58.0813889,
+      "lng": 26.4441667
+    },
+    {
+      "cityName": "Kirikuküla",
+      "lat": 58.0130556,
+      "lng": 25.8697222
+    },
+    {
+      "cityName": "Kiviküla",
+      "lat": 57.9497222,
+      "lng": 26.1422222
+    },
+    {
+      "cityName": "Koigu Asundus",
+      "lat": 57.9725,
+      "lng": 26.5502778
+    },
+    {
+      "cityName": "Kõikkula asundus",
+      "lat": 57.6897222,
+      "lng": 26.2816667
+    },
+    {
+      "cityName": "Koiva",
+      "lat": 57.6761111,
+      "lng": 26.2536111
+    },
+    {
+      "cityName": "Kolli",
+      "lat": 58.0627778,
+      "lng": 26.2202778
+    },
+    {
+      "cityName": "Komsi",
+      "lat": 58.0638889,
+      "lng": 26.2611111
+    },
+    {
+      "cityName": "Koobassaare",
+      "lat": 57.6880556,
+      "lng": 26.4155556
+    },
+    {
+      "cityName": "Koorküla Asundus",
+      "lat": 57.9366667,
+      "lng": 25.8663889
+    },
+    {
+      "cityName": "Korijärve",
+      "lat": 57.8138889,
+      "lng": 26.3961111
+    },
+    {
+      "cityName": "Korkuna",
+      "lat": 57.6402778,
+      "lng": 26.3127778
+    },
+    {
+      "cityName": "Kuigatsi Asundus",
+      "lat": 58.0119444,
+      "lng": 26.2055556
+    },
+    {
+      "cityName": "Kulli",
+      "lat": 57.8938889,
+      "lng": 26.0194444
+    },
+    {
+      "cityName": "Kungi",
+      "lat": 58.0855556,
+      "lng": 25.9397222
+    },
+    {
+      "cityName": "Kurevere",
+      "lat": 57.9363889,
+      "lng": 26.3161111
+    },
+    {
+      "cityName": "Laanemetsa",
+      "lat": 57.65,
+      "lng": 26.3166667
+    },
+    {
+      "cityName": "Laatre",
+      "lat": 57.8688889,
+      "lng": 26.2536111
+    },
+    {
+      "cityName": "Laime",
+      "lat": 58.1255556,
+      "lng": 25.8797222
+    },
+    {
+      "cityName": "Lauküla",
+      "lat": 57.9069444,
+      "lng": 26.3580556
+    },
+    {
+      "cityName": "Leebiku Asundus",
+      "lat": 58.0666667,
+      "lng": 25.9166667
+    },
+    {
+      "cityName": "Leebiku",
+      "lat": 58.0816667,
+      "lng": 25.9636111
+    },
+    {
+      "cityName": "Leepina",
+      "lat": 57.715,
+      "lng": 26.2408333
+    },
+    {
+      "cityName": "Linna",
+      "lat": 58.0316667,
+      "lng": 25.8525
+    },
+    {
+      "cityName": "Liva",
+      "lat": 58.0677778,
+      "lng": 26.0247222
+    },
+    {
+      "cityName": "Londi",
+      "lat": 57.7558333,
+      "lng": 26.1458333
+    },
+    {
+      "cityName": "Lossiküla",
+      "lat": 57.9058333,
+      "lng": 26.2961111
+    },
+    {
+      "cityName": "Lota",
+      "lat": 57.9469444,
+      "lng": 26.2158333
+    },
+    {
+      "cityName": "Lõve Asundus",
+      "lat": 58.0625,
+      "lng": 25.8702778
+    },
+    {
+      "cityName": "Lutike",
+      "lat": 58.1419444,
+      "lng": 26.5625
+    },
+    {
+      "cityName": "Lutsu",
+      "lat": 57.7233333,
+      "lng": 26.2825
+    },
+    {
+      "cityName": "Mäeküla",
+      "lat": 57.9713889,
+      "lng": 26.3258333
+    },
+    {
+      "cityName": "Mäelooga",
+      "lat": 58.1475,
+      "lng": 26.3836111
+    },
+    {
+      "cityName": "Mägestiku",
+      "lat": 58.0897222,
+      "lng": 26.3922222
+    },
+    {
+      "cityName": "Mägiste",
+      "lat": 58.0063889,
+      "lng": 26.2294444
+    },
+    {
+      "cityName": "Mäha",
+      "lat": 58.0536111,
+      "lng": 26.3944444
+    },
+    {
+      "cityName": "Märdi",
+      "lat": 57.9897222,
+      "lng": 26.4147222
+    },
+    {
+      "cityName": "Meegaste",
+      "lat": 58.0602778,
+      "lng": 26.2930556
+    },
+    {
+      "cityName": "Miti",
+      "lat": 58.1041667,
+      "lng": 26.3908333
+    },
+    {
+      "cityName": "Möldre",
+      "lat": 58.0269444,
+      "lng": 25.9205556
+    },
+    {
+      "cityName": "Muhkva",
+      "lat": 57.8641667,
+      "lng": 26.29
+    },
+    {
+      "cityName": "Mürgi",
+      "lat": 57.7919444,
+      "lng": 26.2366667
+    },
+    {
+      "cityName": "Mustakese",
+      "lat": 57.9,
+      "lng": 26.1833333
+    },
+    {
+      "cityName": "Mustumetsa",
+      "lat": 57.9758333,
+      "lng": 26.1191667
+    },
+    {
+      "cityName": "Myza Patkyula",
+      "lat": 57.9816667,
+      "lng": 25.8963889
+    },
+    {
+      "cityName": "Myza Pilkuze",
+      "lat": 58.0516667,
+      "lng": 26.54
+    },
+    {
+      "cityName": "Myza Pyaydla",
+      "lat": 58.1172222,
+      "lng": 26.4766667
+    },
+    {
+      "cityName": "Myza Pyukhayarve",
+      "lat": 58.05,
+      "lng": 26.4416667
+    },
+    {
+      "cityName": "Myza Riydaya",
+      "lat": 58.0966667,
+      "lng": 25.8975
+    },
+    {
+      "cityName": "Myza Sangaste",
+      "lat": 57.9252778,
+      "lng": 26.315
+    },
+    {
+      "cityName": "Myza Sontaga",
+      "lat": 58.0091667,
+      "lng": 26.0869444
+    },
+    {
+      "cityName": "Myza Tyagepera",
+      "lat": 57.9916667,
+      "lng": 25.6730556
+    },
+    {
+      "cityName": "Myza Unikyula",
+      "lat": 57.9213889,
+      "lng": 26.1166667
+    },
+    {
+      "cityName": "Myza Vana-Otepya",
+      "lat": 58.0813889,
+      "lng": 26.5305556
+    },
+    {
+      "cityName": "Myza Vidriku",
+      "lat": 57.9886111,
+      "lng": 26.5163889
+    },
+    {
+      "cityName": "Myza Voki",
+      "lat": 58.0097222,
+      "lng": 26.43
+    },
+    {
+      "cityName": "Nakatu",
+      "lat": 57.7333333,
+      "lng": 26.3
+    },
+    {
+      "cityName": "Neeruti",
+      "lat": 58.1172222,
+      "lng": 26.5641667
+    },
+    {
+      "cityName": "Nõuni",
+      "lat": 58.1222222,
+      "lng": 26.5252778
+    },
+    {
+      "cityName": "Nüpli",
+      "lat": 58.0438889,
+      "lng": 26.4791667
+    },
+    {
+      "cityName": "Nustago",
+      "lat": 58.0583333,
+      "lng": 26.4966667
+    },
+    {
+      "cityName": "Õlatu",
+      "lat": 57.9933333,
+      "lng": 26.2075
+    },
+    {
+      "cityName": "Õruste",
+      "lat": 57.9083333,
+      "lng": 26.1891667
+    },
+    {
+      "cityName": "Paju",
+      "lat": 57.8172222,
+      "lng": 26.1047222
+    },
+    {
+      "cityName": "Palamuste",
+      "lat": 58.0941667,
+      "lng": 26.2727778
+    },
+    {
+      "cityName": "Palumetsa",
+      "lat": 57.8,
+      "lng": 26.3333333
+    },
+    {
+      "cityName": "Palupera Asundus",
+      "lat": 58.1191667,
+      "lng": 26.3444444
+    },
+    {
+      "cityName": "Parve",
+      "lat": 57.9772222,
+      "lng": 26.0363889
+    },
+    {
+      "cityName": "Pastaku",
+      "lat": 58.1552778,
+      "lng": 26.3833333
+    },
+    {
+      "cityName": "Pedajamäe",
+      "lat": 58.0761111,
+      "lng": 26.44
+    },
+    {
+      "cityName": "Pedaste",
+      "lat": 58.0894444,
+      "lng": 26.2277778
+    },
+    {
+      "cityName": "Piiri",
+      "lat": 57.6705556,
+      "lng": 26.2905556
+    },
+    {
+      "cityName": "Pikasilla",
+      "lat": 58.0852778,
+      "lng": 26.0480556
+    },
+    {
+      "cityName": "Pikkjärve",
+      "lat": 57.7708333,
+      "lng": 26.2816667
+    },
+    {
+      "cityName": "Pilpa",
+      "lat": 57.9997222,
+      "lng": 25.6513889
+    },
+    {
+      "cityName": "Plika",
+      "lat": 58.0525,
+      "lng": 26.1816667
+    },
+    {
+      "cityName": "Põra",
+      "lat": 58.1369444,
+      "lng": 25.9013889
+    },
+    {
+      "cityName": "Pori",
+      "lat": 58.0716667,
+      "lng": 25.8480556
+    },
+    {
+      "cityName": "Põru",
+      "lat": 58.0302778,
+      "lng": 26.1591667
+    },
+    {
+      "cityName": "Prange",
+      "lat": 58.0388889,
+      "lng": 26.1891667
+    },
+    {
+      "cityName": "Priipalo",
+      "lat": 57.9866667,
+      "lng": 26.1758333
+    },
+    {
+      "cityName": "Pringi",
+      "lat": 58.0038889,
+      "lng": 26.2927778
+    },
+    {
+      "cityName": "Pugritsa",
+      "lat": 57.7416667,
+      "lng": 26.2175
+    },
+    {
+      "cityName": "Pühaste",
+      "lat": 58.1044444,
+      "lng": 26.1288889
+    },
+    {
+      "cityName": "Puide",
+      "lat": 57.9388889,
+      "lng": 25.9475
+    },
+    {
+      "cityName": "Püri",
+      "lat": 57.8875,
+      "lng": 26.0627778
+    },
+    {
+      "cityName": "Purtsi",
+      "lat": 58.0847222,
+      "lng": 26.0994444
+    },
+    {
+      "cityName": "Raa",
+      "lat": 57.86,
+      "lng": 26.1969444
+    },
+    {
+      "cityName": "Raavitsa",
+      "lat": 57.7991667,
+      "lng": 26.1675
+    },
+    {
+      "cityName": "Räbi",
+      "lat": 58.12,
+      "lng": 26.4427778
+    },
+    {
+      "cityName": "Rampe",
+      "lat": 57.8697222,
+      "lng": 26.2111111
+    },
+    {
+      "cityName": "Raudsepani",
+      "lat": 58.0691667,
+      "lng": 25.9341667
+    },
+    {
+      "cityName": "Raudsepa",
+      "lat": 58.0025,
+      "lng": 26.4527778
+    },
+    {
+      "cityName": "Rebasemõisa",
+      "lat": 57.7472222,
+      "lng": 26.4136111
+    },
+    {
+      "cityName": "Rebaste",
+      "lat": 58.0741667,
+      "lng": 26.1861111
+    },
+    {
+      "cityName": "Restu",
+      "lat": 57.9455556,
+      "lng": 26.3669444
+    },
+    {
+      "cityName": "Reti",
+      "lat": 58.1205556,
+      "lng": 25.8658333
+    },
+    {
+      "cityName": "Rilli",
+      "lat": 58.11,
+      "lng": 25.8761111
+    },
+    {
+      "cityName": "Ringiste",
+      "lat": 57.7319444,
+      "lng": 26.3077778
+    },
+    {
+      "cityName": "Ristiotsa",
+      "lat": 57.95,
+      "lng": 26.4
+    },
+    {
+      "cityName": "Risttee",
+      "lat": 57.9547222,
+      "lng": 26.4111111
+    },
+    {
+      "cityName": "Robe",
+      "lat": 57.9641667,
+      "lng": 25.9569444
+    },
+    {
+      "cityName": "Rulli",
+      "lat": 58.0375,
+      "lng": 25.9727778
+    },
+    {
+      "cityName": "Ruuna",
+      "lat": 58.0372222,
+      "lng": 26.2169444
+    },
+    {
+      "cityName": "Saareantsu",
+      "lat": 58.0333333,
+      "lng": 25.9
+    },
+    {
+      "cityName": "Sälgu",
+      "lat": 58.1,
+      "lng": 25.9333333
+    },
+    {
+      "cityName": "Sarapuu",
+      "lat": 57.9102778,
+      "lng": 26.4175
+    },
+    {
+      "cityName": "Sihva",
+      "lat": 58.0194444,
+      "lng": 26.4347222
+    },
+    {
+      "cityName": "Soe",
+      "lat": 57.9094444,
+      "lng": 26.0308333
+    },
+    {
+      "cityName": "Sooblase",
+      "lat": 57.6102778,
+      "lng": 26.3597222
+    },
+    {
+      "cityName": "Sooru",
+      "lat": 57.8533333,
+      "lng": 26.1158333
+    },
+    {
+      "cityName": "Supa",
+      "lat": 57.8311111,
+      "lng": 26.1327778
+    },
+    {
+      "cityName": "Surkyula",
+      "lat": 58.1166667,
+      "lng": 25.8833333
+    },
+    {
+      "cityName": "Tagula",
+      "lat": 57.8572222,
+      "lng": 26.3705556
+    },
+    {
+      "cityName": "Taheva",
+      "lat": 57.6297222,
+      "lng": 26.3375
+    },
+    {
+      "cityName": "Tiidu",
+      "lat": 57.9161111,
+      "lng": 26.2725
+    },
+    {
+      "cityName": "Tinu",
+      "lat": 57.8469444,
+      "lng": 26.1944444
+    },
+    {
+      "cityName": "Toku",
+      "lat": 57.8819444,
+      "lng": 26.4233333
+    },
+    {
+      "cityName": "Tõlliste",
+      "lat": 57.8583333,
+      "lng": 26.1783333
+    },
+    {
+      "cityName": "Tõrvase",
+      "lat": 57.5902778,
+      "lng": 26.4766667
+    },
+    {
+      "cityName": "Tõutsi",
+      "lat": 57.9580556,
+      "lng": 26.4858333
+    },
+    {
+      "cityName": "Truuta",
+      "lat": 57.9847222,
+      "lng": 26.5658333
+    },
+    {
+      "cityName": "Tsäni",
+      "lat": 57.95,
+      "lng": 26.3333333
+    },
+    {
+      "cityName": "Tsirgumäe",
+      "lat": 57.6061111,
+      "lng": 26.3311111
+    },
+    {
+      "cityName": "Uralaane",
+      "lat": 58.0691667,
+      "lng": 25.9811111
+    },
+    {
+      "cityName": "Urmi",
+      "lat": 58.1230556,
+      "lng": 26.3769444
+    },
+    {
+      "cityName": "Vaalu",
+      "lat": 57.9711111,
+      "lng": 26.25
+    },
+    {
+      "cityName": "Väheru",
+      "lat": 57.7966667,
+      "lng": 26.3147222
+    },
+    {
+      "cityName": "Valga",
+      "lat": 57.7744444,
+      "lng": 26.0452778
+    },
+    {
+      "cityName": "Väljaküla",
+      "lat": 57.8741667,
+      "lng": 26.2808333
+    },
+    {
+      "cityName": "Valtina",
+      "lat": 57.7925,
+      "lng": 26.4261111
+    },
+    {
+      "cityName": "Vanamõisa",
+      "lat": 58.0305556,
+      "lng": 26.3491667
+    },
+    {
+      "cityName": "Vanatare",
+      "lat": 57.85,
+      "lng": 26.3666667
+    },
+    {
+      "cityName": "Voorbahi",
+      "lat": 58.0461111,
+      "lng": 25.8511111
+    }
+  ]
+}

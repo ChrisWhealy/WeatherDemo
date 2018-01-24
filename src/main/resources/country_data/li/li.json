@@ -1,0 +1,67 @@
+{
+  "name": "Liechtenstein",
+  "iso2": "li",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Balzers",
+      "id": 0
+    },
+    {
+      "name": "Eschen",
+      "id": 1
+    },
+    {
+      "name": "Gamprin",
+      "id": 2
+    },
+    {
+      "name": "Mauren",
+      "id": 3
+    },
+    {
+      "name": "Planken",
+      "id": 4
+    },
+    {
+      "name": "Ruggell",
+      "id": 5
+    },
+    {
+      "name": "Schaan",
+      "id": 6
+    },
+    {
+      "name": "Schellenberg",
+      "id": 7
+    },
+    {
+      "name": "Triesen",
+      "id": 8
+    },
+    {
+      "name": "Triesenberg",
+      "id": 9
+    },
+    {
+      "name": "Vaduz",
+      "id": 10
+    }
+  ],
+  "geoRectangle": {
+    "West": 9.47780323029,
+    "East": 9.63219642639,
+    "North": 47.2735328674,
+    "South": 47.0558547974
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Vaduz",
+    "GeoPt": [
+      47.08,
+      9.31
+    ]
+  }
+}

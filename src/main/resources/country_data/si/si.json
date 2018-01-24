@@ -1,0 +1,35 @@
+{
+  "name": "Slovenia",
+  "iso2": "si",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Bohinj Commune",
+      "id": 0
+    },
+    {
+      "name": "Brezovica Commune",
+      "id": 1
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 2
+    }
+  ],
+  "geoRectangle": {
+    "West": 13.3830814362,
+    "East": 16.5660037994,
+    "North": 46.8779220581,
+    "South": 45.4131317139
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Ljubljana",
+    "GeoPt": [
+      46.03,
+      14.31
+    ]
+  }
+}

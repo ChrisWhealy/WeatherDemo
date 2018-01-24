@@ -1,0 +1,75 @@
+{
+  "name": "Chile",
+  "iso2": "cl",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Aisen del General Carlos Ibanez del Campo",
+      "id": 0
+    },
+    {
+      "name": "Antofagasta",
+      "id": 1
+    },
+    {
+      "name": "Araucania",
+      "id": 2
+    },
+    {
+      "name": "Atacama",
+      "id": 3
+    },
+    {
+      "name": "Bio-Bio",
+      "id": 4
+    },
+    {
+      "name": "Coquimbo",
+      "id": 5
+    },
+    {
+      "name": "Libertador General Bernardo O'Higgins",
+      "id": 6
+    },
+    {
+      "name": "Los Lagos",
+      "id": 7
+    },
+    {
+      "name": "Magallanes y de la Antartica Chilena",
+      "id": 8
+    },
+    {
+      "name": "Maule",
+      "id": 9
+    },
+    {
+      "name": "Region Metropolitana",
+      "id": 10
+    },
+    {
+      "name": "Tarapaca",
+      "id": 11
+    },
+    {
+      "name": "Valparaiso",
+      "id": 12
+    }
+  ],
+  "geoRectangle": {
+    "West": -109.4559021,
+    "East": -66.4175491333,
+    "North": -17.5075492859,
+    "South": -55.9163551331
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": -4,
+    "Flg": 2,
+    "Name": "Santiago",
+    "GeoPt": [
+      -33.27,
+      -70.4
+    ]
+  }
+}

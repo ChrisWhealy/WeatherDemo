@@ -1,0 +1,91 @@
+{
+  "name": "Spain",
+  "iso2": "es",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Andalucia",
+      "id": 0
+    },
+    {
+      "name": "Aragon",
+      "id": 1
+    },
+    {
+      "name": "Asturias",
+      "id": 2
+    },
+    {
+      "name": "Canarias",
+      "id": 3
+    },
+    {
+      "name": "Cantabria",
+      "id": 4
+    },
+    {
+      "name": "Castilla y Leon",
+      "id": 5
+    },
+    {
+      "name": "Castilla-La Mancha",
+      "id": 6
+    },
+    {
+      "name": "Catalonia",
+      "id": 7
+    },
+    {
+      "name": "Comunidad Valenciana",
+      "id": 8
+    },
+    {
+      "name": "Extremadura",
+      "id": 9
+    },
+    {
+      "name": "Galicia",
+      "id": 10
+    },
+    {
+      "name": "Islas Baleares",
+      "id": 11
+    },
+    {
+      "name": "La Rioja",
+      "id": 12
+    },
+    {
+      "name": "Madrid",
+      "id": 13
+    },
+    {
+      "name": "Murcia",
+      "id": 14
+    },
+    {
+      "name": "Navarra",
+      "id": 15
+    },
+    {
+      "name": "Pais Vasco",
+      "id": 16
+    }
+  ],
+  "geoRectangle": {
+    "West": -18.1696414948,
+    "East": 4.31538963318,
+    "North": 43.7917251587,
+    "South": 27.6388168335
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Madrid",
+    "GeoPt": [
+      40.24,
+      -3.41
+    ]
+  }
+}

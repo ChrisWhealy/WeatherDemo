@@ -1,0 +1,103 @@
+{
+  "name": "Papua New Guinea",
+  "iso2": "pg",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Central",
+      "id": 0
+    },
+    {
+      "name": "Chimbu",
+      "id": 1
+    },
+    {
+      "name": "East New Britain",
+      "id": 2
+    },
+    {
+      "name": "East Sepik",
+      "id": 3
+    },
+    {
+      "name": "Eastern Highlands",
+      "id": 4
+    },
+    {
+      "name": "Enga",
+      "id": 5
+    },
+    {
+      "name": "Gulf",
+      "id": 6
+    },
+    {
+      "name": "Madang",
+      "id": 7
+    },
+    {
+      "name": "Manus",
+      "id": 8
+    },
+    {
+      "name": "Milne Bay",
+      "id": 9
+    },
+    {
+      "name": "Morobe",
+      "id": 10
+    },
+    {
+      "name": "National Capital",
+      "id": 11
+    },
+    {
+      "name": "New Ireland",
+      "id": 12
+    },
+    {
+      "name": "North Solomons",
+      "id": 13
+    },
+    {
+      "name": "Northern",
+      "id": 14
+    },
+    {
+      "name": "Sandaun",
+      "id": 15
+    },
+    {
+      "name": "Southern Highlands",
+      "id": 16
+    },
+    {
+      "name": "West New Britain",
+      "id": 17
+    },
+    {
+      "name": "Western",
+      "id": 18
+    },
+    {
+      "name": "Western Highlands",
+      "id": 19
+    }
+  ],
+  "geoRectangle": {
+    "West": 140.842849731,
+    "East": 155.963470459,
+    "North": -1.31863880157,
+    "South": -11.6578626633
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 10,
+    "Flg": 2,
+    "Name": "Port Moresby",
+    "GeoPt": [
+      -9.3,
+      147.1
+    ]
+  }
+}

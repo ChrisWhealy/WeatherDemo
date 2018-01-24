@@ -1,0 +1,51 @@
+{
+  "name": "Finland",
+  "iso2": "fi",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Aland",
+      "id": 0
+    },
+    {
+      "name": "Eastern Finland",
+      "id": 1
+    },
+    {
+      "name": "Lapland",
+      "id": 2
+    },
+    {
+      "name": "Oulu",
+      "id": 3
+    },
+    {
+      "name": "Southern Finland",
+      "id": 4
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 5
+    },
+    {
+      "name": "Western Finland",
+      "id": 6
+    }
+  ],
+  "geoRectangle": {
+    "West": 19.5207176208,
+    "East": 31.5809459686,
+    "North": 70.0960617065,
+    "South": 59.8087730408
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Helsinki",
+    "GeoPt": [
+      60.1,
+      24.56
+    ]
+  }
+}

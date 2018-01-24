@@ -1,0 +1,123 @@
+{
+  "name": "Hungary",
+  "iso2": "hu",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Bacs-Kiskun",
+      "id": 0
+    },
+    {
+      "name": "Baranya",
+      "id": 1
+    },
+    {
+      "name": "Bekes",
+      "id": 2
+    },
+    {
+      "name": "Borsod-Abauj-Zemplen",
+      "id": 3
+    },
+    {
+      "name": "Budapest",
+      "id": 4
+    },
+    {
+      "name": "Csongrad",
+      "id": 5
+    },
+    {
+      "name": "Debrecen",
+      "id": 6
+    },
+    {
+      "name": "Fejer",
+      "id": 7
+    },
+    {
+      "name": "Gyor",
+      "id": 8
+    },
+    {
+      "name": "Gyor-Moson-Sopron",
+      "id": 9
+    },
+    {
+      "name": "Hajdu-Bihar",
+      "id": 10
+    },
+    {
+      "name": "Heves",
+      "id": 11
+    },
+    {
+      "name": "Jasz-Nagykun-Szolnok",
+      "id": 12
+    },
+    {
+      "name": "Komarom-Esztergom",
+      "id": 13
+    },
+    {
+      "name": "Miskolc",
+      "id": 14
+    },
+    {
+      "name": "Nograd",
+      "id": 15
+    },
+    {
+      "name": "Pecs",
+      "id": 16
+    },
+    {
+      "name": "Pest",
+      "id": 17
+    },
+    {
+      "name": "Somogy",
+      "id": 18
+    },
+    {
+      "name": "Szabolcs-Szatmar-Bereg",
+      "id": 19
+    },
+    {
+      "name": "Szeged",
+      "id": 20
+    },
+    {
+      "name": "Tolna",
+      "id": 21
+    },
+    {
+      "name": "Vas",
+      "id": 22
+    },
+    {
+      "name": "Veszprem",
+      "id": 23
+    },
+    {
+      "name": "Zala",
+      "id": 24
+    }
+  ],
+  "geoRectangle": {
+    "West": 16.1118869781,
+    "East": 22.9060020447,
+    "North": 48.5856742859,
+    "South": 45.7436027527
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Budapest",
+    "GeoPt": [
+      47.3,
+      19.05
+    ]
+  }
+}

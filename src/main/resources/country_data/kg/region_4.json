@@ -1,0 +1,795 @@
+{
+  "name": "Naryn",
+  "cities": [
+    {
+      "cityName": "Acha-Kaindy",
+      "lat": 41.1422222,
+      "lng": 75.8111111
+    },
+    {
+      "cityName": "Akbashim",
+      "lat": 41.4,
+      "lng": 75.4
+    },
+    {
+      "cityName": "Akbeit",
+      "lat": 40.9,
+      "lng": 75.1333333
+    },
+    {
+      "cityName": "Akbulak",
+      "lat": 41.3333333,
+      "lng": 75.35
+    },
+    {
+      "cityName": "Ak-Bulun",
+      "lat": 41.4508333,
+      "lng": 76.2908333
+    },
+    {
+      "cityName": "Akchiy",
+      "lat": 41.2,
+      "lng": 74.8333333
+    },
+    {
+      "cityName": "Akdzhar",
+      "lat": 41.1666667,
+      "lng": 75.8
+    },
+    {
+      "cityName": "Ak-Kuduk",
+      "lat": 41.5,
+      "lng": 75.3333333
+    },
+    {
+      "cityName": "Ak-Kul'",
+      "lat": 41.6833333,
+      "lng": 74.1666667
+    },
+    {
+      "cityName": "Akkyya",
+      "lat": 41.4333333,
+      "lng": 74.8333333
+    },
+    {
+      "cityName": "Akkzu",
+      "lat": 41.2505556,
+      "lng": 76.1355556
+    },
+    {
+      "cityName": "Ak-Moyun",
+      "lat": 41.2166667,
+      "lng": 76.0513889
+    },
+    {
+      "cityName": "Ak-Suu",
+      "lat": 41.5,
+      "lng": 75.2
+    },
+    {
+      "cityName": "Aktala",
+      "lat": 41.0833333,
+      "lng": 75.6666667
+    },
+    {
+      "cityName": "Ak-Tala",
+      "lat": 41.4094444,
+      "lng": 75.0597222
+    },
+    {
+      "cityName": "Alysh",
+      "lat": 41.4447222,
+      "lng": 76.1994444
+    },
+    {
+      "cityName": "Aral",
+      "lat": 41.8666667,
+      "lng": 74.3666667
+    },
+    {
+      "cityName": "Arpa",
+      "lat": 40.75,
+      "lng": 74.75
+    },
+    {
+      "cityName": "Aslam",
+      "lat": 41.4333333,
+      "lng": 74.15
+    },
+    {
+      "cityName": "At-Bashi",
+      "lat": 41.1697222,
+      "lng": 75.8102778
+    },
+    {
+      "cityName": "Baetov",
+      "lat": 41.2166667,
+      "lng": 74.9
+    },
+    {
+      "cityName": "Bagösh",
+      "lat": 41.9833333,
+      "lng": 74.9666667
+    },
+    {
+      "cityName": "Bash-Kaindy",
+      "lat": 41.1536111,
+      "lng": 75.9025
+    },
+    {
+      "cityName": "Bash-Karakain",
+      "lat": 41.0166667,
+      "lng": 75.4833333
+    },
+    {
+      "cityName": "Bashkugandy",
+      "lat": 42.0166667,
+      "lng": 74.15
+    },
+    {
+      "cityName": "Baskyya",
+      "lat": 41.5,
+      "lng": 75.8166667
+    },
+    {
+      "cityName": "Baybiche",
+      "lat": 41.4333333,
+      "lng": 75.0333333
+    },
+    {
+      "cityName": "Baygonchak",
+      "lat": 41.3666667,
+      "lng": 74.9166667
+    },
+    {
+      "cityName": "Birinchi May",
+      "lat": 41.1761111,
+      "lng": 76.0538889
+    },
+    {
+      "cityName": "Birlik",
+      "lat": 41.2075,
+      "lng": 75.9413889
+    },
+    {
+      "cityName": "Bol'shevik",
+      "lat": 42.1769444,
+      "lng": 75.7727778
+    },
+    {
+      "cityName": "Camp Snerif",
+      "lat": 40.55,
+      "lng": 74.4166667
+    },
+    {
+      "cityName": "Chaek",
+      "lat": 41.9338889,
+      "lng": 74.5183333
+    },
+    {
+      "cityName": "Chamyndy",
+      "lat": 41.6166667,
+      "lng": 74.3333333
+    },
+    {
+      "cityName": "Chatyr-Tash",
+      "lat": 40.8975,
+      "lng": 76.4327778
+    },
+    {
+      "cityName": "Chelek",
+      "lat": 41.1833333,
+      "lng": 74.55
+    },
+    {
+      "cityName": "Chetbulak",
+      "lat": 41.2833333,
+      "lng": 73.9833333
+    },
+    {
+      "cityName": "Cholpon",
+      "lat": 42.195,
+      "lng": 75.4755556
+    },
+    {
+      "cityName": "Chonborolbog",
+      "lat": 41.5,
+      "lng": 75.2333333
+    },
+    {
+      "cityName": "Chon-Bulak",
+      "lat": 42.1666667,
+      "lng": 75.7166667
+    },
+    {
+      "cityName": "Chongtebe",
+      "lat": 41.7333333,
+      "lng": 74.1333333
+    },
+    {
+      "cityName": "Chonkadyraly",
+      "lat": 41.5,
+      "lng": 75.3
+    },
+    {
+      "cityName": "Chot-Nura",
+      "lat": 41.6,
+      "lng": 76.3166667
+    },
+    {
+      "cityName": "Danalysh",
+      "lat": 42.2597222,
+      "lng": 75.235
+    },
+    {
+      "cityName": "Dëdëmël'",
+      "lat": 41.45,
+      "lng": 74.4
+    },
+    {
+      "cityName": "Dostuk",
+      "lat": 41.3697222,
+      "lng": 75.6366667
+    },
+    {
+      "cityName": "Dungurme",
+      "lat": 41.7,
+      "lng": 74.3
+    },
+    {
+      "cityName": "Dupkur",
+      "lat": 41.4666667,
+      "lng": 73.95
+    },
+    {
+      "cityName": "Dyubeli",
+      "lat": 41.45,
+      "lng": 76.25
+    },
+    {
+      "cityName": "Dyudyumel'",
+      "lat": 41.4666667,
+      "lng": 74.2833333
+    },
+    {
+      "cityName": "Dzhalgyzterek",
+      "lat": 41.4666667,
+      "lng": 75.7833333
+    },
+    {
+      "cityName": "Dzham-Bulak",
+      "lat": 41.4361111,
+      "lng": 75.7336111
+    },
+    {
+      "cityName": "Dzhangytalap",
+      "lat": 41.4505556,
+      "lng": 75.0141667
+    },
+    {
+      "cityName": "Dzhergetal",
+      "lat": 41.15,
+      "lng": 74.3666667
+    },
+    {
+      "cityName": "Dzhergety",
+      "lat": 41.5702778,
+      "lng": 75.7869444
+    },
+    {
+      "cityName": "Dzhilanaryk",
+      "lat": 41.4333333,
+      "lng": 75.2166667
+    },
+    {
+      "cityName": "Dzholkara",
+      "lat": 41.8666667,
+      "lng": 74.7166667
+    },
+    {
+      "cityName": "Ekachat",
+      "lat": 41.6,
+      "lng": 75.0166667
+    },
+    {
+      "cityName": "Elektor",
+      "lat": 42.1666667,
+      "lng": 75.9166667
+    },
+    {
+      "cityName": "Emgekchil",
+      "lat": 41.5552778,
+      "lng": 75.9716667
+    },
+    {
+      "cityName": "Emgek-Talaa",
+      "lat": 41.39,
+      "lng": 75.6047222
+    },
+    {
+      "cityName": "Epkin",
+      "lat": 42.1666667,
+      "lng": 75.4166667
+    },
+    {
+      "cityName": "Ichkebash",
+      "lat": 41.6166667,
+      "lng": 75.9
+    },
+    {
+      "cityName": "Ichkesu",
+      "lat": 41.3,
+      "lng": 74.9166667
+    },
+    {
+      "cityName": "Imeni Kalinina",
+      "lat": 41.0872222,
+      "lng": 75.6772222
+    },
+    {
+      "cityName": "Imeni Kuybysheva",
+      "lat": 41.5105556,
+      "lng": 75.8544444
+    },
+    {
+      "cityName": "Kagoy",
+      "lat": 41.4833333,
+      "lng": 75.1166667
+    },
+    {
+      "cityName": "Kaindy",
+      "lat": 41.5,
+      "lng": 74.45
+    },
+    {
+      "cityName": "Kaindyn",
+      "lat": 41.6166667,
+      "lng": 75.1666667
+    },
+    {
+      "cityName": "Kairma",
+      "lat": 41.9833333,
+      "lng": 74.65
+    },
+    {
+      "cityName": "Karabulak",
+      "lat": 41.7166667,
+      "lng": 73.9333333
+    },
+    {
+      "cityName": "Karabulun",
+      "lat": 41.3666667,
+      "lng": 74.2
+    },
+    {
+      "cityName": "Kara-Burga",
+      "lat": 41.3,
+      "lng": 74.7
+    },
+    {
+      "cityName": "Karachi",
+      "lat": 41.4166667,
+      "lng": 74.1
+    },
+    {
+      "cityName": "Karakeche",
+      "lat": 41.7166667,
+      "lng": 74.7666667
+    },
+    {
+      "cityName": "Karakin",
+      "lat": 41.4166667,
+      "lng": 74.3166667
+    },
+    {
+      "cityName": "Karakungey",
+      "lat": 42.2033333,
+      "lng": 75.9169444
+    },
+    {
+      "cityName": "Karamurza",
+      "lat": 41.4333333,
+      "lng": 74.05
+    },
+    {
+      "cityName": "Kara-Oy",
+      "lat": 41.4527778,
+      "lng": 75.1161111
+    },
+    {
+      "cityName": "Karasu",
+      "lat": 41.1166667,
+      "lng": 74.8666667
+    },
+    {
+      "cityName": "Kara-Suu",
+      "lat": 41.1305556,
+      "lng": 75.6783333
+    },
+    {
+      "cityName": "Karatëbë",
+      "lat": 41.8833333,
+      "lng": 74.4666667
+    },
+    {
+      "cityName": "Karaultëbë",
+      "lat": 40.5363889,
+      "lng": 75.9641667
+    },
+    {
+      "cityName": "Kara-Ünkür",
+      "lat": 41.7636111,
+      "lng": 75.7244444
+    },
+    {
+      "cityName": "Kara-Unkurt",
+      "lat": 41.7333333,
+      "lng": 75.6666667
+    },
+    {
+      "cityName": "Kashat",
+      "lat": 42.3166667,
+      "lng": 75.4333333
+    },
+    {
+      "cityName": "Kasymbek",
+      "lat": 41.3,
+      "lng": 74.95
+    },
+    {
+      "cityName": "Kazarman",
+      "lat": 41.4,
+      "lng": 74.05
+    },
+    {
+      "cityName": "Kazybek",
+      "lat": 41.0313889,
+      "lng": 75.5369444
+    },
+    {
+      "cityName": "Këk-Aygyr",
+      "lat": 40.7277778,
+      "lng": 75.6133333
+    },
+    {
+      "cityName": "Këkdzhar",
+      "lat": 42.1666667,
+      "lng": 75.6333333
+    },
+    {
+      "cityName": "Kël'më",
+      "lat": 41.45,
+      "lng": 75.1
+    },
+    {
+      "cityName": "Keng-Suu",
+      "lat": 41.9291667,
+      "lng": 75.6777778
+    },
+    {
+      "cityName": "Kensu",
+      "lat": 41.75,
+      "lng": 74.0833333
+    },
+    {
+      "cityName": "Kochkorka",
+      "lat": 42.2127778,
+      "lng": 75.7541667
+    },
+    {
+      "cityName": "Kolaryk",
+      "lat": 41.9666667,
+      "lng": 74.6666667
+    },
+    {
+      "cityName": "Kol'tor",
+      "lat": 42.3166667,
+      "lng": 75.4666667
+    },
+    {
+      "cityName": "Komsomol",
+      "lat": 42.2408333,
+      "lng": 75.3141667
+    },
+    {
+      "cityName": "Kongorchok",
+      "lat": 41.25,
+      "lng": 74.5333333
+    },
+    {
+      "cityName": "Koshbulak",
+      "lat": 41.4666667,
+      "lng": 74.4
+    },
+    {
+      "cityName": "Koshtëbë",
+      "lat": 41.0833333,
+      "lng": 74.25
+    },
+    {
+      "cityName": "Krasnyy Oktyabr'",
+      "lat": 41.5,
+      "lng": 74.8333333
+    },
+    {
+      "cityName": "Kulanak",
+      "lat": 41.3577778,
+      "lng": 75.5097222
+    },
+    {
+      "cityName": "Kum-Dëbë",
+      "lat": 42.2152778,
+      "lng": 75.5491667
+    },
+    {
+      "cityName": "Kyzart",
+      "lat": 42.0166667,
+      "lng": 74.95
+    },
+    {
+      "cityName": "Kyzyl-Asker",
+      "lat": 41.3833333,
+      "lng": 75.65
+    },
+    {
+      "cityName": "Kyzyl-Dëbë",
+      "lat": 42.2019444,
+      "lng": 75.2625
+    },
+    {
+      "cityName": "Kyzyldezkan",
+      "lat": 41.1833333,
+      "lng": 75.7
+    },
+    {
+      "cityName": "Kyzyl-Dzhyldyz",
+      "lat": 41.5636111,
+      "lng": 75.8530556
+    },
+    {
+      "cityName": "Kyzylemgek",
+      "lat": 41.95,
+      "lng": 74.9333333
+    },
+    {
+      "cityName": "Kyzylkurgan",
+      "lat": 41.7333333,
+      "lng": 74.2
+    },
+    {
+      "cityName": "Kyzyloy",
+      "lat": 41.9666667,
+      "lng": 74.15
+    },
+    {
+      "cityName": "Kyzyltu",
+      "lat": 41.0511111,
+      "lng": 75.5544444
+    },
+    {
+      "cityName": "Laylysu",
+      "lat": 41.4666667,
+      "lng": 75.5166667
+    },
+    {
+      "cityName": "Mazar",
+      "lat": 41.6,
+      "lng": 76.1666667
+    },
+    {
+      "cityName": "Min-Bulak",
+      "lat": 41.4761111,
+      "lng": 75.8508333
+    },
+    {
+      "cityName": "Mingteke",
+      "lat": 41.95,
+      "lng": 74.3833333
+    },
+    {
+      "cityName": "Min-Kush",
+      "lat": 41.6833333,
+      "lng": 74.4666667
+    },
+    {
+      "cityName": "Naron",
+      "lat": 41.43,
+      "lng": 76
+    },
+    {
+      "cityName": "On-Archa",
+      "lat": 41.5666667,
+      "lng": 75.8666667
+    },
+    {
+      "cityName": "Örgörüsh",
+      "lat": 41.21,
+      "lng": 76.2069444
+    },
+    {
+      "cityName": "Ormok",
+      "lat": 41.5333333,
+      "lng": 75.9166667
+    },
+    {
+      "cityName": "Orto-Karakain",
+      "lat": 41.0333333,
+      "lng": 75.4666667
+    },
+    {
+      "cityName": "Ortok",
+      "lat": 42.2,
+      "lng": 75.3661111
+    },
+    {
+      "cityName": "Orto-Nura",
+      "lat": 41.4536111,
+      "lng": 76.2161111
+    },
+    {
+      "cityName": "Orto-Saz",
+      "lat": 41.4466667,
+      "lng": 76.0622222
+    },
+    {
+      "cityName": "Osaviakhim",
+      "lat": 41.2333333,
+      "lng": 74.5333333
+    },
+    {
+      "cityName": "Ottuk",
+      "lat": 41.6233333,
+      "lng": 75.8430556
+    },
+    {
+      "cityName": "Oytersken",
+      "lat": 41.1333333,
+      "lng": 75.8
+    },
+    {
+      "cityName": "Pogranichnik",
+      "lat": 41.0166667,
+      "lng": 75.4666667
+    },
+    {
+      "cityName": "Sary-Bulak",
+      "lat": 41.9647222,
+      "lng": 75.7536111
+    },
+    {
+      "cityName": "Sarybulun",
+      "lat": 41.4333333,
+      "lng": 74.1166667
+    },
+    {
+      "cityName": "Sarykamysh",
+      "lat": 41.7833333,
+      "lng": 73.9
+    },
+    {
+      "cityName": "Saz",
+      "lat": 41.3,
+      "lng": 74.6833333
+    },
+    {
+      "cityName": "Segizinchi Mart",
+      "lat": 41.4563889,
+      "lng": 75.4044444
+    },
+    {
+      "cityName": "Shamsi",
+      "lat": 42.3166667,
+      "lng": 75.4166667
+    },
+    {
+      "cityName": "Shoro",
+      "lat": 41.4833333,
+      "lng": 75.4833333
+    },
+    {
+      "cityName": "Talabulak",
+      "lat": 42.2666667,
+      "lng": 75.25
+    },
+    {
+      "cityName": "Taldö-su",
+      "lat": 41.1666667,
+      "lng": 76.1333333
+    },
+    {
+      "cityName": "Tash-Bashat",
+      "lat": 41.4655556,
+      "lng": 76.4047222
+    },
+    {
+      "cityName": "Tashbulak",
+      "lat": 41.4166667,
+      "lng": 75.9
+    },
+    {
+      "cityName": "Tashtebe",
+      "lat": 41.5833333,
+      "lng": 75.95
+    },
+    {
+      "cityName": "Tebykty",
+      "lat": 41.4166667,
+      "lng": 74.05
+    },
+    {
+      "cityName": "Tegerek-Kyrchin",
+      "lat": 41.5,
+      "lng": 75.6166667
+    },
+    {
+      "cityName": "Tereksu",
+      "lat": 41.1186111,
+      "lng": 75.7338889
+    },
+    {
+      "cityName": "Terek",
+      "lat": 41.2166667,
+      "lng": 74.9833333
+    },
+    {
+      "cityName": "Toguzbulak",
+      "lat": 41.5666667,
+      "lng": 75.8
+    },
+    {
+      "cityName": "Toguz-Bulak",
+      "lat": 42.1833333,
+      "lng": 75.7666667
+    },
+    {
+      "cityName": "Tugel'say",
+      "lat": 41.9833333,
+      "lng": 74.7833333
+    },
+    {
+      "cityName": "Tyulek",
+      "lat": 41.9666667,
+      "lng": 75.6833333
+    },
+    {
+      "cityName": "Uchkun",
+      "lat": 41.3772222,
+      "lng": 75.3608333
+    },
+    {
+      "cityName": "Ugut",
+      "lat": 41.4,
+      "lng": 74.85
+    },
+    {
+      "cityName": "Ukok",
+      "lat": 42.1666667,
+      "lng": 75.5833333
+    },
+    {
+      "cityName": "Ul'gu",
+      "lat": 42.1333333,
+      "lng": 75.0833333
+    },
+    {
+      "cityName": "Urtak",
+      "lat": 41.2166667,
+      "lng": 75.25
+    },
+    {
+      "cityName": "Uzgorysh",
+      "lat": 41.2166667,
+      "lng": 74.7
+    },
+    {
+      "cityName": "Uzunbulak",
+      "lat": 42.1333333,
+      "lng": 75.2666667
+    },
+    {
+      "cityName": "Yangi-Dzhol",
+      "lat": 41.8666667,
+      "lng": 74.45
+    }
+  ]
+}

@@ -1,0 +1,720 @@
+{
+  "name": "East Sussex",
+  "cities": [
+    {
+      "cityName": "Alfriston",
+      "lat": 50.8,
+      "lng": 0.15
+    },
+    {
+      "cityName": "Ardingly",
+      "lat": 51.033333,
+      "lng": -0.083333
+    },
+    {
+      "cityName": "Ashburnham",
+      "lat": 50.9,
+      "lng": 0.4
+    },
+    {
+      "cityName": "Balcombe",
+      "lat": 51.05,
+      "lng": -0.116667
+    },
+    {
+      "cityName": "Battle",
+      "lat": 50.916667,
+      "lng": 0.5
+    },
+    {
+      "cityName": "Baywards Heath",
+      "lat": 50.983333,
+      "lng": -0.1
+    },
+    {
+      "cityName": "Beckley",
+      "lat": 50.966667,
+      "lng": 0.633333
+    },
+    {
+      "cityName": "Beddingham",
+      "lat": 50.833333,
+      "lng": 0.05
+    },
+    {
+      "cityName": "Berwick",
+      "lat": 50.816667,
+      "lng": 0.15
+    },
+    {
+      "cityName": "Bevendean",
+      "lat": 50.833333,
+      "lng": -0.1
+    },
+    {
+      "cityName": "Bexhill",
+      "lat": 50.85,
+      "lng": 0.483333
+    },
+    {
+      "cityName": "Bishopstone",
+      "lat": 50.783333,
+      "lng": 0.083333
+    },
+    {
+      "cityName": "Bolney",
+      "lat": 50.983333,
+      "lng": -0.2
+    },
+    {
+      "cityName": "Brede",
+      "lat": 50.916667,
+      "lng": 0.6
+    },
+    {
+      "cityName": "Brightling",
+      "lat": 50.95,
+      "lng": 0.4
+    },
+    {
+      "cityName": "Brighton",
+      "lat": 50.833333,
+      "lng": -0.15
+    },
+    {
+      "cityName": "Burwash",
+      "lat": 51,
+      "lng": 0.383333
+    },
+    {
+      "cityName": "Buxted",
+      "lat": 50.983333,
+      "lng": 0.133333
+    },
+    {
+      "cityName": "Catsfield",
+      "lat": 50.883333,
+      "lng": 0.45
+    },
+    {
+      "cityName": "Chailey",
+      "lat": 50.95,
+      "lng": -0.016667
+    },
+    {
+      "cityName": "Chalvington",
+      "lat": 50.85,
+      "lng": 0.15
+    },
+    {
+      "cityName": "Chiddingly",
+      "lat": 50.9,
+      "lng": 0.183333
+    },
+    {
+      "cityName": "Clayton",
+      "lat": 50.9,
+      "lng": -0.15
+    },
+    {
+      "cityName": "Clifton",
+      "lat": 53,
+      "lng": -1.75
+    },
+    {
+      "cityName": "Cooksbridge",
+      "lat": 50.9,
+      "lng": -0.016667
+    },
+    {
+      "cityName": "Cross in Hand",
+      "lat": 50.966667,
+      "lng": 0.216667
+    },
+    {
+      "cityName": "Crowborough",
+      "lat": 51.05,
+      "lng": 0.15
+    },
+    {
+      "cityName": "Crowhurst",
+      "lat": 50.866667,
+      "lng": 0.5
+    },
+    {
+      "cityName": "Cuckfield",
+      "lat": 51.016667,
+      "lng": -0.133333
+    },
+    {
+      "cityName": "Dallington",
+      "lat": 50.933333,
+      "lng": 0.366667
+    },
+    {
+      "cityName": "Denton",
+      "lat": 50.783333,
+      "lng": 0.066667
+    },
+    {
+      "cityName": "Ditchelling",
+      "lat": 50.916667,
+      "lng": -0.1
+    },
+    {
+      "cityName": "Eastbourne",
+      "lat": 50.8,
+      "lng": 0.25
+    },
+    {
+      "cityName": "Eastdean",
+      "lat": 50.75,
+      "lng": 0.2
+    },
+    {
+      "cityName": "East Guldeford",
+      "lat": 50.95,
+      "lng": 0.75
+    },
+    {
+      "cityName": "East Hoathly",
+      "lat": 50.916667,
+      "lng": 0.166667
+    },
+    {
+      "cityName": "Etchingham",
+      "lat": 51,
+      "lng": 0.433333
+    },
+    {
+      "cityName": "Fairlight",
+      "lat": 50.883333,
+      "lng": 0.633333
+    },
+    {
+      "cityName": "Falmer",
+      "lat": 50.85,
+      "lng": -0.066667
+    },
+    {
+      "cityName": "Faygate",
+      "lat": 51.083333,
+      "lng": -0.25
+    },
+    {
+      "cityName": "Fletching",
+      "lat": 50.983333,
+      "lng": 0.033333
+    },
+    {
+      "cityName": "Forest Row",
+      "lat": 51.083333,
+      "lng": -0.033333
+    },
+    {
+      "cityName": "Framfield",
+      "lat": 50.95,
+      "lng": 0.133333
+    },
+    {
+      "cityName": "Frant",
+      "lat": 51.083333,
+      "lng": 0.266667
+    },
+    {
+      "cityName": "Glynde",
+      "lat": 50.85,
+      "lng": 0.066667
+    },
+    {
+      "cityName": "Groombridge",
+      "lat": 51.1,
+      "lng": 0.183333
+    },
+    {
+      "cityName": "Hadlow Down",
+      "lat": 50.983333,
+      "lng": 0.183333
+    },
+    {
+      "cityName": "Hailsham",
+      "lat": 50.866667,
+      "lng": 0.266667
+    },
+    {
+      "cityName": "Handcross",
+      "lat": 51.05,
+      "lng": -0.183333
+    },
+    {
+      "cityName": "Hartfield",
+      "lat": 51.083333,
+      "lng": 0.116667
+    },
+    {
+      "cityName": "Hastings",
+      "lat": 50.85,
+      "lng": 0.6
+    },
+    {
+      "cityName": "Hawkhurst",
+      "lat": 51.033333,
+      "lng": 0.5
+    },
+    {
+      "cityName": "Heathfield",
+      "lat": 50.95,
+      "lng": 0.266667
+    },
+    {
+      "cityName": "Hellingly",
+      "lat": 50.866667,
+      "lng": 0.25
+    },
+    {
+      "cityName": "Herstmonceux",
+      "lat": 50.883333,
+      "lng": 0.333333
+    },
+    {
+      "cityName": "Hollington",
+      "lat": 50.85,
+      "lng": 0.55
+    },
+    {
+      "cityName": "Hooe",
+      "lat": 50.85,
+      "lng": 0.4
+    },
+    {
+      "cityName": "Horam",
+      "lat": 50.916667,
+      "lng": 0.25
+    },
+    {
+      "cityName": "Horsebridge",
+      "lat": 50.866667,
+      "lng": 0.233333
+    },
+    {
+      "cityName": "Horsted Keynes",
+      "lat": 51.016667,
+      "lng": -0.016667
+    },
+    {
+      "cityName": "Hurst Green",
+      "lat": 51,
+      "lng": 0.466667
+    },
+    {
+      "cityName": "Hurstpierpoint",
+      "lat": 50.916667,
+      "lng": -0.166667
+    },
+    {
+      "cityName": "Icklesham",
+      "lat": 50.9,
+      "lng": 0.666667
+    },
+    {
+      "cityName": "Iden",
+      "lat": 50.966667,
+      "lng": 0.733333
+    },
+    {
+      "cityName": "Iford",
+      "lat": 50.833333,
+      "lng": 0
+    },
+    {
+      "cityName": "Isfield",
+      "lat": 50.933333,
+      "lng": 0.066667
+    },
+    {
+      "cityName": "Jevington",
+      "lat": 50.783333,
+      "lng": 0.216667
+    },
+    {
+      "cityName": "Kingston",
+      "lat": 50.85,
+      "lng": -0.016667
+    },
+    {
+      "cityName": "Lamberhurst",
+      "lat": 51.083333,
+      "lng": 0.383333
+    },
+    {
+      "cityName": "Laughton",
+      "lat": 50.883333,
+      "lng": 0.133333
+    },
+    {
+      "cityName": "Lewes",
+      "lat": 50.866667,
+      "lng": -0.016667
+    },
+    {
+      "cityName": "Lindfield",
+      "lat": 51,
+      "lng": -0.066667
+    },
+    {
+      "cityName": "Litlington",
+      "lat": 50.783333,
+      "lng": 0.166667
+    },
+    {
+      "cityName": "Little Horsted",
+      "lat": 50.933333,
+      "lng": 0.1
+    },
+    {
+      "cityName": "Maresfield",
+      "lat": 50.983333,
+      "lng": 0.083333
+    },
+    {
+      "cityName": "Mark Cross",
+      "lat": 51.05,
+      "lng": 0.25
+    },
+    {
+      "cityName": "Mayfield",
+      "lat": 51,
+      "lng": 0.25
+    },
+    {
+      "cityName": "Mountfield",
+      "lat": 50.933333,
+      "lng": 0.466667
+    },
+    {
+      "cityName": "Newhaven",
+      "lat": 50.783333,
+      "lng": 0.033333
+    },
+    {
+      "cityName": "Newick",
+      "lat": 50.966667,
+      "lng": 0.016667
+    },
+    {
+      "cityName": "New Shoreham",
+      "lat": 50.833333,
+      "lng": -0.233333
+    },
+    {
+      "cityName": "Ninfield",
+      "lat": 50.866667,
+      "lng": 0.416667
+    },
+    {
+      "cityName": "Nutley",
+      "lat": 51.016667,
+      "lng": 0.05
+    },
+    {
+      "cityName": "Offham",
+      "lat": 50.883333,
+      "lng": 0
+    },
+    {
+      "cityName": "Okeover",
+      "lat": 53.016667,
+      "lng": -1.766667
+    },
+    {
+      "cityName": "Old Town",
+      "lat": 50.766667,
+      "lng": 0.25
+    },
+    {
+      "cityName": "Ore",
+      "lat": 50.866667,
+      "lng": 0.616667
+    },
+    {
+      "cityName": "Ovingdean",
+      "lat": 50.8,
+      "lng": -0.066667
+    },
+    {
+      "cityName": "Patcham",
+      "lat": 50.85,
+      "lng": -0.15
+    },
+    {
+      "cityName": "Peasmarsh",
+      "lat": 50.966667,
+      "lng": 0.683333
+    },
+    {
+      "cityName": "Penhurst",
+      "lat": 50.916667,
+      "lng": 0.416667
+    },
+    {
+      "cityName": "Pett",
+      "lat": 50.883333,
+      "lng": 0.666667
+    },
+    {
+      "cityName": "Pevensey",
+      "lat": 50.8,
+      "lng": 0.35
+    },
+    {
+      "cityName": "Piecombe",
+      "lat": 50.883333,
+      "lng": 0.166667
+    },
+    {
+      "cityName": "Playden",
+      "lat": 50.95,
+      "lng": 0.733333
+    },
+    {
+      "cityName": "Plumpton Green",
+      "lat": 50.916667,
+      "lng": -0.05
+    },
+    {
+      "cityName": "Plumpton",
+      "lat": 50.883333,
+      "lng": -0.05
+    },
+    {
+      "cityName": "Polegate",
+      "lat": 50.8,
+      "lng": 0.233333
+    },
+    {
+      "cityName": "Portslade-by-Sea",
+      "lat": 50.816667,
+      "lng": -0.2
+    },
+    {
+      "cityName": "Portslade",
+      "lat": 50.833333,
+      "lng": -0.216667
+    },
+    {
+      "cityName": "Poynings",
+      "lat": 50.883333,
+      "lng": -0.2
+    },
+    {
+      "cityName": "Ratton Village",
+      "lat": 50.783333,
+      "lng": 0.25
+    },
+    {
+      "cityName": "Ringmer",
+      "lat": 50.883333,
+      "lng": 0.066667
+    },
+    {
+      "cityName": "Ripe",
+      "lat": 50.85,
+      "lng": 0.133333
+    },
+    {
+      "cityName": "Robertsbridge",
+      "lat": 50.983333,
+      "lng": 0.466667
+    },
+    {
+      "cityName": "Rotherfield",
+      "lat": 51.033333,
+      "lng": 0.216667
+    },
+    {
+      "cityName": "Rottingdean",
+      "lat": 50.8,
+      "lng": -0.05
+    },
+    {
+      "cityName": "Rye Harbour",
+      "lat": 50.933333,
+      "lng": 0.766667
+    },
+    {
+      "cityName": "Saint Leonards",
+      "lat": 50.85,
+      "lng": 0.566667
+    },
+    {
+      "cityName": "Seaford",
+      "lat": 50.766667,
+      "lng": 0.1
+    },
+    {
+      "cityName": "Sedlescombe",
+      "lat": 50.916667,
+      "lng": 0.533333
+    },
+    {
+      "cityName": "Selmeston",
+      "lat": 50.833333,
+      "lng": 0.133333
+    },
+    {
+      "cityName": "Sidley Green",
+      "lat": 50.85,
+      "lng": 0.466667
+    },
+    {
+      "cityName": "Slaugham",
+      "lat": 51.033333,
+      "lng": -0.2
+    },
+    {
+      "cityName": "Snelston",
+      "lat": 52.966667,
+      "lng": -1.766667
+    },
+    {
+      "cityName": "Stanmer",
+      "lat": 50.85,
+      "lng": -0.083333
+    },
+    {
+      "cityName": "Stanton",
+      "lat": 53,
+      "lng": -1.816667
+    },
+    {
+      "cityName": "Staple Cross",
+      "lat": 50.966667,
+      "lng": 0.533333
+    },
+    {
+      "cityName": "Staplefield",
+      "lat": 51.033333,
+      "lng": -0.183333
+    },
+    {
+      "cityName": "Tarring Neville",
+      "lat": 50.8,
+      "lng": 0.05
+    },
+    {
+      "cityName": "Ticehurst",
+      "lat": 51.033333,
+      "lng": 0.416667
+    },
+    {
+      "cityName": "Turners Hill",
+      "lat": 51.083333,
+      "lng": -0.083333
+    },
+    {
+      "cityName": "Twineham",
+      "lat": 50.95,
+      "lng": -0.216667
+    },
+    {
+      "cityName": "Tyes Cross",
+      "lat": 51.066667,
+      "lng": -0.016667
+    },
+    {
+      "cityName": "Uckfield",
+      "lat": 50.966667,
+      "lng": 0.1
+    },
+    {
+      "cityName": "Udimore",
+      "lat": 50.933333,
+      "lng": 0.666667
+    },
+    {
+      "cityName": "Wadhurst",
+      "lat": 51.05,
+      "lng": 0.333333
+    },
+    {
+      "cityName": "Waldron",
+      "lat": 50.933333,
+      "lng": 0.2
+    },
+    {
+      "cityName": "Warbleton",
+      "lat": 50.933333,
+      "lng": 0.283333
+    },
+    {
+      "cityName": "Wartling",
+      "lat": 50.85,
+      "lng": 0.35
+    },
+    {
+      "cityName": "West Dean",
+      "lat": 50.766667,
+      "lng": 0.15
+    },
+    {
+      "cityName": "Westfield",
+      "lat": 50.9,
+      "lng": 0.566667
+    },
+    {
+      "cityName": "West Firle",
+      "lat": 50.833333,
+      "lng": 0.083333
+    },
+    {
+      "cityName": "West Hoathley",
+      "lat": 51.066667,
+      "lng": -0.05
+    },
+    {
+      "cityName": "Westmeston",
+      "lat": 50.9,
+      "lng": -0.083333
+    },
+    {
+      "cityName": "Wilmington",
+      "lat": 50.8,
+      "lng": 0.183333
+    },
+    {
+      "cityName": "Winchelsea",
+      "lat": 50.916667,
+      "lng": 0.716667
+    },
+    {
+      "cityName": "Withyham",
+      "lat": 51.083333,
+      "lng": 0.133333
+    },
+    {
+      "cityName": "Wivelsfield Green",
+      "lat": 50.95,
+      "lng": -0.066667
+    },
+    {
+      "cityName": "Wivelsfield",
+      "lat": 50.95,
+      "lng": -0.083333
+    },
+    {
+      "cityName": "Worth",
+      "lat": 51.1,
+      "lng": -0.133333
+    },
+    {
+      "cityName": "Wych Cross",
+      "lat": 51.066667,
+      "lng": 0.016667
+    },
+    {
+      "cityName": "Yeaveley",
+      "lat": 52.95,
+      "lng": -1.716667
+    }
+  ]
+}

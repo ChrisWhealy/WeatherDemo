@@ -1,0 +1,495 @@
+{
+  "name": "Macedonia",
+  "iso2": "mk",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Aracinovo",
+      "id": 0
+    },
+    {
+      "name": "Bac",
+      "id": 1
+    },
+    {
+      "name": "Belcista",
+      "id": 2
+    },
+    {
+      "name": "Berovo",
+      "id": 3
+    },
+    {
+      "name": "Bistrica",
+      "id": 4
+    },
+    {
+      "name": "Bitola",
+      "id": 5
+    },
+    {
+      "name": "Blatec",
+      "id": 6
+    },
+    {
+      "name": "Bogdanci",
+      "id": 7
+    },
+    {
+      "name": "Bogomila",
+      "id": 8
+    },
+    {
+      "name": "Bogovinje",
+      "id": 9
+    },
+    {
+      "name": "Bosilovo",
+      "id": 10
+    },
+    {
+      "name": "Brvenica",
+      "id": 11
+    },
+    {
+      "name": "Capari",
+      "id": 12
+    },
+    {
+      "name": "Caska",
+      "id": 13
+    },
+    {
+      "name": "Cegrane",
+      "id": 14
+    },
+    {
+      "name": "Cesinovo",
+      "id": 15
+    },
+    {
+      "name": "Cucer-Sandevo",
+      "id": 16
+    },
+    {
+      "name": "Debar",
+      "id": 17
+    },
+    {
+      "name": "Delcevo",
+      "id": 18
+    },
+    {
+      "name": "Delogozdi",
+      "id": 19
+    },
+    {
+      "name": "Demir Hisar",
+      "id": 20
+    },
+    {
+      "name": "Demir Kapija",
+      "id": 21
+    },
+    {
+      "name": "Dobrusevo",
+      "id": 22
+    },
+    {
+      "name": "Dolna Banjica",
+      "id": 23
+    },
+    {
+      "name": "Dolneni",
+      "id": 24
+    },
+    {
+      "name": "Drugovo",
+      "id": 25
+    },
+    {
+      "name": "Dzepciste",
+      "id": 26
+    },
+    {
+      "name": "Gevgelija",
+      "id": 27
+    },
+    {
+      "name": "Gostivar",
+      "id": 28
+    },
+    {
+      "name": "Gradsko",
+      "id": 29
+    },
+    {
+      "name": "Ilinden",
+      "id": 30
+    },
+    {
+      "name": "Izvor",
+      "id": 31
+    },
+    {
+      "name": "Jegunovce",
+      "id": 32
+    },
+    {
+      "name": "Kamenjane",
+      "id": 33
+    },
+    {
+      "name": "Karbinci",
+      "id": 34
+    },
+    {
+      "name": "Karpos",
+      "id": 35
+    },
+    {
+      "name": "Kavadarci",
+      "id": 36
+    },
+    {
+      "name": "Kicevo",
+      "id": 37
+    },
+    {
+      "name": "Kisela Voda",
+      "id": 38
+    },
+    {
+      "name": "Klecevce",
+      "id": 39
+    },
+    {
+      "name": "Kocani",
+      "id": 40
+    },
+    {
+      "name": "Konce",
+      "id": 41
+    },
+    {
+      "name": "Kondovo",
+      "id": 42
+    },
+    {
+      "name": "Konopiste",
+      "id": 43
+    },
+    {
+      "name": "Kosel",
+      "id": 44
+    },
+    {
+      "name": "Kratovo",
+      "id": 45
+    },
+    {
+      "name": "Kriva Palanka",
+      "id": 46
+    },
+    {
+      "name": "Krivogastani",
+      "id": 47
+    },
+    {
+      "name": "Krusevo",
+      "id": 48
+    },
+    {
+      "name": "Kuklis",
+      "id": 49
+    },
+    {
+      "name": "Kukurecani",
+      "id": 50
+    },
+    {
+      "name": "Kumanovo",
+      "id": 51
+    },
+    {
+      "name": "Labunista",
+      "id": 52
+    },
+    {
+      "name": "Lipkovo",
+      "id": 53
+    },
+    {
+      "name": "Lozovo",
+      "id": 54
+    },
+    {
+      "name": "Lukovo",
+      "id": 55
+    },
+    {
+      "name": "Makedonska Kamenica",
+      "id": 56
+    },
+    {
+      "name": "Makedonski Brod",
+      "id": 57
+    },
+    {
+      "name": "Mavrovi Anovi",
+      "id": 58
+    },
+    {
+      "name": "Meseista",
+      "id": 59
+    },
+    {
+      "name": "Miravci",
+      "id": 60
+    },
+    {
+      "name": "Mogila",
+      "id": 61
+    },
+    {
+      "name": "Murtino",
+      "id": 62
+    },
+    {
+      "name": "Negotino",
+      "id": 63
+    },
+    {
+      "name": "Negotino-Polosko",
+      "id": 64
+    },
+    {
+      "name": "Novaci",
+      "id": 65
+    },
+    {
+      "name": "Novo Selo",
+      "id": 66
+    },
+    {
+      "name": "Oblesevo",
+      "id": 67
+    },
+    {
+      "name": "Ohrid",
+      "id": 68
+    },
+    {
+      "name": "Orasac",
+      "id": 69
+    },
+    {
+      "name": "Orizari",
+      "id": 70
+    },
+    {
+      "name": "Oslomej",
+      "id": 71
+    },
+    {
+      "name": "Pehcevo",
+      "id": 72
+    },
+    {
+      "name": "Petrovec",
+      "id": 73
+    },
+    {
+      "name": "Plasnica",
+      "id": 74
+    },
+    {
+      "name": "Podares",
+      "id": 75
+    },
+    {
+      "name": "Prilep",
+      "id": 76
+    },
+    {
+      "name": "Probistip",
+      "id": 77
+    },
+    {
+      "name": "Radovis",
+      "id": 78
+    },
+    {
+      "name": "Rankovce",
+      "id": 79
+    },
+    {
+      "name": "Resen",
+      "id": 80
+    },
+    {
+      "name": "Rosoman",
+      "id": 81
+    },
+    {
+      "name": "Rostusa",
+      "id": 82
+    },
+    {
+      "name": "Samokov",
+      "id": 83
+    },
+    {
+      "name": "Saraj",
+      "id": 84
+    },
+    {
+      "name": "Sipkovica",
+      "id": 85
+    },
+    {
+      "name": "Sopiste",
+      "id": 86
+    },
+    {
+      "name": "Sopotnica",
+      "id": 87
+    },
+    {
+      "name": "Srbinovo",
+      "id": 88
+    },
+    {
+      "name": "Star Dojran",
+      "id": 89
+    },
+    {
+      "name": "Staravina",
+      "id": 90
+    },
+    {
+      "name": "Staro Nagoricane",
+      "id": 91
+    },
+    {
+      "name": "Stip",
+      "id": 92
+    },
+    {
+      "name": "Struga",
+      "id": 93
+    },
+    {
+      "name": "Strumica",
+      "id": 94
+    },
+    {
+      "name": "Studenicani",
+      "id": 95
+    },
+    {
+      "name": "Suto Orizari",
+      "id": 96
+    },
+    {
+      "name": "Sveti Nikole",
+      "id": 97
+    },
+    {
+      "name": "Tearce",
+      "id": 98
+    },
+    {
+      "name": "Tetovo",
+      "id": 99
+    },
+    {
+      "name": "Topolcani",
+      "id": 100
+    },
+    {
+      "name": "Valandovo",
+      "id": 101
+    },
+    {
+      "name": "Vasilevo",
+      "id": 102
+    },
+    {
+      "name": "Veles",
+      "id": 103
+    },
+    {
+      "name": "Velesta",
+      "id": 104
+    },
+    {
+      "name": "Vevcani",
+      "id": 105
+    },
+    {
+      "name": "Vinica",
+      "id": 106
+    },
+    {
+      "name": "Vitoliste",
+      "id": 107
+    },
+    {
+      "name": "Vranestica",
+      "id": 108
+    },
+    {
+      "name": "Vrapciste",
+      "id": 109
+    },
+    {
+      "name": "Vratnica",
+      "id": 110
+    },
+    {
+      "name": "Vrutok",
+      "id": 111
+    },
+    {
+      "name": "Zajas",
+      "id": 112
+    },
+    {
+      "name": "Zelenikovo",
+      "id": 113
+    },
+    {
+      "name": "Zelino",
+      "id": 114
+    },
+    {
+      "name": "Zitose",
+      "id": 115
+    },
+    {
+      "name": "Zletovo",
+      "id": 116
+    },
+    {
+      "name": "Zrnovci",
+      "id": 117
+    }
+  ],
+  "geoRectangle": {
+    "West": 20.4646930695,
+    "East": 23.0381412506,
+    "North": 42.3618125916,
+    "South": 40.8601875305
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Skopje",
+    "GeoPt": [
+      42,
+      21.26
+    ]
+  }
+}

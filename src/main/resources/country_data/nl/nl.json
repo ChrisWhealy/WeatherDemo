@@ -1,0 +1,71 @@
+{
+  "name": "Netherlands",
+  "iso2": "nl",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Drenthe",
+      "id": 0
+    },
+    {
+      "name": "Flevoland",
+      "id": 1
+    },
+    {
+      "name": "Friesland",
+      "id": 2
+    },
+    {
+      "name": "Gelderland",
+      "id": 3
+    },
+    {
+      "name": "Groningen",
+      "id": 4
+    },
+    {
+      "name": "Limburg",
+      "id": 5
+    },
+    {
+      "name": "Noord-Brabant",
+      "id": 6
+    },
+    {
+      "name": "Noord-Holland",
+      "id": 7
+    },
+    {
+      "name": "Overijssel",
+      "id": 8
+    },
+    {
+      "name": "Utrecht",
+      "id": 9
+    },
+    {
+      "name": "Zeeland",
+      "id": 10
+    },
+    {
+      "name": "Zuid-Holland",
+      "id": 11
+    }
+  ],
+  "geoRectangle": {
+    "West": 3.36255574226,
+    "East": 7.22794485092,
+    "North": 53.5122032166,
+    "South": 50.7539138794
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Amsterdam",
+    "GeoPt": [
+      52.23,
+      4.54
+    ]
+  }
+}

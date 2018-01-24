@@ -1,0 +1,39 @@
+{
+  "name": "Federated States of Micronesia",
+  "iso2": "fm",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Chuuk",
+      "id": 0
+    },
+    {
+      "name": "Kosrae",
+      "id": 1
+    },
+    {
+      "name": "Pohnpei",
+      "id": 2
+    },
+    {
+      "name": "Yap",
+      "id": 3
+    }
+  ],
+  "geoRectangle": {
+    "West": 138.052810669,
+    "East": 163.034912109,
+    "North": 9.63636207581,
+    "South": 5.26533222198
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 11,
+    "Flg": 2,
+    "Name": "Palikir",
+    "GeoPt": [
+      6.55,
+      158.09
+    ]
+  }
+}

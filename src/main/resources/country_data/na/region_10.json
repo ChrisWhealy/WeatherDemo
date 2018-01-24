@@ -1,0 +1,760 @@
+{
+  "name": "Oshikoto",
+  "cities": [
+    {
+      "cityName": "Ambende",
+      "lat": -18.3166667,
+      "lng": 16.2833333
+    },
+    {
+      "cityName": "Amilema",
+      "lat": -18.3833333,
+      "lng": 16.2666667
+    },
+    {
+      "cityName": "Amukulungundju",
+      "lat": -18.3166667,
+      "lng": 16.3666667
+    },
+    {
+      "cityName": "Amuteya",
+      "lat": -18,
+      "lng": 16.3666667
+    },
+    {
+      "cityName": "Driehoek",
+      "lat": -18.8166667,
+      "lng": 18.0833333
+    },
+    {
+      "cityName": "Edilanghono",
+      "lat": -17.75,
+      "lng": 16.9833333
+    },
+    {
+      "cityName": "Ehongo",
+      "lat": -17.7833333,
+      "lng": 16.5333333
+    },
+    {
+      "cityName": "Ekoko",
+      "lat": -17.7666667,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Epeke",
+      "lat": -18.1833333,
+      "lng": 16.2166667
+    },
+    {
+      "cityName": "Epumbu",
+      "lat": -18.2166667,
+      "lng": 16.1
+    },
+    {
+      "cityName": "Esheshete",
+      "lat": -18.1,
+      "lng": 16.1
+    },
+    {
+      "cityName": "Etambo",
+      "lat": -18.0166667,
+      "lng": 16.4833333
+    },
+    {
+      "cityName": "Etaneno",
+      "lat": -18.15,
+      "lng": 16.4
+    },
+    {
+      "cityName": "Etjapa",
+      "lat": -17.8166667,
+      "lng": 16.5333333
+    },
+    {
+      "cityName": "Fischfontein",
+      "lat": -18.7666667,
+      "lng": 17.9666667
+    },
+    {
+      "cityName": "Garooab West",
+      "lat": -18.8666667,
+      "lng": 18
+    },
+    {
+      "cityName": "Gorooab Ost",
+      "lat": -18.85,
+      "lng": 18.0333333
+    },
+    {
+      "cityName": "Iihongo",
+      "lat": -18.05,
+      "lng": 16.1666667
+    },
+    {
+      "cityName": "Iikokla",
+      "lat": -17.8666667,
+      "lng": 16.15
+    },
+    {
+      "cityName": "Iipanda",
+      "lat": -18.05,
+      "lng": 16.3
+    },
+    {
+      "cityName": "Iipopo",
+      "lat": -18.1666667,
+      "lng": 16.0833333
+    },
+    {
+      "cityName": "Iithindi",
+      "lat": -17.75,
+      "lng": 16.8
+    },
+    {
+      "cityName": "Kliprand",
+      "lat": -18.9833333,
+      "lng": 18.0166667
+    },
+    {
+      "cityName": "Kreta",
+      "lat": -18.0666667,
+      "lng": 16.2333333
+    },
+    {
+      "cityName": "Last Hope",
+      "lat": -18.7833333,
+      "lng": 18
+    },
+    {
+      "cityName": "Lyakahani",
+      "lat": -17.85,
+      "lng": 16.1
+    },
+    {
+      "cityName": "Namutoni Gate",
+      "lat": -18.8,
+      "lng": 17.0333333
+    },
+    {
+      "cityName": "Oab",
+      "lat": -18.7833333,
+      "lng": 18.1666667
+    },
+    {
+      "cityName": "Odilayafyenota",
+      "lat": -17.7666667,
+      "lng": 16.9333333
+    },
+    {
+      "cityName": "Ohahati",
+      "lat": -17.9,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Ohaihai",
+      "lat": -17.7833333,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Ohaufiku-Renine",
+      "lat": -17.75,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Ohumbula",
+      "lat": -17.9166667,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Okadhiya",
+      "lat": -17.9166667,
+      "lng": 16.9333333
+    },
+    {
+      "cityName": "Okakololo",
+      "lat": -18.1166667,
+      "lng": 16.2333333
+    },
+    {
+      "cityName": "Okakunda",
+      "lat": -18.0166667,
+      "lng": 16.3166667
+    },
+    {
+      "cityName": "Okakwiyu",
+      "lat": -17.9,
+      "lng": 16.1666667
+    },
+    {
+      "cityName": "Okaloko",
+      "lat": -18.0166667,
+      "lng": 16.0166667
+    },
+    {
+      "cityName": "Okalolo",
+      "lat": -18.0166667,
+      "lng": 16.4166667
+    },
+    {
+      "cityName": "Okalumpa",
+      "lat": -18.05,
+      "lng": 16.3833333
+    },
+    {
+      "cityName": "Okamakaku",
+      "lat": -18.2333333,
+      "lng": 16.2
+    },
+    {
+      "cityName": "Okambogo",
+      "lat": -18.0666667,
+      "lng": 16.3
+    },
+    {
+      "cityName": "Okanaya",
+      "lat": -18.0333333,
+      "lng": 16.3166667
+    },
+    {
+      "cityName": "Okankolo",
+      "lat": -17.9666667,
+      "lng": 16.4166667
+    },
+    {
+      "cityName": "Okaonde",
+      "lat": -18.1166667,
+      "lng": 16.15
+    },
+    {
+      "cityName": "Okapuka",
+      "lat": -17.7666667,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Okatope",
+      "lat": -18.0833333,
+      "lng": 16.2666667
+    },
+    {
+      "cityName": "Okatumbo",
+      "lat": -18,
+      "lng": 16.3333333
+    },
+    {
+      "cityName": "Okayala",
+      "lat": -18.2,
+      "lng": 16.3166667
+    },
+    {
+      "cityName": "Olukonda",
+      "lat": -17.9833333,
+      "lng": 16.0166667
+    },
+    {
+      "cityName": "Olukupa",
+      "lat": -17.8,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Oluno",
+      "lat": -17.7166667,
+      "lng": 16.8
+    },
+    {
+      "cityName": "Olyuulaye",
+      "lat": -18.1,
+      "lng": 16.5166667
+    },
+    {
+      "cityName": "Omadhiya",
+      "lat": -17.95,
+      "lng": 16.1166667
+    },
+    {
+      "cityName": "Omahai",
+      "lat": -17.75,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Omako",
+      "lat": -17.8833333,
+      "lng": 16.2
+    },
+    {
+      "cityName": "Omalambo",
+      "lat": -17.7833333,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Omangundu",
+      "lat": -18.0833333,
+      "lng": 16.35
+    },
+    {
+      "cityName": "Omatale",
+      "lat": -17.7166667,
+      "lng": 16.9833333
+    },
+    {
+      "cityName": "Omayi",
+      "lat": -17.8166667,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Ombumbu",
+      "lat": -17.7333333,
+      "lng": 17.1166667
+    },
+    {
+      "cityName": "Ompanda",
+      "lat": -18.2666667,
+      "lng": 16.25
+    },
+    {
+      "cityName": "Ompangela",
+      "lat": -18.2166667,
+      "lng": 16.1833333
+    },
+    {
+      "cityName": "Omunduungio",
+      "lat": -17.8,
+      "lng": 16.0666667
+    },
+    {
+      "cityName": "Omunkayi",
+      "lat": -17.7166667,
+      "lng": 17.2666667
+    },
+    {
+      "cityName": "Omuntele",
+      "lat": -18.2333333,
+      "lng": 16.2333333
+    },
+    {
+      "cityName": "Omunyankwe",
+      "lat": -17.95,
+      "lng": 16.5
+    },
+    {
+      "cityName": "Omupanda",
+      "lat": -18.4333333,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Omupumba",
+      "lat": -17.7666667,
+      "lng": 16.0833333
+    },
+    {
+      "cityName": "Omuthiya",
+      "lat": -17.7166667,
+      "lng": 16.2166667
+    },
+    {
+      "cityName": "Omutsegwombandje",
+      "lat": -18.0166667,
+      "lng": 16.5
+    },
+    {
+      "cityName": "Omutwrwomedi",
+      "lat": -17.8166667,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Onahenene",
+      "lat": -18.1666667,
+      "lng": 16.45
+    },
+    {
+      "cityName": "Onahima",
+      "lat": -17.75,
+      "lng": 16.0666667
+    },
+    {
+      "cityName": "Onahi",
+      "lat": -18.2666667,
+      "lng": 16.2833333
+    },
+    {
+      "cityName": "Onakalunga",
+      "lat": -18.3,
+      "lng": 16.3833333
+    },
+    {
+      "cityName": "Onakandi",
+      "lat": -18.0833333,
+      "lng": 16.1666667
+    },
+    {
+      "cityName": "Onakandjangi",
+      "lat": -18.2,
+      "lng": 16.2833333
+    },
+    {
+      "cityName": "Onakasino",
+      "lat": -18.35,
+      "lng": 16.3666667
+    },
+    {
+      "cityName": "Onakiidhi",
+      "lat": -18.1166667,
+      "lng": 16.05
+    },
+    {
+      "cityName": "Onakuku",
+      "lat": -18.05,
+      "lng": 16.45
+    },
+    {
+      "cityName": "Onalunike",
+      "lat": -18.2333333,
+      "lng": 16.4166667
+    },
+    {
+      "cityName": "Onalusheshete",
+      "lat": -17.75,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Onamagwena",
+      "lat": -18.0333333,
+      "lng": 16.0666667
+    },
+    {
+      "cityName": "Onamatende",
+      "lat": -17.8833333,
+      "lng": 16.0333333
+    },
+    {
+      "cityName": "Onamavo",
+      "lat": -18.2833333,
+      "lng": 16.2666667
+    },
+    {
+      "cityName": "Onambeke",
+      "lat": -18.0333333,
+      "lng": 16.2
+    },
+    {
+      "cityName": "Onamhombo",
+      "lat": -17.7333333,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Onampengu",
+      "lat": -18.15,
+      "lng": 16.4666667
+    },
+    {
+      "cityName": "Onamungundo",
+      "lat": -17.95,
+      "lng": 16.0166667
+    },
+    {
+      "cityName": "Onamutene",
+      "lat": -17.8333333,
+      "lng": 16.1666667
+    },
+    {
+      "cityName": "Onamutenya",
+      "lat": -17.8666667,
+      "lng": 16.2833333
+    },
+    {
+      "cityName": "Onandi",
+      "lat": -18.1166667,
+      "lng": 16.3166667
+    },
+    {
+      "cityName": "Onandjamba",
+      "lat": -18.0833333,
+      "lng": 16.3
+    },
+    {
+      "cityName": "Onandjokwe",
+      "lat": -17.9,
+      "lng": 16.0333333
+    },
+    {
+      "cityName": "Onandomba",
+      "lat": -18.1166667,
+      "lng": 16.2833333
+    },
+    {
+      "cityName": "Onankali",
+      "lat": -18.1666667,
+      "lng": 16.35
+    },
+    {
+      "cityName": "Onanona",
+      "lat": -17.75,
+      "lng": 16.1666667
+    },
+    {
+      "cityName": "Onanyama",
+      "lat": -17.7833333,
+      "lng": 16.65
+    },
+    {
+      "cityName": "Onashikookaya",
+      "lat": -18.1,
+      "lng": 16.3166667
+    },
+    {
+      "cityName": "Onathinge",
+      "lat": -17.9833333,
+      "lng": 16.15
+    },
+    {
+      "cityName": "Ondaakula",
+      "lat": -18.1,
+      "lng": 16.4
+    },
+    {
+      "cityName": "Ondjamba",
+      "lat": -17.9166667,
+      "lng": 17.9833333
+    },
+    {
+      "cityName": "Ondombeyoshaale",
+      "lat": -18.2166667,
+      "lng": 16.3333333
+    },
+    {
+      "cityName": "Onehongo",
+      "lat": -17.8,
+      "lng": 16.9833333
+    },
+    {
+      "cityName": "Onembenge",
+      "lat": -18.2,
+      "lng": 16.4166667
+    },
+    {
+      "cityName": "Onepandagulu",
+      "lat": -17.9833333,
+      "lng": 16.1166667
+    },
+    {
+      "cityName": "Oneputa",
+      "lat": -17.85,
+      "lng": 16.05
+    },
+    {
+      "cityName": "Ongala",
+      "lat": -17.85,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Ongali",
+      "lat": -18.3,
+      "lng": 16.3166667
+    },
+    {
+      "cityName": "Ongenga",
+      "lat": -18,
+      "lng": 16.4
+    },
+    {
+      "cityName": "Ongombesa",
+      "lat": -18.0666667,
+      "lng": 16.3166667
+    },
+    {
+      "cityName": "Onguma",
+      "lat": -17.9,
+      "lng": 16.1166667
+    },
+    {
+      "cityName": "Ongundi",
+      "lat": -17.7666667,
+      "lng": 17.3
+    },
+    {
+      "cityName": "Oniihandi",
+      "lat": -17.9166667,
+      "lng": 16.0166667
+    },
+    {
+      "cityName": "Oniihwa",
+      "lat": -17.8833333,
+      "lng": 16.2166667
+    },
+    {
+      "cityName": "Oniipa",
+      "lat": -17.9166667,
+      "lng": 16.0333333
+    },
+    {
+      "cityName": "Oniiwe",
+      "lat": -17.9166667,
+      "lng": 16.2166667
+    },
+    {
+      "cityName": "Onikila",
+      "lat": -18.1833333,
+      "lng": 16.1166667
+    },
+    {
+      "cityName": "Onkwinkwiti",
+      "lat": -17.9,
+      "lng": 17.15
+    },
+    {
+      "cityName": "Ontananga",
+      "lat": -18.0166667,
+      "lng": 16.0666667
+    },
+    {
+      "cityName": "Ontuli",
+      "lat": -17.75,
+      "lng": 17.2166667
+    },
+    {
+      "cityName": "Ontunda",
+      "lat": -18.1,
+      "lng": 16.4333333
+    },
+    {
+      "cityName": "Onyaanya",
+      "lat": -18.0666667,
+      "lng": 16.2666667
+    },
+    {
+      "cityName": "Onyati",
+      "lat": -17.9666667,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Onyawanyawa",
+      "lat": -17.75,
+      "lng": 16.6166667
+    },
+    {
+      "cityName": "Onyuulaye",
+      "lat": -18.0333333,
+      "lng": 16.4666667
+    },
+    {
+      "cityName": "Oongodhi",
+      "lat": -17.9,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Oshali",
+      "lat": -17.95,
+      "lng": 16.0666667
+    },
+    {
+      "cityName": "Oshalongo",
+      "lat": -18.2833333,
+      "lng": 16.3666667
+    },
+    {
+      "cityName": "Oshanyata",
+      "lat": -17.7333333,
+      "lng": 16.9
+    },
+    {
+      "cityName": "Oshawello",
+      "lat": -18.6166667,
+      "lng": 17.1666667
+    },
+    {
+      "cityName": "Oshidundumbe",
+      "lat": -17.9,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Oshigambo",
+      "lat": -17.7833333,
+      "lng": 16.0666667
+    },
+    {
+      "cityName": "Oshikondiilongo",
+      "lat": -18.1,
+      "lng": 16.3333333
+    },
+    {
+      "cityName": "Oshikulu",
+      "lat": -18.15,
+      "lng": 16.3
+    },
+    {
+      "cityName": "Oshilungi",
+      "lat": -18.15,
+      "lng": 16.3666667
+    },
+    {
+      "cityName": "Oshitaye",
+      "lat": -17.9,
+      "lng": 16.0166667
+    },
+    {
+      "cityName": "Oshiteni",
+      "lat": -18.3333333,
+      "lng": 16.15
+    },
+    {
+      "cityName": "Oshityoshikukutu",
+      "lat": -17.7166667,
+      "lng": 17.15
+    },
+    {
+      "cityName": "Oshiya",
+      "lat": -18.2,
+      "lng": 16.45
+    },
+    {
+      "cityName": "Othile",
+      "lat": -18.2166667,
+      "lng": 16.4
+    },
+    {
+      "cityName": "Oyovu",
+      "lat": -18.1666667,
+      "lng": 16.1666667
+    },
+    {
+      "cityName": "Randeier",
+      "lat": -18.75,
+      "lng": 18.1
+    },
+    {
+      "cityName": "Stilhoek",
+      "lat": -18.9333333,
+      "lng": 18.0333333
+    },
+    {
+      "cityName": "Tsumeb",
+      "lat": -19.2333333,
+      "lng": 17.7166667
+    },
+    {
+      "cityName": "Tsutsab",
+      "lat": -18.8666667,
+      "lng": 18.1
+    },
+    {
+      "cityName": "Utilo",
+      "lat": -17.8,
+      "lng": 16.6333333
+    },
+    {
+      "cityName": "Uukwanambwa",
+      "lat": -18.05,
+      "lng": 16.2833333
+    },
+    {
+      "cityName": "Uuntyaye",
+      "lat": -18.2333333,
+      "lng": 16.3166667
+    },
+    {
+      "cityName": "Wildernis",
+      "lat": -18.8166667,
+      "lng": 18.05
+    }
+  ]
+}

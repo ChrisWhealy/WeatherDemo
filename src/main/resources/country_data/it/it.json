@@ -1,0 +1,107 @@
+{
+  "name": "Italy",
+  "iso2": "it",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Abruzzi",
+      "id": 0
+    },
+    {
+      "name": "Basilicata",
+      "id": 1
+    },
+    {
+      "name": "Calabria",
+      "id": 2
+    },
+    {
+      "name": "Campania",
+      "id": 3
+    },
+    {
+      "name": "Emilia-Romagna",
+      "id": 4
+    },
+    {
+      "name": "Friuli-Venezia Giulia",
+      "id": 5
+    },
+    {
+      "name": "Lazio",
+      "id": 6
+    },
+    {
+      "name": "Liguria",
+      "id": 7
+    },
+    {
+      "name": "Lombardia",
+      "id": 8
+    },
+    {
+      "name": "Marche",
+      "id": 9
+    },
+    {
+      "name": "Molise",
+      "id": 10
+    },
+    {
+      "name": "Piemonte",
+      "id": 11
+    },
+    {
+      "name": "Puglia",
+      "id": 12
+    },
+    {
+      "name": "Sardegna",
+      "id": 13
+    },
+    {
+      "name": "Sicilia",
+      "id": 14
+    },
+    {
+      "name": "Toscana",
+      "id": 15
+    },
+    {
+      "name": "Trentino-Alto Adige",
+      "id": 16
+    },
+    {
+      "name": "Umbria",
+      "id": 17
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 18
+    },
+    {
+      "name": "Valle d'Aosta",
+      "id": 19
+    },
+    {
+      "name": "Veneto",
+      "id": 20
+    }
+  ],
+  "geoRectangle": {
+    "West": 6.61488819122,
+    "East": 18.5134487152,
+    "North": 47.0952033997,
+    "South": 36.6527748108
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Rome",
+    "GeoPt": [
+      41.54,
+      12.29
+    ]
+  }
+}

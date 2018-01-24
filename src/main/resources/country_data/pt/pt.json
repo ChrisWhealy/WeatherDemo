@@ -1,0 +1,103 @@
+{
+  "name": "Portugal",
+  "iso2": "pt",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Aveiro",
+      "id": 0
+    },
+    {
+      "name": "Azores",
+      "id": 1
+    },
+    {
+      "name": "Beja",
+      "id": 2
+    },
+    {
+      "name": "Braga",
+      "id": 3
+    },
+    {
+      "name": "Braganca",
+      "id": 4
+    },
+    {
+      "name": "Castelo Branco",
+      "id": 5
+    },
+    {
+      "name": "Coimbra",
+      "id": 6
+    },
+    {
+      "name": "Evora",
+      "id": 7
+    },
+    {
+      "name": "Faro",
+      "id": 8
+    },
+    {
+      "name": "Guarda",
+      "id": 9
+    },
+    {
+      "name": "Leiria",
+      "id": 10
+    },
+    {
+      "name": "Lisboa",
+      "id": 11
+    },
+    {
+      "name": "Madeira",
+      "id": 12
+    },
+    {
+      "name": "Portalegre",
+      "id": 13
+    },
+    {
+      "name": "Porto",
+      "id": 14
+    },
+    {
+      "name": "Santarem",
+      "id": 15
+    },
+    {
+      "name": "Setubal",
+      "id": 16
+    },
+    {
+      "name": "Viana do Castelo",
+      "id": 17
+    },
+    {
+      "name": "Vila Real",
+      "id": 18
+    },
+    {
+      "name": "Viseu",
+      "id": 19
+    }
+  ],
+  "geoRectangle": {
+    "West": -9.49594497681,
+    "East": -6.18269348145,
+    "North": 42.1456451416,
+    "South": 36.9806594849
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 0,
+    "Flg": 2,
+    "Name": "Lisbon",
+    "GeoPt": [
+      38.43,
+      -9.08
+    ]
+  }
+}

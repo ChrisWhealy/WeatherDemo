@@ -1,0 +1,630 @@
+{
+  "name": "Carazo",
+  "cities": [
+    {
+      "cityName": "Aguacate",
+      "lat": 11.8166667,
+      "lng": -86.2
+    },
+    {
+      "cityName": "Aguas Caliente de Acayo",
+      "lat": 11.6166667,
+      "lng": -86.2
+    },
+    {
+      "cityName": "Ahuchuetes",
+      "lat": 11.6166667,
+      "lng": -86.3166667
+    },
+    {
+      "cityName": "Amaya",
+      "lat": 11.7833333,
+      "lng": -86.2833333
+    },
+    {
+      "cityName": "Amayito",
+      "lat": 11.7166667,
+      "lng": -86.3333333
+    },
+    {
+      "cityName": "Barranco",
+      "lat": 11.65,
+      "lng": -86.3166667
+    },
+    {
+      "cityName": "Barranco Bayo",
+      "lat": 11.6666667,
+      "lng": -86.3
+    },
+    {
+      "cityName": "Barrio Nuevo",
+      "lat": 11.8,
+      "lng": -86.25
+    },
+    {
+      "cityName": "Boquita",
+      "lat": 11.6833333,
+      "lng": -86.3833333
+    },
+    {
+      "cityName": "Brasil Grande",
+      "lat": 11.9,
+      "lng": -86.3
+    },
+    {
+      "cityName": "Brasilito",
+      "lat": 11.8333333,
+      "lng": -86.3333333
+    },
+    {
+      "cityName": "Buena Vista",
+      "lat": 11.6833333,
+      "lng": -86.1833333
+    },
+    {
+      "cityName": "Buenavista",
+      "lat": 11.8,
+      "lng": -86.3333333
+    },
+    {
+      "cityName": "Buenavista de Apompuá",
+      "lat": 11.7666667,
+      "lng": -86.3
+    },
+    {
+      "cityName": "Casares",
+      "lat": 11.65,
+      "lng": -86.35
+    },
+    {
+      "cityName": "Cicaya Grande",
+      "lat": 11.9166667,
+      "lng": -86.25
+    },
+    {
+      "cityName": "Comalcalpa",
+      "lat": 11.7666667,
+      "lng": -86.1333333
+    },
+    {
+      "cityName": "Conquista",
+      "lat": 11.7333333,
+      "lng": -86.2
+    },
+    {
+      "cityName": "Cuatro Esquiras",
+      "lat": 11.8833333,
+      "lng": -86.25
+    },
+    {
+      "cityName": "Diriamba",
+      "lat": 11.85,
+      "lng": -86.2333333
+    },
+    {
+      "cityName": "Dolores",
+      "lat": 11.85,
+      "lng": -86.2166667
+    },
+    {
+      "cityName": "Dulce Nombre",
+      "lat": 11.8333333,
+      "lng": -86.1833333
+    },
+    {
+      "cityName": "El Abra",
+      "lat": 11.7833333,
+      "lng": -86.1833333
+    },
+    {
+      "cityName": "El Asilo",
+      "lat": 11.9166667,
+      "lng": -86.2333333
+    },
+    {
+      "cityName": "El Bosque",
+      "lat": 11.75,
+      "lng": -86.2333333
+    },
+    {
+      "cityName": "El Brasil",
+      "lat": 11.7166667,
+      "lng": -86.1666667
+    },
+    {
+      "cityName": "El Cacao",
+      "lat": 11.75,
+      "lng": -86.15
+    },
+    {
+      "cityName": "El Caimito",
+      "lat": 11.7166667,
+      "lng": -86.2166667
+    },
+    {
+      "cityName": "El Carrizal",
+      "lat": 11.6833333,
+      "lng": -86.1666667
+    },
+    {
+      "cityName": "El Encierro",
+      "lat": 11.7166667,
+      "lng": -86.2
+    },
+    {
+      "cityName": "El Golfo",
+      "lat": 11.8833333,
+      "lng": -86.35
+    },
+    {
+      "cityName": "El Guabillito",
+      "lat": 11.5833333,
+      "lng": -86.1833333
+    },
+    {
+      "cityName": "El Guabillo",
+      "lat": 11.65,
+      "lng": -86.2333333
+    },
+    {
+      "cityName": "El Guanacaste",
+      "lat": 11.8666667,
+      "lng": -86.3333333
+    },
+    {
+      "cityName": "El Ingenio",
+      "lat": 11.7833333,
+      "lng": -86.2333333
+    },
+    {
+      "cityName": "El Molina",
+      "lat": 11.6333333,
+      "lng": -86.2666667
+    },
+    {
+      "cityName": "El Naranjo",
+      "lat": 11.6666667,
+      "lng": -86.2166667
+    },
+    {
+      "cityName": "El Narranjo",
+      "lat": 11.6833333,
+      "lng": -86.2166667
+    },
+    {
+      "cityName": "El Ojochal",
+      "lat": 11.8,
+      "lng": -86.2166667
+    },
+    {
+      "cityName": "El Panamá",
+      "lat": 11.7666667,
+      "lng": -86.2333333
+    },
+    {
+      "cityName": "El Paraíso",
+      "lat": 11.8833333,
+      "lng": -86.2333333
+    },
+    {
+      "cityName": "El Pedernal",
+      "lat": 11.7,
+      "lng": -86.2
+    },
+    {
+      "cityName": "El Portón",
+      "lat": 11.7666667,
+      "lng": -86.35
+    },
+    {
+      "cityName": "El Porvenir",
+      "lat": 11.9,
+      "lng": -86.2
+    },
+    {
+      "cityName": "El Quinal",
+      "lat": 11.6,
+      "lng": -86.1833333
+    },
+    {
+      "cityName": "El Rosario",
+      "lat": 11.7833333,
+      "lng": -86.3666667
+    },
+    {
+      "cityName": "El Rosario Manila",
+      "lat": 11.7333333,
+      "lng": -86.2333333
+    },
+    {
+      "cityName": "El Sol",
+      "lat": 11.7166667,
+      "lng": -86.1333333
+    },
+    {
+      "cityName": "El Tigre",
+      "lat": 11.85,
+      "lng": -86.3166667
+    },
+    {
+      "cityName": "Emperatriz",
+      "lat": 11.9333333,
+      "lng": -86.3
+    },
+    {
+      "cityName": "Encuentros",
+      "lat": 11.7,
+      "lng": -86.2333333
+    },
+    {
+      "cityName": "Esquipulas",
+      "lat": 11.8166667,
+      "lng": -86.1
+    },
+    {
+      "cityName": "Fátima",
+      "lat": 11.9,
+      "lng": -86.1833333
+    },
+    {
+      "cityName": "Gagos",
+      "lat": 11.85,
+      "lng": -86.35
+    },
+    {
+      "cityName": "Gómez",
+      "lat": 11.65,
+      "lng": -86.15
+    },
+    {
+      "cityName": "Güiquiliapa",
+      "lat": 11.8166667,
+      "lng": -86.1833333
+    },
+    {
+      "cityName": "Huiste",
+      "lat": 11.6333333,
+      "lng": -86.2166667
+    },
+    {
+      "cityName": "Jinotepe",
+      "lat": 11.85,
+      "lng": -86.2
+    },
+    {
+      "cityName": "La Barranca",
+      "lat": 11.9166667,
+      "lng": -86.2833333
+    },
+    {
+      "cityName": "La Cholpa",
+      "lat": 11.65,
+      "lng": -86.1833333
+    },
+    {
+      "cityName": "La Cruz",
+      "lat": 11.9166667,
+      "lng": -86.2166667
+    },
+    {
+      "cityName": "La Grandeza",
+      "lat": 11.8166667,
+      "lng": -86.25
+    },
+    {
+      "cityName": "La Hormiga",
+      "lat": 11.6666667,
+      "lng": -86.1666667
+    },
+    {
+      "cityName": "La Marcheneña",
+      "lat": 11.9166667,
+      "lng": -86.3166667
+    },
+    {
+      "cityName": "La Moca",
+      "lat": 11.8666667,
+      "lng": -86.2333333
+    },
+    {
+      "cityName": "La Mohosa",
+      "lat": 11.7,
+      "lng": -86.1666667
+    },
+    {
+      "cityName": "La Natividad",
+      "lat": 11.7333333,
+      "lng": -86.3833333
+    },
+    {
+      "cityName": "La Paz de Oriente",
+      "lat": 11.8166667,
+      "lng": -86.1333333
+    },
+    {
+      "cityName": "La Piedra Pintada",
+      "lat": 11.7666667,
+      "lng": -86.2
+    },
+    {
+      "cityName": "La Piñuela",
+      "lat": 11.6,
+      "lng": -86.2
+    },
+    {
+      "cityName": "La Pita",
+      "lat": 11.6166667,
+      "lng": -86.15
+    },
+    {
+      "cityName": "La Pitilla",
+      "lat": 11.6333333,
+      "lng": -86.1666667
+    },
+    {
+      "cityName": "La Reserva",
+      "lat": 11.7666667,
+      "lng": -86.2666667
+    },
+    {
+      "cityName": "Las Cañas",
+      "lat": 11.7166667,
+      "lng": -86.2833333
+    },
+    {
+      "cityName": "Las Cuchillas de Apompuá",
+      "lat": 11.75,
+      "lng": -86.3
+    },
+    {
+      "cityName": "Las Enramadas",
+      "lat": 11.7666667,
+      "lng": -86.1833333
+    },
+    {
+      "cityName": "Las Marías",
+      "lat": 11.8,
+      "lng": -86.1666667
+    },
+    {
+      "cityName": "Las Mercedes",
+      "lat": 11.7,
+      "lng": -86.25
+    },
+    {
+      "cityName": "Las Nilas",
+      "lat": 11.5666667,
+      "lng": -86.1666667
+    },
+    {
+      "cityName": "Las Tablas",
+      "lat": 11.7833333,
+      "lng": -86.1166667
+    },
+    {
+      "cityName": "La Trinidad",
+      "lat": 11.7333333,
+      "lng": -86.3333333
+    },
+    {
+      "cityName": "Loma Alegre",
+      "lat": 11.75,
+      "lng": -86.45
+    },
+    {
+      "cityName": "Los Ángeles",
+      "lat": 11.7833333,
+      "lng": -86.4
+    },
+    {
+      "cityName": "Los Baltodano",
+      "lat": 11.8,
+      "lng": -86.3666667
+    },
+    {
+      "cityName": "Los Cruces",
+      "lat": 11.8166667,
+      "lng": -86.15
+    },
+    {
+      "cityName": "Los Cutiérrez",
+      "lat": 11.8333333,
+      "lng": -86.3
+    },
+    {
+      "cityName": "Los Narváez",
+      "lat": 11.8,
+      "lng": -86.4
+    },
+    {
+      "cityName": "Los Navarrete",
+      "lat": 11.8,
+      "lng": -86.4666667
+    },
+    {
+      "cityName": "Los Potrerillos",
+      "lat": 11.8,
+      "lng": -86.15
+    },
+    {
+      "cityName": "Los Rivera",
+      "lat": 11.8833333,
+      "lng": -86.2666667
+    },
+    {
+      "cityName": "Los Sánchez",
+      "lat": 11.8666667,
+      "lng": -86.2666667
+    },
+    {
+      "cityName": "Los Velásquez",
+      "lat": 11.8,
+      "lng": -86.3833333
+    },
+    {
+      "cityName": "Monte Fresco",
+      "lat": 11.7666667,
+      "lng": -86.3833333
+    },
+    {
+      "cityName": "Nancite Dulce",
+      "lat": 11.7666667,
+      "lng": -86.15
+    },
+    {
+      "cityName": "Panamá",
+      "lat": 11.8,
+      "lng": -86.2
+    },
+    {
+      "cityName": "Paso La Solera",
+      "lat": 11.6333333,
+      "lng": -86.2
+    },
+    {
+      "cityName": "Pochomil",
+      "lat": 11.7666667,
+      "lng": -86.5
+    },
+    {
+      "cityName": "Puerta Negra",
+      "lat": 11.8833333,
+      "lng": -86.1666667
+    },
+    {
+      "cityName": "Río Seco",
+      "lat": 11.8,
+      "lng": -86.2666667
+    },
+    {
+      "cityName": "Rosario",
+      "lat": 11.8333333,
+      "lng": -86.1666667
+    },
+    {
+      "cityName": "San Antonio de Arriba",
+      "lat": 11.85,
+      "lng": -86.2666667
+    },
+    {
+      "cityName": "San Antonio",
+      "lat": 11.6,
+      "lng": -86.25
+    },
+    {
+      "cityName": "San Cristóbal",
+      "lat": 11.8666667,
+      "lng": -86.4
+    },
+    {
+      "cityName": "San Francisco de La Unión",
+      "lat": 11.7833333,
+      "lng": -86.15
+    },
+    {
+      "cityName": "San Francisco",
+      "lat": 11.75,
+      "lng": -86.1666667
+    },
+    {
+      "cityName": "San Isidro",
+      "lat": 11.6833333,
+      "lng": -86.3
+    },
+    {
+      "cityName": "San José de Monte Redondo",
+      "lat": 11.85,
+      "lng": -86.15
+    },
+    {
+      "cityName": "San José de Tepano",
+      "lat": 11.7,
+      "lng": -86.3666667
+    },
+    {
+      "cityName": "San José",
+      "lat": 11.7166667,
+      "lng": -86.35
+    },
+    {
+      "cityName": "San Marcos",
+      "lat": 11.9166667,
+      "lng": -86.2
+    },
+    {
+      "cityName": "San Miguel",
+      "lat": 11.8666667,
+      "lng": -86.3166667
+    },
+    {
+      "cityName": "San Pedro",
+      "lat": 11.8333333,
+      "lng": -86.1
+    },
+    {
+      "cityName": "Santa Ana",
+      "lat": 11.6833333,
+      "lng": -86.35
+    },
+    {
+      "cityName": "Santa Elvira",
+      "lat": 11.9,
+      "lng": -86.2666667
+    },
+    {
+      "cityName": "Santa Isabel",
+      "lat": 11.8666667,
+      "lng": -86.1833333
+    },
+    {
+      "cityName": "Santa Lucía",
+      "lat": 11.7333333,
+      "lng": -86.35
+    },
+    {
+      "cityName": "Santa María",
+      "lat": 11.9333333,
+      "lng": -86.2833333
+    },
+    {
+      "cityName": "Santa Rita",
+      "lat": 11.7833333,
+      "lng": -86.2
+    },
+    {
+      "cityName": "Santa Rosa",
+      "lat": 11.65,
+      "lng": -86.3333333
+    },
+    {
+      "cityName": "Santa Teresa",
+      "lat": 11.7333333,
+      "lng": -86.2166667
+    },
+    {
+      "cityName": "San Vicente",
+      "lat": 11.8333333,
+      "lng": -86.3166667
+    },
+    {
+      "cityName": "Tecomapa",
+      "lat": 11.65,
+      "lng": -86.2666667
+    },
+    {
+      "cityName": "Tecomapita",
+      "lat": 11.6833333,
+      "lng": -86.2
+    },
+    {
+      "cityName": "Tupilapa",
+      "lat": 11.6166667,
+      "lng": -86.3333333
+    },
+    {
+      "cityName": "Veracruz",
+      "lat": 11.55,
+      "lng": -86.2166667
+    }
+  ]
+}

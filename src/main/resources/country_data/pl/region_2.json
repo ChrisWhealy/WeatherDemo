@@ -1,0 +1,630 @@
+{
+  "name": "Lodzkie",
+  "cities": [
+    {
+      "cityName": "Aleksandrow Lodzki",
+      "lat": 51.816667,
+      "lng": 19.3
+    },
+    {
+      "cityName": "Andrespol",
+      "lat": 51.733333,
+      "lng": 19.65
+    },
+    {
+      "cityName": "Annoslaw",
+      "lat": 51.766667,
+      "lng": 20.433333
+    },
+    {
+      "cityName": "Babsk",
+      "lat": 51.833333,
+      "lng": 20.35
+    },
+    {
+      "cityName": "Belchatow",
+      "lat": 51.366667,
+      "lng": 19.383333
+    },
+    {
+      "cityName": "Biala Druga",
+      "lat": 51.266667,
+      "lng": 18.45
+    },
+    {
+      "cityName": "Biala Rawska",
+      "lat": 51.8,
+      "lng": 20.483333
+    },
+    {
+      "cityName": "Biala Wies",
+      "lat": 51.883333,
+      "lng": 20.533333
+    },
+    {
+      "cityName": "Bialka",
+      "lat": 49.383333,
+      "lng": 20.116667
+    },
+    {
+      "cityName": "Blaszki",
+      "lat": 51.666667,
+      "lng": 18.45
+    },
+    {
+      "cityName": "Boza Wola",
+      "lat": 50.416667,
+      "lng": 19.8
+    },
+    {
+      "cityName": "Braszewice",
+      "lat": 51.5,
+      "lng": 18.45
+    },
+    {
+      "cityName": "Bratoszewice",
+      "lat": 51.933333,
+      "lng": 19.666667
+    },
+    {
+      "cityName": "Broszki",
+      "lat": 51.4,
+      "lng": 18.65
+    },
+    {
+      "cityName": "Brzeg",
+      "lat": 50.85,
+      "lng": 17.466667
+    },
+    {
+      "cityName": "Brzezie",
+      "lat": 52.083333,
+      "lng": 15.466667
+    },
+    {
+      "cityName": "Brzeznio",
+      "lat": 51.5,
+      "lng": 18.633333
+    },
+    {
+      "cityName": "Buczek",
+      "lat": 51.85,
+      "lng": 19.683333
+    },
+    {
+      "cityName": "Burzenin",
+      "lat": 51.466667,
+      "lng": 18.833333
+    },
+    {
+      "cityName": "Byszewy",
+      "lat": 51.833333,
+      "lng": 19.633333
+    },
+    {
+      "cityName": "Czerniewice",
+      "lat": 51.666667,
+      "lng": 20.166667
+    },
+    {
+      "cityName": "Dlutow",
+      "lat": 51.566667,
+      "lng": 19.4
+    },
+    {
+      "cityName": "Dobron",
+      "lat": 51.633333,
+      "lng": 19.25
+    },
+    {
+      "cityName": "Dobryszyce",
+      "lat": 51.15,
+      "lng": 19.416667
+    },
+    {
+      "cityName": "Druzbice",
+      "lat": 51.466667,
+      "lng": 19.4
+    },
+    {
+      "cityName": "Dzialoszyn",
+      "lat": 51.116667,
+      "lng": 18.866667
+    },
+    {
+      "cityName": "Dzielnica",
+      "lat": 51.75,
+      "lng": 20
+    },
+    {
+      "cityName": "Dzigorzew",
+      "lat": 51.616667,
+      "lng": 18.716667
+    },
+    {
+      "cityName": "Falkow",
+      "lat": 51.133333,
+      "lng": 20.1
+    },
+    {
+      "cityName": "Galkow Duzy",
+      "lat": 51.733333,
+      "lng": 19.716667
+    },
+    {
+      "cityName": "Galkowek",
+      "lat": 51.75,
+      "lng": 19.733333
+    },
+    {
+      "cityName": "Gnatowice",
+      "lat": 52.233333,
+      "lng": 20.416667
+    },
+    {
+      "cityName": "Gomunice",
+      "lat": 51.166667,
+      "lng": 19.483333
+    },
+    {
+      "cityName": "Gorki Male",
+      "lat": 49.766667,
+      "lng": 18.85
+    },
+    {
+      "cityName": "Gorzkowice",
+      "lat": 51.216667,
+      "lng": 19.6
+    },
+    {
+      "cityName": "Huta Zabiowolska",
+      "lat": 52.033333,
+      "lng": 20.666667
+    },
+    {
+      "cityName": "Inowlodz",
+      "lat": 51.533333,
+      "lng": 20.216667
+    },
+    {
+      "cityName": "Jasieniec",
+      "lat": 51.133333,
+      "lng": 21.183333
+    },
+    {
+      "cityName": "Jasien",
+      "lat": 52.133333,
+      "lng": 16.716667
+    },
+    {
+      "cityName": "Jastrzebnik",
+      "lat": 52.033333,
+      "lng": 20.733333
+    },
+    {
+      "cityName": "Jedlno",
+      "lat": 51.083333,
+      "lng": 19.25
+    },
+    {
+      "cityName": "Jesionka",
+      "lat": 52.016667,
+      "lng": 20.35
+    },
+    {
+      "cityName": "Kamiensk",
+      "lat": 51.216667,
+      "lng": 19.5
+    },
+    {
+      "cityName": "Kluczewsko",
+      "lat": 50.933333,
+      "lng": 19.933333
+    },
+    {
+      "cityName": "Kluski",
+      "lat": 51.383333,
+      "lng": 18.5
+    },
+    {
+      "cityName": "Kobiele Wielkie",
+      "lat": 51.033333,
+      "lng": 19.633333
+    },
+    {
+      "cityName": "Kocierzew",
+      "lat": 52.216667,
+      "lng": 20.033333
+    },
+    {
+      "cityName": "Koluszki",
+      "lat": 51.766667,
+      "lng": 19.8
+    },
+    {
+      "cityName": "Konopnica",
+      "lat": 51.783333,
+      "lng": 20.3
+    },
+    {
+      "cityName": "Konstantynow Lodzki",
+      "lat": 51.75,
+      "lng": 19.333333
+    },
+    {
+      "cityName": "Ksiazenice",
+      "lat": 52.066667,
+      "lng": 20.7
+    },
+    {
+      "cityName": "Ksiaz",
+      "lat": 52.066667,
+      "lng": 17.25
+    },
+    {
+      "cityName": "Kunice",
+      "lat": 51.233333,
+      "lng": 16.25
+    },
+    {
+      "cityName": "Kurowice Koscielne",
+      "lat": 51.65,
+      "lng": 19.7
+    },
+    {
+      "cityName": "Lask",
+      "lat": 51.583333,
+      "lng": 19.133333
+    },
+    {
+      "cityName": "Lewin",
+      "lat": 50.75,
+      "lng": 17.616667
+    },
+    {
+      "cityName": "Leznica Wielka",
+      "lat": 52,
+      "lng": 19.15
+    },
+    {
+      "cityName": "Litzmannstadt",
+      "lat": 51.75,
+      "lng": 19.466667
+    },
+    {
+      "cityName": "Lowicz",
+      "lat": 52.116667,
+      "lng": 19.933333
+    },
+    {
+      "cityName": "Lubania",
+      "lat": 51.683333,
+      "lng": 20.6
+    },
+    {
+      "cityName": "Lubochnia",
+      "lat": 51.616667,
+      "lng": 20.066667
+    },
+    {
+      "cityName": "Lutomiersk",
+      "lat": 51.75,
+      "lng": 19.216667
+    },
+    {
+      "cityName": "Macierzysz",
+      "lat": 52.216667,
+      "lng": 20.35
+    },
+    {
+      "cityName": "Miedzyborow",
+      "lat": 52.066667,
+      "lng": 20.5
+    },
+    {
+      "cityName": "Miedzyborz",
+      "lat": 51.4,
+      "lng": 17.666667
+    },
+    {
+      "cityName": "Milkowice",
+      "lat": 51.25,
+      "lng": 16.066667
+    },
+    {
+      "cityName": "Niechcice",
+      "lat": 51.283333,
+      "lng": 19.583333
+    },
+    {
+      "cityName": "Nowosolna",
+      "lat": 51.8,
+      "lng": 19.6
+    },
+    {
+      "cityName": "Nowy Kaweczyn",
+      "lat": 51.883333,
+      "lng": 20.25
+    },
+    {
+      "cityName": "Oddzial",
+      "lat": 52.016667,
+      "lng": 20.65
+    },
+    {
+      "cityName": "Olewin",
+      "lat": 50.283333,
+      "lng": 19.6
+    },
+    {
+      "cityName": "Opiesin",
+      "lat": 51.616667,
+      "lng": 18.933333
+    },
+    {
+      "cityName": "Opoczno",
+      "lat": 51.366667,
+      "lng": 20.283333
+    },
+    {
+      "cityName": "Pabianice",
+      "lat": 51.666667,
+      "lng": 19.366667
+    },
+    {
+      "cityName": "Paradyz",
+      "lat": 51.3,
+      "lng": 20.1
+    },
+    {
+      "cityName": "Parzeczew",
+      "lat": 51.95,
+      "lng": 19.216667
+    },
+    {
+      "cityName": "Pawlowek",
+      "lat": 52.15,
+      "lng": 20.383333
+    },
+    {
+      "cityName": "Piekary",
+      "lat": 50.016667,
+      "lng": 19.8
+    },
+    {
+      "cityName": "Praca",
+      "lat": 51.433333,
+      "lng": 19.583333
+    },
+    {
+      "cityName": "Przyglow",
+      "lat": 51.383333,
+      "lng": 19.833333
+    },
+    {
+      "cityName": "Rabien",
+      "lat": 51.783333,
+      "lng": 19.316667
+    },
+    {
+      "cityName": "Radogoszcz",
+      "lat": 51.133333,
+      "lng": 15.316667
+    },
+    {
+      "cityName": "Radomsko",
+      "lat": 51.066667,
+      "lng": 19.45
+    },
+    {
+      "cityName": "Radziejowice",
+      "lat": 52,
+      "lng": 20.55
+    },
+    {
+      "cityName": "Rawa Mazowiecka",
+      "lat": 51.766667,
+      "lng": 20.25
+    },
+    {
+      "cityName": "Regny",
+      "lat": 51.7,
+      "lng": 19.9
+    },
+    {
+      "cityName": "Rokiciny",
+      "lat": 51.666667,
+      "lng": 19.816667
+    },
+    {
+      "cityName": "Rozprza",
+      "lat": 51.3,
+      "lng": 19.633333
+    },
+    {
+      "cityName": "Ruda",
+      "lat": 50.183333,
+      "lng": 18.433333
+    },
+    {
+      "cityName": "Sedziejowice",
+      "lat": 51.516667,
+      "lng": 19.033333
+    },
+    {
+      "cityName": "Sieganow",
+      "lat": 51.566667,
+      "lng": 19.1
+    },
+    {
+      "cityName": "Siemkowice",
+      "lat": 51.216667,
+      "lng": 18.9
+    },
+    {
+      "cityName": "Sieradz",
+      "lat": 51.6,
+      "lng": 18.75
+    },
+    {
+      "cityName": "Sierakowice",
+      "lat": 50.283333,
+      "lng": 18.466667
+    },
+    {
+      "cityName": "Siodemka",
+      "lat": 51.266667,
+      "lng": 19.483333
+    },
+    {
+      "cityName": "Skierniewice",
+      "lat": 51.966667,
+      "lng": 20.15
+    },
+    {
+      "cityName": "Skomlin",
+      "lat": 51.183333,
+      "lng": 18.383333
+    },
+    {
+      "cityName": "Slostowice",
+      "lat": 51.183333,
+      "lng": 19.466667
+    },
+    {
+      "cityName": "Smardzewice",
+      "lat": 51.483333,
+      "lng": 20.033333
+    },
+    {
+      "cityName": "Sochaczew",
+      "lat": 52.233333,
+      "lng": 20.25
+    },
+    {
+      "cityName": "Srock",
+      "lat": 51.533333,
+      "lng": 19.633333
+    },
+    {
+      "cityName": "Stare Pole",
+      "lat": 51.333333,
+      "lng": 20.433333
+    },
+    {
+      "cityName": "Swinice",
+      "lat": 51.716667,
+      "lng": 20.283333
+    },
+    {
+      "cityName": "Taraska",
+      "lat": 51.316667,
+      "lng": 19.916667
+    },
+    {
+      "cityName": "Teresin",
+      "lat": 52.1,
+      "lng": 21.516667
+    },
+    {
+      "cityName": "Topolowa",
+      "lat": 52.216667,
+      "lng": 20.383333
+    },
+    {
+      "cityName": "Tuszyn",
+      "lat": 50.8,
+      "lng": 16.65
+    },
+    {
+      "cityName": "Waglany",
+      "lat": 51.333333,
+      "lng": 20.283333
+    },
+    {
+      "cityName": "Waglczew",
+      "lat": 51.6,
+      "lng": 18.55
+    },
+    {
+      "cityName": "Warta",
+      "lat": 51.7,
+      "lng": 18.633333
+    },
+    {
+      "cityName": "Widawa",
+      "lat": 51.433333,
+      "lng": 18.95
+    },
+    {
+      "cityName": "Wilkowice",
+      "lat": 49.766667,
+      "lng": 19.116667
+    },
+    {
+      "cityName": "Wladyslawow",
+      "lat": 51.283333,
+      "lng": 23.316667
+    },
+    {
+      "cityName": "Wlodzimierz",
+      "lat": 51.266667,
+      "lng": 19.466667
+    },
+    {
+      "cityName": "Wojska",
+      "lat": 51.816667,
+      "lng": 20.183333
+    },
+    {
+      "cityName": "Wola Krzysztoporska",
+      "lat": 51.35,
+      "lng": 19.583333
+    },
+    {
+      "cityName": "Wola Rakowa",
+      "lat": 51.683333,
+      "lng": 19.6
+    },
+    {
+      "cityName": "Wronsko",
+      "lat": 51.383333,
+      "lng": 18.85
+    },
+    {
+      "cityName": "Zarnow",
+      "lat": 51.25,
+      "lng": 20.183333
+    },
+    {
+      "cityName": "Zator",
+      "lat": 49.983333,
+      "lng": 19.45
+    },
+    {
+      "cityName": "Zdunska Wola",
+      "lat": 51.6,
+      "lng": 18.933333
+    },
+    {
+      "cityName": "Zelechow",
+      "lat": 52.016667,
+      "lng": 20.733333
+    },
+    {
+      "cityName": "Zgierz",
+      "lat": 51.85,
+      "lng": 19.416667
+    },
+    {
+      "cityName": "Zubardz",
+      "lat": 51.783333,
+      "lng": 19.416667
+    },
+    {
+      "cityName": "Zyrardow",
+      "lat": 52.066667,
+      "lng": 20.433333
+    }
+  ]
+}

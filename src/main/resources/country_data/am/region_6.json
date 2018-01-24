@@ -1,0 +1,665 @@
+{
+  "name": "Shirak",
+  "cities": [
+    {
+      "cityName": "Aghin",
+      "lat": 40.59,
+      "lng": 43.6983333
+    },
+    {
+      "cityName": "Aghvorik",
+      "lat": 41.0758333,
+      "lng": 43.755
+    },
+    {
+      "cityName": "Akhkilisa",
+      "lat": 40.8666667,
+      "lng": 43.95
+    },
+    {
+      "cityName": "Akhurik",
+      "lat": 40.75,
+      "lng": 43.7833333
+    },
+    {
+      "cityName": "Akhuryan",
+      "lat": 40.7813889,
+      "lng": 43.8963889
+    },
+    {
+      "cityName": "Alakilisa",
+      "lat": 40.9666667,
+      "lng": 43.8166667
+    },
+    {
+      "cityName": "Alek'pol",
+      "lat": 40.7894444,
+      "lng": 43.8475
+    },
+    {
+      "cityName": "Aleksandrovka",
+      "lat": 40.7461111,
+      "lng": 43.7969444
+    },
+    {
+      "cityName": "Alikhan",
+      "lat": 40.9166667,
+      "lng": 44.05
+    },
+    {
+      "cityName": "Alvar",
+      "lat": 41.0508333,
+      "lng": 43.7491667
+    },
+    {
+      "cityName": "Amasia",
+      "lat": 40.9466667,
+      "lng": 43.7813889
+    },
+    {
+      "cityName": "Anipemza",
+      "lat": 40.4486111,
+      "lng": 43.6041667
+    },
+    {
+      "cityName": "Anushavan",
+      "lat": 40.6419444,
+      "lng": 43.9822222
+    },
+    {
+      "cityName": "Aralykh",
+      "lat": 40.7,
+      "lng": 43.75
+    },
+    {
+      "cityName": "Arapi",
+      "lat": 40.7797222,
+      "lng": 43.8005556
+    },
+    {
+      "cityName": "Aravet",
+      "lat": 41.0466667,
+      "lng": 43.7769444
+    },
+    {
+      "cityName": "Ardenis",
+      "lat": 41.0786111,
+      "lng": 43.7238889
+    },
+    {
+      "cityName": "Aregnadem",
+      "lat": 40.9286111,
+      "lng": 43.7491667
+    },
+    {
+      "cityName": "Arevik",
+      "lat": 40.7361111,
+      "lng": 43.8927778
+    },
+    {
+      "cityName": "Arevshat",
+      "lat": 40.6486111,
+      "lng": 44.0444444
+    },
+    {
+      "cityName": "Arich",
+      "lat": 40.5980556,
+      "lng": 44.0075
+    },
+    {
+      "cityName": "Arikhvali",
+      "lat": 40.8666667,
+      "lng": 43.9166667
+    },
+    {
+      "cityName": "Armutlu",
+      "lat": 40.6,
+      "lng": 43.9
+    },
+    {
+      "cityName": "Arpeni",
+      "lat": 40.9166667,
+      "lng": 43.8833333
+    },
+    {
+      "cityName": "Artashen",
+      "lat": 41.0094444,
+      "lng": 43.9227778
+    },
+    {
+      "cityName": "Art'ik",
+      "lat": 40.6172222,
+      "lng": 43.9758333
+    },
+    {
+      "cityName": "Ashots'k'",
+      "lat": 41.0375,
+      "lng": 43.8580556
+    },
+    {
+      "cityName": "Atsik",
+      "lat": 40.8475,
+      "lng": 43.8741667
+    },
+    {
+      "cityName": "Aygabats",
+      "lat": 40.7,
+      "lng": 43.9
+    },
+    {
+      "cityName": "Aykadzor",
+      "lat": 40.5377778,
+      "lng": 43.6608333
+    },
+    {
+      "cityName": "Aykasar",
+      "lat": 40.6,
+      "lng": 43.8833333
+    },
+    {
+      "cityName": "Aykavan",
+      "lat": 40.7558333,
+      "lng": 43.77
+    },
+    {
+      "cityName": "Ayrenyats",
+      "lat": 40.6327778,
+      "lng": 43.8705556
+    },
+    {
+      "cityName": "Azatan",
+      "lat": 40.7238889,
+      "lng": 43.8205556
+    },
+    {
+      "cityName": "Baburli",
+      "lat": 40.6,
+      "lng": 43.7333333
+    },
+    {
+      "cityName": "Bagravan",
+      "lat": 40.4802778,
+      "lng": 43.6708333
+    },
+    {
+      "cityName": "Balikli",
+      "lat": 41.0927778,
+      "lng": 43.6597222
+    },
+    {
+      "cityName": "Bandivan",
+      "lat": 40.9561111,
+      "lng": 43.8030556
+    },
+    {
+      "cityName": "Bashgyukh",
+      "lat": 40.6252778,
+      "lng": 44.0202778
+    },
+    {
+      "cityName": "Bavra",
+      "lat": 41.1275,
+      "lng": 43.7758333
+    },
+    {
+      "cityName": "Bayandur",
+      "lat": 40.7008333,
+      "lng": 43.7730556
+    },
+    {
+      "cityName": "Bazirkhana",
+      "lat": 40.5155556,
+      "lng": 43.8133333
+    },
+    {
+      "cityName": "Beniamin",
+      "lat": 40.6833333,
+      "lng": 43.85
+    },
+    {
+      "cityName": "Berdashen",
+      "lat": 41.0536111,
+      "lng": 43.6688889
+    },
+    {
+      "cityName": "Bogazkyasan",
+      "lat": 40.5666667,
+      "lng": 43.8666667
+    },
+    {
+      "cityName": "Bol'shaya Shishtapa",
+      "lat": 41.0491667,
+      "lng": 43.8233333
+    },
+    {
+      "cityName": "Bol'shoy Mantash",
+      "lat": 40.6494444,
+      "lng": 44.0508333
+    },
+    {
+      "cityName": "Bozdogan",
+      "lat": 40.5561111,
+      "lng": 43.7208333
+    },
+    {
+      "cityName": "Bozekhush",
+      "lat": 40.9927778,
+      "lng": 43.9388889
+    },
+    {
+      "cityName": "Chakhmakh",
+      "lat": 40.9,
+      "lng": 43.7
+    },
+    {
+      "cityName": "Chalab",
+      "lat": 40.915,
+      "lng": 43.7719444
+    },
+    {
+      "cityName": "Chiftali",
+      "lat": 41.0211111,
+      "lng": 43.9036111
+    },
+    {
+      "cityName": "Ch'invinli",
+      "lat": 41.0891667,
+      "lng": 43.5613889
+    },
+    {
+      "cityName": "Chirpili",
+      "lat": 40.55,
+      "lng": 43.65
+    },
+    {
+      "cityName": "Chizikhlar",
+      "lat": 40.9480556,
+      "lng": 43.8561111
+    },
+    {
+      "cityName": "Chorlit",
+      "lat": 40.95,
+      "lng": 43.9166667
+    },
+    {
+      "cityName": "Dagarli",
+      "lat": 40.7333333,
+      "lng": 43.7833333
+    },
+    {
+      "cityName": "Daragyukh",
+      "lat": 41.1611111,
+      "lng": 43.8844444
+    },
+    {
+      "cityName": "Darband",
+      "lat": 40.8666667,
+      "lng": 43.8833333
+    },
+    {
+      "cityName": "Darik",
+      "lat": 41.1227778,
+      "lng": 43.6730556
+    },
+    {
+      "cityName": "Dashkala",
+      "lat": 40.5436111,
+      "lng": 43.8277778
+    },
+    {
+      "cityName": "Dashkerpi",
+      "lat": 40.9666667,
+      "lng": 43.7666667
+    },
+    {
+      "cityName": "Dirak",
+      "lat": 40.7836111,
+      "lng": 43.9541667
+    },
+    {
+      "cityName": "Dzhadzhur",
+      "lat": 40.8505556,
+      "lng": 43.9480556
+    },
+    {
+      "cityName": "Dzorashen",
+      "lat": 40.5666667,
+      "lng": 43.7833333
+    },
+    {
+      "cityName": "Ellar",
+      "lat": 41.1127778,
+      "lng": 43.5963889
+    },
+    {
+      "cityName": "Erizak",
+      "lat": 40.9833333,
+      "lng": 43.65
+    },
+    {
+      "cityName": "Gadzhi Nazar",
+      "lat": 40.8280556,
+      "lng": 43.9483333
+    },
+    {
+      "cityName": "Garnarich",
+      "lat": 41.0791667,
+      "lng": 43.6022222
+    },
+    {
+      "cityName": "Geghadir",
+      "lat": 40.6847222,
+      "lng": 44.0238889
+    },
+    {
+      "cityName": "Getapi",
+      "lat": 40.65,
+      "lng": 44
+    },
+    {
+      "cityName": "Gharabulagh",
+      "lat": 41.0477778,
+      "lng": 43.5855556
+    },
+    {
+      "cityName": "Ghazanch'i",
+      "lat": 41.0788889,
+      "lng": 43.8216667
+    },
+    {
+      "cityName": "Ghonjali",
+      "lat": 41.0016667,
+      "lng": 43.6594444
+    },
+    {
+      "cityName": "Gtashen",
+      "lat": 40.9188889,
+      "lng": 43.7169444
+    },
+    {
+      "cityName": "Gusanagyugh",
+      "lat": 40.6691667,
+      "lng": 43.7883333
+    },
+    {
+      "cityName": "Gutnikishlag",
+      "lat": 40.6666667,
+      "lng": 43.9
+    },
+    {
+      "cityName": "Gyullibulag",
+      "lat": 40.8686111,
+      "lng": 43.7072222
+    },
+    {
+      "cityName": "Gyullidzha",
+      "lat": 41.0975,
+      "lng": 43.6163889
+    },
+    {
+      "cityName": "Horom",
+      "lat": 40.6541667,
+      "lng": 43.8822222
+    },
+    {
+      "cityName": "Illi",
+      "lat": 40.9166667,
+      "lng": 43.8166667
+    },
+    {
+      "cityName": "Imrkhan",
+      "lat": 40.67,
+      "lng": 43.8663889
+    },
+    {
+      "cityName": "Isaakyan",
+      "lat": 40.6166667,
+      "lng": 43.7252778
+    },
+    {
+      "cityName": "Jrap'i",
+      "lat": 40.5569444,
+      "lng": 43.6827778
+    },
+    {
+      "cityName": "Kalali",
+      "lat": 40.6666667,
+      "lng": 43.7666667
+    },
+    {
+      "cityName": "Kanlidzha",
+      "lat": 40.8375,
+      "lng": 43.7719444
+    },
+    {
+      "cityName": "Kapanak",
+      "lat": 40.7666667,
+      "lng": 43.9833333
+    },
+    {
+      "cityName": "Kaps",
+      "lat": 40.8666667,
+      "lng": 43.7166667
+    },
+    {
+      "cityName": "Karakilisa Tret'ya",
+      "lat": 40.9313889,
+      "lng": 44.0691667
+    },
+    {
+      "cityName": "Kara-Mamed",
+      "lat": 40.85,
+      "lng": 43.7
+    },
+    {
+      "cityName": "Karmravan",
+      "lat": 41.0127778,
+      "lng": 43.8694444
+    },
+    {
+      "cityName": "Kazanchi",
+      "lat": 40.6758333,
+      "lng": 43.9486111
+    },
+    {
+      "cityName": "Kefli",
+      "lat": 40.9166667,
+      "lng": 44.0333333
+    },
+    {
+      "cityName": "Kegach",
+      "lat": 40.5833333,
+      "lng": 43.6833333
+    },
+    {
+      "cityName": "K'et'i",
+      "lat": 40.8841667,
+      "lng": 43.8488889
+    },
+    {
+      "cityName": "Keti Verkhniye",
+      "lat": 40.9,
+      "lng": 43.8833333
+    },
+    {
+      "cityName": "Khachakilisa",
+      "lat": 40.6,
+      "lng": 44.0166667
+    },
+    {
+      "cityName": "Kharkov",
+      "lat": 40.5166667,
+      "lng": 43.6
+    },
+    {
+      "cityName": "Konakhkran",
+      "lat": 40.8480556,
+      "lng": 43.9213889
+    },
+    {
+      "cityName": "Koragbyur",
+      "lat": 41.105,
+      "lng": 43.8411111
+    },
+    {
+      "cityName": "Krasar",
+      "lat": 41.0177778,
+      "lng": 43.8233333
+    },
+    {
+      "cityName": "Kulidzhan",
+      "lat": 40.665,
+      "lng": 44.0188889
+    },
+    {
+      "cityName": "Kyavtarlu",
+      "lat": 40.6563889,
+      "lng": 43.9363889
+    },
+    {
+      "cityName": "Kyzylkend",
+      "lat": 41.05,
+      "lng": 43.5833333
+    },
+    {
+      "cityName": "Landzhik",
+      "lat": 40.5094444,
+      "lng": 43.8563889
+    },
+    {
+      "cityName": "Lernakert",
+      "lat": 40.5669444,
+      "lng": 43.9361111
+    },
+    {
+      "cityName": "Lusaghbyur",
+      "lat": 40.6455556,
+      "lng": 43.7494444
+    },
+    {
+      "cityName": "Lusakert",
+      "lat": 40.6666667,
+      "lng": 43.8666667
+    },
+    {
+      "cityName": "Machidli",
+      "lat": 40.6502778,
+      "lng": 43.975
+    },
+    {
+      "cityName": "Magmudzhuk",
+      "lat": 40.5933333,
+      "lng": 43.94
+    },
+    {
+      "cityName": "Maisian",
+      "lat": 40.8530556,
+      "lng": 43.8294444
+    },
+    {
+      "cityName": "Malaya Shishtapa",
+      "lat": 41.0358333,
+      "lng": 43.8130556
+    },
+    {
+      "cityName": "Malyy Kyapanak",
+      "lat": 40.7666667,
+      "lng": 44
+    },
+    {
+      "cityName": "Malyy Mantash",
+      "lat": 40.65,
+      "lng": 44.05
+    },
+    {
+      "cityName": "Maralik",
+      "lat": 40.5722222,
+      "lng": 43.8669444
+    },
+    {
+      "cityName": "Mets Kyapanak",
+      "lat": 40.7652778,
+      "lng": 43.9908333
+    },
+    {
+      "cityName": "Mets Sariar",
+      "lat": 40.8933333,
+      "lng": 43.9525
+    },
+    {
+      "cityName": "Molla Musa",
+      "lat": 40.7383333,
+      "lng": 43.7758333
+    },
+    {
+      "cityName": "Nerkin Kanlidzha",
+      "lat": 40.85,
+      "lng": 43.75
+    },
+    {
+      "cityName": "Norakhpyur",
+      "lat": 40.95,
+      "lng": 43.7
+    },
+    {
+      "cityName": "Oghch'oghli",
+      "lat": 40.8094444,
+      "lng": 43.7527778
+    },
+    {
+      "cityName": "Ovuni",
+      "lat": 40.8666667,
+      "lng": 43.8
+    },
+    {
+      "cityName": "Paghakn",
+      "lat": 41.0666667,
+      "lng": 43.65
+    },
+    {
+      "cityName": "P'ok'r Sariar",
+      "lat": 40.9258333,
+      "lng": 44.0186111
+    },
+    {
+      "cityName": "Salut",
+      "lat": 40.9666667,
+      "lng": 43.9333333
+    },
+    {
+      "cityName": "Samrly",
+      "lat": 40.9380556,
+      "lng": 44.0411111
+    },
+    {
+      "cityName": "Shirakavan",
+      "lat": 40.6591667,
+      "lng": 43.7386111
+    },
+    {
+      "cityName": "Taknali",
+      "lat": 40.9333333,
+      "lng": 43.8333333
+    },
+    {
+      "cityName": "T'avshut",
+      "lat": 41.0833333,
+      "lng": 43.8
+    },
+    {
+      "cityName": "Tlik",
+      "lat": 40.4,
+      "lng": 43.6166667
+    },
+    {
+      "cityName": "Tomartash",
+      "lat": 40.6666667,
+      "lng": 43.9166667
+    },
+    {
+      "cityName": "T'orosgyugh",
+      "lat": 40.935,
+      "lng": 43.8775
+    }
+  ]
+}

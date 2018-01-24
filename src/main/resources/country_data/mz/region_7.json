@@ -1,0 +1,6340 @@
+{
+  "name": "Sofala",
+  "cities": [
+    {
+      "cityName": "Afonso",
+      "lat": -18.2152778,
+      "lng": 35.8647222
+    },
+    {
+      "cityName": "Aideja",
+      "lat": -20.1797222,
+      "lng": 34.1805556
+    },
+    {
+      "cityName": "Alberto",
+      "lat": -21.0577778,
+      "lng": 34.7933333
+    },
+    {
+      "cityName": "Aldeia Cambarira",
+      "lat": -18.6469444,
+      "lng": 33.9377778
+    },
+    {
+      "cityName": "Aldeia Canda",
+      "lat": -18.4855556,
+      "lng": 33.9808333
+    },
+    {
+      "cityName": "Aldeia Fombe",
+      "lat": -18.6622222,
+      "lng": 33.6430556
+    },
+    {
+      "cityName": "Alface",
+      "lat": -17.6783333,
+      "lng": 35.0422222
+    },
+    {
+      "cityName": "Alfaiate",
+      "lat": -18.2833333,
+      "lng": 35.9166667
+    },
+    {
+      "cityName": "Alfândega",
+      "lat": -19.0258333,
+      "lng": 34.2930556
+    },
+    {
+      "cityName": "Alfinar",
+      "lat": -18.95,
+      "lng": 35.5166667
+    },
+    {
+      "cityName": "Alfinete",
+      "lat": -18.6052778,
+      "lng": 34.3677778
+    },
+    {
+      "cityName": "Alfredo",
+      "lat": -21.0616667,
+      "lng": 34.7758333
+    },
+    {
+      "cityName": "Almando",
+      "lat": -19.7411111,
+      "lng": 34.8494444
+    },
+    {
+      "cityName": "Alojo",
+      "lat": -20.8597222,
+      "lng": 34.0775
+    },
+    {
+      "cityName": "Amadeu",
+      "lat": -21.1594444,
+      "lng": 34.4694444
+    },
+    {
+      "cityName": "Amamba",
+      "lat": -20.0383333,
+      "lng": 33.9586111
+    },
+    {
+      "cityName": "Ambanha",
+      "lat": -20.3616667,
+      "lng": 34.6330556
+    },
+    {
+      "cityName": "Amoda",
+      "lat": -18.1361111,
+      "lng": 35.7530556
+    },
+    {
+      "cityName": "Amoda Uncuzana",
+      "lat": -18.15,
+      "lng": 35.8
+    },
+    {
+      "cityName": "Ampara",
+      "lat": -20.2663889,
+      "lng": 34.6561111
+    },
+    {
+      "cityName": "Amusse",
+      "lat": -20.4088889,
+      "lng": 33.6952778
+    },
+    {
+      "cityName": "Anizai",
+      "lat": -19.3325,
+      "lng": 34.4530556
+    },
+    {
+      "cityName": "Anjeje",
+      "lat": -17.125,
+      "lng": 34.8561111
+    },
+    {
+      "cityName": "Antigo Buzi",
+      "lat": -17.1313889,
+      "lng": 34.8613889
+    },
+    {
+      "cityName": "Antonio",
+      "lat": -18.1111111,
+      "lng": 34.9883333
+    },
+    {
+      "cityName": "António Gamba",
+      "lat": -19.8,
+      "lng": 34.9166667
+    },
+    {
+      "cityName": "Antunes",
+      "lat": -19.7175,
+      "lng": 34.7452778
+    },
+    {
+      "cityName": "Arangua",
+      "lat": -19.0672222,
+      "lng": 34.4113889
+    },
+    {
+      "cityName": "Ariceti",
+      "lat": -17.3666667,
+      "lng": 34.5013889
+    },
+    {
+      "cityName": "Armazém",
+      "lat": -21.0488889,
+      "lng": 34.8061111
+    },
+    {
+      "cityName": "Augusto",
+      "lat": -18.6666667,
+      "lng": 34.0794444
+    },
+    {
+      "cityName": "Azevedo",
+      "lat": -18.3680556,
+      "lng": 34.0013889
+    },
+    {
+      "cityName": "Bachavana",
+      "lat": -20.2516667,
+      "lng": 34.2172222
+    },
+    {
+      "cityName": "Baeta",
+      "lat": -20.25,
+      "lng": 33.8833333
+    },
+    {
+      "cityName": "Bagage",
+      "lat": -19.9655556,
+      "lng": 34.1902778
+    },
+    {
+      "cityName": "Baião",
+      "lat": -19.6958333,
+      "lng": 34.1413889
+    },
+    {
+      "cityName": "Baira",
+      "lat": -18.6116667,
+      "lng": 34.9044444
+    },
+    {
+      "cityName": "Balane",
+      "lat": -20.0866667,
+      "lng": 33.7997222
+    },
+    {
+      "cityName": "Bambala",
+      "lat": -18.4333333,
+      "lng": 35.45
+    },
+    {
+      "cityName": "Bambára",
+      "lat": -20.4291667,
+      "lng": 34.6119444
+    },
+    {
+      "cityName": "Banana",
+      "lat": -20.7986111,
+      "lng": 34.2988889
+    },
+    {
+      "cityName": "Bande",
+      "lat": -21.2666667,
+      "lng": 34.3833333
+    },
+    {
+      "cityName": "Bandeira",
+      "lat": -18.6322222,
+      "lng": 33.9533333
+    },
+    {
+      "cityName": "Bandua",
+      "lat": -19.9666667,
+      "lng": 34.4166667
+    },
+    {
+      "cityName": "Bango",
+      "lat": -20.525,
+      "lng": 34.5105556
+    },
+    {
+      "cityName": "Banze",
+      "lat": -18.1063889,
+      "lng": 35.7416667
+    },
+    {
+      "cityName": "Bapai",
+      "lat": -21.0794444,
+      "lng": 34.1461111
+    },
+    {
+      "cityName": "Bara-Aripari",
+      "lat": -19.7597222,
+      "lng": 33.9047222
+    },
+    {
+      "cityName": "Barada",
+      "lat": -20.0219444,
+      "lng": 34.7458333
+    },
+    {
+      "cityName": "Barira",
+      "lat": -20.4197222,
+      "lng": 33.7533333
+    },
+    {
+      "cityName": "Baruco",
+      "lat": -18.7491667,
+      "lng": 34.7719444
+    },
+    {
+      "cityName": "Basquete",
+      "lat": -20.2825,
+      "lng": 33.5266667
+    },
+    {
+      "cityName": "Báteo",
+      "lat": -19.7838889,
+      "lng": 34.8886111
+    },
+    {
+      "cityName": "Bazar",
+      "lat": -18.6541667,
+      "lng": 34.0952778
+    },
+    {
+      "cityName": "Beira",
+      "lat": -19.8436111,
+      "lng": 34.8388889
+    },
+    {
+      "cityName": "Bene",
+      "lat": -18.6163889,
+      "lng": 34.3230556
+    },
+    {
+      "cityName": "Benete",
+      "lat": -20.4727778,
+      "lng": 33.5991667
+    },
+    {
+      "cityName": "Benjamim",
+      "lat": -20.0183333,
+      "lng": 33.975
+    },
+    {
+      "cityName": "Bichote",
+      "lat": -19.1666667,
+      "lng": 35.5333333
+    },
+    {
+      "cityName": "Bimba",
+      "lat": -20.3841667,
+      "lng": 33.5758333
+    },
+    {
+      "cityName": "Bin-Biri",
+      "lat": -19.5947222,
+      "lng": 34.1041667
+    },
+    {
+      "cityName": "Binda",
+      "lat": -19.805,
+      "lng": 33.9463889
+    },
+    {
+      "cityName": "Binguè",
+      "lat": -19.3866667,
+      "lng": 35.3955556
+    },
+    {
+      "cityName": "Biruire",
+      "lat": -17.6416667,
+      "lng": 34.7405556
+    },
+    {
+      "cityName": "Boca",
+      "lat": -19.9855556,
+      "lng": 34.115
+    },
+    {
+      "cityName": "Boda",
+      "lat": -18.9833333,
+      "lng": 35.5833333
+    },
+    {
+      "cityName": "Boeroque",
+      "lat": -18.2666667,
+      "lng": 34.3816667
+    },
+    {
+      "cityName": "Boeza",
+      "lat": -17.6588889,
+      "lng": 35.0283333
+    },
+    {
+      "cityName": "Bofana",
+      "lat": -19.2969444,
+      "lng": 34.2280556
+    },
+    {
+      "cityName": "Bogene",
+      "lat": -20.2677778,
+      "lng": 34.2138889
+    },
+    {
+      "cityName": "Bomba",
+      "lat": -19.2,
+      "lng": 34.1166667
+    },
+    {
+      "cityName": "Bompano",
+      "lat": -20.3011111,
+      "lng": 34.1794444
+    },
+    {
+      "cityName": "Bonde",
+      "lat": -18.7297222,
+      "lng": 34.3013889
+    },
+    {
+      "cityName": "Bongo",
+      "lat": -20.1338889,
+      "lng": 33.5991667
+    },
+    {
+      "cityName": "Boramo",
+      "lat": -17.8233333,
+      "lng": 34.3222222
+    },
+    {
+      "cityName": "Botão",
+      "lat": -18.4569444,
+      "lng": 33.9388889
+    },
+    {
+      "cityName": "Botera",
+      "lat": -20.1780556,
+      "lng": 34.3133333
+    },
+    {
+      "cityName": "Bovana",
+      "lat": -20.0780556,
+      "lng": 34.1569444
+    },
+    {
+      "cityName": "Branco",
+      "lat": -18.45,
+      "lng": 35.4333333
+    },
+    {
+      "cityName": "Breza",
+      "lat": -19.2325,
+      "lng": 35.0680556
+    },
+    {
+      "cityName": "Brinca",
+      "lat": -18.0333333,
+      "lng": 35.4833333
+    },
+    {
+      "cityName": "Bubuzé",
+      "lat": -19.0405556,
+      "lng": 34.1130556
+    },
+    {
+      "cityName": "Bucha",
+      "lat": -17.5161111,
+      "lng": 34.6391667
+    },
+    {
+      "cityName": "Bue",
+      "lat": -20.6375,
+      "lng": 34.9088889
+    },
+    {
+      "cityName": "Bugaio",
+      "lat": -19.3666667,
+      "lng": 35.3833333
+    },
+    {
+      "cityName": "Bungano",
+      "lat": -20.0119444,
+      "lng": 33.4861111
+    },
+    {
+      "cityName": "Bute",
+      "lat": -18.5166667,
+      "lng": 34.55
+    },
+    {
+      "cityName": "Buunhe",
+      "lat": -20.2688889,
+      "lng": 33.6833333
+    },
+    {
+      "cityName": "Búzi",
+      "lat": -19.8813889,
+      "lng": 34.6008333
+    },
+    {
+      "cityName": "Buzue",
+      "lat": -18.6438889,
+      "lng": 34.2116667
+    },
+    {
+      "cityName": "Cabe",
+      "lat": -21.2594444,
+      "lng": 34.2580556
+    },
+    {
+      "cityName": "Caçador",
+      "lat": -18.2922222,
+      "lng": 35.9541667
+    },
+    {
+      "cityName": "Cachau",
+      "lat": -17.7963889,
+      "lng": 34.355
+    },
+    {
+      "cityName": "Cachera",
+      "lat": -17.3152778,
+      "lng": 34.6541667
+    },
+    {
+      "cityName": "Cacicanhe",
+      "lat": -19.4,
+      "lng": 35
+    },
+    {
+      "cityName": "Cadeado",
+      "lat": -17.54,
+      "lng": 34.9538889
+    },
+    {
+      "cityName": "Cado",
+      "lat": -17.5841667,
+      "lng": 34.7897222
+    },
+    {
+      "cityName": "Cafulande",
+      "lat": -19.3833333,
+      "lng": 35.3833333
+    },
+    {
+      "cityName": "Cafumbe",
+      "lat": -17.6427778,
+      "lng": 34.6636111
+    },
+    {
+      "cityName": "Cafumpe",
+      "lat": -18.9166667,
+      "lng": 34.9
+    },
+    {
+      "cityName": "Caia",
+      "lat": -17.8202778,
+      "lng": 35.3441667
+    },
+    {
+      "cityName": "Cajananhe",
+      "lat": -20.3772222,
+      "lng": 34.0422222
+    },
+    {
+      "cityName": "Calamo",
+      "lat": -17.2255556,
+      "lng": 34.8277778
+    },
+    {
+      "cityName": "Calezera",
+      "lat": -18.6386111,
+      "lng": 34.28
+    },
+    {
+      "cityName": "Camacho",
+      "lat": -18.1216667,
+      "lng": 35.4538889
+    },
+    {
+      "cityName": "Camba",
+      "lat": -17.7361111,
+      "lng": 35.2638889
+    },
+    {
+      "cityName": "Camiau",
+      "lat": -21.1363889,
+      "lng": 34.5172222
+    },
+    {
+      "cityName": "Camosso",
+      "lat": -17.4188889,
+      "lng": 34.7886111
+    },
+    {
+      "cityName": "Campira",
+      "lat": -17.3138889,
+      "lng": 34.7144444
+    },
+    {
+      "cityName": "Camunga",
+      "lat": -17.4480556,
+      "lng": 35.035
+    },
+    {
+      "cityName": "Candeeiro",
+      "lat": -18.6783333,
+      "lng": 34.045
+    },
+    {
+      "cityName": "Candeia",
+      "lat": -17.56,
+      "lng": 35.0016667
+    },
+    {
+      "cityName": "Candieiro",
+      "lat": -18.7172222,
+      "lng": 33.6991667
+    },
+    {
+      "cityName": "Canganetole",
+      "lat": -18.4866667,
+      "lng": 34.49
+    },
+    {
+      "cityName": "Canganibeu",
+      "lat": -19.2,
+      "lng": 35.55
+    },
+    {
+      "cityName": "Canhese",
+      "lat": -18.9666667,
+      "lng": 34.1708333
+    },
+    {
+      "cityName": "Canhimbe",
+      "lat": -17.3361111,
+      "lng": 34.8508333
+    },
+    {
+      "cityName": "Canivete",
+      "lat": -18.2111111,
+      "lng": 34.655
+    },
+    {
+      "cityName": "Cantina de Centro Agricolo Orizidola",
+      "lat": -18.1658333,
+      "lng": 35.8352778
+    },
+    {
+      "cityName": "Canxixe",
+      "lat": -17.5786111,
+      "lng": 34.3130556
+    },
+    {
+      "cityName": "Canze",
+      "lat": -17.6477778,
+      "lng": 34.3119444
+    },
+    {
+      "cityName": "Capanga",
+      "lat": -17.0502778,
+      "lng": 34.5675
+    },
+    {
+      "cityName": "Capenga",
+      "lat": -18.3,
+      "lng": 35.6666667
+    },
+    {
+      "cityName": "Caponha",
+      "lat": -18.2455556,
+      "lng": 35.8636111
+    },
+    {
+      "cityName": "Capunha",
+      "lat": -19.5205556,
+      "lng": 35.0169444
+    },
+    {
+      "cityName": "Caqui",
+      "lat": -20.2972222,
+      "lng": 33.6944444
+    },
+    {
+      "cityName": "Carabandua",
+      "lat": -19.2302778,
+      "lng": 34.3233333
+    },
+    {
+      "cityName": "Carabina",
+      "lat": -18.3727778,
+      "lng": 34.1686111
+    },
+    {
+      "cityName": "Cardoso",
+      "lat": -18.1677778,
+      "lng": 35.5402778
+    },
+    {
+      "cityName": "Carvalho",
+      "lat": -18.1430556,
+      "lng": 35.4502778
+    },
+    {
+      "cityName": "Casaco",
+      "lat": -18.7361111,
+      "lng": 34.3038889
+    },
+    {
+      "cityName": "Casamuia",
+      "lat": -21.01,
+      "lng": 34.0825
+    },
+    {
+      "cityName": "Casquinha",
+      "lat": -18.5677778,
+      "lng": 35.6591667
+    },
+    {
+      "cityName": "Casseira",
+      "lat": -19.7,
+      "lng": 34.9166667
+    },
+    {
+      "cityName": "Cassume",
+      "lat": -17.3691667,
+      "lng": 34.5825
+    },
+    {
+      "cityName": "Castigo",
+      "lat": -21.0302778,
+      "lng": 34.8666667
+    },
+    {
+      "cityName": "Catulene",
+      "lat": -17.1844444,
+      "lng": 34.3927778
+    },
+    {
+      "cityName": "Catumbo",
+      "lat": -18.4202778,
+      "lng": 33.9716667
+    },
+    {
+      "cityName": "Catumene",
+      "lat": -17.0775,
+      "lng": 34.7258333
+    },
+    {
+      "cityName": "Caúte",
+      "lat": -19.8191667,
+      "lng": 33.9886111
+    },
+    {
+      "cityName": "Cavalane",
+      "lat": -21.2869444,
+      "lng": 34.3483333
+    },
+    {
+      "cityName": "Cavalo",
+      "lat": -18.4725,
+      "lng": 34.2075
+    },
+    {
+      "cityName": "Cavambiri",
+      "lat": -17.2344444,
+      "lng": 34.9322222
+    },
+    {
+      "cityName": "Cazamuia",
+      "lat": -20.2630556,
+      "lng": 33.8980556
+    },
+    {
+      "cityName": "Cazasse",
+      "lat": -19.0711111,
+      "lng": 34.1727778
+    },
+    {
+      "cityName": "Ceavaca",
+      "lat": -20.1897222,
+      "lng": 33.8683333
+    },
+    {
+      "cityName": "Cebóia",
+      "lat": -20.4491667,
+      "lng": 33.7516667
+    },
+    {
+      "cityName": "Chacanza",
+      "lat": -17.9333333,
+      "lng": 34.7008333
+    },
+    {
+      "cityName": "Chaconja",
+      "lat": -20.6847222,
+      "lng": 33.7552778
+    },
+    {
+      "cityName": "Chadeama",
+      "lat": -20.28,
+      "lng": 33.8847222
+    },
+    {
+      "cityName": "Chado",
+      "lat": -19.6333333,
+      "lng": 34.8666667
+    },
+    {
+      "cityName": "Chaima",
+      "lat": -18.2516667,
+      "lng": 34.0680556
+    },
+    {
+      "cityName": "Chala",
+      "lat": -20.4616667,
+      "lng": 33.6705556
+    },
+    {
+      "cityName": "Chale",
+      "lat": -17.5636111,
+      "lng": 35.0455556
+    },
+    {
+      "cityName": "Chalombe",
+      "lat": -20.3836111,
+      "lng": 33.9483333
+    },
+    {
+      "cityName": "Chama",
+      "lat": -20.3852778,
+      "lng": 33.5177778
+    },
+    {
+      "cityName": "Chamba",
+      "lat": -19.7344444,
+      "lng": 34.8197222
+    },
+    {
+      "cityName": "Chambira",
+      "lat": -20.1822222,
+      "lng": 34.1547222
+    },
+    {
+      "cityName": "Chamepango",
+      "lat": -20.4283333,
+      "lng": 34.5108333
+    },
+    {
+      "cityName": "Chamissanga",
+      "lat": -18.4833333,
+      "lng": 34.3833333
+    },
+    {
+      "cityName": "Chamuça",
+      "lat": -20.5277778,
+      "lng": 33.6819444
+    },
+    {
+      "cityName": "Chango",
+      "lat": -19.0438889,
+      "lng": 34.3913889
+    },
+    {
+      "cityName": "Changulugunda",
+      "lat": -21.24,
+      "lng": 34.1297222
+    },
+    {
+      "cityName": "Changuma",
+      "lat": -20.1830556,
+      "lng": 34.1875
+    },
+    {
+      "cityName": "Chanhamasse",
+      "lat": -20.315,
+      "lng": 33.7097222
+    },
+    {
+      "cityName": "Chapata",
+      "lat": -17.2586111,
+      "lng": 34.7777778
+    },
+    {
+      "cityName": "Chapenga",
+      "lat": -17.5766667,
+      "lng": 35.0730556
+    },
+    {
+      "cityName": "Chapo",
+      "lat": -20.4969444,
+      "lng": 33.7358333
+    },
+    {
+      "cityName": "Chapopira",
+      "lat": -18.6219444,
+      "lng": 33.935
+    },
+    {
+      "cityName": "Chare",
+      "lat": -20.3872222,
+      "lng": 33.9025
+    },
+    {
+      "cityName": "Chargo",
+      "lat": -20.0547222,
+      "lng": 34.445
+    },
+    {
+      "cityName": "Charinga",
+      "lat": -20.2705556,
+      "lng": 33.8766667
+    },
+    {
+      "cityName": "Charira",
+      "lat": -19.4963889,
+      "lng": 34.2769444
+    },
+    {
+      "cityName": "Charumare",
+      "lat": -18.6166667,
+      "lng": 35.1833333
+    },
+    {
+      "cityName": "Chauene",
+      "lat": -17.4163889,
+      "lng": 34.9
+    },
+    {
+      "cityName": "Checongane",
+      "lat": -21.2266667,
+      "lng": 34.4116667
+    },
+    {
+      "cityName": "Chefe Chuire",
+      "lat": -21.0077778,
+      "lng": 34.8958333
+    },
+    {
+      "cityName": "Chefe Macanguiçe",
+      "lat": -21.0888889,
+      "lng": 34.6944444
+    },
+    {
+      "cityName": "Chefe Manganhane",
+      "lat": -21.2522222,
+      "lng": 34.2705556
+    },
+    {
+      "cityName": "Chefondo",
+      "lat": -18.3825,
+      "lng": 35.0563889
+    },
+    {
+      "cityName": "Cheganaze",
+      "lat": -20.3238889,
+      "lng": 33.6119444
+    },
+    {
+      "cityName": "Chelene",
+      "lat": -20.5330556,
+      "lng": 33.8869444
+    },
+    {
+      "cityName": "Chelim",
+      "lat": -21.0913889,
+      "lng": 34.2572222
+    },
+    {
+      "cityName": "Chemba",
+      "lat": -17.1644444,
+      "lng": 34.8938889
+    },
+    {
+      "cityName": "Chena",
+      "lat": -17.4461111,
+      "lng": 34.8783333
+    },
+    {
+      "cityName": "Chenapamimba",
+      "lat": -19.0922222,
+      "lng": 35.1169444
+    },
+    {
+      "cityName": "Chendemeconhe",
+      "lat": -20.0805556,
+      "lng": 34.15
+    },
+    {
+      "cityName": "Cherara",
+      "lat": -19.2136111,
+      "lng": 34.0958333
+    },
+    {
+      "cityName": "Cherimonha",
+      "lat": -20.0055556,
+      "lng": 34.6322222
+    },
+    {
+      "cityName": "Cherimonho",
+      "lat": -19.9958333,
+      "lng": 34.6213889
+    },
+    {
+      "cityName": "Cherinda",
+      "lat": -20.6275,
+      "lng": 34.7313889
+    },
+    {
+      "cityName": "Cherinfume",
+      "lat": -18.8513889,
+      "lng": 34.2188889
+    },
+    {
+      "cityName": "Chessungalane",
+      "lat": -20.9761111,
+      "lng": 34.5422222
+    },
+    {
+      "cityName": "Chesua",
+      "lat": -18.6636111,
+      "lng": 34.2377778
+    },
+    {
+      "cityName": "Chiau",
+      "lat": -17.2311111,
+      "lng": 34.8127778
+    },
+    {
+      "cityName": "Chibabava",
+      "lat": -20.2919444,
+      "lng": 33.6594444
+    },
+    {
+      "cityName": "Chibe",
+      "lat": -20.2655556,
+      "lng": 34.4419444
+    },
+    {
+      "cityName": "Chibete",
+      "lat": -20.2338889,
+      "lng": 34.6663889
+    },
+    {
+      "cityName": "Chibinjane",
+      "lat": -20.1108333,
+      "lng": 34.4425
+    },
+    {
+      "cityName": "Chibomane",
+      "lat": -21.29,
+      "lng": 34.1525
+    },
+    {
+      "cityName": "Chibomul",
+      "lat": -21.1908333,
+      "lng": 34.0875
+    },
+    {
+      "cityName": "Chibondo",
+      "lat": -18.4,
+      "lng": 35.1666667
+    },
+    {
+      "cityName": "Chibongalaua",
+      "lat": -17.72,
+      "lng": 35.2013889
+    },
+    {
+      "cityName": "Chibudejo",
+      "lat": -20.4872222,
+      "lng": 33.6225
+    },
+    {
+      "cityName": "Chicanduanhe",
+      "lat": -20.3225,
+      "lng": 33.7141667
+    },
+    {
+      "cityName": "Chicari",
+      "lat": -19.0072222,
+      "lng": 34.2941667
+    },
+    {
+      "cityName": "Chicha",
+      "lat": -17.7711111,
+      "lng": 35.3361111
+    },
+    {
+      "cityName": "Chichire",
+      "lat": -21.1136111,
+      "lng": 34.4286111
+    },
+    {
+      "cityName": "Chichocane",
+      "lat": -21.1483333,
+      "lng": 34.3802778
+    },
+    {
+      "cityName": "Chiconde",
+      "lat": -20.4730556,
+      "lng": 34.5563889
+    },
+    {
+      "cityName": "Chiconjo",
+      "lat": -20.1047222,
+      "lng": 34.7555556
+    },
+    {
+      "cityName": "Chicopane",
+      "lat": -20.4152778,
+      "lng": 33.6727778
+    },
+    {
+      "cityName": "Chicote",
+      "lat": -19.5333333,
+      "lng": 35.1166667
+    },
+    {
+      "cityName": "Chicuacuane",
+      "lat": -20.5094444,
+      "lng": 33.7358333
+    },
+    {
+      "cityName": "Chicuale",
+      "lat": -21.1697222,
+      "lng": 34.2444444
+    },
+    {
+      "cityName": "Chicuatule",
+      "lat": -20.2419444,
+      "lng": 34.6936111
+    },
+    {
+      "cityName": "Chicubesi",
+      "lat": -20.5363889,
+      "lng": 33.6127778
+    },
+    {
+      "cityName": "Chicuecue",
+      "lat": -20.2511111,
+      "lng": 34.0983333
+    },
+    {
+      "cityName": "Chicuembo",
+      "lat": -20.52,
+      "lng": 34.3047222
+    },
+    {
+      "cityName": "Chicuira",
+      "lat": -19.2333333,
+      "lng": 35.4333333
+    },
+    {
+      "cityName": "Chicuite",
+      "lat": -20.3783333,
+      "lng": 34.0355556
+    },
+    {
+      "cityName": "Chicuiticuite",
+      "lat": -20.6241667,
+      "lng": 33.9872222
+    },
+    {
+      "cityName": "Chicuregua",
+      "lat": -19.65,
+      "lng": 34.85
+    },
+    {
+      "cityName": "Chidambuza",
+      "lat": -20.06,
+      "lng": 34.0591667
+    },
+    {
+      "cityName": "Chidanga",
+      "lat": -18.4,
+      "lng": 35.0166667
+    },
+    {
+      "cityName": "Chidjumana",
+      "lat": -19.9463889,
+      "lng": 33.5991667
+    },
+    {
+      "cityName": "Chigaliço",
+      "lat": -21.0786111,
+      "lng": 34.7916667
+    },
+    {
+      "cityName": "Chiganda",
+      "lat": -18.1886111,
+      "lng": 34.7063889
+    },
+    {
+      "cityName": "Chiganiço",
+      "lat": -20.1569444,
+      "lng": 34.1511111
+    },
+    {
+      "cityName": "Chigói",
+      "lat": -21.1955556,
+      "lng": 34.1219444
+    },
+    {
+      "cityName": "Chigombe",
+      "lat": -17.6847222,
+      "lng": 34.4430556
+    },
+    {
+      "cityName": "Chiguaro",
+      "lat": -20.1875,
+      "lng": 34.1508333
+    },
+    {
+      "cityName": "Chigulabana",
+      "lat": -20.2188889,
+      "lng": 34.2838889
+    },
+    {
+      "cityName": "Chigunha",
+      "lat": -21.1666667,
+      "lng": 34.05
+    },
+    {
+      "cityName": "Chilile",
+      "lat": -21.125,
+      "lng": 34.4305556
+    },
+    {
+      "cityName": "Chiloane",
+      "lat": -20.6691667,
+      "lng": 34.9286111
+    },
+    {
+      "cityName": "Chimaquira",
+      "lat": -20.0647222,
+      "lng": 33.95
+    },
+    {
+      "cityName": "Chimbudo",
+      "lat": -19.7333333,
+      "lng": 34.8333333
+    },
+    {
+      "cityName": "Chimenho",
+      "lat": -20.3569444,
+      "lng": 33.7188889
+    },
+    {
+      "cityName": "Chimica",
+      "lat": -18.8263889,
+      "lng": 35.1022222
+    },
+    {
+      "cityName": "Chiminba",
+      "lat": -20.5933333,
+      "lng": 34.745
+    },
+    {
+      "cityName": "Chimoio",
+      "lat": -18.1363889,
+      "lng": 34.4991667
+    },
+    {
+      "cityName": "Chimonho",
+      "lat": -20.2163889,
+      "lng": 33.8469444
+    },
+    {
+      "cityName": "Chimue",
+      "lat": -19.7536111,
+      "lng": 34.0283333
+    },
+    {
+      "cityName": "Chimunda",
+      "lat": -20.0883333,
+      "lng": 33.4713889
+    },
+    {
+      "cityName": "Chinamaconde",
+      "lat": -19.5166667,
+      "lng": 35
+    },
+    {
+      "cityName": "Chinanaxi",
+      "lat": -18.3702778,
+      "lng": 34.0472222
+    },
+    {
+      "cityName": "Chinaquire",
+      "lat": -20.0777778,
+      "lng": 34.0252778
+    },
+    {
+      "cityName": "Chinbaro",
+      "lat": -20.4980556,
+      "lng": 34.2433333
+    },
+    {
+      "cityName": "Chindede",
+      "lat": -20.9383333,
+      "lng": 34.4555556
+    },
+    {
+      "cityName": "Chineue",
+      "lat": -17.1363889,
+      "lng": 34.6502778
+    },
+    {
+      "cityName": "Chingondo",
+      "lat": -20.6561111,
+      "lng": 33.8005556
+    },
+    {
+      "cityName": "Chingune",
+      "lat": -20.6208333,
+      "lng": 34.8913889
+    },
+    {
+      "cityName": "Chinhacate",
+      "lat": -20.1391667,
+      "lng": 33.8402778
+    },
+    {
+      "cityName": "Chinhacuzua",
+      "lat": -20.4366667,
+      "lng": 33.6552778
+    },
+    {
+      "cityName": "Chinhai",
+      "lat": -20.4286111,
+      "lng": 33.7777778
+    },
+    {
+      "cityName": "Chiniziua",
+      "lat": -18.965,
+      "lng": 35.1261111
+    },
+    {
+      "cityName": "Chipacajana",
+      "lat": -20.0069444,
+      "lng": 34.6586111
+    },
+    {
+      "cityName": "Chipambo",
+      "lat": -20.3702778,
+      "lng": 33.7219444
+    },
+    {
+      "cityName": "Chipanha",
+      "lat": -18.3677778,
+      "lng": 34.8086111
+    },
+    {
+      "cityName": "Chipavo",
+      "lat": -20.0780556,
+      "lng": 34.7427778
+    },
+    {
+      "cityName": "Chipende",
+      "lat": -17.7805556,
+      "lng": 35.2177778
+    },
+    {
+      "cityName": "Chipocucuco",
+      "lat": -20.1822222,
+      "lng": 33.5622222
+    },
+    {
+      "cityName": "Chipondaminga",
+      "lat": -18.7333333,
+      "lng": 34.6333333
+    },
+    {
+      "cityName": "Chipondene",
+      "lat": -18.65,
+      "lng": 35.4166667
+    },
+    {
+      "cityName": "Chipuaza",
+      "lat": -17.8327778,
+      "lng": 35.3902778
+    },
+    {
+      "cityName": "Chipuri",
+      "lat": -20.5275,
+      "lng": 33.6613889
+    },
+    {
+      "cityName": "Chiquia",
+      "lat": -20.4958333,
+      "lng": 33.8811111
+    },
+    {
+      "cityName": "Chiradzo",
+      "lat": -19.3886111,
+      "lng": 34.1611111
+    },
+    {
+      "cityName": "Chirangaza",
+      "lat": -20.4516667,
+      "lng": 33.6572222
+    },
+    {
+      "cityName": "Chirara",
+      "lat": -20.2497222,
+      "lng": 33.7013889
+    },
+    {
+      "cityName": "Chirga",
+      "lat": -20.3691667,
+      "lng": 34.6788889
+    },
+    {
+      "cityName": "Chirimazi",
+      "lat": -17.9747222,
+      "lng": 35.2719444
+    },
+    {
+      "cityName": "Chiriro",
+      "lat": -20.4175,
+      "lng": 34.17
+    },
+    {
+      "cityName": "Chiro",
+      "lat": -20.1688889,
+      "lng": 33.7269444
+    },
+    {
+      "cityName": "Chirombe",
+      "lat": -18.2352778,
+      "lng": 35.865
+    },
+    {
+      "cityName": "Chironde",
+      "lat": -20.0491667,
+      "lng": 34.0372222
+    },
+    {
+      "cityName": "Chirunda",
+      "lat": -20.7327778,
+      "lng": 34.9236111
+    },
+    {
+      "cityName": "Chirungunhe",
+      "lat": -20.2788889,
+      "lng": 33.8391667
+    },
+    {
+      "cityName": "Chissanja",
+      "lat": -19.3383333,
+      "lng": 34.5716667
+    },
+    {
+      "cityName": "Chissequene",
+      "lat": -19.9733333,
+      "lng": 33.9311111
+    },
+    {
+      "cityName": "Chissiduana",
+      "lat": -20.4888889,
+      "lng": 33.8969444
+    },
+    {
+      "cityName": "Chissinguana",
+      "lat": -20.2061111,
+      "lng": 34.1552778
+    },
+    {
+      "cityName": "Chissódze",
+      "lat": -17.4191667,
+      "lng": 34.2763889
+    },
+    {
+      "cityName": "Chitanta",
+      "lat": -20.2969444,
+      "lng": 34.6591667
+    },
+    {
+      "cityName": "Chitengo",
+      "lat": -18.9791667,
+      "lng": 34.3530556
+    },
+    {
+      "cityName": "Chiteve",
+      "lat": -20.9775,
+      "lng": 34.9769444
+    },
+    {
+      "cityName": "Chiti",
+      "lat": -18.3583333,
+      "lng": 34.8852778
+    },
+    {
+      "cityName": "Chitoeve",
+      "lat": -20.0733333,
+      "lng": 34.0325
+    },
+    {
+      "cityName": "Chitucula",
+      "lat": -18.15,
+      "lng": 34.8333333
+    },
+    {
+      "cityName": "Chitui",
+      "lat": -18.1888889,
+      "lng": 35.8461111
+    },
+    {
+      "cityName": "Chitunco",
+      "lat": -17.9066667,
+      "lng": 35.4230556
+    },
+    {
+      "cityName": "Chivai",
+      "lat": -20.5213889,
+      "lng": 33.6669444
+    },
+    {
+      "cityName": "Chivulivuli",
+      "lat": -17.0663889,
+      "lng": 34.8311111
+    },
+    {
+      "cityName": "Chivumo",
+      "lat": -20.4125,
+      "lng": 34.4366667
+    },
+    {
+      "cityName": "Chofandicho",
+      "lat": -19.6833333,
+      "lng": 35.0666667
+    },
+    {
+      "cityName": "Chóla",
+      "lat": -17.3830556,
+      "lng": 35.0027778
+    },
+    {
+      "cityName": "Choromare",
+      "lat": -18.7541667,
+      "lng": 34.6208333
+    },
+    {
+      "cityName": "Chota",
+      "lat": -19.8169444,
+      "lng": 34.8880556
+    },
+    {
+      "cityName": "Chuaua",
+      "lat": -18.7752778,
+      "lng": 34.6255556
+    },
+    {
+      "cityName": "Chucuane",
+      "lat": -20.0802778,
+      "lng": 33.7958333
+    },
+    {
+      "cityName": "Chumbane",
+      "lat": -21.2638889,
+      "lng": 34.3763889
+    },
+    {
+      "cityName": "Chumenorrua",
+      "lat": -21.2325,
+      "lng": 34.1208333
+    },
+    {
+      "cityName": "Chupanga",
+      "lat": -18.0211111,
+      "lng": 35.5641667
+    },
+    {
+      "cityName": "Chupo",
+      "lat": -20.3327778,
+      "lng": 33.7188889
+    },
+    {
+      "cityName": "Chuquela",
+      "lat": -20.3741667,
+      "lng": 33.9841667
+    },
+    {
+      "cityName": "Churangure",
+      "lat": -20.3747222,
+      "lng": 33.8083333
+    },
+    {
+      "cityName": "Chuva",
+      "lat": -18.1347222,
+      "lng": 34.4286111
+    },
+    {
+      "cityName": "Cifa",
+      "lat": -18.995,
+      "lng": 34.3191667
+    },
+    {
+      "cityName": "Cigarro",
+      "lat": -20.2241667,
+      "lng": 33.7091667
+    },
+    {
+      "cityName": "Cine",
+      "lat": -18.1163889,
+      "lng": 35.4611111
+    },
+    {
+      "cityName": "Cingano",
+      "lat": -17.8536111,
+      "lng": 34.9044444
+    },
+    {
+      "cityName": "Citi",
+      "lat": -18.1494444,
+      "lng": 34.8283333
+    },
+    {
+      "cityName": "Côche",
+      "lat": -18.7013889,
+      "lng": 34.3352778
+    },
+    {
+      "cityName": "Cocheio",
+      "lat": -20.6905556,
+      "lng": 34.5183333
+    },
+    {
+      "cityName": "Cochelo",
+      "lat": -20.7,
+      "lng": 34.5166667
+    },
+    {
+      "cityName": "Codobe",
+      "lat": -20.2386111,
+      "lng": 33.8672222
+    },
+    {
+      "cityName": "Codzo",
+      "lat": -18.5716667,
+      "lng": 34.8791667
+    },
+    {
+      "cityName": "Çofala",
+      "lat": -20.155,
+      "lng": 34.7316667
+    },
+    {
+      "cityName": "Colarinho",
+      "lat": -19.1163889,
+      "lng": 35.3613889
+    },
+    {
+      "cityName": "Colofite",
+      "lat": -17.1619444,
+      "lng": 34.2408333
+    },
+    {
+      "cityName": "Comachinda",
+      "lat": -19.9097222,
+      "lng": 33.8375
+    },
+    {
+      "cityName": "Combalançai",
+      "lat": -17.6936111,
+      "lng": 34.5786111
+    },
+    {
+      "cityName": "Comissale",
+      "lat": -18.35,
+      "lng": 35.9333333
+    },
+    {
+      "cityName": "Como",
+      "lat": -20.3225,
+      "lng": 33.5761111
+    },
+    {
+      "cityName": "Compiro-Zoca",
+      "lat": -18.3333333,
+      "lng": 35.6
+    },
+    {
+      "cityName": "Compone",
+      "lat": -18.0786111,
+      "lng": 34.95
+    },
+    {
+      "cityName": "Componi",
+      "lat": -19.0916667,
+      "lng": 34.1844444
+    },
+    {
+      "cityName": "Conceição",
+      "lat": -18.7361111,
+      "lng": 36.1622222
+    },
+    {
+      "cityName": "Concertina",
+      "lat": -20.1569444,
+      "lng": 33.7238889
+    },
+    {
+      "cityName": "Condué",
+      "lat": -18.7222222,
+      "lng": 34.8483333
+    },
+    {
+      "cityName": "Conge",
+      "lat": -17.6677778,
+      "lng": 35.0641667
+    },
+    {
+      "cityName": "Conjane",
+      "lat": -21.2452778,
+      "lng": 34.2013889
+    },
+    {
+      "cityName": "Cordar",
+      "lat": -17.4780556,
+      "lng": 34.6858333
+    },
+    {
+      "cityName": "Corone",
+      "lat": -18.9752778,
+      "lng": 35.0805556
+    },
+    {
+      "cityName": "Correia",
+      "lat": -17.2341667,
+      "lng": 34.2186111
+    },
+    {
+      "cityName": "Coti",
+      "lat": -19.8505556,
+      "lng": 33.9536111
+    },
+    {
+      "cityName": "Coutinho",
+      "lat": -18.6602778,
+      "lng": 34.4111111
+    },
+    {
+      "cityName": "Coutore",
+      "lat": -21.1402778,
+      "lng": 34.5022222
+    },
+    {
+      "cityName": "Cruzado",
+      "lat": -18.7088889,
+      "lng": 34.6408333
+    },
+    {
+      "cityName": "Cruzeiro",
+      "lat": -21.0266667,
+      "lng": 34.8436111
+    },
+    {
+      "cityName": "Cuaua",
+      "lat": -18.9519444,
+      "lng": 35.1219444
+    },
+    {
+      "cityName": "Cubimbe",
+      "lat": -20.4966667,
+      "lng": 33.8580556
+    },
+    {
+      "cityName": "Cubira",
+      "lat": -20.1719444,
+      "lng": 33.7352778
+    },
+    {
+      "cityName": "Cucipa",
+      "lat": -20.1063889,
+      "lng": 34.3847222
+    },
+    {
+      "cityName": "Cudzo",
+      "lat": -18.7116667,
+      "lng": 34.0380556
+    },
+    {
+      "cityName": "Cuemura",
+      "lat": -20.3694444,
+      "lng": 34.1641667
+    },
+    {
+      "cityName": "Cuenge",
+      "lat": -17.5166667,
+      "lng": 35.0702778
+    },
+    {
+      "cityName": "Cufacastigo",
+      "lat": -18.1833333,
+      "lng": 35.85
+    },
+    {
+      "cityName": "Cumbiua",
+      "lat": -20.3680556,
+      "lng": 34.6891667
+    },
+    {
+      "cityName": "Cunuca",
+      "lat": -20.0075,
+      "lng": 33.9797222
+    },
+    {
+      "cityName": "Cura",
+      "lat": -18.7333333,
+      "lng": 35.4166667
+    },
+    {
+      "cityName": "Currima",
+      "lat": -21.1580556,
+      "lng": 34.4827778
+    },
+    {
+      "cityName": "Cusinurera",
+      "lat": -18.6077778,
+      "lng": 34.5625
+    },
+    {
+      "cityName": "Cuzizua",
+      "lat": -19.7216667,
+      "lng": 33.8336111
+    },
+    {
+      "cityName": "Dabiró",
+      "lat": -19.6377778,
+      "lng": 34.4605556
+    },
+    {
+      "cityName": "Dacovele",
+      "lat": -21.17,
+      "lng": 34.3819444
+    },
+    {
+      "cityName": "Dacuzene",
+      "lat": -20.2661111,
+      "lng": 34.115
+    },
+    {
+      "cityName": "Dama",
+      "lat": -19.8,
+      "lng": 34.85
+    },
+    {
+      "cityName": "Damião",
+      "lat": -19.1841667,
+      "lng": 34.4508333
+    },
+    {
+      "cityName": "Dança",
+      "lat": -17.8586111,
+      "lng": 34.9038889
+    },
+    {
+      "cityName": "Dandala",
+      "lat": -20.0988889,
+      "lng": 33.9394444
+    },
+    {
+      "cityName": "Dandava",
+      "lat": -20.4294444,
+      "lng": 33.8905556
+    },
+    {
+      "cityName": "Danga",
+      "lat": -20.135,
+      "lng": 34.7705556
+    },
+    {
+      "cityName": "Danta",
+      "lat": -19.5969444,
+      "lng": 35.0247222
+    },
+    {
+      "cityName": "Dapassoa",
+      "lat": -18.3805556,
+      "lng": 34.16
+    },
+    {
+      "cityName": "Datiana",
+      "lat": -20.06,
+      "lng": 34.1638889
+    },
+    {
+      "cityName": "Dauce",
+      "lat": -17.2333333,
+      "lng": 34.3666667
+    },
+    {
+      "cityName": "Daude",
+      "lat": -19.2683333,
+      "lng": 34.2516667
+    },
+    {
+      "cityName": "Dausse",
+      "lat": -18.1666667,
+      "lng": 35.8333333
+    },
+    {
+      "cityName": "Dava",
+      "lat": -20.9016667,
+      "lng": 33.9347222
+    },
+    {
+      "cityName": "Davatava",
+      "lat": -21.1333333,
+      "lng": 34.2333333
+    },
+    {
+      "cityName": "Dazola",
+      "lat": -20.4186111,
+      "lng": 34.1638889
+    },
+    {
+      "cityName": "Dembo",
+      "lat": -18.7311111,
+      "lng": 36.2294444
+    },
+    {
+      "cityName": "Denje",
+      "lat": -20.3213889,
+      "lng": 33.7836111
+    },
+    {
+      "cityName": "Detepo",
+      "lat": -20.2886111,
+      "lng": 34.1675
+    },
+    {
+      "cityName": "Dique",
+      "lat": -18.6005556,
+      "lng": 34.3575
+    },
+    {
+      "cityName": "Diua",
+      "lat": -17.8236111,
+      "lng": 34.3166667
+    },
+    {
+      "cityName": "Diva",
+      "lat": -20.1352778,
+      "lng": 33.8405556
+    },
+    {
+      "cityName": "Divinhe",
+      "lat": -20.7025,
+      "lng": 34.7925
+    },
+    {
+      "cityName": "Dobenhe",
+      "lat": -20.3030556,
+      "lng": 34.0419444
+    },
+    {
+      "cityName": "Doenhe",
+      "lat": -20.3833333,
+      "lng": 33.9166667
+    },
+    {
+      "cityName": "Domingo",
+      "lat": -20.2733333,
+      "lng": 34.6472222
+    },
+    {
+      "cityName": "Domingos",
+      "lat": -19.3047222,
+      "lng": 34.2555556
+    },
+    {
+      "cityName": "Dondo",
+      "lat": -19.6094444,
+      "lng": 34.7430556
+    },
+    {
+      "cityName": "Dóoio",
+      "lat": -20.3075,
+      "lng": 34.1783333
+    },
+    {
+      "cityName": "Doôzo",
+      "lat": -20.055,
+      "lng": 33.9702778
+    },
+    {
+      "cityName": "Dorrumba",
+      "lat": -19.9613889,
+      "lng": 34.1047222
+    },
+    {
+      "cityName": "Dota",
+      "lat": -18.3758333,
+      "lng": 35.4030556
+    },
+    {
+      "cityName": "Dovanhama",
+      "lat": -20.3438889,
+      "lng": 34.0097222
+    },
+    {
+      "cityName": "Ducuane",
+      "lat": -20.4758333,
+      "lng": 33.8863889
+    },
+    {
+      "cityName": "Duma",
+      "lat": -20.3016667,
+      "lng": 33.6716667
+    },
+    {
+      "cityName": "Dungamo",
+      "lat": -19.1811111,
+      "lng": 34.4525
+    },
+    {
+      "cityName": "Duque",
+      "lat": -18.7577778,
+      "lng": 34.0911111
+    },
+    {
+      "cityName": "Duracha",
+      "lat": -20.3191667,
+      "lng": 34.6308333
+    },
+    {
+      "cityName": "Eliasse",
+      "lat": -21.2466667,
+      "lng": 34.2588889
+    },
+    {
+      "cityName": "Eseuo",
+      "lat": -21,
+      "lng": 34.9166667
+    },
+    {
+      "cityName": "Espangara",
+      "lat": -19.8383333,
+      "lng": 34.8822222
+    },
+    {
+      "cityName": "Estaquinha",
+      "lat": -19.9775,
+      "lng": 34.1413889
+    },
+    {
+      "cityName": "Estofo",
+      "lat": -20.2561111,
+      "lng": 33.8855556
+    },
+    {
+      "cityName": "Esturro",
+      "lat": -19.8333333,
+      "lng": 34.85
+    },
+    {
+      "cityName": "Faduco",
+      "lat": -21.2752778,
+      "lng": 34.0802778
+    },
+    {
+      "cityName": "Faífe",
+      "lat": -20.1619444,
+      "lng": 33.5472222
+    },
+    {
+      "cityName": "Faifetine",
+      "lat": -21.1102778,
+      "lng": 34.5119444
+    },
+    {
+      "cityName": "Falange",
+      "lat": -21.1533333,
+      "lng": 34.435
+    },
+    {
+      "cityName": "Faquira",
+      "lat": -20.1130556,
+      "lng": 34.7619444
+    },
+    {
+      "cityName": "Fazbem",
+      "lat": -19.5936111,
+      "lng": 34.4416667
+    },
+    {
+      "cityName": "Fecula",
+      "lat": -21.055,
+      "lng": 34.8261111
+    },
+    {
+      "cityName": "Felteira",
+      "lat": -19.9369444,
+      "lng": 34.5244444
+    },
+    {
+      "cityName": "Fernando",
+      "lat": -19.8,
+      "lng": 33.95
+    },
+    {
+      "cityName": "Fivetine",
+      "lat": -20.5475,
+      "lng": 33.8877778
+    },
+    {
+      "cityName": "Foguente",
+      "lat": -19.15,
+      "lng": 35.5166667
+    },
+    {
+      "cityName": "Fombe",
+      "lat": -17.935,
+      "lng": 34.3827778
+    },
+    {
+      "cityName": "Fombeni",
+      "lat": -18.6833333,
+      "lng": 35.4666667
+    },
+    {
+      "cityName": "Fundisse",
+      "lat": -18.1566667,
+      "lng": 34.5147222
+    },
+    {
+      "cityName": "Gadaga",
+      "lat": -17.7388889,
+      "lng": 34.8472222
+    },
+    {
+      "cityName": "Gaio",
+      "lat": -20.1063889,
+      "lng": 33.785
+    },
+    {
+      "cityName": "Gale",
+      "lat": -18.2333333,
+      "lng": 35.7833333
+    },
+    {
+      "cityName": "Galinha",
+      "lat": -19.3108333,
+      "lng": 34.9516667
+    },
+    {
+      "cityName": "Galizo",
+      "lat": -19.1666667,
+      "lng": 34.9166667
+    },
+    {
+      "cityName": "Gamba",
+      "lat": -17.6458333,
+      "lng": 35.1472222
+    },
+    {
+      "cityName": "Gamenga",
+      "lat": -17.7336111,
+      "lng": 35.2811111
+    },
+    {
+      "cityName": "Ganda",
+      "lat": -20.5041667,
+      "lng": 33.8688889
+    },
+    {
+      "cityName": "Gano",
+      "lat": -19.1825,
+      "lng": 35.4111111
+    },
+    {
+      "cityName": "Ganunga",
+      "lat": -17.6133333,
+      "lng": 34.825
+    },
+    {
+      "cityName": "Garabéga",
+      "lat": -20.3394444,
+      "lng": 34.5119444
+    },
+    {
+      "cityName": "Gaza",
+      "lat": -18.5666667,
+      "lng": 34.6666667
+    },
+    {
+      "cityName": "Gima",
+      "lat": -18.6011111,
+      "lng": 34.545
+    },
+    {
+      "cityName": "Gimo",
+      "lat": -17.6102778,
+      "lng": 34.5913889
+    },
+    {
+      "cityName": "Ginga",
+      "lat": -18.5177778,
+      "lng": 34.9316667
+    },
+    {
+      "cityName": "Ginge",
+      "lat": -18.2963889,
+      "lng": 35.1111111
+    },
+    {
+      "cityName": "Gire",
+      "lat": -18.8841667,
+      "lng": 34.1205556
+    },
+    {
+      "cityName": "Goanda",
+      "lat": -19.8408333,
+      "lng": 34.0105556
+    },
+    {
+      "cityName": "Goba",
+      "lat": -17.0933333,
+      "lng": 34.8413889
+    },
+    {
+      "cityName": "Gobo",
+      "lat": -20.3333333,
+      "lng": 34.0791667
+    },
+    {
+      "cityName": "Gobora",
+      "lat": -20.0491667,
+      "lng": 33.8272222
+    },
+    {
+      "cityName": "Goche",
+      "lat": -18.7666667,
+      "lng": 36.1333333
+    },
+    {
+      "cityName": "Goenge",
+      "lat": -20.7458333,
+      "lng": 34.0155556
+    },
+    {
+      "cityName": "Gogóio",
+      "lat": -21.1155556,
+      "lng": 34.435
+    },
+    {
+      "cityName": "Goi",
+      "lat": -17.4333333,
+      "lng": 34.7666667
+    },
+    {
+      "cityName": "Goinha",
+      "lat": -18.8147222,
+      "lng": 34.6058333
+    },
+    {
+      "cityName": "Goiomba",
+      "lat": -20.9975,
+      "lng": 34.1869444
+    },
+    {
+      "cityName": "Golegã",
+      "lat": -20.3552778,
+      "lng": 33.9347222
+    },
+    {
+      "cityName": "Golonga",
+      "lat": -18.6988889,
+      "lng": 34.6369444
+    },
+    {
+      "cityName": "Goma",
+      "lat": -18.1236111,
+      "lng": 35.7563889
+    },
+    {
+      "cityName": "Gomando",
+      "lat": -20.5980556,
+      "lng": 33.8436111
+    },
+    {
+      "cityName": "Gomanhe",
+      "lat": -18.9333333,
+      "lng": 35.1333333
+    },
+    {
+      "cityName": "Gomate",
+      "lat": -20.4472222,
+      "lng": 33.9997222
+    },
+    {
+      "cityName": "Gombe-Gombe",
+      "lat": -17.6536111,
+      "lng": 34.9408333
+    },
+    {
+      "cityName": "Gombe Gombe",
+      "lat": -17.9547222,
+      "lng": 35.4547222
+    },
+    {
+      "cityName": "Gonda",
+      "lat": -17.5688889,
+      "lng": 34.3244444
+    },
+    {
+      "cityName": "Gondora",
+      "lat": -19.6666667,
+      "lng": 34.85
+    },
+    {
+      "cityName": "Gonmane",
+      "lat": -21.2802778,
+      "lng": 34.3177778
+    },
+    {
+      "cityName": "Gonondo",
+      "lat": -20.3355556,
+      "lng": 34.4975
+    },
+    {
+      "cityName": "Góra",
+      "lat": -17.9819444,
+      "lng": 35.4941667
+    },
+    {
+      "cityName": "Gore",
+      "lat": -19.4941667,
+      "lng": 34.3386111
+    },
+    {
+      "cityName": "Gorongosa",
+      "lat": -18.6755556,
+      "lng": 34.0727778
+    },
+    {
+      "cityName": "Gororo",
+      "lat": -20.2775,
+      "lng": 34.1661111
+    },
+    {
+      "cityName": "Govunhe",
+      "lat": -20.4561111,
+      "lng": 33.9016667
+    },
+    {
+      "cityName": "Gramucana",
+      "lat": -18.5397222,
+      "lng": 34.0383333
+    },
+    {
+      "cityName": "Gravata",
+      "lat": -18.2963889,
+      "lng": 34.3877778
+    },
+    {
+      "cityName": "Grudja",
+      "lat": -19.8083333,
+      "lng": 34.0163889
+    },
+    {
+      "cityName": "Guacuanhe",
+      "lat": -20.1394444,
+      "lng": 34.1497222
+    },
+    {
+      "cityName": "Guana",
+      "lat": -20.1736111,
+      "lng": 33.7169444
+    },
+    {
+      "cityName": "Guanda",
+      "lat": -20.0980556,
+      "lng": 34.3633333
+    },
+    {
+      "cityName": "Guanha",
+      "lat": -19.4308333,
+      "lng": 34.4180556
+    },
+    {
+      "cityName": "Guara-Gúara",
+      "lat": -19.8738889,
+      "lng": 34.5227778
+    },
+    {
+      "cityName": "Guda",
+      "lat": -18.0680556,
+      "lng": 34.9566667
+    },
+    {
+      "cityName": "Gueira",
+      "lat": -19.1675,
+      "lng": 34.4341667
+    },
+    {
+      "cityName": "Guembe",
+      "lat": -18.6833333,
+      "lng": 34.9833333
+    },
+    {
+      "cityName": "Guenge",
+      "lat": -17.1313889,
+      "lng": 34.7019444
+    },
+    {
+      "cityName": "Guengere",
+      "lat": -19.0691667,
+      "lng": 34.2302778
+    },
+    {
+      "cityName": "Guente",
+      "lat": -17.5738889,
+      "lng": 34.7475
+    },
+    {
+      "cityName": "Guérumbué",
+      "lat": -20.9,
+      "lng": 33.9819444
+    },
+    {
+      "cityName": "Guex",
+      "lat": -18.4341667,
+      "lng": 35.8875
+    },
+    {
+      "cityName": "Guezefana",
+      "lat": -19.8811111,
+      "lng": 33.8705556
+    },
+    {
+      "cityName": "Guiraze",
+      "lat": -17.2411111,
+      "lng": 34.8430556
+    },
+    {
+      "cityName": "Guireca",
+      "lat": -20.3666667,
+      "lng": 33.7666667
+    },
+    {
+      "cityName": "Gulamopinso",
+      "lat": -19.1536111,
+      "lng": 34.4366667
+    },
+    {
+      "cityName": "Guma",
+      "lat": -17.8847222,
+      "lng": 34.3913889
+    },
+    {
+      "cityName": "Gumançanze",
+      "lat": -17.7630556,
+      "lng": 35.3191667
+    },
+    {
+      "cityName": "Gumanhe",
+      "lat": -19.6313889,
+      "lng": 34.6866667
+    },
+    {
+      "cityName": "Gumba",
+      "lat": -19.7852778,
+      "lng": 33.9872222
+    },
+    {
+      "cityName": "Guncha",
+      "lat": -19.7611111,
+      "lng": 33.8391667
+    },
+    {
+      "cityName": "Gunda",
+      "lat": -18.3497222,
+      "lng": 33.9961111
+    },
+    {
+      "cityName": "Gunhe",
+      "lat": -19.6208333,
+      "lng": 33.7569444
+    },
+    {
+      "cityName": "Guno",
+      "lat": -20.0430556,
+      "lng": 34.0266667
+    },
+    {
+      "cityName": "Gupargua",
+      "lat": -20.3983333,
+      "lng": 33.9480556
+    },
+    {
+      "cityName": "Hode",
+      "lat": -20.5363889,
+      "lng": 33.6069444
+    },
+    {
+      "cityName": "Hode Novo",
+      "lat": -20.5,
+      "lng": 33.6
+    },
+    {
+      "cityName": "Inhabande",
+      "lat": -20.8722222,
+      "lng": 34.8802778
+    },
+    {
+      "cityName": "Inhachava",
+      "lat": -20.3361111,
+      "lng": 34.6008333
+    },
+    {
+      "cityName": "Inhafenga",
+      "lat": -20.5755556,
+      "lng": 33.8825
+    },
+    {
+      "cityName": "Inhagosse",
+      "lat": -20.5775,
+      "lng": 34.7713889
+    },
+    {
+      "cityName": "Inhainvuvo",
+      "lat": -20.2219444,
+      "lng": 34.1566667
+    },
+    {
+      "cityName": "Inhamilanga",
+      "lat": -18.2188889,
+      "lng": 35.16
+    },
+    {
+      "cityName": "Inhaminga",
+      "lat": -18.4036111,
+      "lng": 34.9958333
+    },
+    {
+      "cityName": "Inhangara",
+      "lat": -20.2655556,
+      "lng": 34.1669444
+    },
+    {
+      "cityName": "Inhangoro",
+      "lat": -20.0411111,
+      "lng": 34.7344444
+    },
+    {
+      "cityName": "Inhangua",
+      "lat": -17.9008333,
+      "lng": 35.3172222
+    },
+    {
+      "cityName": "Inhanguo",
+      "lat": -18.9927778,
+      "lng": 34.4038889
+    },
+    {
+      "cityName": "Inhanguvo",
+      "lat": -20.7016667,
+      "lng": 34.9497222
+    },
+    {
+      "cityName": "Inharuca",
+      "lat": -17.5022222,
+      "lng": 35.0541667
+    },
+    {
+      "cityName": "Inhauranga",
+      "lat": -19.0727778,
+      "lng": 34.4455556
+    },
+    {
+      "cityName": "Inhaveninga",
+      "lat": -20.2327778,
+      "lng": 34.6947222
+    },
+    {
+      "cityName": "Irico",
+      "lat": -20.4672222,
+      "lng": 33.6925
+    },
+    {
+      "cityName": "Jacobo",
+      "lat": -18.3588889,
+      "lng": 33.9930556
+    },
+    {
+      "cityName": "Jacopo",
+      "lat": -19.9447222,
+      "lng": 33.6402778
+    },
+    {
+      "cityName": "Janasse",
+      "lat": -17.6472222,
+      "lng": 34.4208333
+    },
+    {
+      "cityName": "Janeiro",
+      "lat": -19.4155556,
+      "lng": 35.0830556
+    },
+    {
+      "cityName": "Jangada",
+      "lat": -17.9,
+      "lng": 35.4
+    },
+    {
+      "cityName": "Jasse",
+      "lat": -19.2344444,
+      "lng": 34.0108333
+    },
+    {
+      "cityName": "Java",
+      "lat": -20.0286111,
+      "lng": 34.7280556
+    },
+    {
+      "cityName": "Jaze",
+      "lat": -18.3891667,
+      "lng": 35.4602778
+    },
+    {
+      "cityName": "Jemete",
+      "lat": -20.6033333,
+      "lng": 33.7225
+    },
+    {
+      "cityName": "Jemusse",
+      "lat": -18.6491667,
+      "lng": 34.4019444
+    },
+    {
+      "cityName": "Jeque",
+      "lat": -17.2516667,
+      "lng": 34.7813889
+    },
+    {
+      "cityName": "Jequeleque",
+      "lat": -21.0933333,
+      "lng": 34.4369444
+    },
+    {
+      "cityName": "Jequessene",
+      "lat": -18.2908333,
+      "lng": 34.1488889
+    },
+    {
+      "cityName": "Jesane",
+      "lat": -17.5716667,
+      "lng": 35.0958333
+    },
+    {
+      "cityName": "Jibamo",
+      "lat": -20.0866667,
+      "lng": 34.1488889
+    },
+    {
+      "cityName": "Jicona",
+      "lat": -20.1408333,
+      "lng": 33.7277778
+    },
+    {
+      "cityName": "Jingue",
+      "lat": -17.7488889,
+      "lng": 34.3833333
+    },
+    {
+      "cityName": "Jiua",
+      "lat": -18.1988889,
+      "lng": 35.8638889
+    },
+    {
+      "cityName": "Joane",
+      "lat": -20.6394444,
+      "lng": 33.9308333
+    },
+    {
+      "cityName": "João Bandeira",
+      "lat": -19.66,
+      "lng": 35.1047222
+    },
+    {
+      "cityName": "João-Gueli",
+      "lat": -18.4683333,
+      "lng": 34.2838889
+    },
+    {
+      "cityName": "Joao",
+      "lat": -18.1041667,
+      "lng": 34.9319444
+    },
+    {
+      "cityName": "Joaque",
+      "lat": -17.4591667,
+      "lng": 34.2830556
+    },
+    {
+      "cityName": "Joaquim",
+      "lat": -18.1811111,
+      "lng": 35.7566667
+    },
+    {
+      "cityName": "Jobe",
+      "lat": -20.1141667,
+      "lng": 34.3583333
+    },
+    {
+      "cityName": "Joe",
+      "lat": -18.4752778,
+      "lng": 35.4072222
+    },
+    {
+      "cityName": "Jofrisse",
+      "lat": -17.7408333,
+      "lng": 35.2072222
+    },
+    {
+      "cityName": "Joina",
+      "lat": -21.1752778,
+      "lng": 34.4244444
+    },
+    {
+      "cityName": "Jó",
+      "lat": -17.2341667,
+      "lng": 34.2316667
+    },
+    {
+      "cityName": "Jojo",
+      "lat": -19.9619444,
+      "lng": 33.5747222
+    },
+    {
+      "cityName": "Jone",
+      "lat": -17.6158333,
+      "lng": 34.7313889
+    },
+    {
+      "cityName": "Jonh Porão",
+      "lat": -18.3005556,
+      "lng": 35.9719444
+    },
+    {
+      "cityName": "Jonja",
+      "lat": -19.4833333,
+      "lng": 35.3666667
+    },
+    {
+      "cityName": "Jorge",
+      "lat": -18.2347222,
+      "lng": 35.8536111
+    },
+    {
+      "cityName": "Josefa",
+      "lat": -21.0947222,
+      "lng": 34.5147222
+    },
+    {
+      "cityName": "José",
+      "lat": -20.0663889,
+      "lng": 33.4591667
+    },
+    {
+      "cityName": "Jossai",
+      "lat": -21.2641667,
+      "lng": 34.1477778
+    },
+    {
+      "cityName": "Jossene",
+      "lat": -17.8372222,
+      "lng": 34.3416667
+    },
+    {
+      "cityName": "Jossio",
+      "lat": -21.2666667,
+      "lng": 34.35
+    },
+    {
+      "cityName": "Joze",
+      "lat": -17.7069444,
+      "lng": 35.2061111
+    },
+    {
+      "cityName": "Juchenge",
+      "lat": -18.2275,
+      "lng": 34.6527778
+    },
+    {
+      "cityName": "Judasse",
+      "lat": -21.2916667,
+      "lng": 34.0319444
+    },
+    {
+      "cityName": "Juga",
+      "lat": -20.4066667,
+      "lng": 33.92
+    },
+    {
+      "cityName": "Julai",
+      "lat": -21.2311111,
+      "lng": 34.4088889
+    },
+    {
+      "cityName": "Jungo",
+      "lat": -19.7252778,
+      "lng": 34.8222222
+    },
+    {
+      "cityName": "Jurai",
+      "lat": -20.1169444,
+      "lng": 33.7858333
+    },
+    {
+      "cityName": "Juse",
+      "lat": -18.1211111,
+      "lng": 34.9608333
+    },
+    {
+      "cityName": "Juze",
+      "lat": -17.2261111,
+      "lng": 34.2188889
+    },
+    {
+      "cityName": "Lacticinia",
+      "lat": -19.8,
+      "lng": 34.9
+    },
+    {
+      "cityName": "Laisse",
+      "lat": -20.2705556,
+      "lng": 33.8855556
+    },
+    {
+      "cityName": "Lambani",
+      "lat": -17.1247222,
+      "lng": 34.8619444
+    },
+    {
+      "cityName": "Lamego",
+      "lat": -19.3188889,
+      "lng": 34.2852778
+    },
+    {
+      "cityName": "Lamejo",
+      "lat": -21.0355556,
+      "lng": 34.8563889
+    },
+    {
+      "cityName": "Languane",
+      "lat": -20.295,
+      "lng": 33.5502778
+    },
+    {
+      "cityName": "Languene",
+      "lat": -20.6147222,
+      "lng": 33.8283333
+    },
+    {
+      "cityName": "Larguisse",
+      "lat": -17.2238889,
+      "lng": 34.3788889
+    },
+    {
+      "cityName": "Lazau",
+      "lat": -20.0588889,
+      "lng": 33.8325
+    },
+    {
+      "cityName": "Leitão",
+      "lat": -19.2019444,
+      "lng": 34.4519444
+    },
+    {
+      "cityName": "Lepondo",
+      "lat": -21.1219444,
+      "lng": 34.4266667
+    },
+    {
+      "cityName": "Licambala",
+      "lat": -20.4444444,
+      "lng": 34.495
+    },
+    {
+      "cityName": "Liconda",
+      "lat": -18.2333333,
+      "lng": 35.7333333
+    },
+    {
+      "cityName": "Lisboa",
+      "lat": -20.1205556,
+      "lng": 33.7658333
+    },
+    {
+      "cityName": "Lona",
+      "lat": -18.25,
+      "lng": 34.8333333
+    },
+    {
+      "cityName": "Lonquice",
+      "lat": -19.0338889,
+      "lng": 34.2961111
+    },
+    {
+      "cityName": "Luca",
+      "lat": -19.8291667,
+      "lng": 34.1716667
+    },
+    {
+      "cityName": "Lucine",
+      "lat": -20.9430556,
+      "lng": 34.9975
+    },
+    {
+      "cityName": "Luconde",
+      "lat": -20.0425,
+      "lng": 34.0694444
+    },
+    {
+      "cityName": "Luís",
+      "lat": -18.15,
+      "lng": 35.8333333
+    },
+    {
+      "cityName": "Luiz",
+      "lat": -20.3883333,
+      "lng": 33.5252778
+    },
+    {
+      "cityName": "Maácha",
+      "lat": -20.3722222,
+      "lng": 34.6958333
+    },
+    {
+      "cityName": "Maala",
+      "lat": -20.6297222,
+      "lng": 33.7319444
+    },
+    {
+      "cityName": "Maanganhe",
+      "lat": -20.5861111,
+      "lng": 33.8666667
+    },
+    {
+      "cityName": "Mabaja",
+      "lat": -20.3611111,
+      "lng": 34.0880556
+    },
+    {
+      "cityName": "Mabanja",
+      "lat": -19.8230556,
+      "lng": 33.965
+    },
+    {
+      "cityName": "Mabeleza",
+      "lat": -20.6508333,
+      "lng": 33.7661111
+    },
+    {
+      "cityName": "Mabe",
+      "lat": -20.1116667,
+      "lng": 33.7497222
+    },
+    {
+      "cityName": "Mabia",
+      "lat": -20.0588889,
+      "lng": 34.0463889
+    },
+    {
+      "cityName": "Mabiaquene",
+      "lat": -21.1102778,
+      "lng": 34.1119444
+    },
+    {
+      "cityName": "Mabiza",
+      "lat": -21.1002778,
+      "lng": 34.1158333
+    },
+    {
+      "cityName": "Mabomanhane",
+      "lat": -21.0472222,
+      "lng": 34.4930556
+    },
+    {
+      "cityName": "Mabua",
+      "lat": -20.4886111,
+      "lng": 33.6519444
+    },
+    {
+      "cityName": "Mabuio",
+      "lat": -20.5411111,
+      "lng": 33.6911111
+    },
+    {
+      "cityName": "Mabungondale",
+      "lat": -20.6058333,
+      "lng": 33.8466667
+    },
+    {
+      "cityName": "Maburuco",
+      "lat": -20.6152778,
+      "lng": 33.8130556
+    },
+    {
+      "cityName": "Macanda",
+      "lat": -17.4752778,
+      "lng": 34.8394444
+    },
+    {
+      "cityName": "Macando",
+      "lat": -20.2555556,
+      "lng": 33.6575
+    },
+    {
+      "cityName": "Macanga",
+      "lat": -17.1155556,
+      "lng": 34.8491667
+    },
+    {
+      "cityName": "Macanige",
+      "lat": -21.0444444,
+      "lng": 34.8422222
+    },
+    {
+      "cityName": "Maçapaua",
+      "lat": -17.8661111,
+      "lng": 34.7641667
+    },
+    {
+      "cityName": "Macarassanga",
+      "lat": -19.15,
+      "lng": 35.0666667
+    },
+    {
+      "cityName": "Macarate",
+      "lat": -20.4636111,
+      "lng": 33.7722222
+    },
+    {
+      "cityName": "Macarudeja",
+      "lat": -20.3591667,
+      "lng": 34.1558333
+    },
+    {
+      "cityName": "Macassa",
+      "lat": -20.8025,
+      "lng": 34.4308333
+    },
+    {
+      "cityName": "Macatare",
+      "lat": -20.4816667,
+      "lng": 33.7205556
+    },
+    {
+      "cityName": "Machachuane",
+      "lat": -20.5875,
+      "lng": 34.1777778
+    },
+    {
+      "cityName": "Machala",
+      "lat": -20.3302778,
+      "lng": 34.0252778
+    },
+    {
+      "cityName": "Machama",
+      "lat": -20.0666667,
+      "lng": 34.1541667
+    },
+    {
+      "cityName": "Machanga",
+      "lat": -20.9725,
+      "lng": 35.0086111
+    },
+    {
+      "cityName": "Machaze",
+      "lat": -20.2455556,
+      "lng": 34.1697222
+    },
+    {
+      "cityName": "Macheca",
+      "lat": -19.3375,
+      "lng": 34.99
+    },
+    {
+      "cityName": "Machenguela",
+      "lat": -20.3441667,
+      "lng": 34.3894444
+    },
+    {
+      "cityName": "Machesse",
+      "lat": -17.175,
+      "lng": 34.4225
+    },
+    {
+      "cityName": "Machilaze",
+      "lat": -21.0869444,
+      "lng": 34.4477778
+    },
+    {
+      "cityName": "Machinesse",
+      "lat": -20.0761111,
+      "lng": 34.0713889
+    },
+    {
+      "cityName": "Machiquire",
+      "lat": -20.2330556,
+      "lng": 33.6736111
+    },
+    {
+      "cityName": "Machombane",
+      "lat": -20.4205556,
+      "lng": 33.8508333
+    },
+    {
+      "cityName": "Machule",
+      "lat": -20.3947222,
+      "lng": 34.1994444
+    },
+    {
+      "cityName": "Machuto",
+      "lat": -21.0061111,
+      "lng": 34.7130556
+    },
+    {
+      "cityName": "Macoche",
+      "lat": -20.8980556,
+      "lng": 34.2202778
+    },
+    {
+      "cityName": "Macocolo",
+      "lat": -21.0941667,
+      "lng": 34.4169444
+    },
+    {
+      "cityName": "Macoco",
+      "lat": -17.7352778,
+      "lng": 34.4913889
+    },
+    {
+      "cityName": "Macolara",
+      "lat": -19.4333333,
+      "lng": 35.3166667
+    },
+    {
+      "cityName": "Maconharumo",
+      "lat": -18.8833333,
+      "lng": 35.95
+    },
+    {
+      "cityName": "Macorora",
+      "lat": -19.1586111,
+      "lng": 34.4316667
+    },
+    {
+      "cityName": "Macorreia",
+      "lat": -18.7233333,
+      "lng": 34.4658333
+    },
+    {
+      "cityName": "Macotore",
+      "lat": -20.4083333,
+      "lng": 34.4877778
+    },
+    {
+      "cityName": "Macuácua",
+      "lat": -19.4166667,
+      "lng": 35
+    },
+    {
+      "cityName": "Macuere",
+      "lat": -19.7833333,
+      "lng": 34
+    },
+    {
+      "cityName": "Macuirima",
+      "lat": -19.2,
+      "lng": 35.0666667
+    },
+    {
+      "cityName": "Macuiza",
+      "lat": -18.1252778,
+      "lng": 34.4686111
+    },
+    {
+      "cityName": "Macumba",
+      "lat": -20.4094444,
+      "lng": 33.6675
+    },
+    {
+      "cityName": "Macunda",
+      "lat": -20.2658333,
+      "lng": 33.6008333
+    },
+    {
+      "cityName": "Macundinharga",
+      "lat": -20.2836111,
+      "lng": 33.7030556
+    },
+    {
+      "cityName": "Macune",
+      "lat": -20.2763889,
+      "lng": 33.5297222
+    },
+    {
+      "cityName": "Macuona",
+      "lat": -19.9983333,
+      "lng": 33.9222222
+    },
+    {
+      "cityName": "Macurine",
+      "lat": -20.5619444,
+      "lng": 33.8261111
+    },
+    {
+      "cityName": "Macuro",
+      "lat": -20.0077778,
+      "lng": 34.0863889
+    },
+    {
+      "cityName": "Macuti",
+      "lat": -19.8416667,
+      "lng": 34.9038889
+    },
+    {
+      "cityName": "Macuvuia",
+      "lat": -20.5969444,
+      "lng": 34.1680556
+    },
+    {
+      "cityName": "Mada",
+      "lat": -20.3380556,
+      "lng": 34.0261111
+    },
+    {
+      "cityName": "Madamu",
+      "lat": -20.9538889,
+      "lng": 33.9702778
+    },
+    {
+      "cityName": "Madango",
+      "lat": -20.2116667,
+      "lng": 34.2819444
+    },
+    {
+      "cityName": "Madara",
+      "lat": -19.8308333,
+      "lng": 33.9622222
+    },
+    {
+      "cityName": "Madassipo",
+      "lat": -20.7819444,
+      "lng": 34.1883333
+    },
+    {
+      "cityName": "Madejuta",
+      "lat": -20.6511111,
+      "lng": 34.0238889
+    },
+    {
+      "cityName": "Madoda",
+      "lat": -18.9013889,
+      "lng": 34.2397222
+    },
+    {
+      "cityName": "Madumelane",
+      "lat": -20.6308333,
+      "lng": 33.7727778
+    },
+    {
+      "cityName": "Maeiana",
+      "lat": -20.2352778,
+      "lng": 34.1519444
+    },
+    {
+      "cityName": "Mafabana",
+      "lat": -20.4652778,
+      "lng": 33.8627778
+    },
+    {
+      "cityName": "Mafambice",
+      "lat": -19.4666667,
+      "lng": 34.5666667
+    },
+    {
+      "cityName": "Mafambisse",
+      "lat": -19.5491667,
+      "lng": 34.6244444
+    },
+    {
+      "cityName": "Maferoje",
+      "lat": -18.6144444,
+      "lng": 34.0575
+    },
+    {
+      "cityName": "Mafige",
+      "lat": -20.0316667,
+      "lng": 33.9775
+    },
+    {
+      "cityName": "Mafumbo",
+      "lat": -20.2222222,
+      "lng": 34.2722222
+    },
+    {
+      "cityName": "Mafunaire",
+      "lat": -19.6011111,
+      "lng": 34.1086111
+    },
+    {
+      "cityName": "Mafunga",
+      "lat": -18.5577778,
+      "lng": 34.2833333
+    },
+    {
+      "cityName": "Mafurango",
+      "lat": -18.6833333,
+      "lng": 35.4333333
+    },
+    {
+      "cityName": "Mafute",
+      "lat": -20.0502778,
+      "lng": 33.9794444
+    },
+    {
+      "cityName": "Mafuza",
+      "lat": -19.0166667,
+      "lng": 35.0833333
+    },
+    {
+      "cityName": "Magação",
+      "lat": -19.5855556,
+      "lng": 34.7344444
+    },
+    {
+      "cityName": "Magaeche",
+      "lat": -21.2833333,
+      "lng": 34.35
+    },
+    {
+      "cityName": "Magaizane",
+      "lat": -21.2686111,
+      "lng": 34.3744444
+    },
+    {
+      "cityName": "Magengane",
+      "lat": -21.2608333,
+      "lng": 34.1227778
+    },
+    {
+      "cityName": "Magocho",
+      "lat": -19.0627778,
+      "lng": 34.2691667
+    },
+    {
+      "cityName": "Magoco",
+      "lat": -20.1258333,
+      "lng": 34.1586111
+    },
+    {
+      "cityName": "Magoda",
+      "lat": -20.1483333,
+      "lng": 34.1541667
+    },
+    {
+      "cityName": "Magogomela",
+      "lat": -20.5236111,
+      "lng": 34.2852778
+    },
+    {
+      "cityName": "Magonere",
+      "lat": -20.3391667,
+      "lng": 34.3483333
+    },
+    {
+      "cityName": "Magota",
+      "lat": -21.2633333,
+      "lng": 34.0994444
+    },
+    {
+      "cityName": "Magrasse",
+      "lat": -17.1066667,
+      "lng": 34.6797222
+    },
+    {
+      "cityName": "Maguanhane",
+      "lat": -21.15,
+      "lng": 34.4166667
+    },
+    {
+      "cityName": "Maguanja",
+      "lat": -20.7622222,
+      "lng": 34.4216667
+    },
+    {
+      "cityName": "Maguenhe",
+      "lat": -20.2686111,
+      "lng": 33.7286111
+    },
+    {
+      "cityName": "Magumane",
+      "lat": -21.215,
+      "lng": 34.2338889
+    },
+    {
+      "cityName": "Magumica",
+      "lat": -21.0130556,
+      "lng": 34.8769444
+    },
+    {
+      "cityName": "Magunde",
+      "lat": -20.1894444,
+      "lng": 33.7266667
+    },
+    {
+      "cityName": "Maidenhe",
+      "lat": -20.2475,
+      "lng": 34.1433333
+    },
+    {
+      "cityName": "Maiongué",
+      "lat": -18.9833333,
+      "lng": 35.6833333
+    },
+    {
+      "cityName": "Majamua",
+      "lat": -18.51,
+      "lng": 34.9986111
+    },
+    {
+      "cityName": "Majande",
+      "lat": -20.1994444,
+      "lng": 34.1516667
+    },
+    {
+      "cityName": "Majombe",
+      "lat": -20.8130556,
+      "lng": 34.1108333
+    },
+    {
+      "cityName": "Malaca",
+      "lat": -20.1605556,
+      "lng": 34.4752778
+    },
+    {
+      "cityName": "Malangua",
+      "lat": -20.2905556,
+      "lng": 34.6388889
+    },
+    {
+      "cityName": "Malenguene Massaíde",
+      "lat": -20.94,
+      "lng": 34.7330556
+    },
+    {
+      "cityName": "Malenzane",
+      "lat": -21.2813889,
+      "lng": 34.1505556
+    },
+    {
+      "cityName": "Maleve",
+      "lat": -20.1941667,
+      "lng": 34.4744444
+    },
+    {
+      "cityName": "Maliquite",
+      "lat": -20.6416667,
+      "lng": 34.0622222
+    },
+    {
+      "cityName": "Malonga",
+      "lat": -21.0794444,
+      "lng": 34.4611111
+    },
+    {
+      "cityName": "Malozinene",
+      "lat": -20.2130556,
+      "lng": 33.8852778
+    },
+    {
+      "cityName": "Mambe",
+      "lat": -20.6458333,
+      "lng": 33.9188889
+    },
+    {
+      "cityName": "Mambere",
+      "lat": -20.07,
+      "lng": 33.8405556
+    },
+    {
+      "cityName": "Mambirrice",
+      "lat": -21.1644444,
+      "lng": 34.4166667
+    },
+    {
+      "cityName": "Mambizo",
+      "lat": -20.7691667,
+      "lng": 34.2047222
+    },
+    {
+      "cityName": "Mambossa",
+      "lat": -20.3813889,
+      "lng": 33.5158333
+    },
+    {
+      "cityName": "Mamunge",
+      "lat": -19.8430556,
+      "lng": 34.0961111
+    },
+    {
+      "cityName": "Manacaz",
+      "lat": -20.2102778,
+      "lng": 33.6827778
+    },
+    {
+      "cityName": "Manasse",
+      "lat": -20.7197222,
+      "lng": 34.1319444
+    },
+    {
+      "cityName": "Manata",
+      "lat": -19.7666667,
+      "lng": 34
+    },
+    {
+      "cityName": "Manaza",
+      "lat": -20.6816667,
+      "lng": 34.5261111
+    },
+    {
+      "cityName": "Mandabo",
+      "lat": -20.5025,
+      "lng": 34.2611111
+    },
+    {
+      "cityName": "Mandava",
+      "lat": -20.6902778,
+      "lng": 33.8352778
+    },
+    {
+      "cityName": "Mandavera",
+      "lat": -20.3508333,
+      "lng": 33.925
+    },
+    {
+      "cityName": "Mandieira",
+      "lat": -20.0255556,
+      "lng": 33.9691667
+    },
+    {
+      "cityName": "Mandigo",
+      "lat": -20.0705556,
+      "lng": 33.9644444
+    },
+    {
+      "cityName": "Mandiquice",
+      "lat": -18.1166667,
+      "lng": 34.9
+    },
+    {
+      "cityName": "Mandjodje",
+      "lat": -21.0227778,
+      "lng": 34.8772222
+    },
+    {
+      "cityName": "Manduna",
+      "lat": -20.3480556,
+      "lng": 34.1566667
+    },
+    {
+      "cityName": "Maneta",
+      "lat": -18.1752778,
+      "lng": 34.5275
+    },
+    {
+      "cityName": "Manga",
+      "lat": -19.7805556,
+      "lng": 34.8713889
+    },
+    {
+      "cityName": "Mangane",
+      "lat": -17.9847222,
+      "lng": 34.9833333
+    },
+    {
+      "cityName": "Mangaze",
+      "lat": -17.9236111,
+      "lng": 35.4319444
+    },
+    {
+      "cityName": "Mange",
+      "lat": -18.9166667,
+      "lng": 34.9166667
+    },
+    {
+      "cityName": "Mangomonhe",
+      "lat": -20.3736111,
+      "lng": 34.0380556
+    },
+    {
+      "cityName": "Manguazene",
+      "lat": -20.3008333,
+      "lng": 33.8136111
+    },
+    {
+      "cityName": "Mangudo",
+      "lat": -17.2002778,
+      "lng": 34.3233333
+    },
+    {
+      "cityName": "Manguese",
+      "lat": -20.6211111,
+      "lng": 34.3780556
+    },
+    {
+      "cityName": "Mangumo",
+      "lat": -18.5319444,
+      "lng": 34.1941667
+    },
+    {
+      "cityName": "Manhaua",
+      "lat": -20.1491667,
+      "lng": 34.4613889
+    },
+    {
+      "cityName": "Manherenhere",
+      "lat": -19.4644444,
+      "lng": 34.3869444
+    },
+    {
+      "cityName": "Manhica",
+      "lat": -20.1061111,
+      "lng": 34.3577778
+    },
+    {
+      "cityName": "Manhumbo",
+      "lat": -20.4,
+      "lng": 33.7019444
+    },
+    {
+      "cityName": "Manica",
+      "lat": -20.0558333,
+      "lng": 34.7280556
+    },
+    {
+      "cityName": "Manja",
+      "lat": -20.5644444,
+      "lng": 34.7688889
+    },
+    {
+      "cityName": "Manjoge",
+      "lat": -20.2938889,
+      "lng": 34.0733333
+    },
+    {
+      "cityName": "Manuel",
+      "lat": -19.8116667,
+      "lng": 33.9630556
+    },
+    {
+      "cityName": "Manuice",
+      "lat": -21.0969444,
+      "lng": 34.705
+    },
+    {
+      "cityName": "Manunuquero",
+      "lat": -21.0205556,
+      "lng": 34.0863889
+    },
+    {
+      "cityName": "Maonga",
+      "lat": -20.73,
+      "lng": 34.8075
+    },
+    {
+      "cityName": "Maope",
+      "lat": -20.035,
+      "lng": 34.0908333
+    },
+    {
+      "cityName": "Maótué",
+      "lat": -20.1536111,
+      "lng": 34.7572222
+    },
+    {
+      "cityName": "Mapanda",
+      "lat": -20.5763889,
+      "lng": 34.1811111
+    },
+    {
+      "cityName": "Mapande",
+      "lat": -20.0511111,
+      "lng": 34.0602778
+    },
+    {
+      "cityName": "Maparage",
+      "lat": -19.7269444,
+      "lng": 35.03
+    },
+    {
+      "cityName": "Mapinga",
+      "lat": -21.0930556,
+      "lng": 34.6866667
+    },
+    {
+      "cityName": "Mapingue",
+      "lat": -20.3866667,
+      "lng": 33.9675
+    },
+    {
+      "cityName": "Mapinhe",
+      "lat": -20.4913889,
+      "lng": 34.2402778
+    },
+    {
+      "cityName": "Maponde",
+      "lat": -20.1452778,
+      "lng": 34.2152778
+    },
+    {
+      "cityName": "Maporga",
+      "lat": -20.0838889,
+      "lng": 34.0891667
+    },
+    {
+      "cityName": "Mapouce",
+      "lat": -21.2588889,
+      "lng": 34.0988889
+    },
+    {
+      "cityName": "Mapulange",
+      "lat": -20.3786111,
+      "lng": 34.1541667
+    },
+    {
+      "cityName": "Mapungana",
+      "lat": -20.3477778,
+      "lng": 34.1675
+    },
+    {
+      "cityName": "Maquia",
+      "lat": -21.0502778,
+      "lng": 34.0936111
+    },
+    {
+      "cityName": "Mararanhe",
+      "lat": -20.1258333,
+      "lng": 34.3452778
+    },
+    {
+      "cityName": "Marele",
+      "lat": -20.3066667,
+      "lng": 33.6886111
+    },
+    {
+      "cityName": "Marera",
+      "lat": -20.0691667,
+      "lng": 34.1119444
+    },
+    {
+      "cityName": "Mareua",
+      "lat": -19.6833333,
+      "lng": 34.85
+    },
+    {
+      "cityName": "Margua",
+      "lat": -20.6930556,
+      "lng": 33.8191667
+    },
+    {
+      "cityName": "Marimbe",
+      "lat": -20.4725,
+      "lng": 34.2141667
+    },
+    {
+      "cityName": "Maringue",
+      "lat": -17.9644444,
+      "lng": 34.3905556
+    },
+    {
+      "cityName": "Marire",
+      "lat": -20.3047222,
+      "lng": 33.5697222
+    },
+    {
+      "cityName": "Marombe",
+      "lat": -20.3138889,
+      "lng": 34.1908333
+    },
+    {
+      "cityName": "Maropanhe",
+      "lat": -20.8213889,
+      "lng": 34.8552778
+    },
+    {
+      "cityName": "Marora",
+      "lat": -19.8461111,
+      "lng": 34.8930556
+    },
+    {
+      "cityName": "Marques",
+      "lat": -21.0858333,
+      "lng": 34.7886111
+    },
+    {
+      "cityName": "Marra",
+      "lat": -17.8852778,
+      "lng": 35.4338889
+    },
+    {
+      "cityName": "Marromeu",
+      "lat": -18.2908333,
+      "lng": 35.9452778
+    },
+    {
+      "cityName": "Marrucanhe",
+      "lat": -19.7855556,
+      "lng": 34.9280556
+    },
+    {
+      "cityName": "Marrupenhe",
+      "lat": -20.8052778,
+      "lng": 34.8477778
+    },
+    {
+      "cityName": "Martinho",
+      "lat": -17.8633333,
+      "lng": 34.9091667
+    },
+    {
+      "cityName": "Massacage",
+      "lat": -20.3675,
+      "lng": 33.7488889
+    },
+    {
+      "cityName": "Massacaiana",
+      "lat": -20.7947222,
+      "lng": 34.3894444
+    },
+    {
+      "cityName": "Massaite",
+      "lat": -17.4883333,
+      "lng": 34.385
+    },
+    {
+      "cityName": "Massane",
+      "lat": -20.1252778,
+      "lng": 33.76
+    },
+    {
+      "cityName": "Massanguene",
+      "lat": -20.2952778,
+      "lng": 33.8763889
+    },
+    {
+      "cityName": "Massara",
+      "lat": -18.265,
+      "lng": 34.1283333
+    },
+    {
+      "cityName": "Massate",
+      "lat": -20.4969444,
+      "lng": 33.615
+    },
+    {
+      "cityName": "Massava",
+      "lat": -20.2983333,
+      "lng": 33.8822222
+    },
+    {
+      "cityName": "Massembe",
+      "lat": -20.0630556,
+      "lng": 34.0402778
+    },
+    {
+      "cityName": "Massenguza",
+      "lat": -18.6716667,
+      "lng": 36.1141667
+    },
+    {
+      "cityName": "Massequenha",
+      "lat": -19.8383333,
+      "lng": 33.9763889
+    },
+    {
+      "cityName": "Masseta",
+      "lat": -20.2166667,
+      "lng": 33.7333333
+    },
+    {
+      "cityName": "Massique",
+      "lat": -19.9622222,
+      "lng": 34.0097222
+    },
+    {
+      "cityName": "Massoja",
+      "lat": -21.1158333,
+      "lng": 34.7430556
+    },
+    {
+      "cityName": "Massojo",
+      "lat": -20.5530556,
+      "lng": 33.8841667
+    },
+    {
+      "cityName": "Massorra",
+      "lat": -20.4933333,
+      "lng": 33.6083333
+    },
+    {
+      "cityName": "Matacuane",
+      "lat": -19.835,
+      "lng": 34.8702778
+    },
+    {
+      "cityName": "Matambo",
+      "lat": -18.6516667,
+      "lng": 33.8994444
+    },
+    {
+      "cityName": "Matanda",
+      "lat": -18.6222222,
+      "lng": 34.0705556
+    },
+    {
+      "cityName": "Mataque",
+      "lat": -20.1927778,
+      "lng": 34.1563889
+    },
+    {
+      "cityName": "Matebere",
+      "lat": -20.3902778,
+      "lng": 34.1230556
+    },
+    {
+      "cityName": "Matechanguio",
+      "lat": -20.6458333,
+      "lng": 34.0477778
+    },
+    {
+      "cityName": "Matele",
+      "lat": -21.0466667,
+      "lng": 34.84
+    },
+    {
+      "cityName": "Matere",
+      "lat": -20.1208333,
+      "lng": 33.7516667
+    },
+    {
+      "cityName": "Mateus",
+      "lat": -17.8102778,
+      "lng": 34.8683333
+    },
+    {
+      "cityName": "Matoco",
+      "lat": -21.1769444,
+      "lng": 34.4405556
+    },
+    {
+      "cityName": "Matoere",
+      "lat": -20.3747222,
+      "lng": 33.9638889
+    },
+    {
+      "cityName": "Matondoje",
+      "lat": -19.6769444,
+      "lng": 33.8069444
+    },
+    {
+      "cityName": "Matondo",
+      "lat": -18.1430556,
+      "lng": 35.0427778
+    },
+    {
+      "cityName": "Matongoro",
+      "lat": -19.7786111,
+      "lng": 34.9241667
+    },
+    {
+      "cityName": "Matongua",
+      "lat": -20.7161111,
+      "lng": 34.1441667
+    },
+    {
+      "cityName": "Matope",
+      "lat": -20.6808333,
+      "lng": 34.4005556
+    },
+    {
+      "cityName": "Matreque",
+      "lat": -19.7661111,
+      "lng": 33.9019444
+    },
+    {
+      "cityName": "Matsena",
+      "lat": -21.2852778,
+      "lng": 34.2858333
+    },
+    {
+      "cityName": "Matucule",
+      "lat": -20.7983333,
+      "lng": 34.3238889
+    },
+    {
+      "cityName": "Matunha",
+      "lat": -20.3413889,
+      "lng": 34.1733333
+    },
+    {
+      "cityName": "Matusse",
+      "lat": -20.4236111,
+      "lng": 33.9216667
+    },
+    {
+      "cityName": "Mauce",
+      "lat": -21.2830556,
+      "lng": 34.0713889
+    },
+    {
+      "cityName": "Mauinga",
+      "lat": -17.2566667,
+      "lng": 34.8844444
+    },
+    {
+      "cityName": "Mauira",
+      "lat": -20.3683333,
+      "lng": 34.1575
+    },
+    {
+      "cityName": "Mauirimbade",
+      "lat": -18.5244444,
+      "lng": 34.0394444
+    },
+    {
+      "cityName": "Maulano",
+      "lat": -18.7086111,
+      "lng": 36.175
+    },
+    {
+      "cityName": "Maungane",
+      "lat": -21.1333333,
+      "lng": 34.5
+    },
+    {
+      "cityName": "Maurício",
+      "lat": -18.7130556,
+      "lng": 33.7619444
+    },
+    {
+      "cityName": "Mavigue",
+      "lat": -18.1361111,
+      "lng": 35.7902778
+    },
+    {
+      "cityName": "Mavuna",
+      "lat": -19.1305556,
+      "lng": 34.5847222
+    },
+    {
+      "cityName": "Mavungue",
+      "lat": -20.3825,
+      "lng": 33.815
+    },
+    {
+      "cityName": "Mavurabuzi",
+      "lat": -18.0833333,
+      "lng": 34.9333333
+    },
+    {
+      "cityName": "Mazádeja",
+      "lat": -20.4163889,
+      "lng": 33.9119444
+    },
+    {
+      "cityName": "Mazamba",
+      "lat": -18.4925,
+      "lng": 34.7763889
+    },
+    {
+      "cityName": "Maziambara",
+      "lat": -17.9225,
+      "lng": 34.3777778
+    },
+    {
+      "cityName": "Mazichine",
+      "lat": -19.9591667,
+      "lng": 33.5533333
+    },
+    {
+      "cityName": "Mazimbana",
+      "lat": -20.2533333,
+      "lng": 33.7877778
+    },
+    {
+      "cityName": "Mazinhane",
+      "lat": -21.0852778,
+      "lng": 34.4083333
+    },
+    {
+      "cityName": "Mazino",
+      "lat": -20.0169444,
+      "lng": 33.4827778
+    },
+    {
+      "cityName": "Mazungaire",
+      "lat": -20.0077778,
+      "lng": 34.6338889
+    },
+    {
+      "cityName": "Mazungo",
+      "lat": -20.4852778,
+      "lng": 34.0344444
+    },
+    {
+      "cityName": "Mazuque",
+      "lat": -20.6319444,
+      "lng": 33.9777778
+    },
+    {
+      "cityName": "Mcusualera",
+      "lat": -17.8847222,
+      "lng": 34.3597222
+    },
+    {
+      "cityName": "Mechava",
+      "lat": -20.6775,
+      "lng": 34.5291667
+    },
+    {
+      "cityName": "Mechiço",
+      "lat": -20.3,
+      "lng": 33.6666667
+    },
+    {
+      "cityName": "Meciambeze",
+      "lat": -18.6833333,
+      "lng": 35.1333333
+    },
+    {
+      "cityName": "Mecônha",
+      "lat": -20.2827778,
+      "lng": 34.6652778
+    },
+    {
+      "cityName": "Mecupe",
+      "lat": -20.1261111,
+      "lng": 33.7461111
+    },
+    {
+      "cityName": "Medala",
+      "lat": -19.9516667,
+      "lng": 33.6363889
+    },
+    {
+      "cityName": "Medela",
+      "lat": -20.0619444,
+      "lng": 33.5619444
+    },
+    {
+      "cityName": "Medongue",
+      "lat": -20.2961111,
+      "lng": 34.1697222
+    },
+    {
+      "cityName": "Meduringuira",
+      "lat": -20.0572222,
+      "lng": 34.1719444
+    },
+    {
+      "cityName": "Megarirgue",
+      "lat": -18.4536111,
+      "lng": 34.2183333
+    },
+    {
+      "cityName": "Mejacareque",
+      "lat": -20.0966667,
+      "lng": 33.6341667
+    },
+    {
+      "cityName": "Melumuzane",
+      "lat": -20.3641667,
+      "lng": 33.8069444
+    },
+    {
+      "cityName": "Menacho",
+      "lat": -20.4969444,
+      "lng": 34.2258333
+    },
+    {
+      "cityName": "Meno",
+      "lat": -19.7666667,
+      "lng": 34.85
+    },
+    {
+      "cityName": "Menque",
+      "lat": -19.0666667,
+      "lng": 34.4
+    },
+    {
+      "cityName": "Meque",
+      "lat": -17.6447222,
+      "lng": 34.8905556
+    },
+    {
+      "cityName": "Mequequete",
+      "lat": -20.7694444,
+      "lng": 34.4141667
+    },
+    {
+      "cityName": "Mequisse",
+      "lat": -19.7619444,
+      "lng": 33.8330556
+    },
+    {
+      "cityName": "Mercado",
+      "lat": -20.2661111,
+      "lng": 33.7694444
+    },
+    {
+      "cityName": "Meridejo",
+      "lat": -20.1980556,
+      "lng": 33.8730556
+    },
+    {
+      "cityName": "Merigue",
+      "lat": -20.4775,
+      "lng": 33.7005556
+    },
+    {
+      "cityName": "Messussa",
+      "lat": -18.7588889,
+      "lng": 34.365
+    },
+    {
+      "cityName": "Metambane",
+      "lat": -20.5436111,
+      "lng": 33.7013889
+    },
+    {
+      "cityName": "Metambanhe",
+      "lat": -20.6255556,
+      "lng": 34.6791667
+    },
+    {
+      "cityName": "Metata",
+      "lat": -21.0127778,
+      "lng": 34.9033333
+    },
+    {
+      "cityName": "Metembe",
+      "lat": -20.6558333,
+      "lng": 34.5430556
+    },
+    {
+      "cityName": "Metiza",
+      "lat": -20.8594444,
+      "lng": 34.0863889
+    },
+    {
+      "cityName": "Metondonhe",
+      "lat": -20.6819444,
+      "lng": 33.8855556
+    },
+    {
+      "cityName": "Mexeme",
+      "lat": -20.39,
+      "lng": 33.9855556
+    },
+    {
+      "cityName": "Mexunguè",
+      "lat": -20.3616667,
+      "lng": 33.8825
+    },
+    {
+      "cityName": "Mexungué Velho",
+      "lat": -20.4436111,
+      "lng": 33.9411111
+    },
+    {
+      "cityName": "Meziana",
+      "lat": -20.2591667,
+      "lng": 33.6994444
+    },
+    {
+      "cityName": "Mezomba",
+      "lat": -21.0886111,
+      "lng": 34.4155556
+    },
+    {
+      "cityName": "Micheu",
+      "lat": -19.0836111,
+      "lng": 34.4466667
+    },
+    {
+      "cityName": "Miguel",
+      "lat": -18.7566667,
+      "lng": 34.7758333
+    },
+    {
+      "cityName": "Missongue",
+      "lat": -19.1833333,
+      "lng": 35.5
+    },
+    {
+      "cityName": "Moarembe",
+      "lat": -20.3311111,
+      "lng": 34.5608333
+    },
+    {
+      "cityName": "Moda",
+      "lat": -18.4425,
+      "lng": 34.8280556
+    },
+    {
+      "cityName": "Mofuiza",
+      "lat": -18.3741667,
+      "lng": 35.8566667
+    },
+    {
+      "cityName": "Mogodoro",
+      "lat": -20.2558333,
+      "lng": 34.1344444
+    },
+    {
+      "cityName": "Mogundo",
+      "lat": -19.05,
+      "lng": 34.4
+    },
+    {
+      "cityName": "Moiasse",
+      "lat": -20.2886111,
+      "lng": 33.5613889
+    },
+    {
+      "cityName": "Moio Achena",
+      "lat": -20.3563889,
+      "lng": 33.9269444
+    },
+    {
+      "cityName": "Molima",
+      "lat": -17.3469444,
+      "lng": 34.6288889
+    },
+    {
+      "cityName": "Mona",
+      "lat": -20.415,
+      "lng": 33.6608333
+    },
+    {
+      "cityName": "Monquendo",
+      "lat": -20.5211111,
+      "lng": 34.23
+    },
+    {
+      "cityName": "Morera",
+      "lat": -21.2733333,
+      "lng": 34.1011111
+    },
+    {
+      "cityName": "Morteiro",
+      "lat": -18.3977778,
+      "lng": 35.0411111
+    },
+    {
+      "cityName": "Mossama",
+      "lat": -17.4386111,
+      "lng": 34.2772222
+    },
+    {
+      "cityName": "Motine",
+      "lat": -20.5075,
+      "lng": 34.2261111
+    },
+    {
+      "cityName": "Motongue",
+      "lat": -21.2425,
+      "lng": 34.2025
+    },
+    {
+      "cityName": "Mozonde",
+      "lat": -20.0741667,
+      "lng": 34.1466667
+    },
+    {
+      "cityName": "M'sucossa",
+      "lat": -18.5577778,
+      "lng": 34.0772222
+    },
+    {
+      "cityName": "M'sunza",
+      "lat": -17.7427778,
+      "lng": 34.3744444
+    },
+    {
+      "cityName": "M'sunze",
+      "lat": -18.5586111,
+      "lng": 34.0563889
+    },
+    {
+      "cityName": "M'topa",
+      "lat": -17.7769444,
+      "lng": 35.0180556
+    },
+    {
+      "cityName": "Muanacamba",
+      "lat": -17.5558333,
+      "lng": 35.0844444
+    },
+    {
+      "cityName": "Muanalava",
+      "lat": -17.495,
+      "lng": 35.0636111
+    },
+    {
+      "cityName": "Muananhunga",
+      "lat": -17.3869444,
+      "lng": 34.9236111
+    },
+    {
+      "cityName": "Muananimai",
+      "lat": -18.6427778,
+      "lng": 34.6469444
+    },
+    {
+      "cityName": "Muanza",
+      "lat": -18.8972222,
+      "lng": 34.7927778
+    },
+    {
+      "cityName": "Muave",
+      "lat": -20.9166667,
+      "lng": 34.4166667
+    },
+    {
+      "cityName": "Mubango",
+      "lat": -20.2388889,
+      "lng": 33.8855556
+    },
+    {
+      "cityName": "Mucadeca",
+      "lat": -20.4338889,
+      "lng": 33.8855556
+    },
+    {
+      "cityName": "Mucaicai",
+      "lat": -19.0822222,
+      "lng": 34.4313889
+    },
+    {
+      "cityName": "Mucananda",
+      "lat": -21.0719444,
+      "lng": 34.8019444
+    },
+    {
+      "cityName": "Mucandire",
+      "lat": -20.5027778,
+      "lng": 34.3175
+    },
+    {
+      "cityName": "Muchamba",
+      "lat": -18.4686111,
+      "lng": 34.7436111
+    },
+    {
+      "cityName": "Muchangueia",
+      "lat": -18.8019444,
+      "lng": 34.0916667
+    },
+    {
+      "cityName": "Muchemico",
+      "lat": -19.4166667,
+      "lng": 35.4166667
+    },
+    {
+      "cityName": "Muchéucha",
+      "lat": -20.4313889,
+      "lng": 33.5880556
+    },
+    {
+      "cityName": "Mucheve",
+      "lat": -20.5769444,
+      "lng": 33.8358333
+    },
+    {
+      "cityName": "Muchingo",
+      "lat": -20.6772222,
+      "lng": 34.1666667
+    },
+    {
+      "cityName": "Muchoio",
+      "lat": -21.0291667,
+      "lng": 34.8613889
+    },
+    {
+      "cityName": "Muchuachua",
+      "lat": -21.2230556,
+      "lng": 34.1166667
+    },
+    {
+      "cityName": "Muchucho",
+      "lat": -20.3188889,
+      "lng": 33.7677778
+    },
+    {
+      "cityName": "Mucotore",
+      "lat": -20.4538889,
+      "lng": 33.6011111
+    },
+    {
+      "cityName": "Mucuácua",
+      "lat": -19.4213889,
+      "lng": 34.9666667
+    },
+    {
+      "cityName": "Mucuasse",
+      "lat": -21.1258333,
+      "lng": 34.58
+    },
+    {
+      "cityName": "Mucuera",
+      "lat": -20.3811111,
+      "lng": 33.9827778
+    },
+    {
+      "cityName": "Muda",
+      "lat": -19.3786111,
+      "lng": 34.4127778
+    },
+    {
+      "cityName": "Mudanicua",
+      "lat": -20.0030556,
+      "lng": 34.1544444
+    },
+    {
+      "cityName": "Muedzi",
+      "lat": -19.9516667,
+      "lng": 33.5988889
+    },
+    {
+      "cityName": "Mufocoze",
+      "lat": -20.1305556,
+      "lng": 33.8286111
+    },
+    {
+      "cityName": "Muguonde",
+      "lat": -19.8333333,
+      "lng": 33.9333333
+    },
+    {
+      "cityName": "Mujeza",
+      "lat": -18.6133333,
+      "lng": 34.3725
+    },
+    {
+      "cityName": "Mulejane",
+      "lat": -20.1316667,
+      "lng": 33.7563889
+    },
+    {
+      "cityName": "Mungari",
+      "lat": -19.1833333,
+      "lng": 34.45
+    },
+    {
+      "cityName": "Munhava",
+      "lat": -19.8194444,
+      "lng": 34.8588889
+    },
+    {
+      "cityName": "Munhica",
+      "lat": -20.2330556,
+      "lng": 34.1380556
+    },
+    {
+      "cityName": "Munossurau",
+      "lat": -20.0475,
+      "lng": 34.0069444
+    },
+    {
+      "cityName": "Mupacha",
+      "lat": -20.2433333,
+      "lng": 33.8883333
+    },
+    {
+      "cityName": "Mupanda",
+      "lat": -18.9347222,
+      "lng": 35.2780556
+    },
+    {
+      "cityName": "Mupino",
+      "lat": -20.1358333,
+      "lng": 34.1552778
+    },
+    {
+      "cityName": "Murabuesse",
+      "lat": -20.1688889,
+      "lng": 34.1536111
+    },
+    {
+      "cityName": "Mureia",
+      "lat": -20.4980556,
+      "lng": 33.6702778
+    },
+    {
+      "cityName": "Murema",
+      "lat": -17.5827778,
+      "lng": 35.0563889
+    },
+    {
+      "cityName": "Murraca",
+      "lat": -17.71,
+      "lng": 35.2411111
+    },
+    {
+      "cityName": "Murroroma",
+      "lat": -18.7166667,
+      "lng": 36.2333333
+    },
+    {
+      "cityName": "Musindo",
+      "lat": -20.6819444,
+      "lng": 33.8369444
+    },
+    {
+      "cityName": "Mussalara",
+      "lat": -20.3311111,
+      "lng": 33.7841667
+    },
+    {
+      "cityName": "Mussambuare",
+      "lat": -20.3247222,
+      "lng": 34.6291667
+    },
+    {
+      "cityName": "Mussângua",
+      "lat": -20.9775,
+      "lng": 34.9577778
+    },
+    {
+      "cityName": "Mussariamba",
+      "lat": -20.3052778,
+      "lng": 34.0091667
+    },
+    {
+      "cityName": "Mussete",
+      "lat": -20.3147222,
+      "lng": 34.0494444
+    },
+    {
+      "cityName": "Mussevezo",
+      "lat": -20.3022222,
+      "lng": 34.2102778
+    },
+    {
+      "cityName": "Mussore",
+      "lat": -20.2305556,
+      "lng": 33.8405556
+    },
+    {
+      "cityName": "Mussuaze",
+      "lat": -21.0105556,
+      "lng": 34.1605556
+    },
+    {
+      "cityName": "Muta",
+      "lat": -19.4808333,
+      "lng": 34.3769444
+    },
+    {
+      "cityName": "Mutanda",
+      "lat": -19.9369444,
+      "lng": 34.0952778
+    },
+    {
+      "cityName": "Mutareve",
+      "lat": -20.4658333,
+      "lng": 33.9997222
+    },
+    {
+      "cityName": "Mutemba",
+      "lat": -18.8333333,
+      "lng": 35.6666667
+    },
+    {
+      "cityName": "Mutiabamba",
+      "lat": -19.0127778,
+      "lng": 34.1208333
+    },
+    {
+      "cityName": "Mutiora",
+      "lat": -18.9,
+      "lng": 35.8833333
+    },
+    {
+      "cityName": "Mutongue",
+      "lat": -21.0511111,
+      "lng": 34.2733333
+    },
+    {
+      "cityName": "Mutotore",
+      "lat": -20.3669444,
+      "lng": 33.5752778
+    },
+    {
+      "cityName": "Muzicho",
+      "lat": -20.4141667,
+      "lng": 33.6702778
+    },
+    {
+      "cityName": "Nacho",
+      "lat": -17.9716667,
+      "lng": 34.9819444
+    },
+    {
+      "cityName": "Naiete",
+      "lat": -19.7983333,
+      "lng": 33.6247222
+    },
+    {
+      "cityName": "Naite",
+      "lat": -20.3411111,
+      "lng": 34.0725
+    },
+    {
+      "cityName": "Najiji",
+      "lat": -20.065,
+      "lng": 34.1691667
+    },
+    {
+      "cityName": "Naungo",
+      "lat": -18.36,
+      "lng": 35.3208333
+    },
+    {
+      "cityName": "Nazaré",
+      "lat": -17.9433333,
+      "lng": 35.4644444
+    },
+    {
+      "cityName": "Nema",
+      "lat": -19.8786111,
+      "lng": 34.0466667
+    },
+    {
+      "cityName": "Nenca",
+      "lat": -18.1472222,
+      "lng": 35.7205556
+    },
+    {
+      "cityName": "Nessona",
+      "lat": -18.8519444,
+      "lng": 35.6802778
+    },
+    {
+      "cityName": "Ngombe",
+      "lat": -17.83,
+      "lng": 34.3483333
+    },
+    {
+      "cityName": "Nhaband",
+      "lat": -18.4588889,
+      "lng": 34.8305556
+    },
+    {
+      "cityName": "Nhabende",
+      "lat": -20.3608333,
+      "lng": 33.9866667
+    },
+    {
+      "cityName": "Nhabesse",
+      "lat": -20.0863889,
+      "lng": 33.9477778
+    },
+    {
+      "cityName": "Nhaboa",
+      "lat": -20.3677778,
+      "lng": 33.7775
+    },
+    {
+      "cityName": "Nhabuandatema",
+      "lat": -18.8,
+      "lng": 35.6833333
+    },
+    {
+      "cityName": "Nhabuto",
+      "lat": -20.4541667,
+      "lng": 33.9863889
+    },
+    {
+      "cityName": "Nhachire",
+      "lat": -18.035,
+      "lng": 34.3752778
+    },
+    {
+      "cityName": "Nhachunga",
+      "lat": -20.5261111,
+      "lng": 33.8138889
+    },
+    {
+      "cityName": "Nhacomba",
+      "lat": -18.6666667,
+      "lng": 35.4166667
+    },
+    {
+      "cityName": "Nhacoro",
+      "lat": -17.2236111,
+      "lng": 34.8447222
+    },
+    {
+      "cityName": "Nhacuecha",
+      "lat": -17.6444444,
+      "lng": 35.1033333
+    },
+    {
+      "cityName": "Nhacureba",
+      "lat": -19.6616667,
+      "lng": 34.0877778
+    },
+    {
+      "cityName": "Nhaganjo",
+      "lat": -20.3213889,
+      "lng": 33.7580556
+    },
+    {
+      "cityName": "Nhagutua",
+      "lat": -18.6633333,
+      "lng": 34.8097222
+    },
+    {
+      "cityName": "Nhalongue",
+      "lat": -20.5477778,
+      "lng": 34.2741667
+    },
+    {
+      "cityName": "Nhamacharenga",
+      "lat": -18.1713889,
+      "lng": 34.4211111
+    },
+    {
+      "cityName": "Nhamachete",
+      "lat": -18.4105556,
+      "lng": 34.3644444
+    },
+    {
+      "cityName": "Nhamachôco",
+      "lat": -18.2738889,
+      "lng": 35.0683333
+    },
+    {
+      "cityName": "Nhamacolomo",
+      "lat": -18.1086111,
+      "lng": 34.4552778
+    },
+    {
+      "cityName": "Nhamacunguene",
+      "lat": -19.2925,
+      "lng": 34.5708333
+    },
+    {
+      "cityName": "Nhamadza",
+      "lat": -18.4763889,
+      "lng": 33.9516667
+    },
+    {
+      "cityName": "Nhamagiua",
+      "lat": -18.7005556,
+      "lng": 36.1202778
+    },
+    {
+      "cityName": "Nhamaiabo",
+      "lat": -20.0830556,
+      "lng": 33.4733333
+    },
+    {
+      "cityName": "Nhamandevo",
+      "lat": -18.0402778,
+      "lng": 35.6311111
+    },
+    {
+      "cityName": "Nhamane",
+      "lat": -20.6866667,
+      "lng": 33.8172222
+    },
+    {
+      "cityName": "Nhamatanda",
+      "lat": -19.2691667,
+      "lng": 34.2127778
+    },
+    {
+      "cityName": "Nhamatope",
+      "lat": -17.1225,
+      "lng": 34.4616667
+    },
+    {
+      "cityName": "Nhambata",
+      "lat": -17.3983333,
+      "lng": 34.7908333
+    },
+    {
+      "cityName": "Nhambuge",
+      "lat": -20.4302778,
+      "lng": 33.6386111
+    },
+    {
+      "cityName": "Nhamdsolonga",
+      "lat": -18.1666667,
+      "lng": 34.4333333
+    },
+    {
+      "cityName": "Nhamecensense",
+      "lat": -18.0341667,
+      "lng": 34.3688889
+    },
+    {
+      "cityName": "Nhamechengüè",
+      "lat": -18.3008333,
+      "lng": 34.4963889
+    },
+    {
+      "cityName": "Nhamedola",
+      "lat": -17.0494444,
+      "lng": 34.8211111
+    },
+    {
+      "cityName": "Nhamefumbe",
+      "lat": -18.5833333,
+      "lng": 35.35
+    },
+    {
+      "cityName": "Nhamendoa",
+      "lat": -20.5316667,
+      "lng": 33.6986111
+    },
+    {
+      "cityName": "Nhamessengue",
+      "lat": -20.6666667,
+      "lng": 33.7666667
+    },
+    {
+      "cityName": "Nhamézua",
+      "lat": -20.3913889,
+      "lng": 33.5775
+    },
+    {
+      "cityName": "Nhamitambo",
+      "lat": -18.8333333,
+      "lng": 35.6833333
+    },
+    {
+      "cityName": "Nhamituio",
+      "lat": -19.0833333,
+      "lng": 34.6
+    },
+    {
+      "cityName": "Nhamizua",
+      "lat": -19.7305556,
+      "lng": 34.8013889
+    },
+    {
+      "cityName": "Nhamo",
+      "lat": -20.5141667,
+      "lng": 34.2933333
+    },
+    {
+      "cityName": "Nhamucia",
+      "lat": -20.0113889,
+      "lng": 34.6380556
+    },
+    {
+      "cityName": "Nhamura",
+      "lat": -18.1166667,
+      "lng": 35.7325
+    },
+    {
+      "cityName": "Nhandere",
+      "lat": -20.1586111,
+      "lng": 33.5861111
+    },
+    {
+      "cityName": "Nhane",
+      "lat": -18.1127778,
+      "lng": 35.8891667
+    },
+    {
+      "cityName": "Nhangau",
+      "lat": -19.7161111,
+      "lng": 35.0122222
+    },
+    {
+      "cityName": "Nhango",
+      "lat": -17.7694444,
+      "lng": 34.3597222
+    },
+    {
+      "cityName": "Nhanguaze",
+      "lat": -18.5858333,
+      "lng": 34.6580556
+    },
+    {
+      "cityName": "Nhanguo",
+      "lat": -19.9166667,
+      "lng": 34.4833333
+    },
+    {
+      "cityName": "Nhantaze",
+      "lat": -18.95,
+      "lng": 34.55
+    },
+    {
+      "cityName": "Nhanzô",
+      "lat": -19.9555556,
+      "lng": 34.2594444
+    },
+    {
+      "cityName": "Nharifumpe",
+      "lat": -17.2355556,
+      "lng": 34.3563889
+    },
+    {
+      "cityName": "Nharuchonga",
+      "lat": -19.2397222,
+      "lng": 34.1230556
+    },
+    {
+      "cityName": "Nharuenha",
+      "lat": -18.55,
+      "lng": 35.2666667
+    },
+    {
+      "cityName": "Nharugue",
+      "lat": -17.3222222,
+      "lng": 34.5388889
+    },
+    {
+      "cityName": "Nhassapo",
+      "lat": -20.5230556,
+      "lng": 33.8702778
+    },
+    {
+      "cityName": "Nhatchica",
+      "lat": -19.3125,
+      "lng": 34.5594444
+    },
+    {
+      "cityName": "Nhaufu",
+      "lat": -19.4,
+      "lng": 34.5833333
+    },
+    {
+      "cityName": "Nhaumecore",
+      "lat": -20.3152778,
+      "lng": 33.5758333
+    },
+    {
+      "cityName": "Nhaumué",
+      "lat": -20.2136111,
+      "lng": 33.7088889
+    },
+    {
+      "cityName": "Nhaussopo",
+      "lat": -17.025,
+      "lng": 34.5961111
+    },
+    {
+      "cityName": "Nheune",
+      "lat": -20.4833333,
+      "lng": 33.8869444
+    },
+    {
+      "cityName": "Nhondima",
+      "lat": -18.6666667,
+      "lng": 34.8833333
+    },
+    {
+      "cityName": "Nhonga",
+      "lat": -17.9519444,
+      "lng": 34.3952778
+    },
+    {
+      "cityName": "Nhumba-Zaiôa",
+      "lat": -18.7563889,
+      "lng": 34.6955556
+    },
+    {
+      "cityName": "Nhumbo",
+      "lat": -17.5330556,
+      "lng": 34.3541667
+    },
+    {
+      "cityName": "Nóta",
+      "lat": -17.6641667,
+      "lng": 34.8666667
+    },
+    {
+      "cityName": "Nova Almada",
+      "lat": -19.8580556,
+      "lng": 34.4627778
+    },
+    {
+      "cityName": "Nova Colares",
+      "lat": -19.9958333,
+      "lng": 34.3005556
+    },
+    {
+      "cityName": "Nova Golegã",
+      "lat": -20.3919444,
+      "lng": 33.9155556
+    },
+    {
+      "cityName": "Nova Leiria",
+      "lat": -20.6591667,
+      "lng": 33.7352778
+    },
+    {
+      "cityName": "Nova Maceira",
+      "lat": -19.6452778,
+      "lng": 34.7527778
+    },
+    {
+      "cityName": "Nova Ourem",
+      "lat": -19.8697222,
+      "lng": 34.0469444
+    },
+    {
+      "cityName": "Oliveira",
+      "lat": -17.6844444,
+      "lng": 34.7858333
+    },
+    {
+      "cityName": "Pachombe",
+      "lat": -17.0127778,
+      "lng": 34.81
+    },
+    {
+      "cityName": "Padabamuè",
+      "lat": -20.1211111,
+      "lng": 34.1505556
+    },
+    {
+      "cityName": "Padua",
+      "lat": -19.5358333,
+      "lng": 34.6366667
+    },
+    {
+      "cityName": "Palame",
+      "lat": -17.4486111,
+      "lng": 34.39
+    },
+    {
+      "cityName": "Panaca",
+      "lat": -19.65,
+      "lng": 35.1166667
+    },
+    {
+      "cityName": "Pandembere",
+      "lat": -20.0822222,
+      "lng": 34.0477778
+    },
+    {
+      "cityName": "Pangache",
+      "lat": -18.4661111,
+      "lng": 34.9477778
+    },
+    {
+      "cityName": "Pangamaio",
+      "lat": -20.2155556,
+      "lng": 34.1444444
+    },
+    {
+      "cityName": "Pangone",
+      "lat": -19.7625,
+      "lng": 34.1305556
+    },
+    {
+      "cityName": "Pango",
+      "lat": -17.5269444,
+      "lng": 35.0675
+    },
+    {
+      "cityName": "Panguete",
+      "lat": -18.9102778,
+      "lng": 34.3233333
+    },
+    {
+      "cityName": "Panja",
+      "lat": -20.0430556,
+      "lng": 34.1622222
+    },
+    {
+      "cityName": "Papozo",
+      "lat": -19.1666667,
+      "lng": 35.0333333
+    },
+    {
+      "cityName": "Parare",
+      "lat": -20.0633333,
+      "lng": 34.4177778
+    },
+    {
+      "cityName": "Parcinga",
+      "lat": -19.7722222,
+      "lng": 33.8766667
+    },
+    {
+      "cityName": "Passalapape",
+      "lat": -18.1833333,
+      "lng": 34.9333333
+    },
+    {
+      "cityName": "Passe",
+      "lat": -20.2855556,
+      "lng": 34.0777778
+    },
+    {
+      "cityName": "Passico",
+      "lat": -17.5683333,
+      "lng": 34.5561111
+    },
+    {
+      "cityName": "Passopa",
+      "lat": -19.065,
+      "lng": 34.1691667
+    },
+    {
+      "cityName": "Pataias",
+      "lat": -18.4813889,
+      "lng": 35.3997222
+    },
+    {
+      "cityName": "Paulino",
+      "lat": -18.5333333,
+      "lng": 35.2333333
+    },
+    {
+      "cityName": "Paulo",
+      "lat": -20.3475,
+      "lng": 33.5677778
+    },
+    {
+      "cityName": "Paunde",
+      "lat": -20.92,
+      "lng": 33.9655556
+    },
+    {
+      "cityName": "Pavúa",
+      "lat": -18.9419444,
+      "lng": 34.0591667
+    },
+    {
+      "cityName": "Paza",
+      "lat": -17.8536111,
+      "lng": 35.2455556
+    },
+    {
+      "cityName": "Pedreira",
+      "lat": -19.2547222,
+      "lng": 34.0555556
+    },
+    {
+      "cityName": "Pedro",
+      "lat": -19.3216667,
+      "lng": 34.3177778
+    },
+    {
+      "cityName": "Pemene Chibila",
+      "lat": -20.9769444,
+      "lng": 34.5838889
+    },
+    {
+      "cityName": "Pemene",
+      "lat": -21.1255556,
+      "lng": 34.5391667
+    },
+    {
+      "cityName": "Penete",
+      "lat": -20.3019444,
+      "lng": 34.0683333
+    },
+    {
+      "cityName": "Penicela",
+      "lat": -20.2391667,
+      "lng": 34.1625
+    },
+    {
+      "cityName": "Penzane",
+      "lat": -18.7794444,
+      "lng": 34.0452778
+    },
+    {
+      "cityName": "Perenha",
+      "lat": -18.6772222,
+      "lng": 34.0133333
+    },
+    {
+      "cityName": "Peto",
+      "lat": -20.4225,
+      "lng": 33.6527778
+    },
+    {
+      "cityName": "Petroled",
+      "lat": -18.3038889,
+      "lng": 34.8977778
+    },
+    {
+      "cityName": "Peupo",
+      "lat": -19.1858333,
+      "lng": 34.4547222
+    },
+    {
+      "cityName": "Pimbe",
+      "lat": -19.7525,
+      "lng": 34.9047222
+    },
+    {
+      "cityName": "Pindilire",
+      "lat": -17.4663889,
+      "lng": 34.84
+    },
+    {
+      "cityName": "Pinho",
+      "lat": -18.2797222,
+      "lng": 35.8877778
+    },
+    {
+      "cityName": "Piro",
+      "lat": -18.3627778,
+      "lng": 34.3908333
+    },
+    {
+      "cityName": "Ponda",
+      "lat": -17.8613889,
+      "lng": 35.3508333
+    },
+    {
+      "cityName": "Pondo",
+      "lat": -20.2936111,
+      "lng": 34.2166667
+    },
+    {
+      "cityName": "Pontage",
+      "lat": -19.8036111,
+      "lng": 34.9358333
+    },
+    {
+      "cityName": "Ponte do Púngoè",
+      "lat": -19.4747222,
+      "lng": 34.5191667
+    },
+    {
+      "cityName": "Potame",
+      "lat": -17.1458333,
+      "lng": 34.4552778
+    },
+    {
+      "cityName": "Prafino",
+      "lat": -18.3891667,
+      "lng": 35.0508333
+    },
+    {
+      "cityName": "Promeiro",
+      "lat": -18.8044444,
+      "lng": 33.93
+    },
+    {
+      "cityName": "Psiche",
+      "lat": -17.8427778,
+      "lng": 34.3430556
+    },
+    {
+      "cityName": "Pungo",
+      "lat": -17.3186111,
+      "lng": 34.9358333
+    },
+    {
+      "cityName": "Púnguè",
+      "lat": -17.9741667,
+      "lng": 35.1447222
+    },
+    {
+      "cityName": "Punha",
+      "lat": -21.2925,
+      "lng": 34.0377778
+    },
+    {
+      "cityName": "Punzane",
+      "lat": -17.3966667,
+      "lng": 34.6141667
+    },
+    {
+      "cityName": "Quatine",
+      "lat": -20.9513889,
+      "lng": 34.4761111
+    },
+    {
+      "cityName": "Québese",
+      "lat": -20.6625,
+      "lng": 34.0919444
+    },
+    {
+      "cityName": "Quemba",
+      "lat": -18.55,
+      "lng": 33.9
+    },
+    {
+      "cityName": "Quembo",
+      "lat": -17.8236111,
+      "lng": 35.2316667
+    },
+    {
+      "cityName": "Quimbine",
+      "lat": -18.0575,
+      "lng": 34.9505556
+    },
+    {
+      "cityName": "Quissemusse",
+      "lat": -21.1705556,
+      "lng": 34.4516667
+    },
+    {
+      "cityName": "Quissimisse",
+      "lat": -19.1502778,
+      "lng": 34.4352778
+    },
+    {
+      "cityName": "Rapeia Preso",
+      "lat": -20.0152778,
+      "lng": 34.7116667
+    },
+    {
+      "cityName": "Raposo",
+      "lat": -18.7166667,
+      "lng": 35.4166667
+    },
+    {
+      "cityName": "Razão",
+      "lat": -20.4555556,
+      "lng": 33.6530556
+    },
+    {
+      "cityName": "Razau",
+      "lat": -19.55,
+      "lng": 35.1666667
+    },
+    {
+      "cityName": "Recado",
+      "lat": -18.75,
+      "lng": 36.1833333
+    },
+    {
+      "cityName": "Rega",
+      "lat": -18.9891667,
+      "lng": 34.1319444
+    },
+    {
+      "cityName": "Régulo Beipeia",
+      "lat": -21.065,
+      "lng": 34.815
+    },
+    {
+      "cityName": "Régulo Zimuala",
+      "lat": -21.0980556,
+      "lng": 34.5891667
+    },
+    {
+      "cityName": "Ressamo",
+      "lat": -20.2675,
+      "lng": 33.6991667
+    },
+    {
+      "cityName": "Roda",
+      "lat": -18.9666667,
+      "lng": 35.5666667
+    },
+    {
+      "cityName": "Roque",
+      "lat": -18.7372222,
+      "lng": 34.3691667
+    },
+    {
+      "cityName": "Rovuma",
+      "lat": -20.5122222,
+      "lng": 33.7030556
+    },
+    {
+      "cityName": "Rucato",
+      "lat": -19.7322222,
+      "lng": 34.0527778
+    },
+    {
+      "cityName": "Rumo",
+      "lat": -17.3808333,
+      "lng": 34.4380556
+    },
+    {
+      "cityName": "Rupia",
+      "lat": -19.2986111,
+      "lng": 35.4941667
+    },
+    {
+      "cityName": "Sabão",
+      "lat": -18.6344444,
+      "lng": 34.3619444
+    },
+    {
+      "cityName": "Sabonete",
+      "lat": -18.3258333,
+      "lng": 34.0897222
+    },
+    {
+      "cityName": "Sabunga",
+      "lat": -18.6344444,
+      "lng": 34.3872222
+    },
+    {
+      "cityName": "Sacapena",
+      "lat": -18.2930556,
+      "lng": 34.8088889
+    },
+    {
+      "cityName": "Sachombe",
+      "lat": -17.7197222,
+      "lng": 35.2619444
+    },
+    {
+      "cityName": "Sacóche",
+      "lat": -17.8986111,
+      "lng": 34.9630556
+    },
+    {
+      "cityName": "Sacondia",
+      "lat": -18.9477778,
+      "lng": 35.1672222
+    },
+    {
+      "cityName": "Sadjunjira",
+      "lat": -18.3991667,
+      "lng": 34.2966667
+    },
+    {
+      "cityName": "Safuli",
+      "lat": -18.7116667,
+      "lng": 36.1066667
+    },
+    {
+      "cityName": "Salemune",
+      "lat": -21.2588889,
+      "lng": 34.2061111
+    },
+    {
+      "cityName": "Salone",
+      "lat": -18.1666667,
+      "lng": 35.7833333
+    },
+    {
+      "cityName": "Samatera",
+      "lat": -17.9044444,
+      "lng": 34.3586111
+    },
+    {
+      "cityName": "Samboco",
+      "lat": -21.25,
+      "lng": 34.25
+    },
+    {
+      "cityName": "Sambo",
+      "lat": -18.2402778,
+      "lng": 35.7352778
+    },
+    {
+      "cityName": "Samo",
+      "lat": -18.1230556,
+      "lng": 34.8680556
+    },
+    {
+      "cityName": "Sanânhere",
+      "lat": -20.3286111,
+      "lng": 34.6294444
+    },
+    {
+      "cityName": "Sança",
+      "lat": -17.2175,
+      "lng": 34.3633333
+    },
+    {
+      "cityName": "Sandália",
+      "lat": -18.5875,
+      "lng": 35.2
+    },
+    {
+      "cityName": "Sande",
+      "lat": -18.4333333,
+      "lng": 35.4833333
+    },
+    {
+      "cityName": "Sandoanjira",
+      "lat": -18.7516667,
+      "lng": 34.2722222
+    },
+    {
+      "cityName": "Sando",
+      "lat": -17.9577778,
+      "lng": 34.6502778
+    },
+    {
+      "cityName": "Sangadze",
+      "lat": -17.4413889,
+      "lng": 34.9422222
+    },
+    {
+      "cityName": "Sanga",
+      "lat": -18.6252778,
+      "lng": 35.3263889
+    },
+    {
+      "cityName": "Sangoma",
+      "lat": -17.6291667,
+      "lng": 35.1311111
+    },
+    {
+      "cityName": "Sangombe",
+      "lat": -17.6808333,
+      "lng": 35.0011111
+    },
+    {
+      "cityName": "Sangue",
+      "lat": -20.6591667,
+      "lng": 33.7569444
+    },
+    {
+      "cityName": "Sanhachoco",
+      "lat": -18.9755556,
+      "lng": 34.1641667
+    },
+    {
+      "cityName": "Sanhaússo",
+      "lat": -17.855,
+      "lng": 34.4763889
+    },
+    {
+      "cityName": "Santa Fe",
+      "lat": -18.4672222,
+      "lng": 34.9894444
+    },
+    {
+      "cityName": "Santove",
+      "lat": -18.02,
+      "lng": 35.1141667
+    },
+    {
+      "cityName": "Sãogene",
+      "lat": -18.4991667,
+      "lng": 34.4716667
+    },
+    {
+      "cityName": "Savane",
+      "lat": -19.3833333,
+      "lng": 34.7122222
+    },
+    {
+      "cityName": "Secundanhe",
+      "lat": -20.8211111,
+      "lng": 34.4180556
+    },
+    {
+      "cityName": "Seda",
+      "lat": -19.0333333,
+      "lng": 35.1
+    },
+    {
+      "cityName": "Semacueza",
+      "lat": -19.2102778,
+      "lng": 34.7236111
+    },
+    {
+      "cityName": "Semba",
+      "lat": -19.7333333,
+      "lng": 35
+    },
+    {
+      "cityName": "Semende",
+      "lat": -20.9858333,
+      "lng": 33.9827778
+    },
+    {
+      "cityName": "Semente",
+      "lat": -17.6122222,
+      "lng": 35.0355556
+    },
+    {
+      "cityName": "Semo",
+      "lat": -18.8833333,
+      "lng": 35.8
+    },
+    {
+      "cityName": "Senancumbe",
+      "lat": -18.1494444,
+      "lng": 35.8094444
+    },
+    {
+      "cityName": "Sena",
+      "lat": -17.4416667,
+      "lng": 35.0272222
+    },
+    {
+      "cityName": "Senetisse",
+      "lat": -20.3355556,
+      "lng": 34.0083333
+    },
+    {
+      "cityName": "Sengalane",
+      "lat": -21.0375,
+      "lng": 34.0955556
+    },
+    {
+      "cityName": "Senga-Senga",
+      "lat": -17.3161111,
+      "lng": 34.2841667
+    },
+    {
+      "cityName": "Sengo-Senge",
+      "lat": -18.8327778,
+      "lng": 34.0225
+    },
+    {
+      "cityName": "Sengueredo",
+      "lat": -18.9,
+      "lng": 35.9333333
+    },
+    {
+      "cityName": "Serração Metocheria Sol",
+      "lat": -18.6722222,
+      "lng": 34.7138889
+    },
+    {
+      "cityName": "Sevene",
+      "lat": -21.2416667,
+      "lng": 34.1080556
+    },
+    {
+      "cityName": "Seventine",
+      "lat": -21.1175,
+      "lng": 34.1475
+    },
+    {
+      "cityName": "Siambi",
+      "lat": -21.0958333,
+      "lng": 34.7638889
+    },
+    {
+      "cityName": "Silva Costa",
+      "lat": -19.7333333,
+      "lng": 34.7666667
+    },
+    {
+      "cityName": "Simanco",
+      "lat": -21.2966667,
+      "lng": 34.3372222
+    },
+    {
+      "cityName": "Sima",
+      "lat": -18.5936111,
+      "lng": 34.5422222
+    },
+    {
+      "cityName": "Simbe",
+      "lat": -18.95,
+      "lng": 35.1333333
+    },
+    {
+      "cityName": "Sinacoza",
+      "lat": -17.4408333,
+      "lng": 34.8416667
+    },
+    {
+      "cityName": "Sinava",
+      "lat": -21.2702778,
+      "lng": 34.3625
+    },
+    {
+      "cityName": "Soiana",
+      "lat": -20.1286111,
+      "lng": 34.1502778
+    },
+    {
+      "cityName": "Sombreiro",
+      "lat": -17.8647222,
+      "lng": 35.2938889
+    },
+    {
+      "cityName": "Sombrero",
+      "lat": -18.7052778,
+      "lng": 34.0344444
+    },
+    {
+      "cityName": "Sone",
+      "lat": -17.3305556,
+      "lng": 34.9791667
+    },
+    {
+      "cityName": "Sototo",
+      "lat": -19.7444444,
+      "lng": 34.0444444
+    },
+    {
+      "cityName": "Souce",
+      "lat": -18.3397222,
+      "lng": 35.0230556
+    },
+    {
+      "cityName": "Sougides",
+      "lat": -19.3380556,
+      "lng": 34.3494444
+    },
+    {
+      "cityName": "S P do Revué",
+      "lat": -19.0513889,
+      "lng": 34.1763889
+    },
+    {
+      "cityName": "Suare",
+      "lat": -17.2547222,
+      "lng": 34.9336111
+    },
+    {
+      "cityName": "Sua-Zamambo",
+      "lat": -18.6333333,
+      "lng": 34.7666667
+    },
+    {
+      "cityName": "Sucudona",
+      "lat": -19.8516667,
+      "lng": 33.9177778
+    },
+    {
+      "cityName": "Suculeza",
+      "lat": -20.3733333,
+      "lng": 33.8783333
+    },
+    {
+      "cityName": "Sunhamo",
+      "lat": -20.5752778,
+      "lng": 34.4697222
+    },
+    {
+      "cityName": "Supeja",
+      "lat": -20.0208333,
+      "lng": 33.6786111
+    },
+    {
+      "cityName": "Sussa",
+      "lat": -19.1830556,
+      "lng": 34.4194444
+    },
+    {
+      "cityName": "Susse",
+      "lat": -17.3058333,
+      "lng": 34.9533333
+    },
+    {
+      "cityName": "Sussoto",
+      "lat": -17.4561111,
+      "lng": 34.7094444
+    },
+    {
+      "cityName": "Suzuma",
+      "lat": -18.0594444,
+      "lng": 35.6677778
+    },
+    {
+      "cityName": "Tabua",
+      "lat": -17.6572222,
+      "lng": 34.31
+    },
+    {
+      "cityName": "Tafula",
+      "lat": -20.2972222,
+      "lng": 33.5619444
+    },
+    {
+      "cityName": "Tama",
+      "lat": -19.5333333,
+      "lng": 35.3
+    },
+    {
+      "cityName": "Tambarara",
+      "lat": -18.6708333,
+      "lng": 34.0983333
+    },
+    {
+      "cityName": "Tambo",
+      "lat": -17.9730556,
+      "lng": 34.3347222
+    },
+    {
+      "cityName": "Tandigua",
+      "lat": -18.0705556,
+      "lng": 35.7075
+    },
+    {
+      "cityName": "Tandique",
+      "lat": -20.3627778,
+      "lng": 34.0969444
+    },
+    {
+      "cityName": "Tangata",
+      "lat": -17.2122222,
+      "lng": 34.3666667
+    },
+    {
+      "cityName": "Tangua",
+      "lat": -20.0308333,
+      "lng": 33.86
+    },
+    {
+      "cityName": "Tangue",
+      "lat": -20.9466667,
+      "lng": 34.4752778
+    },
+    {
+      "cityName": "Tanguiracase",
+      "lat": -17.6988889,
+      "lng": 34.4480556
+    },
+    {
+      "cityName": "Tauzene",
+      "lat": -20.4861111,
+      "lng": 33.6913889
+    },
+    {
+      "cityName": "Tavachoma",
+      "lat": -20.0719444,
+      "lng": 33.9480556
+    },
+    {
+      "cityName": "Tavira",
+      "lat": -20.0966667,
+      "lng": 33.8952778
+    },
+    {
+      "cityName": "Tchimene Simango",
+      "lat": -20.8261111,
+      "lng": 34.6516667
+    },
+    {
+      "cityName": "Tebo",
+      "lat": -17.79,
+      "lng": 34.3511111
+    },
+    {
+      "cityName": "Temacungo",
+      "lat": -17.2008333,
+      "lng": 34.3583333
+    },
+    {
+      "cityName": "Tepe",
+      "lat": -20.5708333,
+      "lng": 33.8855556
+    },
+    {
+      "cityName": "Tesoura",
+      "lat": -18.5,
+      "lng": 35.2
+    },
+    {
+      "cityName": "Tesse",
+      "lat": -17.49,
+      "lng": 34.9616667
+    },
+    {
+      "cityName": "Tica",
+      "lat": -19.2283333,
+      "lng": 34.4344444
+    },
+    {
+      "cityName": "Timba",
+      "lat": -20.0980556,
+      "lng": 33.7897222
+    },
+    {
+      "cityName": "Timesane",
+      "lat": -17.2411111,
+      "lng": 34.8072222
+    },
+    {
+      "cityName": "Time",
+      "lat": -20.4977778,
+      "lng": 33.6627778
+    },
+    {
+      "cityName": "Tito",
+      "lat": -18.1208333,
+      "lng": 34.8933333
+    },
+    {
+      "cityName": "Toboa",
+      "lat": -18.2780556,
+      "lng": 35.9127778
+    },
+    {
+      "cityName": "Tocuta",
+      "lat": -17.7727778,
+      "lng": 34.3725
+    },
+    {
+      "cityName": "Tole",
+      "lat": -17.7411111,
+      "lng": 34.3213889
+    },
+    {
+      "cityName": "Tomaz",
+      "lat": -20.5194444,
+      "lng": 33.6769444
+    },
+    {
+      "cityName": "Tomecena",
+      "lat": -17.3102778,
+      "lng": 34.6913889
+    },
+    {
+      "cityName": "Tomeceni",
+      "lat": -17.1202778,
+      "lng": 34.7766667
+    },
+    {
+      "cityName": "Tomedembe",
+      "lat": -18.2333333,
+      "lng": 35.8666667
+    },
+    {
+      "cityName": "Tondo",
+      "lat": -17.58,
+      "lng": 34.25
+    },
+    {
+      "cityName": "Tonganhe Machava",
+      "lat": -20.8227778,
+      "lng": 34.6222222
+    },
+    {
+      "cityName": "Tongo",
+      "lat": -18.2755556,
+      "lng": 34.0363889
+    },
+    {
+      "cityName": "Torcida",
+      "lat": -19.6333333,
+      "lng": 34.8833333
+    },
+    {
+      "cityName": "Toronga",
+      "lat": -20.0886111,
+      "lng": 33.7883333
+    },
+    {
+      "cityName": "Tote",
+      "lat": -19.5333333,
+      "lng": 35.15
+    },
+    {
+      "cityName": "Tozo",
+      "lat": -18.3333333,
+      "lng": 35.4833333
+    },
+    {
+      "cityName": "Traquino",
+      "lat": -18.4794444,
+      "lng": 34.49
+    },
+    {
+      "cityName": "Trindade",
+      "lat": -20.1,
+      "lng": 33.8
+    },
+    {
+      "cityName": "Tufola",
+      "lat": -18.0722222,
+      "lng": 34.9519444
+    },
+    {
+      "cityName": "Tumbane",
+      "lat": -21.2013889,
+      "lng": 34.4425
+    },
+    {
+      "cityName": "Tunda",
+      "lat": -19.7561111,
+      "lng": 34.8825
+    },
+    {
+      "cityName": "Uaatche",
+      "lat": -21.0061111,
+      "lng": 34.9072222
+    },
+    {
+      "cityName": "Uaene",
+      "lat": -20.075,
+      "lng": 33.4816667
+    },
+    {
+      "cityName": "Uanchite",
+      "lat": -17.2694444,
+      "lng": 34.3238889
+    },
+    {
+      "cityName": "Ubar",
+      "lat": -17.6333333,
+      "lng": 34.8838889
+    },
+    {
+      "cityName": "Uchuane",
+      "lat": -21.1597222,
+      "lng": 34.3897222
+    },
+    {
+      "cityName": "Ufanomaia",
+      "lat": -20.3183333,
+      "lng": 34.0672222
+    },
+    {
+      "cityName": "Unae",
+      "lat": -20.0083333,
+      "lng": 33.9888889
+    },
+    {
+      "cityName": "Urema",
+      "lat": -18.9855556,
+      "lng": 34.5736111
+    },
+    {
+      "cityName": "Usseca",
+      "lat": -20.3302778,
+      "lng": 34.1883333
+    },
+    {
+      "cityName": "Vade",
+      "lat": -19.7925,
+      "lng": 34.8752778
+    },
+    {
+      "cityName": "Vale Chassapa",
+      "lat": -18.4,
+      "lng": 35.5833333
+    },
+    {
+      "cityName": "Valente",
+      "lat": -18.2530556,
+      "lng": 35.8616667
+    },
+    {
+      "cityName": "Vanduzi",
+      "lat": -18.4802778,
+      "lng": 34.2091667
+    },
+    {
+      "cityName": "Vassoura",
+      "lat": -20.0913889,
+      "lng": 34.1527778
+    },
+    {
+      "cityName": "Velocanhe",
+      "lat": -20.1755556,
+      "lng": 34.1505556
+    },
+    {
+      "cityName": "Veremo",
+      "lat": -19.8366667,
+      "lng": 33.9594444
+    },
+    {
+      "cityName": "Veriquize",
+      "lat": -19.1908333,
+      "lng": 35.5561111
+    },
+    {
+      "cityName": "Viana Do Zambeze",
+      "lat": -18.7625,
+      "lng": 36.2313889
+    },
+    {
+      "cityName": "Vicente",
+      "lat": -17.8727778,
+      "lng": 34.8097222
+    },
+    {
+      "cityName": "Vila Arriaga",
+      "lat": -19.8811111,
+      "lng": 34.5791667
+    },
+    {
+      "cityName": "Vila Fontes Velha",
+      "lat": -17.8191667,
+      "lng": 35.3825
+    },
+    {
+      "cityName": "Vila Massano",
+      "lat": -19.7666667,
+      "lng": 34.8666667
+    },
+    {
+      "cityName": "Vinho",
+      "lat": -18.6055556,
+      "lng": 34.3372222
+    },
+    {
+      "cityName": "Vontade",
+      "lat": -17.2838889,
+      "lng": 34.7319444
+    },
+    {
+      "cityName": "Vumbira",
+      "lat": -20.3933333,
+      "lng": 34.1797222
+    },
+    {
+      "cityName": "Vumbo",
+      "lat": -20.4547222,
+      "lng": 34.0033333
+    },
+    {
+      "cityName": "Vumonhe",
+      "lat": -20.4963889,
+      "lng": 34.2341667
+    },
+    {
+      "cityName": "Xaué",
+      "lat": -19.1666667,
+      "lng": 34.45
+    },
+    {
+      "cityName": "Xavier",
+      "lat": -17.3011111,
+      "lng": 34.7172222
+    },
+    {
+      "cityName": "Xerene",
+      "lat": -19.0736111,
+      "lng": 34.2647222
+    },
+    {
+      "cityName": "Xiluvo",
+      "lat": -19.2488889,
+      "lng": 34.0483333
+    },
+    {
+      "cityName": "Ximana",
+      "lat": -19.3844444,
+      "lng": 33.9644444
+    },
+    {
+      "cityName": "Ximuara",
+      "lat": -17.8,
+      "lng": 35.3666667
+    },
+    {
+      "cityName": "Zacarias",
+      "lat": -21.2158333,
+      "lng": 34.0327778
+    },
+    {
+      "cityName": "Zambo",
+      "lat": -21.2855556,
+      "lng": 34.0622222
+    },
+    {
+      "cityName": "Zangarote",
+      "lat": -18.5841667,
+      "lng": 36.16
+    },
+    {
+      "cityName": "Zangue",
+      "lat": -17.9361111,
+      "lng": 35.2630556
+    },
+    {
+      "cityName": "Zaquene",
+      "lat": -21.2575,
+      "lng": 34.3847222
+    },
+    {
+      "cityName": "Zeja",
+      "lat": -20.6222222,
+      "lng": 33.7741667
+    },
+    {
+      "cityName": "Zembe",
+      "lat": -18.2666667,
+      "lng": 35.0833333
+    },
+    {
+      "cityName": "Zenembe",
+      "lat": -18.8769444,
+      "lng": 33.9691667
+    },
+    {
+      "cityName": "Zeno",
+      "lat": -20.6702778,
+      "lng": 33.7316667
+    },
+    {
+      "cityName": "Ziaduma",
+      "lat": -20.6447222,
+      "lng": 33.7927778
+    },
+    {
+      "cityName": "Ziamechia",
+      "lat": -20.4675,
+      "lng": 33.985
+    },
+    {
+      "cityName": "Zicruma",
+      "lat": -20.23,
+      "lng": 34.2525
+    },
+    {
+      "cityName": "Zimbanda",
+      "lat": -20.4761111,
+      "lng": 33.8680556
+    },
+    {
+      "cityName": "Zimbau",
+      "lat": -17.7952778,
+      "lng": 35.3580556
+    },
+    {
+      "cityName": "Zimbusse",
+      "lat": -20.2580556,
+      "lng": 33.8741667
+    },
+    {
+      "cityName": "Zimuala",
+      "lat": -21.1130556,
+      "lng": 34.6005556
+    },
+    {
+      "cityName": "Zimucacaça",
+      "lat": -20.0933333,
+      "lng": 34.1469444
+    },
+    {
+      "cityName": "Zingane",
+      "lat": -20.66,
+      "lng": 33.7663889
+    },
+    {
+      "cityName": "Zingue",
+      "lat": -17.9455556,
+      "lng": 34.3688889
+    },
+    {
+      "cityName": "Zinhangadejo",
+      "lat": -20.8388889,
+      "lng": 34.0411111
+    },
+    {
+      "cityName": "Zinharimue",
+      "lat": -19.9930556,
+      "lng": 33.9272222
+    },
+    {
+      "cityName": "Zinocuva",
+      "lat": -20.1083333,
+      "lng": 34.5597222
+    },
+    {
+      "cityName": "Zinzana",
+      "lat": -19.1716667,
+      "lng": 34.4563889
+    },
+    {
+      "cityName": "Zivananhe",
+      "lat": -20.3805556,
+      "lng": 34.1127778
+    },
+    {
+      "cityName": "Zó",
+      "lat": -17.935,
+      "lng": 35.4355556
+    },
+    {
+      "cityName": "Zuchuane",
+      "lat": -20.7336111,
+      "lng": 33.9813889
+    },
+    {
+      "cityName": "Zune",
+      "lat": -18.9672222,
+      "lng": 35.2775
+    }
+  ]
+}

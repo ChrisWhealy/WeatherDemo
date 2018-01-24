@@ -1,0 +1,79 @@
+{
+  "name": "El Salvador",
+  "iso2": "sv",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Ahuachapan",
+      "id": 0
+    },
+    {
+      "name": "Cabanas",
+      "id": 1
+    },
+    {
+      "name": "Chalatenango",
+      "id": 2
+    },
+    {
+      "name": "Cuscatlan",
+      "id": 3
+    },
+    {
+      "name": "La Libertad",
+      "id": 4
+    },
+    {
+      "name": "La Paz",
+      "id": 5
+    },
+    {
+      "name": "La Union",
+      "id": 6
+    },
+    {
+      "name": "Morazan",
+      "id": 7
+    },
+    {
+      "name": "San Miguel",
+      "id": 8
+    },
+    {
+      "name": "San Salvador",
+      "id": 9
+    },
+    {
+      "name": "San Vicente",
+      "id": 10
+    },
+    {
+      "name": "Santa Ana",
+      "id": 11
+    },
+    {
+      "name": "Sonsonate",
+      "id": 12
+    },
+    {
+      "name": "Usulutan",
+      "id": 13
+    }
+  ],
+  "geoRectangle": {
+    "West": -90.1286697388,
+    "East": -87.6921539307,
+    "North": 14.4450683594,
+    "South": 13.1486778259
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -6,
+    "Flg": 2,
+    "Name": "San Salvador",
+    "GeoPt": [
+      13.42,
+      -89.12
+    ]
+  }
+}

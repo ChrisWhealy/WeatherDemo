@@ -1,0 +1,810 @@
+{
+  "name": "Quetzaltenango",
+  "cities": [
+    {
+      "cityName": "Agua Blanca",
+      "lat": 14.8666667,
+      "lng": -91.7166667
+    },
+    {
+      "cityName": "Agua Caliente",
+      "lat": 15.1333333,
+      "lng": -91.5666667
+    },
+    {
+      "cityName": "Agua Tibia",
+      "lat": 14.8666667,
+      "lng": -91.6166667
+    },
+    {
+      "cityName": "Almolonga",
+      "lat": 14.8166667,
+      "lng": -91.5
+    },
+    {
+      "cityName": "Almorzadero",
+      "lat": 14.7833333,
+      "lng": -91.6833333
+    },
+    {
+      "cityName": "Asunción",
+      "lat": 14.9166667,
+      "lng": -91.7
+    },
+    {
+      "cityName": "Barrios",
+      "lat": 14.65,
+      "lng": -91.8833333
+    },
+    {
+      "cityName": "Bethania",
+      "lat": 14.6833333,
+      "lng": -91.9666667
+    },
+    {
+      "cityName": "Bolívar",
+      "lat": 14.5666667,
+      "lng": -91.85
+    },
+    {
+      "cityName": "Buena Vista",
+      "lat": 14.8833333,
+      "lng": -91.65
+    },
+    {
+      "cityName": "Cabricán",
+      "lat": 15.1333333,
+      "lng": -91.6166667
+    },
+    {
+      "cityName": "Cajolá",
+      "lat": 14.9166667,
+      "lng": -91.6166667
+    },
+    {
+      "cityName": "Cajolá Chiquito",
+      "lat": 14.9333333,
+      "lng": -91.6
+    },
+    {
+      "cityName": "Calel",
+      "lat": 15.0666667,
+      "lng": -91.5666667
+    },
+    {
+      "cityName": "Cantel",
+      "lat": 14.8166667,
+      "lng": -91.45
+    },
+    {
+      "cityName": "Castaño",
+      "lat": 14.5333333,
+      "lng": -91.8333333
+    },
+    {
+      "cityName": "Chanchil",
+      "lat": 14.8833333,
+      "lng": -91.7333333
+    },
+    {
+      "cityName": "Chicalajá",
+      "lat": 14.8833333,
+      "lng": -91.4833333
+    },
+    {
+      "cityName": "Chicavioc",
+      "lat": 14.7833333,
+      "lng": -91.5333333
+    },
+    {
+      "cityName": "Chichihuitán",
+      "lat": 14.8333333,
+      "lng": -91.4666667
+    },
+    {
+      "cityName": "Chiquibal",
+      "lat": 15.1666667,
+      "lng": -91.55
+    },
+    {
+      "cityName": "Chirijquiac",
+      "lat": 14.8333333,
+      "lng": -91.4166667
+    },
+    {
+      "cityName": "Chitay",
+      "lat": 14.85,
+      "lng": -91.4833333
+    },
+    {
+      "cityName": "Chitux",
+      "lat": 14.85,
+      "lng": -91.5666667
+    },
+    {
+      "cityName": "Chocantel",
+      "lat": 14.8166667,
+      "lng": -91.4833333
+    },
+    {
+      "cityName": "Choquí",
+      "lat": 14.85,
+      "lng": -91.5
+    },
+    {
+      "cityName": "Chuatuj",
+      "lat": 14.9833333,
+      "lng": -91.6
+    },
+    {
+      "cityName": "Chuestancia",
+      "lat": 14.9333333,
+      "lng": -91.5333333
+    },
+    {
+      "cityName": "Chuicabal",
+      "lat": 14.9833333,
+      "lng": -91.6666667
+    },
+    {
+      "cityName": "Chuitziquiná",
+      "lat": 14.7666667,
+      "lng": -91.4833333
+    },
+    {
+      "cityName": "Chuitzuribal",
+      "lat": 14.7833333,
+      "lng": -91.45
+    },
+    {
+      "cityName": "Coatepeque",
+      "lat": 14.7,
+      "lng": -91.8666667
+    },
+    {
+      "cityName": "Colomba",
+      "lat": 14.7166667,
+      "lng": -91.7333333
+    },
+    {
+      "cityName": "Colón",
+      "lat": 14.6166667,
+      "lng": -91.95
+    },
+    {
+      "cityName": "Colonia Chiquita",
+      "lat": 14.9833333,
+      "lng": -91.6833333
+    },
+    {
+      "cityName": "Concepción Chiquirichapa",
+      "lat": 14.85,
+      "lng": -91.6166667
+    },
+    {
+      "cityName": "Corinto Chiquito",
+      "lat": 14.5666667,
+      "lng": -91.9333333
+    },
+    {
+      "cityName": "Cruz de Ajpop",
+      "lat": 14.8666667,
+      "lng": -91.6833333
+    },
+    {
+      "cityName": "Cumbre de Tuilacán",
+      "lat": 14.8,
+      "lng": -91.6666667
+    },
+    {
+      "cityName": "El Adelanto",
+      "lat": 14.8666667,
+      "lng": -91.5666667
+    },
+    {
+      "cityName": "El Aguacate",
+      "lat": 14.85,
+      "lng": -91.6333333
+    },
+    {
+      "cityName": "El Crucero",
+      "lat": 14.6833333,
+      "lng": -92.05
+    },
+    {
+      "cityName": "El Edén",
+      "lat": 14.95,
+      "lng": -91.6666667
+    },
+    {
+      "cityName": "El Llano",
+      "lat": 14.9,
+      "lng": -91.6166667
+    },
+    {
+      "cityName": "El Manatial",
+      "lat": 14.6333333,
+      "lng": -91.8333333
+    },
+    {
+      "cityName": "El Palmar",
+      "lat": 14.65,
+      "lng": -91.5833333
+    },
+    {
+      "cityName": "El Panorama",
+      "lat": 14.95,
+      "lng": -91.5833333
+    },
+    {
+      "cityName": "El Pomal",
+      "lat": 14.5438889,
+      "lng": -92.0019444
+    },
+    {
+      "cityName": "El Refugio",
+      "lat": 14.6666667,
+      "lng": -91.9
+    },
+    {
+      "cityName": "El Relicario",
+      "lat": 14.7,
+      "lng": -92.0333333
+    },
+    {
+      "cityName": "El Reparo",
+      "lat": 14.5994444,
+      "lng": -92.0491667
+    },
+    {
+      "cityName": "El Rinconcito",
+      "lat": 14.8,
+      "lng": -91.6833333
+    },
+    {
+      "cityName": "El Rincón",
+      "lat": 14.8166667,
+      "lng": -91.6833333
+    },
+    {
+      "cityName": "El Rodeo",
+      "lat": 15,
+      "lng": -91.5833333
+    },
+    {
+      "cityName": "El Rosario",
+      "lat": 14.55,
+      "lng": -91.8833333
+    },
+    {
+      "cityName": "El Silencio",
+      "lat": 14.6833333,
+      "lng": -91.9
+    },
+    {
+      "cityName": "El Tizate",
+      "lat": 14.9,
+      "lng": -91.6833333
+    },
+    {
+      "cityName": "El Troje",
+      "lat": 14.5833333,
+      "lng": -91.9666667
+    },
+    {
+      "cityName": "Estancia-de-Luciana-Cruz",
+      "lat": 14.75,
+      "lng": -91.5166667
+    },
+    {
+      "cityName": "Estancia Vieja",
+      "lat": 14.9166667,
+      "lng": -91.6666667
+    },
+    {
+      "cityName": "Excomuchá",
+      "lat": 14.8666667,
+      "lng": -91.6333333
+    },
+    {
+      "cityName": "Finca El Rosario Tininhuitz",
+      "lat": 14.75,
+      "lng": -91.6833333
+    },
+    {
+      "cityName": "Finca Las Delicias",
+      "lat": 14.6833333,
+      "lng": -91.8166667
+    },
+    {
+      "cityName": "Finca Las Mercedes",
+      "lat": 14.7,
+      "lng": -91.7666667
+    },
+    {
+      "cityName": "Finca San Juan Patzulín",
+      "lat": 14.7,
+      "lng": -91.55
+    },
+    {
+      "cityName": "Flores Costa Cuca",
+      "lat": 14.65,
+      "lng": -91.8166667
+    },
+    {
+      "cityName": "Gálvez",
+      "lat": 14.6666667,
+      "lng": -91.8333333
+    },
+    {
+      "cityName": "Garibaldi",
+      "lat": 14.85,
+      "lng": -91.5333333
+    },
+    {
+      "cityName": "Génova",
+      "lat": 14.6166667,
+      "lng": -91.8333333
+    },
+    {
+      "cityName": "Granados",
+      "lat": 14.65,
+      "lng": -91.8666667
+    },
+    {
+      "cityName": "Guadalupe",
+      "lat": 14.6,
+      "lng": -91.85
+    },
+    {
+      "cityName": "Hacienda Julaín",
+      "lat": 14.6627778,
+      "lng": -92.0125
+    },
+    {
+      "cityName": "Huitán",
+      "lat": 15.1,
+      "lng": -91.6166667
+    },
+    {
+      "cityName": "Jalisco",
+      "lat": 14.6666667,
+      "lng": -91.95
+    },
+    {
+      "cityName": "Juárez",
+      "lat": 14.6333333,
+      "lng": -91.85
+    },
+    {
+      "cityName": "Justo Rufino Barrios",
+      "lat": 14.8666667,
+      "lng": -91.5333333
+    },
+    {
+      "cityName": "La Aurora",
+      "lat": 14.6833333,
+      "lng": -91.9833333
+    },
+    {
+      "cityName": "La Ayudo",
+      "lat": 14.5833333,
+      "lng": -91.9166667
+    },
+    {
+      "cityName": "La Cumbre",
+      "lat": 14.9166667,
+      "lng": -91.5166667
+    },
+    {
+      "cityName": "La Democracia",
+      "lat": 14.6166667,
+      "lng": -91.9833333
+    },
+    {
+      "cityName": "La Emboscada",
+      "lat": 14.9,
+      "lng": -91.6
+    },
+    {
+      "cityName": "La Estancia",
+      "lat": 14.65,
+      "lng": -91.6
+    },
+    {
+      "cityName": "La Felicidad",
+      "lat": 14.65,
+      "lng": -91.9666667
+    },
+    {
+      "cityName": "La Independencia",
+      "lat": 14.8333333,
+      "lng": -91.5333333
+    },
+    {
+      "cityName": "La Laguna",
+      "lat": 14.9666667,
+      "lng": -91.6333333
+    },
+    {
+      "cityName": "La Libertad",
+      "lat": 14.8833333,
+      "lng": -91.5166667
+    },
+    {
+      "cityName": "La Paz",
+      "lat": 14.5833333,
+      "lng": -91.8333333
+    },
+    {
+      "cityName": "Las Ánimas",
+      "lat": 14.5666667,
+      "lng": -91.8
+    },
+    {
+      "cityName": "Las Barrancas",
+      "lat": 14.8333333,
+      "lng": -91.75
+    },
+    {
+      "cityName": "Las Cruces",
+      "lat": 14.95,
+      "lng": -91.55
+    },
+    {
+      "cityName": "Las Majadas",
+      "lat": 14.7666667,
+      "lng": -91.5166667
+    },
+    {
+      "cityName": "La Unión",
+      "lat": 14.7,
+      "lng": -91.9
+    },
+    {
+      "cityName": "La Victoria",
+      "lat": 14.9,
+      "lng": -91.6666667
+    },
+    {
+      "cityName": "Llano de Olintepeque",
+      "lat": 14.8666667,
+      "lng": -91.5166667
+    },
+    {
+      "cityName": "Los Baños",
+      "lat": 14.8,
+      "lng": -91.4833333
+    },
+    {
+      "cityName": "Los Cerritos",
+      "lat": 14.6333333,
+      "lng": -91.9166667
+    },
+    {
+      "cityName": "Los Duraznales",
+      "lat": 14.8666667,
+      "lng": -91.6
+    },
+    {
+      "cityName": "Los Encuentros",
+      "lat": 14.5658333,
+      "lng": -92.0208333
+    },
+    {
+      "cityName": "Los Paz",
+      "lat": 14.6166667,
+      "lng": -91.85
+    },
+    {
+      "cityName": "Los Pocitos",
+      "lat": 15,
+      "lng": -91.6
+    },
+    {
+      "cityName": "Monrovia",
+      "lat": 14.9166667,
+      "lng": -91.6333333
+    },
+    {
+      "cityName": "Morazán",
+      "lat": 14.6166667,
+      "lng": -91.8
+    },
+    {
+      "cityName": "Nimá",
+      "lat": 14.65,
+      "lng": -91.6666667
+    },
+    {
+      "cityName": "Nuevo Chuatuj",
+      "lat": 14.6833333,
+      "lng": -91.8666667
+    },
+    {
+      "cityName": "Pachaj",
+      "lat": 14.8333333,
+      "lng": -91.45
+    },
+    {
+      "cityName": "Pachuté",
+      "lat": 14.9833333,
+      "lng": -91.5833333
+    },
+    {
+      "cityName": "Palá",
+      "lat": 14.9166667,
+      "lng": -91.55
+    },
+    {
+      "cityName": "Palestina de los Altos",
+      "lat": 14.9333333,
+      "lng": -91.7
+    },
+    {
+      "cityName": "Panajachel",
+      "lat": 14.9333333,
+      "lng": -91.6333333
+    },
+    {
+      "cityName": "Pasac",
+      "lat": 14.8,
+      "lng": -91.45
+    },
+    {
+      "cityName": "Paxmux",
+      "lat": 14.7833333,
+      "lng": -91.5
+    },
+    {
+      "cityName": "Paxoj",
+      "lat": 15,
+      "lng": -91.65
+    },
+    {
+      "cityName": "Planta Eléctrica",
+      "lat": 14.7166667,
+      "lng": -91.5333333
+    },
+    {
+      "cityName": "Pueblo Nuevo",
+      "lat": 14.9,
+      "lng": -91.6333333
+    },
+    {
+      "cityName": "Quetzaltenango",
+      "lat": 14.8333333,
+      "lng": -91.5166667
+    },
+    {
+      "cityName": "Recuerdo a Barrios",
+      "lat": 15.0166667,
+      "lng": -91.5666667
+    },
+    {
+      "cityName": "Río Seco",
+      "lat": 14.85,
+      "lng": -91.5166667
+    },
+    {
+      "cityName": "Salcajá",
+      "lat": 14.8833333,
+      "lng": -91.45
+    },
+    {
+      "cityName": "San Agustín Pacayá",
+      "lat": 14.6333333,
+      "lng": -91.95
+    },
+    {
+      "cityName": "San Antonio El Naranjo",
+      "lat": 14.6625,
+      "lng": -92.09
+    },
+    {
+      "cityName": "San Antonio Pajoc",
+      "lat": 14.9,
+      "lng": -91.55
+    },
+    {
+      "cityName": "San Carlos",
+      "lat": 14.9833333,
+      "lng": -91.55
+    },
+    {
+      "cityName": "San Francisco La Unión",
+      "lat": 14.9166667,
+      "lng": -91.5333333
+    },
+    {
+      "cityName": "San Jose Pachimachó",
+      "lat": 14.8333333,
+      "lng": -91.5833333
+    },
+    {
+      "cityName": "San Martín Chiquito",
+      "lat": 14.8166667,
+      "lng": -91.6666667
+    },
+    {
+      "cityName": "San Martín Sacatepéquez",
+      "lat": 14.8166667,
+      "lng": -91.65
+    },
+    {
+      "cityName": "San Mateo",
+      "lat": 14.8666667,
+      "lng": -91.5833333
+    },
+    {
+      "cityName": "San Miguelito Calahuaché",
+      "lat": 14.6666667,
+      "lng": -91.55
+    },
+    {
+      "cityName": "San Pedrito",
+      "lat": 14.6333333,
+      "lng": -91.6
+    },
+    {
+      "cityName": "San Rafael Pacayá",
+      "lat": 14.6166667,
+      "lng": -91.9166667
+    },
+    {
+      "cityName": "Santa Anita",
+      "lat": 14.7833333,
+      "lng": -91.7166667
+    },
+    {
+      "cityName": "Santa Bárbara",
+      "lat": 14.8833333,
+      "lng": -91.55
+    },
+    {
+      "cityName": "Santa María El Naranjo",
+      "lat": 14.6833333,
+      "lng": -92.0666667
+    },
+    {
+      "cityName": "San Vicente Buenabaj",
+      "lat": 15.0333333,
+      "lng": -91.5833333
+    },
+    {
+      "cityName": "San Vicente Pacayá",
+      "lat": 14.6,
+      "lng": -91.9333333
+    },
+    {
+      "cityName": "Saquicol Chiquito",
+      "lat": 15.1166667,
+      "lng": -91.6
+    },
+    {
+      "cityName": "Saquicol",
+      "lat": 15.15,
+      "lng": -91.5833333
+    },
+    {
+      "cityName": "Sequivillá",
+      "lat": 14.6166667,
+      "lng": -91.8666667
+    },
+    {
+      "cityName": "Sibilia",
+      "lat": 15,
+      "lng": -91.6166667
+    },
+    {
+      "cityName": "Sigüilá",
+      "lat": 14.8833333,
+      "lng": -91.6
+    },
+    {
+      "cityName": "Talmax",
+      "lat": 14.85,
+      "lng": -91.6
+    },
+    {
+      "cityName": "Telená",
+      "lat": 14.8333333,
+      "lng": -91.6
+    },
+    {
+      "cityName": "Texolbé",
+      "lat": 14.8833333,
+      "lng": -91.6333333
+    },
+    {
+      "cityName": "Tierra Colorada",
+      "lat": 14.8,
+      "lng": -91.55
+    },
+    {
+      "cityName": "Tojalic",
+      "lat": 14.8333333,
+      "lng": -91.65
+    },
+    {
+      "cityName": "Tojchol",
+      "lat": 14.9166667,
+      "lng": -91.6833333
+    },
+    {
+      "cityName": "Tojcom",
+      "lat": 14.8166667,
+      "lng": -91.6
+    },
+    {
+      "cityName": "Tojcorral",
+      "lat": 14.8333333,
+      "lng": -91.6333333
+    },
+    {
+      "cityName": "Toj Guabil",
+      "lat": 14.9166667,
+      "lng": -91.7166667
+    },
+    {
+      "cityName": "Tuichim",
+      "lat": 14.8166667,
+      "lng": -91.6333333
+    },
+    {
+      "cityName": "Tzanjoyam",
+      "lat": 14.7666667,
+      "lng": -91.4666667
+    },
+    {
+      "cityName": "Urbina",
+      "lat": 14.85,
+      "lng": -91.45
+    },
+    {
+      "cityName": "Vado Ancho",
+      "lat": 14.7166667,
+      "lng": -92.0166667
+    },
+    {
+      "cityName": "Vixbén",
+      "lat": 15.05,
+      "lng": -91.6166667
+    },
+    {
+      "cityName": "Xeaj",
+      "lat": 14.9333333,
+      "lng": -91.55
+    },
+    {
+      "cityName": "Xecam",
+      "lat": 14.8166667,
+      "lng": -91.4333333
+    },
+    {
+      "cityName": "Xecaracoj",
+      "lat": 14.8166667,
+      "lng": -91.55
+    },
+    {
+      "cityName": "Xejuyub",
+      "lat": 14.8,
+      "lng": -91.4666667
+    },
+    {
+      "cityName": "Xepaché",
+      "lat": 14.7833333,
+      "lng": -91.55
+    },
+    {
+      "cityName": "Xetalbiljoj",
+      "lat": 14.9166667,
+      "lng": -91.6
+    },
+    {
+      "cityName": "Zunil",
+      "lat": 14.7833333,
+      "lng": -91.4833333
+    }
+  ]
+}

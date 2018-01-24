@@ -1,0 +1,91 @@
+{
+  "name": "Benin",
+  "iso2": "bj",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Alibori",
+      "id": 0
+    },
+    {
+      "name": "Atakora",
+      "id": 1
+    },
+    {
+      "name": "Atlanyique",
+      "id": 2
+    },
+    {
+      "name": "Borgou",
+      "id": 3
+    },
+    {
+      "name": "Collines",
+      "id": 4
+    },
+    {
+      "name": "Donga",
+      "id": 5
+    },
+    {
+      "name": "Kouffo",
+      "id": 6
+    },
+    {
+      "name": "Littoral",
+      "id": 7
+    },
+    {
+      "name": "Mono",
+      "id": 8
+    },
+    {
+      "name": "Oueme",
+      "id": 9
+    },
+    {
+      "name": "Plateau",
+      "id": 10
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 11
+    },
+    {
+      "name": "Unnamed region 02",
+      "id": 12
+    },
+    {
+      "name": "Unnamed region 03",
+      "id": 13
+    },
+    {
+      "name": "Unnamed region 04",
+      "id": 14
+    },
+    {
+      "name": "Unnamed region 05",
+      "id": 15
+    },
+    {
+      "name": "Zou",
+      "id": 16
+    }
+  ],
+  "geoRectangle": {
+    "West": 0.774574935436,
+    "East": 3.85170125961,
+    "North": 12.4183483124,
+    "South": 6.22574710846
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Porto-Novo",
+    "GeoPt": [
+      6.29,
+      2.37
+    ]
+  }
+}

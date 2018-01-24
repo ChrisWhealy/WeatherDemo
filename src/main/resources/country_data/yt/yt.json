@@ -1,0 +1,533 @@
+{
+  "name": "Mayotte",
+  "iso2": "yt",
+  "cities": [
+    {
+      "cityName": "Accua",
+      "lat": -12.7225,
+      "lng": 45.0563889
+    },
+    {
+      "cityName": "Andréma",
+      "lat": -12.6786111,
+      "lng": 45.0977778
+    },
+    {
+      "cityName": "Apandzo",
+      "lat": -12.8305556,
+      "lng": 45.1302778
+    },
+    {
+      "cityName": "Bambo Est",
+      "lat": -12.9261111,
+      "lng": 45.1738889
+    },
+    {
+      "cityName": "Bambo Ouest",
+      "lat": -12.9219444,
+      "lng": 45.0872222
+    },
+    {
+      "cityName": "Bandraboua",
+      "lat": -12.7016667,
+      "lng": 45.1205556
+    },
+    {
+      "cityName": "Bandrajou",
+      "lat": -12.7452778,
+      "lng": 45.2186111
+    },
+    {
+      "cityName": "Bandrani",
+      "lat": -12.845,
+      "lng": 45.1019444
+    },
+    {
+      "cityName": "Bandrélé",
+      "lat": -12.9066667,
+      "lng": 45.1913889
+    },
+    {
+      "cityName": "Barakani",
+      "lat": -12.835,
+      "lng": 45.1280556
+    },
+    {
+      "cityName": "Bouéni",
+      "lat": -12.9025,
+      "lng": 45.0761111
+    },
+    {
+      "cityName": "Bouilloni",
+      "lat": -12.7355556,
+      "lng": 45.1383333
+    },
+    {
+      "cityName": "Chembénioumba",
+      "lat": -12.7622222,
+      "lng": 45.0752778
+    },
+    {
+      "cityName": "Chiconi",
+      "lat": -12.8333333,
+      "lng": 45.1105556
+    },
+    {
+      "cityName": "Chirongui",
+      "lat": -12.9319444,
+      "lng": 45.1483333
+    },
+    {
+      "cityName": "Choungui",
+      "lat": -12.9594444,
+      "lng": 45.1244444
+    },
+    {
+      "cityName": "Choungui Kéli",
+      "lat": -12.9686111,
+      "lng": 45.1308333
+    },
+    {
+      "cityName": "Coconi",
+      "lat": -12.8330556,
+      "lng": 45.1347222
+    },
+    {
+      "cityName": "Combani",
+      "lat": -12.7863889,
+      "lng": 45.1336111
+    },
+    {
+      "cityName": "Dapani",
+      "lat": -12.9691667,
+      "lng": 45.1588889
+    },
+    {
+      "cityName": "Djivani",
+      "lat": -12.8313889,
+      "lng": 45.12
+    },
+    {
+      "cityName": "Doujani",
+      "lat": -12.7908333,
+      "lng": 45.2138889
+    },
+    {
+      "cityName": "Dzaoudzi",
+      "lat": -12.7794444,
+      "lng": 45.2536111
+    },
+    {
+      "cityName": "Dzoumogne",
+      "lat": -12.7172222,
+      "lng": 45.1127778
+    },
+    {
+      "cityName": "Florence",
+      "lat": -12.8597222,
+      "lng": 45.1916667
+    },
+    {
+      "cityName": "Foungoujou",
+      "lat": -12.7838889,
+      "lng": 45.2588889
+    },
+    {
+      "cityName": "Gnambo",
+      "lat": -12.7069444,
+      "lng": 45.1205556
+    },
+    {
+      "cityName": "Hachénoua",
+      "lat": -12.7872222,
+      "lng": 45.1111111
+    },
+    {
+      "cityName": "Hajangoua",
+      "lat": -12.8655556,
+      "lng": 45.1933333
+    },
+    {
+      "cityName": "Hamjago",
+      "lat": -12.6858333,
+      "lng": 45.0719444
+    },
+    {
+      "cityName": "Hamouro",
+      "lat": -12.8786111,
+      "lng": 45.2133333
+    },
+    {
+      "cityName": "Hanyoundrou",
+      "lat": -12.9005556,
+      "lng": 45.0986111
+    },
+    {
+      "cityName": "Iloni",
+      "lat": -12.8411111,
+      "lng": 45.1888889
+    },
+    {
+      "cityName": "Ironi Bé",
+      "lat": -12.8305556,
+      "lng": 45.1886111
+    },
+    {
+      "cityName": "Kahani",
+      "lat": -12.8208333,
+      "lng": 45.1294444
+    },
+    {
+      "cityName": "Kangani",
+      "lat": -12.7272222,
+      "lng": 45.185
+    },
+    {
+      "cityName": "Kani Bé",
+      "lat": -12.9613889,
+      "lng": 45.1091667
+    },
+    {
+      "cityName": "Kani Kéli",
+      "lat": -12.9536111,
+      "lng": 45.1033333
+    },
+    {
+      "cityName": "Kaouéni",
+      "lat": -12.7702778,
+      "lng": 45.2180556
+    },
+    {
+      "cityName": "Karoni",
+      "lat": -12.9288889,
+      "lng": 45.1172222
+    },
+    {
+      "cityName": "Kavani",
+      "lat": -12.7788889,
+      "lng": 45.2188889
+    },
+    {
+      "cityName": "Kongo",
+      "lat": -12.7336111,
+      "lng": 45.2041667
+    },
+    {
+      "cityName": "Koualé",
+      "lat": -12.7952778,
+      "lng": 45.1641667
+    },
+    {
+      "cityName": "Koualé-Légion",
+      "lat": -12.795,
+      "lng": 45.1861111
+    },
+    {
+      "cityName": "Labattoir",
+      "lat": -12.785,
+      "lng": 45.2702778
+    },
+    {
+      "cityName": "La Ferme",
+      "lat": -12.7844444,
+      "lng": 45.2775
+    },
+    {
+      "cityName": "Longoni",
+      "lat": -12.7316667,
+      "lng": 45.1611111
+    },
+    {
+      "cityName": "Maboungani",
+      "lat": -12.8705556,
+      "lng": 45.1975
+    },
+    {
+      "cityName": "Majikavo 1",
+      "lat": -12.7497222,
+      "lng": 45.2286111
+    },
+    {
+      "cityName": "Majikavo 2",
+      "lat": -12.7413889,
+      "lng": 45.2169444
+    },
+    {
+      "cityName": "Majiméouni",
+      "lat": -12.9222222,
+      "lng": 45.1058333
+    },
+    {
+      "cityName": "Malamani",
+      "lat": -12.9169444,
+      "lng": 45.1563889
+    },
+    {
+      "cityName": "Mambutzou",
+      "lat": -12.7794444,
+      "lng": 45.2272222
+    },
+    {
+      "cityName": "Mangajou",
+      "lat": -12.8416667,
+      "lng": 45.1138889
+    },
+    {
+      "cityName": "Manyassini",
+      "lat": -12.8888889,
+      "lng": 45.1411111
+    },
+    {
+      "cityName": "Mbouéanatsa",
+      "lat": -12.9416667,
+      "lng": 45.0997222
+    },
+    {
+      "cityName": "Mbouini",
+      "lat": -12.9875,
+      "lng": 45.1347222
+    },
+    {
+      "cityName": "Mbouyouni",
+      "lat": -12.9027778,
+      "lng": 45.1486111
+    },
+    {
+      "cityName": "Miréréni",
+      "lat": -12.7863889,
+      "lng": 45.1386111
+    },
+    {
+      "cityName": "Mitséni",
+      "lat": -12.7358333,
+      "lng": 45.1438889
+    },
+    {
+      "cityName": "Mliha",
+      "lat": -12.7483333,
+      "lng": 45.0530556
+    },
+    {
+      "cityName": "Mouanatrindi",
+      "lat": -12.8969444,
+      "lng": 45.0952778
+    },
+    {
+      "cityName": "Mounadzini",
+      "lat": -12.8930556,
+      "lng": 45.14
+    },
+    {
+      "cityName": "Moutsamoudou",
+      "lat": -12.9605556,
+      "lng": 45.1733333
+    },
+    {
+      "cityName": "Moutsatoundou",
+      "lat": -12.9152778,
+      "lng": 45.1827778
+    },
+    {
+      "cityName": "Moutsoumbatsou",
+      "lat": -12.7408333,
+      "lng": 45.0505556
+    },
+    {
+      "cityName": "Mramadoudou",
+      "lat": -12.9252778,
+      "lng": 45.1511111
+    },
+    {
+      "cityName": "Mréréni Bé",
+      "lat": -12.9030556,
+      "lng": 45.1527778
+    },
+    {
+      "cityName": "Mréréni",
+      "lat": -12.9022222,
+      "lng": 45.1491667
+    },
+    {
+      "cityName": "Mronaléia",
+      "lat": -12.9769444,
+      "lng": 45.1216667
+    },
+    {
+      "cityName": "Mronyombéni",
+      "lat": -12.7847222,
+      "lng": 45.2622222
+    },
+    {
+      "cityName": "Mrowalé",
+      "lat": -12.7866667,
+      "lng": 45.1252778
+    },
+    {
+      "cityName": "Mtsahara",
+      "lat": -12.6791667,
+      "lng": 45.0797222
+    },
+    {
+      "cityName": "Mtsamboro",
+      "lat": -12.6966667,
+      "lng": 45.0666667
+    },
+    {
+      "cityName": "Mtsamgamouji",
+      "lat": -12.7594444,
+      "lng": 45.0836111
+    },
+    {
+      "cityName": "Mtsangachéhi",
+      "lat": -12.8833333,
+      "lng": 45.1294444
+    },
+    {
+      "cityName": "M'Tsangadoi",
+      "lat": -12.7080556,
+      "lng": 45.0477778
+    },
+    {
+      "cityName": "M'Tsangamboi",
+      "lat": -12.6883333,
+      "lng": 45.1075
+    },
+    {
+      "cityName": "Mtsapéré",
+      "lat": -12.7877778,
+      "lng": 45.2183333
+    },
+    {
+      "cityName": "Mzouazia",
+      "lat": -12.9255556,
+      "lng": 45.1011111
+    },
+    {
+      "cityName": "Ngouja",
+      "lat": -12.9591667,
+      "lng": 45.0836111
+    },
+    {
+      "cityName": "Nyambadao",
+      "lat": -12.8905556,
+      "lng": 45.2008333
+    },
+    {
+      "cityName": "Ongojou",
+      "lat": -12.8347222,
+      "lng": 45.1563889
+    },
+    {
+      "cityName": "Ouangani",
+      "lat": -12.8463889,
+      "lng": 45.1361111
+    },
+    {
+      "cityName": "Pamandzi",
+      "lat": -12.7963889,
+      "lng": 45.2736111
+    },
+    {
+      "cityName": "Passamaïnti",
+      "lat": -12.7988889,
+      "lng": 45.2102778
+    },
+    {
+      "cityName": "Passi Kéli",
+      "lat": -12.9833333,
+      "lng": 45.1244444
+    },
+    {
+      "cityName": "Poroani",
+      "lat": -12.8894444,
+      "lng": 45.1383333
+    },
+    {
+      "cityName": "Rampe Cannelle",
+      "lat": -12.9363889,
+      "lng": 45.14
+    },
+    {
+      "cityName": "Sada",
+      "lat": -12.8480556,
+      "lng": 45.0975
+    },
+    {
+      "cityName": "Sazilé",
+      "lat": -12.9819444,
+      "lng": 45.1788889
+    },
+    {
+      "cityName": "Sohoa Kavani",
+      "lat": -12.8186111,
+      "lng": 45.1061111
+    },
+    {
+      "cityName": "Sohoa Kéli",
+      "lat": -12.8211111,
+      "lng": 45.1033333
+    },
+    {
+      "cityName": "Sohoa",
+      "lat": -12.8197222,
+      "lng": 45.1036111
+    },
+    {
+      "cityName": "Tanaraki",
+      "lat": -12.7561111,
+      "lng": 45.0666667
+    },
+    {
+      "cityName": "Trévani",
+      "lat": -12.7308333,
+      "lng": 45.1961111
+    },
+    {
+      "cityName": "Trotrondjéou",
+      "lat": -12.8041667,
+      "lng": 45.2036111
+    },
+    {
+      "cityName": "Tsararano",
+      "lat": -12.8338889,
+      "lng": 45.1725
+    },
+    {
+      "cityName": "Tsimkoura",
+      "lat": -12.9372222,
+      "lng": 45.1352778
+    },
+    {
+      "cityName": "Tsingoni",
+      "lat": -12.7872222,
+      "lng": 45.1027778
+    },
+    {
+      "cityName": "Tsoundzou 2",
+      "lat": -12.8133333,
+      "lng": 45.1966667
+    },
+    {
+      "cityName": "Vahibéni",
+      "lat": -12.7819444,
+      "lng": 45.1705556
+    }
+  ],
+  "regionList": null,
+  "geoRectangle": {
+    "West": 45.0379524231,
+    "East": 45.2929573059,
+    "North": -12.6488895416,
+    "South": -13.0001335144
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 3,
+    "Flg": 2,
+    "Name": "Mamoudzou",
+    "GeoPt": [
+      -12.46,
+      45.13
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Mozambique",
+  "iso2": "mz",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Cabo Delgado",
+      "id": 0
+    },
+    {
+      "name": "Gaza",
+      "id": 1
+    },
+    {
+      "name": "Inhambane",
+      "id": 2
+    },
+    {
+      "name": "Manica",
+      "id": 3
+    },
+    {
+      "name": "Maputo",
+      "id": 4
+    },
+    {
+      "name": "Nampula",
+      "id": 5
+    },
+    {
+      "name": "Niassa",
+      "id": 6
+    },
+    {
+      "name": "Sofala",
+      "id": 7
+    },
+    {
+      "name": "Tete",
+      "id": 8
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 9
+    },
+    {
+      "name": "Zambezia",
+      "id": 10
+    }
+  ],
+  "geoRectangle": {
+    "West": 30.2173156738,
+    "East": 40.8430023193,
+    "North": -10.4718818665,
+    "South": -26.8686885834
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Maputo",
+    "GeoPt": [
+      -25.57,
+      32.35
+    ]
+  }
+}

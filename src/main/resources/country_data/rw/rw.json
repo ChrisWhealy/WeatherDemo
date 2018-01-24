@@ -1,0 +1,63 @@
+{
+  "name": "Rwanda",
+  "iso2": "rw",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Butare",
+      "id": 0
+    },
+    {
+      "name": "Gitarama",
+      "id": 1
+    },
+    {
+      "name": "Kibungo",
+      "id": 2
+    },
+    {
+      "name": "Kigali",
+      "id": 3
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 4
+    },
+    {
+      "name": "Unnamed region 02",
+      "id": 5
+    },
+    {
+      "name": "Unnamed region 03",
+      "id": 6
+    },
+    {
+      "name": "Unnamed region 04",
+      "id": 7
+    },
+    {
+      "name": "Unnamed region 05",
+      "id": 8
+    },
+    {
+      "name": "Unnamed region 06",
+      "id": 9
+    }
+  ],
+  "geoRectangle": {
+    "West": 28.8567905426,
+    "East": 30.8959617615,
+    "North": -1.05348086357,
+    "South": -2.84067940712
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Kigali",
+    "GeoPt": [
+      -1.57,
+      30.04
+    ]
+  }
+}

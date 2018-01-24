@@ -1,0 +1,55 @@
+{
+  "name": "Equatorial Guinea",
+  "iso2": "gq",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Annobon",
+      "id": 0
+    },
+    {
+      "name": "Bioko Norte",
+      "id": 1
+    },
+    {
+      "name": "Bioko Sur",
+      "id": 2
+    },
+    {
+      "name": "Centro Sur",
+      "id": 3
+    },
+    {
+      "name": "Kie-Ntem",
+      "id": 4
+    },
+    {
+      "name": "Litoral",
+      "id": 5
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 6
+    },
+    {
+      "name": "Wele-Nzas",
+      "id": 7
+    }
+  ],
+  "geoRectangle": {
+    "West": 9.34686374664,
+    "East": 11.3357257843,
+    "North": 2.34698939323,
+    "South": 0.920859932899
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Malabo",
+    "GeoPt": [
+      3.45,
+      8.47
+    ]
+  }
+}

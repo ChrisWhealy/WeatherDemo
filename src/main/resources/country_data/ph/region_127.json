@@ -1,0 +1,950 @@
+{
+  "name": "Tawitawi",
+  "cities": [
+    {
+      "cityName": "Anibun",
+      "lat": 7.033333,
+      "lng": 118.466667
+    },
+    {
+      "cityName": "Bagsac",
+      "lat": 5,
+      "lng": 120
+    },
+    {
+      "cityName": "Baguan",
+      "lat": 6.1,
+      "lng": 118.45
+    },
+    {
+      "cityName": "Bakong",
+      "lat": 4.891111,
+      "lng": 119.794167
+    },
+    {
+      "cityName": "Baldata",
+      "lat": 5.1376,
+      "lng": 120.1896
+    },
+    {
+      "cityName": "Balimbing",
+      "lat": 5.073611,
+      "lng": 119.885556
+    },
+    {
+      "cityName": "Baliungan",
+      "lat": 5.166667,
+      "lng": 120.2
+    },
+    {
+      "cityName": "Ballak",
+      "lat": 5.1524,
+      "lng": 120.3457
+    },
+    {
+      "cityName": "Balo-Balo",
+      "lat": 5.3675,
+      "lng": 120.2981
+    },
+    {
+      "cityName": "Bandahala",
+      "lat": 4.838333,
+      "lng": 119.489444
+    },
+    {
+      "cityName": "Bangaw",
+      "lat": 5.029167,
+      "lng": 119.773056
+    },
+    {
+      "cityName": "Bankaw",
+      "lat": 5.0192,
+      "lng": 120.0091
+    },
+    {
+      "cityName": "Bannaran",
+      "lat": 5.016667,
+      "lng": 120.116667
+    },
+    {
+      "cityName": "Bas Bas",
+      "lat": 5.3374,
+      "lng": 120.2265
+    },
+    {
+      "cityName": "Basid",
+      "lat": 4.863889,
+      "lng": 119.835556
+    },
+    {
+      "cityName": "Bata",
+      "lat": 5.194,
+      "lng": 120.1199
+    },
+    {
+      "cityName": "Batan",
+      "lat": 5.216667,
+      "lng": 120.35
+    },
+    {
+      "cityName": "Ba\"uwan",
+      "lat": 5.15,
+      "lng": 120.283333
+    },
+    {
+      "cityName": "Bellakan",
+      "lat": 5.245833,
+      "lng": 119.963333
+    },
+    {
+      "cityName": "Bellong Bellong",
+      "lat": 4.676389,
+      "lng": 119.392778
+    },
+    {
+      "cityName": "Beralrali",
+      "lat": 5.383333,
+      "lng": 120.333333
+    },
+    {
+      "cityName": "Biha Biha",
+      "lat": 5.188333,
+      "lng": 119.942778
+    },
+    {
+      "cityName": "Bilatan Tampi-Tampi",
+      "lat": 5.015,
+      "lng": 120.0167
+    },
+    {
+      "cityName": "Bintaualan",
+      "lat": 5.2371,
+      "lng": 120.6375
+    },
+    {
+      "cityName": "Boaan",
+      "lat": 6.283333,
+      "lng": 118.066667
+    },
+    {
+      "cityName": "Bo'an",
+      "lat": 5.1608,
+      "lng": 120.0426
+    },
+    {
+      "cityName": "Boheh South",
+      "lat": 5.0166,
+      "lng": 120.2116
+    },
+    {
+      "cityName": "Bohi Gañgsa",
+      "lat": 5.3,
+      "lng": 120.1
+    },
+    {
+      "cityName": "Boki\"",
+      "lat": 7,
+      "lng": 118.5
+    },
+    {
+      "cityName": "Bonbon",
+      "lat": 5.209,
+      "lng": 120.5711
+    },
+    {
+      "cityName": "Buai",
+      "lat": 5.090556,
+      "lng": 119.9275
+    },
+    {
+      "cityName": "Buaylin",
+      "lat": 5.2995,
+      "lng": 120.1373
+    },
+    {
+      "cityName": "Bubuan",
+      "lat": 5.4202,
+      "lng": 120.5817
+    },
+    {
+      "cityName": "Bubuhan",
+      "lat": 5.4213,
+      "lng": 120.5958
+    },
+    {
+      "cityName": "Bukut Latu\"an",
+      "lat": 5.0876,
+      "lng": 120.2535
+    },
+    {
+      "cityName": "Bullud",
+      "lat": 4.824167,
+      "lng": 119.499722
+    },
+    {
+      "cityName": "Bunal-Bunai",
+      "lat": 5.188333,
+      "lng": 120.499722
+    },
+    {
+      "cityName": "Butol",
+      "lat": 5.032222,
+      "lng": 119.803611
+    },
+    {
+      "cityName": "Buton",
+      "lat": 5.1274,
+      "lng": 120.3224
+    },
+    {
+      "cityName": "Butun",
+      "lat": 5.1119,
+      "lng": 120.2897
+    },
+    {
+      "cityName": "Cabohokan",
+      "lat": 5.0439,
+      "lng": 120.2042
+    },
+    {
+      "cityName": "Cagayan",
+      "lat": 6.976667,
+      "lng": 118.513611
+    },
+    {
+      "cityName": "Cawa Cawa",
+      "lat": 5.2337,
+      "lng": 120.0181
+    },
+    {
+      "cityName": "Dalo Dalo",
+      "lat": 5.027,
+      "lng": 120.1894
+    },
+    {
+      "cityName": "Danpong",
+      "lat": 5.2198,
+      "lng": 120.5872
+    },
+    {
+      "cityName": "Dapianbohi",
+      "lat": 5.0357,
+      "lng": 120.1977
+    },
+    {
+      "cityName": "Dulanga",
+      "lat": 4.816389,
+      "lng": 119.817222
+    },
+    {
+      "cityName": "Dungun",
+      "lat": 5.2417,
+      "lng": 120.1759
+    },
+    {
+      "cityName": "Dutanga",
+      "lat": 4.814722,
+      "lng": 119.841111
+    },
+    {
+      "cityName": "Gadgammah",
+      "lat": 5.0739,
+      "lng": 120.2669
+    },
+    {
+      "cityName": "Galaan",
+      "lat": 5.216667,
+      "lng": 120.3
+    },
+    {
+      "cityName": "Gatang",
+      "lat": 5.183333,
+      "lng": 120.05
+    },
+    {
+      "cityName": "Great Bakkungan",
+      "lat": 6.183333,
+      "lng": 118.116667
+    },
+    {
+      "cityName": "Guitong",
+      "lat": 5.216667,
+      "lng": 120.583333
+    },
+    {
+      "cityName": "Ipil",
+      "lat": 5.055278,
+      "lng": 119.855556
+    },
+    {
+      "cityName": "Karondon",
+      "lat": 5.045,
+      "lng": 119.770278
+    },
+    {
+      "cityName": "Kohec",
+      "lat": 5.1235,
+      "lng": 120.318
+    },
+    {
+      "cityName": "Kolape",
+      "lat": 5.070278,
+      "lng": 119.896944
+    },
+    {
+      "cityName": "Kubang",
+      "lat": 5.1242,
+      "lng": 120.3039
+    },
+    {
+      "cityName": "Kulit Kima",
+      "lat": 5.089722,
+      "lng": 119.827778
+    },
+    {
+      "cityName": "Lahing-Lahing",
+      "lat": 5.1076,
+      "lng": 120.2791
+    },
+    {
+      "cityName": "Laitan",
+      "lat": 5.1979,
+      "lng": 120.5965
+    },
+    {
+      "cityName": "Lakit Lakit",
+      "lat": 5.0396,
+      "lng": 120.2238
+    },
+    {
+      "cityName": "Lakit-Lakit",
+      "lat": 5.080556,
+      "lng": 119.758611
+    },
+    {
+      "cityName": "Lamian",
+      "lat": 5.026111,
+      "lng": 119.777778
+    },
+    {
+      "cityName": "Langaray",
+      "lat": 5.1,
+      "lng": 120.283333
+    },
+    {
+      "cityName": "Languyan",
+      "lat": 5.2618,
+      "lng": 120.0807
+    },
+    {
+      "cityName": "Lapid-Lapid",
+      "lat": 5.097778,
+      "lng": 119.828056
+    },
+    {
+      "cityName": "Larap",
+      "lat": 4.761389,
+      "lng": 119.4075
+    },
+    {
+      "cityName": "Lato-Lato",
+      "lat": 5.051667,
+      "lng": 119.788889
+    },
+    {
+      "cityName": "Latu'an Hea",
+      "lat": 5.0759,
+      "lng": 120.2481
+    },
+    {
+      "cityName": "Laud",
+      "lat": 5.2032,
+      "lng": 120.5841
+    },
+    {
+      "cityName": "Laum",
+      "lat": 5.1041,
+      "lng": 120.2868
+    },
+    {
+      "cityName": "Lekud",
+      "lat": 4.863611,
+      "lng": 119.801667
+    },
+    {
+      "cityName": "Leug Tumbagaan",
+      "lat": 5.3656,
+      "lng": 120.3139
+    },
+    {
+      "cityName": "Licud",
+      "lat": 5.0906,
+      "lng": 120.2943
+    },
+    {
+      "cityName": "Licud Tabawan",
+      "lat": 5.2188,
+      "lng": 120.5823
+    },
+    {
+      "cityName": "Ligayan",
+      "lat": 4.653333,
+      "lng": 119.470556
+    },
+    {
+      "cityName": "Lingos Matata",
+      "lat": 5.1386,
+      "lng": 120.3465
+    },
+    {
+      "cityName": "Liung Tangah",
+      "lat": 5.202778,
+      "lng": 120.598056
+    },
+    {
+      "cityName": "Locnato",
+      "lat": 5.1102,
+      "lng": 120.3165
+    },
+    {
+      "cityName": "Lohtamang",
+      "lat": 5.033333,
+      "lng": 120.216667
+    },
+    {
+      "cityName": "Lokdata",
+      "lat": 4.811944,
+      "lng": 119.845278
+    },
+    {
+      "cityName": "Lookani",
+      "lat": 5.037,
+      "lng": 120.1027
+    },
+    {
+      "cityName": "Look Buntal",
+      "lat": 4.972222,
+      "lng": 119.994167
+    },
+    {
+      "cityName": "Lo-ok",
+      "lat": 5.1084,
+      "lng": 120.283
+    },
+    {
+      "cityName": "Look Pandan",
+      "lat": 5.068333,
+      "lng": 119.790556
+    },
+    {
+      "cityName": "Look Puas",
+      "lat": 4.678611,
+      "lng": 119.406389
+    },
+    {
+      "cityName": "Look Tapian",
+      "lat": 5.121,
+      "lng": 120.3133
+    },
+    {
+      "cityName": "Luuk Talai",
+      "lat": 5.134167,
+      "lng": 119.8225
+    },
+    {
+      "cityName": "Malanta",
+      "lat": 5.1002,
+      "lng": 120.3098
+    },
+    {
+      "cityName": "Malasa",
+      "lat": 5.058611,
+      "lng": 119.811111
+    },
+    {
+      "cityName": "Mandulan",
+      "lat": 5.105,
+      "lng": 119.776667
+    },
+    {
+      "cityName": "Maniacolat",
+      "lat": 5.4534,
+      "lng": 120.5903
+    },
+    {
+      "cityName": "Manuk Mangkaw",
+      "lat": 4.8,
+      "lng": 119.85
+    },
+    {
+      "cityName": "Maraning",
+      "lat": 5.2328,
+      "lng": 120.0311
+    },
+    {
+      "cityName": "Mongkai",
+      "lat": 4.924722,
+      "lng": 119.808333
+    },
+    {
+      "cityName": "Montay-Montay",
+      "lat": 5.060833,
+      "lng": 119.8475
+    },
+    {
+      "cityName": "Naungan Daggutan",
+      "lat": 5.25,
+      "lng": 120.316667
+    },
+    {
+      "cityName": "New Batu Batu",
+      "lat": 5.066667,
+      "lng": 119.883333
+    },
+    {
+      "cityName": "Nonokon",
+      "lat": 4.799722,
+      "lng": 119.468611
+    },
+    {
+      "cityName": "Nusa Nusa",
+      "lat": 5.2244,
+      "lng": 120.6341
+    },
+    {
+      "cityName": "Obol",
+      "lat": 4.924722,
+      "lng": 119.799444
+    },
+    {
+      "cityName": "Omapuy Asibi",
+      "lat": 4.890556,
+      "lng": 119.398056
+    },
+    {
+      "cityName": "Omapuy Dakula",
+      "lat": 4.886667,
+      "lng": 119.402222
+    },
+    {
+      "cityName": "Pababag",
+      "lat": 5.031667,
+      "lng": 119.792222
+    },
+    {
+      "cityName": "Padan",
+      "lat": 5.066667,
+      "lng": 119.966667
+    },
+    {
+      "cityName": "Pagasinan",
+      "lat": 4.919444,
+      "lng": 119.790556
+    },
+    {
+      "cityName": "Pahahpatan",
+      "lat": 5.2,
+      "lng": 120.183333
+    },
+    {
+      "cityName": "Pahumaan",
+      "lat": 5.35,
+      "lng": 120.266667
+    },
+    {
+      "cityName": "Pahut",
+      "lat": 5.027222,
+      "lng": 119.741944
+    },
+    {
+      "cityName": "Paiati",
+      "lat": 5.0803,
+      "lng": 120.2706
+    },
+    {
+      "cityName": "Pakias",
+      "lat": 5.040278,
+      "lng": 119.763333
+    },
+    {
+      "cityName": "Pakkoan",
+      "lat": 5.0888,
+      "lng": 120.2755
+    },
+    {
+      "cityName": "Pallan",
+      "lat": 5.0407,
+      "lng": 120.0073
+    },
+    {
+      "cityName": "Pamasan",
+      "lat": 5.1056,
+      "lng": 120.2752
+    },
+    {
+      "cityName": "Pangasinan",
+      "lat": 5.036944,
+      "lng": 119.747778
+    },
+    {
+      "cityName": "Panglima Sugala",
+      "lat": 5.0825,
+      "lng": 119.965833
+    },
+    {
+      "cityName": "Pangniong",
+      "lat": 5.043611,
+      "lng": 119.785833
+    },
+    {
+      "cityName": "Parangan",
+      "lat": 5.083889,
+      "lng": 119.938333
+    },
+    {
+      "cityName": "Pasengkoan",
+      "lat": 5.2411,
+      "lng": 120.3196
+    },
+    {
+      "cityName": "Pasiagan",
+      "lat": 5.011111,
+      "lng": 119.756111
+    },
+    {
+      "cityName": "Pasigan de Lea",
+      "lat": 5.233333,
+      "lng": 120.4
+    },
+    {
+      "cityName": "Patat",
+      "lat": 5.2203,
+      "lng": 120.605
+    },
+    {
+      "cityName": "Pawan",
+      "lat": 7.016667,
+      "lng": 118.5
+    },
+    {
+      "cityName": "Po\"on Bellatan",
+      "lat": 4.983333,
+      "lng": 120
+    },
+    {
+      "cityName": "Port Dos Amigos",
+      "lat": 5.2687,
+      "lng": 120.0923
+    },
+    {
+      "cityName": "Sagang-Sagang",
+      "lat": 4.711111,
+      "lng": 119.414444
+    },
+    {
+      "cityName": "Salangan",
+      "lat": 5.1388,
+      "lng": 120.3201
+    },
+    {
+      "cityName": "Sanga-Sanga",
+      "lat": 5.0725,
+      "lng": 119.785278
+    },
+    {
+      "cityName": "Sapa",
+      "lat": 5.1544,
+      "lng": 120.3241
+    },
+    {
+      "cityName": "Sapa-Sapa",
+      "lat": 5.0325,
+      "lng": 120.2253
+    },
+    {
+      "cityName": "Sapa Sapa",
+      "lat": 5.0909,
+      "lng": 120.2715
+    },
+    {
+      "cityName": "Si Abon",
+      "lat": 7.033333,
+      "lng": 118.45
+    },
+    {
+      "cityName": "Sibalo",
+      "lat": 4.731111,
+      "lng": 119.501111
+    },
+    {
+      "cityName": "Sibukllon",
+      "lat": 5.1586,
+      "lng": 120.3306
+    },
+    {
+      "cityName": "Sibutu",
+      "lat": 4.840556,
+      "lng": 119.461389
+    },
+    {
+      "cityName": "Silubbog",
+      "lat": 5.140833,
+      "lng": 119.865556
+    },
+    {
+      "cityName": "Simandagit",
+      "lat": 5.015833,
+      "lng": 119.771389
+    },
+    {
+      "cityName": "Simbangunan",
+      "lat": 5.166667,
+      "lng": 120
+    },
+    {
+      "cityName": "Simunul",
+      "lat": 4.898333,
+      "lng": 119.849444
+    },
+    {
+      "cityName": "Sitangkai",
+      "lat": 4.662778,
+      "lng": 119.392778
+    },
+    {
+      "cityName": "Sokah-Sokah",
+      "lat": 5.0858,
+      "lng": 120.2786
+    },
+    {
+      "cityName": "Sollagin",
+      "lat": 5.1813,
+      "lng": 120.4836
+    },
+    {
+      "cityName": "South Ubian",
+      "lat": 5.1861,
+      "lng": 120.4981
+    },
+    {
+      "cityName": "Taballungan",
+      "lat": 5.316667,
+      "lng": 120.216667
+    },
+    {
+      "cityName": "Tabuan",
+      "lat": 5.15,
+      "lng": 120.45
+    },
+    {
+      "cityName": "Tabunan",
+      "lat": 4.965278,
+      "lng": 120.011944
+    },
+    {
+      "cityName": "Taganak",
+      "lat": 6.083333,
+      "lng": 118.3
+    },
+    {
+      "cityName": "Tahig-Tahig",
+      "lat": 5.222,
+      "lng": 120.5978
+    },
+    {
+      "cityName": "Tahing",
+      "lat": 4.820833,
+      "lng": 119.488611
+    },
+    {
+      "cityName": "Talisay",
+      "lat": 4.863333,
+      "lng": 119.454722
+    },
+    {
+      "cityName": "Tamang",
+      "lat": 5.0879,
+      "lng": 120.265
+    },
+    {
+      "cityName": "Tampacan",
+      "lat": 4.922778,
+      "lng": 119.793889
+    },
+    {
+      "cityName": "Tanawakan",
+      "lat": 5.154444,
+      "lng": 119.881667
+    },
+    {
+      "cityName": "Tando Banak",
+      "lat": 4.718889,
+      "lng": 119.496944
+    },
+    {
+      "cityName": "Tandubas",
+      "lat": 5.161111,
+      "lng": 120.343056
+    },
+    {
+      "cityName": "Tandu Batu",
+      "lat": 5.133333,
+      "lng": 120.333333
+    },
+    {
+      "cityName": "Tanga",
+      "lat": 5.107,
+      "lng": 120.2773
+    },
+    {
+      "cityName": "Tang Mageng",
+      "lat": 4.698056,
+      "lng": 119.395
+    },
+    {
+      "cityName": "Tangosong",
+      "lat": 5.1894,
+      "lng": 120.522
+    },
+    {
+      "cityName": "Tapian Tandu Bas",
+      "lat": 5.155,
+      "lng": 120.3452
+    },
+    {
+      "cityName": "Tataan",
+      "lat": 5.188611,
+      "lng": 119.931111
+    },
+    {
+      "cityName": "Taungon",
+      "lat": 4.706944,
+      "lng": 119.493056
+    },
+    {
+      "cityName": "Tenga",
+      "lat": 5.2026,
+      "lng": 120.5915
+    },
+    {
+      "cityName": "Tengultengul",
+      "lat": 5.066667,
+      "lng": 119.816667
+    },
+    {
+      "cityName": "Timundong",
+      "lat": 4.818056,
+      "lng": 119.837778
+    },
+    {
+      "cityName": "Tonga Laboan",
+      "lat": 5.333333,
+      "lng": 120.25
+    },
+    {
+      "cityName": "Tong Basbas",
+      "lat": 5.366667,
+      "lng": 120.216667
+    },
+    {
+      "cityName": "Tong Bennay Bennay",
+      "lat": 5.183333,
+      "lng": 120.5
+    },
+    {
+      "cityName": "Tong Gusong",
+      "lat": 4.923889,
+      "lng": 119.819444
+    },
+    {
+      "cityName": "Tong-Gusong",
+      "lat": 5.0214,
+      "lng": 120.1328
+    },
+    {
+      "cityName": "Tong Gusung",
+      "lat": 4.75,
+      "lng": 119.4
+    },
+    {
+      "cityName": "Tongihat",
+      "lat": 4.669167,
+      "lng": 119.478611
+    },
+    {
+      "cityName": "Tongousong",
+      "lat": 5.083333,
+      "lng": 120.25
+    },
+    {
+      "cityName": "Tong Pettong",
+      "lat": 5.048056,
+      "lng": 119.852778
+    },
+    {
+      "cityName": "Tongput",
+      "lat": 5.055278,
+      "lng": 119.8075
+    },
+    {
+      "cityName": "Tongsinah",
+      "lat": 5.035833,
+      "lng": 119.780833
+    },
+    {
+      "cityName": "Tong Tahing",
+      "lat": 4.75,
+      "lng": 119.483333
+    },
+    {
+      "cityName": "Tong Tahong",
+      "lat": 4.802778,
+      "lng": 119.503889
+    },
+    {
+      "cityName": "Toong Toong",
+      "lat": 5.233333,
+      "lng": 120.35
+    },
+    {
+      "cityName": "Top Top",
+      "lat": 5.0296,
+      "lng": 120.1154
+    },
+    {
+      "cityName": "Tubig Sallang",
+      "lat": 5.038889,
+      "lng": 119.743889
+    },
+    {
+      "cityName": "Tuga Tuga",
+      "lat": 5.2468,
+      "lng": 120.0398
+    },
+    {
+      "cityName": "Tumindao",
+      "lat": 4.7425,
+      "lng": 119.391389
+    },
+    {
+      "cityName": "Tungal",
+      "lat": 5.083333,
+      "lng": 120.266667
+    },
+    {
+      "cityName": "Ungas Ungas",
+      "lat": 4.658056,
+      "lng": 119.475833
+    },
+    {
+      "cityName": "Ungos-Ungos",
+      "lat": 4.764722,
+      "lng": 119.4125
+    },
+    {
+      "cityName": "Ungus-Ungus",
+      "lat": 5.050833,
+      "lng": 119.839722
+    }
+  ]
+}

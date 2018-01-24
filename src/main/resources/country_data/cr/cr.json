@@ -1,0 +1,51 @@
+{
+  "name": "Costa Rica",
+  "iso2": "cr",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Alajuela",
+      "id": 0
+    },
+    {
+      "name": "Cartago",
+      "id": 1
+    },
+    {
+      "name": "Guanacaste",
+      "id": 2
+    },
+    {
+      "name": "Heredia",
+      "id": 3
+    },
+    {
+      "name": "Limon",
+      "id": 4
+    },
+    {
+      "name": "Puntarenas",
+      "id": 5
+    },
+    {
+      "name": "San Jose",
+      "id": 6
+    }
+  ],
+  "geoRectangle": {
+    "West": -85.9506378174,
+    "East": -82.5559768677,
+    "North": 11.2168207169,
+    "South": 8.03297328949
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -6,
+    "Flg": 2,
+    "Name": "San Jose",
+    "GeoPt": [
+      9.56,
+      -84.05
+    ]
+  }
+}

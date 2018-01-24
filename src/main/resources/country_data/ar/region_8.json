@@ -1,0 +1,670 @@
+{
+  "name": "Formosa",
+  "cities": [
+    {
+      "cityName": "Alto Alegre",
+      "lat": -25.55,
+      "lng": -59.85
+    },
+    {
+      "cityName": "Apayerey",
+      "lat": -24.9833333,
+      "lng": -58.7
+    },
+    {
+      "cityName": "Bartolomé de las Casas",
+      "lat": -25.4,
+      "lng": -59.5666667
+    },
+    {
+      "cityName": "Bouvier",
+      "lat": -25.45,
+      "lng": -57.5833333
+    },
+    {
+      "cityName": "Buena Vista",
+      "lat": -23.3333333,
+      "lng": -61.6
+    },
+    {
+      "cityName": "Cabo Primero Lugones",
+      "lat": -24.2833333,
+      "lng": -59.8333333
+    },
+    {
+      "cityName": "Campo Alegre",
+      "lat": -25.1333333,
+      "lng": -60.3333333
+    },
+    {
+      "cityName": "Chiriguanos",
+      "lat": -24.1,
+      "lng": -61.45
+    },
+    {
+      "cityName": "Clorinda",
+      "lat": -25.2833333,
+      "lng": -57.7166667
+    },
+    {
+      "cityName": "Colonia 503",
+      "lat": -25.3833333,
+      "lng": -60.3
+    },
+    {
+      "cityName": "Colonia Aborigen La Primavera",
+      "lat": -25.1833333,
+      "lng": -58.1333333
+    },
+    {
+      "cityName": "Colonia Alfonso",
+      "lat": -25.1333333,
+      "lng": -58.25
+    },
+    {
+      "cityName": "Colonia Buena Vista",
+      "lat": -25.0166667,
+      "lng": -58.4333333
+    },
+    {
+      "cityName": "Colonia Dalmacia",
+      "lat": -25.85,
+      "lng": -57.9
+    },
+    {
+      "cityName": "Colonia El Gato",
+      "lat": -26.1833333,
+      "lng": -58.9333333
+    },
+    {
+      "cityName": "Colonia Herradura",
+      "lat": -26.4833333,
+      "lng": -58.3
+    },
+    {
+      "cityName": "Colonia Pastoril",
+      "lat": -25.6833333,
+      "lng": -58.2666667
+    },
+    {
+      "cityName": "Colonia Perín",
+      "lat": -25.55,
+      "lng": -60.0333333
+    },
+    {
+      "cityName": "Colonia Villafañe",
+      "lat": -26.2,
+      "lng": -59.0833333
+    },
+    {
+      "cityName": "Comandante Fontana",
+      "lat": -25.3333333,
+      "lng": -59.6833333
+    },
+    {
+      "cityName": "Doctor Carlos Montag",
+      "lat": -25.55,
+      "lng": -59.8
+    },
+    {
+      "cityName": "Doctor Ezequiel Ramos Mejía",
+      "lat": -24.1166667,
+      "lng": -61.4166667
+    },
+    {
+      "cityName": "El Alambrado",
+      "lat": -23.25,
+      "lng": -62.1666667
+    },
+    {
+      "cityName": "El Chañaral",
+      "lat": -22.5166667,
+      "lng": -62.3
+    },
+    {
+      "cityName": "El Chaquito",
+      "lat": -22.85,
+      "lng": -62.0833333
+    },
+    {
+      "cityName": "El Chorro",
+      "lat": -23.1833333,
+      "lng": -62.3
+    },
+    {
+      "cityName": "El Cogoi",
+      "lat": -24.7666667,
+      "lng": -59.2166667
+    },
+    {
+      "cityName": "El Colorado",
+      "lat": -26.3,
+      "lng": -59.3666667
+    },
+    {
+      "cityName": "El Desmonte",
+      "lat": -22.6833333,
+      "lng": -62.2
+    },
+    {
+      "cityName": "El Paraíso",
+      "lat": -25.1833333,
+      "lng": -57.9666667
+    },
+    {
+      "cityName": "El Porteño",
+      "lat": -24.7166667,
+      "lng": -59.5833333
+    },
+    {
+      "cityName": "El Rosado",
+      "lat": -22.7666667,
+      "lng": -62.3
+    },
+    {
+      "cityName": "El Totoral",
+      "lat": -23.3166667,
+      "lng": -62.0166667
+    },
+    {
+      "cityName": "Enrique H. Faure",
+      "lat": -23.9666667,
+      "lng": -61.7166667
+    },
+    {
+      "cityName": "Espinillo",
+      "lat": -24.9666667,
+      "lng": -58.5666667
+    },
+    {
+      "cityName": "Establecimiento Primera Vista",
+      "lat": -25.15,
+      "lng": -58.2
+    },
+    {
+      "cityName": "Estancia del Campo",
+      "lat": -25.05,
+      "lng": -60.1
+    },
+    {
+      "cityName": "Ex Fortín Lamadrid",
+      "lat": -23.9,
+      "lng": -60.7333333
+    },
+    {
+      "cityName": "Ex Gran Guardia",
+      "lat": -24.5333333,
+      "lng": -59.9
+    },
+    {
+      "cityName": "Ex Yunka",
+      "lat": -24.55,
+      "lng": -59.3833333
+    },
+    {
+      "cityName": "Florencia",
+      "lat": -24.2,
+      "lng": -62.0166667
+    },
+    {
+      "cityName": "Formosa",
+      "lat": -26.1833333,
+      "lng": -58.1833333
+    },
+    {
+      "cityName": "Fortín Gran Guardia Soledad",
+      "lat": -24.1333333,
+      "lng": -60.7
+    },
+    {
+      "cityName": "Fortín Nuevo Pilcomayo",
+      "lat": -23.8666667,
+      "lng": -60.8833333
+    },
+    {
+      "cityName": "Fortín Zalazar",
+      "lat": -24.2,
+      "lng": -60.2
+    },
+    {
+      "cityName": "Frontera",
+      "lat": -25.4,
+      "lng": -58.1833333
+    },
+    {
+      "cityName": "Gandofi",
+      "lat": -26.65,
+      "lng": -58.6333333
+    },
+    {
+      "cityName": "General Enrique Mosconi",
+      "lat": -23.2166667,
+      "lng": -62.3
+    },
+    {
+      "cityName": "General Francisco Basiliano Bosch",
+      "lat": -24.4,
+      "lng": -61.0166667
+    },
+    {
+      "cityName": "Gran Guardia",
+      "lat": -25.8666667,
+      "lng": -58.8833333
+    },
+    {
+      "cityName": "Guillermo N. Juárez",
+      "lat": -23.9,
+      "lng": -61.85
+    },
+    {
+      "cityName": "Ibarreta",
+      "lat": -25.2166667,
+      "lng": -59.85
+    },
+    {
+      "cityName": "Juan G. Bazán",
+      "lat": -24.55,
+      "lng": -60.8333333
+    },
+    {
+      "cityName": "Kilómetro 100",
+      "lat": -26.5166667,
+      "lng": -58.8166667
+    },
+    {
+      "cityName": "Kilómetro 213",
+      "lat": -26.1833333,
+      "lng": -59.35
+    },
+    {
+      "cityName": "Kilómetro 642",
+      "lat": -24.95,
+      "lng": -60.95
+    },
+    {
+      "cityName": "La Esperanza",
+      "lat": -24.0833333,
+      "lng": -62.2166667
+    },
+    {
+      "cityName": "Laguna Gallo",
+      "lat": -25.2666667,
+      "lng": -58.7333333
+    },
+    {
+      "cityName": "Laguna Naick-Neck",
+      "lat": -25.2166667,
+      "lng": -58.1166667
+    },
+    {
+      "cityName": "Laguna Yema",
+      "lat": -24.25,
+      "lng": -61.25
+    },
+    {
+      "cityName": "La Misión",
+      "lat": -26.2333333,
+      "lng": -58.6333333
+    },
+    {
+      "cityName": "La Paloma",
+      "lat": -23.2666667,
+      "lng": -62.0833333
+    },
+    {
+      "cityName": "La Primavera",
+      "lat": -23.55,
+      "lng": -61.2666667
+    },
+    {
+      "cityName": "Las Avispas",
+      "lat": -23.6,
+      "lng": -61.6
+    },
+    {
+      "cityName": "Las Choyas",
+      "lat": -24.9166667,
+      "lng": -59.7833333
+    },
+    {
+      "cityName": "Las Delicias",
+      "lat": -22.6166667,
+      "lng": -62.2833333
+    },
+    {
+      "cityName": "La Sirena",
+      "lat": -24.5166667,
+      "lng": -61.5333333
+    },
+    {
+      "cityName": "Las Lomitas",
+      "lat": -24.7,
+      "lng": -60.6
+    },
+    {
+      "cityName": "Las Mochas",
+      "lat": -24.8166667,
+      "lng": -59.8333333
+    },
+    {
+      "cityName": "La Sucursal",
+      "lat": -25.7833333,
+      "lng": -59.7166667
+    },
+    {
+      "cityName": "Los Matacos",
+      "lat": -25.4833333,
+      "lng": -59.45
+    },
+    {
+      "cityName": "Lucero Cué",
+      "lat": -25.2333333,
+      "lng": -58.0333333
+    },
+    {
+      "cityName": "Madera Barrios",
+      "lat": -25.6,
+      "lng": -58.4
+    },
+    {
+      "cityName": "Mariano Boedo",
+      "lat": -26.1166667,
+      "lng": -58.4833333
+    },
+    {
+      "cityName": "Mayor González",
+      "lat": -23.45,
+      "lng": -61.4666667
+    },
+    {
+      "cityName": "Media Luna",
+      "lat": -23.05,
+      "lng": -62.0833333
+    },
+    {
+      "cityName": "Misión Franciscana Tacaaglé",
+      "lat": -24.9833333,
+      "lng": -58.8333333
+    },
+    {
+      "cityName": "Misión",
+      "lat": -24.9333333,
+      "lng": -58.7666667
+    },
+    {
+      "cityName": "Misión Pilagá",
+      "lat": -23.5833333,
+      "lng": -61.1833333
+    },
+    {
+      "cityName": "Misión San Andrés",
+      "lat": -23.0333333,
+      "lng": -61.9833333
+    },
+    {
+      "cityName": "Misión Yacaré",
+      "lat": -24.0833333,
+      "lng": -62.3166667
+    },
+    {
+      "cityName": "Mistol Marcado",
+      "lat": -23.05,
+      "lng": -61.9666667
+    },
+    {
+      "cityName": "Mojón de Fierro",
+      "lat": -26.05,
+      "lng": -58.05
+    },
+    {
+      "cityName": "Monte Lindo Chico",
+      "lat": -25.5,
+      "lng": -58.4
+    },
+    {
+      "cityName": "Obraje Coati",
+      "lat": -25.7166667,
+      "lng": -59.6333333
+    },
+    {
+      "cityName": "Obraje Kilómetro 72",
+      "lat": -25.9166667,
+      "lng": -59.75
+    },
+    {
+      "cityName": "Palmarcito",
+      "lat": -22.7666667,
+      "lng": -62.1833333
+    },
+    {
+      "cityName": "Palma Sola",
+      "lat": -23.6333333,
+      "lng": -61.3666667
+    },
+    {
+      "cityName": "Palo Santo",
+      "lat": -25.5666667,
+      "lng": -59.35
+    },
+    {
+      "cityName": "Paraíso",
+      "lat": -25.2,
+      "lng": -57.9666667
+    },
+    {
+      "cityName": "Pescado Negro",
+      "lat": -23.3833333,
+      "lng": -61.7833333
+    },
+    {
+      "cityName": "Pilagá Tercero",
+      "lat": -25.5,
+      "lng": -58.9833333
+    },
+    {
+      "cityName": "Pilcomayo",
+      "lat": -25.3666667,
+      "lng": -57.65
+    },
+    {
+      "cityName": "Pirané",
+      "lat": -25.7166667,
+      "lng": -59.1
+    },
+    {
+      "cityName": "Posta General San Martín",
+      "lat": -24.4333333,
+      "lng": -59.65
+    },
+    {
+      "cityName": "Posta-i",
+      "lat": -25.7666667,
+      "lng": -58.0833333
+    },
+    {
+      "cityName": "Posta Kilómetro 45",
+      "lat": -24.3833333,
+      "lng": -60.3166667
+    },
+    {
+      "cityName": "Potrero de los Caballos",
+      "lat": -26.5,
+      "lng": -58.6666667
+    },
+    {
+      "cityName": "Pozo de la Yegua",
+      "lat": -24.15,
+      "lng": -61.95
+    },
+    {
+      "cityName": "Pozo del Mortero",
+      "lat": -24.4,
+      "lng": -61.0333333
+    },
+    {
+      "cityName": "Pozo del Tigre",
+      "lat": -24.9,
+      "lng": -60.3166667
+    },
+    {
+      "cityName": "Pozo de Maza",
+      "lat": -23.5666667,
+      "lng": -61.7
+    },
+    {
+      "cityName": "Presidente Irigoyen",
+      "lat": -26.1833333,
+      "lng": -58.8166667
+    },
+    {
+      "cityName": "Primera Punta",
+      "lat": -25.1333333,
+      "lng": -58.3833333
+    },
+    {
+      "cityName": "Puerto Dalmacia",
+      "lat": -25.8666667,
+      "lng": -57.8833333
+    },
+    {
+      "cityName": "Puerto Galileo",
+      "lat": -25.0833333,
+      "lng": -57.85
+    },
+    {
+      "cityName": "Puerto Irigoyen",
+      "lat": -23.2166667,
+      "lng": -61.7333333
+    },
+    {
+      "cityName": "Punta Porá",
+      "lat": -25.2166667,
+      "lng": -58.5166667
+    },
+    {
+      "cityName": "Riacho Eh-Eh",
+      "lat": -25.3833333,
+      "lng": -58.3
+    },
+    {
+      "cityName": "Riacho Lindo",
+      "lat": -26.4166667,
+      "lng": -58.55
+    },
+    {
+      "cityName": "Río Muerto",
+      "lat": -23.6166667,
+      "lng": -61.3166667
+    },
+    {
+      "cityName": "San Francisco",
+      "lat": -23.6166667,
+      "lng": -61.65
+    },
+    {
+      "cityName": "San Hilario",
+      "lat": -26.0333333,
+      "lng": -58.65
+    },
+    {
+      "cityName": "San Isidro",
+      "lat": -22.95,
+      "lng": -62.0666667
+    },
+    {
+      "cityName": "San Juan",
+      "lat": -25.1666667,
+      "lng": -57.9333333
+    },
+    {
+      "cityName": "San Ramón",
+      "lat": -25.0666667,
+      "lng": -60.3
+    },
+    {
+      "cityName": "Santa Rosa",
+      "lat": -23.7833333,
+      "lng": -61.4833333
+    },
+    {
+      "cityName": "Sección San Nicolás",
+      "lat": -25.6666667,
+      "lng": -58.1666667
+    },
+    {
+      "cityName": "Segunda Punta",
+      "lat": -25.05,
+      "lng": -58.3833333
+    },
+    {
+      "cityName": "Selva María",
+      "lat": -23.0333333,
+      "lng": -62.1
+    },
+    {
+      "cityName": "Siete Palmas",
+      "lat": -25.2166667,
+      "lng": -58.3333333
+    },
+    {
+      "cityName": "Tacaaglé",
+      "lat": -24.9666667,
+      "lng": -58.8166667
+    },
+    {
+      "cityName": "Teniente Brown",
+      "lat": -24.8,
+      "lng": -60.4666667
+    },
+    {
+      "cityName": "Teniente General Juan Carlos Sánchez",
+      "lat": -25.35,
+      "lng": -58.3
+    },
+    {
+      "cityName": "Teniente General R.M. Fraga",
+      "lat": -23.75,
+      "lng": -62.15
+    },
+    {
+      "cityName": "Tres Horquetas",
+      "lat": -26.2,
+      "lng": -58.4
+    },
+    {
+      "cityName": "Tres Marías",
+      "lat": -26.3333333,
+      "lng": -58.2
+    },
+    {
+      "cityName": "Tres Pitos",
+      "lat": -26.35,
+      "lng": -58.4333333
+    },
+    {
+      "cityName": "Tres Pozos",
+      "lat": -23.65,
+      "lng": -62.3333333
+    },
+    {
+      "cityName": "Tucumancito",
+      "lat": -22.8166667,
+      "lng": -62.1166667
+    },
+    {
+      "cityName": "Villa Escobar Navegación Río Bermejo",
+      "lat": -26.6166667,
+      "lng": -58.6666667
+    },
+    {
+      "cityName": "Villa Real",
+      "lat": -25.0666667,
+      "lng": -58.55
+    },
+    {
+      "cityName": "Villa Zavaleta",
+      "lat": -22.5333333,
+      "lng": -62.2666667
+    }
+  ]
+}

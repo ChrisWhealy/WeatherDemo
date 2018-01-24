@@ -1,0 +1,63 @@
+{
+  "name": "Suriname",
+  "iso2": "sr",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Brokopondo",
+      "id": 0
+    },
+    {
+      "name": "Commewijne",
+      "id": 1
+    },
+    {
+      "name": "Coronie",
+      "id": 2
+    },
+    {
+      "name": "Marowijne",
+      "id": 3
+    },
+    {
+      "name": "Nickerie",
+      "id": 4
+    },
+    {
+      "name": "Para",
+      "id": 5
+    },
+    {
+      "name": "Paramaribo",
+      "id": 6
+    },
+    {
+      "name": "Saramacca",
+      "id": 7
+    },
+    {
+      "name": "Sipaliwini",
+      "id": 8
+    },
+    {
+      "name": "Wanica",
+      "id": 9
+    }
+  ],
+  "geoRectangle": {
+    "West": -58.086566925,
+    "East": -53.9774856567,
+    "North": 6.0045466423,
+    "South": 1.83114480972
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -3,
+    "Flg": 2,
+    "Name": "Paramaribo",
+    "GeoPt": [
+      5.5,
+      -55.1
+    ]
+  }
+}

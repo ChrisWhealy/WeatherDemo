@@ -1,0 +1,47 @@
+{
+  "name": "Grenada",
+  "iso2": "gd",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Saint Andrew",
+      "id": 0
+    },
+    {
+      "name": "Saint David",
+      "id": 1
+    },
+    {
+      "name": "Saint George",
+      "id": 2
+    },
+    {
+      "name": "Saint John",
+      "id": 3
+    },
+    {
+      "name": "Saint Mark",
+      "id": 4
+    },
+    {
+      "name": "Saint Patrick",
+      "id": 5
+    }
+  ],
+  "geoRectangle": {
+    "West": -61.7999801636,
+    "East": -61.5738258362,
+    "North": 12.319396019,
+    "South": 11.9923725128
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -4,
+    "Flg": 2,
+    "Name": "Saint George's",
+    "GeoPt": [
+      12.03,
+      -61.45
+    ]
+  }
+}

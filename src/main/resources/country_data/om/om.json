@@ -1,0 +1,51 @@
+{
+  "name": "Oman",
+  "iso2": "om",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Al Batinah",
+      "id": 0
+    },
+    {
+      "name": "Ash Sharqiyah",
+      "id": 1
+    },
+    {
+      "name": "Az Zahirah",
+      "id": 2
+    },
+    {
+      "name": "Masqat",
+      "id": 3
+    },
+    {
+      "name": "Musandam",
+      "id": 4
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 5
+    },
+    {
+      "name": "Zufar",
+      "id": 6
+    }
+  ],
+  "geoRectangle": {
+    "West": 51.8819961548,
+    "East": 59.8365859985,
+    "North": 26.3879756927,
+    "South": 16.6457462311
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 4,
+    "Flg": 2,
+    "Name": "Muscat",
+    "GeoPt": [
+      23.37,
+      58.35
+    ]
+  }
+}

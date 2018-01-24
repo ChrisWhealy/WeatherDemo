@@ -1,0 +1,53 @@
+{
+  "name": "Svalbard and Jan Mayen",
+  "iso2": "sj",
+  "cities": [
+    {
+      "cityName": "Barentsburg",
+      "lat": 78.0666667,
+      "lng": 14.2333333
+    },
+    {
+      "cityName": "Grumantbyen",
+      "lat": 78.1833333,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Longyearbyen",
+      "lat": 78.2166667,
+      "lng": 15.6333333
+    },
+    {
+      "cityName": "Neu-Aalesund",
+      "lat": 78.9333333,
+      "lng": 11.95
+    },
+    {
+      "cityName": "Nybyen",
+      "lat": 78.2,
+      "lng": 15.6166667
+    },
+    {
+      "cityName": "Sveagruvan",
+      "lat": 77.9,
+      "lng": 16.6833333
+    }
+  ],
+  "regionList": null,
+  "geoRectangle": {
+    "West": 10.1993865967,
+    "East": 33.2873382568,
+    "North": 80.7621002197,
+    "South": 76.4452911377
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Longyearbyen",
+    "GeoPt": [
+      78.13,
+      15.33
+    ]
+  }
+}

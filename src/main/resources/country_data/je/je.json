@@ -1,0 +1,83 @@
+{
+  "name": "Jersey",
+  "iso2": "je",
+  "capital": {
+    "DLST": 1,
+    "TD": 0,
+    "Flg": 2,
+    "Name": "Saint Helier",
+    "GeoPt": [
+      49.11,
+      -2.06
+    ]
+  },
+  "geoRectangle": {
+    "West": -2.26002836227,
+    "East": -2.02208256721,
+    "North": 49.2650642395,
+    "South": 49.1698265076
+  },
+  "regionList": null,
+  "cities": [
+    {
+      "cityName": "Ville des Quennevais",
+      "lng": -2.20028,
+      "lat": 49.201939
+    },
+    {
+      "cityName": "Bailiwick of Jersey",
+      "lng": -2.11667,
+      "lat": 49.216671
+    },
+    {
+      "cityName": "Jersey (general)",
+      "lng": -2.10034,
+      "lat": 49.183399
+    },
+    {
+      "cityName": "Longueville",
+      "lng": -2.08333,
+      "lat": 49.183331
+    },
+    {
+      "cityName": "Saint Helier",
+      "lng": -2.10491,
+      "lat": 49.188042
+    },
+    {
+      "cityName": "Saint Peter’s Church",
+      "lng": -2.18361,
+      "lat": 49.212219
+    },
+    {
+      "cityName": "Ville Bagot",
+      "lng": -2.2075,
+      "lat": 49.24361
+    },
+    {
+      "cityName": "La Haule",
+      "lng": -2.18333,
+      "lat": 49.183331
+    },
+    {
+      "cityName": "Mont Mado",
+      "lng": -2.12417,
+      "lat": 49.246941
+    },
+    {
+      "cityName": "Rozel",
+      "lng": -2.04611,
+      "lat": 49.236389
+    },
+    {
+      "cityName": "Portinfer",
+      "lng": -2.22583,
+      "lat": 49.25111
+    },
+    {
+      "cityName": "La Falaise",
+      "lng": -2.16889,
+      "lat": 49.249439
+    }
+  ]
+}

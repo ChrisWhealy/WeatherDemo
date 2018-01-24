@@ -1,0 +1,59 @@
+{
+  "name": "Gabon",
+  "iso2": "ga",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Estuaire",
+      "id": 0
+    },
+    {
+      "name": "Haut-Ogooue",
+      "id": 1
+    },
+    {
+      "name": "Moyen-Ogooue",
+      "id": 2
+    },
+    {
+      "name": "Ngounie",
+      "id": 3
+    },
+    {
+      "name": "Nyanga",
+      "id": 4
+    },
+    {
+      "name": "Ogooue-Ivindo",
+      "id": 5
+    },
+    {
+      "name": "Ogooue-Lolo",
+      "id": 6
+    },
+    {
+      "name": "Ogooue-Maritime",
+      "id": 7
+    },
+    {
+      "name": "Woleu-Ntem",
+      "id": 8
+    }
+  ],
+  "geoRectangle": {
+    "West": 8.69546985626,
+    "East": 14.5023488998,
+    "North": 2.32261228561,
+    "South": -3.97880625725
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Libreville",
+    "GeoPt": [
+      0.23,
+      9.27
+    ]
+  }
+}

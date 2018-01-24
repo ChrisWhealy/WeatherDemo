@@ -1,0 +1,79 @@
+{
+  "name": "Namibia",
+  "iso2": "na",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Caprivi",
+      "id": 0
+    },
+    {
+      "name": "Erongo",
+      "id": 1
+    },
+    {
+      "name": "Hardap",
+      "id": 2
+    },
+    {
+      "name": "Karas",
+      "id": 3
+    },
+    {
+      "name": "Kunene",
+      "id": 4
+    },
+    {
+      "name": "Ohangwena",
+      "id": 5
+    },
+    {
+      "name": "Okavango",
+      "id": 6
+    },
+    {
+      "name": "Omaheke",
+      "id": 7
+    },
+    {
+      "name": "Omusati",
+      "id": 8
+    },
+    {
+      "name": "Oshana",
+      "id": 9
+    },
+    {
+      "name": "Oshikoto",
+      "id": 10
+    },
+    {
+      "name": "Otjozondjupa",
+      "id": 11
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 12
+    },
+    {
+      "name": "Windhoek",
+      "id": 13
+    }
+  ],
+  "geoRectangle": {
+    "West": 11.715628624,
+    "East": 25.2567043304,
+    "North": -16.9598903656,
+    "South": -28.9714336395
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Windhoek",
+    "GeoPt": [
+      -22.34,
+      17.05
+    ]
+  }
+}

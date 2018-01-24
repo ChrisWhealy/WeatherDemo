@@ -1,0 +1,79 @@
+{
+  "name": "Jamaica",
+  "iso2": "jm",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Clarendon",
+      "id": 0
+    },
+    {
+      "name": "Hanover",
+      "id": 1
+    },
+    {
+      "name": "Kingston",
+      "id": 2
+    },
+    {
+      "name": "Manchester",
+      "id": 3
+    },
+    {
+      "name": "Portland",
+      "id": 4
+    },
+    {
+      "name": "Saint Andrew",
+      "id": 5
+    },
+    {
+      "name": "Saint Ann",
+      "id": 6
+    },
+    {
+      "name": "Saint Catherine",
+      "id": 7
+    },
+    {
+      "name": "Saint Elizabeth",
+      "id": 8
+    },
+    {
+      "name": "Saint James",
+      "id": 9
+    },
+    {
+      "name": "Saint Mary",
+      "id": 10
+    },
+    {
+      "name": "Saint Thomas",
+      "id": 11
+    },
+    {
+      "name": "Trelawny",
+      "id": 12
+    },
+    {
+      "name": "Westmoreland",
+      "id": 13
+    }
+  ],
+  "geoRectangle": {
+    "West": -78.366645813,
+    "East": -76.1803131104,
+    "North": 18.5269794464,
+    "South": 17.7035503387
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -5,
+    "Flg": 2,
+    "Name": "Kingston",
+    "GeoPt": [
+      18,
+      -76.48
+    ]
+  }
+}

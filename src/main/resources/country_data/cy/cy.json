@@ -1,0 +1,47 @@
+{
+  "name": "Cyprus",
+  "iso2": "cy",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Famagusta",
+      "id": 0
+    },
+    {
+      "name": "Kyrenia",
+      "id": 1
+    },
+    {
+      "name": "Larnaca",
+      "id": 2
+    },
+    {
+      "name": "Limassol",
+      "id": 3
+    },
+    {
+      "name": "Nicosia",
+      "id": 4
+    },
+    {
+      "name": "Paphos",
+      "id": 5
+    }
+  ],
+  "geoRectangle": {
+    "West": 32.2730789185,
+    "East": 34.5979232788,
+    "North": 35.7015342712,
+    "South": 34.5634918213
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Nicosia",
+    "GeoPt": [
+      35.1,
+      33.22
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Maldives",
+  "iso2": "mv",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Maale",
+      "id": 0
+    },
+    {
+      "name": "Seenu",
+      "id": 1
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 2
+    }
+  ],
+  "geoRectangle": {
+    "West": 72.6932067871,
+    "East": 73.6372909546,
+    "North": 7.09836149216,
+    "South": -0.692694067955
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 5,
+    "Flg": 2,
+    "Name": "Male",
+    "GeoPt": [
+      4.1,
+      73.3
+    ]
+  }
+}

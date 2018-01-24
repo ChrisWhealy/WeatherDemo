@@ -1,0 +1,47 @@
+{
+  "name": "Lebanon",
+  "iso2": "lb",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Al Janub",
+      "id": 0
+    },
+    {
+      "name": "Beqaa",
+      "id": 1
+    },
+    {
+      "name": "Beyrouth",
+      "id": 2
+    },
+    {
+      "name": "Liban-Nord",
+      "id": 3
+    },
+    {
+      "name": "Liban-Sud",
+      "id": 4
+    },
+    {
+      "name": "Mont-Liban",
+      "id": 5
+    }
+  ],
+  "geoRectangle": {
+    "West": 35.1142730713,
+    "East": 36.6391983032,
+    "North": 34.6914253235,
+    "South": 33.053855896
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Beirut",
+    "GeoPt": [
+      33.52,
+      35.3
+    ]
+  }
+}

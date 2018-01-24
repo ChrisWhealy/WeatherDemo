@@ -1,0 +1,91 @@
+{
+  "name": "Nicaragua",
+  "iso2": "ni",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Autonoma Atlantico Norte",
+      "id": 0
+    },
+    {
+      "name": "Boaco",
+      "id": 1
+    },
+    {
+      "name": "Carazo",
+      "id": 2
+    },
+    {
+      "name": "Chinandega",
+      "id": 3
+    },
+    {
+      "name": "Chontales",
+      "id": 4
+    },
+    {
+      "name": "Esteli",
+      "id": 5
+    },
+    {
+      "name": "Granada",
+      "id": 6
+    },
+    {
+      "name": "Jinotega",
+      "id": 7
+    },
+    {
+      "name": "Leon",
+      "id": 8
+    },
+    {
+      "name": "Madriz",
+      "id": 9
+    },
+    {
+      "name": "Managua",
+      "id": 10
+    },
+    {
+      "name": "Masaya",
+      "id": 11
+    },
+    {
+      "name": "Matagalpa",
+      "id": 12
+    },
+    {
+      "name": "Nueva Segovia",
+      "id": 13
+    },
+    {
+      "name": "Region Autonoma Atlantico Sur",
+      "id": 14
+    },
+    {
+      "name": "Rio San Juan",
+      "id": 15
+    },
+    {
+      "name": "Rivas",
+      "id": 16
+    }
+  ],
+  "geoRectangle": {
+    "West": -87.690322876,
+    "East": -82.73828125,
+    "North": 15.0259103775,
+    "South": 10.7075414658
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -6,
+    "Flg": 2,
+    "Name": "Managua",
+    "GeoPt": [
+      12.09,
+      -86.17
+    ]
+  }
+}

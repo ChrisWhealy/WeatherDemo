@@ -1,0 +1,605 @@
+{
+  "name": "Aizkraukles",
+  "cities": [
+    {
+      "cityName": "Aiskari",
+      "lat": 56.7333333,
+      "lng": 26.7
+    },
+    {
+      "cityName": "Aizkraukle",
+      "lat": 56.6,
+      "lng": 25.1833333
+    },
+    {
+      "cityName": "Andzani",
+      "lat": 56.4833333,
+      "lng": 25.3
+    },
+    {
+      "cityName": "Bagu",
+      "lat": 56.5333333,
+      "lng": 25.35
+    },
+    {
+      "cityName": "Bajari",
+      "lat": 56.6166667,
+      "lng": 25.3833333
+    },
+    {
+      "cityName": "Balbieri",
+      "lat": 56.6666667,
+      "lng": 25.4833333
+    },
+    {
+      "cityName": "Barisi",
+      "lat": 56.6333333,
+      "lng": 25.0833333
+    },
+    {
+      "cityName": "Bebri",
+      "lat": 56.7333333,
+      "lng": 25.5
+    },
+    {
+      "cityName": "Bikernieki",
+      "lat": 56.5833333,
+      "lng": 25.4666667
+    },
+    {
+      "cityName": "Bitani",
+      "lat": 56.6166667,
+      "lng": 25.3666667
+    },
+    {
+      "cityName": "Bites",
+      "lat": 56.7833333,
+      "lng": 25.75
+    },
+    {
+      "cityName": "Bormani",
+      "lat": 56.6833333,
+      "lng": 25.4833333
+    },
+    {
+      "cityName": "Brenceni",
+      "lat": 56.7166667,
+      "lng": 25.5
+    },
+    {
+      "cityName": "Bulvani",
+      "lat": 56.7333333,
+      "lng": 25.7
+    },
+    {
+      "cityName": "Bunduli",
+      "lat": 56.65,
+      "lng": 25.65
+    },
+    {
+      "cityName": "Ciruli",
+      "lat": 56.7,
+      "lng": 25.25
+    },
+    {
+      "cityName": "Daudzesa",
+      "lat": 56.4666667,
+      "lng": 25.2333333
+    },
+    {
+      "cityName": "Daudziesani",
+      "lat": 56.6166667,
+      "lng": 25.35
+    },
+    {
+      "cityName": "Drapani",
+      "lat": 56.6166667,
+      "lng": 25.55
+    },
+    {
+      "cityName": "Dudkas",
+      "lat": 56.5666667,
+      "lng": 25.5166667
+    },
+    {
+      "cityName": "Egleskrogs",
+      "lat": 56.5166667,
+      "lng": 25.4666667
+    },
+    {
+      "cityName": "Erberge",
+      "lat": 56.3666667,
+      "lng": 25.0166667
+    },
+    {
+      "cityName": "Fol'vark Murvmuyzha",
+      "lat": 56.45,
+      "lng": 24.9166667
+    },
+    {
+      "cityName": "Gercani",
+      "lat": 56.6333333,
+      "lng": 25.8833333
+    },
+    {
+      "cityName": "Gostini",
+      "lat": 56.6166667,
+      "lng": 25.7833333
+    },
+    {
+      "cityName": "Gricgale",
+      "lat": 56.2166667,
+      "lng": 25.1166667
+    },
+    {
+      "cityName": "Gridzini",
+      "lat": 56.6166667,
+      "lng": 25.1833333
+    },
+    {
+      "cityName": "Ikseni",
+      "lat": 56.7666667,
+      "lng": 25.7
+    },
+    {
+      "cityName": "Irsi",
+      "lat": 56.7833333,
+      "lng": 25.6
+    },
+    {
+      "cityName": "Jaunbebri",
+      "lat": 56.7333333,
+      "lng": 25.6
+    },
+    {
+      "cityName": "Jaunvegi",
+      "lat": 56.6833333,
+      "lng": 25.1333333
+    },
+    {
+      "cityName": "Juci",
+      "lat": 56.6333333,
+      "lng": 25.75
+    },
+    {
+      "cityName": "Kalandri",
+      "lat": 56.5833333,
+      "lng": 25.45
+    },
+    {
+      "cityName": "Kalnaulini",
+      "lat": 56.6166667,
+      "lng": 25.3166667
+    },
+    {
+      "cityName": "Kalniesi",
+      "lat": 56.25,
+      "lng": 25.2166667
+    },
+    {
+      "cityName": "Kapostini",
+      "lat": 56.6666667,
+      "lng": 25.4166667
+    },
+    {
+      "cityName": "Kimstienki",
+      "lat": 56.7333333,
+      "lng": 26.4333333
+    },
+    {
+      "cityName": "Knavini",
+      "lat": 56.2166667,
+      "lng": 25.1833333
+    },
+    {
+      "cityName": "Koaknese",
+      "lat": 56.65,
+      "lng": 25.4333333
+    },
+    {
+      "cityName": "Krasti",
+      "lat": 56.4402778,
+      "lng": 24.9202778
+    },
+    {
+      "cityName": "Kugi",
+      "lat": 56.6333333,
+      "lng": 25.8
+    },
+    {
+      "cityName": "Kurini",
+      "lat": 56.6166667,
+      "lng": 25.4666667
+    },
+    {
+      "cityName": "Kurmene",
+      "lat": 56.4213889,
+      "lng": 24.8269444
+    },
+    {
+      "cityName": "Kurmeni",
+      "lat": 56.6666667,
+      "lng": 25.7
+    },
+    {
+      "cityName": "Leisani",
+      "lat": 56.4333333,
+      "lng": 25.4666667
+    },
+    {
+      "cityName": "Lejaskuzmas",
+      "lat": 57.6166667,
+      "lng": 25.2166667
+    },
+    {
+      "cityName": "Lielmemele",
+      "lat": 56.3347222,
+      "lng": 24.9727778
+    },
+    {
+      "cityName": "Lielpavli",
+      "lat": 56.75,
+      "lng": 25.7
+    },
+    {
+      "cityName": "Lieltirumi",
+      "lat": 56.7333333,
+      "lng": 25.4
+    },
+    {
+      "cityName": "Lielzalve",
+      "lat": 56.3333333,
+      "lng": 25.25
+    },
+    {
+      "cityName": "Ludani",
+      "lat": 56.6,
+      "lng": 25.4
+    },
+    {
+      "cityName": "Maureni",
+      "lat": 56.6,
+      "lng": 25.2833333
+    },
+    {
+      "cityName": "Mezaki",
+      "lat": 56.5833333,
+      "lng": 25.55
+    },
+    {
+      "cityName": "Mezamuiza",
+      "lat": 56.3666667,
+      "lng": 25.2666667
+    },
+    {
+      "cityName": "Mezavekteri",
+      "lat": 56.6666667,
+      "lng": 25.15
+    },
+    {
+      "cityName": "Mucenieki",
+      "lat": 56.7,
+      "lng": 25.1166667
+    },
+    {
+      "cityName": "Myza Nereta",
+      "lat": 56.1666667,
+      "lng": 25.3
+    },
+    {
+      "cityName": "Myza Odzienas",
+      "lat": 56.7,
+      "lng": 25.6833333
+    },
+    {
+      "cityName": "Myza Pasta",
+      "lat": 56.6166667,
+      "lng": 25.45
+    },
+    {
+      "cityName": "Myza Setse",
+      "lat": 56.55,
+      "lng": 25.3833333
+    },
+    {
+      "cityName": "Myza Steinteldes",
+      "lat": 56.55,
+      "lng": 25.4
+    },
+    {
+      "cityName": "Myza Valenburgasmezha",
+      "lat": 56.4333333,
+      "lng": 25.0666667
+    },
+    {
+      "cityName": "Myza Vetsbebru",
+      "lat": 56.7166667,
+      "lng": 25.4833333
+    },
+    {
+      "cityName": "Myza Vietalvas",
+      "lat": 56.7333333,
+      "lng": 25.7666667
+    },
+    {
+      "cityName": "Oskalni",
+      "lat": 56.2833333,
+      "lng": 25.1166667
+    },
+    {
+      "cityName": "Pargize",
+      "lat": 56.5666667,
+      "lng": 25.3166667
+    },
+    {
+      "cityName": "Penderi",
+      "lat": 56.4869444,
+      "lng": 24.7791667
+    },
+    {
+      "cityName": "Pilskalne",
+      "lat": 56.2,
+      "lng": 25.1833333
+    },
+    {
+      "cityName": "Plavinas",
+      "lat": 56.6166667,
+      "lng": 25.7166667
+    },
+    {
+      "cityName": "Plavinu",
+      "lat": 56.5833333,
+      "lng": 25.6
+    },
+    {
+      "cityName": "Plepji",
+      "lat": 56.7333333,
+      "lng": 25.55
+    },
+    {
+      "cityName": "Putnini",
+      "lat": 56.4833333,
+      "lng": 25.5
+    },
+    {
+      "cityName": "Rasas",
+      "lat": 56.6833333,
+      "lng": 25.5333333
+    },
+    {
+      "cityName": "Riemeri",
+      "lat": 56.7333333,
+      "lng": 25.4666667
+    },
+    {
+      "cityName": "Riteri Muizas Centrs",
+      "lat": 56.6,
+      "lng": 25.5166667
+    },
+    {
+      "cityName": "Robezkrogs",
+      "lat": 56.5666667,
+      "lng": 25.5666667
+    },
+    {
+      "cityName": "(( Robeznieki ))",
+      "lat": 56.5166667,
+      "lng": 24.9333333
+    },
+    {
+      "cityName": "Rundale",
+      "lat": 56.4333333,
+      "lng": 25.1833333
+    },
+    {
+      "cityName": "Ruzi",
+      "lat": 56.65,
+      "lng": 25.7833333
+    },
+    {
+      "cityName": "Salas",
+      "lat": 56.6833333,
+      "lng": 25.3
+    },
+    {
+      "cityName": "Samani",
+      "lat": 56.5833333,
+      "lng": 25.25
+    },
+    {
+      "cityName": "Serene",
+      "lat": 56.5666667,
+      "lng": 25.2166667
+    },
+    {
+      "cityName": "Sileskrogs",
+      "lat": 56.5666667,
+      "lng": 25.2666667
+    },
+    {
+      "cityName": "Siljani",
+      "lat": 56.75,
+      "lng": 25.6166667
+    },
+    {
+      "cityName": "Simanieki",
+      "lat": 56.7333333,
+      "lng": 26.5666667
+    },
+    {
+      "cityName": "Skriveri",
+      "lat": 56.65,
+      "lng": 25.1333333
+    },
+    {
+      "cityName": "Skudras",
+      "lat": 56.6833333,
+      "lng": 25.45
+    },
+    {
+      "cityName": "Slapsiles",
+      "lat": 56.7833333,
+      "lng": 25.45
+    },
+    {
+      "cityName": "Smaltani",
+      "lat": 56.2666667,
+      "lng": 25.1833333
+    },
+    {
+      "cityName": "Sprodeny",
+      "lat": 56.75,
+      "lng": 25.8
+    },
+    {
+      "cityName": "Staburags",
+      "lat": 56.5166667,
+      "lng": 25.5
+    },
+    {
+      "cityName": "Stadelinelki",
+      "lat": 56.3166667,
+      "lng": 25.0833333
+    },
+    {
+      "cityName": "Staprani",
+      "lat": 56.7333333,
+      "lng": 25.2833333
+    },
+    {
+      "cityName": "Stipas",
+      "lat": 56.5833333,
+      "lng": 25.35
+    },
+    {
+      "cityName": "Stirnas",
+      "lat": 56.65,
+      "lng": 25.6166667
+    },
+    {
+      "cityName": "Stokas",
+      "lat": 56.5333333,
+      "lng": 25.25
+    },
+    {
+      "cityName": "Stukmani",
+      "lat": 56.6,
+      "lng": 25.6333333
+    },
+    {
+      "cityName": "Stukmeni",
+      "lat": 56.6,
+      "lng": 25.65
+    },
+    {
+      "cityName": "(( Sudmalkrogs ))",
+      "lat": 56.5,
+      "lng": 24.7333333
+    },
+    {
+      "cityName": "Sunakste",
+      "lat": 56.45,
+      "lng": 25.4833333
+    },
+    {
+      "cityName": "Suseja",
+      "lat": 56.3,
+      "lng": 25.1666667
+    },
+    {
+      "cityName": "Svili",
+      "lat": 56.4666667,
+      "lng": 25.4333333
+    },
+    {
+      "cityName": "Taurkalne",
+      "lat": 56.5644444,
+      "lng": 24.9286111
+    },
+    {
+      "cityName": "Tupesani",
+      "lat": 56.75,
+      "lng": 25.5
+    },
+    {
+      "cityName": "Ubeli",
+      "lat": 56.5333333,
+      "lng": 25.4666667
+    },
+    {
+      "cityName": "Usini",
+      "lat": 56.6666667,
+      "lng": 25.5166667
+    },
+    {
+      "cityName": "Valle",
+      "lat": 56.5122222,
+      "lng": 24.7330556
+    },
+    {
+      "cityName": "Varpani",
+      "lat": 56.5666667,
+      "lng": 25.35
+    },
+    {
+      "cityName": "Vec Memele Muizas Centrs",
+      "lat": 56.2666667,
+      "lng": 25.05
+    },
+    {
+      "cityName": "Vecpeteri",
+      "lat": 56.45,
+      "lng": 25.4666667
+    },
+    {
+      "cityName": "Velbeni",
+      "lat": 56.7,
+      "lng": 25.15
+    },
+    {
+      "cityName": "Verdini",
+      "lat": 56.4083333,
+      "lng": 24.7022222
+    },
+    {
+      "cityName": "Vesetnieki",
+      "lat": 56.6166667,
+      "lng": 25.85
+    },
+    {
+      "cityName": "Viesites",
+      "lat": 56.4166667,
+      "lng": 25.2333333
+    },
+    {
+      "cityName": "Vigante",
+      "lat": 56.5666667,
+      "lng": 25.5
+    },
+    {
+      "cityName": "Vigkale",
+      "lat": 56.6666667,
+      "lng": 25.3666667
+    },
+    {
+      "cityName": "Viksala Muiza Centrs",
+      "lat": 56.6666667,
+      "lng": 25.35
+    },
+    {
+      "cityName": "Vindedzhi",
+      "lat": 56.3833333,
+      "lng": 24.95
+    },
+    {
+      "cityName": "Zalaki",
+      "lat": 56.4166667,
+      "lng": 25.3833333
+    },
+    {
+      "cityName": "Zvaynek",
+      "lat": 56.2833333,
+      "lng": 25.1333333
+    }
+  ]
+}

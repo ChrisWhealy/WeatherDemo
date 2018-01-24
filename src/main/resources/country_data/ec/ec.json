@@ -1,0 +1,111 @@
+{
+  "name": "Ecuador",
+  "iso2": "ec",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Azuay",
+      "id": 0
+    },
+    {
+      "name": "Bolivar",
+      "id": 1
+    },
+    {
+      "name": "Canar",
+      "id": 2
+    },
+    {
+      "name": "Carchi",
+      "id": 3
+    },
+    {
+      "name": "Chimborazo",
+      "id": 4
+    },
+    {
+      "name": "Cotopaxi",
+      "id": 5
+    },
+    {
+      "name": "El Oro",
+      "id": 6
+    },
+    {
+      "name": "Esmeraldas",
+      "id": 7
+    },
+    {
+      "name": "Galapagos",
+      "id": 8
+    },
+    {
+      "name": "Guayas",
+      "id": 9
+    },
+    {
+      "name": "Imbabura",
+      "id": 10
+    },
+    {
+      "name": "Loja",
+      "id": 11
+    },
+    {
+      "name": "Los Rios",
+      "id": 12
+    },
+    {
+      "name": "Manabi",
+      "id": 13
+    },
+    {
+      "name": "Morona-Santiago",
+      "id": 14
+    },
+    {
+      "name": "Napo",
+      "id": 15
+    },
+    {
+      "name": "Orellana",
+      "id": 16
+    },
+    {
+      "name": "Pastaza",
+      "id": 17
+    },
+    {
+      "name": "Pichincha",
+      "id": 18
+    },
+    {
+      "name": "Sucumbios",
+      "id": 19
+    },
+    {
+      "name": "Tungurahua",
+      "id": 20
+    },
+    {
+      "name": "Zamora-Chinchipe",
+      "id": 21
+    }
+  ],
+  "geoRectangle": {
+    "West": -91.6618881226,
+    "East": -75.1845779419,
+    "North": 1.41893422604,
+    "South": -4.99882364273
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -5,
+    "Flg": 2,
+    "Name": "Quito",
+    "GeoPt": [
+      -0.13,
+      -78.3
+    ]
+  }
+}

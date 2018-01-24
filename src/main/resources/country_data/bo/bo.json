@@ -1,0 +1,59 @@
+{
+  "name": "Bolivia",
+  "iso2": "bo",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Chuquisaca",
+      "id": 0
+    },
+    {
+      "name": "Cochabamba",
+      "id": 1
+    },
+    {
+      "name": "El Beni",
+      "id": 2
+    },
+    {
+      "name": "La Paz",
+      "id": 3
+    },
+    {
+      "name": "Oruro",
+      "id": 4
+    },
+    {
+      "name": "Pando",
+      "id": 5
+    },
+    {
+      "name": "Potosi",
+      "id": 6
+    },
+    {
+      "name": "Santa Cruz",
+      "id": 7
+    },
+    {
+      "name": "Tarija",
+      "id": 8
+    }
+  ],
+  "geoRectangle": {
+    "West": -69.6407699585,
+    "East": -57.4580917358,
+    "North": -9.68056583405,
+    "South": -22.8961353302
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": -4,
+    "Flg": 2,
+    "Name": "La Paz",
+    "GeoPt": [
+      -16.3,
+      -68.09
+    ]
+  }
+}

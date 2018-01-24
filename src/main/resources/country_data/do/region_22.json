@@ -1,0 +1,545 @@
+{
+  "name": "Samana",
+  "cities": [
+    {
+      "cityName": "Abra Grande",
+      "lat": 19.3166667,
+      "lng": -69.5
+    },
+    {
+      "cityName": "Acosta",
+      "lat": 19.2166667,
+      "lng": -69.3166667
+    },
+    {
+      "cityName": "Agua del Jobo",
+      "lat": 19.2833333,
+      "lng": -69.2833333
+    },
+    {
+      "cityName": "Aguas Buenas",
+      "lat": 19.25,
+      "lng": -69.6833333
+    },
+    {
+      "cityName": "Algarrobos",
+      "lat": 19.2166667,
+      "lng": -69.3666667
+    },
+    {
+      "cityName": "Altamira",
+      "lat": 19.25,
+      "lng": -69.5833333
+    },
+    {
+      "cityName": "Anade",
+      "lat": 19.2,
+      "lng": -69.3166667
+    },
+    {
+      "cityName": "Arenazos",
+      "lat": 19.2166667,
+      "lng": -69.3833333
+    },
+    {
+      "cityName": "Arroyo Barril",
+      "lat": 19.2,
+      "lng": -69.45
+    },
+    {
+      "cityName": "Arroyo Chico Abajo",
+      "lat": 19.25,
+      "lng": -69.45
+    },
+    {
+      "cityName": "Arroyo Chico Arriba",
+      "lat": 19.25,
+      "lng": -69.4833333
+    },
+    {
+      "cityName": "Arroyo del Cabo",
+      "lat": 19.2666667,
+      "lng": -69.2
+    },
+    {
+      "cityName": "Arroyo Grande",
+      "lat": 19.2,
+      "lng": -69.2833333
+    },
+    {
+      "cityName": "Arroyo Luca",
+      "lat": 19.2,
+      "lng": -69.4
+    },
+    {
+      "cityName": "Arroyo Salado",
+      "lat": 19.2166667,
+      "lng": -69.55
+    },
+    {
+      "cityName": "Arroyo Seco",
+      "lat": 19.2833333,
+      "lng": -69.3333333
+    },
+    {
+      "cityName": "Arroyo Surdió",
+      "lat": 19.2833333,
+      "lng": -69.45
+    },
+    {
+      "cityName": "Balandra",
+      "lat": 19.1833333,
+      "lng": -69.2333333
+    },
+    {
+      "cityName": "Barbacoa",
+      "lat": 19.3,
+      "lng": -69.4666667
+    },
+    {
+      "cityName": "Barrancolí",
+      "lat": 19.2,
+      "lng": -69.2666667
+    },
+    {
+      "cityName": "Bonilla",
+      "lat": 19.25,
+      "lng": -69.4166667
+    },
+    {
+      "cityName": "Borojol",
+      "lat": 19.15,
+      "lng": -69.75
+    },
+    {
+      "cityName": "Caba",
+      "lat": 19.05,
+      "lng": -69.6333333
+    },
+    {
+      "cityName": "Calabacita",
+      "lat": 19.2833333,
+      "lng": -69.4166667
+    },
+    {
+      "cityName": "Callejón",
+      "lat": 19.3166667,
+      "lng": -69.5333333
+    },
+    {
+      "cityName": "Cañada Clara",
+      "lat": 19.3,
+      "lng": -69.4833333
+    },
+    {
+      "cityName": "Caña Felez",
+      "lat": 19.2833333,
+      "lng": -69.4
+    },
+    {
+      "cityName": "Castaño",
+      "lat": 19.2666667,
+      "lng": -69.3666667
+    },
+    {
+      "cityName": "Castellalito",
+      "lat": 19.2833333,
+      "lng": -69.25
+    },
+    {
+      "cityName": "Caya Clara",
+      "lat": 19.2666667,
+      "lng": -69.1666667
+    },
+    {
+      "cityName": "Ceiba Bonita",
+      "lat": 19.2666667,
+      "lng": -69.6
+    },
+    {
+      "cityName": "Chiquito",
+      "lat": 19.2333333,
+      "lng": -69.2166667
+    },
+    {
+      "cityName": "Clara",
+      "lat": 19.2,
+      "lng": -69.3
+    },
+    {
+      "cityName": "Corrales",
+      "lat": 19.2166667,
+      "lng": -69.5
+    },
+    {
+      "cityName": "Cosón",
+      "lat": 19.3,
+      "lng": -69.5833333
+    },
+    {
+      "cityName": "Cueva del Agua",
+      "lat": 19.25,
+      "lng": -69.2
+    },
+    {
+      "cityName": "Doncel",
+      "lat": 19.2,
+      "lng": -69.3666667
+    },
+    {
+      "cityName": "El Aguacate",
+      "lat": 19.25,
+      "lng": -69.2166667
+    },
+    {
+      "cityName": "El Bueyero",
+      "lat": 19.3,
+      "lng": -69.4
+    },
+    {
+      "cityName": "El Burro",
+      "lat": 19.2833333,
+      "lng": -69.6666667
+    },
+    {
+      "cityName": "El Café",
+      "lat": 19.2833333,
+      "lng": -69.4333333
+    },
+    {
+      "cityName": "El Catey",
+      "lat": 19.25,
+      "lng": -69.7
+    },
+    {
+      "cityName": "El Coco",
+      "lat": 19.2666667,
+      "lng": -69.5
+    },
+    {
+      "cityName": "El Cuerno",
+      "lat": 19.2333333,
+      "lng": -69.4333333
+    },
+    {
+      "cityName": "El Escarbado",
+      "lat": 19.2666667,
+      "lng": -69.7166667
+    },
+    {
+      "cityName": "El Francés",
+      "lat": 19.2,
+      "lng": -69.2166667
+    },
+    {
+      "cityName": "El Frontón",
+      "lat": 19.3,
+      "lng": -69.15
+    },
+    {
+      "cityName": "El Grigrí",
+      "lat": 19.2166667,
+      "lng": -69.45
+    },
+    {
+      "cityName": "El Guayacán",
+      "lat": 19.2666667,
+      "lng": -69.1833333
+    },
+    {
+      "cityName": "El Hoyo del Cacao",
+      "lat": 19.3,
+      "lng": -69.55
+    },
+    {
+      "cityName": "El Jamito",
+      "lat": 19.3,
+      "lng": -69.5333333
+    },
+    {
+      "cityName": "El Morón",
+      "lat": 19.3166667,
+      "lng": -69.4166667
+    },
+    {
+      "cityName": "El Naranjito",
+      "lat": 19.2666667,
+      "lng": -69.55
+    },
+    {
+      "cityName": "El Portillo",
+      "lat": 19.3333333,
+      "lng": -69.5
+    },
+    {
+      "cityName": "El Rincón",
+      "lat": 19.2833333,
+      "lng": -69.2666667
+    },
+    {
+      "cityName": "El Tope",
+      "lat": 19.1166667,
+      "lng": -69.7166667
+    },
+    {
+      "cityName": "Español",
+      "lat": 19.2,
+      "lng": -69.4333333
+    },
+    {
+      "cityName": "Esperanza",
+      "lat": 19.25,
+      "lng": -69.3333333
+    },
+    {
+      "cityName": "Galeras",
+      "lat": 19.3,
+      "lng": -69.2
+    },
+    {
+      "cityName": "Hato Viejo",
+      "lat": 19.25,
+      "lng": -69.4
+    },
+    {
+      "cityName": "Higüero",
+      "lat": 19.2333333,
+      "lng": -69.5666667
+    },
+    {
+      "cityName": "Hormiga",
+      "lat": 19.25,
+      "lng": -69.5
+    },
+    {
+      "cityName": "Hoya Larga",
+      "lat": 19.0833333,
+      "lng": -69.55
+    },
+    {
+      "cityName": "Jackeson",
+      "lat": 19.2833333,
+      "lng": -69.7
+    },
+    {
+      "cityName": "Juana Vicenta",
+      "lat": 19.2333333,
+      "lng": -69.4166667
+    },
+    {
+      "cityName": "La Balsa",
+      "lat": 19.2333333,
+      "lng": -69.45
+    },
+    {
+      "cityName": "La Bastida",
+      "lat": 19.2166667,
+      "lng": -69.35
+    },
+    {
+      "cityName": "La Bejuquera",
+      "lat": 19.2833333,
+      "lng": -69.5333333
+    },
+    {
+      "cityName": "La Cañita",
+      "lat": 19.25,
+      "lng": -69.5666667
+    },
+    {
+      "cityName": "La Canoa",
+      "lat": 19.25,
+      "lng": -69.65
+    },
+    {
+      "cityName": "La Ceiba de La Colmena",
+      "lat": 19.2666667,
+      "lng": -69.2166667
+    },
+    {
+      "cityName": "La Guázara",
+      "lat": 19.25,
+      "lng": -69.4666667
+    },
+    {
+      "cityName": "Laguna Grande",
+      "lat": 19.2666667,
+      "lng": -69.5333333
+    },
+    {
+      "cityName": "La Herradura",
+      "lat": 19.3333333,
+      "lng": -69.2166667
+    },
+    {
+      "cityName": "La Laguna",
+      "lat": 19.25,
+      "lng": -69.3166667
+    },
+    {
+      "cityName": "La Lambera",
+      "lat": 19.2333333,
+      "lng": -69.4833333
+    },
+    {
+      "cityName": "La Majagua",
+      "lat": 19.2666667,
+      "lng": -69.35
+    },
+    {
+      "cityName": "La Manga",
+      "lat": 19.2333333,
+      "lng": -69.5166667
+    },
+    {
+      "cityName": "La Mata",
+      "lat": 19.1833333,
+      "lng": -69.6666667
+    },
+    {
+      "cityName": "Lanza del Norte",
+      "lat": 19.3,
+      "lng": -69.4166667
+    },
+    {
+      "cityName": "Las Cañitas",
+      "lat": 19.2833333,
+      "lng": -69.7166667
+    },
+    {
+      "cityName": "Las Carreras",
+      "lat": 19.1333333,
+      "lng": -69.7333333
+    },
+    {
+      "cityName": "Las Cuchillas",
+      "lat": 19.2833333,
+      "lng": -69.35
+    },
+    {
+      "cityName": "Las Flechas",
+      "lat": 19.1833333,
+      "lng": -69.2833333
+    },
+    {
+      "cityName": "Las Garita",
+      "lat": 19.2166667,
+      "lng": -69.5333333
+    },
+    {
+      "cityName": "Las Veritas",
+      "lat": 19.2166667,
+      "lng": -69.3333333
+    },
+    {
+      "cityName": "Lodo Blandito",
+      "lat": 19.25,
+      "lng": -69.5166667
+    },
+    {
+      "cityName": "Loma La Cruz",
+      "lat": 19.2666667,
+      "lng": -69.45
+    },
+    {
+      "cityName": "Los Amaceyes",
+      "lat": 19.2833333,
+      "lng": -69.15
+    },
+    {
+      "cityName": "Los Cacaos",
+      "lat": 19.1833333,
+      "lng": -69.2666667
+    },
+    {
+      "cityName": "Los Cocos",
+      "lat": 19.2,
+      "lng": -69.3833333
+    },
+    {
+      "cityName": "Los Grini",
+      "lat": 19.2,
+      "lng": -69.35
+    },
+    {
+      "cityName": "Los Mangos",
+      "lat": 19.2333333,
+      "lng": -69.6333333
+    },
+    {
+      "cityName": "Los Plátanos",
+      "lat": 19.2666667,
+      "lng": -69.3833333
+    },
+    {
+      "cityName": "Los Róbalos",
+      "lat": 19.2166667,
+      "lng": -69.4666667
+    },
+    {
+      "cityName": "Los Tocones",
+      "lat": 19.2666667,
+      "lng": -69.2333333
+    },
+    {
+      "cityName": "Madama",
+      "lat": 19.2833333,
+      "lng": -69.1666667
+    },
+    {
+      "cityName": "Monte Negro",
+      "lat": 19.2833333,
+      "lng": -69.4833333
+    },
+    {
+      "cityName": "Monte Rojo",
+      "lat": 19.2166667,
+      "lng": -69.3
+    },
+    {
+      "cityName": "Naranjo Abajo",
+      "lat": 19.0833333,
+      "lng": -69.6333333
+    },
+    {
+      "cityName": "Naranjo Arriba",
+      "lat": 19.0833333,
+      "lng": -69.5666667
+    },
+    {
+      "cityName": "Punta Gorda",
+      "lat": 19.2333333,
+      "lng": -69.5833333
+    },
+    {
+      "cityName": "Quebrada Amarilla",
+      "lat": 19.45,
+      "lng": -69.9333333
+    },
+    {
+      "cityName": "Rincón Grande",
+      "lat": 19.1666667,
+      "lng": -69.6833333
+    },
+    {
+      "cityName": "Río Limón",
+      "lat": 19.2666667,
+      "lng": -69.4166667
+    },
+    {
+      "cityName": "Río San Juan",
+      "lat": 19.2333333,
+      "lng": -69.3166667
+    },
+    {
+      "cityName": "Sánchez",
+      "lat": 19.2333333,
+      "lng": -69.6
+    },
+    {
+      "cityName": "Santa Capuza",
+      "lat": 19.2333333,
+      "lng": -69.55
+    }
+  ]
+}

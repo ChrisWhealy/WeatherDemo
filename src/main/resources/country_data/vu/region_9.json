@@ -1,0 +1,625 @@
+{
+  "name": "Tafea",
+  "cities": [
+    {
+      "cityName": "Anamé",
+      "lat": -20.1333333,
+      "lng": 169.8166667
+    },
+    {
+      "cityName": "Anaouya",
+      "lat": -20.25,
+      "lng": 169.8166667
+    },
+    {
+      "cityName": "Anégen",
+      "lat": -20.15,
+      "lng": 169.8333333
+    },
+    {
+      "cityName": "Anelbounbékè",
+      "lat": -20.1833333,
+      "lng": 169.8833333
+    },
+    {
+      "cityName": "Anelgaohat",
+      "lat": -20.2333333,
+      "lng": 169.7666667
+    },
+    {
+      "cityName": "Anémek",
+      "lat": -20.2333333,
+      "lng": 169.8
+    },
+    {
+      "cityName": "Anowounoouras",
+      "lat": -20.2333333,
+      "lng": 169.7833333
+    },
+    {
+      "cityName": "Bethel",
+      "lat": -19.55,
+      "lng": 169.2666667
+    },
+    {
+      "cityName": "Bouniakoup",
+      "lat": -18.8833333,
+      "lng": 169.0166667
+    },
+    {
+      "cityName": "Eili",
+      "lat": -20.25,
+      "lng": 169.8333333
+    },
+    {
+      "cityName": "Enfitana",
+      "lat": -19.5833333,
+      "lng": 169.35
+    },
+    {
+      "cityName": "Eniou",
+      "lat": -19.3666667,
+      "lng": 169.2833333
+    },
+    {
+      "cityName": "Enouwakeur",
+      "lat": -19.3666667,
+      "lng": 169.3
+    },
+    {
+      "cityName": "Enpinane",
+      "lat": -19.6,
+      "lng": 169.3333333
+    },
+    {
+      "cityName": "Green Hill",
+      "lat": -19.3833333,
+      "lng": 169.2833333
+    },
+    {
+      "cityName": "Happy Land",
+      "lat": -18.9166667,
+      "lng": 169.0833333
+    },
+    {
+      "cityName": "Iaosaou",
+      "lat": -18.9666667,
+      "lng": 169.2166667
+    },
+    {
+      "cityName": "Iasoa",
+      "lat": -19.5333333,
+      "lng": 170.2
+    },
+    {
+      "cityName": "Ifo",
+      "lat": -18.9166667,
+      "lng": 169.3333333
+    },
+    {
+      "cityName": "Ijeptzav",
+      "lat": -20.15,
+      "lng": 169.7666667
+    },
+    {
+      "cityName": "Ikahakahak",
+      "lat": -19.6333333,
+      "lng": 169.3666667
+    },
+    {
+      "cityName": "Ikaokao",
+      "lat": -19.2666667,
+      "lng": 169.6
+    },
+    {
+      "cityName": "Ikaseukwi",
+      "lat": -19.5333333,
+      "lng": 169.2833333
+    },
+    {
+      "cityName": "Ikeupo",
+      "lat": -19.4833333,
+      "lng": 169.3166667
+    },
+    {
+      "cityName": "Ikiyoo",
+      "lat": -19.5666667,
+      "lng": 169.3
+    },
+    {
+      "cityName": "Ikounala",
+      "lat": -19.5666667,
+      "lng": 169.35
+    },
+    {
+      "cityName": "Ikounap",
+      "lat": -19.5333333,
+      "lng": 169.3833333
+    },
+    {
+      "cityName": "Ikouroup",
+      "lat": -19.5666667,
+      "lng": 169.4166667
+    },
+    {
+      "cityName": "Iléreup",
+      "lat": -19.4333333,
+      "lng": 169.2833333
+    },
+    {
+      "cityName": "Ileupouoou",
+      "lat": -19.5333333,
+      "lng": 169.5
+    },
+    {
+      "cityName": "Ilisilis",
+      "lat": -19.4833333,
+      "lng": 169.4
+    },
+    {
+      "cityName": "Ilpweutou",
+      "lat": -19.45,
+      "lng": 169.3166667
+    },
+    {
+      "cityName": "Imaki",
+      "lat": -19.6,
+      "lng": 169.45
+    },
+    {
+      "cityName": "Imalé",
+      "lat": -19.2666667,
+      "lng": 169.5833333
+    },
+    {
+      "cityName": "Imareukak",
+      "lat": -19.6166667,
+      "lng": 169.45
+    },
+    {
+      "cityName": "Imlao",
+      "lat": -19.5833333,
+      "lng": 169.2833333
+    },
+    {
+      "cityName": "Imreang",
+      "lat": -19.5166667,
+      "lng": 169.4
+    },
+    {
+      "cityName": "Imwafeun",
+      "lat": -19.35,
+      "lng": 169.2833333
+    },
+    {
+      "cityName": "Imwareupo",
+      "lat": -19.4833333,
+      "lng": 169.35
+    },
+    {
+      "cityName": "Imwaya",
+      "lat": -19.5333333,
+      "lng": 169.3166667
+    },
+    {
+      "cityName": "Inap",
+      "lat": -20.1333333,
+      "lng": 169.8
+    },
+    {
+      "cityName": "Ipao",
+      "lat": -19.5166667,
+      "lng": 170.2166667
+    },
+    {
+      "cityName": "Ipenyen",
+      "lat": -19.5166667,
+      "lng": 169.3833333
+    },
+    {
+      "cityName": "Ipeukel",
+      "lat": -19.5166667,
+      "lng": 169.45
+    },
+    {
+      "cityName": "Isaka",
+      "lat": -19.5333333,
+      "lng": 169.4
+    },
+    {
+      "cityName": "Isarkey",
+      "lat": -19.5666667,
+      "lng": 169.4333333
+    },
+    {
+      "cityName": "Isino",
+      "lat": -20.15,
+      "lng": 169.75
+    },
+    {
+      "cityName": "Itounga",
+      "lat": -19.5166667,
+      "lng": 169.2333333
+    },
+    {
+      "cityName": "Iwey",
+      "lat": -19.55,
+      "lng": 169.3333333
+    },
+    {
+      "cityName": "Kaounoméikeur",
+      "lat": -19.4833333,
+      "lng": 169.2833333
+    },
+    {
+      "cityName": "Konaékeun",
+      "lat": -19.4833333,
+      "lng": 169.3
+    },
+    {
+      "cityName": "Lahoénuwi",
+      "lat": -19.4666667,
+      "lng": 169.35
+    },
+    {
+      "cityName": "Lakinasouman",
+      "lat": -19.5,
+      "lng": 169.3166667
+    },
+    {
+      "cityName": "LamÌ„inaora",
+      "lat": -19.5,
+      "lng": 169.3333333
+    },
+    {
+      "cityName": "Lamouéneuvel",
+      "lat": -19.4666667,
+      "lng": 169.3
+    },
+    {
+      "cityName": "Lankourou",
+      "lat": -19.55,
+      "lng": 169.4333333
+    },
+    {
+      "cityName": "Laounalang",
+      "lat": -19.3833333,
+      "lng": 169.3
+    },
+    {
+      "cityName": "Larouanou",
+      "lat": -19.5166667,
+      "lng": 169.3
+    },
+    {
+      "cityName": "Laroup",
+      "lat": -19.4333333,
+      "lng": 169.3
+    },
+    {
+      "cityName": "Lawisa",
+      "lat": -18.7833333,
+      "lng": 169.2
+    },
+    {
+      "cityName": "Léhunang",
+      "lat": -19.4833333,
+      "lng": 169.3333333
+    },
+    {
+      "cityName": "Lélowalo",
+      "lat": -19.45,
+      "lng": 169.3
+    },
+    {
+      "cityName": "Lénakel",
+      "lat": -19.5333333,
+      "lng": 169.2666667
+    },
+    {
+      "cityName": "Lénaken",
+      "lat": -19.4666667,
+      "lng": 169.2833333
+    },
+    {
+      "cityName": "Lénapouas",
+      "lat": -19.5166667,
+      "lng": 169.3166667
+    },
+    {
+      "cityName": "Lénépin",
+      "lat": -19.45,
+      "lng": 169.2833333
+    },
+    {
+      "cityName": "Létowopom",
+      "lat": -19.5,
+      "lng": 169.2666667
+    },
+    {
+      "cityName": "Leumanggoviati",
+      "lat": -19.4833333,
+      "lng": 169.3666667
+    },
+    {
+      "cityName": "Loameul",
+      "lat": -19.35,
+      "lng": 169.25
+    },
+    {
+      "cityName": "Loanengo",
+      "lat": -19.55,
+      "lng": 169.4166667
+    },
+    {
+      "cityName": "Loélafomwa",
+      "lat": -19.3833333,
+      "lng": 169.3166667
+    },
+    {
+      "cityName": "Loméméti",
+      "lat": -19.5,
+      "lng": 169.45
+    },
+    {
+      "cityName": "Loonékiyawileung",
+      "lat": -19.4833333,
+      "lng": 169.25
+    },
+    {
+      "cityName": "Loonélangat",
+      "lat": -19.35,
+      "lng": 169.3333333
+    },
+    {
+      "cityName": "Loonélapeun",
+      "lat": -19.5166667,
+      "lng": 169.2833333
+    },
+    {
+      "cityName": "Loonoo",
+      "lat": -19.5,
+      "lng": 169.4166667
+    },
+    {
+      "cityName": "Loouanapouta",
+      "lat": -19.5166667,
+      "lng": 169.25
+    },
+    {
+      "cityName": "Looukas",
+      "lat": -19.5,
+      "lng": 169.2333333
+    },
+    {
+      "cityName": "Looukeureus",
+      "lat": -19.4333333,
+      "lng": 169.2666667
+    },
+    {
+      "cityName": "Looulooupou",
+      "lat": -19.5,
+      "lng": 169.4333333
+    },
+    {
+      "cityName": "Loounapkamey",
+      "lat": -19.5,
+      "lng": 169.25
+    },
+    {
+      "cityName": "Loounapkaülangeus",
+      "lat": -19.5,
+      "lng": 169.3
+    },
+    {
+      "cityName": "Loounapkiko",
+      "lat": -19.5,
+      "lng": 169.2833333
+    },
+    {
+      "cityName": "Loounatkey",
+      "lat": -19.4,
+      "lng": 169.3
+    },
+    {
+      "cityName": "Loounémeloupang",
+      "lat": -19.3666667,
+      "lng": 169.25
+    },
+    {
+      "cityName": "Loounihm",
+      "lat": -19.4666667,
+      "lng": 169.3166667
+    },
+    {
+      "cityName": "Loounimhapeun",
+      "lat": -19.35,
+      "lng": 169.3
+    },
+    {
+      "cityName": "Looutel",
+      "lat": -19.4833333,
+      "lng": 169.2166667
+    },
+    {
+      "cityName": "Looutopounga",
+      "lat": -19.4833333,
+      "lng": 169.3833333
+    },
+    {
+      "cityName": "Lotapouna",
+      "lat": -19.4,
+      "lng": 169.3166667
+    },
+    {
+      "cityName": "Lowiteul",
+      "lat": -19.3333333,
+      "lng": 169.2666667
+    },
+    {
+      "cityName": "Matin'gi",
+      "lat": -19.55,
+      "lng": 170.2166667
+    },
+    {
+      "cityName": "Mohoun'gha",
+      "lat": -19.5166667,
+      "lng": 170.2
+    },
+    {
+      "cityName": "Namsafoura",
+      "lat": -19.25,
+      "lng": 169.5833333
+    },
+    {
+      "cityName": "Navolou",
+      "lat": -18.75,
+      "lng": 169
+    },
+    {
+      "cityName": "Nounapon",
+      "lat": -18.8,
+      "lng": 169.0166667
+    },
+    {
+      "cityName": "Ombous",
+      "lat": -19.55,
+      "lng": 169.4666667
+    },
+    {
+      "cityName": "Ounèvsèm",
+      "lat": -18.9,
+      "lng": 169.0333333
+    },
+    {
+      "cityName": "Oupongkor",
+      "lat": -18.8166667,
+      "lng": 169.0166667
+    },
+    {
+      "cityName": "Pontasipsip",
+      "lat": -18.6666667,
+      "lng": 169.15
+    },
+    {
+      "cityName": "Potiraousak",
+      "lat": -18.95,
+      "lng": 169.1333333
+    },
+    {
+      "cityName": "Potlouzi",
+      "lat": -18.9333333,
+      "lng": 169.1
+    },
+    {
+      "cityName": "Potnarhvin",
+      "lat": -18.75,
+      "lng": 169.2
+    },
+    {
+      "cityName": "Potnaroumpouo",
+      "lat": -18.9333333,
+      "lng": 169.1166667
+    },
+    {
+      "cityName": "Pouillet",
+      "lat": -19.5333333,
+      "lng": 169.25
+    },
+    {
+      "cityName": "Pounalvat",
+      "lat": -18.6333333,
+      "lng": 169.0833333
+    },
+    {
+      "cityName": "Rampounisia",
+      "lat": -18.9666667,
+      "lng": 169.2
+    },
+    {
+      "cityName": "Rampounmampouo",
+      "lat": -18.95,
+      "lng": 169.1666667
+    },
+    {
+      "cityName": "Sameria",
+      "lat": -19.5666667,
+      "lng": 169.45
+    },
+    {
+      "cityName": "Samo",
+      "lat": -19.5333333,
+      "lng": 169.4833333
+    },
+    {
+      "cityName": "Sasia",
+      "lat": -19.6,
+      "lng": 169.35
+    },
+    {
+      "cityName": "Tatouira",
+      "lat": -19.5666667,
+      "lng": 169.4666667
+    },
+    {
+      "cityName": "White Sands",
+      "lat": -19.5166667,
+      "lng": 169.4333333
+    },
+    {
+      "cityName": "Yakoukak",
+      "lat": -19.55,
+      "lng": 169.3166667
+    },
+    {
+      "cityName": "Yakwaraka",
+      "lat": -19.6333333,
+      "lng": 169.45
+    },
+    {
+      "cityName": "Yanamahou",
+      "lat": -19.4833333,
+      "lng": 169.4166667
+    },
+    {
+      "cityName": "Yankwanénéay",
+      "lat": -19.6166667,
+      "lng": 169.35
+    },
+    {
+      "cityName": "Yanmileun",
+      "lat": -19.55,
+      "lng": 169.4
+    },
+    {
+      "cityName": "Yapimay",
+      "lat": -19.5666667,
+      "lng": 169.3166667
+    },
+    {
+      "cityName": "Yarouareung",
+      "lat": -19.65,
+      "lng": 169.3833333
+    },
+    {
+      "cityName": "Yatoukwey",
+      "lat": -19.5833333,
+      "lng": 169.45
+    },
+    {
+      "cityName": "Yérou",
+      "lat": -19.5833333,
+      "lng": 169.3333333
+    },
+    {
+      "cityName": "Yétap",
+      "lat": -19.5833333,
+      "lng": 169.3166667
+    },
+    {
+      "cityName": "Yoknaéka",
+      "lat": -19.55,
+      "lng": 169.3
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Fiji",
+  "iso2": "fj",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Central",
+      "id": 0
+    },
+    {
+      "name": "Eastern",
+      "id": 1
+    },
+    {
+      "name": "Northern",
+      "id": 2
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 3
+    },
+    {
+      "name": "Western",
+      "id": 4
+    }
+  ],
+  "geoRectangle": {
+    "West": 181.810291,
+    "East": 176.827313,
+    "North": -16.143879,
+    "South": -20.685753
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 12,
+    "Flg": 2,
+    "Name": "Suva",
+    "GeoPt": [
+      -18.08,
+      178.25
+    ]
+  }
+}

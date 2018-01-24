@@ -1,0 +1,59 @@
+{
+  "name": "Kyrgyzstan",
+  "iso2": "kg",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Batken",
+      "id": 0
+    },
+    {
+      "name": "Bishkek",
+      "id": 1
+    },
+    {
+      "name": "Chuy",
+      "id": 2
+    },
+    {
+      "name": "Jalal-Abad",
+      "id": 3
+    },
+    {
+      "name": "Naryn",
+      "id": 4
+    },
+    {
+      "name": "Osh",
+      "id": 5
+    },
+    {
+      "name": "Talas",
+      "id": 6
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 7
+    },
+    {
+      "name": "Ysyk-Kol",
+      "id": 8
+    }
+  ],
+  "geoRectangle": {
+    "West": 69.2765960693,
+    "East": 80.2831802368,
+    "North": 43.2382278442,
+    "South": 39.1728248596
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 6,
+    "Flg": 2,
+    "Name": "Bishkek",
+    "GeoPt": [
+      42.52,
+      74.36
+    ]
+  }
+}

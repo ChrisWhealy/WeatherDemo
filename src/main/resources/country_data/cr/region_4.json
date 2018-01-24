@@ -1,0 +1,915 @@
+{
+  "name": "Limon",
+  "cities": [
+    {
+      "cityName": "3 Millas",
+      "lat": 10.1666667,
+      "lng": -83.5166667
+    },
+    {
+      "cityName": "9 Millas",
+      "lat": 10,
+      "lng": -83.15
+    },
+    {
+      "cityName": "África",
+      "lat": 10.1833333,
+      "lng": -83.6666667
+    },
+    {
+      "cityName": "Agbeta",
+      "lat": 9.4166667,
+      "lng": -83.2166667
+    },
+    {
+      "cityName": "Aguas Zarcas",
+      "lat": 9.9,
+      "lng": -83.1333333
+    },
+    {
+      "cityName": "Alegría",
+      "lat": 10.1,
+      "lng": -83.6
+    },
+    {
+      "cityName": "Alto",
+      "lat": 10.0333333,
+      "lng": -83.65
+    },
+    {
+      "cityName": "Altos Herediana",
+      "lat": 10.1166667,
+      "lng": -83.5833333
+    },
+    {
+      "cityName": "América",
+      "lat": 10.15,
+      "lng": -83.5833333
+    },
+    {
+      "cityName": "Amubri",
+      "lat": 9.5166667,
+      "lng": -82.9666667
+    },
+    {
+      "cityName": "Ángeles",
+      "lat": 10.3,
+      "lng": -83.55
+    },
+    {
+      "cityName": "Asunción",
+      "lat": 9.9,
+      "lng": -83.1666667
+    },
+    {
+      "cityName": "Atalanta",
+      "lat": 9.7166667,
+      "lng": -82.9833333
+    },
+    {
+      "cityName": "Bajos Pascua",
+      "lat": 10.0333333,
+      "lng": -83.6
+    },
+    {
+      "cityName": "Bajo Tigre",
+      "lat": 10,
+      "lng": -83.55
+    },
+    {
+      "cityName": "Bananito Sur",
+      "lat": 9.8666667,
+      "lng": -83
+    },
+    {
+      "cityName": "Barmouth Este",
+      "lat": 10.1166667,
+      "lng": -83.2333333
+    },
+    {
+      "cityName": "Barmouth Oeste",
+      "lat": 10.1333333,
+      "lng": -83.2333333
+    },
+    {
+      "cityName": "Barranca",
+      "lat": 9.9833333,
+      "lng": -84.7166667
+    },
+    {
+      "cityName": "Barrio Nuevo",
+      "lat": 10,
+      "lng": -82.05
+    },
+    {
+      "cityName": "Bataán",
+      "lat": 10.0833333,
+      "lng": -83.3333333
+    },
+    {
+      "cityName": "Bebliyak",
+      "lat": 9.4166667,
+      "lng": -83.2333333
+    },
+    {
+      "cityName": "Beverly",
+      "lat": 9.9333333,
+      "lng": -83.0333333
+    },
+    {
+      "cityName": "Blanco",
+      "lat": 9.9666667,
+      "lng": -83.15
+    },
+    {
+      "cityName": "Bolivia",
+      "lat": 9.8833333,
+      "lng": -83.0166667
+    },
+    {
+      "cityName": "Bomba",
+      "lat": 9.9166667,
+      "lng": -83.0666667
+    },
+    {
+      "cityName": "Bonifacio",
+      "lat": 9.7833333,
+      "lng": -82.9166667
+    },
+    {
+      "cityName": "Bonilla Abajo",
+      "lat": 10.0166667,
+      "lng": -83.6
+    },
+    {
+      "cityName": "Boston",
+      "lat": 10.0166667,
+      "lng": -83.25
+    },
+    {
+      "cityName": "Bralsi",
+      "lat": 9.55,
+      "lng": -82.8833333
+    },
+    {
+      "cityName": "Bribri",
+      "lat": 9.6333333,
+      "lng": -82.8333333
+    },
+    {
+      "cityName": "Bristol",
+      "lat": 10.0333333,
+      "lng": -83.3
+    },
+    {
+      "cityName": "Buenos Aires",
+      "lat": 9.9833333,
+      "lng": -83.0833333
+    },
+    {
+      "cityName": "Búffalo",
+      "lat": 10.0166667,
+      "lng": -83.1666667
+    },
+    {
+      "cityName": "Cabaña",
+      "lat": 10.2,
+      "lng": -83.7
+    },
+    {
+      "cityName": "Cabécar",
+      "lat": 9.5166667,
+      "lng": -83.15
+    },
+    {
+      "cityName": "Cacao",
+      "lat": 10.1333333,
+      "lng": -83.55
+    },
+    {
+      "cityName": "Cahuita",
+      "lat": 9.7333333,
+      "lng": -82.85
+    },
+    {
+      "cityName": "Cairo",
+      "lat": 10.1333333,
+      "lng": -83.5333333
+    },
+    {
+      "cityName": "Canadá",
+      "lat": 10.15,
+      "lng": -83.4833333
+    },
+    {
+      "cityName": "Carmen",
+      "lat": 10.2,
+      "lng": -83.4833333
+    },
+    {
+      "cityName": "Catarina",
+      "lat": 9.5833333,
+      "lng": -82.7333333
+    },
+    {
+      "cityName": "Catorce Millas",
+      "lat": 10.0833333,
+      "lng": -83.2
+    },
+    {
+      "cityName": "Cedar Creek",
+      "lat": 10.0166667,
+      "lng": -83.2
+    },
+    {
+      "cityName": "Celia",
+      "lat": 9.55,
+      "lng": -82.6666667
+    },
+    {
+      "cityName": "Chase",
+      "lat": 9.6,
+      "lng": -82.8666667
+    },
+    {
+      "cityName": "Chimurinak",
+      "lat": 9.6,
+      "lng": -83.0333333
+    },
+    {
+      "cityName": "Chirripó",
+      "lat": 9.9666667,
+      "lng": -83.3
+    },
+    {
+      "cityName": "Cieneguita",
+      "lat": 9.9833333,
+      "lng": -83.0333333
+    },
+    {
+      "cityName": "Cimarrones",
+      "lat": 10.1,
+      "lng": -83.4166667
+    },
+    {
+      "cityName": "Ciudad de Limón",
+      "lat": 10,
+      "lng": -83.0333333
+    },
+    {
+      "cityName": "Cocal",
+      "lat": 10.0333333,
+      "lng": -83.1166667
+    },
+    {
+      "cityName": "Cocles",
+      "lat": 9.65,
+      "lng": -82.7333333
+    },
+    {
+      "cityName": "Colombiana",
+      "lat": 10.1666667,
+      "lng": -83.5833333
+    },
+    {
+      "cityName": "Colorado",
+      "lat": 10.7833333,
+      "lng": -83.6
+    },
+    {
+      "cityName": "Comadre",
+      "lat": 9.7166667,
+      "lng": -82.8166667
+    },
+    {
+      "cityName": "Corina",
+      "lat": 10,
+      "lng": -83.3166667
+    },
+    {
+      "cityName": "Coroma",
+      "lat": 9.5333333,
+      "lng": -82.9833333
+    },
+    {
+      "cityName": "Cuabre",
+      "lat": 9.6,
+      "lng": -82.7833333
+    },
+    {
+      "cityName": "Cuatro Esquinas",
+      "lat": 10.5833333,
+      "lng": -83.5166667
+    },
+    {
+      "cityName": "Cuatro Millas",
+      "lat": 10.1166667,
+      "lng": -83.25
+    },
+    {
+      "cityName": "Cultivez",
+      "lat": 10.15,
+      "lng": -83.4333333
+    },
+    {
+      "cityName": "Daytonia",
+      "lat": 9.5333333,
+      "lng": -82.6666667
+    },
+    {
+      "cityName": "Destierro",
+      "lat": 10.0666667,
+      "lng": -83.6666667
+    },
+    {
+      "cityName": "Dikoguicha",
+      "lat": 9.5333333,
+      "lng": -83.3166667
+    },
+    {
+      "cityName": "Doce Millas",
+      "lat": 10.0833333,
+      "lng": -83.15
+    },
+    {
+      "cityName": "Dorotea",
+      "lat": 10.25,
+      "lng": -83.45
+    },
+    {
+      "cityName": "El Hogar",
+      "lat": 10.2,
+      "lng": -83.7166667
+    },
+    {
+      "cityName": "El Molino",
+      "lat": 10.2,
+      "lng": -83.75
+    },
+    {
+      "cityName": "El Porvenir",
+      "lat": 9.7666667,
+      "lng": -82.9333333
+    },
+    {
+      "cityName": "Encanto",
+      "lat": 10.1833333,
+      "lng": -83.3833333
+    },
+    {
+      "cityName": "Escocia",
+      "lat": 10.2666667,
+      "lng": -83.5666667
+    },
+    {
+      "cityName": "Estrada",
+      "lat": 10.0666667,
+      "lng": -83.2833333
+    },
+    {
+      "cityName": "Favorita",
+      "lat": 9.5166667,
+      "lng": -82.65
+    },
+    {
+      "cityName": "Florida",
+      "lat": 10.1,
+      "lng": -83.5666667
+    },
+    {
+      "cityName": "Fourth Cliff",
+      "lat": 10.0833333,
+      "lng": -83.5666667
+    },
+    {
+      "cityName": "Gandoca",
+      "lat": 9.5833333,
+      "lng": -82.5833333
+    },
+    {
+      "cityName": "Germania",
+      "lat": 10.15,
+      "lng": -83.5666667
+    },
+    {
+      "cityName": "Goschen",
+      "lat": 10.1666667,
+      "lng": -83.3166667
+    },
+    {
+      "cityName": "Griega",
+      "lat": 9.8,
+      "lng": -82.9166667
+    },
+    {
+      "cityName": "Guácimo",
+      "lat": 10.2166667,
+      "lng": -83.6833333
+    },
+    {
+      "cityName": "Guápiles",
+      "lat": 10.2166667,
+      "lng": -83.7833333
+    },
+    {
+      "cityName": "Guayacán",
+      "lat": 10.0333333,
+      "lng": -83.55
+    },
+    {
+      "cityName": "Herediana",
+      "lat": 10.1333333,
+      "lng": -83.5666667
+    },
+    {
+      "cityName": "Hone Creek",
+      "lat": 9.6666667,
+      "lng": -82.8
+    },
+    {
+      "cityName": "Huecos",
+      "lat": 10,
+      "lng": -83.6333333
+    },
+    {
+      "cityName": "Indiana Dos",
+      "lat": 10.1166667,
+      "lng": -83.4833333
+    },
+    {
+      "cityName": "Indiana Tres",
+      "lat": 10.1333333,
+      "lng": -83.45
+    },
+    {
+      "cityName": "Iroquois",
+      "lat": 10.2,
+      "lng": -83.6333333
+    },
+    {
+      "cityName": "Jaloba",
+      "lat": 10.35,
+      "lng": -83.3833333
+    },
+    {
+      "cityName": "Jiménez",
+      "lat": 10.2166667,
+      "lng": -83.7333333
+    },
+    {
+      "cityName": "Junta",
+      "lat": 10.1166667,
+      "lng": -83.5333333
+    },
+    {
+      "cityName": "Katsi",
+      "lat": 9.5166667,
+      "lng": -82.9333333
+    },
+    {
+      "cityName": "Kodi",
+      "lat": 9.5833333,
+      "lng": -83.1666667
+    },
+    {
+      "cityName": "La Estrella",
+      "lat": 9.7333333,
+      "lng": -82.9666667
+    },
+    {
+      "cityName": "Larga Distancia",
+      "lat": 10.05,
+      "lng": -83.2
+    },
+    {
+      "cityName": "Las Lomas",
+      "lat": 10.0666667,
+      "lng": -83.5833333
+    },
+    {
+      "cityName": "Las Mercedes",
+      "lat": 10.1666667,
+      "lng": -83.6166667
+    },
+    {
+      "cityName": "Linda Vista",
+      "lat": 10,
+      "lng": -83.5833333
+    },
+    {
+      "cityName": "Línea B",
+      "lat": 10.05,
+      "lng": -83.3166667
+    },
+    {
+      "cityName": "Liverpool",
+      "lat": 10,
+      "lng": -83.1333333
+    },
+    {
+      "cityName": "Lotsinyak",
+      "lat": 9.4,
+      "lng": -83.2333333
+    },
+    {
+      "cityName": "Madre de Dios",
+      "lat": 10.0833333,
+      "lng": -83.3833333
+    },
+    {
+      "cityName": "Manila",
+      "lat": 10.1666667,
+      "lng": -83.4
+    },
+    {
+      "cityName": "Manzanillo",
+      "lat": 9.6333333,
+      "lng": -82.65
+    },
+    {
+      "cityName": "Maravilla",
+      "lat": 10.0333333,
+      "lng": -83.2
+    },
+    {
+      "cityName": "Margarita",
+      "lat": 10.0833333,
+      "lng": -83.3166667
+    },
+    {
+      "cityName": "Margerita",
+      "lat": 9.6,
+      "lng": -82.7666667
+    },
+    {
+      "cityName": "Matina",
+      "lat": 10.0833333,
+      "lng": -83.2833333
+    },
+    {
+      "cityName": "México",
+      "lat": 9.9833333,
+      "lng": -83.1333333
+    },
+    {
+      "cityName": "Milla Cinco",
+      "lat": 10.1833333,
+      "lng": -83.5
+    },
+    {
+      "cityName": "Moín",
+      "lat": 10,
+      "lng": -83.0833333
+    },
+    {
+      "cityName": "Monteverde",
+      "lat": 10.1,
+      "lng": -83.4333333
+    },
+    {
+      "cityName": "Morovia",
+      "lat": 10.0666667,
+      "lng": -83.55
+    },
+    {
+      "cityName": "Nantalz",
+      "lat": 9.5166667,
+      "lng": -83.0333333
+    },
+    {
+      "cityName": "New Castle",
+      "lat": 9.9166667,
+      "lng": -83.05
+    },
+    {
+      "cityName": "Nueve Millas",
+      "lat": 10.05,
+      "lng": -83.1333333
+    },
+    {
+      "cityName": "Olivia",
+      "lat": 9.6166667,
+      "lng": -82.7833333
+    },
+    {
+      "cityName": "Pacora Oeste",
+      "lat": 10.1833333,
+      "lng": -83.6
+    },
+    {
+      "cityName": "Pacuarito",
+      "lat": 10.1,
+      "lng": -83.4666667
+    },
+    {
+      "cityName": "Paraíso",
+      "lat": 9.5833333,
+      "lng": -82.7166667
+    },
+    {
+      "cityName": "Peje",
+      "lat": 10.0833333,
+      "lng": -83.6
+    },
+    {
+      "cityName": "Pelueicha",
+      "lat": 9.4,
+      "lng": -83.1166667
+    },
+    {
+      "cityName": "Petroleo",
+      "lat": 9.9333333,
+      "lng": -83.15
+    },
+    {
+      "cityName": "Piedra Grande",
+      "lat": 9.5833333,
+      "lng": -82.8833333
+    },
+    {
+      "cityName": "Piuta",
+      "lat": 10.0166667,
+      "lng": -83.05
+    },
+    {
+      "cityName": "Plévades",
+      "lat": 9.75,
+      "lng": -82.95
+    },
+    {
+      "cityName": "Portete",
+      "lat": 10.0166667,
+      "lng": -83.0666667
+    },
+    {
+      "cityName": "Puerto Cahuita",
+      "lat": 9.75,
+      "lng": -82.8166667
+    },
+    {
+      "cityName": "Puerto Vargas",
+      "lat": 9.7333333,
+      "lng": -82.8166667
+    },
+    {
+      "cityName": "Puerto Viejo",
+      "lat": 9.65,
+      "lng": -82.7666667
+    },
+    {
+      "cityName": "Punta Bichirí Turrialba",
+      "lat": 9.4833333,
+      "lng": -82.9833333
+    },
+    {
+      "cityName": "Punta de Riel",
+      "lat": 10.2,
+      "lng": -83.4666667
+    },
+    {
+      "cityName": "Quebrada Cuba",
+      "lat": 10.0166667,
+      "lng": -83.2333333
+    },
+    {
+      "cityName": "Quitaría",
+      "lat": 9.9,
+      "lng": -83.1
+    },
+    {
+      "cityName": "Río Hondo",
+      "lat": 10.1,
+      "lng": -83.4
+    },
+    {
+      "cityName": "Río Jiménez",
+      "lat": 10.25,
+      "lng": -83.6
+    },
+    {
+      "cityName": "Roxana",
+      "lat": 10.2666667,
+      "lng": -83.75
+    },
+    {
+      "cityName": "Saborío",
+      "lat": 10.0666667,
+      "lng": -83.2333333
+    },
+    {
+      "cityName": "San Alberto Nuevo",
+      "lat": 10.15,
+      "lng": -83.4666667
+    },
+    {
+      "cityName": "San Andrés",
+      "lat": 9.85,
+      "lng": -82.9666667
+    },
+    {
+      "cityName": "San Antonio",
+      "lat": 10.0333333,
+      "lng": -83.6166667
+    },
+    {
+      "cityName": "San Clemente",
+      "lat": 9.8333333,
+      "lng": -82.9333333
+    },
+    {
+      "cityName": "Sandoval",
+      "lat": 10,
+      "lng": -83.1
+    },
+    {
+      "cityName": "San Miguel",
+      "lat": 10.0333333,
+      "lng": -83.3333333
+    },
+    {
+      "cityName": "San Rafael",
+      "lat": 10.2166667,
+      "lng": -83.3333333
+    },
+    {
+      "cityName": "Santa Clara",
+      "lat": 10.2,
+      "lng": -83.7666667
+    },
+    {
+      "cityName": "Santa Lucía",
+      "lat": 10.1666667,
+      "lng": -83.4833333
+    },
+    {
+      "cityName": "Santa Marta",
+      "lat": 10.1166667,
+      "lng": -83.3166667
+    },
+    {
+      "cityName": "Santa Rosa",
+      "lat": 9.95,
+      "lng": -83.0666667
+    },
+    {
+      "cityName": "Santo Domingo",
+      "lat": 10.1833333,
+      "lng": -83.4833333
+    },
+    {
+      "cityName": "Sara",
+      "lat": 10.1333333,
+      "lng": -83.35
+    },
+    {
+      "cityName": "Sibubeta",
+      "lat": 9.4,
+      "lng": -83.2833333
+    },
+    {
+      "cityName": "Siete",
+      "lat": 10.4,
+      "lng": -83.4166667
+    },
+    {
+      "cityName": "Sinoi",
+      "lat": 9.6,
+      "lng": -83.1666667
+    },
+    {
+      "cityName": "Sipurio",
+      "lat": 9.5333333,
+      "lng": -82.9166667
+    },
+    {
+      "cityName": "Siquirres",
+      "lat": 10.1,
+      "lng": -83.5166667
+    },
+    {
+      "cityName": "Sixaola",
+      "lat": 9.5166667,
+      "lng": -82.6166667
+    },
+    {
+      "cityName": "Stafford",
+      "lat": 10.0333333,
+      "lng": -83.2666667
+    },
+    {
+      "cityName": "Suerre",
+      "lat": 10.2833333,
+      "lng": -83.4
+    },
+    {
+      "cityName": "Suretka",
+      "lat": 9.5666667,
+      "lng": -82.9333333
+    },
+    {
+      "cityName": "Surisi",
+      "lat": 9.4,
+      "lng": -83.25
+    },
+    {
+      "cityName": "Táberi",
+      "lat": 9.5833333,
+      "lng": -83.05
+    },
+    {
+      "cityName": "Telire",
+      "lat": 9.5833333,
+      "lng": -83.0166667
+    },
+    {
+      "cityName": "Toro Amarillo",
+      "lat": 10.2166667,
+      "lng": -83.8
+    },
+    {
+      "cityName": "Toro",
+      "lat": 10.0166667,
+      "lng": -83.2166667
+    },
+    {
+      "cityName": "Trébol",
+      "lat": 9.9333333,
+      "lng": -83.0833333
+    },
+    {
+      "cityName": "Trinidad",
+      "lat": 10.15,
+      "lng": -83.55
+    },
+    {
+      "cityName": "Tuba Creek",
+      "lat": 9.7666667,
+      "lng": -82.9
+    },
+    {
+      "cityName": "Túnsula",
+      "lat": 9.3833333,
+      "lng": -83.15
+    },
+    {
+      "cityName": "Tziola",
+      "lat": 9.55,
+      "lng": -83.2833333
+    },
+    {
+      "cityName": "Uatsi",
+      "lat": 9.6166667,
+      "lng": -82.8666667
+    },
+    {
+      "cityName": "Urinama",
+      "lat": 9.55,
+      "lng": -83.3666667
+    },
+    {
+      "cityName": "Uruchica",
+      "lat": 9.5333333,
+      "lng": -83.0666667
+    },
+    {
+      "cityName": "Venecia",
+      "lat": 10.0333333,
+      "lng": -83.2333333
+    },
+    {
+      "cityName": "Vesta",
+      "lat": 9.7166667,
+      "lng": -83.05
+    },
+    {
+      "cityName": "Villa Franca",
+      "lat": 10.3,
+      "lng": -83.6
+    },
+    {
+      "cityName": "Virginia",
+      "lat": 9.55,
+      "lng": -82.65
+    },
+    {
+      "cityName": "Waldeck",
+      "lat": 10.1,
+      "lng": -83.3833333
+    },
+    {
+      "cityName": "Westfalia",
+      "lat": 9.9333333,
+      "lng": -83.0166667
+    },
+    {
+      "cityName": "Xiroles",
+      "lat": 9.5833333,
+      "lng": -82.9666667
+    },
+    {
+      "cityName": "Zent",
+      "lat": 10.0333333,
+      "lng": -83.2833333
+    }
+  ]
+}

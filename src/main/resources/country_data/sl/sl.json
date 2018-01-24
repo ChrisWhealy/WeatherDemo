@@ -1,0 +1,39 @@
+{
+  "name": "Sierra Leone",
+  "iso2": "sl",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Eastern",
+      "id": 0
+    },
+    {
+      "name": "Northern",
+      "id": 1
+    },
+    {
+      "name": "Southern",
+      "id": 2
+    },
+    {
+      "name": "Western Area",
+      "id": 3
+    }
+  ],
+  "geoRectangle": {
+    "West": -13.3076324463,
+    "East": -10.284236908,
+    "North": 10.0000009537,
+    "South": 6.92961025238
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 0,
+    "Flg": 2,
+    "Name": "Freetown",
+    "GeoPt": [
+      8.3,
+      -13.15
+    ]
+  }
+}

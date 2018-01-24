@@ -1,0 +1,47 @@
+{
+  "name": "Madagascar",
+  "iso2": "mg",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Antananarivo",
+      "id": 0
+    },
+    {
+      "name": "Antsiranana",
+      "id": 1
+    },
+    {
+      "name": "Fianarantsoa",
+      "id": 2
+    },
+    {
+      "name": "Mahajanga",
+      "id": 3
+    },
+    {
+      "name": "Toamasina",
+      "id": 4
+    },
+    {
+      "name": "Toliara",
+      "id": 5
+    }
+  ],
+  "geoRectangle": {
+    "West": 43.2248687744,
+    "East": 50.4837875366,
+    "North": -11.9454317093,
+    "South": -25.6089553833
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 3,
+    "Flg": 2,
+    "Name": "Antananarivo",
+    "GeoPt": [
+      -18.55,
+      47.31
+    ]
+  }
+}

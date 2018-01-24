@@ -1,0 +1,35 @@
+{
+  "name": "Luxembourg",
+  "iso2": "lu",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Diekirch",
+      "id": 0
+    },
+    {
+      "name": "Grevenmacher",
+      "id": 1
+    },
+    {
+      "name": "Luxembourg",
+      "id": 2
+    }
+  ],
+  "geoRectangle": {
+    "West": 5.73455524445,
+    "East": 6.52847290039,
+    "North": 50.1849479675,
+    "South": 49.4465789795
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 1,
+    "Flg": 2,
+    "Name": "Luxembourg",
+    "GeoPt": [
+      49.36,
+      6.07
+    ]
+  }
+}

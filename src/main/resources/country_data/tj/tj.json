@@ -1,0 +1,35 @@
+{
+  "name": "Tajikistan",
+  "iso2": "tj",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Khatlon",
+      "id": 0
+    },
+    {
+      "name": "Kuhistoni Badakhshon",
+      "id": 1
+    },
+    {
+      "name": "Sughd",
+      "id": 2
+    }
+  ],
+  "geoRectangle": {
+    "West": 67.3871231079,
+    "East": 75.1372299194,
+    "North": 41.0422592163,
+    "South": 36.6741294861
+  },
+  "capital": {
+    "DLST": "null",
+    "TD": 5,
+    "Flg": 2,
+    "Name": "Dushanbe",
+    "GeoPt": [
+      38.35,
+      68.48
+    ]
+  }
+}

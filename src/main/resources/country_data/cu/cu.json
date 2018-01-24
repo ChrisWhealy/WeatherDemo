@@ -1,0 +1,83 @@
+{
+  "name": "Cuba",
+  "iso2": "cu",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Camaguey",
+      "id": 0
+    },
+    {
+      "name": "Ciego de Avila",
+      "id": 1
+    },
+    {
+      "name": "Cienfuegos",
+      "id": 2
+    },
+    {
+      "name": "Ciudad de la Habana",
+      "id": 3
+    },
+    {
+      "name": "Granma",
+      "id": 4
+    },
+    {
+      "name": "Guantanamo",
+      "id": 5
+    },
+    {
+      "name": "Holguin",
+      "id": 6
+    },
+    {
+      "name": "Isla de la Juventud",
+      "id": 7
+    },
+    {
+      "name": "La Habana",
+      "id": 8
+    },
+    {
+      "name": "Las Tunas",
+      "id": 9
+    },
+    {
+      "name": "Matanzas",
+      "id": 10
+    },
+    {
+      "name": "Pinar del Rio",
+      "id": 11
+    },
+    {
+      "name": "Sancti Spiritus",
+      "id": 12
+    },
+    {
+      "name": "Santiago de Cuba",
+      "id": 13
+    },
+    {
+      "name": "Villa Clara",
+      "id": 14
+    }
+  ],
+  "geoRectangle": {
+    "West": -84.9574432373,
+    "East": -74.1317672729,
+    "North": 23.2260456085,
+    "South": 19.8280792236
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": -5,
+    "Flg": 2,
+    "Name": "Havana",
+    "GeoPt": [
+      23.07,
+      -82.21
+    ]
+  }
+}

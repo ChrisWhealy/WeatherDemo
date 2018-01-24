@@ -1,0 +1,5285 @@
+{
+  "name": "Jonkopings Lan",
+  "cities": [
+    {
+      "cityName": "Ädelfors",
+      "lat": 57.4166667,
+      "lng": 15.3166667
+    },
+    {
+      "cityName": "Adelöv",
+      "lat": 58.0333333,
+      "lng": 14.6666667
+    },
+    {
+      "cityName": "Ägersgöl",
+      "lat": 57.6833333,
+      "lng": 15.1166667
+    },
+    {
+      "cityName": "Ägersryd",
+      "lat": 57.7666667,
+      "lng": 14.9833333
+    },
+    {
+      "cityName": "Aggarp",
+      "lat": 57.5833333,
+      "lng": 14.8666667
+    },
+    {
+      "cityName": "Agnetar",
+      "lat": 57.1,
+      "lng": 13.5333333
+    },
+    {
+      "cityName": "Åhult",
+      "lat": 57.4166667,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Åkarp",
+      "lat": 57.75,
+      "lng": 14.2666667
+    },
+    {
+      "cityName": "Åker",
+      "lat": 57.3833333,
+      "lng": 13.9833333
+    },
+    {
+      "cityName": "Åkersände",
+      "lat": 57.5,
+      "lng": 14.8166667
+    },
+    {
+      "cityName": "Alabo",
+      "lat": 57.5166667,
+      "lng": 13.6833333
+    },
+    {
+      "cityName": "Alandsryd",
+      "lat": 57.2,
+      "lng": 14
+    },
+    {
+      "cityName": "Alarp",
+      "lat": 57.4833333,
+      "lng": 15.0833333
+    },
+    {
+      "cityName": "Ålaryd",
+      "lat": 57.4333333,
+      "lng": 13.95
+    },
+    {
+      "cityName": "Albåga",
+      "lat": 57.95,
+      "lng": 14.4333333
+    },
+    {
+      "cityName": "Albo",
+      "lat": 57.25,
+      "lng": 13.7666667
+    },
+    {
+      "cityName": "Älekärr",
+      "lat": 57.7,
+      "lng": 15.3333333
+    },
+    {
+      "cityName": "Älgabäcksryd",
+      "lat": 57.6333333,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Älgaryd",
+      "lat": 57.1833333,
+      "lng": 14.2666667
+    },
+    {
+      "cityName": "Älgebo",
+      "lat": 57.4,
+      "lng": 14.0166667
+    },
+    {
+      "cityName": "Älghult",
+      "lat": 57.3666667,
+      "lng": 13.65
+    },
+    {
+      "cityName": "Algustorp",
+      "lat": 57.4333333,
+      "lng": 13.6333333
+    },
+    {
+      "cityName": "Allgunnaryd",
+      "lat": 57.25,
+      "lng": 14.6333333
+    },
+    {
+      "cityName": "Allsarp",
+      "lat": 57.2666667,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Älmås",
+      "lat": 57.2833333,
+      "lng": 13.7666667
+    },
+    {
+      "cityName": "Älmeberg",
+      "lat": 57.25,
+      "lng": 14.6166667
+    },
+    {
+      "cityName": "Almesåkra",
+      "lat": 57.55,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Älmeshult",
+      "lat": 57.7166667,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Älmhult",
+      "lat": 57.2333333,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Älmvik",
+      "lat": 57.65,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Alseda",
+      "lat": 57.4166667,
+      "lng": 15.25
+    },
+    {
+      "cityName": "Alvestorp",
+      "lat": 57.6833333,
+      "lng": 15.3666667
+    },
+    {
+      "cityName": "Amfrebo",
+      "lat": 57.0166667,
+      "lng": 13.1666667
+    },
+    {
+      "cityName": "Åminne",
+      "lat": 57.1166667,
+      "lng": 14
+    },
+    {
+      "cityName": "Ämmaryd",
+      "lat": 57.4166667,
+      "lng": 15.35
+    },
+    {
+      "cityName": "Ämmingarp",
+      "lat": 57.5333333,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Amundarp",
+      "lat": 57.6666667,
+      "lng": 15.3166667
+    },
+    {
+      "cityName": "Ånaryd",
+      "lat": 57.9333333,
+      "lng": 14.3833333
+    },
+    {
+      "cityName": "Anderstorp",
+      "lat": 57.3166667,
+      "lng": 14.6666667
+    },
+    {
+      "cityName": "Aneby",
+      "lat": 57.8333333,
+      "lng": 14.8
+    },
+    {
+      "cityName": "Äng",
+      "lat": 57.7,
+      "lng": 14.5666667
+    },
+    {
+      "cityName": "Ängaskog",
+      "lat": 57.95,
+      "lng": 14.4
+    },
+    {
+      "cityName": "Angseboda",
+      "lat": 57.2333333,
+      "lng": 14.8
+    },
+    {
+      "cityName": "Ånhult",
+      "lat": 57.5833333,
+      "lng": 14.7666667
+    },
+    {
+      "cityName": "Apelhester",
+      "lat": 57.4166667,
+      "lng": 15.1833333
+    },
+    {
+      "cityName": "Aplehult",
+      "lat": 57.2333333,
+      "lng": 14.4333333
+    },
+    {
+      "cityName": "Apparp",
+      "lat": 57.5833333,
+      "lng": 15.5
+    },
+    {
+      "cityName": "Äpplaryd",
+      "lat": 57.2333333,
+      "lng": 14.7166667
+    },
+    {
+      "cityName": "Åreryd",
+      "lat": 57.6833333,
+      "lng": 15.45
+    },
+    {
+      "cityName": "Åreved",
+      "lat": 57.1166667,
+      "lng": 13.8666667
+    },
+    {
+      "cityName": "Årsås",
+      "lat": 57.6166667,
+      "lng": 15.0833333
+    },
+    {
+      "cityName": "Årset",
+      "lat": 57.3,
+      "lng": 14.8666667
+    },
+    {
+      "cityName": "Arvidabo",
+      "lat": 57.2166667,
+      "lng": 13.35
+    },
+    {
+      "cityName": "Arvingetorp",
+      "lat": 57.45,
+      "lng": 15.0166667
+    },
+    {
+      "cityName": "Åsa",
+      "lat": 58.0166667,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Ås",
+      "lat": 57.1166667,
+      "lng": 13.6666667
+    },
+    {
+      "cityName": "Asby",
+      "lat": 58.0166667,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Äsebo",
+      "lat": 57.7,
+      "lng": 13.7666667
+    },
+    {
+      "cityName": "Åsen",
+      "lat": 57.25,
+      "lng": 13.4666667
+    },
+    {
+      "cityName": "Åsenhöga",
+      "lat": 57.4,
+      "lng": 13.8
+    },
+    {
+      "cityName": "Äskebo",
+      "lat": 57.0333333,
+      "lng": 13.2166667
+    },
+    {
+      "cityName": "Askeryd",
+      "lat": 57.8,
+      "lng": 15
+    },
+    {
+      "cityName": "Åskog",
+      "lat": 57.2666667,
+      "lng": 14.9833333
+    },
+    {
+      "cityName": "Åslarp",
+      "lat": 57.2,
+      "lng": 13.75
+    },
+    {
+      "cityName": "Äspås",
+      "lat": 57.45,
+      "lng": 13.5666667
+    },
+    {
+      "cityName": "Äsperyd",
+      "lat": 57.7,
+      "lng": 14.6166667
+    },
+    {
+      "cityName": "Äsprilla",
+      "lat": 57.3166667,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Assarebo",
+      "lat": 57.4,
+      "lng": 13.5166667
+    },
+    {
+      "cityName": "Assjö",
+      "lat": 57.8,
+      "lng": 14.9666667
+    },
+    {
+      "cityName": "Åstorp",
+      "lat": 57.15,
+      "lng": 13.75
+    },
+    {
+      "cityName": "Åtterås",
+      "lat": 57.1666667,
+      "lng": 13.35
+    },
+    {
+      "cityName": "Ävjeboda",
+      "lat": 58.0333333,
+      "lng": 15.9
+    },
+    {
+      "cityName": "Avlösa",
+      "lat": 58.0666667,
+      "lng": 14.35
+    },
+    {
+      "cityName": "Axaryd",
+      "lat": 57.2833333,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Axeryd",
+      "lat": 57.95,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Axlarp",
+      "lat": 57.6666667,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Bäckaby",
+      "lat": 57.2666667,
+      "lng": 14.9166667
+    },
+    {
+      "cityName": "Bäckafall",
+      "lat": 57.6166667,
+      "lng": 14.65
+    },
+    {
+      "cityName": "Bäck",
+      "lat": 57.5,
+      "lng": 14.1833333
+    },
+    {
+      "cityName": "Båckebo",
+      "lat": 57.3833333,
+      "lng": 14.0166667
+    },
+    {
+      "cityName": "Bäckseda",
+      "lat": 57.4,
+      "lng": 15.0833333
+    },
+    {
+      "cityName": "Bägaryd",
+      "lat": 57.1166667,
+      "lng": 13.55
+    },
+    {
+      "cityName": "Bänarp",
+      "lat": 57.95,
+      "lng": 14.8666667
+    },
+    {
+      "cityName": "Bankeryd",
+      "lat": 57.85,
+      "lng": 14.1166667
+    },
+    {
+      "cityName": "Bårarp",
+      "lat": 57.75,
+      "lng": 14.1166667
+    },
+    {
+      "cityName": "Bårebo",
+      "lat": 57.3,
+      "lng": 13.7666667
+    },
+    {
+      "cityName": "Barkäng",
+      "lat": 57.8833333,
+      "lng": 14.7666667
+    },
+    {
+      "cityName": "Barkansjö",
+      "lat": 57.5666667,
+      "lng": 14.5833333
+    },
+    {
+      "cityName": "Barkaryd",
+      "lat": 57.1833333,
+      "lng": 14.9166667
+    },
+    {
+      "cityName": "Barkeryd",
+      "lat": 57.7166667,
+      "lng": 14.5833333
+    },
+    {
+      "cityName": "Barnarp",
+      "lat": 57.7166667,
+      "lng": 14.1666667
+    },
+    {
+      "cityName": "Basseberg",
+      "lat": 57.4666667,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Bästhult",
+      "lat": 57.7,
+      "lng": 14.5833333
+    },
+    {
+      "cityName": "Bellö",
+      "lat": 57.5833333,
+      "lng": 15.3333333
+    },
+    {
+      "cityName": "Berga",
+      "lat": 57.8333333,
+      "lng": 14.85
+    },
+    {
+      "cityName": "Berg",
+      "lat": 57.4166667,
+      "lng": 13.8166667
+    },
+    {
+      "cityName": "Berghalla",
+      "lat": 57.85,
+      "lng": 14.15
+    },
+    {
+      "cityName": "Berghem",
+      "lat": 57.8833333,
+      "lng": 14.3666667
+    },
+    {
+      "cityName": "Berghemmet",
+      "lat": 57.6,
+      "lng": 15.25
+    },
+    {
+      "cityName": "Bergsnärle",
+      "lat": 57.3666667,
+      "lng": 15.1
+    },
+    {
+      "cityName": "Bestorp",
+      "lat": 57.3333333,
+      "lng": 15.0833333
+    },
+    {
+      "cityName": "Betarp",
+      "lat": 57.1833333,
+      "lng": 13.2666667
+    },
+    {
+      "cityName": "Bet",
+      "lat": 57.6166667,
+      "lng": 13.9333333
+    },
+    {
+      "cityName": "Biskopsberg",
+      "lat": 57.2666667,
+      "lng": 14.7
+    },
+    {
+      "cityName": "Bjällebäck",
+      "lat": 58.0166667,
+      "lng": 14.5166667
+    },
+    {
+      "cityName": "Bjännesby",
+      "lat": 57.4666667,
+      "lng": 14.7
+    },
+    {
+      "cityName": "Bjärkaryd",
+      "lat": 57.4333333,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Bjärknäs",
+      "lat": 57.2,
+      "lng": 14.5833333
+    },
+    {
+      "cityName": "Bjärsved",
+      "lat": 57.4666667,
+      "lng": 13.6166667
+    },
+    {
+      "cityName": "Bjässarp",
+      "lat": 57.7,
+      "lng": 15.05
+    },
+    {
+      "cityName": "Björka",
+      "lat": 57.2166667,
+      "lng": 14.5166667
+    },
+    {
+      "cityName": "Björkaryd",
+      "lat": 57.5166667,
+      "lng": 14.9666667
+    },
+    {
+      "cityName": "Björkelund",
+      "lat": 57.6333333,
+      "lng": 14.5166667
+    },
+    {
+      "cityName": "Björkenäs",
+      "lat": 57.9666667,
+      "lng": 14.5833333
+    },
+    {
+      "cityName": "Björkliden",
+      "lat": 57.75,
+      "lng": 14.9166667
+    },
+    {
+      "cityName": "Björkö",
+      "lat": 57.5,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Björköby",
+      "lat": 57.5166667,
+      "lng": 14.9166667
+    },
+    {
+      "cityName": "Björnakullen",
+      "lat": 57.2166667,
+      "lng": 13.9333333
+    },
+    {
+      "cityName": "Björnaryd",
+      "lat": 57.0833333,
+      "lng": 13.35
+    },
+    {
+      "cityName": "Björnhult",
+      "lat": 57.15,
+      "lng": 14.25
+    },
+    {
+      "cityName": "Björstorp",
+      "lat": 57.8333333,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Bladekulla",
+      "lat": 57.3333333,
+      "lng": 15.2333333
+    },
+    {
+      "cityName": "Blankefall",
+      "lat": 57.6833333,
+      "lng": 14.7833333
+    },
+    {
+      "cityName": "Blåsmålen",
+      "lat": 57.3166667,
+      "lng": 15.5
+    },
+    {
+      "cityName": "Boafall",
+      "lat": 57.7833333,
+      "lng": 14.6666667
+    },
+    {
+      "cityName": "Boarp",
+      "lat": 57.1,
+      "lng": 13.3833333
+    },
+    {
+      "cityName": "Boaryd",
+      "lat": 57,
+      "lng": 14.2
+    },
+    {
+      "cityName": "Bobacka",
+      "lat": 57.2166667,
+      "lng": 13.7833333
+    },
+    {
+      "cityName": "Bockaberg",
+      "lat": 57.2833333,
+      "lng": 15.1166667
+    },
+    {
+      "cityName": "Boda",
+      "lat": 57.0833333,
+      "lng": 13.8833333
+    },
+    {
+      "cityName": "Bodafors",
+      "lat": 57.5,
+      "lng": 14.7
+    },
+    {
+      "cityName": "Bodaryd",
+      "lat": 57.2,
+      "lng": 14.5166667
+    },
+    {
+      "cityName": "Boeryd",
+      "lat": 57.2333333,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Boestad",
+      "lat": 57.3333333,
+      "lng": 14.3666667
+    },
+    {
+      "cityName": "Bogård",
+      "lat": 57.65,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Bogla",
+      "lat": 57.7333333,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Bohult",
+      "lat": 57.3,
+      "lng": 13.3166667
+    },
+    {
+      "cityName": "Böjeryd",
+      "lat": 57.0666667,
+      "lng": 13.1333333
+    },
+    {
+      "cityName": "Bökarp",
+      "lat": 57.4666667,
+      "lng": 14.8833333
+    },
+    {
+      "cityName": "Bökhult",
+      "lat": 57,
+      "lng": 13.4833333
+    },
+    {
+      "cityName": "Bölaryd",
+      "lat": 57.1333333,
+      "lng": 13.3666667
+    },
+    {
+      "cityName": "Bolerum",
+      "lat": 57.8166667,
+      "lng": 14.6666667
+    },
+    {
+      "cityName": "Böllingetorp",
+      "lat": 57.2833333,
+      "lng": 14.6833333
+    },
+    {
+      "cityName": "Bolmsö",
+      "lat": 57,
+      "lng": 13.7166667
+    },
+    {
+      "cityName": "Bondarp",
+      "lat": 57.3833333,
+      "lng": 13.7666667
+    },
+    {
+      "cityName": "Bondaryd",
+      "lat": 57.35,
+      "lng": 13.5166667
+    },
+    {
+      "cityName": "Bonderyd",
+      "lat": 57.6333333,
+      "lng": 15.0166667
+    },
+    {
+      "cityName": "Bondstorp",
+      "lat": 57.6,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Bor",
+      "lat": 57.1166667,
+      "lng": 14.1666667
+    },
+    {
+      "cityName": "Bordsjö",
+      "lat": 57.8333333,
+      "lng": 14.9833333
+    },
+    {
+      "cityName": "Borningarp",
+      "lat": 57.05,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Börsebo",
+      "lat": 57.6166667,
+      "lng": 15.3333333
+    },
+    {
+      "cityName": "Borstrulla",
+      "lat": 57.6,
+      "lng": 15.4
+    },
+    {
+      "cityName": "Börtebohult",
+      "lat": 57.3,
+      "lng": 13.3333333
+    },
+    {
+      "cityName": "Bosebo",
+      "lat": 57.3,
+      "lng": 13.3666667
+    },
+    {
+      "cityName": "Bosgård",
+      "lat": 57.85,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Bottnaryd",
+      "lat": 57.7666667,
+      "lng": 13.8166667
+    },
+    {
+      "cityName": "Bråna",
+      "lat": 57.6333333,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Brännehylte",
+      "lat": 57.3166667,
+      "lng": 13.8333333
+    },
+    {
+      "cityName": "Brantås",
+      "lat": 57.4666667,
+      "lng": 14.85
+    },
+    {
+      "cityName": "Branthälla",
+      "lat": 57.5666667,
+      "lng": 15.2833333
+    },
+    {
+      "cityName": "Bråtåkra",
+      "lat": 57.3833333,
+      "lng": 15.0666667
+    },
+    {
+      "cityName": "Breafall",
+      "lat": 57.8666667,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Bredaryd",
+      "lat": 57.1666667,
+      "lng": 13.7333333
+    },
+    {
+      "cityName": "Bredstorp",
+      "lat": 57.5833333,
+      "lng": 14.4833333
+    },
+    {
+      "cityName": "Brestorp",
+      "lat": 57.6,
+      "lng": 15.5833333
+    },
+    {
+      "cityName": "Bretofta",
+      "lat": 57.6333333,
+      "lng": 14.3833333
+    },
+    {
+      "cityName": "Brevik",
+      "lat": 57.6666667,
+      "lng": 14.8833333
+    },
+    {
+      "cityName": "Bringetofta",
+      "lat": 57.45,
+      "lng": 14.6166667
+    },
+    {
+      "cityName": "Brinka",
+      "lat": 57.9333333,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Brittebo",
+      "lat": 57.7166667,
+      "lng": 14.55
+    },
+    {
+      "cityName": "Broaryd",
+      "lat": 57.1166667,
+      "lng": 13.25
+    },
+    {
+      "cityName": "Broby",
+      "lat": 57.3666667,
+      "lng": 14.8833333
+    },
+    {
+      "cityName": "Broddarp",
+      "lat": 57.5,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Broddatorp",
+      "lat": 57.2333333,
+      "lng": 14.8666667
+    },
+    {
+      "cityName": "Broddhult",
+      "lat": 57.3833333,
+      "lng": 13.7833333
+    },
+    {
+      "cityName": "Brohult",
+      "lat": 57.2833333,
+      "lng": 14.5166667
+    },
+    {
+      "cityName": "Brostorp",
+      "lat": 57.95,
+      "lng": 14.6666667
+    },
+    {
+      "cityName": "Brötjemark",
+      "lat": 57.9333333,
+      "lng": 14.4
+    },
+    {
+      "cityName": "Bröttjestad",
+      "lat": 57.15,
+      "lng": 13.7166667
+    },
+    {
+      "cityName": "Brunefall",
+      "lat": 57.6666667,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Brunnshult",
+      "lat": 57.4833333,
+      "lng": 15.15
+    },
+    {
+      "cityName": "Brunseryd",
+      "lat": 57.35,
+      "lng": 14.6666667
+    },
+    {
+      "cityName": "Brunstorp",
+      "lat": 57.7666667,
+      "lng": 14.35
+    },
+    {
+      "cityName": "Brusaholm",
+      "lat": 57.6333333,
+      "lng": 15.2666667
+    },
+    {
+      "cityName": "Buckhult",
+      "lat": 57.7166667,
+      "lng": 14.7333333
+    },
+    {
+      "cityName": "Buddatorp",
+      "lat": 57.3,
+      "lng": 14.7333333
+    },
+    {
+      "cityName": "Buddebo",
+      "lat": 57.6,
+      "lng": 13.9833333
+    },
+    {
+      "cityName": "Buggeryd",
+      "lat": 57.45,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Bunn",
+      "lat": 57.9333333,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Burseryd",
+      "lat": 57.2,
+      "lng": 13.2833333
+    },
+    {
+      "cityName": "Buskebo",
+      "lat": 57.5,
+      "lng": 15.6
+    },
+    {
+      "cityName": "Byarum",
+      "lat": 57.55,
+      "lng": 14.1333333
+    },
+    {
+      "cityName": "Byestad",
+      "lat": 57.3833333,
+      "lng": 15.3333333
+    },
+    {
+      "cityName": "Bygdås",
+      "lat": 57.65,
+      "lng": 15.3666667
+    },
+    {
+      "cityName": "Byhult",
+      "lat": 57.7333333,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Dagsås",
+      "lat": 57.35,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Dammen",
+      "lat": 57.3333333,
+      "lng": 14.2166667
+    },
+    {
+      "cityName": "Dannäs",
+      "lat": 57.0666667,
+      "lng": 13.8333333
+    },
+    {
+      "cityName": "Danstorp",
+      "lat": 57.7,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Dimmö",
+      "lat": 57.5,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Djupadal",
+      "lat": 57.7833333,
+      "lng": 15.0333333
+    },
+    {
+      "cityName": "Djupedal",
+      "lat": 57.9166667,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Djupelsbo",
+      "lat": 57.4,
+      "lng": 13.7333333
+    },
+    {
+      "cityName": "Djurseryd",
+      "lat": 57.5,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Djuvanäs",
+      "lat": 57.5,
+      "lng": 14.8666667
+    },
+    {
+      "cityName": "Draftinge",
+      "lat": 57.1333333,
+      "lng": 13.7
+    },
+    {
+      "cityName": "Drageryd",
+      "lat": 57.4666667,
+      "lng": 14.6166667
+    },
+    {
+      "cityName": "Dragsnäs",
+      "lat": 57.1833333,
+      "lng": 14.9833333
+    },
+    {
+      "cityName": "Dravö",
+      "lat": 57.1333333,
+      "lng": 13.65
+    },
+    {
+      "cityName": "Drömmeshult",
+      "lat": 57.5333333,
+      "lng": 14.95
+    },
+    {
+      "cityName": "Drömminge",
+      "lat": 57.15,
+      "lng": 14.1333333
+    },
+    {
+      "cityName": "Dye",
+      "lat": 57.2,
+      "lng": 13.6
+    },
+    {
+      "cityName": "Ebbarp",
+      "lat": 57.5666667,
+      "lng": 15.4166667
+    },
+    {
+      "cityName": "Ebbebo",
+      "lat": 57.35,
+      "lng": 13.45
+    },
+    {
+      "cityName": "Ebbes",
+      "lat": 57.7833333,
+      "lng": 14.3
+    },
+    {
+      "cityName": "Eckerda",
+      "lat": 57.4666667,
+      "lng": 15.1
+    },
+    {
+      "cityName": "Ed",
+      "lat": 58.1,
+      "lng": 14.3833333
+    },
+    {
+      "cityName": "Ekåsen",
+      "lat": 57.6333333,
+      "lng": 13.9333333
+    },
+    {
+      "cityName": "Ekeberg",
+      "lat": 57.1166667,
+      "lng": 14.2666667
+    },
+    {
+      "cityName": "Ekefall",
+      "lat": 57.65,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Ekekull",
+      "lat": 57.5,
+      "lng": 15.2333333
+    },
+    {
+      "cityName": "Ekelsjö",
+      "lat": 57.5166667,
+      "lng": 14.5333333
+    },
+    {
+      "cityName": "Ekenäs",
+      "lat": 57.5,
+      "lng": 15
+    },
+    {
+      "cityName": "Ekeryd",
+      "lat": 57.6,
+      "lng": 14.0833333
+    },
+    {
+      "cityName": "Ekhult",
+      "lat": 57.25,
+      "lng": 14.4333333
+    },
+    {
+      "cityName": "Ekornahult",
+      "lat": 57.35,
+      "lng": 15.0166667
+    },
+    {
+      "cityName": "Eksjö",
+      "lat": 57.6666667,
+      "lng": 14.95
+    },
+    {
+      "cityName": "Eldskog",
+      "lat": 57.6166667,
+      "lng": 15.0666667
+    },
+    {
+      "cityName": "Eldstorp",
+      "lat": 57.8166667,
+      "lng": 15.0166667
+    },
+    {
+      "cityName": "Elsabo",
+      "lat": 57.6833333,
+      "lng": 13.7333333
+    },
+    {
+      "cityName": "Emhult",
+      "lat": 57.4166667,
+      "lng": 15.4166667
+    },
+    {
+      "cityName": "Erickshester",
+      "lat": 57.3833333,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Erlandstorp",
+      "lat": 57.5666667,
+      "lng": 14.35
+    },
+    {
+      "cityName": "Erstad",
+      "lat": 58.0833333,
+      "lng": 14.3833333
+    },
+    {
+      "cityName": "Eskilstorp",
+      "lat": 57.2166667,
+      "lng": 13.7166667
+    },
+    {
+      "cityName": "Estenstorp",
+      "lat": 57.5166667,
+      "lng": 14.45
+    },
+    {
+      "cityName": "Fågelhult",
+      "lat": 57.55,
+      "lng": 15.4
+    },
+    {
+      "cityName": "Fågelkärr",
+      "lat": 57.9333333,
+      "lng": 14.4833333
+    },
+    {
+      "cityName": "Fågelleken",
+      "lat": 57.5833333,
+      "lng": 14.7
+    },
+    {
+      "cityName": "Fageräng",
+      "lat": 57.2833333,
+      "lng": 14.55
+    },
+    {
+      "cityName": "Fagerberg",
+      "lat": 57.5,
+      "lng": 13.6166667
+    },
+    {
+      "cityName": "Fägerhult",
+      "lat": 57.15,
+      "lng": 13.35
+    },
+    {
+      "cityName": "Fagerslätt",
+      "lat": 57.6833333,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Fåglabäck",
+      "lat": 57.4333333,
+      "lng": 14.0833333
+    },
+    {
+      "cityName": "Fäglakulla",
+      "lat": 57.3,
+      "lng": 15.35
+    },
+    {
+      "cityName": "Fåglarp",
+      "lat": 57.7,
+      "lng": 14.5166667
+    },
+    {
+      "cityName": "Falla",
+      "lat": 57.6,
+      "lng": 14.3333333
+    },
+    {
+      "cityName": "Fållinge",
+      "lat": 57.1666667,
+      "lng": 13.4333333
+    },
+    {
+      "cityName": "Fallnafors",
+      "lat": 57.55,
+      "lng": 14.3833333
+    },
+    {
+      "cityName": "Fällsbo",
+      "lat": 57.5666667,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Fänestad",
+      "lat": 57.1833333,
+      "lng": 13.8333333
+    },
+    {
+      "cityName": "Fängsjö",
+      "lat": 57.1,
+      "lng": 13.35
+    },
+    {
+      "cityName": "Färda",
+      "lat": 57,
+      "lng": 13.5333333
+    },
+    {
+      "cityName": "Farstorp",
+      "lat": 57.3333333,
+      "lng": 15.3166667
+    },
+    {
+      "cityName": "Fastorp",
+      "lat": 57.4333333,
+      "lng": 14.1666667
+    },
+    {
+      "cityName": "Femtinge",
+      "lat": 57.4333333,
+      "lng": 14.6333333
+    },
+    {
+      "cityName": "Fifflaryd",
+      "lat": 57.3,
+      "lng": 13.65
+    },
+    {
+      "cityName": "Finnanäs",
+      "lat": 57.9833333,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Finneryd",
+      "lat": 57.75,
+      "lng": 14.5333333
+    },
+    {
+      "cityName": "Finntorp",
+      "lat": 57.65,
+      "lng": 14.4333333
+    },
+    {
+      "cityName": "Fjusnäs",
+      "lat": 57.0666667,
+      "lng": 13.2166667
+    },
+    {
+      "cityName": "Flage",
+      "lat": 57.35,
+      "lng": 15.1833333
+    },
+    {
+      "cityName": "Flahult",
+      "lat": 57.3666667,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Fläsås",
+      "lat": 57.6,
+      "lng": 15.2
+    },
+    {
+      "cityName": "Flättinge",
+      "lat": 57.9166667,
+      "lng": 14.3666667
+    },
+    {
+      "cityName": "Flisby",
+      "lat": 57.7833333,
+      "lng": 14.8
+    },
+    {
+      "cityName": "Flohult",
+      "lat": 57.2666667,
+      "lng": 15.1666667
+    },
+    {
+      "cityName": "Floryd",
+      "lat": 57.6166667,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Flugeby",
+      "lat": 57.4333333,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Förås",
+      "lat": 57.75,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Föreberg",
+      "lat": 57.2333333,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Föreda",
+      "lat": 57.45,
+      "lng": 15.05
+    },
+    {
+      "cityName": "Forsa",
+      "lat": 57.45,
+      "lng": 14.65
+    },
+    {
+      "cityName": "Forserum",
+      "lat": 57.7,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Forsheda",
+      "lat": 57.15,
+      "lng": 13.8166667
+    },
+    {
+      "cityName": "Frännarp",
+      "lat": 57.8833333,
+      "lng": 14.5166667
+    },
+    {
+      "cityName": "Fredricksdal",
+      "lat": 57.6166667,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Fridensberg",
+      "lat": 57.5,
+      "lng": 15.2
+    },
+    {
+      "cityName": "Frinnaryd",
+      "lat": 57.9333333,
+      "lng": 14.8166667
+    },
+    {
+      "cityName": "Fröderyd",
+      "lat": 57.3166667,
+      "lng": 14.8666667
+    },
+    {
+      "cityName": "Frökenbo",
+      "lat": 57.4166667,
+      "lng": 15.2666667
+    },
+    {
+      "cityName": "Fröset",
+      "lat": 57.1166667,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Frostabacka",
+      "lat": 57.1833333,
+      "lng": 13.3166667
+    },
+    {
+      "cityName": "Fryebo",
+      "lat": 57.3666667,
+      "lng": 14.0833333
+    },
+    {
+      "cityName": "Fryele",
+      "lat": 57.2666667,
+      "lng": 14.15
+    },
+    {
+      "cityName": "Funghult",
+      "lat": 57.5833333,
+      "lng": 15.45
+    },
+    {
+      "cityName": "Gäddås",
+      "lat": 57.3,
+      "lng": 13.35
+    },
+    {
+      "cityName": "Gådeberg",
+      "lat": 57.5,
+      "lng": 14.5833333
+    },
+    {
+      "cityName": "Gåeryd",
+      "lat": 57.3166667,
+      "lng": 14.35
+    },
+    {
+      "cityName": "Gagnaryd",
+      "lat": 57.7166667,
+      "lng": 13.9666667
+    },
+    {
+      "cityName": "Gallnås",
+      "lat": 57.25,
+      "lng": 14.25
+    },
+    {
+      "cityName": "Galtås",
+      "lat": 57.15,
+      "lng": 13.5166667
+    },
+    {
+      "cityName": "Gamlarp",
+      "lat": 57.6833333,
+      "lng": 14.6833333
+    },
+    {
+      "cityName": "Gårdshult",
+      "lat": 57.0833333,
+      "lng": 13.2666667
+    },
+    {
+      "cityName": "Gårö",
+      "lat": 57.35,
+      "lng": 13.7333333
+    },
+    {
+      "cityName": "Gassljunga",
+      "lat": 57.0333333,
+      "lng": 13.35
+    },
+    {
+      "cityName": "Gestra",
+      "lat": 57.85,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Getterhult",
+      "lat": 57,
+      "lng": 13.5833333
+    },
+    {
+      "cityName": "Gettersryd",
+      "lat": 57.4166667,
+      "lng": 14.4166667
+    },
+    {
+      "cityName": "Gettinge",
+      "lat": 57.4,
+      "lng": 15.1166667
+    },
+    {
+      "cityName": "Gettrabo",
+      "lat": 57.6166667,
+      "lng": 13.9666667
+    },
+    {
+      "cityName": "Gevelhester",
+      "lat": 57.4833333,
+      "lng": 15.2
+    },
+    {
+      "cityName": "Gigaryd",
+      "lat": 57.1833333,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Gimarp",
+      "lat": 57.1666667,
+      "lng": 14.25
+    },
+    {
+      "cityName": "Gisebo",
+      "lat": 57.8333333,
+      "lng": 14.2666667
+    },
+    {
+      "cityName": "Gislaved",
+      "lat": 57.3,
+      "lng": 13.5333333
+    },
+    {
+      "cityName": "Gissebäck",
+      "lat": 57.6166667,
+      "lng": 14.7666667
+    },
+    {
+      "cityName": "Gisslaköp",
+      "lat": 57.45,
+      "lng": 13.95
+    },
+    {
+      "cityName": "Gistingstorp",
+      "lat": 57.3,
+      "lng": 14.7
+    },
+    {
+      "cityName": "Glömsjö",
+      "lat": 57.4,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Gnosjö",
+      "lat": 57.3666667,
+      "lng": 13.7333333
+    },
+    {
+      "cityName": "Gohult",
+      "lat": 57.25,
+      "lng": 13.7833333
+    },
+    {
+      "cityName": "Gölsebo",
+      "lat": 57.1666667,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Göshult",
+      "lat": 57.3666667,
+      "lng": 13.8166667
+    },
+    {
+      "cityName": "Göstorp",
+      "lat": 57.6333333,
+      "lng": 14.5333333
+    },
+    {
+      "cityName": "Götafors",
+      "lat": 57.4833333,
+      "lng": 14.1
+    },
+    {
+      "cityName": "Götarp",
+      "lat": 57.4,
+      "lng": 13.75
+    },
+    {
+      "cityName": "Götestorp",
+      "lat": 57.25,
+      "lng": 15.3666667
+    },
+    {
+      "cityName": "Götsjögle",
+      "lat": 57.4833333,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Gräfthult",
+      "lat": 57.2833333,
+      "lng": 13.4833333
+    },
+    {
+      "cityName": "Grälebo",
+      "lat": 57.6166667,
+      "lng": 14.0166667
+    },
+    {
+      "cityName": "Granås",
+      "lat": 57.35,
+      "lng": 13.8
+    },
+    {
+      "cityName": "Grankärr",
+      "lat": 57.0333333,
+      "lng": 14.25
+    },
+    {
+      "cityName": "Gränna",
+      "lat": 58.0166667,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Gransäng",
+      "lat": 57.6666667,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Granshult",
+      "lat": 57.2166667,
+      "lng": 15.0833333
+    },
+    {
+      "cityName": "Granstorp",
+      "lat": 57.4666667,
+      "lng": 13.8166667
+    },
+    {
+      "cityName": "Gräshult",
+      "lat": 57.3333333,
+      "lng": 14.1666667
+    },
+    {
+      "cityName": "Griggatorp",
+      "lat": 57.2833333,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Grimmestorp",
+      "lat": 57.6833333,
+      "lng": 15.2833333
+    },
+    {
+      "cityName": "Grimstorp",
+      "lat": 57.5666667,
+      "lng": 14.7
+    },
+    {
+      "cityName": "Grinenberg",
+      "lat": 57.9833333,
+      "lng": 14.85
+    },
+    {
+      "cityName": "Gryteryd",
+      "lat": 57.0833333,
+      "lng": 13.1333333
+    },
+    {
+      "cityName": "Gullåkra",
+      "lat": 57.6333333,
+      "lng": 14.2666667
+    },
+    {
+      "cityName": "Gullegärde",
+      "lat": 57.6,
+      "lng": 15.55
+    },
+    {
+      "cityName": "Gummarp",
+      "lat": 57.1,
+      "lng": 13.8
+    },
+    {
+      "cityName": "Gunnamo",
+      "lat": 57.1666667,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Gunnarshult",
+      "lat": 57.3666667,
+      "lng": 15.0333333
+    },
+    {
+      "cityName": "Gunnarsryd",
+      "lat": 57.5333333,
+      "lng": 14.3333333
+    },
+    {
+      "cityName": "Gunnarstorp",
+      "lat": 57.85,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Gunneryd",
+      "lat": 57.9333333,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Gyllene Uttern",
+      "lat": 58,
+      "lng": 14.4333333
+    },
+    {
+      "cityName": "Gynnås",
+      "lat": 57.3833333,
+      "lng": 13.7166667
+    },
+    {
+      "cityName": "Hacklarsbo",
+      "lat": 57.6833333,
+      "lng": 14
+    },
+    {
+      "cityName": "Haddarp",
+      "lat": 57.2666667,
+      "lng": 15.3833333
+    },
+    {
+      "cityName": "Haddås",
+      "lat": 57.6666667,
+      "lng": 15.4166667
+    },
+    {
+      "cityName": "Hädinge",
+      "lat": 57.2833333,
+      "lng": 13.9666667
+    },
+    {
+      "cityName": "Hagafors",
+      "lat": 57.4666667,
+      "lng": 14.3333333
+    },
+    {
+      "cityName": "Haga",
+      "lat": 57.1333333,
+      "lng": 13.6166667
+    },
+    {
+      "cityName": "Häggarp",
+      "lat": 57.4666667,
+      "lng": 15.5666667
+    },
+    {
+      "cityName": "Häggatorp",
+      "lat": 57.3,
+      "lng": 14.6833333
+    },
+    {
+      "cityName": "Hag",
+      "lat": 57.2833333,
+      "lng": 14.5666667
+    },
+    {
+      "cityName": "Haghestra",
+      "lat": 57.35,
+      "lng": 13.6833333
+    },
+    {
+      "cityName": "Hagshult",
+      "lat": 57.3333333,
+      "lng": 14.1833333
+    },
+    {
+      "cityName": "Hagstad",
+      "lat": 57.4333333,
+      "lng": 13.9833333
+    },
+    {
+      "cityName": "Hakarp",
+      "lat": 57.2,
+      "lng": 13.5
+    },
+    {
+      "cityName": "Hakebo",
+      "lat": 58.0833333,
+      "lng": 14.7833333
+    },
+    {
+      "cityName": "Håkentorp",
+      "lat": 57.15,
+      "lng": 13.6666667
+    },
+    {
+      "cityName": "Hålabo",
+      "lat": 57.5833333,
+      "lng": 13.8666667
+    },
+    {
+      "cityName": "Hålgryte",
+      "lat": 57.2,
+      "lng": 13.2
+    },
+    {
+      "cityName": "Häljabo",
+      "lat": 57.7166667,
+      "lng": 13.8166667
+    },
+    {
+      "cityName": "Häljaryd",
+      "lat": 57.7166667,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Hällabäck",
+      "lat": 57.25,
+      "lng": 13.3
+    },
+    {
+      "cityName": "Hällaryd",
+      "lat": 57.3333333,
+      "lng": 14.5666667
+    },
+    {
+      "cityName": "Hälleved",
+      "lat": 57.5666667,
+      "lng": 14.7833333
+    },
+    {
+      "cityName": "Hallhult",
+      "lat": 57.6166667,
+      "lng": 14.5666667
+    },
+    {
+      "cityName": "Hallingstorp",
+      "lat": 57.9666667,
+      "lng": 14.9333333
+    },
+    {
+      "cityName": "Hamra",
+      "lat": 57.1666667,
+      "lng": 13.65
+    },
+    {
+      "cityName": "Hånger",
+      "lat": 57.0833333,
+      "lng": 13.9666667
+    },
+    {
+      "cityName": "Häradsjögle",
+      "lat": 57.2166667,
+      "lng": 15.4666667
+    },
+    {
+      "cityName": "Häradsö",
+      "lat": 57.3166667,
+      "lng": 14
+    },
+    {
+      "cityName": "Hareryd",
+      "lat": 57.7833333,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Härestorp",
+      "lat": 57.2833333,
+      "lng": 13.6833333
+    },
+    {
+      "cityName": "Harfall",
+      "lat": 57.3833333,
+      "lng": 14.05
+    },
+    {
+      "cityName": "Harghult",
+      "lat": 57.4,
+      "lng": 15.5
+    },
+    {
+      "cityName": "Harphult",
+      "lat": 57.7,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Hässlarp",
+      "lat": 57.8333333,
+      "lng": 14.45
+    },
+    {
+      "cityName": "Hässle",
+      "lat": 57.4,
+      "lng": 15.2
+    },
+    {
+      "cityName": "Hässlehult",
+      "lat": 57.4833333,
+      "lng": 15.55
+    },
+    {
+      "cityName": "Hästerum",
+      "lat": 57.7166667,
+      "lng": 14.6833333
+    },
+    {
+      "cityName": "Hästhult",
+      "lat": 57.3166667,
+      "lng": 13.8
+    },
+    {
+      "cityName": "Havik",
+      "lat": 57.6166667,
+      "lng": 15.1833333
+    },
+    {
+      "cityName": "Havrida",
+      "lat": 57.1833333,
+      "lng": 13.75
+    },
+    {
+      "cityName": "Havsjö",
+      "lat": 57.5,
+      "lng": 14.6333333
+    },
+    {
+      "cityName": "Heda",
+      "lat": 57.55,
+      "lng": 15.4666667
+    },
+    {
+      "cityName": "Hedenstorp",
+      "lat": 57.3666667,
+      "lng": 13.5333333
+    },
+    {
+      "cityName": "Hemmershult",
+      "lat": 57.3,
+      "lng": 14.1666667
+    },
+    {
+      "cityName": "Hemmersryd",
+      "lat": 57.4666667,
+      "lng": 14.4833333
+    },
+    {
+      "cityName": "Henja",
+      "lat": 57.3,
+      "lng": 13.5833333
+    },
+    {
+      "cityName": "Hiegöl",
+      "lat": 57.65,
+      "lng": 14.35
+    },
+    {
+      "cityName": "Hillerstorp",
+      "lat": 57.3166667,
+      "lng": 13.8666667
+    },
+    {
+      "cityName": "Hillhult",
+      "lat": 57.25,
+      "lng": 15.35
+    },
+    {
+      "cityName": "Hillinge",
+      "lat": 57.9,
+      "lng": 14.35
+    },
+    {
+      "cityName": "Himmestorp",
+      "lat": 57.65,
+      "lng": 15.4333333
+    },
+    {
+      "cityName": "Hisinge",
+      "lat": 57.3,
+      "lng": 14.2666667
+    },
+    {
+      "cityName": "Hjälmaryd",
+      "lat": 57.0833333,
+      "lng": 13.8
+    },
+    {
+      "cityName": "Hjälmsänga",
+      "lat": 56.9666667,
+      "lng": 14.2166667
+    },
+    {
+      "cityName": "Hjälmseryd",
+      "lat": 57.25,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Hjälmshester",
+      "lat": 57.6,
+      "lng": 15.5333333
+    },
+    {
+      "cityName": "Hjälshammar",
+      "lat": 57.1333333,
+      "lng": 14.0666667
+    },
+    {
+      "cityName": "Hjältaryd",
+      "lat": 57.4,
+      "lng": 14.9333333
+    },
+    {
+      "cityName": "Hjältevad",
+      "lat": 57.6333333,
+      "lng": 15.3333333
+    },
+    {
+      "cityName": "Hjärkanstorp",
+      "lat": 57.4666667,
+      "lng": 14.8666667
+    },
+    {
+      "cityName": "Hjärtlanda",
+      "lat": 57.3666667,
+      "lng": 14.6666667
+    },
+    {
+      "cityName": "Hjärtsöla",
+      "lat": 57.5333333,
+      "lng": 14.6333333
+    },
+    {
+      "cityName": "Hjortsjö",
+      "lat": 56.9666667,
+      "lng": 14.3666667
+    },
+    {
+      "cityName": "Hjulfhult",
+      "lat": 57.0833333,
+      "lng": 13.5666667
+    },
+    {
+      "cityName": "Högagärde",
+      "lat": 57.5333333,
+      "lng": 14.7666667
+    },
+    {
+      "cityName": "Högagård",
+      "lat": 57.5333333,
+      "lng": 15.5166667
+    },
+    {
+      "cityName": "Högakull",
+      "lat": 57.4666667,
+      "lng": 15.2833333
+    },
+    {
+      "cityName": "Högshult",
+      "lat": 57.2833333,
+      "lng": 13.7833333
+    },
+    {
+      "cityName": "Högstorp",
+      "lat": 57.85,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Hokalt",
+      "lat": 57.0666667,
+      "lng": 13.4166667
+    },
+    {
+      "cityName": "Hökhemmet",
+      "lat": 57.1666667,
+      "lng": 14.5166667
+    },
+    {
+      "cityName": "Hok",
+      "lat": 57.5166667,
+      "lng": 14.2666667
+    },
+    {
+      "cityName": "Holkaryd",
+      "lat": 57.3333333,
+      "lng": 14.4333333
+    },
+    {
+      "cityName": "Holma",
+      "lat": 57.2833333,
+      "lng": 14.7
+    },
+    {
+      "cityName": "Holmebo",
+      "lat": 56.95,
+      "lng": 14.2166667
+    },
+    {
+      "cityName": "Holmen",
+      "lat": 57,
+      "lng": 13.4166667
+    },
+    {
+      "cityName": "Holm",
+      "lat": 57.3166667,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Holsbybrunn",
+      "lat": 57.4333333,
+      "lng": 15.2
+    },
+    {
+      "cityName": "Holsby",
+      "lat": 57.45,
+      "lng": 15.2
+    },
+    {
+      "cityName": "Holsteryd",
+      "lat": 57.4833333,
+      "lng": 14.7833333
+    },
+    {
+      "cityName": "Höreda",
+      "lat": 57.2333333,
+      "lng": 14.9333333
+    },
+    {
+      "cityName": "Hörjesås",
+      "lat": 57.1833333,
+      "lng": 15.0333333
+    },
+    {
+      "cityName": "Hörle",
+      "lat": 57.2666667,
+      "lng": 14.05
+    },
+    {
+      "cityName": "Hornaryd",
+      "lat": 57.1666667,
+      "lng": 14.0166667
+    },
+    {
+      "cityName": "Hornsved",
+      "lat": 57.6666667,
+      "lng": 15.45
+    },
+    {
+      "cityName": "Horsabäck",
+      "lat": 57.45,
+      "lng": 15.2833333
+    },
+    {
+      "cityName": "Horshaga",
+      "lat": 57.25,
+      "lng": 13.4333333
+    },
+    {
+      "cityName": "Horsnäs",
+      "lat": 57.4833333,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Horsöja",
+      "lat": 57.1,
+      "lng": 13.5833333
+    },
+    {
+      "cityName": "Horveryd",
+      "lat": 57.3833333,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Hostro",
+      "lat": 57.45,
+      "lng": 13.5833333
+    },
+    {
+      "cityName": "Hov",
+      "lat": 57.9,
+      "lng": 14.3666667
+    },
+    {
+      "cityName": "Hövik",
+      "lat": 58,
+      "lng": 14.5333333
+    },
+    {
+      "cityName": "Hovslätt",
+      "lat": 57.7333333,
+      "lng": 14.1166667
+    },
+    {
+      "cityName": "Hudaryd",
+      "lat": 57.6,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Hulebo",
+      "lat": 57.2666667,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Hullaryd",
+      "lat": 57.9166667,
+      "lng": 14.7166667
+    },
+    {
+      "cityName": "Hulta",
+      "lat": 57.4,
+      "lng": 14.7833333
+    },
+    {
+      "cityName": "Hultanäs",
+      "lat": 57.2166667,
+      "lng": 15.4333333
+    },
+    {
+      "cityName": "Hultarp",
+      "lat": 57.6,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Hult",
+      "lat": 57.1,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Hultna",
+      "lat": 57.5833333,
+      "lng": 15.4166667
+    },
+    {
+      "cityName": "Hultseryd",
+      "lat": 57.8,
+      "lng": 14.3833333
+    },
+    {
+      "cityName": "Hultsjö",
+      "lat": 57.3166667,
+      "lng": 14.7
+    },
+    {
+      "cityName": "Hulu",
+      "lat": 57.1666667,
+      "lng": 14.9166667
+    },
+    {
+      "cityName": "Hundåsen",
+      "lat": 57.2333333,
+      "lng": 14.55
+    },
+    {
+      "cityName": "Hundshult",
+      "lat": 57.6833333,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Hunseberg",
+      "lat": 57.6666667,
+      "lng": 14.7333333
+    },
+    {
+      "cityName": "Husgärde",
+      "lat": 58.0333333,
+      "lng": 14.3
+    },
+    {
+      "cityName": "Huskvarna",
+      "lat": 57.8,
+      "lng": 14.2666667
+    },
+    {
+      "cityName": "Husnäs",
+      "lat": 57.5,
+      "lng": 15.4333333
+    },
+    {
+      "cityName": "Hustomta",
+      "lat": 57.7,
+      "lng": 15.2666667
+    },
+    {
+      "cityName": "Hustomten",
+      "lat": 57.65,
+      "lng": 14.0666667
+    },
+    {
+      "cityName": "Hylletofta",
+      "lat": 57.4,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Hyltan",
+      "lat": 57.3333333,
+      "lng": 14.7166667
+    },
+    {
+      "cityName": "Hylte",
+      "lat": 57.0833333,
+      "lng": 14.3
+    },
+    {
+      "cityName": "Idanäs",
+      "lat": 57.3,
+      "lng": 15.3666667
+    },
+    {
+      "cityName": "Idekulla",
+      "lat": 57.6,
+      "lng": 15.35
+    },
+    {
+      "cityName": "Ingarp",
+      "lat": 57.4166667,
+      "lng": 13.85
+    },
+    {
+      "cityName": "Ingatorp",
+      "lat": 57.6333333,
+      "lng": 15.4
+    },
+    {
+      "cityName": "Ingelsbo",
+      "lat": 57.3833333,
+      "lng": 13.5166667
+    },
+    {
+      "cityName": "Ingeryd",
+      "lat": 57.9333333,
+      "lng": 14.45
+    },
+    {
+      "cityName": "Intäkt",
+      "lat": 57.2333333,
+      "lng": 14.4
+    },
+    {
+      "cityName": "Isåsa",
+      "lat": 57.6166667,
+      "lng": 14.7333333
+    },
+    {
+      "cityName": "Jäbo",
+      "lat": 57.7166667,
+      "lng": 14.0166667
+    },
+    {
+      "cityName": "Jära",
+      "lat": 57.75,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Järnboda",
+      "lat": 57.3666667,
+      "lng": 14.2666667
+    },
+    {
+      "cityName": "Järsnäs",
+      "lat": 57.7833333,
+      "lng": 14.55
+    },
+    {
+      "cityName": "Jönköping",
+      "lat": 57.7833333,
+      "lng": 14.1833333
+    },
+    {
+      "cityName": "Jonsbo",
+      "lat": 57.0833333,
+      "lng": 13.8333333
+    },
+    {
+      "cityName": "Jönshult",
+      "lat": 57.3333333,
+      "lng": 14.25
+    },
+    {
+      "cityName": "Jorarp",
+      "lat": 57.6,
+      "lng": 14.1333333
+    },
+    {
+      "cityName": "Jularp",
+      "lat": 57.8333333,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Käfsjö",
+      "lat": 57.3166667,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Kålberga",
+      "lat": 57.25,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Kållåkerskog",
+      "lat": 57.1833333,
+      "lng": 13.4166667
+    },
+    {
+      "cityName": "Källeryd",
+      "lat": 57.7333333,
+      "lng": 14.55
+    },
+    {
+      "cityName": "Kallsjö",
+      "lat": 57.2833333,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Kalvia",
+      "lat": 57.15,
+      "lng": 13.2333333
+    },
+    {
+      "cityName": "Kalvsås",
+      "lat": 57.5,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Kanarp",
+      "lat": 57.7,
+      "lng": 14.4333333
+    },
+    {
+      "cityName": "Kännestubba",
+      "lat": 57.2666667,
+      "lng": 14.7333333
+    },
+    {
+      "cityName": "Kanshestra",
+      "lat": 57.6,
+      "lng": 13.8666667
+    },
+    {
+      "cityName": "Kansjö",
+      "lat": 57.65,
+      "lng": 14.5333333
+    },
+    {
+      "cityName": "Kapela",
+      "lat": 57.9833333,
+      "lng": 14.7833333
+    },
+    {
+      "cityName": "Kåperyd",
+      "lat": 57.6666667,
+      "lng": 14.0666667
+    },
+    {
+      "cityName": "Kappeled",
+      "lat": 57.2166667,
+      "lng": 13.45
+    },
+    {
+      "cityName": "Kårarp",
+      "lat": 57.7833333,
+      "lng": 14.7166667
+    },
+    {
+      "cityName": "Kärda",
+      "lat": 57.1666667,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Käringagärde",
+      "lat": 57.3333333,
+      "lng": 13.8
+    },
+    {
+      "cityName": "Käringebacka",
+      "lat": 57.4166667,
+      "lng": 13.7333333
+    },
+    {
+      "cityName": "Karlstorp",
+      "lat": 57.5166667,
+      "lng": 15.5
+    },
+    {
+      "cityName": "Kärr",
+      "lat": 57.55,
+      "lng": 15.5333333
+    },
+    {
+      "cityName": "Karsbo",
+      "lat": 57.6333333,
+      "lng": 13.7333333
+    },
+    {
+      "cityName": "Karshult",
+      "lat": 57.7,
+      "lng": 14.0333333
+    },
+    {
+      "cityName": "Karsnäs",
+      "lat": 57.85,
+      "lng": 14.3
+    },
+    {
+      "cityName": "Karstorp",
+      "lat": 57.8333333,
+      "lng": 15.0166667
+    },
+    {
+      "cityName": "Kasås",
+      "lat": 57.65,
+      "lng": 15.4166667
+    },
+    {
+      "cityName": "Katrineholm",
+      "lat": 57.85,
+      "lng": 14.8166667
+    },
+    {
+      "cityName": "Kättilstorp",
+      "lat": 57.75,
+      "lng": 14.1333333
+    },
+    {
+      "cityName": "Kaxholmen",
+      "lat": 57.8666667,
+      "lng": 14.3
+    },
+    {
+      "cityName": "Klackarp",
+      "lat": 57.7333333,
+      "lng": 14.4333333
+    },
+    {
+      "cityName": "Klackenäs",
+      "lat": 57.3166667,
+      "lng": 15.0833333
+    },
+    {
+      "cityName": "Klackenhult",
+      "lat": 57.4833333,
+      "lng": 15.4
+    },
+    {
+      "cityName": "Klappa",
+      "lat": 57.55,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Klerebo",
+      "lat": 57.2333333,
+      "lng": 14.5166667
+    },
+    {
+      "cityName": "Klev",
+      "lat": 57.5166667,
+      "lng": 14.5833333
+    },
+    {
+      "cityName": "Klevshult",
+      "lat": 57.35,
+      "lng": 14.0833333
+    },
+    {
+      "cityName": "Klinthult",
+      "lat": 57.2833333,
+      "lng": 14.4333333
+    },
+    {
+      "cityName": "Klo",
+      "lat": 57.2666667,
+      "lng": 13.5833333
+    },
+    {
+      "cityName": "Klövaryd",
+      "lat": 56.9166667,
+      "lng": 14.1
+    },
+    {
+      "cityName": "Knäppet",
+      "lat": 57.6833333,
+      "lng": 15.15
+    },
+    {
+      "cityName": "Knavrabo",
+      "lat": 57.25,
+      "lng": 13.2166667
+    },
+    {
+      "cityName": "Knivlösa",
+      "lat": 57.9,
+      "lng": 14.7666667
+    },
+    {
+      "cityName": "Knivshult",
+      "lat": 57.5,
+      "lng": 15.4
+    },
+    {
+      "cityName": "Knixhult",
+      "lat": 57.2833333,
+      "lng": 15.15
+    },
+    {
+      "cityName": "Knohult",
+      "lat": 57.7833333,
+      "lng": 14.6333333
+    },
+    {
+      "cityName": "Knukebo",
+      "lat": 58.05,
+      "lng": 14.55
+    },
+    {
+      "cityName": "Knutagården",
+      "lat": 58.05,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Knutstorp",
+      "lat": 57.25,
+      "lng": 14.8666667
+    },
+    {
+      "cityName": "Kolvarp",
+      "lat": 57.0333333,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Komstad",
+      "lat": 57.4,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Kongseryd",
+      "lat": 57.7,
+      "lng": 15.15
+    },
+    {
+      "cityName": "Konungsäng",
+      "lat": 57.8,
+      "lng": 15.0333333
+    },
+    {
+      "cityName": "Konungsö",
+      "lat": 57.6666667,
+      "lng": 14.2166667
+    },
+    {
+      "cityName": "Köpstad",
+      "lat": 57.3666667,
+      "lng": 14.4833333
+    },
+    {
+      "cityName": "Korpebo",
+      "lat": 57.5833333,
+      "lng": 14.4
+    },
+    {
+      "cityName": "Korsberga",
+      "lat": 57.3166667,
+      "lng": 15.1166667
+    },
+    {
+      "cityName": "Kortebo",
+      "lat": 57.8166667,
+      "lng": 14.15
+    },
+    {
+      "cityName": "Krabby",
+      "lat": 57.2833333,
+      "lng": 13.3666667
+    },
+    {
+      "cityName": "Kråkebo",
+      "lat": 57.6833333,
+      "lng": 14.1666667
+    },
+    {
+      "cityName": "Kråkeryd",
+      "lat": 57.05,
+      "lng": 13.2166667
+    },
+    {
+      "cityName": "Kråkshult",
+      "lat": 57.55,
+      "lng": 15.4333333
+    },
+    {
+      "cityName": "Kroksås",
+      "lat": 57.5666667,
+      "lng": 14.7666667
+    },
+    {
+      "cityName": "Kulla",
+      "lat": 57.4166667,
+      "lng": 15.4
+    },
+    {
+      "cityName": "Kullboarp",
+      "lat": 57.4666667,
+      "lng": 15.3833333
+    },
+    {
+      "cityName": "Kullen",
+      "lat": 57.8166667,
+      "lng": 13.7833333
+    },
+    {
+      "cityName": "Kull",
+      "lat": 57.4833333,
+      "lng": 14.7166667
+    },
+    {
+      "cityName": "Kullskog",
+      "lat": 57.2833333,
+      "lng": 15.05
+    },
+    {
+      "cityName": "Kulltorp",
+      "lat": 57.2666667,
+      "lng": 13.7833333
+    },
+    {
+      "cityName": "Kuseberg",
+      "lat": 57.7,
+      "lng": 15.35
+    },
+    {
+      "cityName": "Kushult",
+      "lat": 57.3666667,
+      "lng": 14.1333333
+    },
+    {
+      "cityName": "Kvarnarp",
+      "lat": 58,
+      "lng": 14.7333333
+    },
+    {
+      "cityName": "Kviarp",
+      "lat": 57.75,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Kvilletorp",
+      "lat": 57.4,
+      "lng": 15.5166667
+    },
+    {
+      "cityName": "Kvillfors",
+      "lat": 57.4166667,
+      "lng": 15.4833333
+    },
+    {
+      "cityName": "Kvill",
+      "lat": 57.4,
+      "lng": 15.4833333
+    },
+    {
+      "cityName": "Kylahov",
+      "lat": 57.0833333,
+      "lng": 13.9333333
+    },
+    {
+      "cityName": "Kylås",
+      "lat": 57.45,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Kynholmen",
+      "lat": 57.7333333,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Kyrkotorp",
+      "lat": 57.1666667,
+      "lng": 14.95
+    },
+    {
+      "cityName": "Lalabo",
+      "lat": 57.2333333,
+      "lng": 13.3
+    },
+    {
+      "cityName": "Lamåsa",
+      "lat": 57.4666667,
+      "lng": 15.2333333
+    },
+    {
+      "cityName": "Lämmarp",
+      "lat": 57.45,
+      "lng": 14.55
+    },
+    {
+      "cityName": "Landsbro",
+      "lat": 57.3666667,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Långarekull",
+      "lat": 57.1333333,
+      "lng": 13.2
+    },
+    {
+      "cityName": "Långarum",
+      "lat": 57.6333333,
+      "lng": 13.75
+    },
+    {
+      "cityName": "Långåsa",
+      "lat": 57.6833333,
+      "lng": 14.5666667
+    },
+    {
+      "cityName": "Långhult",
+      "lat": 57.2166667,
+      "lng": 15.5
+    },
+    {
+      "cityName": "Långö",
+      "lat": 57.2833333,
+      "lng": 14.3833333
+    },
+    {
+      "cityName": "Långserum",
+      "lat": 57.5,
+      "lng": 14.3833333
+    },
+    {
+      "cityName": "Långshult",
+      "lat": 57.0833333,
+      "lng": 14.25
+    },
+    {
+      "cityName": "Långstorp",
+      "lat": 57.0666667,
+      "lng": 14.2666667
+    },
+    {
+      "cityName": "Lanna",
+      "lat": 57.2166667,
+      "lng": 13.7666667
+    },
+    {
+      "cityName": "Larstorp",
+      "lat": 57.8333333,
+      "lng": 14.6666667
+    },
+    {
+      "cityName": "Lavekulla",
+      "lat": 57.4666667,
+      "lng": 15.5833333
+    },
+    {
+      "cityName": "Ledstorp",
+      "lat": 57.7333333,
+      "lng": 14.0833333
+    },
+    {
+      "cityName": "Lekeryd",
+      "lat": 57.7666667,
+      "lng": 14.4
+    },
+    {
+      "cityName": "Lemnhult",
+      "lat": 57.2833333,
+      "lng": 15.2666667
+    },
+    {
+      "cityName": "Lida",
+      "lat": 57.2,
+      "lng": 13.2666667
+    },
+    {
+      "cityName": "Lidhult",
+      "lat": 57.7666667,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Lid",
+      "lat": 57.35,
+      "lng": 13.75
+    },
+    {
+      "cityName": "Lilla Barkaryd",
+      "lat": 57.1833333,
+      "lng": 14.9333333
+    },
+    {
+      "cityName": "Lilla Bjälkerum",
+      "lat": 57.5166667,
+      "lng": 15.3833333
+    },
+    {
+      "cityName": "Lilla Fagerhult",
+      "lat": 57.5833333,
+      "lng": 15.5166667
+    },
+    {
+      "cityName": "Lilla Fagraryd",
+      "lat": 57.35,
+      "lng": 15.1166667
+    },
+    {
+      "cityName": "Lilla Fifflekull",
+      "lat": 57.5,
+      "lng": 15.0666667
+    },
+    {
+      "cityName": "Lilla Hult",
+      "lat": 57.5666667,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Lilla Hultrum",
+      "lat": 57.9333333,
+      "lng": 14.5833333
+    },
+    {
+      "cityName": "Lilla Lekeryd",
+      "lat": 57.7833333,
+      "lng": 14.4166667
+    },
+    {
+      "cityName": "Lilla Moshult",
+      "lat": 57.2166667,
+      "lng": 15.0333333
+    },
+    {
+      "cityName": "Lilla Öijhult",
+      "lat": 57.5166667,
+      "lng": 13.8
+    },
+    {
+      "cityName": "Lillarp",
+      "lat": 57.3666667,
+      "lng": 15.3333333
+    },
+    {
+      "cityName": "Lilla Svinhaga",
+      "lat": 57.8333333,
+      "lng": 14.0666667
+    },
+    {
+      "cityName": "Lilla Ulvarp",
+      "lat": 57.3333333,
+      "lng": 15.5
+    },
+    {
+      "cityName": "Linderås",
+      "lat": 57.9833333,
+      "lng": 14.8
+    },
+    {
+      "cityName": "Linderyd",
+      "lat": 57.3166667,
+      "lng": 14.7333333
+    },
+    {
+      "cityName": "Lindstad",
+      "lat": 56.9833333,
+      "lng": 14.3333333
+    },
+    {
+      "cityName": "Linnås",
+      "lat": 56.9333333,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Linneryd",
+      "lat": 57.4,
+      "lng": 14.15
+    },
+    {
+      "cityName": "Linnevik",
+      "lat": 57.2666667,
+      "lng": 14.55
+    },
+    {
+      "cityName": "Lixerum",
+      "lat": 57.5166667,
+      "lng": 15.6166667
+    },
+    {
+      "cityName": "Ljunganäs",
+      "lat": 57.3333333,
+      "lng": 14.8666667
+    },
+    {
+      "cityName": "Loaklev",
+      "lat": 57.3833333,
+      "lng": 15.35
+    },
+    {
+      "cityName": "Löbbo",
+      "lat": 57.2666667,
+      "lng": 13.4
+    },
+    {
+      "cityName": "Lökaryd",
+      "lat": 57.0166667,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Lommaryd",
+      "lat": 57.8833333,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Lönelid",
+      "lat": 57.2333333,
+      "lng": 14.65
+    },
+    {
+      "cityName": "Lönholmen",
+      "lat": 57.8,
+      "lng": 14.6833333
+    },
+    {
+      "cityName": "Löpaskog",
+      "lat": 57,
+      "lng": 14.2333333
+    },
+    {
+      "cityName": "Lövås",
+      "lat": 57.2166667,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Lövhult",
+      "lat": 57.65,
+      "lng": 14.7666667
+    },
+    {
+      "cityName": "Lovsjö",
+      "lat": 57.6666667,
+      "lng": 14.1833333
+    },
+    {
+      "cityName": "Lundby",
+      "lat": 57.3666667,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Lunnestorp",
+      "lat": 57.65,
+      "lng": 14.5666667
+    },
+    {
+      "cityName": "Lutarp",
+      "lat": 57.8,
+      "lng": 15.0166667
+    },
+    {
+      "cityName": "Luveryd",
+      "lat": 56.95,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Mågebo",
+      "lat": 57.3166667,
+      "lng": 15.0666667
+    },
+    {
+      "cityName": "Mäjensjö",
+      "lat": 57.4,
+      "lng": 14.65
+    },
+    {
+      "cityName": "Målarp",
+      "lat": 57.5166667,
+      "lng": 15.4833333
+    },
+    {
+      "cityName": "Målen",
+      "lat": 57.6833333,
+      "lng": 14.35
+    },
+    {
+      "cityName": "Måleskog",
+      "lat": 58.0833333,
+      "lng": 14.55
+    },
+    {
+      "cityName": "Mällby",
+      "lat": 57.1666667,
+      "lng": 13.6
+    },
+    {
+      "cityName": "Mållebo",
+      "lat": 57.6833333,
+      "lng": 14.5333333
+    },
+    {
+      "cityName": "Malmbäck",
+      "lat": 57.5833333,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Målskog",
+      "lat": 57.3,
+      "lng": 13.7166667
+    },
+    {
+      "cityName": "Månstorp",
+      "lat": 57.5166667,
+      "lng": 15.0833333
+    },
+    {
+      "cityName": "Maramö",
+      "lat": 57.2333333,
+      "lng": 13.9666667
+    },
+    {
+      "cityName": "Marås",
+      "lat": 57.3333333,
+      "lng": 13.7833333
+    },
+    {
+      "cityName": "Marbäck",
+      "lat": 57.8666667,
+      "lng": 14.85
+    },
+    {
+      "cityName": "Marhult",
+      "lat": 57.6,
+      "lng": 15.3333333
+    },
+    {
+      "cityName": "Mariannelund",
+      "lat": 57.6166667,
+      "lng": 15.5666667
+    },
+    {
+      "cityName": "Marieholm",
+      "lat": 57.3833333,
+      "lng": 13.85
+    },
+    {
+      "cityName": "Mårtenstorp",
+      "lat": 57.5333333,
+      "lng": 13.7
+    },
+    {
+      "cityName": "Mässeberg",
+      "lat": 57.3833333,
+      "lng": 13.9333333
+    },
+    {
+      "cityName": "Mattarp",
+      "lat": 57.5,
+      "lng": 14.6166667
+    },
+    {
+      "cityName": "Mickelstorp",
+      "lat": 57.3166667,
+      "lng": 15.3166667
+    },
+    {
+      "cityName": "Milletorp",
+      "lat": 57.2333333,
+      "lng": 15.1833333
+    },
+    {
+      "cityName": "Mjärhult",
+      "lat": 57.3333333,
+      "lng": 13.65
+    },
+    {
+      "cityName": "Mjogaryd",
+      "lat": 57.35,
+      "lng": 13.8833333
+    },
+    {
+      "cityName": "Mjöhult",
+      "lat": 57.1833333,
+      "lng": 13.1833333
+    },
+    {
+      "cityName": "Möcklamo",
+      "lat": 57.5333333,
+      "lng": 14.7833333
+    },
+    {
+      "cityName": "Möcklarp",
+      "lat": 57.3833333,
+      "lng": 15.3
+    },
+    {
+      "cityName": "Möcklehult",
+      "lat": 57.1666667,
+      "lng": 14.4333333
+    },
+    {
+      "cityName": "Mohemmet",
+      "lat": 57.3333333,
+      "lng": 15.2
+    },
+    {
+      "cityName": "Mölarp",
+      "lat": 57.5166667,
+      "lng": 15.1166667
+    },
+    {
+      "cityName": "Mo",
+      "lat": 57.25,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Mörekull",
+      "lat": 57.5166667,
+      "lng": 14.4333333
+    },
+    {
+      "cityName": "Möreryd",
+      "lat": 57.5833333,
+      "lng": 15.4833333
+    },
+    {
+      "cityName": "Mörhult",
+      "lat": 57.5,
+      "lng": 14.2333333
+    },
+    {
+      "cityName": "Mörkebo",
+      "lat": 57.4333333,
+      "lng": 14.05
+    },
+    {
+      "cityName": "Mörkhult",
+      "lat": 57.3666667,
+      "lng": 14.1666667
+    },
+    {
+      "cityName": "Mörsebo",
+      "lat": 57.35,
+      "lng": 15.2666667
+    },
+    {
+      "cityName": "Mossaryd",
+      "lat": 57.4,
+      "lng": 14.5666667
+    },
+    {
+      "cityName": "Mossebo",
+      "lat": 57.5333333,
+      "lng": 13.6833333
+    },
+    {
+      "cityName": "Mosshult",
+      "lat": 57.5333333,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Mossle",
+      "lat": 57.1666667,
+      "lng": 14.0333333
+    },
+    {
+      "cityName": "Mostorp",
+      "lat": 57.4666667,
+      "lng": 14.7833333
+    },
+    {
+      "cityName": "Mulseryd",
+      "lat": 57.7,
+      "lng": 13.8
+    },
+    {
+      "cityName": "Munkabo",
+      "lat": 57.6833333,
+      "lng": 13.9
+    },
+    {
+      "cityName": "Muntarp",
+      "lat": 57.6833333,
+      "lng": 14.8
+    },
+    {
+      "cityName": "Myresjö",
+      "lat": 57.3833333,
+      "lng": 14.95
+    },
+    {
+      "cityName": "Näsby",
+      "lat": 57.4333333,
+      "lng": 15
+    },
+    {
+      "cityName": "Näs",
+      "lat": 57.3833333,
+      "lng": 13.6833333
+    },
+    {
+      "cityName": "Nässja",
+      "lat": 57.2666667,
+      "lng": 14.7666667
+    },
+    {
+      "cityName": "Nässjö",
+      "lat": 57.65,
+      "lng": 14.6833333
+    },
+    {
+      "cityName": "Nästa",
+      "lat": 57.1833333,
+      "lng": 13.9333333
+    },
+    {
+      "cityName": "Nåthult",
+      "lat": 57.4166667,
+      "lng": 14.1666667
+    },
+    {
+      "cityName": "Nävelsjö",
+      "lat": 57.4,
+      "lng": 14.8833333
+    },
+    {
+      "cityName": "Nederby",
+      "lat": 57.2,
+      "lng": 14.1166667
+    },
+    {
+      "cityName": "Nederled",
+      "lat": 56.9833333,
+      "lng": 14.2666667
+    },
+    {
+      "cityName": "Nedre Åmjölkesbo",
+      "lat": 57.45,
+      "lng": 15.45
+    },
+    {
+      "cityName": "Nennesmo",
+      "lat": 57.2166667,
+      "lng": 13.5666667
+    },
+    {
+      "cityName": "Nissafors",
+      "lat": 57.4,
+      "lng": 13.6333333
+    },
+    {
+      "cityName": "Nöbbele",
+      "lat": 57.1666667,
+      "lng": 13.55
+    },
+    {
+      "cityName": "Noby",
+      "lat": 57.9333333,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Nödjehult",
+      "lat": 57.65,
+      "lng": 15.1833333
+    },
+    {
+      "cityName": "Nordsjö",
+      "lat": 57.8333333,
+      "lng": 14.6166667
+    },
+    {
+      "cityName": "Nord Släthult",
+      "lat": 57.2,
+      "lng": 13.3833333
+    },
+    {
+      "cityName": "Norra Brusås",
+      "lat": 57.1166667,
+      "lng": 13.9333333
+    },
+    {
+      "cityName": "Norrahammar",
+      "lat": 57.7,
+      "lng": 14.1
+    },
+    {
+      "cityName": "Norra Hetseryd",
+      "lat": 57.3166667,
+      "lng": 14.55
+    },
+    {
+      "cityName": "Norra Kruvebo",
+      "lat": 57.25,
+      "lng": 13.3333333
+    },
+    {
+      "cityName": "Norra Ljunga",
+      "lat": 57.3833333,
+      "lng": 14.5833333
+    },
+    {
+      "cityName": "Norra Målen",
+      "lat": 57.2833333,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Norra Rudö",
+      "lat": 57.3333333,
+      "lng": 13.7333333
+    },
+    {
+      "cityName": "Norra Sandsjö",
+      "lat": 57.4666667,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Norra Sonarp",
+      "lat": 57.6,
+      "lng": 14.7833333
+    },
+    {
+      "cityName": "Norra Sundhult",
+      "lat": 57.95,
+      "lng": 14.9166667
+    },
+    {
+      "cityName": "Norra Svänö",
+      "lat": 57.3333333,
+      "lng": 13.9833333
+    },
+    {
+      "cityName": "Norra Svinhult",
+      "lat": 57.7333333,
+      "lng": 13.7666667
+    },
+    {
+      "cityName": "Norra Törås",
+      "lat": 57.2833333,
+      "lng": 13.6333333
+    },
+    {
+      "cityName": "Norra Unnaryd",
+      "lat": 57.6,
+      "lng": 13.7
+    },
+    {
+      "cityName": "Notteberg",
+      "lat": 57.2833333,
+      "lng": 15.1
+    },
+    {
+      "cityName": "Nyaby",
+      "lat": 57.3833333,
+      "lng": 15.2833333
+    },
+    {
+      "cityName": "Nyarp",
+      "lat": 57.9833333,
+      "lng": 14.45
+    },
+    {
+      "cityName": "Nyboda",
+      "lat": 57.5,
+      "lng": 15.4666667
+    },
+    {
+      "cityName": "Nyboholm",
+      "lat": 57.4166667,
+      "lng": 15.5166667
+    },
+    {
+      "cityName": "Nybrohult",
+      "lat": 57.7666667,
+      "lng": 14.5333333
+    },
+    {
+      "cityName": "Nydala",
+      "lat": 57.3166667,
+      "lng": 14.3333333
+    },
+    {
+      "cityName": "Nye",
+      "lat": 57.35,
+      "lng": 15.25
+    },
+    {
+      "cityName": "Nyholm",
+      "lat": 57.45,
+      "lng": 13.9333333
+    },
+    {
+      "cityName": "Ödestuga",
+      "lat": 57.6166667,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Ödmundetorp",
+      "lat": 57.2833333,
+      "lng": 15.4
+    },
+    {
+      "cityName": "Ödshult",
+      "lat": 57.3666667,
+      "lng": 15.1833333
+    },
+    {
+      "cityName": "Öggestorp",
+      "lat": 57.7333333,
+      "lng": 14.3833333
+    },
+    {
+      "cityName": "Ohs",
+      "lat": 57.2,
+      "lng": 14.3333333
+    },
+    {
+      "cityName": "Öijhult",
+      "lat": 57.5,
+      "lng": 13.8
+    },
+    {
+      "cityName": "Ökna",
+      "lat": 57.4333333,
+      "lng": 15.4166667
+    },
+    {
+      "cityName": "Öland",
+      "lat": 57.9666667,
+      "lng": 14.3666667
+    },
+    {
+      "cityName": "Ölmstad",
+      "lat": 57.9333333,
+      "lng": 14.3666667
+    },
+    {
+      "cityName": "Olofsboda",
+      "lat": 57.5,
+      "lng": 15.4833333
+    },
+    {
+      "cityName": "Olofstorp",
+      "lat": 57.6166667,
+      "lng": 15.2166667
+    },
+    {
+      "cityName": "Olsbo",
+      "lat": 57.8,
+      "lng": 13.95
+    },
+    {
+      "cityName": "Ölvedal",
+      "lat": 57.5833333,
+      "lng": 15.6
+    },
+    {
+      "cityName": "Önna",
+      "lat": 57.1,
+      "lng": 13.2
+    },
+    {
+      "cityName": "Önnestorp",
+      "lat": 57.8666667,
+      "lng": 14.7166667
+    },
+    {
+      "cityName": "Öreryd",
+      "lat": 57.5,
+      "lng": 13.6666667
+    },
+    {
+      "cityName": "Ormaryd",
+      "lat": 57.6666667,
+      "lng": 14.8166667
+    },
+    {
+      "cityName": "Ormestorp",
+      "lat": 57.3333333,
+      "lng": 14.6166667
+    },
+    {
+      "cityName": "Örnabäckshult",
+      "lat": 57.0166667,
+      "lng": 13.2333333
+    },
+    {
+      "cityName": "Örnaholm",
+      "lat": 57.3666667,
+      "lng": 13.4333333
+    },
+    {
+      "cityName": "Orraskog",
+      "lat": 57.6,
+      "lng": 15.05
+    },
+    {
+      "cityName": "Örserum",
+      "lat": 58,
+      "lng": 14.5666667
+    },
+    {
+      "cityName": "Österkorsberga",
+      "lat": 57.3,
+      "lng": 15.1166667
+    },
+    {
+      "cityName": "Österskog",
+      "lat": 57.3,
+      "lng": 13.85
+    },
+    {
+      "cityName": "Östhorja",
+      "lat": 57.2166667,
+      "lng": 14.1
+    },
+    {
+      "cityName": "Östraby",
+      "lat": 57.8,
+      "lng": 14.7666667
+    },
+    {
+      "cityName": "Östra Ekenäs",
+      "lat": 57.1166667,
+      "lng": 13.2666667
+    },
+    {
+      "cityName": "Östra Höreda",
+      "lat": 57.75,
+      "lng": 14.4833333
+    },
+    {
+      "cityName": "Östra Hyggås",
+      "lat": 57.1333333,
+      "lng": 13.3166667
+    },
+    {
+      "cityName": "Östra Kallset",
+      "lat": 57.1166667,
+      "lng": 13.4
+    },
+    {
+      "cityName": "Överhult",
+      "lat": 57.4833333,
+      "lng": 15.4333333
+    },
+    {
+      "cityName": "Övrarp",
+      "lat": 57.5,
+      "lng": 14.7666667
+    },
+    {
+      "cityName": "Övre Åmjölkesbo",
+      "lat": 57.4666667,
+      "lng": 15.45
+    },
+    {
+      "cityName": "Påbo",
+      "lat": 57.2333333,
+      "lng": 13.2333333
+    },
+    {
+      "cityName": "Packebo",
+      "lat": 57.35,
+      "lng": 14.1333333
+    },
+    {
+      "cityName": "Palsbo",
+      "lat": 57.5666667,
+      "lng": 13.9
+    },
+    {
+      "cityName": "Pålskog",
+      "lat": 57.4666667,
+      "lng": 13.9833333
+    },
+    {
+      "cityName": "Påskarp",
+      "lat": 57.7333333,
+      "lng": 14.7666667
+    },
+    {
+      "cityName": "Pauliström",
+      "lat": 57.4666667,
+      "lng": 15.5166667
+    },
+    {
+      "cityName": "Penarp",
+      "lat": 57.9,
+      "lng": 14.55
+    },
+    {
+      "cityName": "Perstorp",
+      "lat": 57.55,
+      "lng": 15.3666667
+    },
+    {
+      "cityName": "Plombo",
+      "lat": 57.55,
+      "lng": 13.7333333
+    },
+    {
+      "cityName": "Plommarp",
+      "lat": 57.5333333,
+      "lng": 15.3166667
+    },
+    {
+      "cityName": "Porteshult",
+      "lat": 57.65,
+      "lng": 14.1
+    },
+    {
+      "cityName": "Prästtorp",
+      "lat": 57.2166667,
+      "lng": 15.45
+    },
+    {
+      "cityName": "Prippebo",
+      "lat": 57.15,
+      "lng": 13.25
+    },
+    {
+      "cityName": "Prosttorp",
+      "lat": 57.6,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Pukarp",
+      "lat": 57.4666667,
+      "lng": 14.0333333
+    },
+    {
+      "cityName": "Puketorp",
+      "lat": 57.25,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Radhult",
+      "lat": 57.2666667,
+      "lng": 14.2166667
+    },
+    {
+      "cityName": "Räfsebo",
+      "lat": 57,
+      "lng": 14.1833333
+    },
+    {
+      "cityName": "Rågsjö",
+      "lat": 57.4166667,
+      "lng": 14.9166667
+    },
+    {
+      "cityName": "Ralingsås",
+      "lat": 57.8833333,
+      "lng": 14.8
+    },
+    {
+      "cityName": "Råmärket",
+      "lat": 57.8166667,
+      "lng": 14.95
+    },
+    {
+      "cityName": "Ramkvilla",
+      "lat": 57.2,
+      "lng": 14.95
+    },
+    {
+      "cityName": "Ramnaklev",
+      "lat": 57.5333333,
+      "lng": 15.2333333
+    },
+    {
+      "cityName": "Rannäs",
+      "lat": 57.1333333,
+      "lng": 13.8166667
+    },
+    {
+      "cityName": "Rannebo",
+      "lat": 57.4666667,
+      "lng": 13.75
+    },
+    {
+      "cityName": "Råsa",
+      "lat": 57.2333333,
+      "lng": 15.4
+    },
+    {
+      "cityName": "Råshult",
+      "lat": 57.45,
+      "lng": 15.4666667
+    },
+    {
+      "cityName": "Råskog",
+      "lat": 57.75,
+      "lng": 14.95
+    },
+    {
+      "cityName": "Råsmark",
+      "lat": 57.9666667,
+      "lng": 14.85
+    },
+    {
+      "cityName": "Rastad",
+      "lat": 57.5666667,
+      "lng": 14.1833333
+    },
+    {
+      "cityName": "Reaby",
+      "lat": 57.9666667,
+      "lng": 14.4333333
+    },
+    {
+      "cityName": "Redeby",
+      "lat": 57.7833333,
+      "lng": 15
+    },
+    {
+      "cityName": "Reftele",
+      "lat": 57.1833333,
+      "lng": 13.5833333
+    },
+    {
+      "cityName": "Repperda",
+      "lat": 57.4,
+      "lng": 15.3166667
+    },
+    {
+      "cityName": "Rickelstorp",
+      "lat": 57.4166667,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Risbygd",
+      "lat": 57.1333333,
+      "lng": 14.25
+    },
+    {
+      "cityName": "Rödja",
+      "lat": 57.4166667,
+      "lng": 14.8
+    },
+    {
+      "cityName": "Röd",
+      "lat": 57.45,
+      "lng": 14.7
+    },
+    {
+      "cityName": "Roestorp",
+      "lat": 57.8166667,
+      "lng": 14.4166667
+    },
+    {
+      "cityName": "Rökinge",
+      "lat": 58.05,
+      "lng": 14.3
+    },
+    {
+      "cityName": "Rolstorp",
+      "lat": 57.0666667,
+      "lng": 14.0333333
+    },
+    {
+      "cityName": "Rommelsjö",
+      "lat": 57.7166667,
+      "lng": 14.3666667
+    },
+    {
+      "cityName": "Rommenås",
+      "lat": 57.5833333,
+      "lng": 14.35
+    },
+    {
+      "cityName": "Rönjane",
+      "lat": 57.8,
+      "lng": 14.4166667
+    },
+    {
+      "cityName": "Röpplinge",
+      "lat": 57.1666667,
+      "lng": 13.5
+    },
+    {
+      "cityName": "Rörvik",
+      "lat": 57.2333333,
+      "lng": 14.5666667
+    },
+    {
+      "cityName": "Rösa",
+      "lat": 57.45,
+      "lng": 15.1666667
+    },
+    {
+      "cityName": "Rösås",
+      "lat": 57.2666667,
+      "lng": 14.95
+    },
+    {
+      "cityName": "Rösberga",
+      "lat": 57.35,
+      "lng": 14.1166667
+    },
+    {
+      "cityName": "Rosenholm",
+      "lat": 57.35,
+      "lng": 14.9333333
+    },
+    {
+      "cityName": "Rosenlund",
+      "lat": 57.7833333,
+      "lng": 14.2
+    },
+    {
+      "cityName": "Röshult",
+      "lat": 57.0666667,
+      "lng": 13.9
+    },
+    {
+      "cityName": "Rössved",
+      "lat": 57.3,
+      "lng": 14.1833333
+    },
+    {
+      "cityName": "Rösum",
+      "lat": 57.6166667,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Rubblarp",
+      "lat": 57.0166667,
+      "lng": 14.3333333
+    },
+    {
+      "cityName": "Rud",
+      "lat": 57.7833333,
+      "lng": 13.8666667
+    },
+    {
+      "cityName": "Rudu",
+      "lat": 57.85,
+      "lng": 14.2666667
+    },
+    {
+      "cityName": "Rulla",
+      "lat": 57.25,
+      "lng": 14.8833333
+    },
+    {
+      "cityName": "Rumleborg",
+      "lat": 57.25,
+      "lng": 14.3
+    },
+    {
+      "cityName": "Russnäs",
+      "lat": 57.55,
+      "lng": 14.9666667
+    },
+    {
+      "cityName": "Rya",
+      "lat": 57.2666667,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Rydaholm",
+      "lat": 56.9833333,
+      "lng": 14.3
+    },
+    {
+      "cityName": "Ryd",
+      "lat": 57.0666667,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Ryggestorp",
+      "lat": 57.9666667,
+      "lng": 14.95
+    },
+    {
+      "cityName": "Ryssby",
+      "lat": 57.7166667,
+      "lng": 14.65
+    },
+    {
+      "cityName": "Säby",
+      "lat": 57.9833333,
+      "lng": 14.9166667
+    },
+    {
+      "cityName": "Säldefall",
+      "lat": 57.6666667,
+      "lng": 15.25
+    },
+    {
+      "cityName": "Sälleryd",
+      "lat": 57.5,
+      "lng": 14.9166667
+    },
+    {
+      "cityName": "Salvaryd",
+      "lat": 57.3666667,
+      "lng": 15.2166667
+    },
+    {
+      "cityName": "Sammekulla",
+      "lat": 57.5833333,
+      "lng": 15.5833333
+    },
+    {
+      "cityName": "Sandåkra",
+      "lat": 57.4,
+      "lng": 15.1
+    },
+    {
+      "cityName": "Sandebo",
+      "lat": 57.2833333,
+      "lng": 15.0166667
+    },
+    {
+      "cityName": "Sandsberg",
+      "lat": 57.2333333,
+      "lng": 15.0333333
+    },
+    {
+      "cityName": "Sandsebo",
+      "lat": 57.55,
+      "lng": 13.85
+    },
+    {
+      "cityName": "Sandseryd",
+      "lat": 57.75,
+      "lng": 14.0833333
+    },
+    {
+      "cityName": "Sandshult",
+      "lat": 57.5833333,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Sandsjöfors",
+      "lat": 57.5,
+      "lng": 14.7833333
+    },
+    {
+      "cityName": "Sandvik",
+      "lat": 57.2333333,
+      "lng": 14.3833333
+    },
+    {
+      "cityName": "Sännås",
+      "lat": 57.2333333,
+      "lng": 13.4
+    },
+    {
+      "cityName": "Sävdabo",
+      "lat": 57.6666667,
+      "lng": 13.9666667
+    },
+    {
+      "cityName": "Sävrarp",
+      "lat": 57,
+      "lng": 14.3333333
+    },
+    {
+      "cityName": "Sävsebo",
+      "lat": 57.35,
+      "lng": 15.3
+    },
+    {
+      "cityName": "Sävsjö",
+      "lat": 57.4,
+      "lng": 14.6666667
+    },
+    {
+      "cityName": "Sebjörnarp",
+      "lat": 57.35,
+      "lng": 13.5333333
+    },
+    {
+      "cityName": "Seglarvik",
+      "lat": 58.0333333,
+      "lng": 15.0333333
+    },
+    {
+      "cityName": "Serarp",
+      "lat": 57.2666667,
+      "lng": 15.3666667
+    },
+    {
+      "cityName": "Sibbarp",
+      "lat": 57.4,
+      "lng": 14.7166667
+    },
+    {
+      "cityName": "Siggarp",
+      "lat": 57.9166667,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Siggaskog",
+      "lat": 57.3666667,
+      "lng": 14.3333333
+    },
+    {
+      "cityName": "Simnatorp",
+      "lat": 57.3666667,
+      "lng": 15.0666667
+    },
+    {
+      "cityName": "Siringe",
+      "lat": 57.9,
+      "lng": 14.3833333
+    },
+    {
+      "cityName": "Sjöagård",
+      "lat": 57.3,
+      "lng": 15.1
+    },
+    {
+      "cityName": "Sjöamålen",
+      "lat": 57.8,
+      "lng": 15.0666667
+    },
+    {
+      "cityName": "Sjöarp",
+      "lat": 57.35,
+      "lng": 13.7
+    },
+    {
+      "cityName": "Sjöbron",
+      "lat": 57.5833333,
+      "lng": 15.1833333
+    },
+    {
+      "cityName": "Sjöeryd",
+      "lat": 57.3833333,
+      "lng": 14.1666667
+    },
+    {
+      "cityName": "Sjögärde",
+      "lat": 57.0666667,
+      "lng": 13.1666667
+    },
+    {
+      "cityName": "Sjögle",
+      "lat": 57.6666667,
+      "lng": 15.2833333
+    },
+    {
+      "cityName": "Sjöhult",
+      "lat": 57.6333333,
+      "lng": 14.1333333
+    },
+    {
+      "cityName": "Sjökullen",
+      "lat": 57.3,
+      "lng": 15.4333333
+    },
+    {
+      "cityName": "Sjöstorp",
+      "lat": 57.4166667,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Sjövik",
+      "lat": 57.65,
+      "lng": 15.4833333
+    },
+    {
+      "cityName": "Sjunhen",
+      "lat": 57.4333333,
+      "lng": 15.1666667
+    },
+    {
+      "cityName": "Skaftarp",
+      "lat": 57.0666667,
+      "lng": 14.3
+    },
+    {
+      "cityName": "Skäftesfall",
+      "lat": 57.2833333,
+      "lng": 15.1833333
+    },
+    {
+      "cityName": "Skalla Funghult",
+      "lat": 57.5833333,
+      "lng": 15.4333333
+    },
+    {
+      "cityName": "Skärbäck",
+      "lat": 57.15,
+      "lng": 14.95
+    },
+    {
+      "cityName": "Skärfhult",
+      "lat": 57.3833333,
+      "lng": 13.8333333
+    },
+    {
+      "cityName": "Skärsboda",
+      "lat": 57.5833333,
+      "lng": 14.85
+    },
+    {
+      "cityName": "Skärshult",
+      "lat": 57.2333333,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Skärsjö",
+      "lat": 57.35,
+      "lng": 14.7333333
+    },
+    {
+      "cityName": "Skede",
+      "lat": 57.4666667,
+      "lng": 15.1666667
+    },
+    {
+      "cityName": "Skepperstad",
+      "lat": 57.35,
+      "lng": 14.7666667
+    },
+    {
+      "cityName": "Skeppshult",
+      "lat": 57.1166667,
+      "lng": 13.35
+    },
+    {
+      "cityName": "Skepsås",
+      "lat": 57.8,
+      "lng": 14.9166667
+    },
+    {
+      "cityName": "Skieryd",
+      "lat": 57.6,
+      "lng": 14.65
+    },
+    {
+      "cityName": "Skinberga",
+      "lat": 57.4833333,
+      "lng": 15.1666667
+    },
+    {
+      "cityName": "Skirö",
+      "lat": 57.3666667,
+      "lng": 15.3666667
+    },
+    {
+      "cityName": "Skiverstad",
+      "lat": 57.7,
+      "lng": 14.9666667
+    },
+    {
+      "cityName": "Skjutebo",
+      "lat": 57.6166667,
+      "lng": 14.0666667
+    },
+    {
+      "cityName": "Skogsäng",
+      "lat": 57.5166667,
+      "lng": 15.15
+    },
+    {
+      "cityName": "Skog",
+      "lat": 57.4666667,
+      "lng": 14.1833333
+    },
+    {
+      "cityName": "Sköldseryd",
+      "lat": 57.8666667,
+      "lng": 14.6833333
+    },
+    {
+      "cityName": "Skriperyd",
+      "lat": 56.9166667,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Skuggebo",
+      "lat": 57.2166667,
+      "lng": 14.3833333
+    },
+    {
+      "cityName": "Skyttebo",
+      "lat": 57.2333333,
+      "lng": 13.7166667
+    },
+    {
+      "cityName": "Slageryd",
+      "lat": 57.2833333,
+      "lng": 14.9333333
+    },
+    {
+      "cityName": "Slammarp",
+      "lat": 57.6666667,
+      "lng": 15.3833333
+    },
+    {
+      "cityName": "Slättåkra",
+      "lat": 57.4,
+      "lng": 15.2666667
+    },
+    {
+      "cityName": "Slättamo",
+      "lat": 57.6166667,
+      "lng": 15.25
+    },
+    {
+      "cityName": "Slätteryd",
+      "lat": 57.3666667,
+      "lng": 13.55
+    },
+    {
+      "cityName": "Slätthult",
+      "lat": 57.95,
+      "lng": 14.6166667
+    },
+    {
+      "cityName": "Slättö",
+      "lat": 57.1,
+      "lng": 13.7333333
+    },
+    {
+      "cityName": "Smålands Anneberg",
+      "lat": 57.7166667,
+      "lng": 14.8
+    },
+    {
+      "cityName": "Smålands Hällinge",
+      "lat": 57.4,
+      "lng": 14.9833333
+    },
+    {
+      "cityName": "Smålandsstenar",
+      "lat": 57.1666667,
+      "lng": 13.4
+    },
+    {
+      "cityName": "Smålands Taberg",
+      "lat": 57.6833333,
+      "lng": 14.0833333
+    },
+    {
+      "cityName": "Smedstorp",
+      "lat": 57.2333333,
+      "lng": 15.3833333
+    },
+    {
+      "cityName": "Smörvik",
+      "lat": 57.6666667,
+      "lng": 14.0333333
+    },
+    {
+      "cityName": "Sniparp",
+      "lat": 57.65,
+      "lng": 14.45
+    },
+    {
+      "cityName": "Söderby",
+      "lat": 57.3333333,
+      "lng": 13.75
+    },
+    {
+      "cityName": "Södra Hetseryd",
+      "lat": 57.3,
+      "lng": 14.5333333
+    },
+    {
+      "cityName": "Södra Hiarum",
+      "lat": 57.6,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Södra Isaryd",
+      "lat": 57.9333333,
+      "lng": 14.85
+    },
+    {
+      "cityName": "Södra Målen",
+      "lat": 57.2666667,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Södra Mosshult",
+      "lat": 57.5166667,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Södra Nässja",
+      "lat": 57.3166667,
+      "lng": 14.05
+    },
+    {
+      "cityName": "Södra Ryd",
+      "lat": 57.0666667,
+      "lng": 13.9333333
+    },
+    {
+      "cityName": "Södraskog",
+      "lat": 57.15,
+      "lng": 14.9666667
+    },
+    {
+      "cityName": "Södra Sundhult",
+      "lat": 57.9333333,
+      "lng": 14.9166667
+    },
+    {
+      "cityName": "Södra Törås",
+      "lat": 57.2666667,
+      "lng": 13.6333333
+    },
+    {
+      "cityName": "Solbacka",
+      "lat": 57.6,
+      "lng": 14.6833333
+    },
+    {
+      "cityName": "Solberga",
+      "lat": 57.5,
+      "lng": 15.3
+    },
+    {
+      "cityName": "Solhester",
+      "lat": 57.5166667,
+      "lng": 15.2166667
+    },
+    {
+      "cityName": "Solkaryd",
+      "lat": 57.3333333,
+      "lng": 14.7833333
+    },
+    {
+      "cityName": "Sommen",
+      "lat": 58.1333333,
+      "lng": 14.9666667
+    },
+    {
+      "cityName": "Sonakull",
+      "lat": 57.2666667,
+      "lng": 13.7666667
+    },
+    {
+      "cityName": "Söndrap",
+      "lat": 57.6,
+      "lng": 14.4166667
+    },
+    {
+      "cityName": "Söndra",
+      "lat": 57.3,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Söraby",
+      "lat": 57.55,
+      "lng": 15.1
+    },
+    {
+      "cityName": "Söragård",
+      "lat": 57.5333333,
+      "lng": 15.5333333
+    },
+    {
+      "cityName": "Sötåsa",
+      "lat": 57.1666667,
+      "lng": 14.3
+    },
+    {
+      "cityName": "Spånarp",
+      "lat": 57.6333333,
+      "lng": 14.5833333
+    },
+    {
+      "cityName": "Spexeryd",
+      "lat": 57.65,
+      "lng": 14.3
+    },
+    {
+      "cityName": "Spexhult",
+      "lat": 57.6166667,
+      "lng": 14.6833333
+    },
+    {
+      "cityName": "Spjuthult",
+      "lat": 57.0833333,
+      "lng": 13.1666667
+    },
+    {
+      "cityName": "Sporda",
+      "lat": 57.05,
+      "lng": 13.6666667
+    },
+    {
+      "cityName": "Språtarp",
+      "lat": 57.4666667,
+      "lng": 15.2
+    },
+    {
+      "cityName": "Stålebo",
+      "lat": 57.1666667,
+      "lng": 13.4666667
+    },
+    {
+      "cityName": "Stallarp",
+      "lat": 57.5333333,
+      "lng": 15.25
+    },
+    {
+      "cityName": "Starkeryd",
+      "lat": 57.3666667,
+      "lng": 14.15
+    },
+    {
+      "cityName": "Stärtebo",
+      "lat": 58.0666667,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Stavås",
+      "lat": 57.1666667,
+      "lng": 13.2666667
+    },
+    {
+      "cityName": "Stenberga",
+      "lat": 57.3166667,
+      "lng": 15.4
+    },
+    {
+      "cityName": "Stengårdshult",
+      "lat": 57.55,
+      "lng": 13.8166667
+    },
+    {
+      "cityName": "Stengård",
+      "lat": 57.75,
+      "lng": 14.7
+    },
+    {
+      "cityName": "Stenhestra",
+      "lat": 57.3833333,
+      "lng": 13.5666667
+    },
+    {
+      "cityName": "Stenseryd",
+      "lat": 57.6833333,
+      "lng": 14.45
+    },
+    {
+      "cityName": "Stensgöl",
+      "lat": 57.7,
+      "lng": 15.0833333
+    },
+    {
+      "cityName": "Stensholm",
+      "lat": 57.7833333,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Stigåsa",
+      "lat": 57.3,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Stigby",
+      "lat": 58.0166667,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Stoarp",
+      "lat": 57.5166667,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Stockabäck",
+      "lat": 57.95,
+      "lng": 14.8
+    },
+    {
+      "cityName": "Stockaryd",
+      "lat": 57.3166667,
+      "lng": 14.5833333
+    },
+    {
+      "cityName": "Stockatorp",
+      "lat": 57.2666667,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Stockseryd",
+      "lat": 57.2333333,
+      "lng": 15.0833333
+    },
+    {
+      "cityName": "Stödstorp",
+      "lat": 57.5166667,
+      "lng": 14.1
+    },
+    {
+      "cityName": "Stora Åkerhult",
+      "lat": 57.5,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Stora Bjälkerum",
+      "lat": 57.5166667,
+      "lng": 15.4
+    },
+    {
+      "cityName": "Stora Fagerhult",
+      "lat": 57.5833333,
+      "lng": 15.5333333
+    },
+    {
+      "cityName": "Stora Fifflekull",
+      "lat": 57.5166667,
+      "lng": 15.0666667
+    },
+    {
+      "cityName": "Stora Galthult",
+      "lat": 57.9,
+      "lng": 14.5666667
+    },
+    {
+      "cityName": "Stora Haghult",
+      "lat": 57.1666667,
+      "lng": 13.3833333
+    },
+    {
+      "cityName": "Stora Hyltan",
+      "lat": 57.2,
+      "lng": 14.25
+    },
+    {
+      "cityName": "Stora Lönhult",
+      "lat": 57.7666667,
+      "lng": 15.0333333
+    },
+    {
+      "cityName": "Stora Moshult",
+      "lat": 57.2,
+      "lng": 15.0333333
+    },
+    {
+      "cityName": "Stora Öijhult",
+      "lat": 57.4833333,
+      "lng": 13.8
+    },
+    {
+      "cityName": "Stora Ökna",
+      "lat": 57.45,
+      "lng": 15.4166667
+    },
+    {
+      "cityName": "Stora Segerstad",
+      "lat": 57.15,
+      "lng": 13.55
+    },
+    {
+      "cityName": "Stora Snärle",
+      "lat": 57.3666667,
+      "lng": 15.1166667
+    },
+    {
+      "cityName": "Stora Svalås",
+      "lat": 57.3833333,
+      "lng": 13.65
+    },
+    {
+      "cityName": "Stora Svinhult",
+      "lat": 57.5166667,
+      "lng": 13.75
+    },
+    {
+      "cityName": "Stora Vakås",
+      "lat": 57.4666667,
+      "lng": 14.5
+    },
+    {
+      "cityName": "Storebo",
+      "lat": 57.35,
+      "lng": 13.6166667
+    },
+    {
+      "cityName": "Strängsbo",
+      "lat": 57.5833333,
+      "lng": 13.9833333
+    },
+    {
+      "cityName": "Strete",
+      "lat": 57.4666667,
+      "lng": 14.5666667
+    },
+    {
+      "cityName": "Styggstorp",
+      "lat": 57.6,
+      "lng": 14.8333333
+    },
+    {
+      "cityName": "Sundhultsbrunn",
+      "lat": 57.9166667,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Sunhultsbrunn",
+      "lat": 57.9333333,
+      "lng": 14.9
+    },
+    {
+      "cityName": "Sunnaryd",
+      "lat": 57.0166667,
+      "lng": 13.6833333
+    },
+    {
+      "cityName": "Sunneränga",
+      "lat": 57.8,
+      "lng": 14.8666667
+    },
+    {
+      "cityName": "Sunnerås",
+      "lat": 57.0833333,
+      "lng": 13.6833333
+    },
+    {
+      "cityName": "Sunnerbo",
+      "lat": 57.3166667,
+      "lng": 13.7333333
+    },
+    {
+      "cityName": "Sunnerskog",
+      "lat": 57.4,
+      "lng": 15.2166667
+    },
+    {
+      "cityName": "Svallarp",
+      "lat": 57.5333333,
+      "lng": 15.3
+    },
+    {
+      "cityName": "Svältestorp",
+      "lat": 57.25,
+      "lng": 14.6666667
+    },
+    {
+      "cityName": "Svanaholm",
+      "lat": 57.0833333,
+      "lng": 13.7
+    },
+    {
+      "cityName": "Svänö",
+      "lat": 57.3166667,
+      "lng": 13.9666667
+    },
+    {
+      "cityName": "Svartorp",
+      "lat": 57.8166667,
+      "lng": 14.45
+    },
+    {
+      "cityName": "Svenarp",
+      "lat": 57.4666667,
+      "lng": 15.5333333
+    },
+    {
+      "cityName": "Svenarum",
+      "lat": 57.4833333,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Svensbygd",
+      "lat": 57.2666667,
+      "lng": 14.4
+    },
+    {
+      "cityName": "Svensjö",
+      "lat": 57.6333333,
+      "lng": 13.8333333
+    },
+    {
+      "cityName": "Svenstorp",
+      "lat": 57.4333333,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Tagel",
+      "lat": 57.1333333,
+      "lng": 14.1666667
+    },
+    {
+      "cityName": "Taglarp",
+      "lat": 57.4833333,
+      "lng": 14.15
+    },
+    {
+      "cityName": "Taleryd",
+      "lat": 57.9666667,
+      "lng": 14.8666667
+    },
+    {
+      "cityName": "Tällerda",
+      "lat": 57.4666667,
+      "lng": 15.0333333
+    },
+    {
+      "cityName": "Tångerda",
+      "lat": 57.4666667,
+      "lng": 15.0666667
+    },
+    {
+      "cityName": "Tånghult",
+      "lat": 57.5333333,
+      "lng": 15.0166667
+    },
+    {
+      "cityName": "Tånnö",
+      "lat": 57.1,
+      "lng": 14.05
+    },
+    {
+      "cityName": "Tåssegärde",
+      "lat": 57.2166667,
+      "lng": 14.9666667
+    },
+    {
+      "cityName": "Tjunnaryd",
+      "lat": 57.5,
+      "lng": 14.9666667
+    },
+    {
+      "cityName": "Tobro",
+      "lat": 57.3666667,
+      "lng": 15.5
+    },
+    {
+      "cityName": "Tofrida",
+      "lat": 57.7666667,
+      "lng": 14.3833333
+    },
+    {
+      "cityName": "Tofta",
+      "lat": 57.7833333,
+      "lng": 14.7833333
+    },
+    {
+      "cityName": "Tofteryd",
+      "lat": 57.4,
+      "lng": 14.1833333
+    },
+    {
+      "cityName": "Tokarp",
+      "lat": 57.2833333,
+      "lng": 13.6666667
+    },
+    {
+      "cityName": "Tolarp",
+      "lat": 57.8333333,
+      "lng": 14.7666667
+    },
+    {
+      "cityName": "Tolja",
+      "lat": 57.3666667,
+      "lng": 15.4
+    },
+    {
+      "cityName": "Töllstorp",
+      "lat": 57.3666667,
+      "lng": 13.75
+    },
+    {
+      "cityName": "Topperyd",
+      "lat": 57.6666667,
+      "lng": 14.5333333
+    },
+    {
+      "cityName": "Törestorp",
+      "lat": 57.3,
+      "lng": 13.8333333
+    },
+    {
+      "cityName": "Torget",
+      "lat": 57.4333333,
+      "lng": 15.1
+    },
+    {
+      "cityName": "Torp",
+      "lat": 56.9666667,
+      "lng": 14.25
+    },
+    {
+      "cityName": "Torset",
+      "lat": 57.4,
+      "lng": 14.7333333
+    },
+    {
+      "cityName": "Torskinge",
+      "lat": 57.1166667,
+      "lng": 13.8
+    },
+    {
+      "cityName": "Tostarp",
+      "lat": 56.95,
+      "lng": 14.25
+    },
+    {
+      "cityName": "Totarp",
+      "lat": 57.5833333,
+      "lng": 15.4666667
+    },
+    {
+      "cityName": "Tovhult",
+      "lat": 57.1,
+      "lng": 13.2833333
+    },
+    {
+      "cityName": "Trälarp",
+      "lat": 57.3666667,
+      "lng": 15.2333333
+    },
+    {
+      "cityName": "Tranås Kyarn",
+      "lat": 58.05,
+      "lng": 14.9833333
+    },
+    {
+      "cityName": "Tranhult",
+      "lat": 57.4833333,
+      "lng": 13.85
+    },
+    {
+      "cityName": "Tråsås",
+      "lat": 57.3333333,
+      "lng": 14.7
+    },
+    {
+      "cityName": "Träslända",
+      "lat": 57.6833333,
+      "lng": 14.7
+    },
+    {
+      "cityName": "Tronebo",
+      "lat": 57.1166667,
+      "lng": 13.4333333
+    },
+    {
+      "cityName": "Tryggarp",
+      "lat": 56.95,
+      "lng": 14.3
+    },
+    {
+      "cityName": "Tubbarp",
+      "lat": 57.9,
+      "lng": 14.75
+    },
+    {
+      "cityName": "Tuddabo",
+      "lat": 57.1,
+      "lng": 14.3
+    },
+    {
+      "cityName": "Tuggarp",
+      "lat": 58.0833333,
+      "lng": 14.5333333
+    },
+    {
+      "cityName": "Tunabo",
+      "lat": 57.5666667,
+      "lng": 13.85
+    },
+    {
+      "cityName": "Tunnerstad",
+      "lat": 58.05,
+      "lng": 14.3166667
+    },
+    {
+      "cityName": "Tykavik",
+      "lat": 57.9833333,
+      "lng": 14.5166667
+    },
+    {
+      "cityName": "Tyngel",
+      "lat": 57.2833333,
+      "lng": 13.8166667
+    },
+    {
+      "cityName": "Ubbarp",
+      "lat": 57.7,
+      "lng": 14.2166667
+    },
+    {
+      "cityName": "Ugglekull",
+      "lat": 57.1333333,
+      "lng": 14.2833333
+    },
+    {
+      "cityName": "Uggleryd",
+      "lat": 57.1833333,
+      "lng": 14.5166667
+    },
+    {
+      "cityName": "Ulås",
+      "lat": 57.15,
+      "lng": 14.1
+    },
+    {
+      "cityName": "Ulfvestorp",
+      "lat": 57.4833333,
+      "lng": 13.6833333
+    },
+    {
+      "cityName": "Uljeshult",
+      "lat": 57.4666667,
+      "lng": 14.0166667
+    },
+    {
+      "cityName": "Ulvsbo",
+      "lat": 58.05,
+      "lng": 14.8833333
+    },
+    {
+      "cityName": "Uppebo",
+      "lat": 57.35,
+      "lng": 13.9333333
+    },
+    {
+      "cityName": "Uppgränna",
+      "lat": 58.05,
+      "lng": 14.4833333
+    },
+    {
+      "cityName": "Upplanda",
+      "lat": 57.4166667,
+      "lng": 15.1166667
+    },
+    {
+      "cityName": "Upplid",
+      "lat": 57,
+      "lng": 14.2666667
+    },
+    {
+      "cityName": "Ustorp",
+      "lat": 57.5333333,
+      "lng": 15.1666667
+    },
+    {
+      "cityName": "Utterkull",
+      "lat": 57.2166667,
+      "lng": 13.2666667
+    },
+    {
+      "cityName": "Uvanäs",
+      "lat": 57.4333333,
+      "lng": 15.35
+    },
+    {
+      "cityName": "Väcklinge",
+      "lat": 57.15,
+      "lng": 13.6333333
+    },
+    {
+      "cityName": "Väderås",
+      "lat": 57.05,
+      "lng": 13.8833333
+    },
+    {
+      "cityName": "Våeryd",
+      "lat": 57.6666667,
+      "lng": 14.2666667
+    },
+    {
+      "cityName": "Vaggeryd",
+      "lat": 57.5,
+      "lng": 14.1166667
+    },
+    {
+      "cityName": "Vagnhester",
+      "lat": 57.45,
+      "lng": 15.2666667
+    },
+    {
+      "cityName": "Valdshult",
+      "lat": 57.5,
+      "lng": 13.7333333
+    },
+    {
+      "cityName": "Vällersten",
+      "lat": 57.2333333,
+      "lng": 14
+    },
+    {
+      "cityName": "Vallnäs",
+      "lat": 57.6166667,
+      "lng": 15.4666667
+    },
+    {
+      "cityName": "Vallshult",
+      "lat": 57.9,
+      "lng": 13.35
+    },
+    {
+      "cityName": "Vallstorp",
+      "lat": 57.7,
+      "lng": 14.6
+    },
+    {
+      "cityName": "Värekulla",
+      "lat": 57.5833333,
+      "lng": 15.5666667
+    },
+    {
+      "cityName": "Värhult",
+      "lat": 57.6,
+      "lng": 15.1666667
+    },
+    {
+      "cityName": "Värnamo",
+      "lat": 57.1833333,
+      "lng": 14.0333333
+    },
+    {
+      "cityName": "Värneslätt",
+      "lat": 57.5333333,
+      "lng": 15.0833333
+    },
+    {
+      "cityName": "Värne",
+      "lat": 57.5333333,
+      "lng": 15.1
+    },
+    {
+      "cityName": "Väset",
+      "lat": 57.25,
+      "lng": 13.7333333
+    },
+    {
+      "cityName": "Väshult",
+      "lat": 57.3333333,
+      "lng": 14.1333333
+    },
+    {
+      "cityName": "Vässleda",
+      "lat": 57.7333333,
+      "lng": 14.7833333
+    },
+    {
+      "cityName": "Västerkvarn",
+      "lat": 57.3166667,
+      "lng": 14.5333333
+    },
+    {
+      "cityName": "Västhorja",
+      "lat": 57.2,
+      "lng": 14.0166667
+    },
+    {
+      "cityName": "Västorp",
+      "lat": 57.8666667,
+      "lng": 14.9833333
+    },
+    {
+      "cityName": "Västraby",
+      "lat": 57.6666667,
+      "lng": 14.25
+    },
+    {
+      "cityName": "Västra Ekås",
+      "lat": 57.7,
+      "lng": 15.2333333
+    },
+    {
+      "cityName": "Västra Höreda",
+      "lat": 57.75,
+      "lng": 14.45
+    },
+    {
+      "cityName": "Våthult",
+      "lat": 57.3166667,
+      "lng": 13.45
+    },
+    {
+      "cityName": "Vä",
+      "lat": 57.1833333,
+      "lng": 13.5333333
+    },
+    {
+      "cityName": "Våxtorp",
+      "lat": 57.4666667,
+      "lng": 13.85
+    },
+    {
+      "cityName": "Velebo",
+      "lat": 57.4333333,
+      "lng": 13.7333333
+    },
+    {
+      "cityName": "Vetlanda",
+      "lat": 57.4333333,
+      "lng": 15.0666667
+    },
+    {
+      "cityName": "Vickelsbo",
+      "lat": 57.1666667,
+      "lng": 13.2333333
+    },
+    {
+      "cityName": "Vickenstorp",
+      "lat": 57.5333333,
+      "lng": 15.2666667
+    },
+    {
+      "cityName": "Vik",
+      "lat": 57.4166667,
+      "lng": 13.6
+    },
+    {
+      "cityName": "Villstad",
+      "lat": 57.2,
+      "lng": 13.4333333
+    },
+    {
+      "cityName": "Vimmelstorp",
+      "lat": 57.1166667,
+      "lng": 13.5
+    },
+    {
+      "cityName": "Vipparp",
+      "lat": 57.4166667,
+      "lng": 13.9166667
+    },
+    {
+      "cityName": "Vireda",
+      "lat": 57.7833333,
+      "lng": 14.3666667
+    },
+    {
+      "cityName": "Virkesbo",
+      "lat": 57.3333333,
+      "lng": 15.2833333
+    },
+    {
+      "cityName": "Vittaryd",
+      "lat": 57.8666667,
+      "lng": 14.7833333
+    },
+    {
+      "cityName": "Voxtorp",
+      "lat": 57.1333333,
+      "lng": 14.1333333
+    },
+    {
+      "cityName": "Vrånghult",
+      "lat": 57.45,
+      "lng": 15.3333333
+    },
+    {
+      "cityName": "Vrangsjö",
+      "lat": 57.8833333,
+      "lng": 14.8833333
+    },
+    {
+      "cityName": "Vretaholm",
+      "lat": 58.0333333,
+      "lng": 14.4833333
+    },
+    {
+      "cityName": "Vrigstad",
+      "lat": 57.35,
+      "lng": 14.4666667
+    },
+    {
+      "cityName": "Vrixlösa",
+      "lat": 58.05,
+      "lng": 14.35
+    },
+    {
+      "cityName": "Yås",
+      "lat": 57.6833333,
+      "lng": 13.8666667
+    },
+    {
+      "cityName": "Yggersryd",
+      "lat": 57.2666667,
+      "lng": 14.6833333
+    },
+    {
+      "cityName": "Yxanshult",
+      "lat": 57.2833333,
+      "lng": 15.1333333
+    },
+    {
+      "cityName": "Yxebo",
+      "lat": 57.2333333,
+      "lng": 13.3333333
+    }
+  ]
+}

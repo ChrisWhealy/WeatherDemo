@@ -1,0 +1,695 @@
+{
+  "name": "Carchi",
+  "cities": [
+    {
+      "cityName": "Aguel",
+      "lat": 0.8833333,
+      "lng": -78.0833333
+    },
+    {
+      "cityName": "Alor",
+      "lat": 0.45,
+      "lng": -77.9
+    },
+    {
+      "cityName": "Altamirano",
+      "lat": 0.6,
+      "lng": -77.7
+    },
+    {
+      "cityName": "Angasmayo",
+      "lat": 0.8333333,
+      "lng": -77.7
+    },
+    {
+      "cityName": "Angelina",
+      "lat": 0.4666667,
+      "lng": -77.9
+    },
+    {
+      "cityName": "Arrayán",
+      "lat": 0.7666667,
+      "lng": -77.7833333
+    },
+    {
+      "cityName": "Bolívar",
+      "lat": 0.5,
+      "lng": -77.8833333
+    },
+    {
+      "cityName": "Cabuyal",
+      "lat": 0.5833333,
+      "lng": -78.0666667
+    },
+    {
+      "cityName": "Caldera",
+      "lat": 0.4333333,
+      "lng": -77.9333333
+    },
+    {
+      "cityName": "Capulí",
+      "lat": -0.5666667,
+      "lng": -77.8166667
+    },
+    {
+      "cityName": "Capulí Chico",
+      "lat": 0.5666667,
+      "lng": -77.8333333
+    },
+    {
+      "cityName": "Casateja",
+      "lat": 0.6166667,
+      "lng": -78
+    },
+    {
+      "cityName": "Catarama",
+      "lat": 0.6666667,
+      "lng": -78.0833333
+    },
+    {
+      "cityName": "Chabayan",
+      "lat": 0.6333333,
+      "lng": -77.9166667
+    },
+    {
+      "cityName": "Chamanal",
+      "lat": -0.6333333,
+      "lng": -78.1166667
+    },
+    {
+      "cityName": "Charco Largo",
+      "lat": 1.1333333,
+      "lng": -78.5
+    },
+    {
+      "cityName": "Chical",
+      "lat": 1.0333333,
+      "lng": -78.2333333
+    },
+    {
+      "cityName": "Chihuarán",
+      "lat": 0.8333333,
+      "lng": -77.75
+    },
+    {
+      "cityName": "Chilcapamba",
+      "lat": 0.6166667,
+      "lng": -77.9333333
+    },
+    {
+      "cityName": "Chillazón",
+      "lat": 0.65,
+      "lng": -78
+    },
+    {
+      "cityName": "Chitán",
+      "lat": 0.6333333,
+      "lng": -77.8
+    },
+    {
+      "cityName": "Chochal",
+      "lat": 0.7666667,
+      "lng": -77.7
+    },
+    {
+      "cityName": "Chota Chiquita",
+      "lat": 0.4833333,
+      "lng": -78.05
+    },
+    {
+      "cityName": "Chulamuez",
+      "lat": 0.7666667,
+      "lng": -77.75
+    },
+    {
+      "cityName": "Chulunguasi",
+      "lat": 0.4833333,
+      "lng": -77.9333333
+    },
+    {
+      "cityName": "Chumbán Mantilla",
+      "lat": 0.6333333,
+      "lng": -77.7333333
+    },
+    {
+      "cityName": "Concepción",
+      "lat": 0.6,
+      "lng": -78.1166667
+    },
+    {
+      "cityName": "Cristóbal Colón",
+      "lat": 0.6166667,
+      "lng": -77.8
+    },
+    {
+      "cityName": "Cuatis Acosta",
+      "lat": 0.6333333,
+      "lng": -77.7166667
+    },
+    {
+      "cityName": "Cuatis",
+      "lat": 0.6166667,
+      "lng": -77.7333333
+    },
+    {
+      "cityName": "Cunquer",
+      "lat": 0.4666667,
+      "lng": -77.9333333
+    },
+    {
+      "cityName": "Ejido Norte",
+      "lat": 0.8333333,
+      "lng": -77.6666667
+    },
+    {
+      "cityName": "El Carmelo",
+      "lat": 0.6666667,
+      "lng": -77.6333333
+    },
+    {
+      "cityName": "El Carmen",
+      "lat": 0.8166667,
+      "lng": -77.75
+    },
+    {
+      "cityName": "El Carrizal",
+      "lat": 0.7833333,
+      "lng": -77.7
+    },
+    {
+      "cityName": "El Charco",
+      "lat": 0.7833333,
+      "lng": -77.75
+    },
+    {
+      "cityName": "El Chico",
+      "lat": 0.8166667,
+      "lng": -77.7166667
+    },
+    {
+      "cityName": "El Consuelo",
+      "lat": 0.8166667,
+      "lng": -77.7666667
+    },
+    {
+      "cityName": "El Gaaltal",
+      "lat": 0.8,
+      "lng": -78.1666667
+    },
+    {
+      "cityName": "El Habra",
+      "lat": 0.6333333,
+      "lng": -78.0833333
+    },
+    {
+      "cityName": "El Haro",
+      "lat": 0.8166667,
+      "lng": -77.6666667
+    },
+    {
+      "cityName": "El Hato",
+      "lat": 0.5833333,
+      "lng": -78.0333333
+    },
+    {
+      "cityName": "El Llano",
+      "lat": 0.8166667,
+      "lng": -77.7333333
+    },
+    {
+      "cityName": "El Mirador",
+      "lat": 0.6166667,
+      "lng": -77.6666667
+    },
+    {
+      "cityName": "El Olivo",
+      "lat": 0.4,
+      "lng": -77.8833333
+    },
+    {
+      "cityName": "El Pun",
+      "lat": 0.6666667,
+      "lng": -77.6166667
+    },
+    {
+      "cityName": "El Rosal",
+      "lat": 0.8166667,
+      "lng": -77.7
+    },
+    {
+      "cityName": "El Salado",
+      "lat": 0.5833333,
+      "lng": -77.7833333
+    },
+    {
+      "cityName": "El Tambo",
+      "lat": 0.5,
+      "lng": -77.9833333
+    },
+    {
+      "cityName": "Fernández Salvador",
+      "lat": 0.6,
+      "lng": -77.7666667
+    },
+    {
+      "cityName": "Garbanzal",
+      "lat": 0.45,
+      "lng": -77.95
+    },
+    {
+      "cityName": "García Moreno",
+      "lat": 0.5666667,
+      "lng": -77.9333333
+    },
+    {
+      "cityName": "Gonzalez Suares",
+      "lat": 0.7833333,
+      "lng": -77.85
+    },
+    {
+      "cityName": "Gualchán",
+      "lat": 0.4833333,
+      "lng": -77.8833333
+    },
+    {
+      "cityName": "Guama",
+      "lat": 0.7666667,
+      "lng": -77.7666667
+    },
+    {
+      "cityName": "Guanquicha Borja",
+      "lat": 0.6666667,
+      "lng": -77.7333333
+    },
+    {
+      "cityName": "Hacienda Hoja Blanca",
+      "lat": 0.6166667,
+      "lng": -77.95
+    },
+    {
+      "cityName": "Hacienda Huacas",
+      "lat": 0.6333333,
+      "lng": -77.7666667
+    },
+    {
+      "cityName": "Hacienda Ihspingo",
+      "lat": 0.6,
+      "lng": -77.9166667
+    },
+    {
+      "cityName": "Hacienda Indujel",
+      "lat": 0.5833333,
+      "lng": -77.8
+    },
+    {
+      "cityName": "Hacienda Ingueza",
+      "lat": 0.6333333,
+      "lng": -77.95
+    },
+    {
+      "cityName": "Hacienda La Cofradía",
+      "lat": 0.6666667,
+      "lng": -77.7
+    },
+    {
+      "cityName": "Hacienda La Concepción",
+      "lat": 0.8166667,
+      "lng": -77.8
+    },
+    {
+      "cityName": "Hacienda La Esperanza",
+      "lat": 0.6333333,
+      "lng": -77.9
+    },
+    {
+      "cityName": "Hacienda La Florida",
+      "lat": 0.65,
+      "lng": -77.7166667
+    },
+    {
+      "cityName": "Hacienda La Laguna",
+      "lat": 0.65,
+      "lng": -77.7333333
+    },
+    {
+      "cityName": "Hacienda La Loma",
+      "lat": 0.6333333,
+      "lng": -78.1333333
+    },
+    {
+      "cityName": "Hacienda Landázuri",
+      "lat": 0.6333333,
+      "lng": -77.7833333
+    },
+    {
+      "cityName": "Hacienda La Palma",
+      "lat": 0.65,
+      "lng": -77.5666667
+    },
+    {
+      "cityName": "Hacienda La Portada",
+      "lat": 0.45,
+      "lng": -77.9666667
+    },
+    {
+      "cityName": "Hacienda La Ranchería",
+      "lat": 0.5666667,
+      "lng": -77.9
+    },
+    {
+      "cityName": "Hacienda La Rinconadita",
+      "lat": 0.6666667,
+      "lng": -77.9333333
+    },
+    {
+      "cityName": "Hacienda Las Peñas",
+      "lat": 0.75,
+      "lng": -77.7666667
+    },
+    {
+      "cityName": "Hacienda La Victoria",
+      "lat": 0.6333333,
+      "lng": -77.9333333
+    },
+    {
+      "cityName": "Hacienda Llaucay",
+      "lat": -2.6833333,
+      "lng": -78.7833333
+    },
+    {
+      "cityName": "Hacienda Mascarilla",
+      "lat": 0.4833333,
+      "lng": -78.0666667
+    },
+    {
+      "cityName": "Hacienda Miraflores",
+      "lat": 0.6,
+      "lng": -77.7833333
+    },
+    {
+      "cityName": "Hacienda Mojos",
+      "lat": 0.5166667,
+      "lng": -77.9166667
+    },
+    {
+      "cityName": "Hacienda Molle",
+      "lat": -2.6,
+      "lng": -79.15
+    },
+    {
+      "cityName": "Hacienda Mundo Nuevo",
+      "lat": 0.7166667,
+      "lng": -78.2
+    },
+    {
+      "cityName": "Hacienda Naranjal",
+      "lat": 0.6833333,
+      "lng": -78.1666667
+    },
+    {
+      "cityName": "Hacienda Nispud",
+      "lat": 0.8,
+      "lng": -77.7666667
+    },
+    {
+      "cityName": "Hacienda Nudpud",
+      "lat": -2.65,
+      "lng": -78.7666667
+    },
+    {
+      "cityName": "Hacienda Ovejería",
+      "lat": 0.8,
+      "lng": -77.75
+    },
+    {
+      "cityName": "Hacienda Pisán",
+      "lat": 0.5,
+      "lng": -77.8166667
+    },
+    {
+      "cityName": "Hacienda Pucará",
+      "lat": 0.55,
+      "lng": -77.95
+    },
+    {
+      "cityName": "Hacienda Puchués",
+      "lat": 0.5833333,
+      "lng": -77.9833333
+    },
+    {
+      "cityName": "Hacienda Pueblo Viejo",
+      "lat": 0.55,
+      "lng": -78.0166667
+    },
+    {
+      "cityName": "Hacienda Puente Tierra",
+      "lat": 0.7166667,
+      "lng": -77.7166667
+    },
+    {
+      "cityName": "Hacienda Rinconada",
+      "lat": 0.8,
+      "lng": -77.7166667
+    },
+    {
+      "cityName": "Hacienda Río Blanco",
+      "lat": 0.7666667,
+      "lng": -78.2666667
+    },
+    {
+      "cityName": "Hacienda San Cristóbal",
+      "lat": 0.6333333,
+      "lng": -77.8333333
+    },
+    {
+      "cityName": "Hacienda Sandial",
+      "lat": 0.5333333,
+      "lng": -77.8166667
+    },
+    {
+      "cityName": "Hacienda San Francisco",
+      "lat": 0.5,
+      "lng": -77.9666667
+    },
+    {
+      "cityName": "Hacienda San Joaquín",
+      "lat": 0.7,
+      "lng": -77.7
+    },
+    {
+      "cityName": "Hacienda San Juan de Tablas",
+      "lat": 0.7666667,
+      "lng": -78.25
+    },
+    {
+      "cityName": "Hacienda San Luis",
+      "lat": 0.6166667,
+      "lng": -77.7
+    },
+    {
+      "cityName": "Hacienda San Miguel",
+      "lat": 0.8,
+      "lng": -77.8
+    },
+    {
+      "cityName": "Hacienda San Rafael",
+      "lat": 0.4166667,
+      "lng": -77.9166667
+    },
+    {
+      "cityName": "Hacienda Santa Luisa",
+      "lat": 0.6,
+      "lng": -78.0833333
+    },
+    {
+      "cityName": "Hacienda Santa María",
+      "lat": 0.55,
+      "lng": -77.8666667
+    },
+    {
+      "cityName": "Hacienda Santa Rosa",
+      "lat": 0.8333333,
+      "lng": -77.7333333
+    },
+    {
+      "cityName": "Hacienda San Vicente",
+      "lat": 0.5,
+      "lng": -78.0166667
+    },
+    {
+      "cityName": "Hacienda Taltún",
+      "lat": 0.5166667,
+      "lng": -77.8166667
+    },
+    {
+      "cityName": "Hacienda Tanyalpud",
+      "lat": 0.75,
+      "lng": -77.7166667
+    },
+    {
+      "cityName": "Hacienda Tesalia",
+      "lat": 0.5333333,
+      "lng": -77.8333333
+    },
+    {
+      "cityName": "Hacienda Vieja",
+      "lat": 0.8,
+      "lng": -77.8166667
+    },
+    {
+      "cityName": "Hacienda Yalaquer",
+      "lat": 0.6666667,
+      "lng": -77.6666667
+    },
+    {
+      "cityName": "Hato Viejo",
+      "lat": 0.6666667,
+      "lng": -78.0333333
+    },
+    {
+      "cityName": "Jalpuen",
+      "lat": 1,
+      "lng": -78.2
+    },
+    {
+      "cityName": "Jucal",
+      "lat": 0.85,
+      "lng": -78.05
+    },
+    {
+      "cityName": "La Paz",
+      "lat": 0.5166667,
+      "lng": -77.8666667
+    },
+    {
+      "cityName": "Las Juntas",
+      "lat": 0.8333333,
+      "lng": -77.6833333
+    },
+    {
+      "cityName": "La Tejería",
+      "lat": 0.8166667,
+      "lng": -77.65
+    },
+    {
+      "cityName": "Los Andes",
+      "lat": 0.5,
+      "lng": -77.9333333
+    },
+    {
+      "cityName": "Machines",
+      "lat": 0.8333333,
+      "lng": -78.0166667
+    },
+    {
+      "cityName": "Maldonado",
+      "lat": 0.9,
+      "lng": -78.1
+    },
+    {
+      "cityName": "Mirador",
+      "lat": 0.85,
+      "lng": -78.0166667
+    },
+    {
+      "cityName": "Mira",
+      "lat": 0.55,
+      "lng": -78.0333333
+    },
+    {
+      "cityName": "Montúfar",
+      "lat": 0.6,
+      "lng": -77.8166667
+    },
+    {
+      "cityName": "Ovejo",
+      "lat": 0.8333333,
+      "lng": -77.9833333
+    },
+    {
+      "cityName": "Piedra del Medio",
+      "lat": 1.15,
+      "lng": -78.5
+    },
+    {
+      "cityName": "Pindical",
+      "lat": 0.9333333,
+      "lng": -78.1333333
+    },
+    {
+      "cityName": "Pioter",
+      "lat": 0.65,
+      "lng": -77.7833333
+    },
+    {
+      "cityName": "Puellamal",
+      "lat": 0.9666667,
+      "lng": -78.1833333
+    },
+    {
+      "cityName": "Pulcás",
+      "lat": 0.7666667,
+      "lng": -77.6666667
+    },
+    {
+      "cityName": "Punte Palo",
+      "lat": 0.8666667,
+      "lng": -78.05
+    },
+    {
+      "cityName": "Pusia",
+      "lat": 0.5,
+      "lng": -78.0333333
+    },
+    {
+      "cityName": "Pusir Chico",
+      "lat": 0.4666667,
+      "lng": -77.9833333
+    },
+    {
+      "cityName": "Quinche",
+      "lat": 1.0333333,
+      "lng": -78.3
+    },
+    {
+      "cityName": "Quitasol",
+      "lat": 0.6333333,
+      "lng": -77.5833333
+    },
+    {
+      "cityName": "San Isidro",
+      "lat": 0.6166667,
+      "lng": -77.9833333
+    },
+    {
+      "cityName": "San Nicolás",
+      "lat": 0.8166667,
+      "lng": -77.7833333
+    },
+    {
+      "cityName": "Santa Blanca",
+      "lat": 0.8666667,
+      "lng": -78.0833333
+    },
+    {
+      "cityName": "San Vicente de Pusir",
+      "lat": 0.5166667,
+      "lng": -77.95
+    },
+    {
+      "cityName": "Taya",
+      "lat": 0.7833333,
+      "lng": -77.6666667
+    },
+    {
+      "cityName": "Tobar Donoso",
+      "lat": 1.19,
+      "lng": -78.5083333
+    },
+    {
+      "cityName": "Tufiño",
+      "lat": 0.8166667,
+      "lng": -77.85
+    }
+  ]
+}

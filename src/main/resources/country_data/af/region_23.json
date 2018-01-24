@@ -1,0 +1,900 @@
+{
+  "name": "Nurestan",
+  "cities": [
+    {
+      "cityName": "Acanu",
+      "lat": 35.0975,
+      "lng": 70.700556
+    },
+    {
+      "cityName": "Adoso",
+      "lat": 35.175278,
+      "lng": 70.209722
+    },
+    {
+      "cityName": "Afsay",
+      "lat": 35.770278,
+      "lng": 71.355
+    },
+    {
+      "cityName": "Agasi",
+      "lat": 35.422222,
+      "lng": 71.365278
+    },
+    {
+      "cityName": "Agro",
+      "lat": 35.406389,
+      "lng": 71.317222
+    },
+    {
+      "cityName": "Ahmad Diwana",
+      "lat": 35.914444,
+      "lng": 71.304722
+    },
+    {
+      "cityName": "Alomari",
+      "lat": 35.202778,
+      "lng": 70.356111
+    },
+    {
+      "cityName": "Amesaza",
+      "lat": 35.144722,
+      "lng": 70.930556
+    },
+    {
+      "cityName": "Anes",
+      "lat": 35.167778,
+      "lng": 70.159722
+    },
+    {
+      "cityName": "Aranas",
+      "lat": 35.128611,
+      "lng": 70.957778
+    },
+    {
+      "cityName": "Ashtiway",
+      "lat": 35.452222,
+      "lng": 70.933333
+    },
+    {
+      "cityName": "Atati",
+      "lat": 35.477222,
+      "lng": 70.365278
+    },
+    {
+      "cityName": "Ateti",
+      "lat": 35.848333,
+      "lng": 71.342778
+    },
+    {
+      "cityName": "Atrara",
+      "lat": 35.367778,
+      "lng": 70.250833
+    },
+    {
+      "cityName": "Aupash",
+      "lat": 35.180556,
+      "lng": 70.181111
+    },
+    {
+      "cityName": "Avaubanda",
+      "lat": 35.138333,
+      "lng": 70.970833
+    },
+    {
+      "cityName": "Avik",
+      "lat": 35.118333,
+      "lng": 70.559722
+    },
+    {
+      "cityName": "Awlagal",
+      "lat": 35.605278,
+      "lng": 71.325556
+    },
+    {
+      "cityName": "Azimkala",
+      "lat": 35.179167,
+      "lng": 70.965278
+    },
+    {
+      "cityName": "Aznar",
+      "lat": 35.437222,
+      "lng": 70.353056
+    },
+    {
+      "cityName": "Azok",
+      "lat": 35.809167,
+      "lng": 71.268889
+    },
+    {
+      "cityName": "Babakala",
+      "lat": 34.9175,
+      "lng": 70.377778
+    },
+    {
+      "cityName": "Babardesh",
+      "lat": 35.461111,
+      "lng": 71.524167
+    },
+    {
+      "cityName": "Bacanca",
+      "lat": 35.641944,
+      "lng": 71.336389
+    },
+    {
+      "cityName": "Badmuk",
+      "lat": 35.632778,
+      "lng": 71.330556
+    },
+    {
+      "cityName": "Badzhagal'",
+      "lat": 35.134167,
+      "lng": 70.376944
+    },
+    {
+      "cityName": "Bagh-e Tarang",
+      "lat": 35.039722,
+      "lng": 70.2625
+    },
+    {
+      "cityName": "Bagi",
+      "lat": 35.004722,
+      "lng": 70.494722
+    },
+    {
+      "cityName": "Bakolsata",
+      "lat": 35.446389,
+      "lng": 71.396944
+    },
+    {
+      "cityName": "Balakanda-Banda",
+      "lat": 35.075833,
+      "lng": 70.922778
+    },
+    {
+      "cityName": "Balamorghab",
+      "lat": 35.347222,
+      "lng": 70.148333
+    },
+    {
+      "cityName": "Bandakachi",
+      "lat": 34.923056,
+      "lng": 70.341944
+    },
+    {
+      "cityName": "Bandol",
+      "lat": 35.160833,
+      "lng": 70.136389
+    },
+    {
+      "cityName": "Barg-e Matal",
+      "lat": 35.673611,
+      "lng": 71.343333
+    },
+    {
+      "cityName": "Bidiwa",
+      "lat": 35.208333,
+      "lng": 70.845833
+    },
+    {
+      "cityName": "Boni",
+      "lat": 35.194167,
+      "lng": 70.838056
+    },
+    {
+      "cityName": "Bosaydur",
+      "lat": 35.377222,
+      "lng": 70.091944
+    },
+    {
+      "cityName": "Bozorg Khel",
+      "lat": 35.001389,
+      "lng": 70.499167
+    },
+    {
+      "cityName": "Bun",
+      "lat": 35.463333,
+      "lng": 71.5375
+    },
+    {
+      "cityName": "Cakawa",
+      "lat": 35.373333,
+      "lng": 70.078056
+    },
+    {
+      "cityName": "Caman",
+      "lat": 35.239722,
+      "lng": 70.820556
+    },
+    {
+      "cityName": "Candaldari",
+      "lat": 35.108611,
+      "lng": 70.272222
+    },
+    {
+      "cityName": "Capo",
+      "lat": 35.594167,
+      "lng": 71.316667
+    },
+    {
+      "cityName": "Casku",
+      "lat": 35.4625,
+      "lng": 71.312222
+    },
+    {
+      "cityName": "Cayel",
+      "lat": 35.038611,
+      "lng": 70.296667
+    },
+    {
+      "cityName": "Chochum",
+      "lat": 35.352222,
+      "lng": 70.927222
+    },
+    {
+      "cityName": "Chotor",
+      "lat": 35.313333,
+      "lng": 70.201389
+    },
+    {
+      "cityName": "Daba",
+      "lat": 34.999167,
+      "lng": 70.454722
+    },
+    {
+      "cityName": "Dahan-e Kewesht",
+      "lat": 35.234444,
+      "lng": 70.164722
+    },
+    {
+      "cityName": "Dahane Pya",
+      "lat": 35.15,
+      "lng": 70.302778
+    },
+    {
+      "cityName": "Dangar",
+      "lat": 35.12,
+      "lng": 70.55
+    },
+    {
+      "cityName": "Darang",
+      "lat": 34.909722,
+      "lng": 70.3825
+    },
+    {
+      "cityName": "Darumsabanda",
+      "lat": 35.119167,
+      "lng": 70.9825
+    },
+    {
+      "cityName": "De Kamdesh",
+      "lat": 35.410833,
+      "lng": 71.339167
+    },
+    {
+      "cityName": "Deshtugul",
+      "lat": 35.444167,
+      "lng": 71.5425
+    },
+    {
+      "cityName": "Deva",
+      "lat": 35.398333,
+      "lng": 70.930278
+    },
+    {
+      "cityName": "Ditamgul",
+      "lat": 35.4875,
+      "lng": 71.536667
+    },
+    {
+      "cityName": "Doab",
+      "lat": 35.538611,
+      "lng": 70.276667
+    },
+    {
+      "cityName": "Doni",
+      "lat": 35.218056,
+      "lng": 70.173333
+    },
+    {
+      "cityName": "Dosti",
+      "lat": 35.006111,
+      "lng": 70.324167
+    },
+    {
+      "cityName": "Dzhinakhayl'",
+      "lat": 35.3625,
+      "lng": 70.243333
+    },
+    {
+      "cityName": "Dzhishpal'",
+      "lat": 35.422778,
+      "lng": 70.333333
+    },
+    {
+      "cityName": "Dzhun'ya",
+      "lat": 35.12,
+      "lng": 70.274722
+    },
+    {
+      "cityName": "Eskando",
+      "lat": 35.139722,
+      "lng": 70.176111
+    },
+    {
+      "cityName": "Gada",
+      "lat": 35.108056,
+      "lng": 70.267222
+    },
+    {
+      "cityName": "Gadalam",
+      "lat": 35.102778,
+      "lng": 70.481111
+    },
+    {
+      "cityName": "Gadval'",
+      "lat": 35.332778,
+      "lng": 70.216944
+    },
+    {
+      "cityName": "Gandavu",
+      "lat": 35.037222,
+      "lng": 70.305556
+    },
+    {
+      "cityName": "Gandzhilukshal'",
+      "lat": 35.790833,
+      "lng": 71.245
+    },
+    {
+      "cityName": "Gezin",
+      "lat": 35.402222,
+      "lng": 70.3025
+    },
+    {
+      "cityName": "Goda",
+      "lat": 35.073333,
+      "lng": 70.496389
+    },
+    {
+      "cityName": "Golcheh",
+      "lat": 35.1175,
+      "lng": 70.547222
+    },
+    {
+      "cityName": "Kacapatal",
+      "lat": 35.1725,
+      "lng": 70.173889
+    },
+    {
+      "cityName": "Kamar",
+      "lat": 35.400278,
+      "lng": 71.423889
+    },
+    {
+      "cityName": "Kamdesh-Vulusvali",
+      "lat": 35.423611,
+      "lng": 71.33
+    },
+    {
+      "cityName": "Kanitwa",
+      "lat": 35.318333,
+      "lng": 70.740833
+    },
+    {
+      "cityName": "Kantiva-Sufla",
+      "lat": 35.301667,
+      "lng": 70.773611
+    },
+    {
+      "cityName": "Kashtan",
+      "lat": 35.392778,
+      "lng": 71.317778
+    },
+    {
+      "cityName": "Kaurbiz",
+      "lat": 35.208611,
+      "lng": 70.174444
+    },
+    {
+      "cityName": "Kendar",
+      "lat": 35.240833,
+      "lng": 70.412222
+    },
+    {
+      "cityName": "Keshtaki",
+      "lat": 35.365833,
+      "lng": 70.930556
+    },
+    {
+      "cityName": "Kewesht",
+      "lat": 35.217222,
+      "lng": 70.086389
+    },
+    {
+      "cityName": "Kolatah",
+      "lat": 35.100556,
+      "lng": 70.5325
+    },
+    {
+      "cityName": "Korank",
+      "lat": 35.032778,
+      "lng": 70.278333
+    },
+    {
+      "cityName": "Korgal",
+      "lat": 35.073611,
+      "lng": 70.307222
+    },
+    {
+      "cityName": "Kotagal",
+      "lat": 35.101667,
+      "lng": 70.518056
+    },
+    {
+      "cityName": "Kotagal-nesib",
+      "lat": 35.095,
+      "lng": 70.525278
+    },
+    {
+      "cityName": "Kotalay",
+      "lat": 34.919444,
+      "lng": 70.383056
+    },
+    {
+      "cityName": "Linar",
+      "lat": 35.356111,
+      "lng": 70.143056
+    },
+    {
+      "cityName": "Lokar",
+      "lat": 34.913333,
+      "lng": 70.376944
+    },
+    {
+      "cityName": "Loluk",
+      "lat": 35.766667,
+      "lng": 71.214722
+    },
+    {
+      "cityName": "Lulak",
+      "lat": 35.838889,
+      "lng": 71.324167
+    },
+    {
+      "cityName": "Ma'in",
+      "lat": 34.959722,
+      "lng": 70.437778
+    },
+    {
+      "cityName": "Malek",
+      "lat": 35.053889,
+      "lng": 70.460556
+    },
+    {
+      "cityName": "Malel",
+      "lat": 34.959167,
+      "lng": 70.456389
+    },
+    {
+      "cityName": "Mandagal'bande",
+      "lat": 35.434444,
+      "lng": 71.3
+    },
+    {
+      "cityName": "Mandagal Kholeh",
+      "lat": 35.477222,
+      "lng": 71.297222
+    },
+    {
+      "cityName": "Mandagal `Olya",
+      "lat": 35.466389,
+      "lng": 71.260278
+    },
+    {
+      "cityName": "Mandagal Soflá",
+      "lat": 35.449444,
+      "lng": 71.316389
+    },
+    {
+      "cityName": "Mandol",
+      "lat": 35.283611,
+      "lng": 70.168889
+    },
+    {
+      "cityName": "Mangor",
+      "lat": 35.371667,
+      "lng": 70.256667
+    },
+    {
+      "cityName": "Mangser",
+      "lat": 35.503611,
+      "lng": 70.383333
+    },
+    {
+      "cityName": "Mashpah",
+      "lat": 34.954722,
+      "lng": 70.483889
+    },
+    {
+      "cityName": "Mirdesh",
+      "lat": 35.413611,
+      "lng": 71.398611
+    },
+    {
+      "cityName": "Moladish",
+      "lat": 35.098611,
+      "lng": 70.943889
+    },
+    {
+      "cityName": "Mospamesal",
+      "lat": 35.462222,
+      "lng": 71.393611
+    },
+    {
+      "cityName": "Most Parigam",
+      "lat": 35.713056,
+      "lng": 71.340278
+    },
+    {
+      "cityName": "Mumam",
+      "lat": 35.157222,
+      "lng": 70.154444
+    },
+    {
+      "cityName": "Mum",
+      "lat": 35.255833,
+      "lng": 70.826667
+    },
+    {
+      "cityName": "Nalu",
+      "lat": 35.374444,
+      "lng": 70.263056
+    },
+    {
+      "cityName": "Nal'yar",
+      "lat": 34.928333,
+      "lng": 70.387778
+    },
+    {
+      "cityName": "Naukuzung",
+      "lat": 35.19,
+      "lng": 70.241111
+    },
+    {
+      "cityName": "Nengarach",
+      "lat": 34.939167,
+      "lng": 70.379444
+    },
+    {
+      "cityName": "Nesa'i",
+      "lat": 35.093333,
+      "lng": 70.848611
+    },
+    {
+      "cityName": "Neshpal",
+      "lat": 35.193333,
+      "lng": 70.198056
+    },
+    {
+      "cityName": "Nilau",
+      "lat": 35.231667,
+      "lng": 70.286389
+    },
+    {
+      "cityName": "Ormol",
+      "lat": 35.4225,
+      "lng": 71.326389
+    },
+    {
+      "cityName": "Ozhak",
+      "lat": 35.857778,
+      "lng": 71.268611
+    },
+    {
+      "cityName": "Pachigram",
+      "lat": 35.754722,
+      "lng": 71.199444
+    },
+    {
+      "cityName": "Palagal",
+      "lat": 35.192222,
+      "lng": 70.363056
+    },
+    {
+      "cityName": "Papra",
+      "lat": 35.642222,
+      "lng": 71.301389
+    },
+    {
+      "cityName": "Paprok",
+      "lat": 35.566667,
+      "lng": 71.219167
+    },
+    {
+      "cityName": "Parum",
+      "lat": 35.341667,
+      "lng": 70.153333
+    },
+    {
+      "cityName": "Pasagar",
+      "lat": 34.997778,
+      "lng": 70.315833
+    },
+    {
+      "cityName": "Pashat",
+      "lat": 35.770556,
+      "lng": 71.382778
+    },
+    {
+      "cityName": "Pashki",
+      "lat": 35.330278,
+      "lng": 70.893333
+    },
+    {
+      "cityName": "Pashok",
+      "lat": 35.134444,
+      "lng": 70.565
+    },
+    {
+      "cityName": "Patigol",
+      "lat": 35.45,
+      "lng": 71.516667
+    },
+    {
+      "cityName": "Pattigol",
+      "lat": 35.479722,
+      "lng": 71.531944
+    },
+    {
+      "cityName": "Payan Pusal",
+      "lat": 35.427778,
+      "lng": 70.3425
+    },
+    {
+      "cityName": "Pazenjaluk",
+      "lat": 35.378889,
+      "lng": 71.4225
+    },
+    {
+      "cityName": "Pazgam",
+      "lat": 35.799167,
+      "lng": 71.256389
+    },
+    {
+      "cityName": "Pesawu",
+      "lat": 35.843611,
+      "lng": 71.3625
+    },
+    {
+      "cityName": "Pesenta",
+      "lat": 35.300556,
+      "lng": 70.367222
+    },
+    {
+      "cityName": "Pitigal'bande",
+      "lat": 35.460833,
+      "lng": 71.521944
+    },
+    {
+      "cityName": "Pitigal",
+      "lat": 35.521389,
+      "lng": 71.531667
+    },
+    {
+      "cityName": "Pol-e Rostam",
+      "lat": 35.570278,
+      "lng": 71.322222
+    },
+    {
+      "cityName": "Poruns",
+      "lat": 35.420833,
+      "lng": 70.921944
+    },
+    {
+      "cityName": "Puna",
+      "lat": 35.833611,
+      "lng": 71.353333
+    },
+    {
+      "cityName": "Pusal",
+      "lat": 35.43,
+      "lng": 70.343333
+    },
+    {
+      "cityName": "P'yar",
+      "lat": 35.145278,
+      "lng": 70.278333
+    },
+    {
+      "cityName": "Rumunar",
+      "lat": 35.406111,
+      "lng": 70.308333
+    },
+    {
+      "cityName": "Rushtugam",
+      "lat": 35.414167,
+      "lng": 70.319722
+    },
+    {
+      "cityName": "Rusto",
+      "lat": 35.356111,
+      "lng": 70.239444
+    },
+    {
+      "cityName": "Sakarnal",
+      "lat": 35.354444,
+      "lng": 70.235556
+    },
+    {
+      "cityName": "Sakopacha",
+      "lat": 35.389722,
+      "lng": 70.284444
+    },
+    {
+      "cityName": "Saladur",
+      "lat": 35.386667,
+      "lng": 70.157778
+    },
+    {
+      "cityName": "Samanaknesa",
+      "lat": 35.952778,
+      "lng": 71.263889
+    },
+    {
+      "cityName": "Samandur",
+      "lat": 35.004722,
+      "lng": 70.3275
+    },
+    {
+      "cityName": "Samarigam",
+      "lat": 35.8425,
+      "lng": 71.307778
+    },
+    {
+      "cityName": "Saret Kholeh",
+      "lat": 35.416111,
+      "lng": 71.465556
+    },
+    {
+      "cityName": "Saret",
+      "lat": 35.475,
+      "lng": 71.451944
+    },
+    {
+      "cityName": "Sargin",
+      "lat": 35.381944,
+      "lng": 70.2725
+    },
+    {
+      "cityName": "Saruk",
+      "lat": 35.006389,
+      "lng": 70.485
+    },
+    {
+      "cityName": "Sasligal'",
+      "lat": 35.472778,
+      "lng": 71.511389
+    },
+    {
+      "cityName": "Sauril'",
+      "lat": 35.045833,
+      "lng": 70.495556
+    },
+    {
+      "cityName": "Setigal",
+      "lat": 35.469722,
+      "lng": 71.537222
+    },
+    {
+      "cityName": "Shidalam",
+      "lat": 35.103056,
+      "lng": 70.483611
+    },
+    {
+      "cityName": "Shirodami",
+      "lat": 35.2675,
+      "lng": 70.366111
+    },
+    {
+      "cityName": "Shok",
+      "lat": 35.248611,
+      "lng": 70.43
+    },
+    {
+      "cityName": "Shudgul'",
+      "lat": 35.706667,
+      "lng": 71.338333
+    },
+    {
+      "cityName": "Sokhtamundol",
+      "lat": 35.295,
+      "lng": 70.174444
+    },
+    {
+      "cityName": "Sozk'onsan",
+      "lat": 35.459722,
+      "lng": 71.3325
+    },
+    {
+      "cityName": "Srah Kat Bandeh",
+      "lat": 35.246389,
+      "lng": 71.130833
+    },
+    {
+      "cityName": "Surich",
+      "lat": 35.221944,
+      "lng": 70.373056
+    },
+    {
+      "cityName": "Tazagul'kala",
+      "lat": 35.098611,
+      "lng": 70.918333
+    },
+    {
+      "cityName": "Tel",
+      "lat": 35.123611,
+      "lng": 70.285
+    },
+    {
+      "cityName": "Terwat",
+      "lat": 35.005,
+      "lng": 70.492778
+    },
+    {
+      "cityName": "Terzaw",
+      "lat": 35.371389,
+      "lng": 71.422778
+    },
+    {
+      "cityName": "Topkhana",
+      "lat": 35.294444,
+      "lng": 70.365278
+    },
+    {
+      "cityName": "Tsranu",
+      "lat": 35.120833,
+      "lng": 70.741667
+    },
+    {
+      "cityName": "Tupak",
+      "lat": 34.925556,
+      "lng": 70.394722
+    },
+    {
+      "cityName": "Vadavu",
+      "lat": 34.953889,
+      "lng": 70.355278
+    },
+    {
+      "cityName": "Varishtor",
+      "lat": 35.314444,
+      "lng": 70.229444
+    },
+    {
+      "cityName": "Varmangal'",
+      "lat": 35.398889,
+      "lng": 71.413333
+    },
+    {
+      "cityName": "Vau",
+      "lat": 35.126667,
+      "lng": 70.773611
+    },
+    {
+      "cityName": "Vaygalak",
+      "lat": 35.168889,
+      "lng": 70.348333
+    },
+    {
+      "cityName": "Vaygal'",
+      "lat": 35.191944,
+      "lng": 70.994722
+    },
+    {
+      "cityName": "Vichir",
+      "lat": 35.305278,
+      "lng": 70.374444
+    }
+  ]
+}

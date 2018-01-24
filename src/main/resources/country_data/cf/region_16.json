@@ -1,0 +1,835 @@
+{
+  "name": "Sangha-Mbaere",
+  "cities": [
+    {
+      "cityName": "Aboghi",
+      "lat": 3.3833333,
+      "lng": 15.7666667
+    },
+    {
+      "cityName": "Adoumandjali",
+      "lat": 3.4333333,
+      "lng": 15.8666667
+    },
+    {
+      "cityName": "Akotasokou",
+      "lat": 3.2,
+      "lng": 16.1333333
+    },
+    {
+      "cityName": "Aloba",
+      "lat": 3.4666667,
+      "lng": 15.95
+    },
+    {
+      "cityName": "Ambassilo",
+      "lat": 3.0833333,
+      "lng": 16.2333333
+    },
+    {
+      "cityName": "Anam",
+      "lat": 3.4,
+      "lng": 15.7
+    },
+    {
+      "cityName": "Aya",
+      "lat": 4.1666667,
+      "lng": 17.0666667
+    },
+    {
+      "cityName": "Babio",
+      "lat": 4.3833333,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Baboudji",
+      "lat": 4,
+      "lng": 17.25
+    },
+    {
+      "cityName": "Babougué",
+      "lat": 3.2666667,
+      "lng": 16.2666667
+    },
+    {
+      "cityName": "Badane",
+      "lat": 3.9333333,
+      "lng": 17.0666667
+    },
+    {
+      "cityName": "Badja",
+      "lat": 3.6333333,
+      "lng": 16.7
+    },
+    {
+      "cityName": "Baga",
+      "lat": 3.6833333,
+      "lng": 15.85
+    },
+    {
+      "cityName": "Bago",
+      "lat": 3.9666667,
+      "lng": 16.2166667
+    },
+    {
+      "cityName": "Bakanmbo",
+      "lat": 3.5833333,
+      "lng": 15.5
+    },
+    {
+      "cityName": "Bakobo",
+      "lat": 3.4,
+      "lng": 15.6833333
+    },
+    {
+      "cityName": "Balanga",
+      "lat": 4.45,
+      "lng": 16.5166667
+    },
+    {
+      "cityName": "Balgué",
+      "lat": 3.5333333,
+      "lng": 16.05
+    },
+    {
+      "cityName": "Balisso",
+      "lat": 3.7333333,
+      "lng": 16.2166667
+    },
+    {
+      "cityName": "Bamban",
+      "lat": 3.7666667,
+      "lng": 15.3333333
+    },
+    {
+      "cityName": "Bambio",
+      "lat": 3.9,
+      "lng": 16.9833333
+    },
+    {
+      "cityName": "Banban",
+      "lat": 3.7666667,
+      "lng": 15.3166667
+    },
+    {
+      "cityName": "Bandoka",
+      "lat": 3.1833333,
+      "lng": 16.05
+    },
+    {
+      "cityName": "Bandongué",
+      "lat": 3.2166667,
+      "lng": 16.1333333
+    },
+    {
+      "cityName": "Banga",
+      "lat": 4.15,
+      "lng": 17.05
+    },
+    {
+      "cityName": "Bangba",
+      "lat": 3.9666667,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Bango",
+      "lat": 3.7166667,
+      "lng": 16.2166667
+    },
+    {
+      "cityName": "Bangoto",
+      "lat": 3.4833333,
+      "lng": 16.1166667
+    },
+    {
+      "cityName": "Bangotto",
+      "lat": 3.9833333,
+      "lng": 16.7333333
+    },
+    {
+      "cityName": "Bania",
+      "lat": 4,
+      "lng": 16.1166667
+    },
+    {
+      "cityName": "Banmbo",
+      "lat": 3.6333333,
+      "lng": 15.9
+    },
+    {
+      "cityName": "Baobanga",
+      "lat": 3.3833333,
+      "lng": 16.1833333
+    },
+    {
+      "cityName": "Barka",
+      "lat": 3.8333333,
+      "lng": 16.3166667
+    },
+    {
+      "cityName": "Barondo",
+      "lat": 3.7833333,
+      "lng": 16.2666667
+    },
+    {
+      "cityName": "Baso Bandja",
+      "lat": 3.55,
+      "lng": 15.9833333
+    },
+    {
+      "cityName": "Basso",
+      "lat": 3.25,
+      "lng": 16.1666667
+    },
+    {
+      "cityName": "Batondé",
+      "lat": 4.2333333,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Bayanga",
+      "lat": 2.8833333,
+      "lng": 16.3166667
+    },
+    {
+      "cityName": "Béago",
+      "lat": 3.85,
+      "lng": 16.3166667
+    },
+    {
+      "cityName": "Behina",
+      "lat": 4.4666667,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Bengibé",
+      "lat": 4.3666667,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Béya",
+      "lat": 3.2333333,
+      "lng": 16.2666667
+    },
+    {
+      "cityName": "Bia",
+      "lat": 3.7166667,
+      "lng": 15.8166667
+    },
+    {
+      "cityName": "Bigéné",
+      "lat": 3.4166667,
+      "lng": 15.6333333
+    },
+    {
+      "cityName": "Bikoula",
+      "lat": 3.4333333,
+      "lng": 15.8333333
+    },
+    {
+      "cityName": "Biri",
+      "lat": 3.7333333,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Bokango",
+      "lat": 3.7666667,
+      "lng": 16.7333333
+    },
+    {
+      "cityName": "Bolé",
+      "lat": 3.2333333,
+      "lng": 16.0166667
+    },
+    {
+      "cityName": "Bolondo",
+      "lat": 3.95,
+      "lng": 16.7833333
+    },
+    {
+      "cityName": "Bomandjokou",
+      "lat": 2.55,
+      "lng": 16.1166667
+    },
+    {
+      "cityName": "Bondjoko",
+      "lat": 4.0666667,
+      "lng": 17.1833333
+    },
+    {
+      "cityName": "Bondzobo",
+      "lat": 4.2833333,
+      "lng": 16.6833333
+    },
+    {
+      "cityName": "Bota",
+      "lat": 4.35,
+      "lng": 16.9333333
+    },
+    {
+      "cityName": "Boua",
+      "lat": 3.9833333,
+      "lng": 17.0833333
+    },
+    {
+      "cityName": "Boundara",
+      "lat": 4.1166667,
+      "lng": 17.1333333
+    },
+    {
+      "cityName": "Boungué",
+      "lat": 3.9333333,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Bounguilé",
+      "lat": 3.9166667,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Boyo",
+      "lat": 3.45,
+      "lng": 15.9
+    },
+    {
+      "cityName": "Byakao",
+      "lat": 3.45,
+      "lng": 15.8833333
+    },
+    {
+      "cityName": "Camba Oro Fortifié",
+      "lat": 3.65,
+      "lng": 16.8333333
+    },
+    {
+      "cityName": "Camp Beda",
+      "lat": 3.8,
+      "lng": 16.2833333
+    },
+    {
+      "cityName": "Camp Kanjakoundjou",
+      "lat": 3.8,
+      "lng": 16.2666667
+    },
+    {
+      "cityName": "Dambazozo",
+      "lat": 3.8166667,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Daoua",
+      "lat": 4.4,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Dépa",
+      "lat": 3.9333333,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Djembe",
+      "lat": 3.5333333,
+      "lng": 16.0666667
+    },
+    {
+      "cityName": "Djomo",
+      "lat": 2.95,
+      "lng": 16.3
+    },
+    {
+      "cityName": "Domali",
+      "lat": 4.4166667,
+      "lng": 16.6166667
+    },
+    {
+      "cityName": "Domisili",
+      "lat": 3.4,
+      "lng": 15.7166667
+    },
+    {
+      "cityName": "Domo",
+      "lat": 3.95,
+      "lng": 16.9
+    },
+    {
+      "cityName": "Dongoudza",
+      "lat": 3.6333333,
+      "lng": 16.7333333
+    },
+    {
+      "cityName": "Douago",
+      "lat": 3.5833333,
+      "lng": 15.9666667
+    },
+    {
+      "cityName": "Erkana",
+      "lat": 4.0833333,
+      "lng": 16.5333333
+    },
+    {
+      "cityName": "Gaforo",
+      "lat": 4.05,
+      "lng": 16.5166667
+    },
+    {
+      "cityName": "Gara",
+      "lat": 3.9833333,
+      "lng": 16.1333333
+    },
+    {
+      "cityName": "Garba",
+      "lat": 4.4833333,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Golimo",
+      "lat": 4.4166667,
+      "lng": 16.7333333
+    },
+    {
+      "cityName": "Gomokien",
+      "lat": 4.4166667,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Gongourou",
+      "lat": 3.7,
+      "lng": 16.2
+    },
+    {
+      "cityName": "Gonika",
+      "lat": 4.4166667,
+      "lng": 16.5833333
+    },
+    {
+      "cityName": "Goumélé",
+      "lat": 3.7666667,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Grima",
+      "lat": 3.9833333,
+      "lng": 17.1
+    },
+    {
+      "cityName": "Jojo",
+      "lat": 3.9166667,
+      "lng": 16.2666667
+    },
+    {
+      "cityName": "Kakata",
+      "lat": 4.2833333,
+      "lng": 17.0166667
+    },
+    {
+      "cityName": "Kalapo",
+      "lat": 3.8166667,
+      "lng": 16.3
+    },
+    {
+      "cityName": "Kambamba",
+      "lat": 3.9666667,
+      "lng": 16.2
+    },
+    {
+      "cityName": "Kanaré",
+      "lat": 3.65,
+      "lng": 16.7833333
+    },
+    {
+      "cityName": "Kandzia",
+      "lat": 3.15,
+      "lng": 16.25
+    },
+    {
+      "cityName": "Kolombala",
+      "lat": 3.9833333,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Komasa",
+      "lat": 3.6666667,
+      "lng": 15.8666667
+    },
+    {
+      "cityName": "Komondji",
+      "lat": 3.3666667,
+      "lng": 16.2
+    },
+    {
+      "cityName": "Kopou",
+      "lat": 3.65,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Kossendé",
+      "lat": 3.9,
+      "lng": 16.2833333
+    },
+    {
+      "cityName": "Kouna",
+      "lat": 3.4166667,
+      "lng": 15.8166667
+    },
+    {
+      "cityName": "Kounapapaya",
+      "lat": 3.1666667,
+      "lng": 16.25
+    },
+    {
+      "cityName": "Koussimandji",
+      "lat": 4.2666667,
+      "lng": 16.55
+    },
+    {
+      "cityName": "Koussoumandji",
+      "lat": 4.45,
+      "lng": 16.5333333
+    },
+    {
+      "cityName": "Kpô",
+      "lat": 4.05,
+      "lng": 17.2333333
+    },
+    {
+      "cityName": "Layobe",
+      "lat": 3.0666667,
+      "lng": 16.3
+    },
+    {
+      "cityName": "Lidjombo III",
+      "lat": 2.6666667,
+      "lng": 16.1
+    },
+    {
+      "cityName": "Lidjombo II",
+      "lat": 2.6833333,
+      "lng": 16.1
+    },
+    {
+      "cityName": "Lidjombo I",
+      "lat": 2.7,
+      "lng": 16.1166667
+    },
+    {
+      "cityName": "Ligara",
+      "lat": 4.3333333,
+      "lng": 16.95
+    },
+    {
+      "cityName": "Linga",
+      "lat": 3.65,
+      "lng": 16.8
+    },
+    {
+      "cityName": "Litoto",
+      "lat": 3.6333333,
+      "lng": 16.1333333
+    },
+    {
+      "cityName": "Loka",
+      "lat": 3.65,
+      "lng": 16.8833333
+    },
+    {
+      "cityName": "Loli",
+      "lat": 3.6666667,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Lopo",
+      "lat": 3.6,
+      "lng": 16.0833333
+    },
+    {
+      "cityName": "Mabosso",
+      "lat": 3.6,
+      "lng": 16.1
+    },
+    {
+      "cityName": "Makoundja Wali",
+      "lat": 4.3333333,
+      "lng": 16.7666667
+    },
+    {
+      "cityName": "Mambéllé",
+      "lat": 3.85,
+      "lng": 16.7
+    },
+    {
+      "cityName": "Mambere",
+      "lat": 4.4166667,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Mamboundja",
+      "lat": 3.5833333,
+      "lng": 15.95
+    },
+    {
+      "cityName": "Mayomba",
+      "lat": 3.4833333,
+      "lng": 16.1
+    },
+    {
+      "cityName": "Mbakolo",
+      "lat": 3.7166667,
+      "lng": 17.1
+    },
+    {
+      "cityName": "Mbamina",
+      "lat": 3.4,
+      "lng": 15.65
+    },
+    {
+      "cityName": "Mboma",
+      "lat": 3.7,
+      "lng": 15.8333333
+    },
+    {
+      "cityName": "Mékapambo",
+      "lat": 3.7833333,
+      "lng": 15.3333333
+    },
+    {
+      "cityName": "Modigi",
+      "lat": 3.4,
+      "lng": 15.7833333
+    },
+    {
+      "cityName": "Moho",
+      "lat": 3.8333333,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Mokelo",
+      "lat": 3.7666667,
+      "lng": 16.05
+    },
+    {
+      "cityName": "Molongo",
+      "lat": 3.5,
+      "lng": 16.1
+    },
+    {
+      "cityName": "Mongonga",
+      "lat": 3.45,
+      "lng": 15.9166667
+    },
+    {
+      "cityName": "Mosipa",
+      "lat": 3.6166667,
+      "lng": 15.9166667
+    },
+    {
+      "cityName": "Motao",
+      "lat": 3.2,
+      "lng": 16
+    },
+    {
+      "cityName": "Moussa",
+      "lat": 4.4333333,
+      "lng": 16.5333333
+    },
+    {
+      "cityName": "Nabondo",
+      "lat": 3.4333333,
+      "lng": 15.8166667
+    },
+    {
+      "cityName": "Nagati",
+      "lat": 3.75,
+      "lng": 16.2333333
+    },
+    {
+      "cityName": "Nakombo Sangha",
+      "lat": 3.7833333,
+      "lng": 15.6666667
+    },
+    {
+      "cityName": "Nalimo",
+      "lat": 3.4666667,
+      "lng": 16.1666667
+    },
+    {
+      "cityName": "Ndélé",
+      "lat": 3.65,
+      "lng": 16.8666667
+    },
+    {
+      "cityName": "Ndoddé",
+      "lat": 4.3333333,
+      "lng": 16.9833333
+    },
+    {
+      "cityName": "Ndoka",
+      "lat": 3.5666667,
+      "lng": 15.9833333
+    },
+    {
+      "cityName": "Ngama",
+      "lat": 3.7,
+      "lng": 15.85
+    },
+    {
+      "cityName": "Ngotto",
+      "lat": 4.5,
+      "lng": 16.85
+    },
+    {
+      "cityName": "Ngoundi",
+      "lat": 3.7,
+      "lng": 17.1
+    },
+    {
+      "cityName": "Ngwala",
+      "lat": 3.4666667,
+      "lng": 15.9166667
+    },
+    {
+      "cityName": "Niémélé",
+      "lat": 3.6666667,
+      "lng": 16.1666667
+    },
+    {
+      "cityName": "Ouango",
+      "lat": 3.8833333,
+      "lng": 16.3
+    },
+    {
+      "cityName": "Pama",
+      "lat": 4.5166667,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Pombo",
+      "lat": 3.4333333,
+      "lng": 15.85
+    },
+    {
+      "cityName": "Sacpamba",
+      "lat": 2.6,
+      "lng": 16.1166667
+    },
+    {
+      "cityName": "Sakombo",
+      "lat": 3.05,
+      "lng": 16.3
+    },
+    {
+      "cityName": "Salo",
+      "lat": 3.2,
+      "lng": 16.1166667
+    },
+    {
+      "cityName": "Sambo",
+      "lat": 3.55,
+      "lng": 16.0166667
+    },
+    {
+      "cityName": "Sangba",
+      "lat": 3.75,
+      "lng": 15.3333333
+    },
+    {
+      "cityName": "Sanmbo",
+      "lat": 3.5333333,
+      "lng": 16
+    },
+    {
+      "cityName": "Satoumba",
+      "lat": 3.25,
+      "lng": 16.0166667
+    },
+    {
+      "cityName": "Sazélé",
+      "lat": 4.5166667,
+      "lng": 16.8333333
+    },
+    {
+      "cityName": "Sazou",
+      "lat": 4.5333333,
+      "lng": 16.8166667
+    },
+    {
+      "cityName": "Sénago",
+      "lat": 3.75,
+      "lng": 16.7333333
+    },
+    {
+      "cityName": "Siembo",
+      "lat": 3.3833333,
+      "lng": 15.7333333
+    },
+    {
+      "cityName": "Solé",
+      "lat": 3.4333333,
+      "lng": 16.1666667
+    },
+    {
+      "cityName": "Sombe",
+      "lat": 3.9333333,
+      "lng": 16.25
+    },
+    {
+      "cityName": "Takpa",
+      "lat": 3.8,
+      "lng": 16.7166667
+    },
+    {
+      "cityName": "Tondo",
+      "lat": 3.4,
+      "lng": 15.6666667
+    },
+    {
+      "cityName": "Toro",
+      "lat": 4.0666667,
+      "lng": 16.5333333
+    },
+    {
+      "cityName": "Towé",
+      "lat": 3.65,
+      "lng": 16.15
+    },
+    {
+      "cityName": "Walpandji",
+      "lat": 3.4166667,
+      "lng": 16.1833333
+    },
+    {
+      "cityName": "Wampo",
+      "lat": 4.2666667,
+      "lng": 16.6833333
+    },
+    {
+      "cityName": "Wata",
+      "lat": 3.8666667,
+      "lng": 16.3
+    },
+    {
+      "cityName": "Yagandza",
+      "lat": 3.7,
+      "lng": 16.7333333
+    },
+    {
+      "cityName": "Yaonga",
+      "lat": 3.7166667,
+      "lng": 16.75
+    },
+    {
+      "cityName": "Zaoroboné",
+      "lat": 3.65,
+      "lng": 15.8833333
+    },
+    {
+      "cityName": "Zaoroguima",
+      "lat": 3.6833333,
+      "lng": 16.1833333
+    },
+    {
+      "cityName": "Zaoropata",
+      "lat": 3.9833333,
+      "lng": 16.1833333
+    }
+  ]
+}

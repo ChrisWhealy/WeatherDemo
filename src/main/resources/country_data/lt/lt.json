@@ -1,0 +1,67 @@
+{
+  "name": "Lithuania",
+  "iso2": "lt",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Alytaus Apskritis",
+      "id": 0
+    },
+    {
+      "name": "Kauno Apskritis",
+      "id": 1
+    },
+    {
+      "name": "Klaipedos Apskritis",
+      "id": 2
+    },
+    {
+      "name": "Marijampoles Apskritis",
+      "id": 3
+    },
+    {
+      "name": "Panevezio Apskritis",
+      "id": 4
+    },
+    {
+      "name": "Siauliu Apskritis",
+      "id": 5
+    },
+    {
+      "name": "Taurages Apskritis",
+      "id": 6
+    },
+    {
+      "name": "Telsiu Apskritis",
+      "id": 7
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 8
+    },
+    {
+      "name": "Utenos Apskritis",
+      "id": 9
+    },
+    {
+      "name": "Vilniaus Apskritis",
+      "id": 10
+    }
+  ],
+  "geoRectangle": {
+    "West": 20.9415245056,
+    "East": 26.8719463348,
+    "North": 56.4469223022,
+    "South": 53.9012985229
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 2,
+    "Flg": 2,
+    "Name": "Vilnius",
+    "GeoPt": [
+      54.41,
+      25.19
+    ]
+  }
+}

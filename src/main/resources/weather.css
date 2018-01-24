@@ -1,0 +1,147 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font: 1em 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.4em;
+  background: #EEEEDD;
+  color: #4d4d4d;
+  margin: 0 auto;
+
+  -webkit-font-smoothing: antialiased;
+     -moz-font-smoothing: antialiased;
+      -ms-font-smoothing: antialiased;
+       -o-font-smoothing: antialiased;
+          font-smoothing: antialiased;
+}
+
+header {
+  padding-top: 1.5px;
+
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 4em;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  border-bottom: 1px solid #6c615c;
+
+  background: #65a9d7;
+  background: -webkit-gradient(linear, left top, left bottom, from(#65a9d7), to(#3e779d));
+
+  background: -webkit-linear-gradient(top, #65a9d7, #3e779d);
+  background:    -moz-linear-gradient(top, #65a9d7, #3e779d);
+  background:     -ms-linear-gradient(top, #65a9d7, #3e779d);
+  background:      -o-linear-gradient(top, #65a9d7, #3e779d);
+
+  margin: 0.5em;
+  border-radius: 0.75em;
+}
+
+h1 {
+  position: absolute;
+  top: 0.45em;
+  width: 100%;
+
+  font-size: 3em;
+  font-weight: bold;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.9);
+  text-shadow: 1.5px 1.5px rgba(0, 0, 0, 0.2);
+
+  -webkit-text-rendering: optimizeLegibility;
+     -moz-text-rendering: optimizeLegibility;
+      -ms-text-rendering: optimizeLegibility;
+       -o-text-rendering: optimizeLegibility;
+          text-rendering: optimizeLegibility;
+}
+
+#selectors {
+  margin-top: 6.5em;
+  justify-content: center;
+  display: flex;
+}
+
+input, option {
+  margin: 0.5em 0.5em 0.5em 0em;
+
+  border-top: 1px solid #404040;
+
+  background: #c0c0c0;
+  background: -webkit-gradient(linear, left top, left bottom, from(#c0c0c0), to(#f0f0f0));
+
+  background: -webkit-linear-gradient(top, #c0c0c0, #f0f0f0);
+  background:    -moz-linear-gradient(top, #c0c0c0, #f0f0f0);
+  background:     -ms-linear-gradient(top, #c0c0c0, #f0f0f0);
+  background:      -o-linear-gradient(top, #c0c0c0, #f0f0f0);
+
+  padding: 0.33em;
+
+  -webkit-border-radius: 0.33em;
+  -moz-border-radius: 0.33em;
+
+  border-radius: 0.33em;
+
+  -webkit-box-shadow: rgba(0, 0, 0, 1) 0 3px 0;
+     -moz-box-shadow: rgba(0, 0, 0, 1) 0 3px 0;
+
+  box-shadow:  rgba(0, 0, 0, .4) 0 3px 0;
+  text-shadow: rgba(0, 0, 0, .4) 0 1px 0;
+
+  color: #404040;
+
+  font-size: 1.25em;
+  font-weight: 400;
+
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+#world_map {
+  width: 720px;
+  height: 360px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#label {
+  font-weight: 600;
+  border-bottom: 1px solid #888888;
+  border-left: 1px solid #888888;
+  padding-left: 0.5em;
+}
+
+
+#weather_info_div {
+  width: 720px;
+
+  margin-top: 1em;
+  margin-left: auto;
+  margin-right: auto;
+
+  background-color: #FFFFEE;
+
+  border: 1px solid #333333;
+  border-radius: 1em;
+}
+
+#weather_info_table {
+  width: 100%;
+  border-spacing: 1em;
+}
+
+#weatherReportHeading {
+  background-color: #DDDDCC;
+  text-align: left;
+  font-size: 1.75em;
+  padding: 0.33em 0.66em;
+  border-radius: 0.5em;
+}
+
+.hidden  { display:none }
+.visible { display:block }

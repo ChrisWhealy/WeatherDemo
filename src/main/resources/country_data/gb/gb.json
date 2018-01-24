@@ -1,0 +1,971 @@
+{
+  "name": "Great Britain [UK]",
+  "iso2": "gb",
+  "cities": null,
+  "regionList": [
+    {
+      "name": "Aberdeen City",
+      "id": 0
+    },
+    {
+      "name": "Aberdeenshire",
+      "id": 1
+    },
+    {
+      "name": "Angus",
+      "id": 2
+    },
+    {
+      "name": "Antrim",
+      "id": 3
+    },
+    {
+      "name": "Ards",
+      "id": 4
+    },
+    {
+      "name": "Argyll and Bute",
+      "id": 5
+    },
+    {
+      "name": "Armagh",
+      "id": 6
+    },
+    {
+      "name": "Ballymena",
+      "id": 7
+    },
+    {
+      "name": "Ballymoney",
+      "id": 8
+    },
+    {
+      "name": "Banbridge",
+      "id": 9
+    },
+    {
+      "name": "Barking and Dagenham",
+      "id": 10
+    },
+    {
+      "name": "Barnet",
+      "id": 11
+    },
+    {
+      "name": "Barnsley",
+      "id": 12
+    },
+    {
+      "name": "Bath and North East Somerset",
+      "id": 13
+    },
+    {
+      "name": "Bedfordshire",
+      "id": 14
+    },
+    {
+      "name": "Belfast",
+      "id": 15
+    },
+    {
+      "name": "Bexley",
+      "id": 16
+    },
+    {
+      "name": "Birmingham",
+      "id": 17
+    },
+    {
+      "name": "Blackburn with Darwen",
+      "id": 18
+    },
+    {
+      "name": "Blackpool",
+      "id": 19
+    },
+    {
+      "name": "Blaenau Gwent",
+      "id": 20
+    },
+    {
+      "name": "Bolton",
+      "id": 21
+    },
+    {
+      "name": "Bournemouth",
+      "id": 22
+    },
+    {
+      "name": "Bracknell Forest",
+      "id": 23
+    },
+    {
+      "name": "Bradford",
+      "id": 24
+    },
+    {
+      "name": "Brent",
+      "id": 25
+    },
+    {
+      "name": "Bridgend",
+      "id": 26
+    },
+    {
+      "name": "Brighton and Hove",
+      "id": 27
+    },
+    {
+      "name": "Bristol",
+      "id": 28
+    },
+    {
+      "name": "Bromley",
+      "id": 29
+    },
+    {
+      "name": "Buckinghamshire",
+      "id": 30
+    },
+    {
+      "name": "Bury",
+      "id": 31
+    },
+    {
+      "name": "Caerphilly",
+      "id": 32
+    },
+    {
+      "name": "Calderdale",
+      "id": 33
+    },
+    {
+      "name": "Cambridgeshire",
+      "id": 34
+    },
+    {
+      "name": "Camden",
+      "id": 35
+    },
+    {
+      "name": "Cardiff",
+      "id": 36
+    },
+    {
+      "name": "Carmarthenshire",
+      "id": 37
+    },
+    {
+      "name": "Carrickfergus",
+      "id": 38
+    },
+    {
+      "name": "Castlereagh",
+      "id": 39
+    },
+    {
+      "name": "Ceredigion",
+      "id": 40
+    },
+    {
+      "name": "Cheshire",
+      "id": 41
+    },
+    {
+      "name": "Clackmannanshire",
+      "id": 42
+    },
+    {
+      "name": "Coleraine",
+      "id": 43
+    },
+    {
+      "name": "Conwy",
+      "id": 44
+    },
+    {
+      "name": "Cookstown",
+      "id": 45
+    },
+    {
+      "name": "Cornwall",
+      "id": 46
+    },
+    {
+      "name": "Coventry",
+      "id": 47
+    },
+    {
+      "name": "Craigavon",
+      "id": 48
+    },
+    {
+      "name": "Croydon",
+      "id": 49
+    },
+    {
+      "name": "Cumbria",
+      "id": 50
+    },
+    {
+      "name": "Darlington",
+      "id": 51
+    },
+    {
+      "name": "Denbighshire",
+      "id": 52
+    },
+    {
+      "name": "Derby",
+      "id": 53
+    },
+    {
+      "name": "Derbyshire",
+      "id": 54
+    },
+    {
+      "name": "Derry",
+      "id": 55
+    },
+    {
+      "name": "Devon",
+      "id": 56
+    },
+    {
+      "name": "Doncaster",
+      "id": 57
+    },
+    {
+      "name": "Dorset",
+      "id": 58
+    },
+    {
+      "name": "Down",
+      "id": 59
+    },
+    {
+      "name": "Dudley",
+      "id": 60
+    },
+    {
+      "name": "Dumfries and Galloway",
+      "id": 61
+    },
+    {
+      "name": "Dundee City",
+      "id": 62
+    },
+    {
+      "name": "Dungannon",
+      "id": 63
+    },
+    {
+      "name": "Durham",
+      "id": 64
+    },
+    {
+      "name": "Ealing",
+      "id": 65
+    },
+    {
+      "name": "East Ayrshire",
+      "id": 66
+    },
+    {
+      "name": "East Dunbartonshire",
+      "id": 67
+    },
+    {
+      "name": "East Lothian",
+      "id": 68
+    },
+    {
+      "name": "East Renfrewshire",
+      "id": 69
+    },
+    {
+      "name": "East Riding of Yorkshire",
+      "id": 70
+    },
+    {
+      "name": "East Sussex",
+      "id": 71
+    },
+    {
+      "name": "Edinburgh",
+      "id": 72
+    },
+    {
+      "name": "Eilean Siar",
+      "id": 73
+    },
+    {
+      "name": "Enfield",
+      "id": 74
+    },
+    {
+      "name": "Essex",
+      "id": 75
+    },
+    {
+      "name": "Falkirk",
+      "id": 76
+    },
+    {
+      "name": "Fermanagh",
+      "id": 77
+    },
+    {
+      "name": "Fife",
+      "id": 78
+    },
+    {
+      "name": "Flintshire",
+      "id": 79
+    },
+    {
+      "name": "Gateshead",
+      "id": 80
+    },
+    {
+      "name": "Glasgow City",
+      "id": 81
+    },
+    {
+      "name": "Gloucestershire",
+      "id": 82
+    },
+    {
+      "name": "Greenwich",
+      "id": 83
+    },
+    {
+      "name": "Gwynedd",
+      "id": 84
+    },
+    {
+      "name": "Hackney",
+      "id": 85
+    },
+    {
+      "name": "Halton",
+      "id": 86
+    },
+    {
+      "name": "Hammersmith and Fulham",
+      "id": 87
+    },
+    {
+      "name": "Hampshire",
+      "id": 88
+    },
+    {
+      "name": "Haringey",
+      "id": 89
+    },
+    {
+      "name": "Harrow",
+      "id": 90
+    },
+    {
+      "name": "Hartlepool",
+      "id": 91
+    },
+    {
+      "name": "Havering",
+      "id": 92
+    },
+    {
+      "name": "Herefordshire",
+      "id": 93
+    },
+    {
+      "name": "Hertford",
+      "id": 94
+    },
+    {
+      "name": "Highland",
+      "id": 95
+    },
+    {
+      "name": "Hillingdon",
+      "id": 96
+    },
+    {
+      "name": "Hounslow",
+      "id": 97
+    },
+    {
+      "name": "Inverclyde",
+      "id": 98
+    },
+    {
+      "name": "Isle of Anglesey",
+      "id": 99
+    },
+    {
+      "name": "Isle of Wight",
+      "id": 100
+    },
+    {
+      "name": "Islington",
+      "id": 101
+    },
+    {
+      "name": "Kensington and Chelsea",
+      "id": 102
+    },
+    {
+      "name": "Kent",
+      "id": 103
+    },
+    {
+      "name": "Kingston upon Hull",
+      "id": 104
+    },
+    {
+      "name": "Kingston upon Thames",
+      "id": 105
+    },
+    {
+      "name": "Kirklees",
+      "id": 106
+    },
+    {
+      "name": "Knowsley",
+      "id": 107
+    },
+    {
+      "name": "Lambeth",
+      "id": 108
+    },
+    {
+      "name": "Lancashire",
+      "id": 109
+    },
+    {
+      "name": "Larne",
+      "id": 110
+    },
+    {
+      "name": "Leeds",
+      "id": 111
+    },
+    {
+      "name": "Leicester",
+      "id": 112
+    },
+    {
+      "name": "Leicestershire",
+      "id": 113
+    },
+    {
+      "name": "Lewisham",
+      "id": 114
+    },
+    {
+      "name": "Limavady",
+      "id": 115
+    },
+    {
+      "name": "Lincolnshire",
+      "id": 116
+    },
+    {
+      "name": "Lisburn",
+      "id": 117
+    },
+    {
+      "name": "Liverpool",
+      "id": 118
+    },
+    {
+      "name": "London",
+      "id": 119
+    },
+    {
+      "name": "Luton",
+      "id": 120
+    },
+    {
+      "name": "Magherafelt",
+      "id": 121
+    },
+    {
+      "name": "Manchester",
+      "id": 122
+    },
+    {
+      "name": "Medway",
+      "id": 123
+    },
+    {
+      "name": "Merthyr Tydfil",
+      "id": 124
+    },
+    {
+      "name": "Merton",
+      "id": 125
+    },
+    {
+      "name": "Middlesbrough",
+      "id": 126
+    },
+    {
+      "name": "Midlothian",
+      "id": 127
+    },
+    {
+      "name": "Milton Keynes",
+      "id": 128
+    },
+    {
+      "name": "Monmouthshire",
+      "id": 129
+    },
+    {
+      "name": "Moray",
+      "id": 130
+    },
+    {
+      "name": "Moyle",
+      "id": 131
+    },
+    {
+      "name": "Neath Port Talbot",
+      "id": 132
+    },
+    {
+      "name": "Newcastle upon Tyne",
+      "id": 133
+    },
+    {
+      "name": "Newham",
+      "id": 134
+    },
+    {
+      "name": "Newport",
+      "id": 135
+    },
+    {
+      "name": "Newry and Mourne",
+      "id": 136
+    },
+    {
+      "name": "Newtownabbey",
+      "id": 137
+    },
+    {
+      "name": "Norfolk",
+      "id": 138
+    },
+    {
+      "name": "North Ayrshire",
+      "id": 139
+    },
+    {
+      "name": "North Down",
+      "id": 140
+    },
+    {
+      "name": "North East Lincolnshire",
+      "id": 141
+    },
+    {
+      "name": "North Lanarkshire",
+      "id": 142
+    },
+    {
+      "name": "North Lincolnshire",
+      "id": 143
+    },
+    {
+      "name": "North Somerset",
+      "id": 144
+    },
+    {
+      "name": "North Tyneside",
+      "id": 145
+    },
+    {
+      "name": "North Yorkshire",
+      "id": 146
+    },
+    {
+      "name": "Northamptonshire",
+      "id": 147
+    },
+    {
+      "name": "Northumberland",
+      "id": 148
+    },
+    {
+      "name": "Nottingham",
+      "id": 149
+    },
+    {
+      "name": "Nottinghamshire",
+      "id": 150
+    },
+    {
+      "name": "Oldham",
+      "id": 151
+    },
+    {
+      "name": "Omagh",
+      "id": 152
+    },
+    {
+      "name": "Orkney",
+      "id": 153
+    },
+    {
+      "name": "Oxfordshire",
+      "id": 154
+    },
+    {
+      "name": "Pembrokeshire",
+      "id": 155
+    },
+    {
+      "name": "Perth and Kinross",
+      "id": 156
+    },
+    {
+      "name": "Peterborough",
+      "id": 157
+    },
+    {
+      "name": "Plymouth",
+      "id": 158
+    },
+    {
+      "name": "Poole",
+      "id": 159
+    },
+    {
+      "name": "Portsmouth",
+      "id": 160
+    },
+    {
+      "name": "Powys",
+      "id": 161
+    },
+    {
+      "name": "Reading",
+      "id": 162
+    },
+    {
+      "name": "Redbridge",
+      "id": 163
+    },
+    {
+      "name": "Redcar and Cleveland",
+      "id": 164
+    },
+    {
+      "name": "Renfrewshire",
+      "id": 165
+    },
+    {
+      "name": "Rhondda Cynon Taff",
+      "id": 166
+    },
+    {
+      "name": "Richmond upon Thames",
+      "id": 167
+    },
+    {
+      "name": "Rochdale",
+      "id": 168
+    },
+    {
+      "name": "Rotherham",
+      "id": 169
+    },
+    {
+      "name": "Rutland",
+      "id": 170
+    },
+    {
+      "name": "Salford",
+      "id": 171
+    },
+    {
+      "name": "Sandwell",
+      "id": 172
+    },
+    {
+      "name": "Scottish Borders",
+      "id": 173
+    },
+    {
+      "name": "Sefton",
+      "id": 174
+    },
+    {
+      "name": "Sheffield",
+      "id": 175
+    },
+    {
+      "name": "Shetland Islands",
+      "id": 176
+    },
+    {
+      "name": "Shropshire",
+      "id": 177
+    },
+    {
+      "name": "Slough",
+      "id": 178
+    },
+    {
+      "name": "Solihull",
+      "id": 179
+    },
+    {
+      "name": "Somerset",
+      "id": 180
+    },
+    {
+      "name": "South Ayrshire",
+      "id": 181
+    },
+    {
+      "name": "South Gloucestershire",
+      "id": 182
+    },
+    {
+      "name": "South Lanarkshire",
+      "id": 183
+    },
+    {
+      "name": "South Tyneside",
+      "id": 184
+    },
+    {
+      "name": "Southampton",
+      "id": 185
+    },
+    {
+      "name": "Southend-on-Sea",
+      "id": 186
+    },
+    {
+      "name": "Southwark",
+      "id": 187
+    },
+    {
+      "name": "St. Helens",
+      "id": 188
+    },
+    {
+      "name": "Staffordshire",
+      "id": 189
+    },
+    {
+      "name": "Stirling",
+      "id": 190
+    },
+    {
+      "name": "Stockport",
+      "id": 191
+    },
+    {
+      "name": "Stockton-on-Tees",
+      "id": 192
+    },
+    {
+      "name": "Stoke-on-Trent",
+      "id": 193
+    },
+    {
+      "name": "Strabane",
+      "id": 194
+    },
+    {
+      "name": "Suffolk",
+      "id": 195
+    },
+    {
+      "name": "Sunderland",
+      "id": 196
+    },
+    {
+      "name": "Surrey",
+      "id": 197
+    },
+    {
+      "name": "Sutton",
+      "id": 198
+    },
+    {
+      "name": "Swansea",
+      "id": 199
+    },
+    {
+      "name": "Swindon",
+      "id": 200
+    },
+    {
+      "name": "Tameside",
+      "id": 201
+    },
+    {
+      "name": "Telford and Wrekin",
+      "id": 202
+    },
+    {
+      "name": "Thurrock",
+      "id": 203
+    },
+    {
+      "name": "Torbay",
+      "id": 204
+    },
+    {
+      "name": "Torfaen",
+      "id": 205
+    },
+    {
+      "name": "Tower Hamlets",
+      "id": 206
+    },
+    {
+      "name": "Trafford",
+      "id": 207
+    },
+    {
+      "name": "Unnamed region 01",
+      "id": 208
+    },
+    {
+      "name": "Unnamed region 02",
+      "id": 209
+    },
+    {
+      "name": "Unnamed region 03",
+      "id": 210
+    },
+    {
+      "name": "Unnamed region 04",
+      "id": 211
+    },
+    {
+      "name": "Unnamed region 05",
+      "id": 212
+    },
+    {
+      "name": "Unnamed region 06",
+      "id": 213
+    },
+    {
+      "name": "Unnamed region 07",
+      "id": 214
+    },
+    {
+      "name": "Unnamed region 08",
+      "id": 215
+    },
+    {
+      "name": "Vale of Glamorgan",
+      "id": 216
+    },
+    {
+      "name": "Wakefield",
+      "id": 217
+    },
+    {
+      "name": "Walsall",
+      "id": 218
+    },
+    {
+      "name": "Waltham Forest",
+      "id": 219
+    },
+    {
+      "name": "Wandsworth",
+      "id": 220
+    },
+    {
+      "name": "Warrington",
+      "id": 221
+    },
+    {
+      "name": "Warwickshire",
+      "id": 222
+    },
+    {
+      "name": "West Berkshire",
+      "id": 223
+    },
+    {
+      "name": "West Dunbartonshire",
+      "id": 224
+    },
+    {
+      "name": "West Lothian",
+      "id": 225
+    },
+    {
+      "name": "West Sussex",
+      "id": 226
+    },
+    {
+      "name": "Westminster",
+      "id": 227
+    },
+    {
+      "name": "Wigan",
+      "id": 228
+    },
+    {
+      "name": "Wiltshire",
+      "id": 229
+    },
+    {
+      "name": "Windsor and Maidenhead",
+      "id": 230
+    },
+    {
+      "name": "Wirral",
+      "id": 231
+    },
+    {
+      "name": "Wokingham",
+      "id": 232
+    },
+    {
+      "name": "Wolverhampton",
+      "id": 233
+    },
+    {
+      "name": "Worcestershire",
+      "id": 234
+    },
+    {
+      "name": "Wrexham",
+      "id": 235
+    },
+    {
+      "name": "York",
+      "id": 236
+    }
+  ],
+  "geoRectangle": {
+    "West": -8.62355613708,
+    "East": 1.75900018215,
+    "North": 60.8458099365,
+    "South": 49.9061889648
+  },
+  "capital": {
+    "DLST": 1,
+    "TD": 0,
+    "Flg": 2,
+    "Name": "London",
+    "GeoPt": [
+      51.3,
+      -0.1
+    ]
+  }
+}
