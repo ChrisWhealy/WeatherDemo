@@ -1,3120 +1,2715 @@
 {
-  "name": "Unnamed region 01",
+  "name": "Alberta",
   "cities": [
     {
-      "cityName": "9zenic View",
-      "lat": 48.533333,
-      "lng": -123.55
+      "cityName": "Abee",
+      "lat": 54.233333,
+      "lng": -113.016667
     },
     {
-      "cityName": "Abbotsford",
-      "lat": 49.05,
-      "lng": -122.3
+      "cityName": "Acadia Valley",
+      "lat": 51.15,
+      "lng": -110.2
     },
     {
-      "cityName": "Agassiz",
-      "lat": 49.233333,
-      "lng": -121.766667
+      "cityName": "Acme",
+      "lat": 51.5,
+      "lng": -113.5
     },
     {
-      "cityName": "Ahousat",
-      "lat": 49.283333,
-      "lng": -126.05
-    },
-    {
-      "cityName": "Aiyansh",
-      "lat": 55.25,
-      "lng": -129.083333
-    },
-    {
-      "cityName": "Alberni",
-      "lat": 49.266667,
-      "lng": -124.8
-    },
-    {
-      "cityName": "Albert Canyon",
-      "lat": 51.133333,
-      "lng": -117.866667
-    },
-    {
-      "cityName": "Albreda",
-      "lat": 52.633333,
-      "lng": -119.15
-    },
-    {
-      "cityName": "Aldergrove",
-      "lat": 49.06,
-      "lng": -122.46
-    },
-    {
-      "cityName": "Alert Bay",
-      "lat": 50.583333,
-      "lng": -126.916667
-    },
-    {
-      "cityName": "Alexandria",
-      "lat": 52.633333,
-      "lng": -122.45
-    },
-    {
-      "cityName": "Alexis Creek",
-      "lat": 52.083333,
-      "lng": -123.283333
-    },
-    {
-      "cityName": "Aleza Lake",
-      "lat": 54.116667,
-      "lng": -122.066667
-    },
-    {
-      "cityName": "Alice Arm",
-      "lat": 55.45,
-      "lng": -129.483333
-    },
-    {
-      "cityName": "Alkali Lake",
-      "lat": 51.766667,
-      "lng": -122.3
-    },
-    {
-      "cityName": "Alliford Bay",
-      "lat": 53.2,
-      "lng": -131.983333
-    },
-    {
-      "cityName": "Allison Harbour",
-      "lat": 51.033333,
-      "lng": -127.516667
-    },
-    {
-      "cityName": "Alluvia",
-      "lat": 49.1,
-      "lng": -122.833333
-    },
-    {
-      "cityName": "Alta Lake",
-      "lat": 50.116667,
-      "lng": -122.983333
-    },
-    {
-      "cityName": "Anahim Lake",
-      "lat": 52.45,
-      "lng": -125.3
-    },
-    {
-      "cityName": "Anyox",
-      "lat": 55.416667,
-      "lng": -129.833333
-    },
-    {
-      "cityName": "Argenta",
-      "lat": 50.183333,
-      "lng": -116.933333
-    },
-    {
-      "cityName": "Armstrong",
-      "lat": 50.45,
-      "lng": -119.183333
-    },
-    {
-      "cityName": "Arrandale",
-      "lat": 54.966667,
-      "lng": -130
-    },
-    {
-      "cityName": "Arrowhead",
-      "lat": 50.7,
-      "lng": -117.916667
-    },
-    {
-      "cityName": "Ashcroft",
-      "lat": 50.716667,
-      "lng": -121.266667
-    },
-    {
-      "cityName": "Aspen Grove",
-      "lat": 49.883333,
-      "lng": -120.633333
-    },
-    {
-      "cityName": "Athalmer",
-      "lat": 50.516667,
-      "lng": -116.033333
-    },
-    {
-      "cityName": "Atlin",
-      "lat": 59.583333,
-      "lng": -133.716667
-    },
-    {
-      "cityName": "Atnarko",
-      "lat": 52.383333,
-      "lng": -125.816667
-    },
-    {
-      "cityName": "Attachie",
-      "lat": 56.216667,
-      "lng": -121.433333
-    },
-    {
-      "cityName": "Avola",
-      "lat": 51.783333,
-      "lng": -119.316667
-    },
-    {
-      "cityName": "Babine",
-      "lat": 55.316667,
-      "lng": -126.616667
-    },
-    {
-      "cityName": "Babine Portage",
-      "lat": 54.516667,
-      "lng": -125.183333
-    },
-    {
-      "cityName": "Bainbridge",
-      "lat": 49.316667,
-      "lng": -124.85
-    },
-    {
-      "cityName": "Baldonnel",
-      "lat": 56.216667,
-      "lng": -120.683333
-    },
-    {
-      "cityName": "Balfour",
-      "lat": 49.633333,
-      "lng": -116.966667
-    },
-    {
-      "cityName": "Bamberton",
-      "lat": 48.583333,
-      "lng": -123.516667
-    },
-    {
-      "cityName": "Bamfield",
-      "lat": 48.833333,
-      "lng": -125.15
-    },
-    {
-      "cityName": "Barnet",
-      "lat": 49.283333,
-      "lng": -122.933333
-    },
-    {
-      "cityName": "Barrett",
-      "lat": 54.433333,
-      "lng": -126.75
-    },
-    {
-      "cityName": "Barrière",
-      "lat": 51.183333,
-      "lng": -120.133333
-    },
-    {
-      "cityName": "Beament",
-      "lat": 55.15,
-      "lng": -127.383333
-    },
-    {
-      "cityName": "Bear Flat",
-      "lat": 56.283333,
-      "lng": -121.233333
-    },
-    {
-      "cityName": "Bear Lake",
-      "lat": 56.2,
-      "lng": -126.85
-    },
-    {
-      "cityName": "Beaton",
-      "lat": 50.733333,
-      "lng": -117.733333
-    },
-    {
-      "cityName": "Beaver",
-      "lat": 51.516667,
-      "lng": -117.416667
-    },
-    {
-      "cityName": "Beaver Cove",
-      "lat": 50.533333,
-      "lng": -126.866667
-    },
-    {
-      "cityName": "Beaverley",
-      "lat": 53.816667,
-      "lng": -122.866667
-    },
-    {
-      "cityName": "Bednesti",
-      "lat": 53.866667,
-      "lng": -123.083333
-    },
-    {
-      "cityName": "Bella Bella",
-      "lat": 52.15,
-      "lng": -128.133333
-    },
-    {
-      "cityName": "Bella Coola",
-      "lat": 52.366667,
-      "lng": -126.75
-    },
-    {
-      "cityName": "Bend",
-      "lat": 53.766667,
-      "lng": -121.066667
-    },
-    {
-      "cityName": "Ben-My-Chree",
-      "lat": 59.416667,
-      "lng": -134.466667
-    },
-    {
-      "cityName": "Bennett",
-      "lat": 59.85,
-      "lng": -134.983333
-    },
-    {
-      "cityName": "Big Creek",
-      "lat": 51.716667,
-      "lng": -123.016667
-    },
-    {
-      "cityName": "Birken",
-      "lat": 50.483333,
-      "lng": -122.6
-    },
-    {
-      "cityName": "Black Creek",
-      "lat": 52.3,
-      "lng": -121.116667
-    },
-    {
-      "cityName": "Black Pines",
-      "lat": 50.966667,
-      "lng": -120.25
-    },
-    {
-      "cityName": "Black Pool",
-      "lat": 51.583333,
-      "lng": -120.116667
-    },
-    {
-      "cityName": "Blaeberry",
-      "lat": 51.433333,
-      "lng": -117.05
-    },
-    {
-      "cityName": "Blind Channel",
-      "lat": 50.416667,
-      "lng": -125.516667
-    },
-    {
-      "cityName": "Bliss Landing",
-      "lat": 50.033333,
-      "lng": -124.816667
-    },
-    {
-      "cityName": "Bloedel",
-      "lat": 50.116667,
-      "lng": -125.366667
-    },
-    {
-      "cityName": "Blubber Bay",
-      "lat": 49.8,
-      "lng": -124.616667
-    },
-    {
-      "cityName": "Blucher Hall",
-      "lat": 51.1,
-      "lng": -120.016667
-    },
-    {
-      "cityName": "Blue River",
-      "lat": 52.1,
-      "lng": -119.3
-    },
-    {
-      "cityName": "Boat Basin",
-      "lat": 49.483333,
-      "lng": -126.4
-    },
-    {
-      "cityName": "Bold Point",
-      "lat": 50.183333,
-      "lng": -125.15
-    },
-    {
-      "cityName": "Boswell",
-      "lat": 49.466667,
-      "lng": -116.766667
-    },
-    {
-      "cityName": "Boundary",
-      "lat": 56.683333,
-      "lng": -131.816667
-    },
-    {
-      "cityName": "Bowser",
-      "lat": 49.433333,
-      "lng": -124.683333
-    },
-    {
-      "cityName": "Brackendale",
-      "lat": 49.766667,
-      "lng": -123.15
-    },
-    {
-      "cityName": "Bralorne",
-      "lat": 50.783333,
-      "lng": -122.816667
-    },
-    {
-      "cityName": "Brentwood Bay",
-      "lat": 48.583333,
-      "lng": -123.466667
-    },
-    {
-      "cityName": "Bridge Lake",
-      "lat": 51.483333,
-      "lng": -120.7
-    },
-    {
-      "cityName": "Bridge River",
-      "lat": 50.733333,
-      "lng": -122.233333
-    },
-    {
-      "cityName": "Brisco",
-      "lat": 50.816667,
-      "lng": -116.283333
-    },
-    {
-      "cityName": "Britannia Beach",
-      "lat": 49.633333,
-      "lng": -123.183333
-    },
-    {
-      "cityName": "Bulkley Canyon",
-      "lat": 55.233333,
-      "lng": -127.483333
-    },
-    {
-      "cityName": "Bull River",
-      "lat": 49.466667,
-      "lng": -115.45
-    },
-    {
-      "cityName": "Burnaby",
-      "lat": 49.25,
-      "lng": -122.95
-    },
-    {
-      "cityName": "Burns Lake",
-      "lat": 54.216667,
-      "lng": -125.766667
-    },
-    {
-      "cityName": "Butedale",
-      "lat": 53.15,
-      "lng": -128.683333
-    },
-    {
-      "cityName": "Cachalot",
-      "lat": 49.983333,
-      "lng": -127.15
-    },
-    {
-      "cityName": "Cache Creek",
-      "lat": 50.8,
-      "lng": -121.316667
-    },
-    {
-      "cityName": "Campbell Island",
-      "lat": 52.166667,
-      "lng": -128.133333
-    },
-    {
-      "cityName": "Campbell River",
-      "lat": 50.016667,
-      "lng": -125.25
-    },
-    {
-      "cityName": "Canal Flats",
-      "lat": 50.15,
-      "lng": -115.833333
-    },
-    {
-      "cityName": "Canim Lake",
-      "lat": 51.766667,
-      "lng": -120.9
-    },
-    {
-      "cityName": "Canyon City",
-      "lat": 55.2,
-      "lng": -129.216667
-    },
-    {
-      "cityName": "Cape Scott",
-      "lat": 50.766667,
-      "lng": -128.35
-    },
-    {
-      "cityName": "Caribou Hide",
-      "lat": 57.433333,
-      "lng": -127.55
-    },
-    {
-      "cityName": "Carmi",
-      "lat": 49.5,
-      "lng": -119.133333
-    },
-    {
-      "cityName": "Carnaby",
-      "lat": 55.15,
-      "lng": -127.75
-    },
-    {
-      "cityName": "Cascade",
-      "lat": 49.016667,
-      "lng": -118.216667
-    },
-    {
-      "cityName": "Cassidy",
-      "lat": 49.066667,
-      "lng": -123.866667
-    },
-    {
-      "cityName": "Castlegar",
-      "lat": 49.316667,
-      "lng": -117.666667
-    },
-    {
-      "cityName": "Cayoosh Flat",
-      "lat": 50.683333,
-      "lng": -121.933333
-    },
-    {
-      "cityName": "Cecil Lake",
-      "lat": 56.3,
-      "lng": -120.533333
-    },
-    {
-      "cityName": "Cedarvale",
-      "lat": 55.016667,
-      "lng": -128.333333
-    },
-    {
-      "cityName": "Ceepeecee",
-      "lat": 49.866667,
-      "lng": -126.7
-    },
-    {
-      "cityName": "Centre Island",
-      "lat": 49.833333,
-      "lng": -126.933333
-    },
-    {
-      "cityName": "Centreville",
-      "lat": 59.266667,
-      "lng": -129.416667
-    },
-    {
-      "cityName": "Charlie Lake",
-      "lat": 56.266667,
-      "lng": -120.95
-    },
-    {
-      "cityName": "Chase",
-      "lat": 50.816667,
-      "lng": -119.683333
-    },
-    {
-      "cityName": "Chee House",
-      "lat": 59.15,
-      "lng": -127.616667
-    },
-    {
-      "cityName": "Chemainus",
-      "lat": 48.916667,
-      "lng": -123.7
-    },
-    {
-      "cityName": "Cherryville",
-      "lat": 50.233333,
-      "lng": -118.616667
-    },
-    {
-      "cityName": "Chief Lake",
-      "lat": 54.1,
-      "lng": -123.016667
-    },
-    {
-      "cityName": "Chilliwack",
-      "lat": 49.166667,
-      "lng": -121.95
-    },
-    {
-      "cityName": "China Hat",
-      "lat": 52.583333,
-      "lng": -128.533333
-    },
-    {
-      "cityName": "Church House",
-      "lat": 50.316667,
-      "lng": -125.083333
-    },
-    {
-      "cityName": "Chutine Landing",
-      "lat": 57.666667,
-      "lng": -131.583333
-    },
-    {
-      "cityName": "Cinema",
-      "lat": 53.183333,
-      "lng": -122.516667
-    },
-    {
-      "cityName": "Claxton",
-      "lat": 54.066667,
-      "lng": -130.1
-    },
-    {
-      "cityName": "Clayhurst",
-      "lat": 56.166667,
-      "lng": -120.016667
-    },
-    {
-      "cityName": "Clayoquot",
-      "lat": 49.15,
-      "lng": -125.916667
-    },
-    {
-      "cityName": "Clearwater",
-      "lat": 51.65,
-      "lng": -120.033333
-    },
-    {
-      "cityName": "Clearwater Station",
-      "lat": 51.633333,
-      "lng": -120.033333
-    },
-    {
-      "cityName": "Cliffside",
-      "lat": 48.616667,
-      "lng": -123.633333
-    },
-    {
-      "cityName": "Clinton",
-      "lat": 51.1,
-      "lng": -121.6
-    },
-    {
-      "cityName": "Clo-oose",
-      "lat": 48.65,
-      "lng": -124.816667
-    },
-    {
-      "cityName": "Cloverdale",
-      "lat": 49.1,
-      "lng": -122.733333
-    },
-    {
-      "cityName": "Coal Creek",
-      "lat": 49.483333,
-      "lng": -114.983333
-    },
-    {
-      "cityName": "Coal Harbour",
-      "lat": 50.6,
-      "lng": -127.583333
-    },
-    {
-      "cityName": "Cobble Hill",
-      "lat": 48.683333,
-      "lng": -123.6
-    },
-    {
-      "cityName": "Colebrook",
-      "lat": 49.1,
-      "lng": -122.866667
-    },
-    {
-      "cityName": "Colleymount",
-      "lat": 54.033333,
-      "lng": -126.15
-    },
-    {
-      "cityName": "Colvilletown",
-      "lat": 49.15,
-      "lng": -123.916667
-    },
-    {
-      "cityName": "Comax",
-      "lat": 49.683333,
-      "lng": -124.933333
-    },
-    {
-      "cityName": "Copper City",
-      "lat": 54.533333,
-      "lng": -128.483333
-    },
-    {
-      "cityName": "Copper Creek",
-      "lat": 50.783333,
-      "lng": -120.783333
-    },
-    {
-      "cityName": "Copper Mountain",
-      "lat": 49.316667,
-      "lng": -120.533333
-    },
-    {
-      "cityName": "Coquitlam",
-      "lat": 49.266667,
-      "lng": -122.783333
-    },
-    {
-      "cityName": "Corbin",
-      "lat": 49.516667,
-      "lng": -114.65
-    },
-    {
-      "cityName": "Cortes Bay",
-      "lat": 50.066667,
-      "lng": -124.933333
-    },
-    {
-      "cityName": "Cottonwood",
-      "lat": 53.05,
-      "lng": -122.15
-    },
-    {
-      "cityName": "Courtenay",
-      "lat": 49.683333,
-      "lng": -125
-    },
-    {
-      "cityName": "Cowichan Bay",
-      "lat": 48.733333,
-      "lng": -123.616667
-    },
-    {
-      "cityName": "Coyle",
-      "lat": 50.15,
-      "lng": -120.883333
-    },
-    {
-      "cityName": "Cracroft",
-      "lat": 50.566667,
-      "lng": -126.266667
-    },
-    {
-      "cityName": "Cranbrook",
-      "lat": 49.516667,
-      "lng": -115.766667
-    },
-    {
-      "cityName": "Crescent Valley",
-      "lat": 49.433333,
-      "lng": -117.55
-    },
-    {
-      "cityName": "Creston",
-      "lat": 49.1,
-      "lng": -116.516667
-    },
-    {
-      "cityName": "Criss Creek",
-      "lat": 51.033333,
-      "lng": -120.733333
-    },
-    {
-      "cityName": "Crofton",
-      "lat": 48.866667,
-      "lng": -123.65
-    },
-    {
-      "cityName": "Croydon Station",
-      "lat": 53.066667,
-      "lng": -119.75
-    },
-    {
-      "cityName": "Cumberland",
-      "lat": 49.616667,
-      "lng": -125.016667
-    },
-    {
-      "cityName": "Dawson Creek",
-      "lat": 55.766667,
-      "lng": -120.233333
-    },
-    {
-      "cityName": "Dease Lake",
-      "lat": 58.45,
-      "lng": -130.033333
-    },
-    {
-      "cityName": "Decker Lake",
-      "lat": 54.283333,
-      "lng": -125.833333
-    },
-    {
-      "cityName": "Defot",
-      "lat": 58.9,
-      "lng": -130.433333
-    },
-    {
-      "cityName": "Delta",
-      "lat": 49.0192,
-      "lng": -123.0867
-    },
-    {
-      "cityName": "Denman Island",
-      "lat": 49.533333,
-      "lng": -124.816667
-    },
-    {
-      "cityName": "Deroche",
-      "lat": 49.183333,
-      "lng": -122.066667
-    },
-    {
-      "cityName": "Doe River",
-      "lat": 56.016667,
-      "lng": -120.083333
-    },
-    {
-      "cityName": "Dog Creek",
-      "lat": 51.583333,
-      "lng": -122.25
-    },
-    {
-      "cityName": "Donald Landing",
-      "lat": 54.483333,
-      "lng": -125.666667
-    },
-    {
-      "cityName": "Dorreen",
-      "lat": 54.85,
-      "lng": -128.333333
-    },
-    {
-      "cityName": "Dot",
-      "lat": 50.233333,
-      "lng": -121.1
-    },
-    {
-      "cityName": "Doughty",
-      "lat": 54.95,
-      "lng": -127.316667
-    },
-    {
-      "cityName": "Douglas Lake",
-      "lat": 50.15,
-      "lng": -120.183333
-    },
-    {
-      "cityName": "Duncan Bay",
-      "lat": 50.066667,
-      "lng": -125.283333
-    },
-    {
-      "cityName": "Duncan",
-      "lat": 48.783333,
-      "lng": -123.7
-    },
-    {
-      "cityName": "Dunster",
-      "lat": 53.116667,
-      "lng": -119.833333
-    },
-    {
-      "cityName": "Eagle Harbour",
-      "lat": 49.35,
-      "lng": -123.266667
-    },
-    {
-      "cityName": "East Kelowna",
-      "lat": 49.866667,
-      "lng": -119.4
-    },
-    {
-      "cityName": "East Pine",
-      "lat": 55.716667,
-      "lng": -121.183333
-    },
-    {
-      "cityName": "Ecstew",
-      "lat": 54.4,
-      "lng": -129.1
-    },
-    {
-      "cityName": "Edgewood",
-      "lat": 49.783333,
-      "lng": -118.133333
-    },
-    {
-      "cityName": "Egnelle",
-      "lat": 58.266667,
-      "lng": -131.8
-    },
-    {
-      "cityName": "Eholt",
-      "lat": 49.15,
-      "lng": -118.566667
-    },
-    {
-      "cityName": "Elko",
-      "lat": 49.3,
+      "cityName": "Adams Landing",
+      "lat": 58.383333,
       "lng": -115.116667
     },
     {
-      "cityName": "Endako",
-      "lat": 54.083333,
-      "lng": -125.016667
-    },
-    {
-      "cityName": "Enderby",
-      "lat": 50.55,
-      "lng": -119.133333
-    },
-    {
-      "cityName": "Engen",
-      "lat": 54.016667,
-      "lng": -124.283333
-    },
-    {
-      "cityName": "Engineer",
-      "lat": 59.5,
-      "lng": -134.25
-    },
-    {
-      "cityName": "Englewood",
-      "lat": 50.55,
-      "lng": -126.883333
-    },
-    {
-      "cityName": "Esquimalt",
-      "lat": 48.433333,
-      "lng": -123.416667
-    },
-    {
-      "cityName": "Evelyn",
-      "lat": 54.883333,
-      "lng": -127.266667
-    },
-    {
-      "cityName": "Extension",
-      "lat": 49.1,
-      "lng": -123.966667
-    },
-    {
-      "cityName": "Fairmont Hot Springs",
-      "lat": 50.316667,
-      "lng": -115.866667
-    },
-    {
-      "cityName": "Falls Creek",
-      "lat": 50.066667,
-      "lng": -121.55
-    },
-    {
-      "cityName": "False Bay",
-      "lat": 49.483333,
-      "lng": -124.35
-    },
-    {
-      "cityName": "Farrell Creek",
-      "lat": 56.183333,
-      "lng": -121.583333
-    },
-    {
-      "cityName": "Fauquier",
-      "lat": 49.883333,
-      "lng": -118.083333
-    },
-    {
-      "cityName": "Fellers Heights",
-      "lat": 55.6,
-      "lng": -120.55
-    },
-    {
-      "cityName": "Ferguson",
-      "lat": 50.683333,
-      "lng": -117.483333
-    },
-    {
-      "cityName": "Fernie",
-      "lat": 49.5,
-      "lng": -115.066667
-    },
-    {
-      "cityName": "Field",
-      "lat": 51.4,
-      "lng": -116.483333
-    },
-    {
-      "cityName": "Finlay",
-      "lat": 55.983333,
-      "lng": -123.833333
-    },
-    {
-      "cityName": "Finmoore",
-      "lat": 53.983333,
-      "lng": -123.6
-    },
-    {
-      "cityName": "Firvale",
-      "lat": 52.433333,
-      "lng": -126.233333
-    },
-    {
-      "cityName": "Fishermans Cove",
-      "lat": 49.35,
-      "lng": -123.283333
-    },
-    {
-      "cityName": "Flagstone",
-      "lat": 49.066667,
-      "lng": -115.183333
-    },
-    {
-      "cityName": "Foch",
-      "lat": 50.116667,
-      "lng": -124.516667
-    },
-    {
-      "cityName": "Fontas",
-      "lat": 58.283333,
-      "lng": -121.716667
-    },
-    {
-      "cityName": "Forestdale",
-      "lat": 54.416667,
-      "lng": -126.2
-    },
-    {
-      "cityName": "Fort Fraser",
-      "lat": 54.05,
-      "lng": -124.533333
-    },
-    {
-      "cityName": "Fort Grahame",
-      "lat": 56.6,
-      "lng": -124.633333
-    },
-    {
-      "cityName": "Fort Halkett",
-      "lat": 59.55,
-      "lng": -126.483333
-    },
-    {
-      "cityName": "Fort James",
-      "lat": 54.433333,
-      "lng": -124.25
-    },
-    {
-      "cityName": "Fort McLeod",
-      "lat": 55,
-      "lng": -123.033333
-    },
-    {
-      "cityName": "Fort Nelson",
-      "lat": 58.816667,
-      "lng": -122.533333
-    },
-    {
-      "cityName": "Fort Saint John",
-      "lat": 56.25,
-      "lng": -120.833333
-    },
-    {
-      "cityName": "Fort Steele",
-      "lat": 49.616667,
-      "lng": -115.633333
-    },
-    {
-      "cityName": "Fort Ware",
-      "lat": 57.416667,
-      "lng": -125.616667
-    },
-    {
-      "cityName": "Fowler",
-      "lat": 56.833333,
-      "lng": -131.766667
-    },
-    {
-      "cityName": "Fraser",
-      "lat": 59.716667,
-      "lng": -135.05
-    },
-    {
-      "cityName": "Fraser Lake",
-      "lat": 54.05,
-      "lng": -124.783333
-    },
-    {
-      "cityName": "Fruitvale",
-      "lat": 49.116667,
-      "lng": -117.55
-    },
-    {
-      "cityName": "Fulford",
-      "lat": 48.783333,
-      "lng": -123.483333
-    },
-    {
-      "cityName": "Fulton River",
-      "lat": 54.816667,
-      "lng": -126.133333
-    },
-    {
-      "cityName": "Gabriola",
-      "lat": 49.183333,
-      "lng": -123.85
-    },
-    {
-      "cityName": "Galbraith",
-      "lat": 59.533333,
-      "lng": -132.083333
-    },
-    {
-      "cityName": "Galena",
-      "lat": 50.9,
-      "lng": -116.366667
-    },
-    {
-      "cityName": "Ganges",
-      "lat": 48.85,
-      "lng": -123.516667
-    },
-    {
-      "cityName": "Gang Ranch",
-      "lat": 51.55,
-      "lng": -122.316667
-    },
-    {
-      "cityName": "Garibaldi",
-      "lat": 49.966667,
-      "lng": -123.15
-    },
-    {
-      "cityName": "Germansen Landing",
-      "lat": 55.783333,
-      "lng": -124.7
-    },
-    {
-      "cityName": "Gerrard",
-      "lat": 50.516667,
-      "lng": -117.283333
-    },
-    {
-      "cityName": "Gibsons",
-      "lat": 49.4,
-      "lng": -123.5
-    },
-    {
-      "cityName": "Glacier",
+      "cityName": "Airdrie",
       "lat": 51.266667,
-      "lng": -117.516667
+      "lng": -114.016667
     },
     {
-      "cityName": "Glendale Cove",
-      "lat": 50.683333,
-      "lng": -125.7
+      "cityName": "Albright",
+      "lat": 55.266667,
+      "lng": -119.5
     },
     {
-      "cityName": "Glenora",
-      "lat": 57.833333,
-      "lng": -131.4
+      "cityName": "Alderson",
+      "lat": 50.283333,
+      "lng": -111.35
     },
     {
-      "cityName": "Goat River",
-      "lat": 53.533333,
-      "lng": -120.583333
+      "cityName": "Alexo",
+      "lat": 52.466667,
+      "lng": -115.783333
     },
     {
-      "cityName": "Gold Bar",
-      "lat": 56.083333,
-      "lng": -122.75
+      "cityName": "Alix",
+      "lat": 52.4,
+      "lng": -113.183333
     },
     {
-      "cityName": "Gold Bridge",
-      "lat": 50.85,
-      "lng": -122.85
+      "cityName": "Alliance",
+      "lat": 52.433333,
+      "lng": -111.783333
     },
     {
-      "cityName": "Golden",
-      "lat": 51.3,
-      "lng": -116.966667
+      "cityName": "Alpen",
+      "lat": 54.426111,
+      "lng": -112.923611
     },
     {
-      "cityName": "Goldstream",
-      "lat": 48.45,
-      "lng": -123.533333
+      "cityName": "Alpen Siding",
+      "lat": 54.4275,
+      "lng": -112.954722
     },
     {
-      "cityName": "Grand Forks",
-      "lat": 49.05,
-      "lng": -118.466667
+      "cityName": "Amber Valley",
+      "lat": 54.733333,
+      "lng": -112.930833
     },
     {
-      "cityName": "Granite Bay",
-      "lat": 50.233333,
-      "lng": -125.283333
+      "cityName": "Amesbury",
+      "lat": 55.081944,
+      "lng": -112.496667
     },
     {
-      "cityName": "Granthams Landing",
-      "lat": 49.416667,
-      "lng": -123.5
-    },
-    {
-      "cityName": "Grassy Plains",
-      "lat": 53.95,
-      "lng": -125.883333
-    },
-    {
-      "cityName": "Gray Creek",
-      "lat": 49.616667,
-      "lng": -116.8
-    },
-    {
-      "cityName": "Great Central",
-      "lat": 49.316667,
-      "lng": -124.983333
-    },
-    {
-      "cityName": "Greenslide",
-      "lat": 50.883333,
-      "lng": -118.1
-    },
-    {
-      "cityName": "Greenwood",
-      "lat": 49.133333,
-      "lng": -118.683333
-    },
-    {
-      "cityName": "Grindrod",
-      "lat": 50.633333,
-      "lng": -119.116667
-    },
-    {
-      "cityName": "Groundbirch",
-      "lat": 55.783333,
-      "lng": -120.916667
-    },
-    {
-      "cityName": "Hagensborg",
-      "lat": 52.383333,
-      "lng": -126.566667
-    },
-    {
-      "cityName": "Haida",
-      "lat": 53.333333,
-      "lng": -131.95
-    },
-    {
-      "cityName": "Halcyon",
-      "lat": 50.516667,
-      "lng": -117.9
-    },
-    {
-      "cityName": "Hale",
-      "lat": 59.6,
-      "lng": -134.3
-    },
-    {
-      "cityName": "Halfmoon Bay",
-      "lat": 49.516667,
-      "lng": -123.916667
-    },
-    {
-      "cityName": "Hanceville",
-      "lat": 51.916667,
-      "lng": -123.033333
-    },
-    {
-      "cityName": "Harmac",
-      "lat": 49.133333,
-      "lng": -123.85
-    },
-    {
-      "cityName": "Hartley Bay",
-      "lat": 53.433333,
-      "lng": -129.266667
-    },
-    {
-      "cityName": "Haysport",
-      "lat": 54.183333,
-      "lng": -130.016667
-    },
-    {
-      "cityName": "Hazelton",
-      "lat": 55.25,
-      "lng": -127.666667
-    },
-    {
-      "cityName": "Headquarters",
-      "lat": 49.766667,
-      "lng": -125.1
-    },
-    {
-      "cityName": "Hecate",
-      "lat": 49.85,
-      "lng": -126.75
-    },
-    {
-      "cityName": "Hedley",
-      "lat": 49.35,
-      "lng": -120.083333
-    },
-    {
-      "cityName": "Hillier",
-      "lat": 49.3,
-      "lng": -124.483333
-    },
-    {
-      "cityName": "Hixon",
-      "lat": 53.4,
-      "lng": -122.566667
-    },
-    {
-      "cityName": "Holberg",
-      "lat": 50.65,
-      "lng": -128.016667
-    },
-    {
-      "cityName": "Hollyburn",
-      "lat": 49.333333,
-      "lng": -123.166667
-    },
-    {
-      "cityName": "Hope",
-      "lat": 49.383333,
-      "lng": -121.433333
-    },
-    {
-      "cityName": "Hopkins Landing",
-      "lat": 49.433333,
-      "lng": -123.483333
-    },
-    {
-      "cityName": "Horsefly",
-      "lat": 52.333333,
-      "lng": -121.416667
-    },
-    {
-      "cityName": "Hosmer",
-      "lat": 49.583333,
-      "lng": -114.966667
-    },
-    {
-      "cityName": "Houston",
-      "lat": 54.4,
-      "lng": -126.65
-    },
-    {
-      "cityName": "Howser",
-      "lat": 50.316667,
-      "lng": -116.95
-    },
-    {
-      "cityName": "Hudson Hope",
-      "lat": 56.033333,
-      "lng": -121.916667
-    },
-    {
-      "cityName": "Hunts Inlet",
-      "lat": 54.066667,
-      "lng": -130.45
-    },
-    {
-      "cityName": "Hutton",
-      "lat": 53.983333,
-      "lng": -121.616667
-    },
-    {
-      "cityName": "Hydraulic",
-      "lat": 52.616667,
-      "lng": -121.7
-    },
-    {
-      "cityName": "Hyland Post",
-      "lat": 57.65,
-      "lng": -128.2
-    },
-    {
-      "cityName": "Inklin",
-      "lat": 58.9,
-      "lng": -133.133333
-    },
-    {
-      "cityName": "Invermere",
-      "lat": 50.5,
-      "lng": -116.033333
-    },
-    {
-      "cityName": "Ioco",
-      "lat": 49.3,
-      "lng": -122.866667
-    },
-    {
-      "cityName": "Irvines Landing",
-      "lat": 49.616667,
-      "lng": -124.033333
-    },
-    {
-      "cityName": "Isle Pierre",
-      "lat": 53.95,
-      "lng": -123.266667
-    },
-    {
-      "cityName": "Isnardy",
-      "lat": 52.05,
-      "lng": -122.266667
-    },
-    {
-      "cityName": "Jackson Bay",
-      "lat": 50.516667,
-      "lng": -125.75
-    },
-    {
-      "cityName": "Jacksons Landing",
-      "lat": 57.616667,
-      "lng": -131.683333
-    },
-    {
-      "cityName": "Jedway",
-      "lat": 52.3,
-      "lng": -131.216667
-    },
-    {
-      "cityName": "Jeune Landing",
-      "lat": 50.433333,
-      "lng": -127.483333
-    },
-    {
-      "cityName": "Kakawis",
-      "lat": 49.183333,
-      "lng": -125.916667
-    },
-    {
-      "cityName": "Kamloops",
-      "lat": 50.666667,
-      "lng": -120.333333
-    },
-    {
-      "cityName": "Kaslo",
-      "lat": 49.91,
-      "lng": -116.92
-    },
-    {
-      "cityName": "Keithley Creek",
-      "lat": 52.75,
-      "lng": -121.416667
-    },
-    {
-      "cityName": "Kelly Lake",
-      "lat": 51.016667,
-      "lng": -121.783333
-    },
-    {
-      "cityName": "Kelowna",
-      "lat": 49.9,
-      "lng": -119.483333
-    },
-    {
-      "cityName": "Kelsey Bay",
-      "lat": 50.4,
-      "lng": -125.966667
-    },
-    {
-      "cityName": "Keremeos",
-      "lat": 49.2,
-      "lng": -119.816667
-    },
-    {
-      "cityName": "Kildonan",
-      "lat": 49.016667,
-      "lng": -125
-    },
-    {
-      "cityName": "Kimberley",
-      "lat": 49.683333,
-      "lng": -115.983333
-    },
-    {
-      "cityName": "Kincolith",
-      "lat": 55,
-      "lng": -129.95
-    },
-    {
-      "cityName": "Kingcome Inlet",
-      "lat": 50.95,
-      "lng": -126.2
-    },
-    {
-      "cityName": "Kinnaird",
-      "lat": 49.283333,
-      "lng": -117.65
-    },
-    {
-      "cityName": "Kisgegas",
-      "lat": 55.7,
-      "lng": -127.566667
-    },
-    {
-      "cityName": "Kispiox",
-      "lat": 55.35,
-      "lng": -127.683333
-    },
-    {
-      "cityName": "Kitamaat",
-      "lat": 54,
-      "lng": -128.7
-    },
-    {
-      "cityName": "Kitchener",
-      "lat": 49.15,
-      "lng": -116.333333
-    },
-    {
-      "cityName": "Kitimat Mission",
-      "lat": 53.966667,
-      "lng": -128.65
-    },
-    {
-      "cityName": "Kitwanga",
-      "lat": 55.1,
-      "lng": -128.066667
-    },
-    {
-      "cityName": "Kleena Kleene",
-      "lat": 51.966667,
-      "lng": -124.983333
-    },
-    {
-      "cityName": "Kootenay Junction",
-      "lat": 49.25,
-      "lng": -116.683333
-    },
-    {
-      "cityName": "Kuldo",
-      "lat": 55.933333,
-      "lng": -127.883333
-    },
-    {
-      "cityName": "Ladner",
-      "lat": 49.083333,
-      "lng": -123.083333
-    },
-    {
-      "cityName": "Ladysmith",
-      "lat": 48.983333,
-      "lng": -123.816667
-    },
-    {
-      "cityName": "Lake Cowichan",
-      "lat": 48.816667,
-      "lng": -124.033333
-    },
-    {
-      "cityName": "Lakelse",
-      "lat": 54.366667,
-      "lng": -128.55
-    },
-    {
-      "cityName": "Laketon",
-      "lat": 58.7,
-      "lng": -130.1
-    },
-    {
-      "cityName": "Lake Windermere",
-      "lat": 50.466667,
-      "lng": -115.966667
-    },
-    {
-      "cityName": "Lamèque",
-      "lat": 47.783333,
-      "lng": -64.633333
-    },
-    {
-      "cityName": "Langford Station",
-      "lat": 48.45,
-      "lng": -123.5
-    },
-    {
-      "cityName": "Langley",
-      "lat": 49.1,
-      "lng": -122.65
-    },
-    {
-      "cityName": "Lardeau",
-      "lat": 50.15,
-      "lng": -116.983333
-    },
-    {
-      "cityName": "Lawnhill",
-      "lat": 53.4,
-      "lng": -131.916667
-    },
-    {
-      "cityName": "Leanchoil",
-      "lat": 51.216667,
-      "lng": -116.616667
-    },
-    {
-      "cityName": "Lemieux",
-      "lat": 59.916667,
-      "lng": -133.116667
-    },
-    {
-      "cityName": "Lempriere",
-      "lat": 52.45,
-      "lng": -119.133333
-    },
-    {
-      "cityName": "Leon",
-      "lat": 50.433333,
-      "lng": -117.9
-    },
-    {
-      "cityName": "Lily Lake",
+      "cityName": "Andrew",
       "lat": 53.883333,
-      "lng": -124.566667
+      "lng": -112.333333
     },
     {
-      "cityName": "Little Fort",
-      "lat": 51.433333,
-      "lng": -120.2
+      "cityName": "Ardmore",
+      "lat": 54.332222,
+      "lng": -110.477222
     },
     {
-      "cityName": "Little Prairie",
-      "lat": 55.7,
-      "lng": -121.616667
+      "cityName": "Ardrossan",
+      "lat": 53.55,
+      "lng": -113.133333
     },
     {
-      "cityName": "Lockeport",
-      "lat": 52.716667,
-      "lng": -131.833333
+      "cityName": "Ashmont",
+      "lat": 54.129722,
+      "lng": -111.568056
     },
     {
-      "cityName": "Logan Lake",
-      "lat": 50.48,
-      "lng": -120.81
+      "cityName": "Askow",
+      "lat": 49.933333,
+      "lng": -111.7
     },
     {
-      "cityName": "Longworth",
-      "lat": 53.933333,
-      "lng": -121.466667
+      "cityName": "Athabasca",
+      "lat": 54.716667,
+      "lng": -113.266667
     },
     {
-      "cityName": "Loos",
-      "lat": 53.6,
-      "lng": -120.716667
+      "cityName": "Atikameg",
+      "lat": 55.916667,
+      "lng": -115.65
     },
     {
-      "cityName": "Lower Post",
-      "lat": 59.916667,
-      "lng": -128.5
+      "cityName": "Atlee",
+      "lat": 50.85,
+      "lng": -110.95
     },
     {
-      "cityName": "Lucerne",
-      "lat": 52.866667,
-      "lng": -118.55
+      "cityName": "Atmore",
+      "lat": 54.819444,
+      "lng": -112.548056
     },
     {
-      "cityName": "Lumby",
-      "lat": 50.25,
-      "lng": -118.966667
+      "cityName": "Avenir",
+      "lat": 55.037778,
+      "lng": -112.279722
     },
     {
-      "cityName": "Lund",
+      "cityName": "Balzac",
+      "lat": 51.216667,
+      "lng": -114.016667
+    },
+    {
+      "cityName": "Banff",
+      "lat": 51.166667,
+      "lng": -115.566667
+    },
+    {
+      "cityName": "Barich",
+      "lat": 54.180833,
+      "lng": -112.626944
+    },
+    {
+      "cityName": "Barons",
       "lat": 49.983333,
-      "lng": -124.766667
+      "lng": -113.083333
     },
     {
-      "cityName": "Lynn Creek",
-      "lat": 49.35,
-      "lng": -123.033333
+      "cityName": "Barrhead",
+      "lat": 54.116667,
+      "lng": -114.4
     },
     {
-      "cityName": "Lytton",
-      "lat": 50.233333,
-      "lng": -121.566667
+      "cityName": "Bashaw",
+      "lat": 52.583333,
+      "lng": -112.966667
     },
     {
-      "cityName": "Mabel Lake",
-      "lat": 50.383333,
-      "lng": -118.783333
+      "cityName": "Bassano",
+      "lat": 50.783333,
+      "lng": -112.466667
     },
     {
-      "cityName": "Macalister",
-      "lat": 52.45,
-      "lng": -122.416667
+      "cityName": "Beacon Corner",
+      "lat": 54.181389,
+      "lng": -111.151389
     },
     {
-      "cityName": "Mackenzie",
-      "lat": 55.33,
-      "lng": -123.09
+      "cityName": "Beaumont",
+      "lat": 53.37,
+      "lng": -113.41
     },
     {
-      "cityName": "Malakwa",
-      "lat": 50.933333,
-      "lng": -118.783333
+      "cityName": "Beaver Crossing",
+      "lat": 54.361944,
+      "lng": -110.205833
     },
     {
-      "cityName": "Mamette Lake",
-      "lat": 50.416667,
-      "lng": -120.816667
+      "cityName": "Beaverdam",
+      "lat": 54.203611,
+      "lng": -110.306667
     },
     {
-      "cityName": "Manson Creek",
-      "lat": 55.666667,
-      "lng": -124.5
+      "cityName": "Beaver Lake",
+      "lat": 54.759722,
+      "lng": -111.9125
     },
     {
-      "cityName": "Mansons Landing",
-      "lat": 50.066667,
-      "lng": -124.983333
+      "cityName": "Beaverlodge",
+      "lat": 55.2,
+      "lng": -119.45
     },
     {
-      "cityName": "Mapes",
-      "lat": 53.866667,
-      "lng": -123.9
+      "cityName": "Beaver River",
+      "lat": 54.37,
+      "lng": -110.270833
     },
     {
-      "cityName": "Maple Ridge",
-      "lat": 49.25,
-      "lng": -122.5
+      "cityName": "Beiseker",
+      "lat": 51.383333,
+      "lng": -113.533333
     },
     {
-      "cityName": "Margaret Bay",
-      "lat": 51.316667,
-      "lng": -127.5
+      "cityName": "Bellevue",
+      "lat": 49.583333,
+      "lng": -114.366667
     },
     {
-      "cityName": "Marilla",
-      "lat": 53.683333,
-      "lng": -125.833333
+      "cityName": "Bellis",
+      "lat": 54.143056,
+      "lng": -112.151111
     },
     {
-      "cityName": "Marysville",
-      "lat": 49.633333,
-      "lng": -115.95
+      "cityName": "Belloy",
+      "lat": 55.75,
+      "lng": -118.233333
     },
     {
-      "cityName": "Masset",
-      "lat": 54.016667,
-      "lng": -132.15
+      "cityName": "Benalto",
+      "lat": 52.3,
+      "lng": -114.283333
     },
     {
-      "cityName": "Mayne",
-      "lat": 48.85,
-      "lng": -123.3
+      "cityName": "Bentley",
+      "lat": 52.466667,
+      "lng": -114.05
     },
     {
-      "cityName": "Mazama",
-      "lat": 49.716667,
-      "lng": -120.133333
+      "cityName": "Benton",
+      "lat": 51.35,
+      "lng": -110.333333
     },
     {
-      "cityName": "McBride",
-      "lat": 53.3,
-      "lng": -120.166667
+      "cityName": "Bergen",
+      "lat": 51.7,
+      "lng": -114.633333
     },
     {
-      "cityName": "McConnell Creek",
-      "lat": 56.883333,
-      "lng": -126.5
+      "cityName": "Berwyn",
+      "lat": 56.15,
+      "lng": -117.75
     },
     {
-      "cityName": "McDame Creek",
-      "lat": 59.183333,
-      "lng": -129.233333
+      "cityName": "Beverly",
+      "lat": 53.566667,
+      "lng": -113.4
     },
     {
-      "cityName": "McGillivray Falls",
-      "lat": 50.616667,
-      "lng": -122.433333
+      "cityName": "Bickerdike",
+      "lat": 53.55,
+      "lng": -116.633333
     },
     {
-      "cityName": "McMurdo",
-      "lat": 51.15,
-      "lng": -116.766667
+      "cityName": "Big Meadow",
+      "lat": 54.395556,
+      "lng": -110.653889
     },
     {
-      "cityName": "McMurphy",
-      "lat": 51.666667,
-      "lng": -119.516667
+      "cityName": "Big Valley",
+      "lat": 52.033333,
+      "lng": -112.75
     },
     {
-      "cityName": "Merrit",
-      "lat": 50.116667,
-      "lng": -120.783333
+      "cityName": "Bilby",
+      "lat": 53.7,
+      "lng": -114.1
     },
     {
-      "cityName": "Merville",
-      "lat": 49.783333,
-      "lng": -125.066667
+      "cityName": "Bindloss",
+      "lat": 50.883333,
+      "lng": -110.266667
     },
     {
-      "cityName": "Metchosin",
-      "lat": 48.366667,
-      "lng": -123.533333
+      "cityName": "Bittern Lake",
+      "lat": 53,
+      "lng": -113.05
     },
     {
-      "cityName": "Methlakahtla",
-      "lat": 54.333333,
-      "lng": -130.45
+      "cityName": "Bitumount",
+      "lat": 57.383333,
+      "lng": -111.633333
     },
     {
-      "cityName": "Middle River Village",
-      "lat": 54.866667,
-      "lng": -125.133333
+      "cityName": "Black Diamond",
+      "lat": 50.7,
+      "lng": -114.233333
     },
     {
-      "cityName": "Midway",
+      "cityName": "Blackfalds",
+      "lat": 52.383333,
+      "lng": -113.8
+    },
+    {
+      "cityName": "Blackie",
+      "lat": 50.6,
+      "lng": -113.616667
+    },
+    {
+      "cityName": "Blairmore",
+      "lat": 49.6,
+      "lng": -114.433333
+    },
+    {
+      "cityName": "Blue Jay",
+      "lat": 54.879722,
+      "lng": -112.5225
+    },
+    {
+      "cityName": "Blue Ridge",
+      "lat": 54.116667,
+      "lng": -115.383333
+    },
+    {
+      "cityName": "Bluesky",
+      "lat": 56.066667,
+      "lng": -118.25
+    },
+    {
+      "cityName": "Bluffton",
+      "lat": 52.75,
+      "lng": -114.283333
+    },
+    {
+      "cityName": "Bodo",
+      "lat": 52.15,
+      "lng": -110.083333
+    },
+    {
+      "cityName": "Bon Accord",
+      "lat": 53.833333,
+      "lng": -113.416667
+    },
+    {
+      "cityName": "Bondiss",
+      "lat": 54.595278,
+      "lng": -112.701944
+    },
+    {
+      "cityName": "Bonnyville Beach",
+      "lat": 54.229722,
+      "lng": -110.862778
+    },
+    {
+      "cityName": "Bonnyville",
+      "lat": 54.267778,
+      "lng": -110.750833
+    },
+    {
+      "cityName": "Boscombe",
+      "lat": 54.152778,
+      "lng": -111.43
+    },
+    {
+      "cityName": "Bowden",
+      "lat": 51.916667,
+      "lng": -114.033333
+    },
+    {
+      "cityName": "Bow Island",
+      "lat": 49.866667,
+      "lng": -111.366667
+    },
+    {
+      "cityName": "Bowness",
+      "lat": 51.083333,
+      "lng": -114.166667
+    },
+    {
+      "cityName": "Boyle",
+      "lat": 54.590833,
+      "lng": -112.809167
+    },
+    {
+      "cityName": "Brazeau",
+      "lat": 52.466667,
+      "lng": -116.083333
+    },
+    {
+      "cityName": "Bretona",
+      "lat": 53.433333,
+      "lng": -113.333333
+    },
+    {
+      "cityName": "Breton",
+      "lat": 53.116667,
+      "lng": -114.483333
+    },
+    {
+      "cityName": "Breynat",
+      "lat": 55.141111,
+      "lng": -112.493611
+    },
+    {
+      "cityName": "Briereville",
+      "lat": 54.472778,
+      "lng": -111.773889
+    },
+    {
+      "cityName": "Brocket",
+      "lat": 49.55,
+      "lng": -113.766667
+    },
+    {
+      "cityName": "Brooks",
+      "lat": 50.566667,
+      "lng": -111.9
+    },
+    {
+      "cityName": "Brownvale",
+      "lat": 56.116667,
+      "lng": -117.9
+    },
+    {
+      "cityName": "Bruederheim",
+      "lat": 53.8,
+      "lng": -112.916667
+    },
+    {
+      "cityName": "Buffalo",
+      "lat": 50.8,
+      "lng": -110.683333
+    },
+    {
+      "cityName": "Busby",
+      "lat": 53.95,
+      "lng": -113.9
+    },
+    {
+      "cityName": "Calgary",
+      "lat": 51.083333,
+      "lng": -114.083333
+    },
+    {
+      "cityName": "Calling Lake",
+      "lat": 55.25,
+      "lng": -113.2
+    },
+    {
+      "cityName": "Calling River",
+      "lat": 55.091667,
+      "lng": -112.887778
+    },
+    {
+      "cityName": "Calmar",
+      "lat": 53.25,
+      "lng": -113.783333
+    },
+    {
+      "cityName": "Camrose",
+      "lat": 53.016667,
+      "lng": -112.816667
+    },
+    {
+      "cityName": "Canmore",
+      "lat": 51.1,
+      "lng": -115.35
+    },
+    {
+      "cityName": "Carbondale",
+      "lat": 53.75,
+      "lng": -113.533333
+    },
+    {
+      "cityName": "Cardston",
+      "lat": 49.2,
+      "lng": -113.316667
+    },
+    {
+      "cityName": "Caroline",
+      "lat": 52.083333,
+      "lng": -114.75
+    },
+    {
+      "cityName": "Carseland",
+      "lat": 50.85,
+      "lng": -113.466667
+    },
+    {
+      "cityName": "Carstairs",
+      "lat": 51.533333,
+      "lng": -114.1
+    },
+    {
+      "cityName": "Carway",
       "lat": 49.016667,
-      "lng": -118.783333
+      "lng": -113.383333
     },
     {
-      "cityName": "Minstrel Island",
-      "lat": 50.616667,
-      "lng": -126.316667
+      "cityName": "Caslan",
+      "lat": 54.631667,
+      "lng": -112.511667
     },
     {
-      "cityName": "Miocene",
-      "lat": 52.266667,
-      "lng": -121.683333
+      "cityName": "Cassils",
+      "lat": 50.583333,
+      "lng": -112.05
     },
     {
-      "cityName": "Mission City",
-      "lat": 49.133333,
-      "lng": -122.3
+      "cityName": "Castle Junction",
+      "lat": 51.266667,
+      "lng": -115.916667
     },
     {
-      "cityName": "Moberly Lake",
-      "lat": 55.833333,
-      "lng": -121.733333
+      "cityName": "Castor",
+      "lat": 52.216667,
+      "lng": -111.9
     },
     {
-      "cityName": "Moha",
-      "lat": 50.866667,
-      "lng": -122.183333
+      "cityName": "Cavendish",
+      "lat": 50.816667,
+      "lng": -110.466667
     },
     {
-      "cityName": "Monte Creek",
-      "lat": 50.65,
+      "cityName": "Cayley",
+      "lat": 50.45,
+      "lng": -113.85
+    },
+    {
+      "cityName": "Cereal",
+      "lat": 51.416667,
+      "lng": -110.8
+    },
+    {
+      "cityName": "Champion",
+      "lat": 50.216667,
+      "lng": -113.15
+    },
+    {
+      "cityName": "Chard",
+      "lat": 55.846111,
+      "lng": -110.907222
+    },
+    {
+      "cityName": "Chauvin",
+      "lat": 52.683333,
+      "lng": -110.133333
+    },
+    {
+      "cityName": "Cheadle",
+      "lat": 51.016667,
+      "lng": -113.533333
+    },
+    {
+      "cityName": "Cherhill",
+      "lat": 53.816667,
+      "lng": -114.666667
+    },
+    {
+      "cityName": "Cherry Grove",
+      "lat": 54.355,
+      "lng": -110.08
+    },
+    {
+      "cityName": "Cherry Point",
+      "lat": 56.183333,
       "lng": -119.95
     },
     {
-      "cityName": "Montney",
-      "lat": 56.45,
-      "lng": -120.916667
+      "cityName": "Chestermere",
+      "lat": 51.03,
+      "lng": -113.83
     },
     {
-      "cityName": "Mooyie",
-      "lat": 49.283333,
-      "lng": -115.833333
+      "cityName": "Chin",
+      "lat": 49.766667,
+      "lng": -112.45
     },
     {
-      "cityName": "Moricetown",
-      "lat": 55.033333,
-      "lng": -127.333333
-    },
-    {
-      "cityName": "Mount Robson",
-      "lat": 53.016667,
-      "lng": -119.233333
-    },
-    {
-      "cityName": "Mud River",
-      "lat": 53.766667,
-      "lng": -123.05
-    },
-    {
-      "cityName": "Murdale",
-      "lat": 56.533333,
-      "lng": -121
-    },
-    {
-      "cityName": "Muskwa",
-      "lat": 58.8,
-      "lng": -122.666667
-    },
-    {
-      "cityName": "Nadina River",
-      "lat": 53.966667,
-      "lng": -126.516667
-    },
-    {
-      "cityName": "Nadu",
-      "lat": 53.85,
-      "lng": -132.116667
-    },
-    {
-      "cityName": "Nahlin",
-      "lat": 58.883333,
-      "lng": -131.75
-    },
-    {
-      "cityName": "Nakina",
-      "lat": 59.2,
-      "lng": -132.8
-    },
-    {
-      "cityName": "Nakusp",
-      "lat": 50.233333,
-      "lng": -117.8
-    },
-    {
-      "cityName": "Namu",
-      "lat": 51.866667,
-      "lng": -127.866667
-    },
-    {
-      "cityName": "Nancut",
-      "lat": 54.6,
-      "lng": -125.083333
-    },
-    {
-      "cityName": "Nanoose Bay",
-      "lat": 49.25,
-      "lng": -124.183333
-    },
-    {
-      "cityName": "Nass Harbour",
-      "lat": 54.933333,
-      "lng": -129.933333
-    },
-    {
-      "cityName": "Natal",
-      "lat": 49.733333,
-      "lng": -114.85
-    },
-    {
-      "cityName": "Nazko",
-      "lat": 53,
-      "lng": -123.616667
-    },
-    {
-      "cityName": "Nechacco",
-      "lat": 53.916667,
-      "lng": -124.166667
-    },
-    {
-      "cityName": "Needles",
-      "lat": 49.883333,
-      "lng": -118.116667
-    },
-    {
-      "cityName": "Nelson Forks",
-      "lat": 59.483333,
-      "lng": -124.016667
-    },
-    {
-      "cityName": "Nelson",
-      "lat": 49.483333,
-      "lng": -117.283333
-    },
-    {
-      "cityName": "New Denver",
-      "lat": 49.983333,
-      "lng": -117.366667
-    },
-    {
-      "cityName": "Newgate",
-      "lat": 49,
-      "lng": -115.166667
-    },
-    {
-      "cityName": "New Hazelton",
-      "lat": 55.25,
-      "lng": -127.583333
-    },
-    {
-      "cityName": "Newlands Station",
-      "lat": 54.116667,
-      "lng": -122.216667
-    },
-    {
-      "cityName": "New Westminster",
-      "lat": 49.216667,
-      "lng": -122.916667
-    },
-    {
-      "cityName": "Nig Creek",
-      "lat": 57.133333,
-      "lng": -121.3
-    },
-    {
-      "cityName": "Nithi River",
-      "lat": 53.983333,
-      "lng": -124.966667
-    },
-    {
-      "cityName": "Nodales",
-      "lat": 50.366667,
-      "lng": -125.316667
-    },
-    {
-      "cityName": "Nootka",
-      "lat": 49.6,
-      "lng": -126.633333
-    },
-    {
-      "cityName": "Noralee",
-      "lat": 53.983333,
-      "lng": -126.433333
-    },
-    {
-      "cityName": "North Bend",
-      "lat": 49.883333,
-      "lng": -121.466667
-    },
-    {
-      "cityName": "North Kamloops",
-      "lat": 50.683333,
-      "lng": -120.366667
-    },
-    {
-      "cityName": "North Pine",
+      "cityName": "Chinook Valley",
       "lat": 56.433333,
-      "lng": -120.783333
+      "lng": -117.6
     },
     {
-      "cityName": "North Saanich",
-      "lat": 48.7,
-      "lng": -123.45
+      "cityName": "Chipewyan",
+      "lat": 58.716667,
+      "lng": -111.15
     },
     {
-      "cityName": "North Surrey",
-      "lat": 49.2,
-      "lng": -122.85
+      "cityName": "Chip Lake",
+      "lat": 53.616667,
+      "lng": -115.45
     },
     {
-      "cityName": "North Vancouver",
-      "lat": 49.316667,
-      "lng": -123.066667
+      "cityName": "Chipman",
+      "lat": 53.7,
+      "lng": -112.633333
     },
     {
-      "cityName": "Oak Bay",
-      "lat": 48.433333,
-      "lng": -123.316667
+      "cityName": "Chisholm",
+      "lat": 54.916667,
+      "lng": -114.166667
     },
     {
-      "cityName": "O'Brian Bay",
-      "lat": 50.916667,
-      "lng": -126.866667
+      "cityName": "Clairmont",
+      "lat": 55.266667,
+      "lng": -118.8
     },
     {
-      "cityName": "Ocean Falls",
-      "lat": 52.35,
-      "lng": -127.7
+      "cityName": "Clandonald",
+      "lat": 53.583333,
+      "lng": -110.716667
     },
     {
-      "cityName": "Ochiltree",
-      "lat": 52.233333,
-      "lng": -121.8
+      "cityName": "Claresholm",
+      "lat": 50.033333,
+      "lng": -113.583333
     },
     {
-      "cityName": "Okanagan Landing",
-      "lat": 50.233333,
-      "lng": -119.366667
+      "cityName": "Clear Hills",
+      "lat": 56.533333,
+      "lng": -117.883333
     },
     {
-      "cityName": "Okanagan",
-      "lat": 50.366667,
-      "lng": -119.35
+      "cityName": "Clear Prairie",
+      "lat": 56.583333,
+      "lng": -119.5
     },
     {
-      "cityName": "Old Fort",
-      "lat": 55.05,
-      "lng": -126.316667
+      "cityName": "Clive",
+      "lat": 52.483333,
+      "lng": -113.45
     },
     {
-      "cityName": "Old Hogem",
-      "lat": 55.766667,
-      "lng": -125.95
+      "cityName": "Coaldale",
+      "lat": 49.733333,
+      "lng": -112.616667
     },
     {
-      "cityName": "Oliver",
-      "lat": 49.183333,
-      "lng": -119.55
+      "cityName": "Coalspar",
+      "lat": 53.183333,
+      "lng": -117.016667
     },
     {
-      "cityName": "One Hundred Fifty Mile House",
-      "lat": 52.116667,
-      "lng": -121.933333
+      "cityName": "Cochrane",
+      "lat": 51.2,
+      "lng": -114.45
     },
     {
-      "cityName": "One Hundred Mile House",
-      "lat": 51.65,
-      "lng": -121.283333
+      "cityName": "Cold Lake",
+      "lat": 54.465,
+      "lng": -110.183056
     },
     {
-      "cityName": "Oona River",
-      "lat": 53.95,
-      "lng": -130.25
+      "cityName": "Coleman",
+      "lat": 49.633333,
+      "lng": -114.5
     },
     {
-      "cityName": "Ootischenia",
-      "lat": 49.283333,
-      "lng": -117.616667
+      "cityName": "Compeer",
+      "lat": 51.866667,
+      "lng": -110.016667
     },
     {
-      "cityName": "Ootsa Lake",
-      "lat": 53.783333,
-      "lng": -126.033333
+      "cityName": "Conklin",
+      "lat": 55.6325,
+      "lng": -111.082778
     },
     {
-      "cityName": "Osland",
-      "lat": 54.133333,
-      "lng": -130.166667
+      "cityName": "Connelly",
+      "lat": 53.183333,
+      "lng": -110.783333
     },
     {
-      "cityName": "Osoyoos",
-      "lat": 49.033333,
-      "lng": -119.466667
+      "cityName": "Consort",
+      "lat": 52.016667,
+      "lng": -110.8
     },
     {
-      "cityName": "Oyama",
-      "lat": 50.116667,
-      "lng": -119.383333
+      "cityName": "Coronation",
+      "lat": 52.083333,
+      "lng": -111.45
     },
     {
-      "cityName": "Pacific",
-      "lat": 54.766667,
-      "lng": -128.283333
+      "cityName": "Coutts",
+      "lat": 49,
+      "lng": -111.95
     },
     {
-      "cityName": "Pacofi",
-      "lat": 52.85,
-      "lng": -131.883333
+      "cityName": "Cowley",
+      "lat": 49.566667,
+      "lng": -114.066667
     },
     {
-      "cityName": "Palling",
-      "lat": 54.35,
-      "lng": -125.916667
+      "cityName": "Craigend",
+      "lat": 54.595833,
+      "lng": -111.921111
     },
     {
-      "cityName": "Parksville",
-      "lat": 49.3,
-      "lng": -124.316667
+      "cityName": "Craigmyle",
+      "lat": 51.666667,
+      "lng": -112.233333
     },
     {
-      "cityName": "Parson",
-      "lat": 51.066667,
-      "lng": -116.65
-    },
-    {
-      "cityName": "Pavilion",
-      "lat": 50.866667,
-      "lng": -121.833333
-    },
-    {
-      "cityName": "Peachland",
-      "lat": 49.766667,
-      "lng": -119.75
-    },
-    {
-      "cityName": "Pemberton Meadows",
-      "lat": 50.416667,
-      "lng": -122.916667
-    },
-    {
-      "cityName": "Pemberton",
-      "lat": 50.316667,
-      "lng": -122.816667
-    },
-    {
-      "cityName": "Pennington",
-      "lat": 59.966667,
-      "lng": -134.9
-    },
-    {
-      "cityName": "Penny",
-      "lat": 53.833333,
-      "lng": -121.266667
-    },
-    {
-      "cityName": "Penticton",
-      "lat": 49.5,
-      "lng": -119.583333
-    },
-    {
-      "cityName": "Perow",
-      "lat": 54.516667,
-      "lng": -126.433333
-    },
-    {
-      "cityName": "Pike",
-      "lat": 59.333333,
-      "lng": -133.616667
-    },
-    {
-      "cityName": "Pinantan",
-      "lat": 50.733333,
-      "lng": -119.966667
-    },
-    {
-      "cityName": "Pinchi",
-      "lat": 54.566667,
-      "lng": -124.483333
-    },
-    {
-      "cityName": "Pine Valley",
-      "lat": 56.016667,
-      "lng": -120.616667
-    },
-    {
-      "cityName": "Pitt Meadows",
-      "lat": 49.233333,
-      "lng": -122.683333
-    },
-    {
-      "cityName": "Poplar Creek",
-      "lat": 50.416667,
-      "lng": -117.133333
-    },
-    {
-      "cityName": "Port Alberni",
-      "lat": 49.233333,
-      "lng": -124.8
-    },
-    {
-      "cityName": "Port Alice",
-      "lat": 50.383333,
-      "lng": -127.433333
-    },
-    {
-      "cityName": "Port Belmont",
-      "lat": 53.033333,
-      "lng": -128.9
-    },
-    {
-      "cityName": "Port Clements",
-      "lat": 53.683333,
-      "lng": -132.166667
-    },
-    {
-      "cityName": "Port Edward",
-      "lat": 54.233333,
-      "lng": -130.283333
-    },
-    {
-      "cityName": "Porter Landing",
-      "lat": 58.8,
-      "lng": -130.1
-    },
-    {
-      "cityName": "Port Essington",
-      "lat": 54.15,
-      "lng": -129.95
-    },
-    {
-      "cityName": "Port Hardy",
-      "lat": 50.716667,
-      "lng": -127.5
-    },
-    {
-      "cityName": "Port Mann",
-      "lat": 49.216667,
-      "lng": -122.816667
-    },
-    {
-      "cityName": "Port McNeill",
-      "lat": 50.583333,
-      "lng": -127.1
-    },
-    {
-      "cityName": "Port Mellon",
-      "lat": 49.516667,
-      "lng": -123.483333
-    },
-    {
-      "cityName": "Port Moody",
-      "lat": 49.283333,
-      "lng": -122.85
-    },
-    {
-      "cityName": "Port Neville",
-      "lat": 50.483333,
-      "lng": -126.083333
-    },
-    {
-      "cityName": "Port Progress",
-      "lat": 50.916667,
-      "lng": -127.283333
-    },
-    {
-      "cityName": "Port Renfrew",
-      "lat": 48.55,
-      "lng": -124.416667
-    },
-    {
-      "cityName": "Port Simpson",
-      "lat": 54.55,
-      "lng": -130.416667
-    },
-    {
-      "cityName": "Pouce Coupé",
-      "lat": 55.716667,
-      "lng": -120.133333
-    },
-    {
-      "cityName": "Powell River",
-      "lat": 49.883333,
-      "lng": -124.55
-    },
-    {
-      "cityName": "Premier",
-      "lat": 56.05,
-      "lng": -130.016667
-    },
-    {
-      "cityName": "Prince George",
-      "lat": 53.916667,
-      "lng": -122.766667
-    },
-    {
-      "cityName": "Prince Rupert",
-      "lat": 54.316667,
-      "lng": -130.333333
-    },
-    {
-      "cityName": "Princeton",
-      "lat": 49.45,
-      "lng": -120.5
-    },
-    {
-      "cityName": "Pritchard",
-      "lat": 50.683333,
-      "lng": -119.816667
-    },
-    {
-      "cityName": "Procter",
-      "lat": 49.616667,
-      "lng": -116.95
-    },
-    {
-      "cityName": "Provincial Cannery",
+      "cityName": "Cremona",
       "lat": 51.55,
-      "lng": -127.616667
+      "lng": -114.466667
     },
     {
-      "cityName": "Punchaw",
-      "lat": 53.45,
-      "lng": -123.216667
+      "cityName": "Crossfield",
+      "lat": 51.433333,
+      "lng": -114.033333
     },
     {
-      "cityName": "Qualicum Beach",
-      "lat": 49.35,
-      "lng": -124.45
+      "cityName": "Crowfoot",
+      "lat": 50.816667,
+      "lng": -112.666667
     },
     {
-      "cityName": "Quathiaski Cove",
-      "lat": 50.05,
-      "lng": -125.183333
+      "cityName": "Culp",
+      "lat": 55.783333,
+      "lng": -117.533333
     },
     {
-      "cityName": "Quatsino",
-      "lat": 50.533333,
-      "lng": -127.6
+      "cityName": "Czar",
+      "lat": 52.45,
+      "lng": -110.833333
     },
     {
-      "cityName": "Queen Charlotte",
-      "lat": 53.25,
-      "lng": -132.083333
+      "cityName": "Dakin",
+      "lat": 54.799167,
+      "lng": -112.573333
     },
     {
-      "cityName": "Quesnel",
-      "lat": 52.983333,
-      "lng": -122.483333
+      "cityName": "Dapp",
+      "lat": 54.35,
+      "lng": -113.916667
     },
     {
-      "cityName": "Quilchena",
-      "lat": 50.15,
-      "lng": -120.5
+      "cityName": "Daysland",
+      "lat": 52.866667,
+      "lng": -112.25
     },
     {
-      "cityName": "Quinsam",
-      "lat": 49.983333,
-      "lng": -125.433333
+      "cityName": "Deadwood",
+      "lat": 56.733333,
+      "lng": -117.516667
     },
     {
-      "cityName": "Radium Hot Springs",
-      "lat": 50.616667,
-      "lng": -116.1
+      "cityName": "Delburne",
+      "lat": 52.2,
+      "lng": -113.233333
     },
     {
-      "cityName": "Read Island",
-      "lat": 50.183333,
-      "lng": -125.083333
+      "cityName": "Delph",
+      "lat": 54.007222,
+      "lng": -112.678889
     },
     {
-      "cityName": "Redonda Bay",
-      "lat": 50.25,
-      "lng": -124.966667
+      "cityName": "Demmitt",
+      "lat": 55.45,
+      "lng": -119.9
     },
     {
-      "cityName": "Red Pass Junction",
-      "lat": 52.983333,
-      "lng": -119.516667
+      "cityName": "Devenish",
+      "lat": 55.534722,
+      "lng": -111.196667
     },
     {
-      "cityName": "Red Rock",
-      "lat": 53.666667,
-      "lng": -122.65
+      "cityName": "Devon",
+      "lat": 53.366667,
+      "lng": -113.733333
     },
     {
-      "cityName": "Redroofs",
-      "lat": 49.5,
-      "lng": -123.916667
+      "cityName": "Didsbury",
+      "lat": 51.666667,
+      "lng": -114.133333
     },
     {
-      "cityName": "Redstone",
-      "lat": 52.133333,
-      "lng": -123.7
+      "cityName": "Dina",
+      "lat": 52.933333,
+      "lng": -110.083333
     },
     {
-      "cityName": "Refuge Bay",
-      "lat": 54.016667,
-      "lng": -130.6
+      "cityName": "Dixonville",
+      "lat": 56.533333,
+      "lng": -117.666667
     },
     {
-      "cityName": "Refuge Cove",
-      "lat": 50.116667,
-      "lng": -124.85
+      "cityName": "Dogpound",
+      "lat": 51.466667,
+      "lng": -114.383333
     },
     {
-      "cityName": "Revelstoke",
-      "lat": 51,
-      "lng": -118.183333
+      "cityName": "Donalda",
+      "lat": 52.583333,
+      "lng": -112.566667
     },
     {
-      "cityName": "Rexmount",
-      "lat": 50.85,
-      "lng": -122.433333
+      "cityName": "Donatville",
+      "lat": 54.748056,
+      "lng": -112.804167
     },
     {
-      "cityName": "Richmond",
-      "lat": 49.166667,
-      "lng": -122.966667
+      "cityName": "Donnelly",
+      "lat": 55.733333,
+      "lng": -117.116667
     },
     {
-      "cityName": "Riondel",
-      "lat": 49.766667,
-      "lng": -116.85
+      "cityName": "Dorothy",
+      "lat": 51.283333,
+      "lng": -112.316667
     },
     {
-      "cityName": "Riske Creek",
-      "lat": 51.966667,
-      "lng": -122.516667
+      "cityName": "Doussal",
+      "lat": 55.616667,
+      "lng": -116.833333
     },
     {
-      "cityName": "Rivers Inlet",
-      "lat": 51.683333,
-      "lng": -127.25
+      "cityName": "Dowling",
+      "lat": 51.766667,
+      "lng": -112
     },
     {
-      "cityName": "Roberts Creek",
-      "lat": 49.416667,
-      "lng": -123.616667
+      "cityName": "Drayton Valley",
+      "lat": 53.216667,
+      "lng": -114.983333
     },
     {
-      "cityName": "Rock Bay",
-      "lat": 50.333333,
-      "lng": -125.483333
-    },
-    {
-      "cityName": "Rock Creek",
-      "lat": 49.066667,
-      "lng": -118.983333
-    },
-    {
-      "cityName": "Rocky Point",
-      "lat": 48.316667,
-      "lng": -123.55
-    },
-    {
-      "cityName": "Rogers",
-      "lat": 51.483333,
-      "lng": -117.483333
-    },
-    {
-      "cityName": "Rolla Landing",
-      "lat": 56.1,
-      "lng": -120.116667
-    },
-    {
-      "cityName": "Rolla",
-      "lat": 55.9,
-      "lng": -120.133333
-    },
-    {
-      "cityName": "Rosedale",
-      "lat": 49.2,
-      "lng": -121.74
-    },
-    {
-      "cityName": "Rose Harbour",
-      "lat": 52.15,
-      "lng": -131.083333
-    },
-    {
-      "cityName": "Rose Lake",
-      "lat": 54.4,
-      "lng": -126.033333
-    },
-    {
-      "cityName": "Rose Prairie",
-      "lat": 56.516667,
-      "lng": -120.783333
-    },
-    {
-      "cityName": "Rossland",
-      "lat": 49.083333,
-      "lng": -117.816667
-    },
-    {
-      "cityName": "Rosswood",
-      "lat": 54.816667,
-      "lng": -128.766667
-    },
-    {
-      "cityName": "Roy",
-      "lat": 50.516667,
-      "lng": -125.533333
-    },
-    {
-      "cityName": "Saanichton",
-      "lat": 48.59,
-      "lng": -123.42
-    },
-    {
-      "cityName": "Salmon Arm",
-      "lat": 50.7,
-      "lng": -119.283333
-    },
-    {
-      "cityName": "Salmon Valley",
-      "lat": 54.083333,
-      "lng": -122.683333
-    },
-    {
-      "cityName": "Salmo",
-      "lat": 49.2,
-      "lng": -117.283333
-    },
-    {
-      "cityName": "Sandspit",
-      "lat": 53.25,
-      "lng": -131.833333
-    },
-    {
-      "cityName": "San Josef Bay",
-      "lat": 50.683333,
-      "lng": -128.266667
-    },
-    {
-      "cityName": "San Josef",
-      "lat": 50.666667,
-      "lng": -128.083333
-    },
-    {
-      "cityName": "Saseenos",
-      "lat": 48.383333,
-      "lng": -123.683333
-    },
-    {
-      "cityName": "Savona",
-      "lat": 50.75,
-      "lng": -120.85
-    },
-    {
-      "cityName": "Savory",
-      "lat": 54.1,
-      "lng": -125.166667
-    },
-    {
-      "cityName": "Sayward",
-      "lat": 50.35,
-      "lng": -125.916667
-    },
-    {
-      "cityName": "Scotia Bay",
-      "lat": 59.6,
-      "lng": -133.816667
-    },
-    {
-      "cityName": "Seaton",
-      "lat": 55.1,
-      "lng": -127.366667
-    },
-    {
-      "cityName": "Sechelt",
-      "lat": 49.466667,
-      "lng": -123.766667
-    },
-    {
-      "cityName": "Seton Lake",
-      "lat": 50.7,
-      "lng": -122.3
-    },
-    {
-      "cityName": "Seventy Mile",
-      "lat": 51.3,
-      "lng": -121.4
-    },
-    {
-      "cityName": "Seymour Arm",
-      "lat": 51.233333,
-      "lng": -118.95
-    },
-    {
-      "cityName": "Shearer Dale",
-      "lat": 56.066667,
-      "lng": -120.083333
-    },
-    {
-      "cityName": "Sheraton",
-      "lat": 54.166667,
-      "lng": -125.483333
-    },
-    {
-      "cityName": "Shere",
-      "lat": 53.016667,
-      "lng": -119.583333
-    },
-    {
-      "cityName": "Shoal Bay",
-      "lat": 50.45,
-      "lng": -125.366667
-    },
-    {
-      "cityName": "Shookumchuk",
-      "lat": 49.9,
+      "cityName": "Driftpile",
+      "lat": 55.35,
       "lng": -115.766667
     },
     {
-      "cityName": "Shoreacres",
-      "lat": 49.433333,
+      "cityName": "Drinnan",
+      "lat": 53.433333,
       "lng": -117.533333
     },
     {
-      "cityName": "Shushartie",
-      "lat": 50.85,
-      "lng": -127.85
+      "cityName": "Drumheller",
+      "lat": 51.466667,
+      "lng": -112.7
     },
     {
-      "cityName": "Sicamous",
-      "lat": 50.833333,
-      "lng": -119
+      "cityName": "Duchess",
+      "lat": 50.733333,
+      "lng": -111.9
     },
     {
-      "cityName": "Sidney Inlet",
-      "lat": 49.366667,
-      "lng": -126.25
+      "cityName": "Duffield",
+      "lat": 53.516667,
+      "lng": -114.333333
     },
     {
-      "cityName": "Sidney",
-      "lat": 48.65,
-      "lng": -123.416667
+      "cityName": "Dunmore",
+      "lat": 49.966667,
+      "lng": -110.583333
     },
     {
-      "cityName": "Simoom Sound",
-      "lat": 50.75,
-      "lng": -126.483333
+      "cityName": "Durlingville",
+      "lat": 54.284167,
+      "lng": -110.649444
     },
     {
-      "cityName": "Sirdad Junction",
-      "lat": 49.25,
-      "lng": -116.616667
+      "cityName": "Duvernay",
+      "lat": 53.783333,
+      "lng": -111.683333
     },
     {
-      "cityName": "Skeena",
-      "lat": 54.25,
-      "lng": -129.833333
+      "cityName": "Eagle Hill",
+      "lat": 51.816667,
+      "lng": -114.366667
     },
     {
-      "cityName": "Skidegate",
-      "lat": 53.25,
-      "lng": -132
+      "cityName": "Eaglesham",
+      "lat": 55.783333,
+      "lng": -117.9
     },
     {
-      "cityName": "Slocan",
-      "lat": 49.766667,
-      "lng": -117.466667
+      "cityName": "East Coulee",
+      "lat": 51.333333,
+      "lng": -112.483333
     },
     {
-      "cityName": "Smithers",
-      "lat": 54.766667,
-      "lng": -127.166667
+      "cityName": "Edgerton",
+      "lat": 52.75,
+      "lng": -110.45
     },
     {
-      "cityName": "Snake River",
-      "lat": 59.033333,
-      "lng": -122.433333
+      "cityName": "Edmonton",
+      "lat": 53.55,
+      "lng": -113.5
     },
     {
-      "cityName": "Soda Creek",
-      "lat": 52.333333,
-      "lng": -122.283333
-    },
-    {
-      "cityName": "Sointula",
-      "lat": 50.633333,
-      "lng": -127.016667
-    },
-    {
-      "cityName": "Sooke",
-      "lat": 48.383333,
-      "lng": -123.733333
-    },
-    {
-      "cityName": "Sorrento",
-      "lat": 50.866667,
-      "lng": -119.466667
-    },
-    {
-      "cityName": "Southbank",
-      "lat": 54.016667,
-      "lng": -125.766667
-    },
-    {
-      "cityName": "Spences Bridge",
-      "lat": 50.416667,
-      "lng": -121.35
-    },
-    {
-      "cityName": "Springhouse",
-      "lat": 51.916667,
-      "lng": -122.1
-    },
-    {
-      "cityName": "Squamish",
-      "lat": 49.7,
-      "lng": -123.15
-    },
-    {
-      "cityName": "Squaw Creek",
-      "lat": 59.983333,
-      "lng": -137.116667
-    },
-    {
-      "cityName": "Squilax",
-      "lat": 50.866667,
-      "lng": -119.583333
-    },
-    {
-      "cityName": "Stephen",
-      "lat": 51.45,
-      "lng": -116.3
-    },
-    {
-      "cityName": "Steveston",
-      "lat": 49.133333,
-      "lng": -123.183333
-    },
-    {
-      "cityName": "Stewart",
-      "lat": 55.933333,
-      "lng": -130
-    },
-    {
-      "cityName": "Stillwater",
-      "lat": 49.766667,
-      "lng": -124.316667
-    },
-    {
-      "cityName": "Strathnaver",
-      "lat": 53.35,
-      "lng": -122.533333
-    },
-    {
-      "cityName": "Streatham",
-      "lat": 53.8,
-      "lng": -126.166667
-    },
-    {
-      "cityName": "Stuart Island",
-      "lat": 50.366667,
-      "lng": -125.15
-    },
-    {
-      "cityName": "Stuie",
-      "lat": 52.366667,
-      "lng": -126.1
-    },
-    {
-      "cityName": "Sturdies Bay",
-      "lat": 48.883333,
-      "lng": -123.316667
-    },
-    {
-      "cityName": "Summerland",
-      "lat": 49.6,
-      "lng": -119.666667
-    },
-    {
-      "cityName": "Summit Lake",
-      "lat": 54.283333,
-      "lng": -122.633333
-    },
-    {
-      "cityName": "Sunset Prairie",
-      "lat": 55.85,
-      "lng": -120.783333
-    },
-    {
-      "cityName": "Suquash",
-      "lat": 50.633333,
-      "lng": -127.25
-    },
-    {
-      "cityName": "Surprise",
-      "lat": 59.616667,
-      "lng": -133.416667
-    },
-    {
-      "cityName": "Surrey",
-      "lat": 49.13635335,
-      "lng": -122.82134332
-    },
-    {
-      "cityName": "Tachie",
-      "lat": 54.65,
-      "lng": -124.766667
-    },
-    {
-      "cityName": "Taft",
-      "lat": 50.983333,
-      "lng": -118.633333
-    },
-    {
-      "cityName": "Tahsis",
-      "lat": 49.916667,
-      "lng": -126.666667
-    },
-    {
-      "cityName": "Takla Landing",
-      "lat": 55.483333,
-      "lng": -125.983333
-    },
-    {
-      "cityName": "Taku",
-      "lat": 59.633333,
-      "lng": -133.85
-    },
-    {
-      "cityName": "Tappen",
-      "lat": 50.783333,
-      "lng": -119.333333
-    },
-    {
-      "cityName": "Tatalrose",
-      "lat": 53.983333,
-      "lng": -126.066667
-    },
-    {
-      "cityName": "Tatlayoka Lake",
-      "lat": 51.65,
-      "lng": -124.383333
-    },
-    {
-      "cityName": "Taylor",
-      "lat": 56.15,
-      "lng": -120.666667
-    },
-    {
-      "cityName": "Tchesinkut Lake",
-      "lat": 54.1,
-      "lng": -125.716667
-    },
-    {
-      "cityName": "Teepee",
-      "lat": 59.65,
-      "lng": -134.666667
-    },
-    {
-      "cityName": "Telegraph Cove",
-      "lat": 50.55,
-      "lng": -126.816667
-    },
-    {
-      "cityName": "Telegraph Creek",
-      "lat": 57.9,
-      "lng": -131.15
-    },
-    {
-      "cityName": "Terrace",
-      "lat": 54.5,
-      "lng": -128.583333
-    },
-    {
-      "cityName": "Thalia",
-      "lat": 49.766667,
-      "lng": -120.766667
-    },
-    {
-      "cityName": "Thunder River",
-      "lat": 52.233333,
-      "lng": -119.216667
-    },
-    {
-      "cityName": "Tintagel",
-      "lat": 54.2,
-      "lng": -125.083333
-    },
-    {
-      "cityName": "Tlell",
+      "cityName": "Edson",
       "lat": 53.583333,
-      "lng": -131.933333
+      "lng": -116.416667
     },
     {
-      "cityName": "Toad River Post",
-      "lat": 59.383333,
-      "lng": -124.866667
+      "cityName": "Edwand",
+      "lat": 54.143889,
+      "lng": -112.275833
     },
     {
-      "cityName": "Tofino",
-      "lat": 49.133333,
-      "lng": -125.9
+      "cityName": "Egremont",
+      "lat": 54.033333,
+      "lng": -113.116667
     },
     {
-      "cityName": "Topley",
-      "lat": 54.516667,
-      "lng": -126.3
+      "cityName": "Elk Point",
+      "lat": 53.9,
+      "lng": -110.9
     },
     {
-      "cityName": "Tow Hill",
-      "lat": 54.066667,
-      "lng": -131.783333
+      "cityName": "Ellscott",
+      "lat": 54.503611,
+      "lng": -112.900833
     },
     {
-      "cityName": "Trail",
-      "lat": 49.1,
-      "lng": -117.716667
+      "cityName": "Embarras Portage",
+      "lat": 58.45,
+      "lng": -111.5
     },
     {
-      "cityName": "Trapp Lake",
-      "lat": 50.383333,
-      "lng": -120.266667
+      "cityName": "Empress",
+      "lat": 50.966667,
+      "lng": -110.016667
     },
     {
-      "cityName": "Trout Lake",
-      "lat": 50.633333,
-      "lng": -117.533333
+      "cityName": "Enchant",
+      "lat": 50.166667,
+      "lng": -112.416667
     },
     {
-      "cityName": "Tsawwassen",
-      "lat": 49.016667,
-      "lng": -123.083333
+      "cityName": "Endiang",
+      "lat": 51.966667,
+      "lng": -112.15
     },
     {
-      "cityName": "Tulameen City",
-      "lat": 49.55,
-      "lng": -120.75
+      "cityName": "Enilda",
+      "lat": 55.416667,
+      "lng": -117.316667
     },
     {
-      "cityName": "Tulsequah",
-      "lat": 58.633333,
-      "lng": -133.533333
+      "cityName": "Ensign",
+      "lat": 50.466667,
+      "lng": -113.433333
     },
     {
-      "cityName": "Two Rivers",
-      "lat": 56.183333,
-      "lng": -120.533333
+      "cityName": "Entrance",
+      "lat": 53.366667,
+      "lng": -117.7
     },
     {
-      "cityName": "Ucluelet",
-      "lat": 48.933333,
-      "lng": -125.516667
+      "cityName": "Entwistle",
+      "lat": 53.516667,
+      "lng": -114.966667
     },
     {
-      "cityName": "Union Bay",
-      "lat": 49.6,
-      "lng": -124.883333
+      "cityName": "Erith",
+      "lat": 53.416667,
+      "lng": -116.683333
     },
     {
-      "cityName": "Upper Squamish",
-      "lat": 49.883333,
-      "lng": -123.316667
+      "cityName": "Esther",
+      "lat": 51.683333,
+      "lng": -110.25
     },
     {
-      "cityName": "Usk",
-      "lat": 54.633333,
-      "lng": -128.433333
+      "cityName": "Etzikom",
+      "lat": 49.483333,
+      "lng": -111.1
     },
     {
-      "cityName": "Valemount",
-      "lat": 52.833333,
-      "lng": -119.25
+      "cityName": "Excel",
+      "lat": 51.383333,
+      "lng": -110.566667
     },
     {
-      "cityName": "Vallican",
-      "lat": 49.566667,
-      "lng": -117.65
+      "cityName": "Fairview",
+      "lat": 56.066667,
+      "lng": -118.4
     },
     {
-      "cityName": "Vananda",
-      "lat": 49.75,
-      "lng": -124.55
-    },
-    {
-      "cityName": "Vancouver",
-      "lat": 49.25,
-      "lng": -123.133333
-    },
-    {
-      "cityName": "Vanderhoof",
-      "lat": 54.016667,
-      "lng": -124.016667
-    },
-    {
-      "cityName": "Van Winkle",
-      "lat": 53.033333,
-      "lng": -121.716667
-    },
-    {
-      "cityName": "Vernon",
-      "lat": 50.266667,
-      "lng": -119.266667
-    },
-    {
-      "cityName": "Victoria",
-      "lat": 48.433333,
-      "lng": -123.35
-    },
-    {
-      "cityName": "Wadhams",
-      "lat": 51.516667,
-      "lng": -127.516667
-    },
-    {
-      "cityName": "Walcott",
-      "lat": 54.516667,
-      "lng": -126.85
-    },
-    {
-      "cityName": "Wardner",
-      "lat": 49.416667,
-      "lng": -115.4
-    },
-    {
-      "cityName": "Wasa",
-      "lat": 49.766667,
+      "cityName": "Faust",
+      "lat": 55.316667,
       "lng": -115.716667
     },
     {
-      "cityName": "Wellington",
-      "lat": 49.2,
-      "lng": -124.016667
+      "cityName": "Fawcett",
+      "lat": 54.533333,
+      "lng": -114.083333
     },
     {
-      "cityName": "Westbank",
-      "lat": 49.84,
-      "lng": -119.61
+      "cityName": "Fenn",
+      "lat": 52.133333,
+      "lng": -112.75
     },
     {
-      "cityName": "Westholme",
-      "lat": 48.866667,
-      "lng": -123.716667
+      "cityName": "Ferintosh",
+      "lat": 52.766667,
+      "lng": -112.966667
     },
     {
-      "cityName": "Westview",
-      "lat": 49.85,
-      "lng": -124.533333
+      "cityName": "Ferrier",
+      "lat": 52.366667,
+      "lng": -115.066667
     },
     {
-      "cityName": "Whaletown",
-      "lat": 50.1,
-      "lng": -125.033333
+      "cityName": "Finnegan",
+      "lat": 51.133333,
+      "lng": -112.083333
     },
     {
-      "cityName": "White Pass",
-      "lat": 59.616667,
-      "lng": -135.116667
+      "cityName": "Fitgerald",
+      "lat": 59.866667,
+      "lng": -111.6
     },
     {
-      "cityName": "White Rock",
-      "lat": 49.033333,
-      "lng": -122.816667
+      "cityName": "Flatbush",
+      "lat": 54.683333,
+      "lng": -114.15
     },
     {
-      "cityName": "Whytecliff",
+      "cityName": "Flat Lake",
+      "lat": 54.130278,
+      "lng": -111.151667
+    },
+    {
+      "cityName": "Fleet",
+      "lat": 52.15,
+      "lng": -111.733333
+    },
+    {
+      "cityName": "Foothills",
+      "lat": 53.066667,
+      "lng": -116.783333
+    },
+    {
+      "cityName": "Foremost",
+      "lat": 49.483333,
+      "lng": -111.433333
+    },
+    {
+      "cityName": "Forestburg",
+      "lat": 52.583333,
+      "lng": -112.066667
+    },
+    {
+      "cityName": "Forest Lawn",
+      "lat": 51.033333,
+      "lng": -113.966667
+    },
+    {
+      "cityName": "Fork Lake",
+      "lat": 54.468889,
+      "lng": -111.617778
+    },
+    {
+      "cityName": "Fort Assiniboine",
+      "lat": 54.333333,
+      "lng": -114.766667
+    },
+    {
+      "cityName": "Fort Kent",
+      "lat": 54.313056,
+      "lng": -110.603889
+    },
+    {
+      "cityName": "Fort MacKay",
+      "lat": 57.183333,
+      "lng": -111.616667
+    },
+    {
+      "cityName": "Fort Macleod",
+      "lat": 49.733333,
+      "lng": -113.4
+    },
+    {
+      "cityName": "Fort McMurray",
+      "lat": 56.733333,
+      "lng": -111.383333
+    },
+    {
+      "cityName": "Fort Saskatchewan",
+      "lat": 53.716667,
+      "lng": -113.2
+    },
+    {
+      "cityName": "Fort Vermilion Chutes",
+      "lat": 58.366667,
+      "lng": -114.85
+    },
+    {
+      "cityName": "Fort Vermilion",
+      "lat": 58.4,
+      "lng": -116
+    },
+    {
+      "cityName": "Frains",
+      "lat": 54.754444,
+      "lng": -112.601944
+    },
+    {
+      "cityName": "Franchere",
+      "lat": 54.269444,
+      "lng": -111.029167
+    },
+    {
+      "cityName": "Freedom",
+      "lat": 54.15,
+      "lng": -114.233333
+    },
+    {
+      "cityName": "Fresnoy",
+      "lat": 54.240556,
+      "lng": -110.804167
+    },
+    {
+      "cityName": "Gadsby",
+      "lat": 52.3,
+      "lng": -112.35
+    },
+    {
+      "cityName": "Gage",
+      "lat": 56.133333,
+      "lng": -118.5
+    },
+    {
+      "cityName": "Galahad",
+      "lat": 52.516667,
+      "lng": -111.916667
+    },
+    {
+      "cityName": "Garth",
+      "lat": 54.533333,
+      "lng": -110.983333
+    },
+    {
+      "cityName": "Geikie",
+      "lat": 52.866667,
+      "lng": -118.266667
+    },
+    {
+      "cityName": "Gem",
+      "lat": 50.95,
+      "lng": -112.183333
+    },
+    {
+      "cityName": "Girouxville",
+      "lat": 55.75,
+      "lng": -117.333333
+    },
+    {
+      "cityName": "Gleichen",
+      "lat": 50.866667,
+      "lng": -113.05
+    },
+    {
+      "cityName": "Glendon",
+      "lat": 54.251111,
+      "lng": -111.151389
+    },
+    {
+      "cityName": "Glenwood",
       "lat": 49.366667,
-      "lng": -123.266667
+      "lng": -113.516667
     },
     {
-      "cityName": "Williams Lake",
+      "cityName": "Goodfish Lake",
+      "lat": 54.296944,
+      "lng": -111.803889
+    },
+    {
+      "cityName": "Goodridge",
+      "lat": 54.385556,
+      "lng": -111.352222
+    },
+    {
+      "cityName": "Gough Lake",
+      "lat": 52.05,
+      "lng": -112.466667
+    },
+    {
+      "cityName": "Grainger",
+      "lat": 51.5,
+      "lng": -113.333333
+    },
+    {
+      "cityName": "Grand Centre",
+      "lat": 54.416667,
+      "lng": -110.215278
+    },
+    {
+      "cityName": "Grande Prairie",
+      "lat": 55.166667,
+      "lng": -118.8
+    },
+    {
+      "cityName": "Grassland",
+      "lat": 54.820556,
+      "lng": -112.685833
+    },
+    {
+      "cityName": "Grassy Lake",
+      "lat": 49.833333,
+      "lng": -111.7
+    },
+    {
+      "cityName": "Green Court",
+      "lat": 54.016667,
+      "lng": -115.233333
+    },
+    {
+      "cityName": "Grimshaw",
+      "lat": 56.183333,
+      "lng": -117.6
+    },
+    {
+      "cityName": "Gurneyville",
+      "lat": 54.141111,
+      "lng": -110.754167
+    },
+    {
+      "cityName": "Hackett",
+      "lat": 52.216667,
+      "lng": -112.416667
+    },
+    {
+      "cityName": "Halkirk",
+      "lat": 52.283333,
+      "lng": -112.15
+    },
+    {
+      "cityName": "Hanna",
+      "lat": 51.633333,
+      "lng": -111.916667
+    },
+    {
+      "cityName": "Happy Hollow",
+      "lat": 54.501111,
+      "lng": -110.558333
+    },
+    {
+      "cityName": "Hardisty",
+      "lat": 52.683333,
+      "lng": -111.3
+    },
+    {
+      "cityName": "Harmon Valley",
+      "lat": 56.1,
+      "lng": -116.833333
+    },
+    {
+      "cityName": "Hartell",
+      "lat": 50.716667,
+      "lng": -113.966667
+    },
+    {
+      "cityName": "Hay Lake",
+      "lat": 58.816667,
+      "lng": -118.75
+    },
+    {
+      "cityName": "Hay Lakes",
+      "lat": 53.2,
+      "lng": -113.05
+    },
+    {
+      "cityName": "Hayter",
+      "lat": 52.35,
+      "lng": -110.116667
+    },
+    {
+      "cityName": "Heinsburg",
+      "lat": 53.766667,
+      "lng": -110.516667
+    },
+    {
+      "cityName": "Heisler",
+      "lat": 52.666667,
+      "lng": -112.2
+    },
+    {
+      "cityName": "Helina",
+      "lat": 54.487222,
+      "lng": -111.491667
+    },
+    {
+      "cityName": "Hemaruka",
+      "lat": 51.783333,
+      "lng": -111.083333
+    },
+    {
+      "cityName": "Hesketh",
+      "lat": 51.466667,
+      "lng": -112.966667
+    },
+    {
+      "cityName": "Highland Park",
+      "lat": 56.116667,
+      "lng": -118.85
+    },
+    {
+      "cityName": "High Level",
+      "lat": 58.516667,
+      "lng": -117.133333
+    },
+    {
+      "cityName": "High Prairie",
+      "lat": 55.433333,
+      "lng": -116.483333
+    },
+    {
+      "cityName": "Highridge",
+      "lat": 54.033333,
+      "lng": -114.133333
+    },
+    {
+      "cityName": "High River",
+      "lat": 50.583333,
+      "lng": -113.866667
+    },
+    {
+      "cityName": "Hilda",
+      "lat": 50.483333,
+      "lng": -110.016667
+    },
+    {
+      "cityName": "Hines Creek",
+      "lat": 56.233333,
+      "lng": -118.6
+    },
+    {
+      "cityName": "Hinton",
+      "lat": 53.4,
+      "lng": -117.583333
+    },
+    {
+      "cityName": "Hoadley",
+      "lat": 52.85,
+      "lng": -114.366667
+    },
+    {
+      "cityName": "Hobbema",
+      "lat": 52.833333,
+      "lng": -113.45
+    },
+    {
+      "cityName": "Holden",
+      "lat": 53.233333,
+      "lng": -112.233333
+    },
+    {
+      "cityName": "Hollow Lake",
+      "lat": 54.238611,
+      "lng": -112.776667
+    },
+    {
+      "cityName": "Holyoke",
+      "lat": 54.124722,
+      "lng": -110.591389
+    },
+    {
+      "cityName": "Hondo",
+      "lat": 55.066667,
+      "lng": -114.033333
+    },
+    {
+      "cityName": "Horburg",
+      "lat": 52.416667,
+      "lng": -115.283333
+    },
+    {
+      "cityName": "Hoselaw",
+      "lat": 54.182222,
+      "lng": -110.903056
+    },
+    {
+      "cityName": "Hotchkiss",
+      "lat": 57.066667,
+      "lng": -117.55
+    },
+    {
+      "cityName": "Hussar",
+      "lat": 51.033333,
+      "lng": -112.683333
+    },
+    {
+      "cityName": "Hylo",
+      "lat": 54.679167,
+      "lng": -112.215278
+    },
+    {
+      "cityName": "Hythe",
+      "lat": 55.316667,
+      "lng": -119.566667
+    },
+    {
+      "cityName": "Iddesleigh",
+      "lat": 50.733333,
+      "lng": -111.3
+    },
+    {
+      "cityName": "Imperial Mills",
+      "lat": 54.995,
+      "lng": -111.735833
+    },
+    {
+      "cityName": "Innisfail",
+      "lat": 52.033333,
+      "lng": -113.95
+    },
+    {
+      "cityName": "Irma",
+      "lat": 52.916667,
+      "lng": -111.233333
+    },
+    {
+      "cityName": "Iron River",
+      "lat": 54.443611,
+      "lng": -110.911944
+    },
+    {
+      "cityName": "Irricana",
+      "lat": 51.316667,
+      "lng": -113.616667
+    },
+    {
+      "cityName": "Irvine",
+      "lat": 49.95,
+      "lng": -110.266667
+    },
+    {
+      "cityName": "Jarvie",
+      "lat": 54.45,
+      "lng": -113.983333
+    },
+    {
+      "cityName": "Jasper",
+      "lat": 52.883333,
+      "lng": -118.083333
+    },
+    {
+      "cityName": "Jenner",
+      "lat": 50.75,
+      "lng": -111.183333
+    },
+    {
+      "cityName": "Joffre",
+      "lat": 52.333333,
+      "lng": -113.533333
+    },
+    {
+      "cityName": "Josephburg",
+      "lat": 53.716667,
+      "lng": -113.083333
+    },
+    {
+      "cityName": "Joussard",
+      "lat": 55.366667,
+      "lng": -115.933333
+    },
+    {
+      "cityName": "Judah",
+      "lat": 56.133333,
+      "lng": -117.316667
+    },
+    {
+      "cityName": "Jumping Pound",
+      "lat": 51.066667,
+      "lng": -114.55
+    },
+    {
+      "cityName": "Kahwin",
+      "lat": 54.006944,
+      "lng": -112.332778
+    },
+    {
+      "cityName": "Kavanagh",
+      "lat": 53.183333,
+      "lng": -113.516667
+    },
+    {
+      "cityName": "Kaydee",
+      "lat": 53.083333,
+      "lng": -117.45
+    },
+    {
+      "cityName": "Keg River",
+      "lat": 57.8,
+      "lng": -117.866667
+    },
+    {
+      "cityName": "Keoma",
+      "lat": 51.216667,
+      "lng": -113.65
+    },
+    {
+      "cityName": "Kikino",
+      "lat": 54.445278,
+      "lng": -112.098056
+    },
+    {
+      "cityName": "Killam",
+      "lat": 52.783333,
+      "lng": -111.85
+    },
+    {
+      "cityName": "Kingman",
+      "lat": 53.216667,
+      "lng": -112.566667
+    },
+    {
+      "cityName": "Kinuso",
+      "lat": 55.333333,
+      "lng": -115.416667
+    },
+    {
+      "cityName": "Kirriemuir",
+      "lat": 51.916667,
+      "lng": -110.3
+    },
+    {
+      "cityName": "Kitscoty",
+      "lat": 53.333333,
+      "lng": -110.333333
+    },
+    {
+      "cityName": "Krakow",
+      "lat": 53.75,
+      "lng": -112.433333
+    },
+    {
+      "cityName": "Lac Cardinal",
+      "lat": 56.266667,
+      "lng": -117.816667
+    },
+    {
+      "cityName": "Lac La Biche",
+      "lat": 54.771944,
+      "lng": -111.964722
+    },
+    {
+      "cityName": "Lacombe",
+      "lat": 52.466667,
+      "lng": -113.733333
+    },
+    {
+      "cityName": "La Corey",
+      "lat": 54.443889,
+      "lng": -110.761667
+    },
+    {
+      "cityName": "Lake Louise",
+      "lat": 51.433333,
+      "lng": -116.183333
+    },
+    {
+      "cityName": "Lamont",
+      "lat": 53.75,
+      "lng": -112.783333
+    },
+    {
+      "cityName": "Lancaster Park",
+      "lat": 53.666667,
+      "lng": -113.483333
+    },
+    {
+      "cityName": "Last Lake",
+      "lat": 56.233333,
+      "lng": -117.966667
+    },
+    {
+      "cityName": "Lavoy",
+      "lat": 53.466667,
+      "lng": -111.866667
+    },
+    {
+      "cityName": "Leduc",
+      "lat": 53.266667,
+      "lng": -113.533333
+    },
+    {
+      "cityName": "Legal",
+      "lat": 53.95,
+      "lng": -113.633333
+    },
+    {
+      "cityName": "Leismer",
+      "lat": 55.755833,
+      "lng": -111.041389
+    },
+    {
+      "cityName": "Leo",
+      "lat": 52.05,
+      "lng": -112.35
+    },
+    {
+      "cityName": "Leslieville",
+      "lat": 52.383333,
+      "lng": -114.6
+    },
+    {
+      "cityName": "Lessard",
+      "lat": 54.428889,
+      "lng": -110.635278
+    },
+    {
+      "cityName": "Lethbridge",
+      "lat": 49.7,
+      "lng": -112.833333
+    },
+    {
+      "cityName": "Leyland",
+      "lat": 53.033333,
+      "lng": -117.316667
+    },
+    {
+      "cityName": "Lindbergh",
+      "lat": 53.883333,
+      "lng": -110.666667
+    },
+    {
+      "cityName": "Little Red River",
+      "lat": 58.4,
+      "lng": -114.75
+    },
+    {
+      "cityName": "Lloydminster",
+      "lat": 53.27,
+      "lng": -110.03
+    },
+    {
+      "cityName": "Lomond",
+      "lat": 50.35,
+      "lng": -112.633333
+    },
+    {
+      "cityName": "Lone Star",
+      "lat": 56.7,
+      "lng": -117.65
+    },
+    {
+      "cityName": "Looma",
+      "lat": 53.35,
+      "lng": -113.25
+    },
+    {
+      "cityName": "Lougheed",
+      "lat": 52.733333,
+      "lng": -111.55
+    },
+    {
+      "cityName": "Lousana",
       "lat": 52.116667,
-      "lng": -122.15
+      "lng": -113.2
     },
     {
-      "cityName": "Willow River",
+      "cityName": "Lovett",
+      "lat": 53.033333,
+      "lng": -116.683333
+    },
+    {
+      "cityName": "Luscar",
+      "lat": 53.066667,
+      "lng": -117.4
+    },
+    {
+      "cityName": "Lymburn",
+      "lat": 55.35,
+      "lng": -119.783333
+    },
+    {
+      "cityName": "Mackay",
+      "lat": 53.65,
+      "lng": -115.583333
+    },
+    {
+      "cityName": "Magrath",
+      "lat": 49.416667,
+      "lng": -112.883333
+    },
+    {
+      "cityName": "Majorville",
+      "lat": 50.633333,
+      "lng": -112.7
+    },
+    {
+      "cityName": "Mallaig",
+      "lat": 54.211944,
+      "lng": -111.366111
+    },
+    {
+      "cityName": "Mannville",
+      "lat": 53.333333,
+      "lng": -111.166667
+    },
+    {
+      "cityName": "Manola",
       "lat": 54.083333,
-      "lng": -122.483333
+      "lng": -114.233333
+    },
+    {
+      "cityName": "Manton Alta",
+      "lat": 50.35,
+      "lng": -113.766667
+    },
+    {
+      "cityName": "Manyberries",
+      "lat": 49.4,
+      "lng": -110.7
+    },
+    {
+      "cityName": "Marina",
+      "lat": 56.5,
+      "lng": -119.2
+    },
+    {
+      "cityName": "Marlboro",
+      "lat": 53.55,
+      "lng": -116.766667
+    },
+    {
+      "cityName": "Marwayne",
+      "lat": 53.516667,
+      "lng": -110.333333
+    },
+    {
+      "cityName": "McLennan",
+      "lat": 55.7,
+      "lng": -116.9
+    },
+    {
+      "cityName": "McRae",
+      "lat": 54.356667,
+      "lng": -111.713889
+    },
+    {
+      "cityName": "Meander River",
+      "lat": 59.033333,
+      "lng": -117.683333
+    },
+    {
+      "cityName": "Meanook",
+      "lat": 54.583333,
+      "lng": -113.316667
+    },
+    {
+      "cityName": "Medicine Hat",
+      "lat": 50.033333,
+      "lng": -110.683333
+    },
+    {
+      "cityName": "Medicine Lodge",
+      "lat": 53.533333,
+      "lng": -117.016667
+    },
+    {
+      "cityName": "Medley",
+      "lat": 54.416667,
+      "lng": -110.266667
+    },
+    {
+      "cityName": "Mercoal",
+      "lat": 53.166667,
+      "lng": -117.1
+    },
+    {
+      "cityName": "Michichi",
+      "lat": 51.583333,
+      "lng": -112.533333
+    },
+    {
+      "cityName": "Midnapore",
+      "lat": 50.916667,
+      "lng": -114.066667
+    },
+    {
+      "cityName": "Milk River",
+      "lat": 49.133333,
+      "lng": -112.083333
+    },
+    {
+      "cityName": "Millet",
+      "lat": 53.083333,
+      "lng": -113.466667
+    },
+    {
+      "cityName": "Milo",
+      "lat": 50.566667,
+      "lng": -112.883333
+    },
+    {
+      "cityName": "Mirror Landing",
+      "lat": 55.166667,
+      "lng": -114.033333
+    },
+    {
+      "cityName": "Monarch",
+      "lat": 49.8,
+      "lng": -113.116667
+    },
+    {
+      "cityName": "Monitor",
+      "lat": 51.966667,
+      "lng": -110.566667
+    },
+    {
+      "cityName": "Montgomery",
+      "lat": 51.066667,
+      "lng": -114.166667
+    },
+    {
+      "cityName": "Morinville",
+      "lat": 53.8,
+      "lng": -113.65
+    },
+    {
+      "cityName": "Morley",
+      "lat": 51.166667,
+      "lng": -114.85
+    },
+    {
+      "cityName": "Morrin",
+      "lat": 51.666667,
+      "lng": -112.766667
+    },
+    {
+      "cityName": "Mossleigh",
+      "lat": 50.716667,
+      "lng": -113.316667
+    },
+    {
+      "cityName": "Mountain Park",
+      "lat": 52.933333,
+      "lng": -117.283333
+    },
+    {
+      "cityName": "Mountain View",
+      "lat": 49.133333,
+      "lng": -113.6
+    },
+    {
+      "cityName": "Mundare",
+      "lat": 53.6,
+      "lng": -112.333333
+    },
+    {
+      "cityName": "Munson",
+      "lat": 51.566667,
+      "lng": -112.75
+    },
+    {
+      "cityName": "Muriel Lake",
+      "lat": 54.211667,
+      "lng": -110.603333
+    },
+    {
+      "cityName": "Myrnam",
+      "lat": 53.666667,
+      "lng": -111.233333
+    },
+    {
+      "cityName": "Naco",
+      "lat": 51.7,
+      "lng": -110.8
+    },
+    {
+      "cityName": "Namao",
+      "lat": 53.716667,
+      "lng": -113.483333
+    },
+    {
+      "cityName": "Nampa",
+      "lat": 56.033333,
+      "lng": -117.116667
+    },
+    {
+      "cityName": "Newbrook",
+      "lat": 54.329444,
+      "lng": -112.953056
+    },
+    {
+      "cityName": "New Dayton",
+      "lat": 49.416667,
+      "lng": -112.383333
+    },
+    {
+      "cityName": "Nightingale",
+      "lat": 51.15,
+      "lng": -113.333333
+    },
+    {
+      "cityName": "Nisku",
+      "lat": 53.333333,
+      "lng": -113.533333
+    },
+    {
+      "cityName": "Nobleford",
+      "lat": 49.883333,
+      "lng": -113.05
+    },
+    {
+      "cityName": "Noral",
+      "lat": 54.653611,
+      "lng": -112.363333
+    },
+    {
+      "cityName": "Normandeau",
+      "lat": 54.580556,
+      "lng": -111.731667
+    },
+    {
+      "cityName": "Normandville",
+      "lat": 55.866667,
+      "lng": -117.366667
+    },
+    {
+      "cityName": "Northbank",
+      "lat": 54.036667,
+      "lng": -112.555278
+    },
+    {
+      "cityName": "North Cooking Lake",
+      "lat": 53.466667,
+      "lng": -112.95
+    },
+    {
+      "cityName": "North Star",
+      "lat": 56.85,
+      "lng": -117.633333
+    },
+    {
+      "cityName": "North Vermilion",
+      "lat": 58.4,
+      "lng": -116.033333
+    },
+    {
+      "cityName": "Notikewin",
+      "lat": 56.983333,
+      "lng": -117.633333
+    },
+    {
+      "cityName": "Obed",
+      "lat": 53.55,
+      "lng": -117.216667
+    },
+    {
+      "cityName": "Olds",
+      "lat": 51.783333,
+      "lng": -114.1
+    },
+    {
+      "cityName": "Onefour",
+      "lat": 49.066667,
+      "lng": -110.45
+    },
+    {
+      "cityName": "Onoway",
+      "lat": 53.7,
+      "lng": -114.183333
+    },
+    {
+      "cityName": "Owl River",
+      "lat": 54.887222,
+      "lng": -111.886667
+    },
+    {
+      "cityName": "Owlseye Lake",
+      "lat": 54.069167,
+      "lng": -111.436111
+    },
+    {
+      "cityName": "Pakan",
+      "lat": 54.004722,
+      "lng": -112.405
+    },
+    {
+      "cityName": "Paradise Valley",
+      "lat": 53.033333,
+      "lng": -110.333333
+    },
+    {
+      "cityName": "Parkland",
+      "lat": 50.25,
+      "lng": -113.666667
+    },
+    {
+      "cityName": "Patricia",
+      "lat": 50.7,
+      "lng": -111.683333
+    },
+    {
+      "cityName": "Peace River Crossing",
+      "lat": 56.233333,
+      "lng": -117.283333
+    },
+    {
+      "cityName": "Peers",
+      "lat": 53.666667,
+      "lng": -115.983333
+    },
+    {
+      "cityName": "Pelican Portage",
+      "lat": 55.799722,
+      "lng": -112.638889
+    },
+    {
+      "cityName": "Pendant d'Oreille",
+      "lat": 49.2,
+      "lng": -110.866667
+    },
+    {
+      "cityName": "Penhold",
+      "lat": 52.133333,
+      "lng": -113.866667
+    },
+    {
+      "cityName": "Perryvale",
+      "lat": 54.466667,
+      "lng": -113.383333
+    },
+    {
+      "cityName": "Philomena",
+      "lat": 55.175556,
+      "lng": -111.623333
+    },
+    {
+      "cityName": "Pibroch",
+      "lat": 54.266667,
+      "lng": -113.866667
+    },
+    {
+      "cityName": "Pincher Creek",
+      "lat": 49.483333,
+      "lng": -113.95
+    },
+    {
+      "cityName": "Pincher Station",
+      "lat": 49.516667,
+      "lng": -113.95
+    },
+    {
+      "cityName": "Plamondon",
+      "lat": 54.848611,
+      "lng": -112.343889
+    },
+    {
+      "cityName": "Pocahontas",
+      "lat": 53.2,
+      "lng": -117.916667
+    },
+    {
+      "cityName": "Pollockville",
+      "lat": 51.1,
+      "lng": -111.583333
+    },
+    {
+      "cityName": "Ponoka",
+      "lat": 52.683333,
+      "lng": -113.566667
+    },
+    {
+      "cityName": "Properity",
+      "lat": 54.820556,
+      "lng": -112.878611
+    },
+    {
+      "cityName": "Provost",
+      "lat": 52.35,
+      "lng": -110.266667
+    },
+    {
+      "cityName": "Purple Springs",
+      "lat": 49.816667,
+      "lng": -111.9
+    },
+    {
+      "cityName": "Radway",
+      "lat": 54.059444,
+      "lng": -112.945278
+    },
+    {
+      "cityName": "Raley",
+      "lat": 49.283333,
+      "lng": -113.183333
+    },
+    {
+      "cityName": "Ralston",
+      "lat": 50.25,
+      "lng": -111.183333
+    },
+    {
+      "cityName": "Ranfurly",
+      "lat": 53.416667,
+      "lng": -111.683333
+    },
+    {
+      "cityName": "Raymond",
+      "lat": 49.466667,
+      "lng": -112.666667
+    },
+    {
+      "cityName": "Redcliff",
+      "lat": 50.083333,
+      "lng": -110.783333
+    },
+    {
+      "cityName": "Red Deer",
+      "lat": 52.266667,
+      "lng": -113.8
+    },
+    {
+      "cityName": "Redwater",
+      "lat": 53.95,
+      "lng": -113.11
+    },
+    {
+      "cityName": "Red Willow",
+      "lat": 52.45,
+      "lng": -112.566667
+    },
+    {
+      "cityName": "Retlaw",
+      "lat": 50.066667,
+      "lng": -112.25
+    },
+    {
+      "cityName": "Rich Lake",
+      "lat": 54.509167,
+      "lng": -111.618056
+    },
+    {
+      "cityName": "Rife",
+      "lat": 54.181389,
+      "lng": -111.0275
+    },
+    {
+      "cityName": "Rimbey",
+      "lat": 52.633333,
+      "lng": -114.216667
+    },
+    {
+      "cityName": "Rochfort Bridge",
+      "lat": 53.916667,
+      "lng": -115.033333
+    },
+    {
+      "cityName": "Rocky Mountain House",
+      "lat": 52.366667,
+      "lng": -114.916667
+    },
+    {
+      "cityName": "Roma",
+      "lat": 56.2,
+      "lng": -117.416667
+    },
+    {
+      "cityName": "Rosalind",
+      "lat": 52.783333,
+      "lng": -112.45
+    },
+    {
+      "cityName": "Rosebud",
+      "lat": 51.3,
+      "lng": -112.95
+    },
+    {
+      "cityName": "Rosedale",
+      "lat": 51.416667,
+      "lng": -112.633333
+    },
+    {
+      "cityName": "Rose Lynn",
+      "lat": 51.416667,
+      "lng": -111.683333
+    },
+    {
+      "cityName": "Rosemary",
+      "lat": 50.766667,
+      "lng": -112.083333
+    },
+    {
+      "cityName": "Rosevear",
+      "lat": 53.666667,
+      "lng": -116.166667
+    },
+    {
+      "cityName": "Rosyth",
+      "lat": 52.633333,
+      "lng": -111.216667
+    },
+    {
+      "cityName": "Round Hill",
+      "lat": 53.166667,
+      "lng": -112.616667
+    },
+    {
+      "cityName": "Royce",
+      "lat": 56.216667,
+      "lng": -118.833333
+    },
+    {
+      "cityName": "Rumsey",
+      "lat": 51.85,
+      "lng": -112.85
+    },
+    {
+      "cityName": "Rycroft",
+      "lat": 55.766667,
+      "lng": -118.716667
+    },
+    {
+      "cityName": "Saint Albert",
+      "lat": 53.633333,
+      "lng": -113.633333
+    },
+    {
+      "cityName": "Saint Lina",
+      "lat": 54.298611,
+      "lng": -111.452778
+    },
+    {
+      "cityName": "Saint Paul des Metis",
+      "lat": 53.983333,
+      "lng": -111.283333
+    },
+    {
+      "cityName": "Saint Vincent",
+      "lat": 54.153333,
+      "lng": -111.276389
+    },
+    {
+      "cityName": "Sangudo",
+      "lat": 53.883333,
+      "lng": -114.9
+    },
+    {
+      "cityName": "Sarrail",
+      "lat": 54.7625,
+      "lng": -112.688333
+    },
+    {
+      "cityName": "Scandia",
+      "lat": 50.266667,
+      "lng": -112.033333
+    },
+    {
+      "cityName": "Scapa",
+      "lat": 51.866667,
+      "lng": -111.983333
+    },
+    {
+      "cityName": "Schuler",
+      "lat": 50.333333,
+      "lng": -110.083333
+    },
+    {
+      "cityName": "Scotswood",
+      "lat": 56.1,
+      "lng": -118.683333
+    },
+    {
+      "cityName": "Seba Beach",
+      "lat": 53.566667,
+      "lng": -114.716667
+    },
+    {
+      "cityName": "Sedalia",
+      "lat": 51.666667,
+      "lng": -110.666667
+    },
+    {
+      "cityName": "Seebe",
+      "lat": 51.1,
+      "lng": -115.066667
+    },
+    {
+      "cityName": "Sevenpersons",
+      "lat": 49.866667,
+      "lng": -110.9
+    },
+    {
+      "cityName": "Sexsmith",
+      "lat": 55.35,
+      "lng": -118.783333
+    },
+    {
+      "cityName": "Sheerness",
+      "lat": 51.5,
+      "lng": -111.683333
+    },
+    {
+      "cityName": "Shepard",
+      "lat": 50.95,
+      "lng": -113.916667
+    },
+    {
+      "cityName": "Sherwood Park",
+      "lat": 53.516667,
+      "lng": -113.316667
+    },
+    {
+      "cityName": "Shouldice",
+      "lat": 50.716667,
+      "lng": -112.983333
+    },
+    {
+      "cityName": "Skiff",
+      "lat": 49.5,
+      "lng": -111.8
+    },
+    {
+      "cityName": "Slave Lake",
+      "lat": 55.283333,
+      "lng": -114.783333
+    },
+    {
+      "cityName": "Smoky Lake",
+      "lat": 54.113056,
+      "lng": -112.473611
+    },
+    {
+      "cityName": "Snug Cove",
+      "lat": 54.639444,
+      "lng": -111.346389
+    },
+    {
+      "cityName": "Spedden",
+      "lat": 54.141944,
+      "lng": -111.727778
+    },
+    {
+      "cityName": "Spirit River",
+      "lat": 55.783333,
+      "lng": -118.833333
+    },
+    {
+      "cityName": "Spondin",
+      "lat": 51.85,
+      "lng": -111.616667
+    },
+    {
+      "cityName": "Springburn",
+      "lat": 55.933333,
+      "lng": -116.916667
+    },
+    {
+      "cityName": "Sprucefield",
+      "lat": 54.181667,
+      "lng": -112.800556
+    },
+    {
+      "cityName": "Spruce Grove",
+      "lat": 53.533333,
+      "lng": -113.916667
+    },
+    {
+      "cityName": "Spruce Valley",
+      "lat": 54.864167,
+      "lng": -112.8025
+    },
+    {
+      "cityName": "Spurfield",
+      "lat": 55.233333,
+      "lng": -114.266667
+    },
+    {
+      "cityName": "Standard",
+      "lat": 51.116667,
+      "lng": -112.983333
+    },
+    {
+      "cityName": "Stanmore",
+      "lat": 51.583333,
+      "lng": -111.516667
+    },
+    {
+      "cityName": "Stettler",
+      "lat": 52.333333,
+      "lng": -112.683333
+    },
+    {
+      "cityName": "Stirling",
+      "lat": 49.516667,
+      "lng": -112.516667
+    },
+    {
+      "cityName": "Stony Plain",
+      "lat": 53.533333,
+      "lng": -114
+    },
+    {
+      "cityName": "Strathcona",
+      "lat": 53.583333,
+      "lng": -113.166667
+    },
+    {
+      "cityName": "Strathmore",
+      "lat": 51.04,
+      "lng": -113.42
+    },
+    {
+      "cityName": "Stry",
+      "lat": 54.036944,
+      "lng": -111.86
+    },
+    {
+      "cityName": "Suffield",
+      "lat": 50.216667,
+      "lng": -111.166667
+    },
+    {
+      "cityName": "Sugden",
+      "lat": 54.356667,
+      "lng": -111.576944
+    },
+    {
+      "cityName": "Sunnybrook",
+      "lat": 53.2,
+      "lng": -114.183333
+    },
+    {
+      "cityName": "Sunnynook",
+      "lat": 51.283333,
+      "lng": -111.666667
+    },
+    {
+      "cityName": "Sunnyslope",
+      "lat": 51.65,
+      "lng": -113.55
+    },
+    {
+      "cityName": "Sylvan Lake",
+      "lat": 52.3,
+      "lng": -114.083333
+    },
+    {
+      "cityName": "Taber",
+      "lat": 49.783333,
+      "lng": -112.15
+    },
+    {
+      "cityName": "Tangent",
+      "lat": 55.8,
+      "lng": -117.683333
+    },
+    {
+      "cityName": "Tawatinaw",
+      "lat": 54.3,
+      "lng": -113.483333
+    },
+    {
+      "cityName": "Therien",
+      "lat": 54.240556,
+      "lng": -111.255833
+    },
+    {
+      "cityName": "Thorhild",
+      "lat": 54.15,
+      "lng": -113.116667
+    },
+    {
+      "cityName": "Three Creeks",
+      "lat": 56.366667,
+      "lng": -117.066667
+    },
+    {
+      "cityName": "Three Hills",
+      "lat": 51.7,
+      "lng": -113.266667
+    },
+    {
+      "cityName": "Tilley",
+      "lat": 50.45,
+      "lng": -111.65
+    },
+    {
+      "cityName": "Tofield",
+      "lat": 53.366667,
+      "lng": -112.666667
+    },
+    {
+      "cityName": "Torrington",
+      "lat": 51.8,
+      "lng": -113.6
+    },
+    {
+      "cityName": "Trochu",
+      "lat": 51.833333,
+      "lng": -113.233333
+    },
+    {
+      "cityName": "Turin",
+      "lat": 49.966667,
+      "lng": -112.55
+    },
+    {
+      "cityName": "Turner",
+      "lat": 50.683333,
+      "lng": -114.266667
+    },
+    {
+      "cityName": "Tweedie",
+      "lat": 54.885833,
+      "lng": -111.791111
+    },
+    {
+      "cityName": "Twin Butte",
+      "lat": 46.266667,
+      "lng": -113.85
+    },
+    {
+      "cityName": "Two Hills",
+      "lat": 53.716667,
+      "lng": -111.75
+    },
+    {
+      "cityName": "Valleyview",
+      "lat": 55.066667,
+      "lng": -117.283333
+    },
+    {
+      "cityName": "Vanrena",
+      "lat": 56.05,
+      "lng": -118.516667
+    },
+    {
+      "cityName": "Vauxhall",
+      "lat": 50.066667,
+      "lng": -112.1
+    },
+    {
+      "cityName": "Vegreville",
+      "lat": 53.5,
+      "lng": -112.05
+    },
+    {
+      "cityName": "Venice",
+      "lat": 54.698056,
+      "lng": -112.147222
+    },
+    {
+      "cityName": "Vermilion",
+      "lat": 53.35,
+      "lng": -110.85
+    },
+    {
+      "cityName": "Veteran",
+      "lat": 52.016667,
+      "lng": -111.116667
+    },
+    {
+      "cityName": "Viking",
+      "lat": 53.083333,
+      "lng": -111.783333
+    },
+    {
+      "cityName": "Vilna",
+      "lat": 54.116111,
+      "lng": -111.919444
+    },
+    {
+      "cityName": "Vimy",
+      "lat": 54.066667,
+      "lng": -113.65
+    },
+    {
+      "cityName": "Vulcan",
+      "lat": 50.4,
+      "lng": -113.25
+    },
+    {
+      "cityName": "Wagner",
+      "lat": 55.35,
+      "lng": -114.983333
+    },
+    {
+      "cityName": "Wainwright",
+      "lat": 52.833333,
+      "lng": -110.866667
+    },
+    {
+      "cityName": "Walsh",
+      "lat": 49.95,
+      "lng": -110.033333
+    },
+    {
+      "cityName": "Wandering River",
+      "lat": 55.201389,
+      "lng": -112.466389
+    },
+    {
+      "cityName": "Warden",
+      "lat": 52.266667,
+      "lng": -112.733333
+    },
+    {
+      "cityName": "Wardlow",
+      "lat": 50.9,
+      "lng": -111.55
+    },
+    {
+      "cityName": "Warner",
+      "lat": 49.283333,
+      "lng": -112.2
+    },
+    {
+      "cityName": "Warspite",
+      "lat": 54.093333,
+      "lng": -112.618611
+    },
+    {
+      "cityName": "Waskatenau",
+      "lat": 54.093056,
+      "lng": -112.786667
+    },
+    {
+      "cityName": "Waterton Park",
+      "lat": 49.05,
+      "lng": -113.916667
+    },
+    {
+      "cityName": "Waterways",
+      "lat": 56.7,
+      "lng": -111.316667
+    },
+    {
+      "cityName": "Watino",
+      "lat": 55.716667,
+      "lng": -117.616667
+    },
+    {
+      "cityName": "Weasel Creek",
+      "lat": 54.181389,
+      "lng": -112.927222
+    },
+    {
+      "cityName": "Weberville",
+      "lat": 56.3,
+      "lng": -117.333333
+    },
+    {
+      "cityName": "Webster",
+      "lat": 55.433333,
+      "lng": -118.7
+    },
+    {
+      "cityName": "Wembley",
+      "lat": 55.15,
+      "lng": -119.15
+    },
+    {
+      "cityName": "Wesley Creek",
+      "lat": 56.25,
+      "lng": -117.15
+    },
+    {
+      "cityName": "Westlock",
+      "lat": 54.15,
+      "lng": -113.866667
+    },
+    {
+      "cityName": "Wetaskiwin",
+      "lat": 52.966667,
+      "lng": -113.383333
+    },
+    {
+      "cityName": "Whiskey Gap",
+      "lat": 49.033333,
+      "lng": -113.033333
+    },
+    {
+      "cityName": "Whitecourt",
+      "lat": 54.133333,
+      "lng": -115.683333
+    },
+    {
+      "cityName": "Whitelaw",
+      "lat": 56.1,
+      "lng": -118.083333
+    },
+    {
+      "cityName": "Whitla",
+      "lat": 49.883333,
+      "lng": -111.05
+    },
+    {
+      "cityName": "Wildwood",
+      "lat": 53.616667,
+      "lng": -115.25
+    },
+    {
+      "cityName": "Willingdon",
+      "lat": 53.833333,
+      "lng": -112.116667
+    },
+    {
+      "cityName": "Wimborne",
+      "lat": 51.866667,
+      "lng": -113.6
     },
     {
       "cityName": "Winfield",
-      "lat": 50.02,
-      "lng": -119.41
+      "lat": 52.966667,
+      "lng": -114.433333
     },
     {
-      "cityName": "Winter Harbour",
-      "lat": 50.516667,
-      "lng": -128.033333
+      "cityName": "Woking",
+      "lat": 55.6,
+      "lng": -118.766667
     },
     {
-      "cityName": "Wistaria",
-      "lat": 53.833333,
-      "lng": -126.283333
+      "cityName": "Worsley",
+      "lat": 56.516667,
+      "lng": -119.066667
     },
     {
-      "cityName": "Woodcock",
-      "lat": 55.066667,
-      "lng": -128.2
+      "cityName": "Wrentham",
+      "lat": 49.516667,
+      "lng": -112.183333
     },
     {
-      "cityName": "Woodpecker",
-      "lat": 53.516667,
-      "lng": -122.633333
-    },
-    {
-      "cityName": "Wright",
-      "lat": 51.866667,
-      "lng": -121.666667
-    },
-    {
-      "cityName": "Wyatt Bay",
-      "lat": 50.3,
-      "lng": -125.2
-    },
-    {
-      "cityName": "Yahk",
-      "lat": 49.083333,
-      "lng": -116.1
-    },
-    {
-      "cityName": "Yale",
-      "lat": 49.566667,
-      "lng": -121.433333
-    },
-    {
-      "cityName": "Youbou",
-      "lat": 48.883333,
-      "lng": -124.2
-    },
-    {
-      "cityName": "Zeballos",
-      "lat": 49.983333,
-      "lng": -126.85
+      "cityName": "Youngstown",
+      "lat": 51.533333,
+      "lng": -111.2
     }
   ]
 }
