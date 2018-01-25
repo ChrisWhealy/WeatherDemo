@@ -32,8 +32,7 @@ object Utils {
     "lat"    -> ""
    ,"lon"    -> ""
    ,"mode"   -> "json"
-//   ,"apikey" -> "<Paste your API Key value here>"
-   ,"apikey" -> "9ff16c79edd6ad12396c22ed8a7996ec"
+   ,"apikey" -> "<Paste your API Key value here>"
   )
 
   private var mbQueryParams = scala.collection.mutable.Map[String,String](
@@ -157,8 +156,10 @@ object Utils {
     weatherEndpoint + queryStr
   }
 
-  def getUrlForCountryIso(iso2: String):        String = s"./country_data/${iso2.toLowerCase}/${iso2.toLowerCase}.json"
-  def getUrlForRegion(iso2: String, r: String): String = s"./country_data/${iso2.toLowerCase}/region_$r.json"
+  private val country_path = "./country_data"
+
+  def getUrlForCountryIso(iso2: String):        String = s"$country_path/${iso2.toLowerCase}/${iso2.toLowerCase}.json"
+  def getUrlForRegion(iso2: String, r: String): String = s"$country_path/${iso2.toLowerCase}/region_$r.json"
 }
 
 /***********************************************************************************************************************
