@@ -157,8 +157,8 @@ object Utils {
     weatherEndpoint + queryStr
   }
 
-  def getUrlForCountryIso(iso2: String):        String = s"./country_data/${iso2}/${iso2}.json"
-  def getUrlForRegion(iso2: String, r: String): String = s"./country_data/${iso2}/region_$r.json"
+  def getUrlForCountryIso(iso2: String):        String = s"./country_data/${iso2.toLowerCase}/${iso2.toLowerCase}.json"
+  def getUrlForRegion(iso2: String, r: String): String = s"./country_data/${iso2.toLowerCase}/region_$r.json"
 }
 
 /***********************************************************************************************************************
