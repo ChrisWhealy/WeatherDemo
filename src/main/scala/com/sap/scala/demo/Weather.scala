@@ -10,7 +10,7 @@ import scala.scalajs.js.annotation.{JSExport, JSExportTopLevel}
 @JSExportTopLevel("Weather")
 object Weather {
   private val objName     = "Weather"
-  private val traceActive = false
+  private val traceActive = true
   private val trace       = Trace.flow(traceActive)(objName)(_: String)(_: scala.Option[Boolean])
   private val traceInfo   = Trace.flowInfo(traceActive)(objName)(_: String)(_: String)
 
@@ -24,9 +24,12 @@ object Weather {
     * Invoked from JavaScript in index.html
     */
   @JSExport
-  def main(browserName: String): Unit = {
+  def main(browserName: String, owmApiKey: String): Unit = {
     val fnName = "main"
     trace(fnName, enter)
+
+    // The Open Weather Map API key must be supplied as the 2nd parameter to Weather.main() from the HTML page
+    Utils.setOwmApiKey(owmApiKey)
 
     try   { dramatisPersonae(browserName) }
     catch { case th: Throwable => th.printStackTrace() }
@@ -49,7 +52,7 @@ object Weather {
 
     // Has the user updated the source code with their own OpenWeatherMap API Key?
     if (Utils.owmApiKeyInstalled) {
-      traceInfo(fnName,"API Key test passed")
+      traceInfo(fnName, s"API Key test passed: ${Utils.getOwmApiKey}")
 
       // Yup, so create actors for handling map events, JSON requests and building weather reports
       StageManager.mapActor           = system.actorOf(Props(new MapActor()),           MessageBox.actor_map)
@@ -79,7 +82,7 @@ object Weather {
     }
     else {
       // Nope, the Open Weather Map API key is missing, so this app will remain non-functional
-      traceInfo(fnName,"API Key test failed")
+      traceInfo(fnName, s"API Key test failed: ${Utils.getOwmApiKey}")
       DOMUtils.apiKeyMissing
     }
 

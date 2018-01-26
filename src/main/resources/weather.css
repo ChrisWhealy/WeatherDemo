@@ -95,7 +95,7 @@ input, option {
 
   color: #404040;
 
-  font-size: 1.25em;
+  font-size: 1em;
   font-weight: 400;
 
   text-decoration: none;
@@ -103,8 +103,8 @@ input, option {
 }
 
 #world_map {
-  width: 720px;
-  height: 360px;
+  width: 960px;
+  height: 512px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -118,7 +118,7 @@ input, option {
 
 
 #weather_info_div {
-  width: 720px;
+  width: 960px;
 
   margin-top: 1em;
   margin-left: auto;

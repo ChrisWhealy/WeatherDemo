@@ -1,7 +1,6 @@
 package com.sap.scala.demo
 
 import akka.actor.ActorRef
-import com.felstar.scalajs.leaflet
 import com.felstar.scalajs.leaflet.L
 import org.scalajs.dom
 
@@ -28,11 +27,11 @@ object Utils {
 
   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
   // OpenWeatherMap query string parameters
-  private var owmQueryParams = scala.collection.mutable.Map[String,String](
+  private lazy val owmQueryParams = scala.collection.mutable.Map[String,String](
     "lat"    -> ""
    ,"lon"    -> ""
    ,"mode"   -> "json"
-   ,"apikey" -> "<Paste your API Key value here>"
+   ,"apikey" -> "<Add your API Key here>"
   )
 
   private var mbQueryParams = scala.collection.mutable.Map[String,String](
@@ -54,6 +53,10 @@ object Utils {
   /*********************************************************************************************************************
     * Public API
     */
+
+  // Getter/setter method for OWM API Key
+  def getOwmApiKey(): String          = owmQueryParams.get("apikey").get
+  def setOwmApiKey(key: String): Unit = owmQueryParams.update("apikey", key)
 
   // Has the user updated the source code with their own OpenWeatherMap API Key?
   // If not, this app cannot obtain weather forecast information
