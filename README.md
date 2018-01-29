@@ -31,7 +31,7 @@ Weather.main(browser_name, "9f216739eda6ad5239fc221d8a0996cd")
 
 ## Assumption
 
-The use of this app assumes you already have a Cloud Foundry account on at least the SAP Trial landscape.  If this is not the case, please first create an account as per the [instructions here](https://help.sap.com/doc/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/7da580474d654d96ad4d4fc05c778a18.html#loio7da580474d654d96ad4d4fc05c778a18).
+The instructions below assume you already have a Cloud Foundry account on at least the SAP Trial landscape.  If this is not the case, please first create an account as per the [instructions here](https://help.sap.com/doc/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/7da580474d654d96ad4d4fc05c778a18.html#loio7da580474d654d96ad4d4fc05c778a18).
 
 ## Delivery
 
