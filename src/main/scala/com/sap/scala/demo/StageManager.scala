@@ -10,6 +10,12 @@ object StageManager {
   // Map reference
   var mapRef: LMap = null
 
+  // The type of browser we're running in determines how the UI behaves.
+  // If we're running in Chrome, Firefox, or Edge (I.E. the actors are playing in a posh theatre), then the <datalist>
+  // element is supported, and the country/region/city information will be displayed in filterable dropdown lists.
+  // If however, the actors are playiong in the village hall (Safari or iOS), then the <datalist> element is not
+  // supported and the user must click on an area of the map to obtain the weather report
+
   // We start by assuming we're playing in a posh theatre, not the village hall
   var showCountryRegionCity: Boolean = true
 

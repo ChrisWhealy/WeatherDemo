@@ -30,6 +30,9 @@ object MessageBox {
   val weatherReportDiv   = "weather_info_div"
   val weatherReportTable = "weather_info_table"
 
+  val itemCountWarning = "item_count_warning"
+
+
   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
   // Actor names
   val actor_country_list   = "country_list_actor"

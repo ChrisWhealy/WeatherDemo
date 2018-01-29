@@ -70,36 +70,16 @@ h1 {
 input, option {
   margin: 0.5em 0.5em 0.5em 0em;
 
-  border-top: 1px solid #404040;
-
-  background: #c0c0c0;
-  background: -webkit-gradient(linear, left top, left bottom, from(#c0c0c0), to(#f0f0f0));
-
-  background: -webkit-linear-gradient(top, #c0c0c0, #f0f0f0);
-  background:    -moz-linear-gradient(top, #c0c0c0, #f0f0f0);
-  background:     -ms-linear-gradient(top, #c0c0c0, #f0f0f0);
-  background:      -o-linear-gradient(top, #c0c0c0, #f0f0f0);
+  border-bottom: 1px solid #404040;
 
   padding: 0.33em;
 
-  -webkit-border-radius: 0.33em;
-  -moz-border-radius: 0.33em;
-
-  border-radius: 0.33em;
-
-  -webkit-box-shadow: rgba(0, 0, 0, 1) 0 3px 0;
-     -moz-box-shadow: rgba(0, 0, 0, 1) 0 3px 0;
-
-  box-shadow:  rgba(0, 0, 0, .4) 0 3px 0;
-  text-shadow: rgba(0, 0, 0, .4) 0 1px 0;
-
-  color: #404040;
-
   font-size: 1em;
   font-weight: 400;
+}
 
-  text-decoration: none;
-  vertical-align: middle;
+#item_count_warning {
+  padding: 0.5em
 }
 
 #world_map {

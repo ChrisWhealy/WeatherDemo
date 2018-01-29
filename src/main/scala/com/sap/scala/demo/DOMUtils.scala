@@ -255,11 +255,18 @@ object DOMUtils {
 
     // If the country has only one city, then don't bother adding a placeholder option.
     // Make the only city the selected option
-    if (cities.size > 1)
+    if (cities.size > 1) {
       cities.map {
         city: City => cityDataList.appendChild(
           createDataListOption(city.name, Seq(("lat", city.lat.toString), ("lng", city.lng.toString)))
         )
+      }
+
+      // If the city list contains more than 512 entries, switch on warning about 512 item display limit
+      if (cities.size > 512)
+        showElement(MessageBox.itemCountWarning)
+      else
+        hideElement(MessageBox.itemCountWarning)
       }
     else {
       var opt = createDataListOption(

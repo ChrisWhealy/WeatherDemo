@@ -100,5 +100,6 @@ class CityListActor extends Actor {
 
       DOMUtils.deleteChild(MessageBox.cityListDiv, MessageBox.cityInput)
       DOMUtils.deleteChild(MessageBox.cityListDiv, MessageBox.cityDataList)
+      DOMUtils.hideElement(MessageBox.itemCountWarning)
   }
 }
