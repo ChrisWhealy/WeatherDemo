@@ -11,7 +11,23 @@ This Scala app is designed to demonstrate two things:
 
 Before describing how you can implement this app, you ***must*** first register with [Open Weather Map](http://openweathermap.org) in order to obtain an [API Key](http://openweathermap.org/appid).
 
-You must then edit the `index.html` page of this app and insert your API Key.  Without this API Key, this app will be unable to obtain any weather information.
+You must then edit the file `index.html` and insert your API Key as the second parameter to the JavaScript function `Weather.mail()` on line 54.  Without this API Key, this app will be unable to obtain any weather information.
+
+Replace the string `"Please supply..."` with your actual API Key:
+
+```javascript
+// Start the user interface
+Weather.main(browser_name, "Please supply your Open Weather Map API Key as the 2nd parameter to Weather.main()")
+
+```
+
+When you're finished, it will look something like this (this is not a genuine API Key BTW!):
+
+```javascript
+// Start the user interface
+Weather.main(browser_name, "9f216739eda6ad5239fc221d8a0996cd")
+```
+
 
 ## Assumption
 
@@ -41,11 +57,11 @@ Download the file `cf-weather-report.zip`, unzip it into some local directory, t
 
 ## Deployment to Cloud Foundry
 
-1. Edit `manifest.yml` and change the name of the app to include your userid.  E.G. `<my_userid>-weather-report`
-1. After saving your changes to `manifest.yml`, open a command prompt and change into the directory containing this file.
+1. Edit `manifest.yml` and change the name of the app to include your userid.  E.G. `- name:      <my_userid>-weather-report`
+1. After saving your changes to the `manifest.yml` file, open a command prompt and change into the directory containing this file.
 1. If you have not already done so, set your Cloud Foundry API endpoint. For instance, if you have an account on the European (Frankfurt) server, then use the command:
     `cf api https://cfapps.eu10.hana.ondemand.com`
-1. Logon on to Cloud Foundry with `cf login`
+1. Log in to Cloud Foundry with `cf login`
 1. Push the application to your Cloud Foundry account using `cf push`.  If the push fails, check in the `manifest.yml` file that you have given the application a globally unique name.
 
 
