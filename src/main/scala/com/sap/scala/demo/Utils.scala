@@ -1,7 +1,6 @@
 package com.sap.scala.demo
 
 import akka.actor.ActorRef
-import com.felstar.scalajs.leaflet.L
 import org.scalajs.dom
 
 import scala.scalajs.js
@@ -165,24 +164,5 @@ object Utils {
   def getUrlForRegion(iso2: String, r: String): String = s"$country_path/${iso2.toLowerCase}/region_$r.json"
 }
 
-/***********************************************************************************************************************
-  *  Classes for handling geographic information
-  */
-class GeoBox(geoBox: js.Dynamic) {
-  val north = geoBox.North.asInstanceOf[Double]
-  val south = geoBox.South.asInstanceOf[Double]
-  val east  = geoBox.East.asInstanceOf[Double]
-  val west  = geoBox.West.asInstanceOf[Double]
 
-  val centre = (north - (north - south)/2, east - (east - west)/2)
-  val center = centre
-
-  val bounds = L.latLngBounds(L.latLng(north, east), L.latLng(south, west))
-}
-
-class City(cityInfo: js.Dynamic) {
-  val name = cityInfo.cityName.asInstanceOf[String].replaceAll("^\"|\"$", "")
-  val lat  = cityInfo.lat.asInstanceOf[Double]
-  val lng  = cityInfo.lng.asInstanceOf[Double]
-}
 

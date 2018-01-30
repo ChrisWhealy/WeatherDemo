@@ -4,8 +4,6 @@ import akka.actor.Actor
 import org.scalajs.dom.html.Div
 import com.sap.scala.demo._
 
-import scala.scalajs.js
-
 /***********************************************************************************************************************
   * Actor to handle building weather reports
   */

@@ -1,7 +1,6 @@
 package com.sap.scala.demo
 
 import akka.actor.ActorRef
-import com.felstar.scalajs.leaflet._
 import scala.scalajs.js
 
 /***********************************************************************************************************************

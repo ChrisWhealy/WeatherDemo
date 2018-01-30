@@ -79,11 +79,12 @@ class CityListActor extends Actor {
         // Immediately display the weather information for the only city in this region
         val city = new City(countryInfo.cities.asInstanceOf[js.Array[js.Dynamic]].head)
 
-        traceInfo(s"${StageManager.thisCity} is the only city in region ${StageManager.thisRegion}")
-
         // Reposition map on the city and request the weather information
         StageManager.thisCity = city.name
-        StageManager.mapActor ! MessageBox.RepositionMapMsg(city.lat.toString, city.lng.toString)
+
+        traceInfo(s"${StageManager.thisCity} is the only city in region ${StageManager.thisRegion}")
+
+        StageManager.mapActor        ! MessageBox.RepositionMapMsg(city.lat.toString, city.lng.toString)
         StageManager.fetchJsonActor  ! MessageBox.FetchJsonMsg(
           StageManager.weatherReportActor, Utils.getOwmUrlForLatLng(city.lat, city.lng)
         )

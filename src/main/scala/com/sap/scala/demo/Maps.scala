@@ -29,6 +29,7 @@ object Maps {
     "access_token" -> "pk.eyJ1IjoiZmFuY2VsbHUiLCJhIjoiY2oxMHRzZm5zMDAyMDMycndyaTZyYnp6NSJ9.AJ3owakJtFAJaaRuYB7Ukw"
   )
 
+
   /*********************************************************************************************************************
     * Map "click" event handler
     */
@@ -36,15 +37,15 @@ object Maps {
     // Are we playing in a posh theatre?
     if (!StageManager.showCountryRegionCity) {
       // Nope, we're in the village hall
-      traceInfo("worldMap", s"Fetching weather information for location (${evt.latlng.lat},${evt.latlng.lng})")
-
       StageManager.thisLat = evt.latlng.lat.toString
-      StageManager.thisLng = evt.latlng.lng.toString
+      StageManager.thisLng = (evt.latlng.lng % 180).toString
+
+      traceInfo("worldMap", s"Fetching weather information for location (${StageManager.thisLat},${StageManager.thisLng})")
 
       // Clear any existing weather report and fetch the weather information for the selected location
       StageManager.weatherReportActor ! MessageBox.ClearList
       StageManager.fetchJsonActor     ! MessageBox.FetchJsonMsg(
-        StageManager.weatherReportActor, Utils.getOwmUrlForLatLng(evt.latlng.lat, evt.latlng.lng)
+        StageManager.weatherReportActor, Utils.getOwmUrlForLatLng(StageManager.thisLat, StageManager.thisLng)
       )
     }
   }

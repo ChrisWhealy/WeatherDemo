@@ -10,7 +10,7 @@ import scala.scalajs.js.annotation.{JSExport, JSExportTopLevel}
 @JSExportTopLevel("Weather")
 object Weather {
   private val objName     = "Weather"
-  private val traceActive = true
+  private val traceActive = false
   private val trace       = Trace.flow(traceActive)(objName)(_: String)(_: scala.Option[Boolean])
   private val traceInfo   = Trace.flowInfo(traceActive)(objName)(_: String)(_: String)
 

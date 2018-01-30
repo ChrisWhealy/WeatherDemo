@@ -4,7 +4,6 @@ import akka.actor.{Actor, ActorRef}
 import org.scalajs.dom.Event
 import org.scalajs.dom.html.{DataList, Input}
 import com.sap.scala.demo._
-import org.scalajs.dom
 
 /***********************************************************************************************************************
   * Actor to handle the input field and associated datalist of countries
