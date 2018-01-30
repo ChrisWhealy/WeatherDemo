@@ -41,27 +41,31 @@ This app has been packaged for delivery in two distinct ways:
 
 For those people who are already experienced Scala developers, the source code for the entire IntelliJ project is contained within this repo.
 
-Clone this repo onto your local machine and build using either `sbt fullOptJS` or `sbt fastOptJS`.
+Clone this repo onto your local machine and build using either:
 
-For development purposes, this app uses the ScalaJS add-on called [Workbench](https://github.com/lihaoyi/workbench); therefore, if you wish to run this app locally, build it using `sbt ~fastOptJS` and point your browser to the [local webpage](http://localhost:12345/target/scala-2.12/classes/index-dev.html)
+1. `sbt fullOptJS` then launch using `index.html`
+1. `sbt fastOptJS` then launch using `index-dev.html`
 
+For development purposes, this app uses the ScalaJS add-on [Workbench](https://github.com/lihaoyi/workbench); therefore, if you wish to run this app locally, build it using `sbt ~fastOptJS` and point your browser to the [local webpage](http://localhost:12345/target/scala-2.12/classes/index-dev.html)
+
+If you wish to see the runtime trace/debug information, then within each class or object there is a Boolean variable called `traceActive`.  Change this to `true`, recompile the app and you will then see that class or object's runtime output in the browser console.
 
 
 ### 2. For those with no Scala development experience
 
 For those who have no Scala development experience, a compiled version of the project is available as a ZIP file that, once unzipped, can be deployed to Cloud Foundry using `cf push`.
 
-Download the file `cf-weather-report.zip`, unzip it into some local directory, then follow the instructions for deploying to Cloud Foundry.
+Download the file `cf-weather-report.zip`, unzip it into some local directory, then follow the instructions for deployment to Cloud Foundry.
 
 
 
 ## Deployment to Cloud Foundry
 
 1. Edit `manifest.yml` and change the name of the app to include your userid.  E.G. `- name:      <my_userid>-weather-report`
-1. After saving your changes to the `manifest.yml` file, open a command prompt and change into the directory containing this file.
+1. After saving your changes, open a command prompt and change into the directory containing `manifest.yml`.
 1. If you have not already done so, set your Cloud Foundry API endpoint. For instance, if you have an account on the European (Frankfurt) server, then use the command:
     `cf api https://cfapps.eu10.hana.ondemand.com`
-1. Log in to Cloud Foundry with `cf login`
+1. Log in to Cloud Foundry with `cf login` and supply your credentials
 1. Push the application to your Cloud Foundry account using `cf push`.  If the push fails, check in the `manifest.yml` file that you have given the application a globally unique name.
 
 
