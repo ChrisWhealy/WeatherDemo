@@ -1,5 +1,7 @@
 # Demo Weather Report App
 
+![Landing page](./documentation/screen_shot.png "Weather report landing page")
+
 ## Purpose of this app
 This Scala app is designed to demonstrate two things:
 
